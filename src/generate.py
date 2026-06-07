@@ -44,8 +44,8 @@ def find_available_date(start_date: str, max_lookback: int = 7) -> str:
         url = f'https://transcripts.cnn.com/show/ctmo/date/{candidate}/segment/01'
         print(f'  检查：{url}')
         try:
-            r = requests.head(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=10)
-            if r.status_code == 200:
+            r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
+            if r.status_code == 200 and len(r.text) > 500:
                 print(f'  ✓ 找到有效日期：{candidate}')
                 return candidate
             print(f'  {candidate} 返回 {r.status_code}')
