@@ -1,9 +1,9 @@
 """
-src/generate.py  v3
-修复：CNN文稿特殊字符导致 JSON 解析失败
-- 清理输入文稿中的 curly quotes / em-dash / 控制字符
-- 多层 JSON 解析容错（提取最长JSON块 / 逐字段修复）
-- 周末自动回退到最近工作日
+src/generate.py  v4
+新增：
+- 保存完整原始文稿到 JSON（full_transcript 字段）
+- 词汇标注包含 excerpt（原文片段）用于前端高亮匹配
+- 周末自动回退 / HEAD→GET 修复 / JSON 多层容错
 """
 
 import os, re, json, requests, sys
@@ -25,8 +25,8 @@ def get_target_date() -> str:
         return d
     today = datetime.now(CST)
     wd = today.weekday()
-    if wd == 5:   today -= timedelta(days=1)   # 周六→周五
-    elif wd == 6: today -= timedelta(days=2)   # 周日→周五
+    if wd == 5:   today -= timedelta(days=1)
+    elif wd == 6: today -= timedelta(days=2)
     result = today.strftime('%Y-%m-%d')
     if wd >= 5:
         print(f'  今天是周末，自动使用最近工作日：{result}')
@@ -56,23 +56,21 @@ def find_available_date(start_date: str, max_lookback: int = 7) -> str:
 
 # ── 文稿抓取 & 清理 ───────────────────────────────────────────
 def sanitize(text: str) -> str:
-    """清理可能破坏 JSON 的特殊字符"""
-    # curly quotes → straight quotes
     text = text.replace('\u2018', "'").replace('\u2019', "'")
     text = text.replace('\u201c', '"').replace('\u201d', '"')
-    # dashes
     text = text.replace('\u2014', ' -- ').replace('\u2013', '-')
-    # non-breaking space, soft hyphen
     text = text.replace('\u00a0', ' ').replace('\u00ad', '')
-    # 控制字符（保留 \t \n）
     text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', text)
-    # 连续空白压缩
     text = re.sub(r' {3,}', '  ', text)
     return text.strip()
 
 
-def fetch_transcript(date_str: str) -> str:
-    combined = []
+def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
+    """
+    返回 (合并后全文, 各segment原始段落列表)
+    segments 格式: [{"seg": 1, "url": "...", "text": "..."}]
+    """
+    segments_data = []
     for seg in [1, 2, 3]:
         url = f'https://transcripts.cnn.com/show/ctmo/date/{date_str}/segment/{seg:02d}'
         print(f'  Fetching: {url}')
@@ -83,183 +81,187 @@ def fetch_transcript(date_str: str) -> str:
                 continue
             r.raise_for_status()
             body = r.text
+
+            # 提取说话人段落：格式通常是 SPEAKER NAME: text
+            # 先提取纯文本
             section = re.search(r'<div[^>]+cnnTranscript[^>]*>(.*?)</div>', body, re.S)
-            text = section.group(1) if section else body
-            text = re.sub(r'<[^>]+>', ' ', text)
-            text = re.sub(r'&nbsp;', ' ', text)
-            text = re.sub(r'&amp;', '&', text)
-            text = re.sub(r'&lt;', '<', text)
-            text = re.sub(r'&gt;', '>', text)
-            text = re.sub(r'\s+', ' ', text).strip()
-            text = sanitize(text)
-            if len(text) > 300:
-                combined.append(text)
-                print(f'  Segment {seg}: OK（{len(text)} 字符）')
+            raw = section.group(1) if section else body
+            raw = re.sub(r'<[^>]+>', ' ', raw)
+            raw = re.sub(r'&nbsp;', ' ', raw)
+            raw = re.sub(r'&amp;', '&', raw)
+            raw = re.sub(r'&lt;', '<', raw)
+            raw = re.sub(r'&gt;', '>', raw)
+            raw = re.sub(r'\s+', ' ', raw).strip()
+            raw = sanitize(raw)
+
+            if len(raw) > 300:
+                segments_data.append({'seg': seg, 'url': url, 'text': raw})
+                print(f'  Segment {seg}: OK（{len(raw)} 字符）')
             else:
                 print(f'  Segment {seg}: 内容过短，跳过')
         except Exception as e:
             print(f'  Segment {seg} 错误：{e}')
 
-    if not combined:
-        return ''
-    return sanitize('\n\n'.join(combined))[:9000]
+    if not segments_data:
+        return '', []
+
+    full = sanitize('\n\n'.join(s['text'] for s in segments_data))
+    return full[:9000], segments_data
+
+
+def extract_paragraphs(segments_data: list[dict]) -> list[dict]:
+    """
+    把文稿拆成段落列表，识别说话人标签
+    格式: [{"speaker": "ANCHOR", "text": "..."}]
+    """
+    paragraphs = []
+    # CNN 文稿格式：SPEAKER NAME (AFFILIATION): text 或 全大写开头
+    speaker_re = re.compile(r'^([A-Z][A-Z\s\.\-]{2,40}):\s*(.+)', re.S)
+
+    for seg in segments_data:
+        # 按句号+空格或换行分段
+        raw = seg['text']
+        # 先按换行分
+        chunks = re.split(r'\n{1,}', raw)
+        current_speaker = 'ANCHOR'
+        for chunk in chunks:
+            chunk = chunk.strip()
+            if not chunk:
+                continue
+            m = speaker_re.match(chunk)
+            if m:
+                current_speaker = m.group(1).strip()
+                text = m.group(2).strip()
+            else:
+                text = chunk
+            if text:
+                # 长段拆成≤400字的小段
+                while len(text) > 400:
+                    cut = text[:400].rfind('. ')
+                    if cut < 100:
+                        cut = 400
+                    else:
+                        cut += 1
+                    paragraphs.append({'speaker': current_speaker, 'text': text[:cut].strip()})
+                    text = text[cut:].strip()
+                if text:
+                    paragraphs.append({'speaker': current_speaker, 'text': text})
+
+    return paragraphs
 
 
 # ── JSON 解析容错 ─────────────────────────────────────────────
 def parse_json_robust(raw: str) -> dict:
-    """
-    多层容错解析 DeepSeek 返回的 JSON：
-    1. 直接解析
-    2. 去掉 markdown 代码块后解析
-    3. 提取最长的 { } 块解析
-    4. 都失败则抛出详细错误
-    """
-    # 第1层：直接解析
-    try:
-        return json.loads(raw)
-    except json.JSONDecodeError:
-        pass
+    for attempt in [
+        lambda s: json.loads(s),
+        lambda s: json.loads(re.sub(r'^```(?:json)?\s*|\s*```$', '', s.strip(), flags=re.MULTILINE).strip()),
+    ]:
+        try:
+            return attempt(raw)
+        except (json.JSONDecodeError, Exception):
+            pass
 
-    # 第2层：去掉 ```json ... ``` 包裹
-    clean = re.sub(r'^```(?:json)?\s*', '', raw.strip(), flags=re.MULTILINE)
-    clean = re.sub(r'\s*```$', '', clean.strip(), flags=re.MULTILINE)
-    clean = clean.strip()
-    try:
-        return json.loads(clean)
-    except json.JSONDecodeError:
-        pass
-
-    # 第3层：提取第一个 { 到最后一个 } 的内容
-    start = clean.find('{')
-    end   = clean.rfind('}')
-    if start != -1 and end != -1 and end > start:
-        chunk = clean[start:end+1]
+    start = raw.find('{')
+    end   = raw.rfind('}')
+    if start != -1 and end > start:
+        chunk = raw[start:end+1]
         try:
             return json.loads(chunk)
         except json.JSONDecodeError as e:
-            # 第4层：打印出错位置帮助调试，然后尝试 repair
-            print(f'  JSON 解析仍失败，错误位置：line {e.lineno} col {e.colno} (char {e.pos})')
-            context_start = max(0, e.pos - 80)
-            context_end   = min(len(chunk), e.pos + 80)
-            print(f'  出错上下文：...{repr(chunk[context_start:context_end])}...')
+            print(f'  JSON错误 line {e.lineno} col {e.colno}：{repr(raw[max(0,e.pos-60):e.pos+60])}')
+            ob = chunk.count('{') - chunk.count('}')
+            ob2 = chunk.count('[') - chunk.count(']')
+            repaired = chunk + (']' * max(0, ob2)) + ('}' * max(0, ob))
+            try:
+                return json.loads(repaired)
+            except Exception:
+                pass
 
-            # 第5层：尝试修复常见问题——末尾截断时补上 ]}}
-            repaired = chunk
-            if not repaired.endswith('}}'):
-                # 数漏掉的括号
-                open_braces   = repaired.count('{') - repaired.count('}')
-                open_brackets = repaired.count('[') - repaired.count(']')
-                if open_brackets > 0:
-                    repaired += ']' * open_brackets
-                if open_braces > 0:
-                    repaired += '}' * open_braces
-                try:
-                    return json.loads(repaired)
-                except json.JSONDecodeError:
-                    pass
-
-    raise ValueError(
-        f'DeepSeek 返回的 JSON 无法解析。\n'
-        f'原始内容前300字：\n{raw[:300]}'
-    )
+    raise ValueError(f'JSON 解析失败，原始内容前200字：\n{raw[:200]}')
 
 
 # ── Prompt ────────────────────────────────────────────────────
-SYSTEM = """你是专业的英语精读教学助手，专注于新闻英语教学。
-输出面向考研六级以上学习者。
-【重要】JSON字符串值中不能包含未转义的双引号，必须用 \\\" 转义。
-必须输出合法JSON，不使用Markdown代码块，不输出任何其他内容。"""
+SYSTEM = """你是专业英语精读教学助手，专注新闻英语。
+目标学习者：考研六级以上。
+输出规则：
+1. 必须输出合法JSON，不使用Markdown代码块
+2. JSON字符串中的双引号用 \\\" 转义
+3. 例句中的双引号改为单引号"""
 
 def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
-    # 额外转义文稿中残余的双引号，防止污染 prompt
-    safe_transcript = transcript.replace('\\', '\\\\').replace('"', '\\"')
+    safe = transcript.replace('\\', '\\\\').replace('"', '\\"')
+    return f"""CNN This Morning 逐字稿（{date_str}）：
 
-    return f"""以下是CNN This Morning新闻逐字稿（{date_str}）：
+{safe}
 
-{safe_transcript}
-
-请严格按以下JSON结构输出精读学习内容，所有字符串值中的双引号必须用 \\\" 转义：
+输出以下JSON（所有字段必须存在）：
 
 {{
   "date": "{date_str}",
   "source_url": "{source_url}",
-  "summary": "约150字中文摘要，涵盖文稿中所有主要新闻话题",
-
-  "transcript_highlights": [
-    {{
-      "speaker": "ANCHOR",
-      "text": "原文重要段落逐字稿（用单引号代替双引号）",
-      "cn": "中文翻译",
-      "note": "语境说明"
-    }}
-  ],
+  "summary": "150字中文摘要，涵盖所有主要话题",
 
   "vocabulary": [
     {{
-      "word": "单词",
+      "word": "单词或短语",
       "phonetic": "/音标/",
       "pos": "词性",
       "level": "考研/六级/专四/专八/时事词汇",
-      "cn": "中文释义",
+      "cn": "中文释义（含搭配）",
       "en": "英文释义",
-      "example": "原文例句（单引号代替双引号）",
-      "example_cn": "例句中文翻译"
+      "excerpt": "包含该词的原文片段（10-20词，用于高亮定位，单引号代替双引号）",
+      "example_cn": "该片段中文翻译"
     }}
   ],
 
   "sentences": [
     {{
-      "en": "原文长难句",
-      "cn": "中文翻译",
-      "structure": "句子结构标注",
-      "analysis": "语法分析"
+      "en": "原文长难句（完整句子）",
+      "cn": "准确中文翻译",
+      "structure": "句子结构（主句/从句/插入语等）",
+      "analysis": "语法要点/习语/修辞分析"
     }}
   ],
 
   "topics": [
     {{
       "title": "话题标题",
-      "content": "约120字中文背景知识",
-      "keywords": "关键词1 · 关键词2 · 关键词3"
+      "content": "120字中文背景知识，含关键英文术语",
+      "keywords": "词1 · 词2 · 词3"
     }}
   ],
 
   "quiz": [
     {{
       "type": "vocab",
-      "question": "题目",
-      "options": ["A. 选项", "B. 选项", "C. 选项", "D. 选项"],
+      "question": "题目（含原文语境）",
+      "options": ["A. ...", "B. ...", "C. ...", "D. ..."],
       "answer": 0,
-      "explanation": "解析"
+      "explanation": "详细解析"
     }}
   ]
 }}
 
-要求：
-- transcript_highlights：4-5段关键原文，原文中的双引号改为单引号
-- vocabulary：12个考研六级以上词汇
+严格要求：
+- vocabulary：12个，excerpt字段必须是文稿中真实存在的原文片段
 - sentences：5个长难句
-- topics：4个话题背景
-- quiz：6道题（前3词汇，后3理解）"""
+- topics：4个话题
+- quiz：6道（前3词汇，后3理解）"""
 
 
 # ── 调用 DeepSeek ─────────────────────────────────────────────
 def call_deepseek(prompt: str) -> dict:
     if not DEEPSEEK_API_KEY:
-        raise RuntimeError('DEEPSEEK_API_KEY 未设置，请在 GitHub Secrets 中添加。')
-
+        raise RuntimeError('DEEPSEEK_API_KEY 未设置')
     print('  调用 DeepSeek API...')
     resp = requests.post(
         DEEPSEEK_URL,
-        headers={
-            'Authorization': f'Bearer {DEEPSEEK_API_KEY}',
-            'Content-Type': 'application/json'
-        },
+        headers={'Authorization': f'Bearer {DEEPSEEK_API_KEY}', 'Content-Type': 'application/json'},
         json={
             'model': 'deepseek-chat',
             'max_tokens': 4096,
-            'temperature': 0.1,        # 降低温度，输出更稳定
-            'response_format': {'type': 'json_object'},  # 强制 JSON 模式
+            'temperature': 0.1,
+            'response_format': {'type': 'json_object'},
             'messages': [
                 {'role': 'system', 'content': SYSTEM},
                 {'role': 'user',   'content': prompt}
@@ -269,48 +271,53 @@ def call_deepseek(prompt: str) -> dict:
     )
     resp.raise_for_status()
     raw = resp.json()['choices'][0]['message']['content']
-    print(f'  API 返回长度：{len(raw)} 字符')
+    print(f'  API返回：{len(raw)} 字符')
     return parse_json_robust(raw)
 
 
 # ── 主流程 ────────────────────────────────────────────────────
 def main():
-    print('\n=== CNN精读生成器 v3 ===')
+    print('\n=== CNN精读生成器 v4 ===')
 
     requested_date = get_target_date()
-
     out_path = OUTPUT_DIR / f'{requested_date}.json'
     if out_path.exists():
-        print(f'✓ 已有缓存：{out_path}，跳过。')
+        print(f'✓ 缓存已存在：{out_path}')
         return
 
-    print(f'\n[1/3] 查找有效文稿日期（从 {requested_date} 开始）...')
+    print(f'\n[1/3] 查找有效文稿（从 {requested_date} 开始）...')
     actual_date = find_available_date(requested_date, max_lookback=7)
 
     out_path = OUTPUT_DIR / f'{actual_date}.json'
     if out_path.exists():
-        print(f'✓ {actual_date} 已有缓存，跳过。')
+        print(f'✓ {actual_date} 缓存已存在')
         return
 
     source_url = f'https://transcripts.cnn.com/show/ctmo/date/{actual_date}/segment/01'
-    print(f'目标日期：{actual_date}')
-    print(f'输出路径：{out_path}')
+    print(f'目标日期：{actual_date}  输出：{out_path}')
 
-    print(f'\n[2/3] 抓取 CNN 文稿...')
-    transcript = fetch_transcript(actual_date)
-    if not transcript:
+    print(f'\n[2/3] 抓取文稿...')
+    full_text, segments_data = fetch_transcript(actual_date)
+    if not full_text:
         raise RuntimeError(f'{actual_date} 文稿抓取失败')
-    print(f'      文稿长度：{len(transcript)} 字符')
+    print(f'      文稿长度：{len(full_text)} 字符')
+
+    # 拆分段落（用于前端全文显示）
+    paragraphs = extract_paragraphs(segments_data)
+    print(f'      段落数：{len(paragraphs)}')
 
     print(f'\n[3/3] 生成精读内容...')
-    prompt = build_prompt(transcript, actual_date, source_url)
+    prompt = build_prompt(full_text, actual_date, source_url)
     data   = call_deepseek(prompt)
-    print(f'      词汇：{len(data.get("vocabulary",[]))} 个，难句：{len(data.get("sentences",[]))} 个')
 
-    out_path.write_text(
-        json.dumps(data, ensure_ascii=False, indent=2),
-        encoding='utf-8'
-    )
+    # 注入完整段落数据
+    data['paragraphs'] = paragraphs
+    data['date']       = actual_date
+    data['source_url'] = source_url
+
+    print(f'      词汇：{len(data.get("vocabulary",[]))} 难句：{len(data.get("sentences",[]))}')
+
+    out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
     print(f'\n✅ 已保存：{out_path}')
 
 
@@ -318,5 +325,5 @@ if __name__ == '__main__':
     try:
         main()
     except Exception as e:
-        print(f'\n❌ 错误：{e}', file=sys.stderr)
+        print(f'\n❌ {e}', file=sys.stderr)
         sys.exit(1)
