@@ -1,5 +1,5 @@
-import { cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs";
 import { execSync } from "node:child_process";
+import { cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs";
 import path from "node:path";
 
 const dist = "dist";
@@ -19,6 +19,7 @@ function copyApp(appName, target, basePath) {
     env: {
       ...process.env,
       NEXT_PUBLIC_BASE_PATH: basePath,
+      NEXT_OUTPUT_EXPORT: "true",
     },
   });
   cpSync(path.join(appDir, "out"), path.join(dist, target), {

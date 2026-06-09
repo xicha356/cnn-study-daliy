@@ -10,7 +10,7 @@ export function AudioButton({
   url,
   label = "播放音频",
   className,
-  playbackRate = 0.8,
+  playbackRate = 0.7,
 }: {
   url?: string;
   label?: string;

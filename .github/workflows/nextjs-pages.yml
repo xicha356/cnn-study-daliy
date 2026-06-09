@@ -1,9 +1,6 @@
 name: Next.js 双端部署
 
 on:
-  push:
-    branches:
-      - nextjs-main
   workflow_dispatch:
     inputs:
       date:

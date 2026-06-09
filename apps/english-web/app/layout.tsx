@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 
 function DeviceRedirectScript() {
   const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+  const h5Origin = process.env.NEXT_PUBLIC_H5_ORIGIN || "";
   const code = `
     (function () {
       try {
@@ -18,10 +19,11 @@ function DeviceRedirectScript() {
           || window.matchMedia('(max-width: 767px)').matches;
         if (!isMobile) return;
         var base = ${JSON.stringify(basePath)};
+        var h5Origin = ${JSON.stringify(h5Origin)};
         var path = window.location.pathname;
         var suffix = path.indexOf(base) === 0 ? path.slice(base.length) : path;
         if (!suffix || suffix === '/') suffix = '/';
-        var target = base + '/h5' + suffix + window.location.search + window.location.hash;
+        var target = (h5Origin || (base + '/h5')) + suffix + window.location.search + window.location.hash;
         window.location.replace(target);
       } catch (_) {}
     })();

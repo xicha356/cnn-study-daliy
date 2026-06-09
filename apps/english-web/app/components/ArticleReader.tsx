@@ -1,6 +1,6 @@
 "use client";
 
-import { playAudioUrl, speakEnglishText } from "@study/core/audio";
+import { playAudioUrl, playTtsText } from "@study/core/audio";
 import {
   getParagraphTranslation,
   isArticleStudied,
@@ -86,12 +86,14 @@ function ParagraphBlock({
   articleDate,
   highlighted,
   onSpeak,
+  onSpeakWord,
   paragraph,
   renderText,
 }: {
   articleDate: string;
   highlighted: boolean;
   onSpeak: (text: string) => Promise<void> | void;
+  onSpeakWord: (word: string) => Promise<void> | void;
   paragraph: Paragraph;
   renderText: (text: string) => ReactNode;
 }) {
@@ -139,7 +141,7 @@ function ParagraphBlock({
     const word = getSelectedEnglishWord();
     if (word) {
       event.stopPropagation();
-      speakEnglishText(word, 0.8);
+      void onSpeakWord(word);
       return;
     }
     void flip();
@@ -212,8 +214,11 @@ function ParagraphBlock({
   );
 }
 
-function speakParagraphText(text: string) {
-  speakEnglishText(text, 0.8);
+async function speakParagraphText(
+  text: string,
+  onState?: (state: "cache-hit" | "loading" | "playing" | "error") => void,
+) {
+  await playTtsText(text, { playbackRate: 0.7, onState });
 }
 
 export function ArticleReader({ article, articleList }: ArticleReaderProps) {
@@ -227,6 +232,8 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
   const [highlightedParagraphId, setHighlightedParagraphId] = useState<
     string | null
   >(null);
+  const [ttsLoadingKey, setTtsLoadingKey] = useState("");
+  const [quizAnswers, setQuizAnswers] = useState<Record<number, number>>({});
 
   useEffect(() => {
     setStudied(isArticleStudied(article.date));
@@ -309,7 +316,22 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
       pos: item.pos,
       audioUrl: item.audioUrl,
     });
-    void playAudioUrl(item.audioUrl, 0.8);
+    void playAudioUrl(item.audioUrl).then((played) => {
+      if (!played) void speakWordText(item.word);
+    });
+  }
+
+  async function speakWordText(word: string) {
+    const normalized = word.trim().toLowerCase();
+    if (!normalized) return;
+
+    await playTtsText(word, {
+      cacheKey: `word:${normalized}:0.7`,
+      playbackRate: 0.7,
+      onState: (state) => {
+        setTtsLoadingKey(state === "loading" ? normalized : "");
+      },
+    });
   }
 
   function renderHighlightedText(text: string): ReactNode {
@@ -326,12 +348,18 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
           onDoubleClick={(event) => {
             event.preventDefault();
             event.stopPropagation();
-            speakEnglishText(part, 0.8);
+            void speakWordText(part);
           }}
           type="button"
-          className="focus-ring mx-0.5 inline rounded bg-brand-soft px-1 py-0.5 font-semibold text-brand"
+          className="focus-ring mx-0.5 inline-flex items-center gap-1 rounded bg-brand-soft px-1 py-0.5 font-semibold text-brand"
         >
           {part}
+          {ttsLoadingKey === vocab.word.toLowerCase() ? (
+            <span
+              aria-hidden
+              className="h-2.5 w-2.5 animate-spin rounded-full border border-current border-t-transparent"
+            />
+          ) : null}
         </button>
       );
     });
@@ -441,25 +469,8 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                 </nav>
               </div>
             </div>
-            <nav className="mt-7 grid gap-2">
-              {tabs.map((tab) => (
-                <button
-                  key={tab.key}
-                  type="button"
-                  onClick={() => setActiveTab(tab.key)}
-                  className={[
-                    "focus-ring h-10 rounded-md px-3 text-left text-sm font-medium transition",
-                    activeTab === tab.key
-                      ? "bg-brand text-white"
-                      : "bg-transparent text-sub hover:bg-muted hover:text-text",
-                  ].join(" ")}
-                >
-                  {tab.label}
-                </button>
-              ))}
-            </nav>
             <div className="mt-auto rounded-md bg-muted p-3 text-sm text-sub">
-              Double-click a paragraph to switch text.
+              {sidebarArticles.length} articles available.
             </div>
           </div>
         ) : (
@@ -521,7 +532,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
               <p className="text-base leading-8 text-text">{article.summary}</p>
             </section>
 
-            <div className="mb-5 flex flex-wrap items-center gap-2 rounded-md border border-line bg-panel p-2 shadow-sm">
+            <div className="sticky top-[76px] z-10 mb-5 flex flex-wrap items-center gap-2 rounded-md border border-line bg-panel/95 p-2 shadow-sm backdrop-blur">
               {tabs.map((tab) => (
                 <button
                   key={tab.key}
@@ -547,6 +558,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                     articleDate={article.date}
                     highlighted={highlightedParagraphId === paragraph.id}
                     onSpeak={speakParagraphText}
+                    onSpeakWord={speakWordText}
                     paragraph={paragraph}
                     renderText={renderHighlightedText}
                   />
@@ -594,7 +606,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                       </div>
                       <AudioButton
                         url={item.audioUrl}
-                        label={`播放 ${item.word}`}
+                        label={`Play ${item.word}`}
                       />
                     </div>
                     <p className="mt-4 text-base font-medium text-text">
@@ -631,7 +643,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                       <h2 className="text-lg font-semibold leading-7 text-text">
                         {item.en}
                       </h2>
-                      <AudioButton url={item.audioUrl} label="播放难句" />
+                      <AudioButton url={item.audioUrl} label="Play sentence" />
                     </div>
                     <p className="mt-3 text-base leading-7 text-sub">
                       {item.cn}
@@ -686,25 +698,47 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                       {item.question}
                     </h2>
                     <div className="mt-4 grid gap-2">
-                      {item.options.map((option, optionIndex) => (
-                        <div
-                          key={option}
-                          className={[
-                            "rounded-md border px-3 py-2 text-sm",
-                            optionIndex === item.answer
-                              ? "border-good bg-brand-soft text-text"
-                              : "border-line bg-bg text-sub",
-                          ].join(" ")}
-                        >
-                          {option}
-                        </div>
-                      ))}
+                      {item.options.map((option, optionIndex) => {
+                        const selected = quizAnswers[index];
+                        const answered = typeof selected === "number";
+                        const correct = optionIndex === item.answer;
+                        const chosen = selected === optionIndex;
+
+                        return (
+                          <button
+                            key={option}
+                            type="button"
+                            onClick={() =>
+                              setQuizAnswers((current) => ({
+                                ...current,
+                                [index]: optionIndex,
+                              }))
+                            }
+                            className={[
+                              "focus-ring rounded-md border px-3 py-2 text-left text-sm transition",
+                              answered && correct
+                                ? "border-good bg-brand-soft text-text"
+                                : answered && chosen
+                                  ? "border-bad bg-bg text-text"
+                                  : "border-line bg-bg text-sub",
+                            ].join(" ")}
+                          >
+                            <span>{option}</span>
+                            {answered ? (
+                              <span className="ml-2 font-semibold">
+                                {correct ? "✓" : chosen ? "×" : ""}
+                              </span>
+                            ) : null}
+                          </button>
+                        );
+                      })}
                     </div>
-                    {item.explanation && (
-                      <p className="mt-4 text-sm leading-6 text-sub">
-                        {item.explanation}
-                      </p>
-                    )}
+                    {typeof quizAnswers[index] === "number" &&
+                      item.explanation && (
+                        <p className="mt-4 text-sm leading-6 text-sub">
+                          {item.explanation}
+                        </p>
+                      )}
                   </article>
                 ))}
               </div>

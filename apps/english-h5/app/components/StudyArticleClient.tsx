@@ -1,6 +1,6 @@
 "use client";
 
-import { playAudioUrl, speakEnglishText } from "@study/core/audio";
+import { playAudioUrl, playTtsText } from "@study/core/audio";
 import {
   getParagraphTranslation,
   setParagraphTranslation,
@@ -20,7 +20,7 @@ import { ThemeToggle } from "./ThemeToggle";
 
 type TabKey = "original" | "translation" | "vocabulary" | "sentences" | "quiz";
 
-const AUDIO_PLAYBACK_RATE = 0.8;
+const AUDIO_PLAYBACK_RATE = 0.7;
 
 const tabs: Array<{ key: TabKey; label: string }> = [
   { key: "original", label: "原文" },
@@ -67,6 +67,8 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const [isSheetOpen, setIsSheetOpen] = useState(false);
   const [isSheetMounted, setIsSheetMounted] = useState(false);
   const [pulseParagraphId, setPulseParagraphId] = useState("");
+  const [ttsLoadingKey, setTtsLoadingKey] = useState("");
+  const [quizAnswers, setQuizAnswers] = useState<Record<number, number>>({});
 
   const paragraphRefs = useRef<Record<string, HTMLElement | null>>({});
   const touchStartX = useRef<Record<string, number>>({});
@@ -137,7 +139,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     const word = getSelectedEnglishWord();
     if (!word) return;
     event.stopPropagation();
-    speakEnglishText(word, AUDIO_PLAYBACK_RATE);
+    void speakWordText(word);
   }
 
   function showVocabTip(vocab: VocabularyItem, shouldPlayAudio = false) {
@@ -145,12 +147,27 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     if (tipTimer.current) window.clearTimeout(tipTimer.current);
     tipTimer.current = window.setTimeout(() => setActiveVocab(null), 5000);
     if (shouldPlayAudio) {
-      void playAudioUrl(vocab.audioUrl, AUDIO_PLAYBACK_RATE);
+      void playAudioUrl(vocab.audioUrl, AUDIO_PLAYBACK_RATE).then((played) => {
+        if (!played) void speakWordText(vocab.word);
+      });
     }
   }
 
   function readParagraphAloud(text: string) {
-    speakEnglishText(text, AUDIO_PLAYBACK_RATE);
+    void playTtsText(text, { playbackRate: AUDIO_PLAYBACK_RATE });
+  }
+
+  async function speakWordText(word: string) {
+    const normalized = word.trim().toLowerCase();
+    if (!normalized) return;
+
+    await playTtsText(word, {
+      cacheKey: `word:${normalized}:0.7`,
+      playbackRate: AUDIO_PLAYBACK_RATE,
+      onState: (state) => {
+        setTtsLoadingKey(state === "loading" ? normalized : "");
+      },
+    });
   }
 
   function findParagraphForVocabulary(vocab: VocabularyItem) {
@@ -230,11 +247,17 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
           onDoubleClick={(event) => {
             event.preventDefault();
             event.stopPropagation();
-            speakEnglishText(value, AUDIO_PLAYBACK_RATE);
+            void speakWordText(value);
           }}
-          className="rounded bg-brandSoft px-1 font-extrabold text-brand underline decoration-brand underline-offset-4"
+          className="inline-flex items-center gap-1 rounded bg-brandSoft px-1 font-extrabold text-brand underline decoration-brand underline-offset-4"
         >
           {value}
+          {ttsLoadingKey === match.item.word.toLowerCase() ? (
+            <span
+              aria-hidden="true"
+              className="h-2.5 w-2.5 animate-spin rounded-full border border-current border-t-transparent"
+            />
+          ) : null}
         </button>,
       );
       index += match.lowerWord.length;
@@ -549,21 +572,42 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                   {quiz.question}
                 </h3>
                 <div className="mt-4 space-y-2">
-                  {quiz.options.map((option, optionIndex) => (
-                    <div
-                      key={option}
-                      className={[
-                        "rounded-[8px] border p-3 text-sm font-semibold leading-6",
-                        optionIndex === quiz.answer
-                          ? "border-good bg-brandSoft text-text"
-                          : "border-line bg-bg text-sub",
-                      ].join(" ")}
-                    >
-                      {option}
-                    </div>
-                  ))}
+                  {quiz.options.map((option, optionIndex) => {
+                    const selected = quizAnswers[index];
+                    const answered = typeof selected === "number";
+                    const correct = optionIndex === quiz.answer;
+                    const chosen = selected === optionIndex;
+
+                    return (
+                      <button
+                        key={option}
+                        type="button"
+                        onClick={() =>
+                          setQuizAnswers((current) => ({
+                            ...current,
+                            [index]: optionIndex,
+                          }))
+                        }
+                        className={[
+                          "rounded-[8px] border p-3 text-left text-sm font-semibold leading-6 transition",
+                          answered && correct
+                            ? "border-good bg-brandSoft text-text"
+                            : answered && chosen
+                              ? "border-bad bg-bg text-text"
+                              : "border-line bg-bg text-sub",
+                        ].join(" ")}
+                      >
+                        {option}
+                        {answered ? (
+                          <span className="ml-2 font-black">
+                            {correct ? "✓" : chosen ? "×" : ""}
+                          </span>
+                        ) : null}
+                      </button>
+                    );
+                  })}
                 </div>
-                {quiz.explanation ? (
+                {typeof quizAnswers[index] === "number" && quiz.explanation ? (
                   <p className="mt-3 text-sm leading-6 text-sub">
                     {quiz.explanation}
                   </p>

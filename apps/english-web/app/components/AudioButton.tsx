@@ -21,7 +21,7 @@ const statusIcon: Record<AudioStatus, string> = {
 export function AudioButton({
   url,
   label = "Play audio",
-  playbackRate = 0.8,
+  playbackRate = 0.7,
 }: AudioButtonProps) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [status, setStatus] = useState<AudioStatus>("idle");

@@ -36,6 +36,7 @@ function ThemeScript() {
 
 function DeviceRedirectScript() {
   const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+  const webOrigin = process.env.NEXT_PUBLIC_WEB_ORIGIN || "";
   const code = `
     (function () {
       try {
@@ -45,7 +46,8 @@ function DeviceRedirectScript() {
           || window.matchMedia('(max-width: 767px)').matches;
         if (isMobile) return;
         var base = ${JSON.stringify(basePath)};
-        var desktopBase = base.replace(/\\/h5\\/?$/, '');
+        var webOrigin = ${JSON.stringify(webOrigin)};
+        var desktopBase = webOrigin || base.replace(/\\/h5\\/?$/, '');
         var path = window.location.pathname;
         var suffix = path.indexOf(base) === 0 ? path.slice(base.length) : '/';
         if (!suffix || suffix === '/') suffix = '/';
