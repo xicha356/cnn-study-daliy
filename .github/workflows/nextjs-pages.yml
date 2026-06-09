@@ -127,9 +127,10 @@ jobs:
           rm -rf nextjs
           mkdir -p nextjs
           cp -R "${GITHUB_WORKSPACE}/dist/." nextjs/
+          touch .nojekyll
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add nextjs
+          git add .nojekyll nextjs
           git diff --staged --quiet && exit 0
           git commit -m "Deploy Next.js study app under /nextjs"
           git push origin HEAD:main
