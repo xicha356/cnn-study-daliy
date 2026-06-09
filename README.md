@@ -10,6 +10,8 @@
 - 🔍 **5个长难句解析** — 结构标注 + 语法分析
 - 🌐 **4个话题背景** — 中文背景知识 + 关键术语
 - ✅ **6道测验题** — 词汇3道 + 理解3道，即时反馈
+- 🔊 **美式男音发音** — 单词预生成音频，长难句按需朗读并本机缓存
+- 🧠 **词汇复习状态** — 待复习 / 已掌握，本机保存学习进度
 
 ---
 
@@ -28,6 +30,21 @@
 3. 点击 **New repository secret**
    - Name: `DEEPSEEK_API_KEY`
    - Value: 你的 API Key（sk-xxxxxxxx）
+
+### 可选：添加 ElevenLabs 发音配置
+
+如果希望每天自动给词汇生成美式男音发音，再添加两个 Actions secrets：
+
+- `ELEVENLABS_API_KEY`：你的 ElevenLabs API Key
+- `ELEVENLABS_VOICE_ID`：你在 ElevenLabs 里选择的 American male voice ID
+
+可选添加仓库变量：
+
+- `ELEVENLABS_MODEL_ID`：默认 `eleven_flash_v2_5`
+
+不要把 ElevenLabs token 写进 `index.html`、JSON 或任何会提交到仓库的文件。
+长难句朗读是浏览器按需请求：在页面右上角「发音设置」中填入 Key 和 Voice ID，
+生成后的音频会缓存到当前浏览器的 IndexedDB，重复朗读不再消耗字符额度。
 
 ### 第三步：开启 GitHub Pages
 
@@ -59,7 +76,8 @@
 │   └── template.html          # 前端页面模板
 ├── output/
 │   ├── 2026-06-05.json        # 每日生成的学习内容
-│   └── 2026-06-06.json
+│   ├── 2026-06-06.json
+│   └── audio/                 # ElevenLabs 词汇发音 mp3
 ├── index.html                 # GitHub Pages 入口（自动生成）
 └── .gitignore
 ```

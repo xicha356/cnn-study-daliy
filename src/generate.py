@@ -6,13 +6,18 @@ src/generate.py  v4
 - 周末自动回退 / HEAD→GET 修复 / JSON 多层容错
 """
 
-import os, re, json, requests, sys
+import os, re, json, requests, sys, hashlib
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 DEEPSEEK_API_KEY = os.environ.get('DEEPSEEK_API_KEY', '')
 DEEPSEEK_URL     = 'https://api.deepseek.com/v1/chat/completions'
+ELEVENLABS_API_KEY = os.environ.get('ELEVENLABS_API_KEY', '')
+ELEVENLABS_VOICE_ID = os.environ.get('ELEVENLABS_VOICE_ID', '')
+ELEVENLABS_MODEL_ID = os.environ.get('ELEVENLABS_MODEL_ID', 'eleven_flash_v2_5')
+ELEVENLABS_OUTPUT_FORMAT = os.environ.get('ELEVENLABS_OUTPUT_FORMAT', 'mp3_44100_128')
 OUTPUT_DIR       = Path('output')
+AUDIO_DIR        = OUTPUT_DIR / 'audio'
 OUTPUT_DIR.mkdir(exist_ok=True)
 CST = timezone(timedelta(hours=8))
 
@@ -63,6 +68,85 @@ def sanitize(text: str) -> str:
     text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', text)
     text = re.sub(r' {3,}', '  ', text)
     return text.strip()
+
+
+def audio_slug(text: str) -> str:
+    base = re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
+    base = base[:60].strip('-') or 'audio'
+    digest = hashlib.sha1(text.encode('utf-8')).hexdigest()[:8]
+    return f'{base}-{digest}.mp3'
+
+
+def vocab_audio_path(date_str: str, text: str) -> Path:
+    return AUDIO_DIR / date_str / audio_slug(text)
+
+
+def vocab_audio_url(date_str: str, text: str) -> str:
+    return f'output/audio/{date_str}/{audio_slug(text)}'
+
+
+def synthesize_audio(text: str, out_path: Path) -> bool:
+    if not ELEVENLABS_API_KEY or not ELEVENLABS_VOICE_ID:
+        return False
+    if out_path.exists() and out_path.stat().st_size > 0:
+        return True
+
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    url = (
+        f'https://api.elevenlabs.io/v1/text-to-speech/{ELEVENLABS_VOICE_ID}'
+        f'?output_format={ELEVENLABS_OUTPUT_FORMAT}'
+    )
+    payload = {
+        'text': text,
+        'model_id': ELEVENLABS_MODEL_ID,
+        'language_code': 'en',
+        'voice_settings': {
+            'stability': 0.45,
+            'similarity_boost': 0.75,
+            'style': 0.1,
+            'use_speaker_boost': True,
+        },
+    }
+    try:
+        resp = requests.post(
+            url,
+            headers={
+                'xi-api-key': ELEVENLABS_API_KEY,
+                'Content-Type': 'application/json',
+            },
+            json=payload,
+            timeout=60,
+        )
+        resp.raise_for_status()
+        out_path.write_bytes(resp.content)
+        print(f'      audio: {text} -> {out_path}')
+        return True
+    except Exception as e:
+        print(f'      ⚠ ElevenLabs 生成失败：{text} ({e})')
+        return False
+
+
+def ensure_vocab_audio(data: dict, date_str: str) -> bool:
+    vocab = data.get('vocabulary') or []
+    if not vocab:
+        return False
+    if not ELEVENLABS_API_KEY or not ELEVENLABS_VOICE_ID:
+        print('      ElevenLabs 未配置，跳过词汇音频生成')
+        return False
+
+    changed = False
+    print('      生成/补齐词汇音频...')
+    for item in vocab:
+        word = str(item.get('word') or '').strip()
+        if not word:
+            continue
+        out_path = vocab_audio_path(date_str, word)
+        if synthesize_audio(word, out_path):
+            url = vocab_audio_url(date_str, word)
+            if item.get('audio_url') != url:
+                item['audio_url'] = url
+                changed = True
+    return changed
 
 
 def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
@@ -283,6 +367,10 @@ def main():
     out_path = OUTPUT_DIR / f'{requested_date}.json'
     if out_path.exists():
         print(f'✓ 缓存已存在：{out_path}')
+        data = json.loads(out_path.read_text(encoding='utf-8'))
+        if ensure_vocab_audio(data, requested_date):
+            out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
+            print(f'✓ 已补齐音频字段：{out_path}')
         return
 
     print(f'\n[1/3] 查找有效文稿（从 {requested_date} 开始）...')
@@ -291,6 +379,10 @@ def main():
     out_path = OUTPUT_DIR / f'{actual_date}.json'
     if out_path.exists():
         print(f'✓ {actual_date} 缓存已存在')
+        data = json.loads(out_path.read_text(encoding='utf-8'))
+        if ensure_vocab_audio(data, actual_date):
+            out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
+            print(f'✓ 已补齐音频字段：{out_path}')
         return
 
     source_url = f'https://transcripts.cnn.com/show/ctmo/date/{actual_date}/segment/01'
@@ -314,6 +406,7 @@ def main():
     data['paragraphs'] = paragraphs
     data['date']       = actual_date
     data['source_url'] = source_url
+    ensure_vocab_audio(data, actual_date)
 
     print(f'      词汇：{len(data.get("vocabulary",[]))} 难句：{len(data.get("sentences",[]))}')
 

@@ -42,7 +42,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .nav-item.active{color:var(--blue)}
 
 /* ── Main ── */
-.main{display:flex;flex-direction:column;min-height:100vh}
+.main{display:flex;flex-direction:column;min-height:100vh;min-width:0}
 .topbar{background:var(--bg2);border-bottom:1px solid var(--border);padding:.75rem 1.5rem;display:flex;align-items:center;gap:12px;position:sticky;top:0;z-index:50}
 .topbar-title{font-size:15px;font-weight:500;flex:1}
 .topbar-date{font-size:12px;color:var(--text2);font-family:var(--mono)}
@@ -51,25 +51,40 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .btn{padding:6px 14px;border:none;border-radius:var(--r);cursor:pointer;font-size:13px;font-weight:500;transition:all .15s}
 .btn-src{background:var(--bg3);color:var(--text2);font-size:12px}
 .btn-src:hover{color:var(--blue)}
+.btn-tts{background:var(--bg3);color:var(--text2);font-size:12px}
+.btn-tts:hover{color:var(--blue);border-color:var(--blue)}
+.icon-btn{border:1px solid var(--border);background:var(--bg3);color:var(--text2);border-radius:7px;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:6px;min-width:32px;height:30px;padding:0 9px;font-size:12px;transition:all .15s;white-space:nowrap}
+.icon-btn:hover:not(:disabled){color:var(--blue);border-color:var(--blue);background:var(--blue-dim)}
+.icon-btn:disabled{opacity:.45;cursor:not-allowed}
+.icon-btn.playing{color:#fff;border-color:var(--green);background:#0d2a1a}
+.icon-btn.loading{color:var(--amber);border-color:var(--amber)}
 
-.content{flex:1;padding:1.5rem}
+.content{flex:1;padding:1.5rem;min-width:0}
 
 /* ── Tabs ── */
-.tabs{display:flex;gap:4px;margin-bottom:1.5rem;background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:4px}
+.tabs{display:flex;gap:4px;margin-bottom:1.5rem;background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:4px;max-width:100%}
 .tab{flex:1;padding:7px 0;font-size:13px;text-align:center;border-radius:7px;cursor:pointer;color:var(--text2);transition:all .15s}
 .tab.active{background:var(--blue);color:#fff}
-.section{display:none}.section.active{display:block}
+.section{display:none;min-width:0;max-width:100%}.section.active{display:block}
 
 /* ── Summary ── */
-.summary-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.25rem;margin-bottom:1.5rem}
+.summary-card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.25rem;margin-bottom:1.5rem;max-width:100%}
 .card-label{font-size:11px;font-weight:600;color:var(--text2);letter-spacing:.08em;text-transform:uppercase;margin-bottom:8px}
 .summary-text{font-size:15px;line-height:1.85}
 
 /* ── Full Transcript ── */
-.transcript-wrap{display:grid;grid-template-columns:1fr 320px;gap:1.25rem;align-items:start}
+.transcript-wrap{display:grid;grid-template-columns:1fr 320px;gap:1.25rem;align-items:start;min-width:0}
 @media(max-width:900px){.transcript-wrap{grid-template-columns:1fr}}
-.transcript-body{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.5rem;font-size:14.5px;line-height:2;position:relative}
+.transcript-body{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.5rem;font-size:14.5px;line-height:2;position:relative;overflow-wrap:anywhere}
 .transcript-hint{font-size:12px;color:var(--text2);margin-bottom:1rem;padding:.5rem .75rem;background:var(--bg3);border-radius:6px;border-left:2px solid var(--blue)}
+.transcript-wrap>*,.transcript-hint,.transcript-body{min-width:0;max-width:100%}
+.control-row{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:1rem;flex-wrap:wrap}
+.filter-group{display:flex;gap:4px;background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:3px}
+.filter-btn{border:0;background:transparent;color:var(--text2);font-size:12px;padding:5px 10px;border-radius:6px;cursor:pointer}
+.filter-btn.active{background:var(--blue);color:#fff}
+.review-btn{border:1px solid var(--border);background:var(--bg3);color:var(--text2);border-radius:999px;padding:3px 9px;font-size:11px;cursor:pointer;white-space:nowrap}
+.review-btn.reviewing{border-color:var(--amber);color:var(--amber);background:#2a1a0a}
+.review-btn.mastered{border-color:var(--green);color:var(--green);background:#0d2a1a}
 
 /* paragraph */
 .para{margin-bottom:1.1rem}
@@ -87,6 +102,8 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 /* tooltip popup */
 .vocab-popup{position:fixed;z-index:200;max-width:300px;background:var(--bg4);border:1px solid var(--border2);border-radius:var(--r);padding:1rem 1.1rem;box-shadow:0 8px 32px rgba(0,0,0,.5);display:none;pointer-events:none}
 .vocab-popup.show{display:block}
+.vp-head{display:flex;align-items:center;gap:8px}
+.vp-main{flex:1;min-width:0}
 .vp-word{font-size:17px;font-weight:700;color:#fff}
 .vp-ph{font-size:12px;color:var(--text2);font-family:var(--mono);margin-left:6px}
 .vp-badges{display:flex;gap:5px;margin:5px 0}
@@ -105,12 +122,17 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .wc-word{font-size:14px;font-weight:500;color:var(--text)}
 .wc-cn{font-size:12px;color:var(--text2);flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .wc-lv{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+.wc-actions{display:flex;gap:4px;margin-left:auto}
+.wc-actions .icon-btn{min-width:28px;width:28px;height:26px;padding:0}
+.wc-actions .review-btn{font-size:10px;padding:2px 6px}
 
 /* ── Vocab Cards ── */
 .vocab-grid{display:flex;flex-direction:column;gap:10px}
 .vcard{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1rem 1.25rem;transition:border .15s}
 .vcard:hover{border-color:var(--border2)}
 .vhead{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;margin-bottom:6px}
+.vhead-main{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;flex:1}
+.vactions{display:flex;gap:6px;align-items:center;margin-left:auto;flex-wrap:wrap}
 .vword{font-size:18px;font-weight:700;color:#fff}
 .vph{font-size:13px;color:var(--text2);font-family:var(--mono)}
 .bpos{font-size:11px;padding:2px 8px;border-radius:20px;background:#1a2a4a;color:#7eb8f7;font-weight:500}
@@ -123,7 +145,9 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 
 /* ── Sentences ── */
 .scard{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.25rem;margin-bottom:12px}
+.shead{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:10px}
 .snum{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:var(--blue);color:#fff;font-size:12px;font-weight:700;margin-bottom:10px}
+.shead .snum{margin-bottom:0}
 .sen-en{font-size:15px;line-height:1.9;margin-bottom:10px}
 .sen-cn{font-size:14px;color:#6ab4f5;line-height:1.75;padding:8px 12px;background:var(--bg3);border-radius:6px;margin-bottom:10px}
 .alabel{font-size:11px;font-weight:600;color:var(--text2);letter-spacing:.08em;text-transform:uppercase;margin-bottom:5px}
@@ -168,10 +192,38 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .empty{text-align:center;padding:5rem 1rem;color:var(--text2)}
 .empty h3{font-size:18px;color:var(--text);margin-bottom:8px}
 
+/* ── TTS Settings ── */
+.tts-panel{position:fixed;right:18px;top:62px;z-index:300;width:min(380px,calc(100vw - 28px));background:var(--bg4);border:1px solid var(--border2);border-radius:var(--r);box-shadow:0 12px 40px rgba(0,0,0,.55);padding:1rem;display:none}
+.tts-panel.show{display:block}
+.tts-title{font-size:14px;font-weight:700;margin-bottom:8px}
+.tts-note{font-size:12px;color:var(--text2);line-height:1.6;margin-bottom:10px}
+.tts-field{display:flex;flex-direction:column;gap:4px;margin-bottom:9px}
+.tts-field label{font-size:11px;color:var(--text2);font-weight:600;letter-spacing:.04em;text-transform:uppercase}
+.tts-field input,.tts-field select{background:var(--bg2);border:1px solid var(--border);border-radius:7px;color:var(--text);padding:8px 9px;font-size:13px;outline:none}
+.tts-field input:focus,.tts-field select:focus{border-color:var(--blue)}
+.tts-check{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--text2);margin:5px 0 12px}
+.tts-actions{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.tts-status{font-size:12px;color:var(--text2)}
+
 /* ── Scrollbar ── */
 ::-webkit-scrollbar{width:6px;height:6px}
 ::-webkit-scrollbar-track{background:var(--bg)}
 ::-webkit-scrollbar-thumb{background:var(--border2);border-radius:3px}
+
+@media(max-width:800px){
+  .layout{grid-template-columns:1fr}
+  .sidebar{display:none}
+  .topbar{flex-wrap:wrap;gap:8px;padding:.75rem 1rem}
+  .topbar-title{flex:1 0 100%}
+  .content{padding:1rem}
+  .tabs{overflow-x:auto}
+  .tab{flex:0 0 auto;min-width:82px;padding:7px 10px}
+}
+@media(max-width:520px){
+  .badge-auto{display:none}
+  .btn{padding:6px 10px}
+  .topbar-date{font-size:11px}
+}
 </style>
 </head>
 <body>
@@ -195,6 +247,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
     <div class="topbar-title" id="topbarTitle">CNN This Morning</div>
     <span class="topbar-date" id="topbarDate"></span>
     <span class="badge badge-auto">⚡ 每日自动更新</span>
+    <button class="btn btn-tts" onclick="toggleTtsPanel()">发音设置</button>
     <button class="btn btn-src" id="srcBtn" onclick="openSource()">查看原文 →</button>
   </div>
 
@@ -219,7 +272,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
     <div id="transcript" class="section active">
       <div class="transcript-wrap">
         <div>
-          <div class="transcript-hint">💡 点击 <span style="background:var(--hl-yellow);padding:0 4px;border-radius:2px;border-bottom:2px solid var(--hl-yellow-border)">高亮词汇</span> 查看注释 · 颜色代表难度：<span style="color:#f0a500">■</span>考研 <span style="color:#4a9eff">■</span>六级 <span style="color:#a78bfa">■</span>专四/八 <span style="color:#2ecc71">■</span>时事</div>
+          <div class="transcript-hint">💡 点击 <span style="background:var(--hl-yellow);padding:0 4px;border-radius:2px;border-bottom:2px solid var(--hl-yellow-border)">高亮词汇</span> 查看注释并播放发音 · 颜色代表难度：<span style="color:#f0a500">■</span>考研 <span style="color:#4a9eff">■</span>六级 <span style="color:#a78bfa">■</span>专四/八 <span style="color:#2ecc71">■</span>时事</div>
           <div class="transcript-body" id="transcriptBody"></div>
         </div>
         <div>
@@ -233,6 +286,14 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 
     <!-- Vocab Tab -->
     <div id="vocab" class="section">
+      <div class="control-row">
+        <div class="card-label" style="margin-bottom:0">词汇复习</div>
+        <div class="filter-group">
+          <button class="filter-btn active" data-filter="all" onclick="setVocabFilter('all')">全部</button>
+          <button class="filter-btn" data-filter="reviewing" onclick="setVocabFilter('reviewing')">待复习</button>
+          <button class="filter-btn" data-filter="mastered" onclick="setVocabFilter('mastered')">已掌握</button>
+        </div>
+      </div>
       <div class="vocab-grid" id="vocabGrid"></div>
     </div>
 
@@ -262,10 +323,40 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 
 <!-- Vocab Popup Tooltip -->
 <div class="vocab-popup" id="vocabPopup">
-  <div><span class="vp-word" id="vpWord"></span><span class="vp-ph" id="vpPh"></span></div>
+  <div class="vp-head">
+    <div class="vp-main"><span class="vp-word" id="vpWord"></span><span class="vp-ph" id="vpPh"></span></div>
+    <button class="icon-btn" id="vpPlay" onclick="playCurrentPopupWord(event)" title="播放单词发音">▶</button>
+  </div>
   <div class="vp-badges"><span class="vp-pos" id="vpPos"></span><span class="vp-lv" id="vpLv"></span></div>
   <div class="vp-cn" id="vpCn"></div>
   <div class="vp-en" id="vpEn"></div>
+</div>
+
+<!-- TTS Settings -->
+<div class="tts-panel" id="ttsPanel">
+  <div class="tts-title">发音设置</div>
+  <div class="tts-note">长难句朗读会在浏览器里按需请求 ElevenLabs，并缓存到本机。API Key 不会写入仓库。</div>
+  <div class="tts-field">
+    <label for="ttsApiKey">ElevenLabs API Key</label>
+    <input id="ttsApiKey" type="password" autocomplete="off" placeholder="sk_..." />
+  </div>
+  <div class="tts-field">
+    <label for="ttsVoiceId">美式男音 Voice ID</label>
+    <input id="ttsVoiceId" type="text" autocomplete="off" placeholder="从 ElevenLabs voice library 复制" />
+  </div>
+  <div class="tts-field">
+    <label for="ttsModelId">模型</label>
+    <select id="ttsModelId">
+      <option value="eleven_flash_v2_5">eleven_flash_v2_5</option>
+      <option value="eleven_turbo_v2_5">eleven_turbo_v2_5</option>
+      <option value="eleven_multilingual_v2">eleven_multilingual_v2</option>
+    </select>
+  </div>
+  <label class="tts-check"><input id="ttsRememberKey" type="checkbox" /> 只在这台电脑记住 Key</label>
+  <div class="tts-actions">
+    <span class="tts-status" id="ttsStatus">未配置长难句朗读</span>
+    <button class="icon-btn" onclick="saveTtsSettings()">保存</button>
+  </div>
 </div>
 
 <script>
@@ -273,13 +364,28 @@ const ALL_DATA = {"2026-06-08":{"date":"2026-06-08","source_url":"https://transc
 
 // ── State ──────────────────────────────────────────
 let currentData = null;
+let currentPopupWord = '';
+let vocabFilter = 'all';
 let qState = { cur:0, score:0, answered:false, qs:[] };
+let audioPlayer = new Audio();
+let activeAudioBtn = null;
+let ttsDbPromise = null;
 const COLORS = ['#4a9eff','#e05a3a','#1abc9c','#f0a500'];
 const LV_COLORS = {'考研':'#f0a500','六级':'#4a9eff','专四':'#a78bfa','专八':'#a78bfa','时事词汇':'#2ecc71'};
+const REVIEW_KEY_PREFIX = 'cnn_vocab_status:';
+const TTS_SETTINGS_KEY = 'cnn_tts_settings';
+const TTS_CACHE_DB = 'cnn_tts_cache';
+const TTS_CACHE_STORE = 'audio';
+const DEFAULT_TTS_MODEL = 'eleven_flash_v2_5';
+let ttsSettings = loadTtsSettings();
+
+audioPlayer.addEventListener('ended', clearAudioButton);
+audioPlayer.addEventListener('error', clearAudioButton);
 
 // ── Init ───────────────────────────────────────────
 (function init(){
   const latest = '2026-06-08';
+  hydrateTtsPanel();
   if(ALL_DATA[latest]) loadDate(latest);
   // highlight active hist item
   document.querySelector(`[data-date="${latest}"]`)?.classList.add('active');
@@ -336,7 +442,6 @@ function renderTranscript(paragraphs, vocab){
 
 function highlightWords(text, sortedWords, vocabMap){
   // Mark positions to highlight
-  let result = esc(text);
   // Work on original text to find positions, then rebuild
   const positions = []; // {start, end, word, vocab}
 
@@ -371,8 +476,7 @@ function highlightWords(text, sortedWords, vocabMap){
     html += esc(text.slice(last, p.start));
     const lv = p.vocab.level||'';
     const lvClass = `level-${lv.replace(/[\/\s]/g,'')}`;
-    const vidx = encodeURIComponent(p.vocab.word);
-    html += `<span class="hl ${lvClass}" data-word="${esc(p.vocab.word)}" onclick="showVocabPopup(event,'${esc(p.vocab.word)}')">${esc(text.slice(p.start,p.end))}</span>`;
+    html += `<span class="hl ${lvClass}" data-word="${attr(p.vocab.word)}" onclick="showVocabPopup(event,decodeURIComponent('${token(p.vocab.word)}'))">${esc(text.slice(p.start,p.end))}</span>`;
     last = p.end;
   });
   html += esc(text.slice(last));
@@ -385,6 +489,7 @@ function showVocabPopup(e, word){
   e.stopPropagation();
   const data = currentData?.vocabulary?.find(v=>v.word===word);
   if(!data) return;
+  currentPopupWord = word;
 
   // Highlight all instances of this word
   document.querySelectorAll('.hl').forEach(el=>{
@@ -401,6 +506,9 @@ function showVocabPopup(e, word){
   document.getElementById('vpLv').textContent   = data.level||'';
   document.getElementById('vpCn').textContent   = data.cn||'';
   document.getElementById('vpEn').textContent   = data.en||'';
+  const playBtn = document.getElementById('vpPlay');
+  playBtn.disabled = !data.audio_url;
+  playBtn.title = data.audio_url ? '播放单词发音' : '暂无预生成音频';
 
   const popup = document.getElementById('vocabPopup');
   popup.classList.add('show');
@@ -413,6 +521,8 @@ function showVocabPopup(e, word){
   if(y + 160 > vh) y = e.clientY - 160;
   popup.style.left = x + 'px';
   popup.style.top  = y + 'px';
+
+  playVocabAudio(data, playBtn);
 }
 
 document.addEventListener('click', e=>{
@@ -426,10 +536,14 @@ document.addEventListener('click', e=>{
 // ── Word List (right panel) ────────────────────────
 function renderWordList(vocab){
   document.getElementById('wordList').innerHTML = vocab.map(v=>`
-    <div class="word-chip" data-word="${esc(v.word)}" onclick="jumpToWord('${esc(v.word)}')">
+    <div class="word-chip" data-word="${attr(v.word)}" onclick="jumpToWord(decodeURIComponent('${token(v.word)}'))">
       <span class="wc-lv" style="background:${LV_COLORS[v.level]||'#4a9eff'}"></span>
       <span class="wc-word">${esc(v.word)}</span>
       <span class="wc-cn">${esc(v.cn||'')}</span>
+      <span class="wc-actions">
+        <button class="icon-btn" onclick="playWordFromButton(event,decodeURIComponent('${token(v.word)}'))" ${v.audio_url?'':'disabled'} title="${v.audio_url?'播放单词发音':'暂无预生成音频'}">▶</button>
+        ${reviewButton(v.word)}
+      </span>
     </div>`).join('');
 }
 
@@ -438,7 +552,7 @@ function jumpToWord(word){
   switchTab('transcript');
   // Find first highlight
   setTimeout(()=>{
-    const el = document.querySelector(`.hl[data-word="${word}"]`);
+    const el = Array.from(document.querySelectorAll('.hl')).find(node=>node.dataset.word===word);
     if(el){
       el.scrollIntoView({behavior:'smooth', block:'center'});
       // Simulate click to show popup
@@ -449,13 +563,28 @@ function jumpToWord(word){
 
 // ── Vocab Cards ────────────────────────────────────
 function renderVocab(list){
-  document.getElementById('vocabGrid').innerHTML = list.map(v=>`
+  const filtered = list.filter(v=>{
+    const status = getVocabStatus(v.word);
+    return vocabFilter === 'all' || status === vocabFilter;
+  });
+  const grid = document.getElementById('vocabGrid');
+  if(!filtered.length){
+    grid.innerHTML = '<div class="empty"><h3>暂无匹配词汇</h3><p>切换筛选或继续学习后再回来看看。</p></div>';
+    return;
+  }
+  grid.innerHTML = filtered.map(v=>`
     <div class="vcard">
       <div class="vhead">
-        <span class="vword">${esc(v.word)}</span>
-        <span class="vph">${esc(v.phonetic||'')}</span>
-        <span class="bpos">${esc(v.pos||'')}</span>
-        <span class="blv">${esc(v.level||'')}</span>
+        <div class="vhead-main">
+          <span class="vword">${esc(v.word)}</span>
+          <span class="vph">${esc(v.phonetic||'')}</span>
+          <span class="bpos">${esc(v.pos||'')}</span>
+          <span class="blv">${esc(v.level||'')}</span>
+        </div>
+        <div class="vactions">
+          <button class="icon-btn" onclick="playWordFromButton(event,decodeURIComponent('${token(v.word)}'))" ${v.audio_url?'':'disabled'} title="${v.audio_url?'播放单词发音':'暂无预生成音频'}">▶ 发音</button>
+          ${reviewButton(v.word)}
+        </div>
       </div>
       <div class="vcn">${esc(v.cn)}</div>
       <div class="ven">${esc(v.en||'')}</div>
@@ -476,7 +605,10 @@ function hlWord(text, word){
 function renderSentences(list){
   document.getElementById('sentenceList').innerHTML = list.map((s,i)=>`
     <div class="scard">
-      <div class="snum">${i+1}</div>
+      <div class="shead">
+        <div class="snum">${i+1}</div>
+        <button class="icon-btn" onclick="playSentenceTts(event,${i})" title="朗读长难句">▶ 朗读</button>
+      </div>
       <div class="sen-en">${esc(s.en)}</div>
       <div class="sen-cn">${esc(s.cn)}</div>
       <div class="divider"></div>
@@ -544,12 +676,285 @@ function pick(i){
     else if(j===i) el.classList.add('wrong');
   });
   if(i===ans) qState.score++;
+  else markMissedQuizWord(q);
   const exp=document.getElementById('qexp');
   exp.textContent='解析：'+(q.explanation||'');
   exp.classList.add('show');
   document.getElementById('qnext').classList.add('show');
 }
 function nextQ(){ qState.cur++; renderQ(); }
+
+// ── Audio Playback ────────────────────────────────
+function playCurrentPopupWord(e){
+  e.stopPropagation();
+  const data = currentData?.vocabulary?.find(v=>v.word===currentPopupWord);
+  if(data) playVocabAudio(data, e.currentTarget);
+}
+
+function playWordFromButton(e, word){
+  e.stopPropagation();
+  const data = currentData?.vocabulary?.find(v=>v.word===word);
+  if(data) playVocabAudio(data, e.currentTarget);
+}
+
+async function playVocabAudio(vocab, btn){
+  if(!vocab?.audio_url) return;
+  await playAudioUrl(vocab.audio_url, btn);
+}
+
+async function playAudioUrl(url, btn){
+  try{
+    setAudioButton(btn, 'loading');
+    audioPlayer.pause();
+    audioPlayer.currentTime = 0;
+    audioPlayer.src = url;
+    await audioPlayer.play();
+    setAudioButton(btn, 'playing');
+  }catch(err){
+    setStatus('播放失败：请检查音频文件或浏览器权限');
+    clearAudioButton();
+  }
+}
+
+async function playAudioBlob(blob, btn){
+  const url = URL.createObjectURL(blob);
+  try{
+    await playAudioUrl(url, btn);
+  }finally{
+    setTimeout(()=>URL.revokeObjectURL(url), 30000);
+  }
+}
+
+function setAudioButton(btn, state){
+  clearAudioButton();
+  if(!btn) return;
+  activeAudioBtn = btn;
+  if(!btn.dataset.audioLabel) btn.dataset.audioLabel = btn.textContent;
+  btn.classList.add(state);
+  btn.textContent = state === 'loading' ? '…' : '播放中';
+}
+
+function clearAudioButton(){
+  if(!activeAudioBtn) return;
+  activeAudioBtn.classList.remove('loading','playing');
+  activeAudioBtn.textContent = activeAudioBtn.dataset.audioLabel || '▶';
+  activeAudioBtn = null;
+}
+
+// ── Sentence TTS with local cache ──────────────────
+async function playSentenceTts(e, index){
+  e.stopPropagation();
+  const btn = e.currentTarget;
+  const sentence = currentData?.sentences?.[index]?.en || '';
+  if(!sentence) return;
+  const settings = getRuntimeTtsSettings();
+  if(!settings.apiKey || !settings.voiceId){
+    setStatus('请先在发音设置里填写 ElevenLabs API Key 和美式男音 Voice ID');
+    toggleTtsPanel(true);
+    return;
+  }
+
+  try{
+    setAudioButton(btn, 'loading');
+    const cacheKey = await ttsCacheKey(settings, sentence);
+    const cached = await getCachedAudio(cacheKey);
+    if(cached){
+      setStatus('已从本机缓存播放');
+      await playAudioBlob(cached, btn);
+      return;
+    }
+    const blob = await requestElevenLabsAudio(sentence, settings);
+    await putCachedAudio(cacheKey, blob);
+    setStatus('已生成并缓存到本机');
+    await playAudioBlob(blob, btn);
+  }catch(err){
+    setStatus('长难句朗读失败：' + (err.message || '请检查 Key、Voice ID 或网络'));
+    clearAudioButton();
+  }
+}
+
+async function requestElevenLabsAudio(text, settings){
+  const url = `https://api.elevenlabs.io/v1/text-to-speech/${encodeURIComponent(settings.voiceId)}?output_format=mp3_44100_128`;
+  const resp = await fetch(url, {
+    method: 'POST',
+    headers: {
+      'xi-api-key': settings.apiKey,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      text,
+      model_id: settings.modelId || DEFAULT_TTS_MODEL,
+      language_code: 'en',
+      voice_settings: {
+        stability: 0.45,
+        similarity_boost: 0.75,
+        style: 0.1,
+        use_speaker_boost: true,
+      },
+    }),
+  });
+  if(!resp.ok){
+    const msg = await resp.text().catch(()=>'');
+    throw new Error(msg || `HTTP ${resp.status}`);
+  }
+  return await resp.blob();
+}
+
+async function ttsCacheKey(settings, text){
+  return [
+    settings.voiceId,
+    settings.modelId || DEFAULT_TTS_MODEL,
+    await hashText(text),
+  ].join(':');
+}
+
+async function openTtsDb(){
+  if(ttsDbPromise) return ttsDbPromise;
+  ttsDbPromise = new Promise((resolve,reject)=>{
+    const req = indexedDB.open(TTS_CACHE_DB, 1);
+    req.onupgradeneeded = () => req.result.createObjectStore(TTS_CACHE_STORE);
+    req.onsuccess = () => resolve(req.result);
+    req.onerror = () => reject(req.error);
+  });
+  return ttsDbPromise;
+}
+
+async function getCachedAudio(key){
+  const db = await openTtsDb();
+  return new Promise((resolve,reject)=>{
+    const req = db.transaction(TTS_CACHE_STORE, 'readonly').objectStore(TTS_CACHE_STORE).get(key);
+    req.onsuccess = () => resolve(req.result || null);
+    req.onerror = () => reject(req.error);
+  });
+}
+
+async function putCachedAudio(key, blob){
+  const db = await openTtsDb();
+  return new Promise((resolve,reject)=>{
+    const req = db.transaction(TTS_CACHE_STORE, 'readwrite').objectStore(TTS_CACHE_STORE).put(blob, key);
+    req.onsuccess = () => resolve();
+    req.onerror = () => reject(req.error);
+  });
+}
+
+async function hashText(text){
+  if(window.crypto?.subtle){
+    const data = new TextEncoder().encode(text);
+    const digest = await crypto.subtle.digest('SHA-256', data);
+    return Array.from(new Uint8Array(digest)).map(b=>b.toString(16).padStart(2,'0')).join('');
+  }
+  let hash = 0;
+  for(let i=0;i<text.length;i++) hash = ((hash<<5)-hash + text.charCodeAt(i)) | 0;
+  return String(hash >>> 0);
+}
+
+// ── TTS Settings ──────────────────────────────────
+function loadTtsSettings(){
+  try{
+    const saved = JSON.parse(localStorage.getItem(TTS_SETTINGS_KEY) || '{}');
+    return {
+      apiKey: saved.apiKey || '',
+      voiceId: saved.voiceId || '',
+      modelId: saved.modelId || DEFAULT_TTS_MODEL,
+      rememberKey: !!saved.apiKey,
+    };
+  }catch(e){
+    return {apiKey:'', voiceId:'', modelId:DEFAULT_TTS_MODEL, rememberKey:false};
+  }
+}
+
+function hydrateTtsPanel(){
+  document.getElementById('ttsApiKey').value = ttsSettings.apiKey || '';
+  document.getElementById('ttsVoiceId').value = ttsSettings.voiceId || '';
+  document.getElementById('ttsModelId').value = ttsSettings.modelId || DEFAULT_TTS_MODEL;
+  document.getElementById('ttsRememberKey').checked = !!ttsSettings.rememberKey;
+  setStatus(ttsSettings.voiceId ? '长难句朗读已配置' : '未配置长难句朗读');
+}
+
+function getRuntimeTtsSettings(){
+  return {
+    apiKey: document.getElementById('ttsApiKey').value.trim() || ttsSettings.apiKey,
+    voiceId: document.getElementById('ttsVoiceId').value.trim() || ttsSettings.voiceId,
+    modelId: document.getElementById('ttsModelId').value || ttsSettings.modelId || DEFAULT_TTS_MODEL,
+  };
+}
+
+function saveTtsSettings(){
+  const rememberKey = document.getElementById('ttsRememberKey').checked;
+  ttsSettings = {
+    apiKey: document.getElementById('ttsApiKey').value.trim(),
+    voiceId: document.getElementById('ttsVoiceId').value.trim(),
+    modelId: document.getElementById('ttsModelId').value || DEFAULT_TTS_MODEL,
+    rememberKey,
+  };
+  try{
+    localStorage.setItem(TTS_SETTINGS_KEY, JSON.stringify({
+      apiKey: rememberKey ? ttsSettings.apiKey : '',
+      voiceId: ttsSettings.voiceId,
+      modelId: ttsSettings.modelId,
+    }));
+  }catch(e){}
+  setStatus(ttsSettings.voiceId ? '已保存发音设置' : '请填写 Voice ID');
+}
+
+function toggleTtsPanel(forceOpen){
+  const panel = document.getElementById('ttsPanel');
+  if(forceOpen === true) panel.classList.add('show');
+  else panel.classList.toggle('show');
+}
+
+function setStatus(text){
+  const el = document.getElementById('ttsStatus');
+  if(el) el.textContent = text;
+}
+
+// ── Review State ──────────────────────────────────
+function setVocabFilter(filter){
+  vocabFilter = filter;
+  document.querySelectorAll('.filter-btn').forEach(btn=>btn.classList.toggle('active', btn.dataset.filter===filter));
+  renderVocab(currentData?.vocabulary || []);
+}
+
+function getVocabStatus(word){
+  try{ return localStorage.getItem(REVIEW_KEY_PREFIX + word) || ''; }
+  catch(e){ return ''; }
+}
+
+function setVocabStatus(word, status, rerender=true){
+  try{
+    const key = REVIEW_KEY_PREFIX + word;
+    if(status) localStorage.setItem(key, status);
+    else localStorage.removeItem(key);
+  }catch(e){}
+  if(rerender) renderReviewViews();
+}
+
+function cycleVocabStatus(e, word){
+  e.stopPropagation();
+  const cur = getVocabStatus(word);
+  const next = cur === 'reviewing' ? 'mastered' : cur === 'mastered' ? '' : 'reviewing';
+  setVocabStatus(word, next);
+}
+
+function reviewButton(word){
+  const status = getVocabStatus(word);
+  const label = status === 'reviewing' ? '待复习' : status === 'mastered' ? '已掌握' : '标记';
+  const cls = status ? ` ${status}` : '';
+  return `<button class="review-btn${cls}" onclick="cycleVocabStatus(event,decodeURIComponent('${token(word)}'))">${label}</button>`;
+}
+
+function renderReviewViews(){
+  renderWordList(currentData?.vocabulary || []);
+  renderVocab(currentData?.vocabulary || []);
+}
+
+function markMissedQuizWord(q){
+  if(q.type !== 'vocab' || !currentData?.vocabulary) return;
+  const haystack = `${q.question||''} ${(q.options||[]).join(' ')} ${q.explanation||''}`.toLowerCase();
+  const match = currentData.vocabulary.find(v=>haystack.includes(String(v.word||'').toLowerCase()));
+  if(match && getVocabStatus(match.word) !== 'mastered') setVocabStatus(match.word, 'reviewing', false);
+  renderReviewViews();
+}
 
 // ── Tab Switch ─────────────────────────────────────
 function switchTab(id){
@@ -562,6 +967,12 @@ function switchTab(id){
 // ── Util ───────────────────────────────────────────
 function esc(s){
   return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\n/g,'<br>');
+}
+function attr(s){
+  return esc(s).replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+function token(s){
+  return encodeURIComponent(String(s||''));
 }
 </script>
 </body>
