@@ -7,6 +7,30 @@ export const metadata: Metadata = {
   description: "PC English study workspace for CNN daily articles",
 };
 
+function DeviceRedirectScript() {
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+  const code = `
+    (function () {
+      try {
+        var params = new URLSearchParams(window.location.search);
+        if (params.get('force') === 'pc') return;
+        var isMobile = /Android|iPhone|iPad|iPod|Mobile|Windows Phone/i.test(navigator.userAgent)
+          || window.matchMedia('(max-width: 767px)').matches;
+        if (!isMobile) return;
+        var base = ${JSON.stringify(basePath)};
+        var path = window.location.pathname;
+        var suffix = path.indexOf(base) === 0 ? path.slice(base.length) : path;
+        if (!suffix || suffix === '/') suffix = '/';
+        var target = base + '/h5' + suffix + window.location.search + window.location.hash;
+        window.location.replace(target);
+      } catch (_) {}
+    })();
+  `;
+
+  // biome-ignore lint/security/noDangerouslySetInnerHtml: static-export device routing must run before React hydration.
+  return <script dangerouslySetInnerHTML={{ __html: code }} />;
+}
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -14,7 +38,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="zh-CN" data-theme="light">
-      <body>{children}</body>
+      <body>
+        <DeviceRedirectScript />
+        {children}
+      </body>
     </html>
   );
 }
