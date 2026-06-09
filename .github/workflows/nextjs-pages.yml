@@ -73,8 +73,8 @@ jobs:
           git add output/ public/data/ public/audio/
           git diff --staged --quiet && exit 0
           git commit -m "📚 $(date +'%Y-%m-%d') Next.js CNN精读内容"
-          git pull --rebase origin nextjs-main
-          git push origin HEAD:nextjs-main
+          git pull --rebase origin main
+          git push origin HEAD:main
 
       - name: 上传 Pages artifact
         uses: actions/upload-pages-artifact@v4
