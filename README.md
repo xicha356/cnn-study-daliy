@@ -1,7 +1,8 @@
-# CNN 英语精读 · GitHub Actions 自动化
+# CNN 英语精读 · Vercel 每日自动更新
 
-每天北京时间 07:00 自动抓取 CNN This Morning 文稿，
-调用 DeepSeek API 生成精读学习内容，发布到 GitHub Pages。
+每天北京时间 07:30 由 GitHub Actions 自动抓取 CNN This Morning 文稿，
+调用 DeepSeek API 生成精读学习内容，写入 Next.js 静态数据，再推送到
+`nextjs-main` 分支触发 Vercel 生产部署。
 
 ## 功能
 
@@ -15,13 +16,13 @@
 
 ---
 
-## 部署步骤（10分钟完成）
+## 部署步骤
 
 ### 第一步：Fork 本仓库
 
 点击右上角 **Fork** → 复制到你的账号下
 
-### 第二步：添加 DeepSeek API Key
+### 第二步：添加 GitHub Actions Secrets
 
 1. 注册 DeepSeek：https://platform.deepseek.com
    （新用户免费获得 500万 tokens）
@@ -31,7 +32,7 @@
    - Name: `DEEPSEEK_API_KEY`
    - Value: 你的 API Key（sk-xxxxxxxx）
 
-### 可选：添加 ElevenLabs 发音配置
+### 第三步：可选添加 ElevenLabs 发音配置
 
 如果希望每天自动给词汇和长难句生成美式男音发音，添加这个 Actions secret：
 
@@ -45,21 +46,36 @@
 不要把 ElevenLabs token 写进 `index.html`、JSON 或任何会提交到仓库的文件。
 页面不会要求学习者填写 Key 或 Voice ID；音频由 GitHub Actions 生成后作为静态 mp3 播放。
 
-### 第三步：开启 GitHub Pages
+### 第四步：部署到 Vercel
 
-1. 仓库 → **Settings → Pages**
-2. Source 选择：**Deploy from a branch**
-3. Branch 选择：**main** / **root**
-4. 保存
+推荐创建两个 Vercel Project：
 
-### 第四步：手动触发首次生成
+- PC：Root Directory `apps/english-web`
+- H5：Root Directory `apps/english-h5`
+
+两个项目都使用：
+
+- Production Branch：`nextjs-main`
+- Install Command：`pnpm install --frozen-lockfile`
+- Build Command：`pnpm build`
+
+如果 Vercel 控制台提示 workspace 包找不到，开启项目设置里的
+Include source files outside of the Root Directory；或者参考
+`VERCEL.md` 使用仓库根目录构建。
+
+### 第五步：手动触发首次生成
 
 1. 仓库 → **Actions → 每日CNN精读自动生成**
 2. 点击 **Run workflow** → Run workflow
 3. 等待约 1-2 分钟
-4. 刷新你的 GitHub Pages 地址即可看到学习内容
+4. 确认 workflow 向 `nextjs-main` 推送了 `public/data/` 更新
+5. 等待 Vercel 自动完成生产部署
 
-之后每天北京时间 07:00 自动运行，无需任何操作。
+之后每天北京时间 07:30 自动运行，无需任何操作。
+
+> 注意：GitHub 定时 workflow 只会从仓库默认分支运行。当前默认分支是
+> `main`，因此 `.github/workflows/daily.yml` 需要存在于 `main` 上；workflow
+> 执行时会 checkout `nextjs-main` 并把生成结果推送到 `nextjs-main`，从而触发 Vercel。
 
 ---
 
@@ -68,17 +84,24 @@
 ```
 ├── .github/
 │   └── workflows/
-│       └── daily.yml          # 自动化任务（每天 07:00 北京时间）
+│       └── daily.yml          # 自动化任务（每天 07:30 北京时间）
+├── apps/
+│   ├── english-web/           # PC 端 Next.js 应用
+│   └── english-h5/            # 移动端 Next.js 应用
+├── packages/
+│   ├── study-core/            # 数据读取、类型和共享逻辑
+│   └── study-ui/              # 共享阅读组件
+├── public/
+│   ├── data/                  # Vercel/Next.js 读取的文章索引和详情 JSON
+│   └── audio/                 # 预生成音频
 ├── src/
 │   ├── generate.py            # 抓取文稿 + 调用 DeepSeek API
-│   ├── build_index.py         # 重建 index.html
+│   ├── build_index.py         # GitHub Pages 备用入口生成
 │   └── template.html          # 前端页面模板
 ├── output/
-│   ├── 2026-06-05.json        # 每日生成的学习内容
-│   ├── 2026-06-06.json
+│   ├── 2026-06-05.json        # 原始生成内容
 │   └── audio/                 # ElevenLabs 词汇/长难句发音 mp3
-├── index.html                 # GitHub Pages 入口（自动生成）
-└── .gitignore
+└── VERCEL.md                  # Vercel 部署和自动更新说明
 ```
 
 ---
@@ -88,7 +111,7 @@
 | 项目 | 费用 |
 |---|---|
 | GitHub Actions | 免费（每月2000分钟） |
-| GitHub Pages | 免费 |
+| Vercel | Hobby 项目通常免费 |
 | DeepSeek V4 Flash | 每日约 $0.001（不到1分钱） |
 | **每月合计** | **< $0.03** |
 

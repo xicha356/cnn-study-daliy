@@ -4,9 +4,7 @@ on:
   schedule:
     # 周一到周五 北京时间 07:30 = UTC 23:30 (前一天)
     - cron: '30 23 * * 0-4'
-    # 周一 07:30 补上周五内容（UTC周一 = 北京周一早上）
-    # 上面 0-4 已覆盖周日UTC=周一北京，实际周末不会有新内容
-    # 保险起见额外加一条：周六UTC(=周六北京下午)也跑一次，自动回退到周五
+    # 周六北京时间 07:30 再跑一次，自动回退到周五内容
     - cron: '30 23 * * 5'
 
   workflow_dispatch:
@@ -28,16 +26,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 检出仓库
+      - name: 检出 Vercel 生产分支
         uses: actions/checkout@v5
+        with:
+          ref: nextjs-main
 
       - name: 设置 Python 3.12
         uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
+      - name: 设置 pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9.15.0
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+          cache: 'pnpm'
+
       - name: 安装依赖
-        run: pip install requests
+        run: |
+          pip install requests
+          pnpm install --frozen-lockfile
 
       - name: 生成学习内容
         env:
@@ -48,15 +61,17 @@ jobs:
           TARGET_DATE: ${{ github.event.inputs.date }}
         run: python src/generate.py
 
-      - name: 重建前端页面
-        run: python src/build_index.py
+      - name: 准备 Next.js 静态数据
+        run: |
+          pnpm prepare:data
+          pnpm validate:data
 
-      - name: 提交推送
+      - name: 提交并触发 Vercel 生产部署
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/ index.html
+          git add output/ public/data/ public/audio/
           git diff --staged --quiet && exit 0
-          git commit -m "📚 $(date +'%Y-%m-%d') CNN精读内容"
-          git pull --rebase origin main
-          git push origin HEAD:main
+          git commit -m "📚 $(date +'%Y-%m-%d') Vercel CNN精读内容"
+          git pull --rebase origin nextjs-main
+          git push origin HEAD:nextjs-main
