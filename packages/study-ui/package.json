@@ -1,0 +1,28 @@
+{
+  "name": "@study/ui",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./utils": "./src/utils.ts",
+    "./AudioButton": "./src/AudioButton.tsx",
+    "./ThemeToggle": "./src/ThemeToggle.tsx",
+    "./WordPopup": "./src/WordPopup.tsx",
+    "./ParagraphFlipCard": "./src/ParagraphFlipCard.tsx"
+  },
+  "dependencies": {
+    "@study/core": "workspace:*",
+    "react": "19.2.7"
+  },
+  "scripts": {
+    "build": "tsc --noEmit",
+    "lint": "biome check src",
+    "type-check": "tsc --noEmit",
+    "clean": "rm -rf .turbo"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "@types/react": "^19.0.2",
+    "typescript": "^5.7.2"
+  }
+}

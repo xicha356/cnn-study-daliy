@@ -1,0 +1,6 @@
+.next
+out
+node_modules
+.venv
+public/audio
+output/audio

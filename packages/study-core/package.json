@@ -1,0 +1,23 @@
+{
+  "name": "@study/core",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./types": "./src/types.ts",
+    "./data": "./src/data.ts",
+    "./storage": "./src/storage.ts",
+    "./translation": "./src/translation.ts",
+    "./audio": "./src/audio.ts"
+  },
+  "scripts": {
+    "build": "tsc --noEmit",
+    "lint": "biome check src",
+    "type-check": "tsc --noEmit",
+    "clean": "rm -rf .turbo"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.10",
+    "typescript": "^5.7.2"
+  }
+}

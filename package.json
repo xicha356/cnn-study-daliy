@@ -1,0 +1,26 @@
+{
+  "name": "cnn-study-daliy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "turbo build",
+    "type-check": "turbo type-check",
+    "lint": "turbo lint",
+    "format": "biome format --write .",
+    "prepare:data": "node scripts/prepare-public-data.mjs",
+    "validate:data": "node scripts/validate-public-data.mjs",
+    "build:pages": "node scripts/build-pages.mjs"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "turbo": "^2.3.3",
+    "typescript": "^5.7.2"
+  },
+  "packageManager": "pnpm@9.15.0",
+  "engines": {
+    "node": ">=20.12.0"
+  }
+}

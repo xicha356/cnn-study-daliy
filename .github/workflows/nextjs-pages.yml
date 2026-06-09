@@ -1,0 +1,95 @@
+name: Next.js 双端部署
+
+on:
+  push:
+    branches:
+      - nextjs-main
+  workflow_dispatch:
+    inputs:
+      date:
+        description: '指定日期 YYYY-MM-DD（留空=自动找最近工作日）'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: nextjs-cnn-study-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v5
+
+      - name: 设置 Python 3.12
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: 设置 pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9.15.0
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+          cache: 'pnpm'
+
+      - name: 安装依赖
+        run: |
+          pip install requests
+          pnpm install --frozen-lockfile
+
+      - name: 生成学习内容
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID || 'pNInz6obpgDQGcFmaJgB' }}
+          ELEVENLABS_MODEL_ID: ${{ vars.ELEVENLABS_MODEL_ID || 'eleven_flash_v2_5' }}
+          TARGET_DATE: ${{ github.event.inputs.date }}
+        run: python src/generate.py
+
+      - name: 准备 Next.js 静态数据
+        run: |
+          pnpm prepare:data
+          pnpm validate:data
+
+      - name: 检查并构建
+        run: |
+          pnpm type-check
+          pnpm lint
+          pnpm build:pages
+
+      - name: 保存生成内容
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/ public/data/ public/audio/
+          git diff --staged --quiet && exit 0
+          git commit -m "📚 $(date +'%Y-%m-%d') Next.js CNN精读内容"
+          git pull --rebase origin nextjs-main
+          git push origin HEAD:nextjs-main
+
+      - name: 上传 Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 部署 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
