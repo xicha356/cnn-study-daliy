@@ -13,7 +13,8 @@ from pathlib import Path
 DEEPSEEK_API_KEY = os.environ.get('DEEPSEEK_API_KEY', '')
 DEEPSEEK_URL     = 'https://api.deepseek.com/v1/chat/completions'
 ELEVENLABS_API_KEY = os.environ.get('ELEVENLABS_API_KEY', '')
-ELEVENLABS_VOICE_ID = os.environ.get('ELEVENLABS_VOICE_ID', '')
+DEFAULT_ELEVENLABS_VOICE_ID = 'pNInz6obpgDQGcFmaJgB'  # Adam, American male
+ELEVENLABS_VOICE_ID = os.environ.get('ELEVENLABS_VOICE_ID', DEFAULT_ELEVENLABS_VOICE_ID)
 ELEVENLABS_MODEL_ID = os.environ.get('ELEVENLABS_MODEL_ID', 'eleven_flash_v2_5')
 ELEVENLABS_OUTPUT_FORMAT = os.environ.get('ELEVENLABS_OUTPUT_FORMAT', 'mp3_44100_128')
 OUTPUT_DIR       = Path('output')
@@ -77,12 +78,12 @@ def audio_slug(text: str) -> str:
     return f'{base}-{digest}.mp3'
 
 
-def vocab_audio_path(date_str: str, text: str) -> Path:
-    return AUDIO_DIR / date_str / audio_slug(text)
+def audio_path(kind: str, date_str: str, text: str) -> Path:
+    return AUDIO_DIR / kind / date_str / audio_slug(text)
 
 
-def vocab_audio_url(date_str: str, text: str) -> str:
-    return f'output/audio/{date_str}/{audio_slug(text)}'
+def audio_url(kind: str, date_str: str, text: str) -> str:
+    return f'output/audio/{kind}/{date_str}/{audio_slug(text)}'
 
 
 def synthesize_audio(text: str, out_path: Path) -> bool:
@@ -126,26 +127,43 @@ def synthesize_audio(text: str, out_path: Path) -> bool:
         return False
 
 
-def ensure_vocab_audio(data: dict, date_str: str) -> bool:
-    vocab = data.get('vocabulary') or []
-    if not vocab:
+def ensure_audio_for_items(data: dict, date_str: str, key: str, text_field: str, audio_field: str, kind: str) -> bool:
+    items = data.get(key) or []
+    if not items:
         return False
     if not ELEVENLABS_API_KEY or not ELEVENLABS_VOICE_ID:
-        print('      ElevenLabs 未配置，跳过词汇音频生成')
+        print(f'      ElevenLabs 未配置，跳过 {kind} 音频生成')
         return False
 
     changed = False
-    print('      生成/补齐词汇音频...')
-    for item in vocab:
-        word = str(item.get('word') or '').strip()
-        if not word:
+    print(f'      生成/补齐 {kind} 音频...')
+    for idx, item in enumerate(items, start=1):
+        text = str(item.get(text_field) or '').strip()
+        if not text:
             continue
-        out_path = vocab_audio_path(date_str, word)
-        if synthesize_audio(word, out_path):
-            url = vocab_audio_url(date_str, word)
-            if item.get('audio_url') != url:
-                item['audio_url'] = url
+        out_path = audio_path(kind, date_str, text)
+        label = text if kind == 'vocab' else f'sentence {idx}'
+        if synthesize_audio(text, out_path):
+            url = audio_url(kind, date_str, text)
+            if item.get(audio_field) != url:
+                item[audio_field] = url
                 changed = True
+        else:
+            print(f'      ⚠ 未生成 {label}')
+    return changed
+
+
+def ensure_vocab_audio(data: dict, date_str: str) -> bool:
+    return ensure_audio_for_items(data, date_str, 'vocabulary', 'word', 'audio_url', 'vocab')
+
+
+def ensure_sentence_audio(data: dict, date_str: str) -> bool:
+    return ensure_audio_for_items(data, date_str, 'sentences', 'en', 'audio_url', 'sentences')
+
+
+def ensure_all_audio(data: dict, date_str: str) -> bool:
+    changed = ensure_vocab_audio(data, date_str)
+    changed = ensure_sentence_audio(data, date_str) or changed
     return changed
 
 
@@ -368,7 +386,7 @@ def main():
     if out_path.exists():
         print(f'✓ 缓存已存在：{out_path}')
         data = json.loads(out_path.read_text(encoding='utf-8'))
-        if ensure_vocab_audio(data, requested_date):
+        if ensure_all_audio(data, requested_date):
             out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
             print(f'✓ 已补齐音频字段：{out_path}')
         return
@@ -380,7 +398,7 @@ def main():
     if out_path.exists():
         print(f'✓ {actual_date} 缓存已存在')
         data = json.loads(out_path.read_text(encoding='utf-8'))
-        if ensure_vocab_audio(data, actual_date):
+        if ensure_all_audio(data, actual_date):
             out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
             print(f'✓ 已补齐音频字段：{out_path}')
         return
@@ -406,7 +424,7 @@ def main():
     data['paragraphs'] = paragraphs
     data['date']       = actual_date
     data['source_url'] = source_url
-    ensure_vocab_audio(data, actual_date)
+    ensure_all_audio(data, actual_date)
 
     print(f'      词汇：{len(data.get("vocabulary",[]))} 难句：{len(data.get("sentences",[]))}')
 

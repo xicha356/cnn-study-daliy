@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>CNN 英语精读</title>
 <style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,700&display=swap');
 :root{
   --bg:#0f1117;--bg2:#1a1d27;--bg3:#232635;--bg4:#2a2d3e;
   --border:#2e3247;--border2:#3a4060;
@@ -51,8 +52,6 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .btn{padding:6px 14px;border:none;border-radius:var(--r);cursor:pointer;font-size:13px;font-weight:500;transition:all .15s}
 .btn-src{background:var(--bg3);color:var(--text2);font-size:12px}
 .btn-src:hover{color:var(--blue)}
-.btn-tts{background:var(--bg3);color:var(--text2);font-size:12px}
-.btn-tts:hover{color:var(--blue);border-color:var(--blue)}
 .icon-btn{border:1px solid var(--border);background:var(--bg3);color:var(--text2);border-radius:7px;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:6px;min-width:32px;height:30px;padding:0 9px;font-size:12px;transition:all .15s;white-space:nowrap}
 .icon-btn:hover:not(:disabled){color:var(--blue);border-color:var(--blue);background:var(--blue-dim)}
 .icon-btn:disabled{opacity:.45;cursor:not-allowed}
@@ -192,19 +191,6 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
 .empty{text-align:center;padding:5rem 1rem;color:var(--text2)}
 .empty h3{font-size:18px;color:var(--text);margin-bottom:8px}
 
-/* ── TTS Settings ── */
-.tts-panel{position:fixed;right:18px;top:62px;z-index:300;width:min(380px,calc(100vw - 28px));background:var(--bg4);border:1px solid var(--border2);border-radius:var(--r);box-shadow:0 12px 40px rgba(0,0,0,.55);padding:1rem;display:none}
-.tts-panel.show{display:block}
-.tts-title{font-size:14px;font-weight:700;margin-bottom:8px}
-.tts-note{font-size:12px;color:var(--text2);line-height:1.6;margin-bottom:10px}
-.tts-field{display:flex;flex-direction:column;gap:4px;margin-bottom:9px}
-.tts-field label{font-size:11px;color:var(--text2);font-weight:600;letter-spacing:.04em;text-transform:uppercase}
-.tts-field input,.tts-field select{background:var(--bg2);border:1px solid var(--border);border-radius:7px;color:var(--text);padding:8px 9px;font-size:13px;outline:none}
-.tts-field input:focus,.tts-field select:focus{border-color:var(--blue)}
-.tts-check{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--text2);margin:5px 0 12px}
-.tts-actions{display:flex;justify-content:space-between;align-items:center;gap:8px}
-.tts-status{font-size:12px;color:var(--text2)}
-
 /* ── Scrollbar ── */
 ::-webkit-scrollbar{width:6px;height:6px}
 ::-webkit-scrollbar-track{background:var(--bg)}
@@ -223,6 +209,166 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
   .badge-auto{display:none}
   .btn{padding:6px 10px}
   .topbar-date{font-size:11px}
+}
+
+/* ── Editorial redesign ── */
+:root{
+  --paper:#f3efe4;--paper2:#fbf7ed;--paper3:#e8decd;
+  --ink:#14171f;--ink2:#47505a;--muted:#7c7367;
+  --line:#d7cbb8;--line2:#b9aa93;
+  --red:#c5222b;--red2:#8f1620;--blue:#155d73;--blue-dim:#dcecf0;
+  --green:#1d7d55;--amber:#a96612;--coral:#bf4c34;--purple:#6d4ea1;
+  --bg:var(--paper);--bg2:var(--paper2);--bg3:#eee5d4;--bg4:#fffaf0;
+  --border:var(--line);--border2:var(--line2);
+  --text:var(--ink);--text2:var(--ink2);--text3:var(--muted);
+  --hl-yellow:rgba(197,34,43,.1);--hl-yellow-border:rgba(197,34,43,.82);
+  --hl-active:rgba(197,34,43,.2);
+  --r:6px;--font:'IBM Plex Sans Condensed','Avenir Next Condensed','Arial Narrow',sans-serif;
+  --serif:'Newsreader',Georgia,serif;--mono:'SFMono-Regular','Consolas',monospace;
+}
+body{
+  background:
+    linear-gradient(90deg,rgba(20,23,31,.035) 1px,transparent 1px) 0 0/34px 34px,
+    radial-gradient(circle at 85% 12%,rgba(197,34,43,.12),transparent 32%),
+    linear-gradient(180deg,#f8f3e8 0%,#eee4d2 100%);
+  color:var(--ink);
+}
+body:before{
+  content:"";position:fixed;inset:0;pointer-events:none;z-index:0;
+  background-image:radial-gradient(rgba(20,23,31,.18) .45px,transparent .45px);
+  background-size:4px 4px;opacity:.18;mix-blend-mode:multiply;
+}
+.layout{position:relative;z-index:1;grid-template-columns:238px minmax(0,1fr)}
+.sidebar{
+  background:#151922;color:#f5eddf;border-right:0;box-shadow:10px 0 36px rgba(20,23,31,.18);
+}
+.sidebar-logo{
+  font-family:var(--serif);font-size:26px;line-height:1;padding:1.35rem 1.2rem 1.2rem;
+  border-bottom:1px solid rgba(255,255,255,.16);letter-spacing:-.03em;
+}
+.sidebar-logo span{
+  display:inline-grid;place-items:center;width:46px;height:34px;margin-right:7px;
+  background:var(--red);color:#fff;font-family:var(--font);font-size:16px;letter-spacing:.04em;
+}
+.sidebar-section{color:#bcae98;padding:1rem 1.2rem .35rem}
+.hist-item{padding:.66rem 1.2rem;color:#d8ccb9;border-left:4px solid transparent;font-size:14px}
+.hist-item:hover{background:rgba(255,255,255,.07);color:#fff}
+.hist-item.active{background:rgba(197,34,43,.18);color:#fff;border-left-color:var(--red)}
+.hist-item .dot{background:#695f50}.hist-item.active .dot{background:#fff}
+.sidebar-nav{border-top:1px solid rgba(255,255,255,.14)}.nav-item{color:#d8ccb9}.nav-item:hover{color:#fff}
+.topbar{
+  background:rgba(248,243,232,.88);backdrop-filter:blur(16px);border-bottom:1px solid rgba(20,23,31,.1);
+  padding:.9rem clamp(1rem,3vw,2.3rem);box-shadow:0 8px 28px rgba(20,23,31,.07);
+}
+.topbar-title{font-family:var(--serif);font-size:20px;font-weight:700;letter-spacing:-.025em}
+.badge-auto{background:#e3efe6;color:var(--green);border-color:#b6d1bd;border-radius:2px;text-transform:uppercase;letter-spacing:.05em}
+.btn,.icon-btn,.qnext,.btn-restart{border-radius:2px;font-family:var(--font);font-weight:700;letter-spacing:.03em}
+.btn-src,.icon-btn{background:#171b23;color:#fff;border:1px solid #171b23;box-shadow:3px 3px 0 rgba(197,34,43,.25)}
+.btn-src:hover,.icon-btn:hover:not(:disabled){background:var(--red);border-color:var(--red);color:#fff;transform:translate(-1px,-1px)}
+.icon-btn:disabled{background:#d9cfbd;color:#938977;border-color:#c7bba8;box-shadow:none}
+.icon-btn.playing{background:var(--green);border-color:var(--green);color:#fff}
+.icon-btn.loading{background:var(--amber);border-color:var(--amber);color:#fff}
+.content{padding:clamp(1rem,3vw,2.5rem);max-width:1360px;width:100%;margin:0 auto}
+.study-hero{
+  position:relative;overflow:hidden;background:#151922;color:#fff;border:1px solid #151922;
+  border-radius:2px;padding:clamp(1.4rem,4vw,3rem);margin-bottom:1.4rem;
+  box-shadow:12px 12px 0 rgba(197,34,43,.12);
+}
+.study-hero:before{content:"";position:absolute;inset:0;background:linear-gradient(110deg,transparent 0 56%,rgba(197,34,43,.26) 56% 58%,transparent 58%),radial-gradient(circle at 82% 25%,rgba(255,255,255,.12),transparent 28%);pointer-events:none}
+.kicker{position:relative;color:#f3c3b0;font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;margin-bottom:.55rem}
+.hero-title{position:relative;font-family:var(--serif);font-size:clamp(36px,7vw,78px);line-height:.94;letter-spacing:-.055em;max-width:900px}
+.hero-meta{position:relative;display:flex;gap:8px;flex-wrap:wrap;margin-top:1rem;color:#d7cbb8;font-size:13px}
+.meta-pill{border:1px solid rgba(255,255,255,.2);padding:4px 9px;background:rgba(255,255,255,.06)}
+.summary-card{
+  background:var(--paper2);border:1px solid var(--line);border-left:8px solid var(--red);
+  border-radius:2px;padding:1.15rem 1.25rem;box-shadow:0 14px 34px rgba(20,23,31,.08);
+}
+.card-label,.word-panel-title,.alabel{color:var(--red2);font-weight:700;letter-spacing:.14em}
+.summary-text{font-family:var(--serif);font-size:18px;line-height:1.75;color:#252a32}
+.tabs{
+  background:transparent;border:0;border-bottom:2px solid #171b23;border-radius:0;padding:0;gap:0;margin-bottom:1.35rem;
+}
+.tab{
+  flex:0 0 auto;padding:9px 16px;border:1px solid var(--line);border-bottom:0;border-radius:2px 2px 0 0;
+  background:#e8decd;color:#4b443b;font-weight:700;margin-right:5px;
+}
+.tab:hover{background:#f6efe2;color:#171b23}.tab.active{background:#171b23;color:#fff}
+.transcript-wrap{grid-template-columns:minmax(0,1fr) 310px;gap:1.1rem}
+.transcript-hint{background:#fff6df;border:1px solid #ead8a6;border-left:6px solid var(--amber);border-radius:2px;color:#5f4a24}
+.transcript-body{
+  background:rgba(255,250,240,.92);border:1px solid var(--line);border-radius:2px;
+  padding:clamp(1rem,2.5vw,2rem);font-family:var(--serif);font-size:18px;line-height:2.05;
+  box-shadow:0 18px 42px rgba(20,23,31,.08);
+}
+.para{border-bottom:1px solid rgba(215,203,184,.65);padding-bottom:1rem}.para:last-child{border-bottom:0}
+.speaker-tag{background:#171b23;color:#fff;border-radius:1px;font-family:var(--font);letter-spacing:.12em}
+.hl{background:linear-gradient(transparent 52%,var(--hl-yellow) 52%);border-bottom:2px solid var(--hl-yellow-border);border-radius:0}
+.hl:hover,.hl.active{background:linear-gradient(transparent 40%,var(--hl-active) 40%)}
+.word-panel{
+  background:#171b23;color:#fff;border:0;border-radius:2px;top:86px;box-shadow:10px 10px 0 rgba(197,34,43,.14);
+}
+.word-panel-title{color:#f2cdb6;display:flex;align-items:center;justify-content:space-between}
+.word-list{gap:6px}.word-chip{border:1px solid rgba(255,255,255,.1);border-radius:2px;background:rgba(255,255,255,.04);color:#fff}
+.word-chip:hover,.word-chip.active{background:rgba(197,34,43,.25);border-color:rgba(255,255,255,.3)}
+.wc-word{color:#fff;font-weight:700}.wc-cn{color:#d5c7b1}.wc-lv{border-radius:1px;width:5px;height:22px}
+.wc-actions .review-btn{background:transparent;color:#d5c7b1;border-color:rgba(255,255,255,.18)}
+.vocab-grid{gap:12px}.vcard,.scard,.tcard,.qcard{
+  background:rgba(255,250,240,.96);border:1px solid var(--line);border-radius:2px;
+  box-shadow:0 14px 32px rgba(20,23,31,.07);
+}
+.vcard{padding:1.2rem 1.35rem}.vword{font-family:var(--serif);font-size:28px;color:#171b23;letter-spacing:-.03em}
+.vph{color:#7a6e5c}.bpos,.blv,.qbadge{border-radius:2px;font-weight:700}
+.bpos,.qbadge.vocab{background:#dcecf0;color:var(--blue)}.blv{background:#f4dfbf;color:var(--amber)}
+.vcn{color:var(--red);font-weight:700}.ven{color:#4b5560}.veg{background:#eee5d4;border-left:5px solid var(--blue);border-radius:0}
+.scard{padding:1.35rem}.snum{border-radius:2px;background:var(--red);font-family:var(--serif);font-size:16px}
+.sen-en{font-family:var(--serif);font-size:21px;line-height:1.65;color:#171b23}
+.sen-cn{background:#edf3f1;color:#27513f;border-radius:2px}
+.tcard{padding:1.25rem;border-left:6px solid var(--blue)}.ttitle{font-family:var(--serif);font-size:22px;color:#171b23}.tdot{border-radius:1px}
+.qmeta{background:#171b23;color:#f5eddf;padding:.8rem 1rem;border-radius:2px}
+.qbar-w{background:rgba(255,255,255,.2)}.qbar-f{background:#f5eddf}
+.qopt{background:#f8f1e6;border-color:var(--line);border-radius:2px}.qopt:hover:not(.disabled){background:#fff;border-color:var(--red);color:var(--red)}
+.qnext,.btn-restart{background:#171b23}.qnext:hover,.btn-restart:hover{background:var(--red)}
+.score-num{color:var(--red);font-family:var(--serif)}
+.vocab-popup{
+  background:#171b23;color:#fff;border:1px solid rgba(255,255,255,.14);border-radius:2px;
+  box-shadow:10px 10px 0 rgba(197,34,43,.2);max-width:340px;
+}
+.vp-word{font-family:var(--serif);font-size:24px}.vp-cn{color:#f7c2a6}.vp-en,.vp-ph{color:#d8ccb9}
+.vp-pos{background:#244653;color:#d7f4ff}.vp-lv{background:#4a2c12;color:#ffd29f}
+.review-btn{border-radius:2px;background:#f4ead9;color:#4a4136}.review-btn.reviewing{background:#fff2c9;color:#8a5a04}.review-btn.mastered{background:#dff0e5;color:#1d7d55}
+.mobile-word-fab,.mobile-word-sheet,.mobile-word-scrim{display:none}
+.toast{
+  position:fixed;left:50%;bottom:24px;z-index:500;transform:translate(-50%,16px);
+  background:#171b23;color:#fff;border:1px solid rgba(255,255,255,.18);padding:9px 13px;
+  opacity:0;pointer-events:none;transition:.22s ease;border-radius:2px;box-shadow:0 12px 30px rgba(0,0,0,.24);
+}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+@media(max-width:900px){
+  .layout{grid-template-columns:1fr}.sidebar{display:none}
+  .content{padding:1rem 1rem 6rem}.study-hero{padding:1.35rem;margin-bottom:1rem}
+  .transcript-wrap{grid-template-columns:1fr}.transcript-wrap>div:last-child{display:none}
+  .topbar{flex-wrap:wrap;gap:8px;padding:.75rem 1rem}.topbar-title{flex:1 0 100%}
+  .tabs{overflow-x:auto}.tab{min-width:86px;padding:8px 11px}
+  .mobile-word-fab{
+    display:inline-flex;position:fixed;right:18px;bottom:18px;z-index:350;align-items:center;justify-content:center;
+    width:58px;height:58px;border-radius:50%;border:0;background:var(--red);color:#fff;font-weight:800;
+    box-shadow:0 14px 34px rgba(197,34,43,.38);font-family:var(--font);letter-spacing:.04em;
+  }
+  .mobile-word-scrim.show{display:block;position:fixed;inset:0;background:rgba(20,23,31,.42);z-index:360}
+  .mobile-word-sheet{
+    display:block;position:fixed;left:0;right:0;bottom:0;z-index:370;background:#171b23;color:#fff;
+    max-height:72vh;transform:translateY(105%);transition:transform .24s ease;border-top:1px solid rgba(255,255,255,.18);
+    box-shadow:0 -18px 44px rgba(20,23,31,.28);padding:1rem;
+  }
+  .mobile-word-sheet.show{transform:translateY(0)}
+  .mobile-word-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:.75rem}
+  .mobile-word-head strong{font-family:var(--serif);font-size:24px}
+  .mobile-word-sheet .word-list{max-height:calc(72vh - 80px)}
+}
+@media(max-width:560px){
+  .hero-title{font-size:40px}.summary-text{font-size:16px}.transcript-body{font-size:17px;padding:1rem}
+  .topbar-date{font-size:11px}.btn{padding:6px 10px}.badge-auto{display:none}
+  .sen-en{font-size:19px}.vword{font-size:25px}
 }
 </style>
 </head>
@@ -245,11 +391,21 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
     <div class="topbar-title" id="topbarTitle">CNN This Morning</div>
     <span class="topbar-date" id="topbarDate"></span>
     <span class="badge badge-auto">⚡ 每日自动更新</span>
-    <button class="btn btn-tts" onclick="toggleTtsPanel()">发音设置</button>
     <button class="btn btn-src" id="srcBtn" onclick="openSource()">查看原文 →</button>
   </div>
 
   <div class="content">
+
+    <section class="study-hero">
+      <div class="kicker">Daily News Lab</div>
+      <h1 class="hero-title">CNN 英语精读</h1>
+      <div class="hero-meta">
+        <span class="meta-pill" id="heroDate">今日材料</span>
+        <span class="meta-pill">美式男音</span>
+        <span class="meta-pill">词汇复习</span>
+        <span class="meta-pill">长难句朗读</span>
+      </div>
+    </section>
 
     <!-- Summary -->
     <div class="summary-card">
@@ -330,32 +486,16 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:1
   <div class="vp-en" id="vpEn"></div>
 </div>
 
-<!-- TTS Settings -->
-<div class="tts-panel" id="ttsPanel">
-  <div class="tts-title">发音设置</div>
-  <div class="tts-note">长难句朗读会在浏览器里按需请求 ElevenLabs，并缓存到本机。API Key 不会写入仓库。</div>
-  <div class="tts-field">
-    <label for="ttsApiKey">ElevenLabs API Key</label>
-    <input id="ttsApiKey" type="password" autocomplete="off" placeholder="sk_..." />
+<button class="mobile-word-fab" onclick="toggleMobileWords(true)" aria-label="打开词汇索引">词</button>
+<div class="mobile-word-scrim" id="mobileWordScrim" onclick="toggleMobileWords(false)"></div>
+<aside class="mobile-word-sheet" id="mobileWordSheet">
+  <div class="mobile-word-head">
+    <strong>词汇索引</strong>
+    <button class="icon-btn" onclick="toggleMobileWords(false)">收起</button>
   </div>
-  <div class="tts-field">
-    <label for="ttsVoiceId">美式男音 Voice ID</label>
-    <input id="ttsVoiceId" type="text" autocomplete="off" placeholder="从 ElevenLabs voice library 复制" />
-  </div>
-  <div class="tts-field">
-    <label for="ttsModelId">模型</label>
-    <select id="ttsModelId">
-      <option value="eleven_flash_v2_5">eleven_flash_v2_5</option>
-      <option value="eleven_turbo_v2_5">eleven_turbo_v2_5</option>
-      <option value="eleven_multilingual_v2">eleven_multilingual_v2</option>
-    </select>
-  </div>
-  <label class="tts-check"><input id="ttsRememberKey" type="checkbox" /> 只在这台电脑记住 Key</label>
-  <div class="tts-actions">
-    <span class="tts-status" id="ttsStatus">未配置长难句朗读</span>
-    <button class="icon-btn" onclick="saveTtsSettings()">保存</button>
-  </div>
-</div>
+  <div class="word-list" id="mobileWordList"></div>
+</aside>
+<div class="toast" id="toast"></div>
 
 <script>
 /* ALL_DATA_PLACEHOLDER */
@@ -367,15 +507,10 @@ let vocabFilter = 'all';
 let qState = { cur:0, score:0, answered:false, qs:[] };
 let audioPlayer = new Audio();
 let activeAudioBtn = null;
-let ttsDbPromise = null;
 const COLORS = ['#4a9eff','#e05a3a','#1abc9c','#f0a500'];
 const LV_COLORS = {'考研':'#f0a500','六级':'#4a9eff','专四':'#a78bfa','专八':'#a78bfa','时事词汇':'#2ecc71'};
 const REVIEW_KEY_PREFIX = 'cnn_vocab_status:';
-const TTS_SETTINGS_KEY = 'cnn_tts_settings';
-const TTS_CACHE_DB = 'cnn_tts_cache';
-const TTS_CACHE_STORE = 'audio';
-const DEFAULT_TTS_MODEL = 'eleven_flash_v2_5';
-let ttsSettings = loadTtsSettings();
+let toastTimer = null;
 
 audioPlayer.addEventListener('ended', clearAudioButton);
 audioPlayer.addEventListener('error', clearAudioButton);
@@ -383,7 +518,6 @@ audioPlayer.addEventListener('error', clearAudioButton);
 // ── Init ───────────────────────────────────────────
 (function init(){
   const latest = '<!-- LATEST_DATE -->';
-  hydrateTtsPanel();
   if(ALL_DATA[latest]) loadDate(latest);
   // highlight active hist item
   document.querySelector(`[data-date="${latest}"]`)?.classList.add('active');
@@ -406,6 +540,7 @@ function renderAll(data){
   currentData = data;
   document.getElementById('summaryText').textContent = data.summary||'';
   document.getElementById('topbarDate').textContent = data.date||'';
+  document.getElementById('heroDate').textContent = data.date||'今日材料';
   document.getElementById('topbarTitle').textContent =
     'CNN This Morning · ' + (data.date||'');
 
@@ -533,7 +668,7 @@ document.addEventListener('click', e=>{
 
 // ── Word List (right panel) ────────────────────────
 function renderWordList(vocab){
-  document.getElementById('wordList').innerHTML = vocab.map(v=>`
+  const html = vocab.map(v=>`
     <div class="word-chip" data-word="${attr(v.word)}" onclick="jumpToWord(decodeURIComponent('${token(v.word)}'))">
       <span class="wc-lv" style="background:${LV_COLORS[v.level]||'#4a9eff'}"></span>
       <span class="wc-word">${esc(v.word)}</span>
@@ -543,11 +678,14 @@ function renderWordList(vocab){
         ${reviewButton(v.word)}
       </span>
     </div>`).join('');
+  document.getElementById('wordList').innerHTML = html;
+  document.getElementById('mobileWordList').innerHTML = html;
 }
 
 function jumpToWord(word){
   // Switch to transcript tab
   switchTab('transcript');
+  toggleMobileWords(false);
   // Find first highlight
   setTimeout(()=>{
     const el = Array.from(document.querySelectorAll('.hl')).find(node=>node.dataset.word===word);
@@ -605,7 +743,7 @@ function renderSentences(list){
     <div class="scard">
       <div class="shead">
         <div class="snum">${i+1}</div>
-        <button class="icon-btn" onclick="playSentenceTts(event,${i})" title="朗读长难句">▶ 朗读</button>
+        <button class="icon-btn" onclick="playSentenceTts(event,${i})" ${s.audio_url?'':'disabled'} title="${s.audio_url?'朗读长难句':'音频将在下次生成后可用'}">▶ 朗读</button>
       </div>
       <div class="sen-en">${esc(s.en)}</div>
       <div class="sen-cn">${esc(s.cn)}</div>
@@ -709,17 +847,8 @@ async function playAudioUrl(url, btn){
     await audioPlayer.play();
     setAudioButton(btn, 'playing');
   }catch(err){
-    setStatus('播放失败：请检查音频文件或浏览器权限');
+    showToast('播放失败：请检查音频文件或浏览器权限');
     clearAudioButton();
-  }
-}
-
-async function playAudioBlob(blob, btn){
-  const url = URL.createObjectURL(blob);
-  try{
-    await playAudioUrl(url, btn);
-  }finally{
-    setTimeout(()=>URL.revokeObjectURL(url), 30000);
   }
 }
 
@@ -739,171 +868,31 @@ function clearAudioButton(){
   activeAudioBtn = null;
 }
 
-// ── Sentence TTS with local cache ──────────────────
+// ── Sentence Audio ────────────────────────────────
 async function playSentenceTts(e, index){
   e.stopPropagation();
   const btn = e.currentTarget;
-  const sentence = currentData?.sentences?.[index]?.en || '';
+  const sentence = currentData?.sentences?.[index];
   if(!sentence) return;
-  const settings = getRuntimeTtsSettings();
-  if(!settings.apiKey || !settings.voiceId){
-    setStatus('请先在发音设置里填写 ElevenLabs API Key 和美式男音 Voice ID');
-    toggleTtsPanel(true);
+  if(!sentence.audio_url){
+    showToast('这句音频还没生成，下次 Actions 运行后会自动补齐');
     return;
   }
-
-  try{
-    setAudioButton(btn, 'loading');
-    const cacheKey = await ttsCacheKey(settings, sentence);
-    const cached = await getCachedAudio(cacheKey);
-    if(cached){
-      setStatus('已从本机缓存播放');
-      await playAudioBlob(cached, btn);
-      return;
-    }
-    const blob = await requestElevenLabsAudio(sentence, settings);
-    await putCachedAudio(cacheKey, blob);
-    setStatus('已生成并缓存到本机');
-    await playAudioBlob(blob, btn);
-  }catch(err){
-    setStatus('长难句朗读失败：' + (err.message || '请检查 Key、Voice ID 或网络'));
-    clearAudioButton();
-  }
+  await playAudioUrl(sentence.audio_url, btn);
 }
 
-async function requestElevenLabsAudio(text, settings){
-  const url = `https://api.elevenlabs.io/v1/text-to-speech/${encodeURIComponent(settings.voiceId)}?output_format=mp3_44100_128`;
-  const resp = await fetch(url, {
-    method: 'POST',
-    headers: {
-      'xi-api-key': settings.apiKey,
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({
-      text,
-      model_id: settings.modelId || DEFAULT_TTS_MODEL,
-      language_code: 'en',
-      voice_settings: {
-        stability: 0.45,
-        similarity_boost: 0.75,
-        style: 0.1,
-        use_speaker_boost: true,
-      },
-    }),
-  });
-  if(!resp.ok){
-    const msg = await resp.text().catch(()=>'');
-    throw new Error(msg || `HTTP ${resp.status}`);
-  }
-  return await resp.blob();
+function toggleMobileWords(open){
+  document.getElementById('mobileWordSheet').classList.toggle('show', !!open);
+  document.getElementById('mobileWordScrim').classList.toggle('show', !!open);
 }
 
-async function ttsCacheKey(settings, text){
-  return [
-    settings.voiceId,
-    settings.modelId || DEFAULT_TTS_MODEL,
-    await hashText(text),
-  ].join(':');
-}
-
-async function openTtsDb(){
-  if(ttsDbPromise) return ttsDbPromise;
-  ttsDbPromise = new Promise((resolve,reject)=>{
-    const req = indexedDB.open(TTS_CACHE_DB, 1);
-    req.onupgradeneeded = () => req.result.createObjectStore(TTS_CACHE_STORE);
-    req.onsuccess = () => resolve(req.result);
-    req.onerror = () => reject(req.error);
-  });
-  return ttsDbPromise;
-}
-
-async function getCachedAudio(key){
-  const db = await openTtsDb();
-  return new Promise((resolve,reject)=>{
-    const req = db.transaction(TTS_CACHE_STORE, 'readonly').objectStore(TTS_CACHE_STORE).get(key);
-    req.onsuccess = () => resolve(req.result || null);
-    req.onerror = () => reject(req.error);
-  });
-}
-
-async function putCachedAudio(key, blob){
-  const db = await openTtsDb();
-  return new Promise((resolve,reject)=>{
-    const req = db.transaction(TTS_CACHE_STORE, 'readwrite').objectStore(TTS_CACHE_STORE).put(blob, key);
-    req.onsuccess = () => resolve();
-    req.onerror = () => reject(req.error);
-  });
-}
-
-async function hashText(text){
-  if(window.crypto?.subtle){
-    const data = new TextEncoder().encode(text);
-    const digest = await crypto.subtle.digest('SHA-256', data);
-    return Array.from(new Uint8Array(digest)).map(b=>b.toString(16).padStart(2,'0')).join('');
-  }
-  let hash = 0;
-  for(let i=0;i<text.length;i++) hash = ((hash<<5)-hash + text.charCodeAt(i)) | 0;
-  return String(hash >>> 0);
-}
-
-// ── TTS Settings ──────────────────────────────────
-function loadTtsSettings(){
-  try{
-    const saved = JSON.parse(localStorage.getItem(TTS_SETTINGS_KEY) || '{}');
-    return {
-      apiKey: saved.apiKey || '',
-      voiceId: saved.voiceId || '',
-      modelId: saved.modelId || DEFAULT_TTS_MODEL,
-      rememberKey: !!saved.apiKey,
-    };
-  }catch(e){
-    return {apiKey:'', voiceId:'', modelId:DEFAULT_TTS_MODEL, rememberKey:false};
-  }
-}
-
-function hydrateTtsPanel(){
-  document.getElementById('ttsApiKey').value = ttsSettings.apiKey || '';
-  document.getElementById('ttsVoiceId').value = ttsSettings.voiceId || '';
-  document.getElementById('ttsModelId').value = ttsSettings.modelId || DEFAULT_TTS_MODEL;
-  document.getElementById('ttsRememberKey').checked = !!ttsSettings.rememberKey;
-  setStatus(ttsSettings.voiceId ? '长难句朗读已配置' : '未配置长难句朗读');
-}
-
-function getRuntimeTtsSettings(){
-  return {
-    apiKey: document.getElementById('ttsApiKey').value.trim() || ttsSettings.apiKey,
-    voiceId: document.getElementById('ttsVoiceId').value.trim() || ttsSettings.voiceId,
-    modelId: document.getElementById('ttsModelId').value || ttsSettings.modelId || DEFAULT_TTS_MODEL,
-  };
-}
-
-function saveTtsSettings(){
-  const rememberKey = document.getElementById('ttsRememberKey').checked;
-  ttsSettings = {
-    apiKey: document.getElementById('ttsApiKey').value.trim(),
-    voiceId: document.getElementById('ttsVoiceId').value.trim(),
-    modelId: document.getElementById('ttsModelId').value || DEFAULT_TTS_MODEL,
-    rememberKey,
-  };
-  try{
-    localStorage.setItem(TTS_SETTINGS_KEY, JSON.stringify({
-      apiKey: rememberKey ? ttsSettings.apiKey : '',
-      voiceId: ttsSettings.voiceId,
-      modelId: ttsSettings.modelId,
-    }));
-  }catch(e){}
-  setStatus(ttsSettings.voiceId ? '已保存发音设置' : '请填写 Voice ID');
-}
-
-function toggleTtsPanel(forceOpen){
-  const panel = document.getElementById('ttsPanel');
-  if(forceOpen === true) panel.classList.add('show');
-  else panel.classList.toggle('show');
-}
-
-function setStatus(text){
-  const el = document.getElementById('ttsStatus');
-  if(el) el.textContent = text;
+function showToast(text){
+  const el = document.getElementById('toast');
+  if(!el) return;
+  el.textContent = text;
+  el.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(()=>el.classList.remove('show'), 2600);
 }
 
 // ── Review State ──────────────────────────────────

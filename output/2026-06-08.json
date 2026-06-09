@@ -11,7 +11,8 @@
       "cn": "相互发动导弹袭击",
       "en": "to exchange missile strikes",
       "excerpt": "Israel and Iran trading missile attacks",
-      "example_cn": "以色列和伊朗相互发动导弹袭击。"
+      "example_cn": "以色列和伊朗相互发动导弹袭击。",
+      "audio_url": "output/audio/vocab/2026-06-08/trade-missile-attacks-80e6bbd5.mp3"
     },
     {
       "word": "fragile ceasefire",
@@ -21,7 +22,8 @@
       "cn": "脆弱的停火",
       "en": "a ceasefire that is easily broken",
       "excerpt": "the fragile ceasefire survive this test",
-      "example_cn": "脆弱的停火经受住了这次考验。"
+      "example_cn": "脆弱的停火经受住了这次考验。",
+      "audio_url": "output/audio/vocab/2026-06-08/fragile-ceasefire-faf52573.mp3"
     },
     {
       "word": "in defiance of",
@@ -31,7 +33,8 @@
       "cn": "无视；违抗",
       "en": "in opposition to; disregarding",
       "excerpt": "those retaliatory strikes appear to be in defiance of President Trump",
-      "example_cn": "那些报复性打击似乎是在违抗特朗普总统。"
+      "example_cn": "那些报复性打击似乎是在违抗特朗普总统。",
+      "audio_url": "output/audio/vocab/2026-06-08/in-defiance-of-d36d46cf.mp3"
     },
     {
       "word": "hold off on",
@@ -41,7 +44,8 @@
       "cn": "推迟；暂缓",
       "en": "to delay doing something",
       "excerpt": "told him to hold off on striking back",
-      "example_cn": "告诉他暂缓反击。"
+      "example_cn": "告诉他暂缓反击。",
+      "audio_url": "output/audio/vocab/2026-06-08/hold-off-on-b351159f.mp3"
     },
     {
       "word": "barrage",
@@ -51,7 +55,8 @@
       "cn": "弹幕；齐射",
       "en": "a concentrated artillery or missile bombardment",
       "excerpt": "approximately three barrages in that first wave",
-      "example_cn": "第一波大约有三轮齐射。"
+      "example_cn": "第一波大约有三轮齐射。",
+      "audio_url": "output/audio/vocab/2026-06-08/barrage-622886cf.mp3"
     },
     {
       "word": "intercept",
@@ -61,7 +66,8 @@
       "cn": "拦截",
       "en": "to stop or catch something in transit",
       "excerpt": "most of those have been intercepted",
-      "example_cn": "大多数已被拦截。"
+      "example_cn": "大多数已被拦截。",
+      "audio_url": "output/audio/vocab/2026-06-08/intercept-c1feeaa7.mp3"
     },
     {
       "word": "escalation ladder",
@@ -71,7 +77,8 @@
       "cn": "升级阶梯（冲突逐步升级的步骤）",
       "en": "a series of steps that lead to increased conflict",
       "excerpt": "on the escalation ladder",
-      "example_cn": "在升级阶梯上。"
+      "example_cn": "在升级阶梯上。",
+      "audio_url": "output/audio/vocab/2026-06-08/escalation-ladder-fca1b991.mp3"
     },
     {
       "word": "proxy",
@@ -81,7 +88,8 @@
       "cn": "代理人；代理",
       "en": "a person or group authorized to act on behalf of another",
       "excerpt": "the Houthis in Yemen; an Iranian proxy",
-      "example_cn": "也门的胡塞武装，伊朗的代理人。"
+      "example_cn": "也门的胡塞武装，伊朗的代理人。",
+      "audio_url": "output/audio/vocab/2026-06-08/proxy-d799bae6.mp3"
     },
     {
       "word": "bargaining chip",
@@ -91,7 +99,8 @@
       "cn": "谈判筹码",
       "en": "something used to gain an advantage in negotiations",
       "excerpt": "using Lebanon as a chip -- bargaining chip",
-      "example_cn": "把黎巴嫩当作谈判筹码。"
+      "example_cn": "把黎巴嫩当作谈判筹码。",
+      "audio_url": "output/audio/vocab/2026-06-08/bargaining-chip-697eb43d.mp3"
     },
     {
       "word": "volatile",
@@ -101,7 +110,8 @@
       "cn": "动荡的；易变的",
       "en": "likely to change suddenly and unpredictably",
       "excerpt": "over what was a very volatile weekend",
-      "example_cn": "在一个非常动荡的周末。"
+      "example_cn": "在一个非常动荡的周末。",
+      "audio_url": "output/audio/vocab/2026-06-08/volatile-5b12b97a.mp3"
     },
     {
       "word": "red line",
@@ -111,7 +121,8 @@
       "cn": "红线（不可逾越的界限）",
       "en": "a limit beyond which action will be taken",
       "excerpt": "That crossed Israel's red line",
-      "example_cn": "那越过了以色列的红线。"
+      "example_cn": "那越过了以色列的红线。",
+      "audio_url": "output/audio/vocab/2026-06-08/red-line-5efb7d2d.mp3"
     },
     {
       "word": "rein in",
@@ -121,7 +132,8 @@
       "cn": "控制；约束",
       "en": "to restrain or control",
       "excerpt": "to try to rein in Prime Minister Benjamin Netanyahu",
-      "example_cn": "试图约束总理本雅明·内塔尼亚胡。"
+      "example_cn": "试图约束总理本雅明·内塔尼亚胡。",
+      "audio_url": "output/audio/vocab/2026-06-08/rein-in-6c063cd4.mp3"
     }
   ],
   "sentences": [
@@ -129,31 +141,36 @@
       "en": "Israel says it has identified a wave of missiles launched from Iran.",
       "cn": "以色列称已识别出一波从伊朗发射的导弹。",
       "structure": "主句：Israel says + 宾语从句：it has identified a wave of missiles launched from Iran（过去分词短语作定语）",
-      "analysis": "宾语从句中过去分词短语 'launched from Iran' 修饰 'missiles'，表示被动。"
+      "analysis": "宾语从句中过去分词短语 'launched from Iran' 修饰 'missiles'，表示被动。",
+      "audio_url": "output/audio/sentences/2026-06-08/israel-says-it-has-identified-a-wave-of-missiles-launched-fr-46f6f515.mp3"
     },
     {
       "en": "Now, those retaliatory strikes appear to be in defiance of President Trump, who called Israeli Prime Minister Benjamin Netanyahu and had told him to hold off on striking back.",
       "cn": "现在，这些报复性打击似乎是在违抗特朗普总统，他打电话给以色列总理本雅明·内塔尼亚胡，并告诉他暂缓反击。",
       "structure": "主句：those retaliatory strikes appear to be in defiance of President Trump + 非限制性定语从句：who called... and had told...",
-      "analysis": "定语从句中 'who' 指代 President Trump，两个并列谓语 'called' 和 'had told'，'had told' 表示过去的过去。"
+      "analysis": "定语从句中 'who' 指代 President Trump，两个并列谓语 'called' 和 'had told'，'had told' 表示过去的过去。",
+      "audio_url": "output/audio/sentences/2026-06-08/now-those-retaliatory-strikes-appear-to-be-in-defiance-of-pr-2b49c16b.mp3"
     },
     {
       "en": "According to Israel's military, most of those have been intercepted.",
       "cn": "据以色列军方称，其中大多数已被拦截。",
       "structure": "状语：According to Israel's military + 主句：most of those have been intercepted",
-      "analysis": "被动语态 'have been intercepted' 表示动作已完成。"
+      "analysis": "被动语态 'have been intercepted' 表示动作已完成。",
+      "audio_url": "output/audio/sentences/2026-06-08/according-to-israel-s-military-most-of-those-have-been-inter-e86bbc3f.mp3"
     },
     {
       "en": "It is possible that Trump essentially gave this the green light and said, yes, Israel has to respond in some fashion, but keep that response limited.",
       "cn": "有可能特朗普基本上开了绿灯，说，是的，以色列必须以某种方式回应，但保持回应有限。",
       "structure": "主句：It is possible + 主语从句：that Trump... said... + 直接引语：yes, Israel has to respond... but keep...",
-      "analysis": "主语从句中 'gave the green light' 是习语，意为'开绿灯'；直接引语中 'keep that response limited' 是祈使语气。"
+      "analysis": "主语从句中 'gave the green light' 是习语，意为'开绿灯'；直接引语中 'keep that response limited' 是祈使语气。",
+      "audio_url": "output/audio/sentences/2026-06-08/it-is-possible-that-trump-essentially-gave-this-the-green-li-2129ffe8.mp3"
     },
     {
       "en": "What's crucial here, Audie, is that what happens in Lebanon affects the U.S.-Iran ceasefire.",
       "cn": "关键的是，Audie，黎巴嫩发生的事情会影响美伊停火。",
       "structure": "主句：What's crucial here is + 表语从句：that what happens in Lebanon affects the U.S.-Iran ceasefire",
-      "analysis": "主语从句 'What's crucial here' 作主语；表语从句中又包含主语从句 'what happens in Lebanon'。"
+      "analysis": "主语从句 'What's crucial here' 作主语；表语从句中又包含主语从句 'what happens in Lebanon'。",
+      "audio_url": "output/audio/sentences/2026-06-08/what-s-crucial-here-audie-is-that-what-happens-in-lebanon-af-b549c6c9.mp3"
     }
   ],
   "topics": [

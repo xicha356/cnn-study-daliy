@@ -33,18 +33,17 @@
 
 ### 可选：添加 ElevenLabs 发音配置
 
-如果希望每天自动给词汇生成美式男音发音，再添加两个 Actions secrets：
+如果希望每天自动给词汇和长难句生成美式男音发音，添加这个 Actions secret：
 
 - `ELEVENLABS_API_KEY`：你的 ElevenLabs API Key
-- `ELEVENLABS_VOICE_ID`：你在 ElevenLabs 里选择的 American male voice ID
 
 可选添加仓库变量：
 
 - `ELEVENLABS_MODEL_ID`：默认 `eleven_flash_v2_5`
+- `ELEVENLABS_VOICE_ID`：默认使用 `Adam`（American male）`pNInz6obpgDQGcFmaJgB`
 
 不要把 ElevenLabs token 写进 `index.html`、JSON 或任何会提交到仓库的文件。
-长难句朗读是浏览器按需请求：在页面右上角「发音设置」中填入 Key 和 Voice ID，
-生成后的音频会缓存到当前浏览器的 IndexedDB，重复朗读不再消耗字符额度。
+页面不会要求学习者填写 Key 或 Voice ID；音频由 GitHub Actions 生成后作为静态 mp3 播放。
 
 ### 第三步：开启 GitHub Pages
 
@@ -77,7 +76,7 @@
 ├── output/
 │   ├── 2026-06-05.json        # 每日生成的学习内容
 │   ├── 2026-06-06.json
-│   └── audio/                 # ElevenLabs 词汇发音 mp3
+│   └── audio/                 # ElevenLabs 词汇/长难句发音 mp3
 ├── index.html                 # GitHub Pages 入口（自动生成）
 └── .gitignore
 ```
