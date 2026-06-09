@@ -330,9 +330,14 @@ body:before{
 .qnext,.btn-restart{background:#171b23}.qnext:hover,.btn-restart:hover{background:var(--red)}
 .score-num{color:var(--red);font-family:var(--serif)}
 .vocab-popup{
+  left:50%;top:max(12px,calc(env(safe-area-inset-top) + 12px));right:auto;bottom:auto;
+  width:min(680px,calc(100vw - 24px));max-width:none;max-height:min(42vh,320px);overflow:auto;
   background:#171b23;color:#fff;border:1px solid rgba(255,255,255,.14);border-radius:2px;
-  box-shadow:10px 10px 0 rgba(197,34,43,.2);max-width:340px;
+  box-shadow:10px 10px 0 rgba(197,34,43,.2),0 18px 60px rgba(20,23,31,.32);
+  transform:translate(-50%,-14px);opacity:0;transition:opacity .18s ease,transform .18s ease;
+  pointer-events:none;
 }
+.vocab-popup.show{display:block;opacity:1;transform:translate(-50%,0);pointer-events:auto}
 .vp-word{font-family:var(--serif);font-size:24px}.vp-cn{color:#f7c2a6}.vp-en,.vp-ph{color:#d8ccb9}
 .vp-pos{background:#244653;color:#d7f4ff}.vp-lv{background:#4a2c12;color:#ffd29f}
 .review-btn{border-radius:2px;background:#f4ead9;color:#4a4136}.review-btn.reviewing{background:#fff2c9;color:#8a5a04}.review-btn.mastered{background:#dff0e5;color:#1d7d55}
@@ -369,6 +374,8 @@ body:before{
   .hero-title{font-size:40px}.summary-text{font-size:16px}.transcript-body{font-size:17px;padding:1rem}
   .topbar-date{font-size:11px}.btn{padding:6px 10px}.badge-auto{display:none}
   .sen-en{font-size:19px}.vword{font-size:25px}
+  .vocab-popup{top:max(10px,calc(env(safe-area-inset-top) + 10px));width:calc(100vw - 20px);max-height:36vh;padding:.9rem}
+  .vp-word{font-size:22px}.vp-en{font-size:12px}
 }
 </style>
 </head>
@@ -620,8 +627,16 @@ function highlightWords(text, sortedWords, vocabMap){
 
 // ── Vocab Popup ────────────────────────────────────
 let popupTimeout = null;
+function hideVocabPopup(){
+  clearTimeout(popupTimeout);
+  document.getElementById('vocabPopup').classList.remove('show');
+  document.querySelectorAll('.hl.active').forEach(el=>el.classList.remove('active'));
+  document.querySelectorAll('.word-chip.active').forEach(el=>el.classList.remove('active'));
+}
+
 function showVocabPopup(e, word){
   e.stopPropagation();
+  clearTimeout(popupTimeout);
   const data = currentData?.vocabulary?.find(v=>v.word===word);
   if(!data) return;
   currentPopupWord = word;
@@ -647,24 +662,14 @@ function showVocabPopup(e, word){
 
   const popup = document.getElementById('vocabPopup');
   popup.classList.add('show');
-  popup.style.pointerEvents = 'auto';
-
-  // Position popup near click
-  const vw = window.innerWidth, vh = window.innerHeight;
-  let x = e.clientX + 12, y = e.clientY + 12;
-  if(x + 300 > vw) x = e.clientX - 312;
-  if(y + 160 > vh) y = e.clientY - 160;
-  popup.style.left = x + 'px';
-  popup.style.top  = y + 'px';
+  popupTimeout = setTimeout(hideVocabPopup, 5000);
 
   playVocabAudio(data, playBtn);
 }
 
 document.addEventListener('click', e=>{
   if(!e.target.classList.contains('hl') && !e.target.closest('.vocab-popup') && !e.target.closest('.word-chip')){
-    document.getElementById('vocabPopup').classList.remove('show');
-    document.querySelectorAll('.hl.active').forEach(el=>el.classList.remove('active'));
-    document.querySelectorAll('.word-chip.active').forEach(el=>el.classList.remove('active'));
+    hideVocabPopup();
   }
 });
 
