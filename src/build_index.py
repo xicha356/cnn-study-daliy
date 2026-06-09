@@ -25,7 +25,7 @@ def main():
     # 左侧历史列表（sidebar）
     history_html = '\n'.join(
         f'<div class="hist-item{" active" if d == latest_date else ""}" '
-        f'data-date="{d}" onclick="loadDate(\'{d}\')">'
+        f'data-date="{d}" title="{d}" onclick="loadDate(\'{d}\')">'
         f'<span class="dot"></span>'
         f'<span class="date">{d}</span>'
         f'</div>'

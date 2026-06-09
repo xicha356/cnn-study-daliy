@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>CNN 英语精读</title>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700;800&family=Literata:wght@500;600;700&display=swap');
 :root{
   --bg:#0f1117;--bg2:#1a1d27;--bg3:#232635;--bg4:#2a2d3e;
   --border:#2e3247;--border2:#3a4060;
@@ -377,6 +377,199 @@ body:before{
   .vocab-popup{top:max(10px,calc(env(safe-area-inset-top) + 10px));width:calc(100vw - 20px);max-height:36vh;padding:.9rem}
   .vp-word{font-size:22px}.vp-en{font-size:12px}
 }
+
+/* ── Flat redesign ── */
+:root{
+  --bg:#f6f8fb;--bg2:#ffffff;--bg3:#eef2f6;--bg4:#ffffff;
+  --border:#dce3eb;--border2:#c8d3df;
+  --text:#16202b;--text2:#53616f;--text3:#8793a0;
+  --blue:#2563eb;--blue-dim:#e8f0ff;--blue2:#1d4ed8;
+  --red:#d92d20;--green:#12a150;--amber:#d97706;
+  --coral:#e05a3a;--teal:#0f9f8f;--purple:#7c3aed;
+  --paper:#ffffff;--paper2:#ffffff;--paper3:#eef2f6;
+  --ink:#16202b;--ink2:#53616f;--muted:#8793a0;
+  --line:#dce3eb;--line2:#c8d3df;
+  --hl-yellow:rgba(37,99,235,.12);
+  --hl-yellow-border:rgba(37,99,235,.72);
+  --hl-active:rgba(37,99,235,.22);
+  --r:8px;--font:'Instrument Sans','Segoe UI',system-ui,sans-serif;
+  --serif:'Literata',Georgia,serif;--mono:'SFMono-Regular','Consolas',monospace;
+}
+body{background:var(--bg);color:var(--text);font-family:var(--font)}
+body:before{display:none}
+.layout{grid-template-columns:256px minmax(0,1fr);background:var(--bg);transition:grid-template-columns .2s ease}
+.layout.sidebar-collapsed{grid-template-columns:72px minmax(0,1fr)}
+.sidebar{
+  background:var(--bg2);color:var(--text);border-right:1px solid var(--border);
+  box-shadow:none;padding:0;transition:width .2s ease,background .2s ease;
+}
+.sidebar-logo{
+  min-height:66px;padding:0 .85rem;border-bottom:1px solid var(--border);
+  display:flex;align-items:center;gap:.65rem;font-family:var(--font);font-size:16px;letter-spacing:0;line-height:1;
+}
+.sidebar-logo span{
+  display:inline-flex;align-items:center;justify-content:center;width:38px;height:38px;margin:0;
+  background:var(--blue);color:#fff;border-radius:10px;font-family:var(--font);font-size:13px;font-weight:800;letter-spacing:.02em;flex:0 0 auto;
+}
+.logo-text{font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sidebar-toggle,.sidebar-open-btn{
+  border:1px solid var(--border);background:#fff;color:var(--text2);border-radius:8px;cursor:pointer;
+  display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;transition:.15s ease;flex:0 0 auto;
+}
+.sidebar-toggle{margin-left:auto}
+.sidebar-toggle:before,.sidebar-open-btn:before{content:"☰";font-size:15px;line-height:1}
+.sidebar-toggle:hover,.sidebar-open-btn:hover{border-color:var(--blue);color:var(--blue);background:var(--blue-dim)}
+.sidebar-section{color:var(--text3);padding:1rem 1rem .35rem;font-size:11px;letter-spacing:.12em}
+.hist-item{
+  margin:2px .55rem;padding:.58rem .7rem;color:var(--text2);border:1px solid transparent;border-radius:8px;
+  border-left:1px solid transparent;font-size:13px;gap:10px;
+}
+.hist-item:hover{background:var(--bg3);color:var(--text);border-color:var(--border)}
+.hist-item.active{background:var(--blue-dim);color:var(--blue);border-color:#c7d8ff;border-left-color:#c7d8ff}
+.hist-item .dot{width:7px;height:7px;background:var(--border2)}
+.hist-item.active .dot{background:var(--blue)}
+.sidebar-nav{border-top:1px solid var(--border);padding:.55rem;margin-top:auto}
+.nav-item{color:var(--text2);border-radius:8px;padding:.58rem .7rem}
+.nav-item .dot{width:7px;height:7px;border-radius:50%;background:var(--border2);flex:0 0 auto}
+.nav-item:hover,.nav-item.active{background:var(--bg3);color:var(--text)}
+.layout.sidebar-collapsed .sidebar-logo{justify-content:center;padding:0}
+.layout.sidebar-collapsed .logo-text,
+.layout.sidebar-collapsed .sidebar-section,
+.layout.sidebar-collapsed .hist-item .date,
+.layout.sidebar-collapsed .nav-label{display:none}
+.layout.sidebar-collapsed .sidebar-toggle{display:none}
+.layout.sidebar-collapsed .hist-item{justify-content:center;margin:4px .7rem;padding:.75rem 0}
+.layout.sidebar-collapsed .sidebar-nav{padding:.55rem .7rem}
+.layout.sidebar-collapsed .nav-item{justify-content:center;padding:.7rem 0}
+.main{background:var(--bg)}
+.topbar{
+  min-height:66px;background:rgba(255,255,255,.92);backdrop-filter:blur(14px);border-bottom:1px solid var(--border);
+  box-shadow:none;padding:0 clamp(1rem,2vw,1.5rem);
+}
+.topbar-title{font-family:var(--font);font-size:16px;font-weight:700;letter-spacing:0}
+.topbar-date{color:var(--text3)}
+.badge-auto{background:#edf8f1;color:var(--green);border:1px solid #ccebd8;border-radius:999px;letter-spacing:0;text-transform:none}
+.btn,.icon-btn,.qnext,.btn-restart{
+  border-radius:8px;font-family:var(--font);font-weight:700;letter-spacing:0;box-shadow:none;transition:.15s ease;
+}
+.btn-src,.icon-btn{background:#fff;color:var(--text2);border:1px solid var(--border);box-shadow:none}
+.btn-src:hover,.icon-btn:hover:not(:disabled){background:var(--blue-dim);border-color:#b8ccff;color:var(--blue);transform:none}
+.icon-btn:disabled{background:var(--bg3);color:var(--text3);border-color:var(--border);box-shadow:none}
+.icon-btn.playing{background:#edf8f1;border-color:#bfe8cf;color:var(--green)}
+.icon-btn.loading{background:#fff7ed;border-color:#fed7aa;color:var(--amber)}
+.audio-btn{position:relative;width:36px;min-width:36px;height:34px;padding:0;font-size:0;overflow:hidden}
+.audio-btn:before{content:"▶";font-size:13px;line-height:1}
+.audio-btn.loading:before{
+  content:"";width:14px;height:14px;border:2px solid currentColor;border-top-color:transparent;border-radius:50%;
+  animation:spin .75s linear infinite;
+}
+.audio-btn.playing:before{content:"Ⅱ";font-size:14px;font-weight:800;letter-spacing:-.08em}
+@keyframes spin{to{transform:rotate(360deg)}}
+.content{padding:clamp(1rem,2.4vw,2rem);max-width:1320px;width:100%;margin:0 auto}
+.study-hero{
+  background:#fff;color:var(--text);border:1px solid var(--border);border-radius:12px;
+  padding:clamp(1.3rem,3vw,2.2rem);margin-bottom:1.15rem;box-shadow:none;
+}
+.study-hero:before{display:none}
+.kicker{color:var(--blue);font-size:12px;font-weight:800;letter-spacing:.08em;margin-bottom:.5rem}
+.hero-title{font-family:var(--font);font-size:clamp(30px,4.8vw,56px);line-height:1.05;letter-spacing:-.03em;max-width:820px}
+.hero-meta{color:var(--text2);margin-top:1rem;gap:8px;font-size:13px}
+.meta-pill{border:1px solid var(--border);border-radius:999px;padding:5px 10px;background:var(--bg3)}
+.summary-card{
+  background:#fff;border:1px solid var(--border);border-radius:12px;border-left:0;padding:1rem 1.1rem;box-shadow:none;
+}
+.card-label,.word-panel-title,.alabel{color:var(--text3);font-weight:800;letter-spacing:.08em}
+.summary-text{font-family:var(--font);font-size:16px;line-height:1.8;color:var(--text)}
+.tabs{
+  background:#fff;border:1px solid var(--border);border-radius:12px;padding:4px;gap:4px;margin-bottom:1.15rem;
+}
+.tab{
+  flex:1 1 0;padding:9px 12px;border:0;border-radius:8px;background:transparent;color:var(--text2);
+  margin:0;font-weight:700;
+}
+.tab:hover{background:var(--bg3);color:var(--text)}
+.tab.active{background:var(--blue);color:#fff}
+.transcript-wrap{grid-template-columns:minmax(0,1fr) 300px;gap:1rem}
+.transcript-hint{background:#fff;border:1px solid var(--border);border-left:4px solid var(--blue);border-radius:10px;color:var(--text2)}
+.transcript-body{
+  background:#fff;border:1px solid var(--border);border-radius:12px;padding:clamp(1rem,2.2vw,1.75rem);
+  font-family:var(--serif);font-size:18px;line-height:2;box-shadow:none;
+}
+.para{border-bottom:1px solid var(--border);padding-bottom:1rem}
+.speaker-tag{background:var(--bg3);color:var(--text2);border-radius:6px;font-family:var(--font);letter-spacing:.06em}
+.hl{background:linear-gradient(transparent 58%,var(--hl-yellow) 58%);border-bottom:2px solid var(--hl-yellow-border);border-radius:2px}
+.hl:hover,.hl.active{background:linear-gradient(transparent 44%,var(--hl-active) 44%)}
+.word-panel{
+  background:#fff;color:var(--text);border:1px solid var(--border);border-radius:12px;top:82px;box-shadow:none;
+}
+.word-panel-title{color:var(--text3)}
+.word-chip{border:1px solid transparent;border-radius:8px;background:transparent;color:var(--text)}
+.word-chip:hover,.word-chip.active{background:var(--blue-dim);border-color:#c7d8ff}
+.wc-word{color:var(--text);font-weight:700}.wc-cn{color:var(--text2)}.wc-lv{border-radius:999px;width:7px;height:7px}
+.wc-actions .review-btn{background:#fff;color:var(--text2);border-color:var(--border)}
+.vcard,.scard,.tcard,.qcard{
+  background:#fff;border:1px solid var(--border);border-radius:12px;box-shadow:none;
+}
+.vcard{padding:1.1rem}.vword{font-family:var(--font);font-size:24px;color:var(--text);letter-spacing:-.02em}
+.vph{color:var(--text3)}.bpos,.blv,.qbadge{border-radius:999px;font-weight:700}
+.bpos,.qbadge.vocab{background:var(--blue-dim);color:var(--blue)}.blv{background:#fff7ed;color:var(--amber)}
+.vcn{color:var(--blue);font-weight:800}.ven{color:var(--text2)}
+.veg{background:var(--bg3);border-left:4px solid var(--blue);border-radius:8px}
+.scard{padding:1.2rem}.snum{border-radius:8px;background:var(--blue);font-family:var(--font);font-size:13px}
+.sen-en{font-family:var(--serif);font-size:20px;line-height:1.72;color:var(--text)}
+.sen-cn{background:#f0f9f4;color:#1f6d42;border-radius:8px}
+.tcard{padding:1.15rem;border-left:4px solid var(--blue)}
+.ttitle{font-family:var(--font);font-size:18px;color:var(--text)}.tdot{border-radius:999px}
+.qmeta{background:#fff;color:var(--text2);padding:.75rem 0;border-radius:0}
+.qbar-w{background:var(--bg3)}.qbar-f{background:var(--blue)}
+.qopt{background:#fff;border-color:var(--border);border-radius:10px}
+.qopt:hover:not(.disabled){background:var(--blue-dim);border-color:#b8ccff;color:var(--blue)}
+.qopt.correct{background:#edf8f1;border-color:#bfe8cf;color:var(--green)}
+.qopt.wrong{background:#fff1f0;border-color:#fecaca;color:var(--red)}
+.qexp{background:var(--bg3);border-left:4px solid var(--amber);border-radius:8px}
+.qnext,.btn-restart{background:var(--blue)}
+.qnext:hover,.btn-restart:hover{background:var(--blue2)}
+.score-num{color:var(--blue);font-family:var(--font)}
+.vocab-popup{
+  background:#fff;color:var(--text);border:1px solid var(--border);border-radius:12px;
+  box-shadow:0 18px 44px rgba(22,32,43,.14);transform:translate(-50%,-12px);
+}
+.vocab-popup.show{transform:translate(-50%,0)}
+.vp-word{font-family:var(--font);font-size:23px;color:var(--text)}
+.vp-cn{color:var(--blue)}.vp-en,.vp-ph{color:var(--text2)}
+.vp-pos{background:var(--blue-dim);color:var(--blue)}.vp-lv{background:#fff7ed;color:var(--amber)}
+.review-btn{border-radius:999px;background:#fff;color:var(--text2);border-color:var(--border)}
+.review-btn.reviewing{background:#fff7ed;color:var(--amber);border-color:#fed7aa}
+.review-btn.mastered{background:#edf8f1;color:var(--green);border-color:#bfe8cf}
+.toast{background:var(--text);color:#fff;border:0;border-radius:10px;box-shadow:0 14px 36px rgba(22,32,43,.18)}
+@media(max-width:900px){
+  .layout,.layout.sidebar-collapsed{grid-template-columns:1fr}
+  .sidebar{display:none}
+  .sidebar-open-btn{display:none}
+  .content{padding:1rem 1rem 6rem}
+  .study-hero{padding:1.25rem;margin-bottom:1rem;border-radius:12px}
+  .transcript-wrap{grid-template-columns:1fr}
+  .transcript-wrap>div:last-child{display:none}
+  .topbar{flex-wrap:wrap;gap:8px;padding:.75rem 1rem}
+  .topbar-title{flex:1 0 100%}
+  .tabs{overflow-x:auto}.tab{min-width:82px;padding:8px 10px}
+  .mobile-word-fab{
+    background:var(--blue);border-radius:18px;box-shadow:0 12px 28px rgba(37,99,235,.25);font-family:var(--font);
+  }
+  .mobile-word-scrim.show{background:rgba(22,32,43,.32)}
+  .mobile-word-sheet{
+    background:#fff;color:var(--text);border-top:1px solid var(--border);
+    box-shadow:0 -18px 44px rgba(22,32,43,.14);border-radius:18px 18px 0 0;
+  }
+  .mobile-word-head strong{font-family:var(--font);font-size:20px}
+}
+@media(max-width:560px){
+  .hero-title{font-size:34px}
+  .summary-text{font-size:15px}
+  .transcript-body{font-size:17px;padding:1rem;border-radius:12px}
+  .sen-en{font-size:18px}.vword{font-size:23px}
+  .vocab-popup{top:max(10px,calc(env(safe-area-inset-top) + 10px));width:calc(100vw - 20px);max-height:36vh;padding:.9rem}
+}
 </style>
 </head>
 <body>
@@ -384,23 +577,28 @@ body:before{
 
 <!-- Sidebar -->
 <aside class="sidebar">
-  <div class="sidebar-logo"><span>CNN</span> 英语精读</div>
+  <div class="sidebar-logo">
+    <span>CNN</span>
+    <strong class="logo-text">英语精读</strong>
+    <button class="sidebar-toggle" onclick="toggleSidebar()" title="收起侧栏" aria-label="收起侧栏"></button>
+  </div>
   <div class="sidebar-section">历史记录</div>
-  <div id="histList"><div class="hist-item active" data-date="2026-06-08" onclick="loadDate('2026-06-08')"><span class="dot"></span><span class="date">2026-06-08</span></div>
-<div class="hist-item" data-date="2026-06-05" onclick="loadDate('2026-06-05')"><span class="dot"></span><span class="date">2026-06-05</span></div>
-<div class="hist-item" data-date="2026-06-04" onclick="loadDate('2026-06-04')"><span class="dot"></span><span class="date">2026-06-04</span></div></div>
+  <div id="histList"><div class="hist-item active" data-date="2026-06-08" title="2026-06-08" onclick="loadDate('2026-06-08')"><span class="dot"></span><span class="date">2026-06-08</span></div>
+<div class="hist-item" data-date="2026-06-05" title="2026-06-05" onclick="loadDate('2026-06-05')"><span class="dot"></span><span class="date">2026-06-05</span></div>
+<div class="hist-item" data-date="2026-06-04" title="2026-06-04" onclick="loadDate('2026-06-04')"><span class="dot"></span><span class="date">2026-06-04</span></div></div>
   <div class="sidebar-nav">
-    <div class="nav-item" onclick="window.open('https://transcripts.cnn.com','_blank')">🔗 CNN Transcripts</div>
+    <div class="nav-item" onclick="window.open('https://transcripts.cnn.com','_blank')" title="CNN Transcripts"><span class="dot"></span><span class="nav-label">CNN Transcripts</span></div>
   </div>
 </aside>
 
 <!-- Main -->
 <div class="main">
   <div class="topbar">
+    <button class="sidebar-open-btn" onclick="toggleSidebar()" title="展开或收起侧栏" aria-label="展开或收起侧栏"></button>
     <div class="topbar-title" id="topbarTitle">CNN This Morning</div>
     <span class="topbar-date" id="topbarDate"></span>
-    <span class="badge badge-auto">⚡ 每日自动更新</span>
-    <button class="btn btn-src" id="srcBtn" onclick="openSource()">查看原文 →</button>
+    <span class="badge badge-auto">每日自动更新</span>
+    <button class="btn btn-src" id="srcBtn" onclick="openSource()">查看原文</button>
   </div>
 
   <div class="content">
@@ -418,24 +616,24 @@ body:before{
 
     <!-- Summary -->
     <div class="summary-card">
-      <div class="card-label">📰 内容摘要</div>
+      <div class="card-label">内容摘要</div>
       <div class="summary-text" id="summaryText">加载中...</div>
     </div>
 
     <!-- Tabs -->
     <div class="tabs">
-      <div class="tab active" onclick="switchTab('transcript')">📝 全文稿</div>
-      <div class="tab" onclick="switchTab('vocab')">📚 词汇</div>
-      <div class="tab" onclick="switchTab('sentences')">🔍 难句</div>
-      <div class="tab" onclick="switchTab('topics')">🌐 背景</div>
-      <div class="tab" onclick="switchTab('quiz')">✅ 测验</div>
+      <div class="tab active" onclick="switchTab('transcript')">全文稿</div>
+      <div class="tab" onclick="switchTab('vocab')">词汇</div>
+      <div class="tab" onclick="switchTab('sentences')">难句</div>
+      <div class="tab" onclick="switchTab('topics')">背景</div>
+      <div class="tab" onclick="switchTab('quiz')">测验</div>
     </div>
 
     <!-- Transcript Tab -->
     <div id="transcript" class="section active">
       <div class="transcript-wrap">
         <div>
-          <div class="transcript-hint">💡 点击 <span style="background:var(--hl-yellow);padding:0 4px;border-radius:2px;border-bottom:2px solid var(--hl-yellow-border)">高亮词汇</span> 查看注释并播放发音 · 颜色代表难度：<span style="color:#f0a500">■</span>考研 <span style="color:#4a9eff">■</span>六级 <span style="color:#a78bfa">■</span>专四/八 <span style="color:#2ecc71">■</span>时事</div>
+          <div class="transcript-hint">点击 <span style="background:var(--hl-yellow);padding:0 4px;border-radius:2px;border-bottom:2px solid var(--hl-yellow-border)">高亮词汇</span> 查看注释并播放发音 · 颜色代表难度：<span style="color:#f0a500">■</span>考研 <span style="color:#4a9eff">■</span>六级 <span style="color:#a78bfa">■</span>专四/八 <span style="color:#2ecc71">■</span>时事</div>
           <div class="transcript-body" id="transcriptBody"></div>
         </div>
         <div>
@@ -488,7 +686,7 @@ body:before{
 <div class="vocab-popup" id="vocabPopup">
   <div class="vp-head">
     <div class="vp-main"><span class="vp-word" id="vpWord"></span><span class="vp-ph" id="vpPh"></span></div>
-    <button class="icon-btn" id="vpPlay" onclick="playCurrentPopupWord(event)" title="播放单词发音">▶</button>
+    <button class="icon-btn audio-btn" id="vpPlay" onclick="playCurrentPopupWord(event)" title="播放单词发音" aria-label="播放单词发音"></button>
   </div>
   <div class="vp-badges"><span class="vp-pos" id="vpPos"></span><span class="vp-lv" id="vpLv"></span></div>
   <div class="vp-cn" id="vpCn"></div>
@@ -519,12 +717,15 @@ let activeAudioBtn = null;
 const COLORS = ['#4a9eff','#e05a3a','#1abc9c','#f0a500'];
 const LV_COLORS = {'考研':'#f0a500','六级':'#4a9eff','专四':'#a78bfa','专八':'#a78bfa','时事词汇':'#2ecc71'};
 const REVIEW_KEY_PREFIX = 'cnn_vocab_status:';
+const SIDEBAR_KEY = 'cnn_sidebar_collapsed';
 let toastTimer = null;
 
 audioPlayer.addEventListener('ended', clearAudioButton);
 audioPlayer.addEventListener('error', clearAudioButton);
 
 // ── Init ───────────────────────────────────────────
+restoreSidebar();
+
 (function init(){
   const latest = '2026-06-08';
   if(ALL_DATA[latest]) loadDate(latest);
@@ -534,6 +735,22 @@ audioPlayer.addEventListener('error', clearAudioButton);
 
 function openSource(){
   if(currentData?.source_url) window.open(currentData.source_url,'_blank');
+}
+
+function restoreSidebar(){
+  try{
+    if(localStorage.getItem(SIDEBAR_KEY) === '1'){
+      document.querySelector('.layout')?.classList.add('sidebar-collapsed');
+    }
+  }catch(e){}
+}
+
+function toggleSidebar(){
+  const layout = document.querySelector('.layout');
+  if(!layout) return;
+  const collapsed = layout.classList.toggle('sidebar-collapsed');
+  document.querySelector('.sidebar-toggle')?.setAttribute('title', collapsed ? '展开侧栏' : '收起侧栏');
+  try{ localStorage.setItem(SIDEBAR_KEY, collapsed ? '1' : '0'); }catch(e){}
 }
 
 // ── Load Date ──────────────────────────────────────
@@ -681,7 +898,7 @@ function renderWordList(vocab){
       <span class="wc-word">${esc(v.word)}</span>
       <span class="wc-cn">${esc(v.cn||'')}</span>
       <span class="wc-actions">
-        <button class="icon-btn" onclick="playWordFromButton(event,decodeURIComponent('${token(v.word)}'))" ${v.audio_url?'':'disabled'} title="${v.audio_url?'播放单词发音':'暂无预生成音频'}">▶</button>
+        <button class="icon-btn audio-btn" onclick="playWordFromButton(event,decodeURIComponent('${token(v.word)}'))" ${v.audio_url?'':'disabled'} title="${v.audio_url?'播放单词发音':'暂无预生成音频'}" aria-label="播放 ${attr(v.word)} 发音"></button>
         ${reviewButton(v.word)}
       </span>
     </div>`).join('');
@@ -725,7 +942,7 @@ function renderVocab(list){
           <span class="blv">${esc(v.level||'')}</span>
         </div>
         <div class="vactions">
-          <button class="icon-btn" onclick="playWordFromButton(event,decodeURIComponent('${token(v.word)}'))" ${v.audio_url?'':'disabled'} title="${v.audio_url?'播放单词发音':'暂无预生成音频'}">▶ 发音</button>
+          <button class="icon-btn audio-btn" onclick="playWordFromButton(event,decodeURIComponent('${token(v.word)}'))" ${v.audio_url?'':'disabled'} title="${v.audio_url?'播放单词发音':'暂无预生成音频'}" aria-label="播放 ${attr(v.word)} 发音"></button>
           ${reviewButton(v.word)}
         </div>
       </div>
@@ -750,7 +967,7 @@ function renderSentences(list){
     <div class="scard">
       <div class="shead">
         <div class="snum">${i+1}</div>
-        <button class="icon-btn" onclick="playSentenceTts(event,${i})" ${s.audio_url?'':'disabled'} title="${s.audio_url?'朗读长难句':'音频将在下次生成后可用'}">▶ 朗读</button>
+        <button class="icon-btn audio-btn" onclick="playSentenceTts(event,${i})" ${s.audio_url?'':'disabled'} title="${s.audio_url?'朗读长难句':'音频将在下次生成后可用'}" aria-label="朗读第 ${i+1} 个长难句"></button>
       </div>
       <div class="sen-en">${esc(s.en)}</div>
       <div class="sen-cn">${esc(s.cn)}</div>
@@ -771,7 +988,7 @@ function renderTopics(list){
         ${esc(t.title)}
       </div>
       <div class="tcontent">${esc(t.content)}</div>
-      <div class="tkw">🔑 ${esc(t.keywords||'')}</div>
+      <div class="tkw">${esc(t.keywords||'')}</div>
     </div>`).join('');
 }
 
@@ -785,7 +1002,7 @@ function renderQ(){
     document.getElementById('quizContainer').innerHTML=`
       <div class="qcard score-panel">
         <div class="score-num">${score}<span style="font-size:28px;color:var(--text2)">/${qs.length}</span></div>
-        <div class="score-stars">${pct>=80?'⭐⭐⭐':pct>=60?'⭐⭐':'⭐'}</div>
+        <div class="score-stars">${pct>=80?'优秀':pct>=60?'良好':'继续练习'}</div>
         <div class="score-sub">答对 ${score} 题（${pct}%）</div>
         <button class="btn-restart" onclick="initQuiz(currentData.quiz)">重新测验</button>
       </div>`;
@@ -806,7 +1023,7 @@ function renderQ(){
         <div class="qopt" id="opt${i}" onclick="pick(${i})">${esc(o)}</div>`).join('')}
       </div>
       <div class="qexp" id="qexp"></div>
-      <button class="qnext" id="qnext" onclick="nextQ()">${cur<qs.length-1?'下一题 →':'查看结果'}</button>
+      <button class="qnext" id="qnext" onclick="nextQ()">${cur<qs.length-1?'下一题':'查看结果'}</button>
     </div>`;
 }
 function pick(i){
@@ -863,15 +1080,20 @@ function setAudioButton(btn, state){
   clearAudioButton();
   if(!btn) return;
   activeAudioBtn = btn;
-  if(!btn.dataset.audioLabel) btn.dataset.audioLabel = btn.textContent;
+  if(!btn.dataset.audioLabel) btn.dataset.audioLabel = btn.innerHTML;
+  if(!btn.dataset.audioTitle) btn.dataset.audioTitle = btn.title || '';
+  if(!btn.dataset.audioAria) btn.dataset.audioAria = btn.getAttribute('aria-label') || '';
   btn.classList.add(state);
-  btn.textContent = state === 'loading' ? '…' : '播放中';
+  btn.setAttribute('aria-label', state === 'loading' ? '音频加载中' : '音频播放中');
+  btn.title = state === 'loading' ? '音频加载中' : '音频播放中';
 }
 
 function clearAudioButton(){
   if(!activeAudioBtn) return;
   activeAudioBtn.classList.remove('loading','playing');
-  activeAudioBtn.textContent = activeAudioBtn.dataset.audioLabel || '▶';
+  activeAudioBtn.innerHTML = activeAudioBtn.dataset.audioLabel || '';
+  if(activeAudioBtn.dataset.audioTitle) activeAudioBtn.title = activeAudioBtn.dataset.audioTitle;
+  if(activeAudioBtn.dataset.audioAria) activeAudioBtn.setAttribute('aria-label', activeAudioBtn.dataset.audioAria);
   activeAudioBtn = null;
 }
 
