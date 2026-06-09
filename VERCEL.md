@@ -50,3 +50,26 @@
 ## GitHub Pages 备用
 
 `.github/workflows/nextjs-pages.yml` 已改为手动触发。新版推荐 Vercel，因为 `/api/tts` 需要服务端 API；GitHub Pages 只能作为静态备用发布。
+
+## CLI 部署
+
+仓库根目录提供了两个 Vercel 本地配置：
+
+- PC: `vercel.web.json`
+- H5: `vercel.h5.json`
+
+CLI prebuilt 部署命令：
+
+```bash
+vercel link --project english-web --yes
+vercel pull --yes --environment production -A vercel.web.json
+vercel build --prod --yes -A vercel.web.json
+vercel deploy --prebuilt --prod --yes -A vercel.web.json
+
+vercel link --project english-h5 --yes
+vercel pull --yes --environment production -A vercel.h5.json
+vercel build --prod --yes -A vercel.h5.json
+vercel deploy --prebuilt --prod --yes -A vercel.h5.json
+```
+
+两个 app 的 build script 使用 `next build --webpack`，用于避开 Next 16 Turbopack 在 monorepo 子应用里的 root 推断问题。
