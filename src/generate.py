@@ -211,45 +211,130 @@ def fetch_transcript(date_str: str) -> tuple[str, list[dict]]:
     return full[:9000], segments_data
 
 
+def clean_transcript_noise(text: str) -> str:
+    text = sanitize(text)
+    text = re.sub(r'CNN\.com\s*-\s*Transcripts.*?(?=\[\d{2}:\d{2}:\d{2}\]|[A-Z][A-Z\s\.\-]+:)', '', text, flags=re.S)
+    text = re.sub(r'Transcript Providers Return to Transcripts main page', '', text, flags=re.I)
+    text = re.sub(r'Aired\s+\d[^[]+?THIS IS A RUSH TRANSCRIPT\.\s*THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED\.', '', text, flags=re.I)
+    text = re.sub(r'\[\d{2}:\d{2}:\d{2}\]\s*', '', text)
+    text = re.sub(r'\((?:BEGIN|END) VIDEO CLIP\)|\(COMMERCIAL BREAK\)', ' ', text)
+    text = re.sub(r'\s+', ' ', text)
+    return sanitize(text)
+
+
+def normalize_speaker(label: str) -> str:
+    label = re.sub(r'\s+', ' ', label or '').strip(' :')
+    if not label:
+        return ''
+    if label in {'ANCHOR', 'REPORTER'}:
+        return ''
+    if any(bad in label for bad in ['CNNSTATICSECTION', 'CNNENV', 'Transcript Providers']):
+        return ''
+    # Keep the speaker name, drop role/channel suffixes such as ", ANCHOR, CNN THIS MORNING".
+    first = label.split(',')[0].strip()
+    if len(first) < 3 or len(first) > 36:
+        return ''
+    return first.title() if first.isupper() and first not in {'CNN', 'IDF'} else first
+
+
+def chunk_paragraph_text(text: str, max_len: int = 520) -> list[str]:
+    chunks = []
+    text = sanitize(text)
+    while len(text) > max_len:
+        cut = text[:max_len].rfind('. ')
+        if cut < 160:
+            cut = text[:max_len].rfind(' ')
+        if cut < 160:
+            cut = max_len
+        else:
+            cut += 1
+        chunks.append(text[:cut].strip())
+        text = text[cut:].strip()
+    if text:
+        chunks.append(text)
+    return chunks
+
+
+SPEAKER_MARKER_RE = re.compile(
+    r'(?P<speaker>[A-Z][A-Z\.\'’\-\s]{2,70}(?:,\s*[A-Z0-9\.\'’\-\s\(\)/]{2,60}){0,3}):\s*'
+)
+
+
+def split_transcript_text(text: str) -> list[dict]:
+    text = clean_transcript_noise(text)
+    paragraphs = []
+    matches = list(SPEAKER_MARKER_RE.finditer(text))
+
+    if not matches:
+        return [{'speaker': '', 'text': chunk} for chunk in chunk_paragraph_text(text)]
+
+    for i, m in enumerate(matches):
+        speaker = normalize_speaker(m.group('speaker'))
+        start = m.end()
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        body = clean_transcript_noise(text[start:end])
+        if not body or len(body) < 20:
+            continue
+        for chunk in chunk_paragraph_text(body):
+            paragraphs.append({'speaker': speaker, 'text': chunk})
+
+    return paragraphs
+
+
+def normalize_paragraphs(data: dict) -> bool:
+    changed = False
+    paragraphs = data.get('paragraphs')
+
+    if not paragraphs and data.get('transcript_highlights'):
+        data['paragraphs'] = [
+            {
+                'speaker': normalize_speaker(item.get('speaker', '')),
+                'text': sanitize(item.get('text', '')),
+                'cn': sanitize(item.get('cn', '')),
+            }
+            for item in data.get('transcript_highlights', [])
+            if item.get('text')
+        ]
+        return True
+
+    if not paragraphs:
+        return False
+
+    combined = ' '.join(str(p.get('text', '')) for p in paragraphs if p.get('text'))
+    if 'CNN.com - Transcripts' in combined or 'CNNSTATICSECTION' in combined:
+        existing_cn = {
+            sanitize(p.get('text', '')): sanitize(p.get('cn', ''))
+            for p in paragraphs
+            if p.get('text') and p.get('cn')
+        }
+        cleaned = split_transcript_text(combined)
+        for p in cleaned:
+            if p['text'] in existing_cn:
+                p['cn'] = existing_cn[p['text']]
+        data['paragraphs'] = cleaned
+        changed = True
+    else:
+        for p in paragraphs:
+            old_speaker = p.get('speaker', '')
+            new_speaker = normalize_speaker(old_speaker)
+            if old_speaker != new_speaker:
+                p['speaker'] = new_speaker
+                changed = True
+            clean_text = clean_transcript_noise(str(p.get('text', '')))
+            if p.get('text') != clean_text:
+                p['text'] = clean_text
+                changed = True
+
+    return changed
+
+
 def extract_paragraphs(segments_data: list[dict]) -> list[dict]:
     """
     把文稿拆成段落列表，识别说话人标签
-    格式: [{"speaker": "ANCHOR", "text": "..."}]
+    格式: [{"speaker": "Audie Cornish", "text": "..."}]；无可靠说话人时 speaker 为空
     """
-    paragraphs = []
-    # CNN 文稿格式：SPEAKER NAME (AFFILIATION): text 或 全大写开头
-    speaker_re = re.compile(r'^([A-Z][A-Z\s\.\-]{2,40}):\s*(.+)', re.S)
-
-    for seg in segments_data:
-        # 按句号+空格或换行分段
-        raw = seg['text']
-        # 先按换行分
-        chunks = re.split(r'\n{1,}', raw)
-        current_speaker = 'ANCHOR'
-        for chunk in chunks:
-            chunk = chunk.strip()
-            if not chunk:
-                continue
-            m = speaker_re.match(chunk)
-            if m:
-                current_speaker = m.group(1).strip()
-                text = m.group(2).strip()
-            else:
-                text = chunk
-            if text:
-                # 长段拆成≤400字的小段
-                while len(text) > 400:
-                    cut = text[:400].rfind('. ')
-                    if cut < 100:
-                        cut = 400
-                    else:
-                        cut += 1
-                    paragraphs.append({'speaker': current_speaker, 'text': text[:cut].strip()})
-                    text = text[cut:].strip()
-                if text:
-                    paragraphs.append({'speaker': current_speaker, 'text': text})
-
-    return paragraphs
+    combined = '\n\n'.join(seg.get('text', '') for seg in segments_data)
+    return split_transcript_text(combined)
 
 
 # ── JSON 解析容错 ─────────────────────────────────────────────
@@ -377,6 +462,70 @@ def call_deepseek(prompt: str) -> dict:
     return parse_json_robust(raw)
 
 
+def call_deepseek_messages(messages: list[dict], max_tokens: int = 4096) -> dict:
+    if not DEEPSEEK_API_KEY:
+        raise RuntimeError('DEEPSEEK_API_KEY 未设置')
+    resp = requests.post(
+        DEEPSEEK_URL,
+        headers={'Authorization': f'Bearer {DEEPSEEK_API_KEY}', 'Content-Type': 'application/json'},
+        json={
+            'model': 'deepseek-chat',
+            'max_tokens': max_tokens,
+            'temperature': 0.1,
+            'response_format': {'type': 'json_object'},
+            'messages': messages,
+        },
+        timeout=120
+    )
+    resp.raise_for_status()
+    return parse_json_robust(resp.json()['choices'][0]['message']['content'])
+
+
+def ensure_paragraph_translations(data: dict) -> bool:
+    paragraphs = data.get('paragraphs') or []
+    missing = [
+        (i, p.get('text', '').strip())
+        for i, p in enumerate(paragraphs)
+        if p.get('text') and not p.get('cn')
+    ]
+    if not missing:
+        return False
+    if not DEEPSEEK_API_KEY:
+        print('      DeepSeek 未配置，跳过段落翻译补齐')
+        return False
+
+    print(f'      补齐段落翻译：{len(missing)} 段')
+    changed = False
+    for offset in range(0, len(missing), 10):
+        chunk = missing[offset:offset + 10]
+        payload = [{'index': i, 'text': text} for i, text in chunk]
+        prompt = (
+            '请把以下 CNN 英文段落翻译成自然、准确的中文。'
+            '保留新闻事实，不添加解释。只输出 JSON：{"items":[{"index":数字,"cn":"中文翻译"}]}。\n\n'
+            + json.dumps(payload, ensure_ascii=False)
+        )
+        result = call_deepseek_messages([
+            {'role': 'system', 'content': '你是严谨的新闻英语翻译助手，只输出合法 JSON。'},
+            {'role': 'user', 'content': prompt},
+        ])
+        for item in result.get('items', []):
+            try:
+                idx = int(item.get('index'))
+            except (TypeError, ValueError):
+                continue
+            cn = sanitize(item.get('cn', ''))
+            if 0 <= idx < len(paragraphs) and cn:
+                paragraphs[idx]['cn'] = cn
+                changed = True
+    return changed
+
+
+def normalize_and_enrich_existing(data: dict) -> bool:
+    changed = normalize_paragraphs(data)
+    changed = ensure_paragraph_translations(data) or changed
+    return changed
+
+
 # ── 主流程 ────────────────────────────────────────────────────
 def main():
     print('\n=== CNN精读生成器 v4 ===')
@@ -386,9 +535,11 @@ def main():
     if out_path.exists():
         print(f'✓ 缓存已存在：{out_path}')
         data = json.loads(out_path.read_text(encoding='utf-8'))
-        if ensure_all_audio(data, requested_date):
+        changed = normalize_and_enrich_existing(data)
+        changed = ensure_all_audio(data, requested_date) or changed
+        if changed:
             out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
-            print(f'✓ 已补齐音频字段：{out_path}')
+            print(f'✓ 已补齐缓存数据：{out_path}')
         return
 
     print(f'\n[1/3] 查找有效文稿（从 {requested_date} 开始）...')
@@ -398,9 +549,11 @@ def main():
     if out_path.exists():
         print(f'✓ {actual_date} 缓存已存在')
         data = json.loads(out_path.read_text(encoding='utf-8'))
-        if ensure_all_audio(data, actual_date):
+        changed = normalize_and_enrich_existing(data)
+        changed = ensure_all_audio(data, actual_date) or changed
+        if changed:
             out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
-            print(f'✓ 已补齐音频字段：{out_path}')
+            print(f'✓ 已补齐缓存数据：{out_path}')
         return
 
     source_url = f'https://transcripts.cnn.com/show/ctmo/date/{actual_date}/segment/01'
@@ -424,6 +577,7 @@ def main():
     data['paragraphs'] = paragraphs
     data['date']       = actual_date
     data['source_url'] = source_url
+    ensure_paragraph_translations(data)
     ensure_all_audio(data, actual_date)
 
     print(f'      词汇：{len(data.get("vocabulary",[]))} 难句：{len(data.get("sentences",[]))}')

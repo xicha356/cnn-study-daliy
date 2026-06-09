@@ -412,13 +412,13 @@ body:before{display:none}
   background:var(--blue);color:#fff;border-radius:10px;font-family:var(--font);font-size:13px;font-weight:800;letter-spacing:.02em;flex:0 0 auto;
 }
 .logo-text{font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.sidebar-toggle,.sidebar-open-btn{
+.sidebar-open-btn,.theme-btn{
   border:1px solid var(--border);background:#fff;color:var(--text2);border-radius:8px;cursor:pointer;
   display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;transition:.15s ease;flex:0 0 auto;
 }
-.sidebar-toggle{margin-left:auto}
-.sidebar-toggle:before,.sidebar-open-btn:before{content:"☰";font-size:15px;line-height:1}
-.sidebar-toggle:hover,.sidebar-open-btn:hover{border-color:var(--blue);color:var(--blue);background:var(--blue-dim)}
+.sidebar-open-btn:before{content:"☰";font-size:15px;line-height:1}
+.theme-btn:before{content:"◐";font-size:16px;line-height:1}
+.sidebar-open-btn:hover,.theme-btn:hover{border-color:var(--blue);color:var(--blue);background:var(--blue-dim)}
 .sidebar-section{color:var(--text3);padding:1rem 1rem .35rem;font-size:11px;letter-spacing:.12em}
 .hist-item{
   margin:2px .55rem;padding:.58rem .7rem;color:var(--text2);border:1px solid transparent;border-radius:8px;
@@ -437,7 +437,6 @@ body:before{display:none}
 .layout.sidebar-collapsed .sidebar-section,
 .layout.sidebar-collapsed .hist-item .date,
 .layout.sidebar-collapsed .nav-label{display:none}
-.layout.sidebar-collapsed .sidebar-toggle{display:none}
 .layout.sidebar-collapsed .hist-item{justify-content:center;margin:4px .7rem;padding:.75rem 0}
 .layout.sidebar-collapsed .sidebar-nav{padding:.55rem .7rem}
 .layout.sidebar-collapsed .nav-item{justify-content:center;padding:.7rem 0}
@@ -496,6 +495,22 @@ body:before{display:none}
   font-family:var(--serif);font-size:18px;line-height:2;box-shadow:none;
 }
 .para{border-bottom:1px solid var(--border);padding-bottom:1rem}
+.para-card{perspective:1200px;position:relative;touch-action:pan-y}
+.para-card.flipped .para-content{transform:rotateY(180deg)}
+.para-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:.35rem;font-family:var(--font)}
+.para-actions{display:flex;align-items:center;gap:6px;margin-left:auto}
+.para-flip-btn{
+  border:1px solid var(--border);background:#fff;color:var(--text2);border-radius:999px;
+  min-width:34px;height:28px;padding:0 9px;font-size:12px;font-weight:800;cursor:pointer;
+}
+.para-flip-btn:hover{background:var(--blue-dim);border-color:#b8ccff;color:var(--blue)}
+.para-content{display:grid;transform-style:preserve-3d;transition:transform .36s ease}
+.para-side{grid-area:1/1;backface-visibility:hidden;min-width:0}
+.para-cn-side{
+  transform:rotateY(180deg);font-family:var(--font);line-height:1.9;color:var(--text);
+  background:var(--bg3);border:1px solid var(--border);border-radius:10px;padding:1rem;
+}
+.para-cn-side.loading{color:var(--text3)}
 .speaker-tag{background:var(--bg3);color:var(--text2);border-radius:6px;font-family:var(--font);letter-spacing:.06em}
 .hl{background:linear-gradient(transparent 58%,var(--hl-yellow) 58%);border-bottom:2px solid var(--hl-yellow-border);border-radius:2px}
 .hl:hover,.hl.active{background:linear-gradient(transparent 44%,var(--hl-active) 44%)}
@@ -520,6 +535,16 @@ body:before{display:none}
 .sen-cn{background:#f0f9f4;color:#1f6d42;border-radius:8px}
 .tcard{padding:1.15rem;border-left:4px solid var(--blue)}
 .ttitle{font-family:var(--font);font-size:18px;color:var(--text)}.tdot{border-radius:999px}
+.translate-toolbar{
+  display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:1rem;
+  background:#fff;border:1px solid var(--border);border-radius:12px;padding:.9rem 1rem;
+}
+.translate-status{font-size:13px;color:var(--text2)}
+.translation-list{display:flex;flex-direction:column;gap:10px}
+.translation-card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:1rem}
+.translation-index{font-size:12px;font-weight:800;color:var(--text3);margin-bottom:.35rem}
+.translation-cn{font-size:15px;line-height:1.85;color:var(--text)}
+.translation-en{margin-top:.65rem;color:var(--text2);font-size:13px;line-height:1.6}
 .qmeta{background:#fff;color:var(--text2);padding:.75rem 0;border-radius:0}
 .qbar-w{background:var(--bg3)}.qbar-f{background:var(--blue)}
 .qopt{background:#fff;border-color:var(--border);border-radius:10px}
@@ -542,6 +567,44 @@ body:before{display:none}
 .review-btn.reviewing{background:#fff7ed;color:var(--amber);border-color:#fed7aa}
 .review-btn.mastered{background:#edf8f1;color:var(--green);border-color:#bfe8cf}
 .toast{background:var(--text);color:#fff;border:0;border-radius:10px;box-shadow:0 14px 36px rgba(22,32,43,.18)}
+html[data-theme="dark"]{
+  --bg:#10141b;--bg2:#161b24;--bg3:#202734;--bg4:#161b24;
+  --border:#2a3442;--border2:#3a4656;
+  --text:#edf2f7;--text2:#a6b2c0;--text3:#728093;
+  --blue:#6ea8ff;--blue-dim:#172842;--blue2:#8bb8ff;
+  --red:#ff6b5f;--green:#55d889;--amber:#f7b955;
+  --paper:#161b24;--paper2:#161b24;--paper3:#202734;
+  --ink:#edf2f7;--ink2:#a6b2c0;--muted:#728093;
+  --line:#2a3442;--line2:#3a4656;
+  --hl-yellow:rgba(110,168,255,.18);--hl-yellow-border:rgba(110,168,255,.85);--hl-active:rgba(110,168,255,.28);
+}
+html[data-theme="dark"] .topbar{background:rgba(22,27,36,.92)}
+html[data-theme="dark"] .sidebar,
+html[data-theme="dark"] .study-hero,
+html[data-theme="dark"] .summary-card,
+html[data-theme="dark"] .tabs,
+html[data-theme="dark"] .transcript-hint,
+html[data-theme="dark"] .transcript-body,
+html[data-theme="dark"] .word-panel,
+html[data-theme="dark"] .vcard,
+html[data-theme="dark"] .scard,
+html[data-theme="dark"] .tcard,
+html[data-theme="dark"] .qcard,
+html[data-theme="dark"] .translation-card,
+html[data-theme="dark"] .translate-toolbar,
+html[data-theme="dark"] .vocab-popup{background:var(--bg2);color:var(--text)}
+html[data-theme="dark"] .btn-src,
+html[data-theme="dark"] .icon-btn,
+html[data-theme="dark"] .sidebar-open-btn,
+html[data-theme="dark"] .theme-btn,
+html[data-theme="dark"] .para-flip-btn,
+html[data-theme="dark"] .review-btn{background:var(--bg2);color:var(--text2)}
+html[data-theme="dark"] .meta-pill,
+html[data-theme="dark"] .speaker-tag,
+html[data-theme="dark"] .para-cn-side,
+html[data-theme="dark"] .veg,
+html[data-theme="dark"] .qopt{background:var(--bg3);color:var(--text)}
+html[data-theme="dark"] .theme-btn:before{content:"●"}
 @media(max-width:900px){
   .layout,.layout.sidebar-collapsed{grid-template-columns:1fr}
   .sidebar{display:none}
@@ -580,7 +643,6 @@ body:before{display:none}
   <div class="sidebar-logo">
     <span>CNN</span>
     <strong class="logo-text">英语精读</strong>
-    <button class="sidebar-toggle" onclick="toggleSidebar()" title="收起侧栏" aria-label="收起侧栏"></button>
   </div>
   <div class="sidebar-section">历史记录</div>
   <div id="histList"><!-- HISTORY_ITEMS --></div>
@@ -597,6 +659,7 @@ body:before{display:none}
     <span class="topbar-date" id="topbarDate"></span>
     <span class="badge badge-auto">每日自动更新</span>
     <button class="btn btn-src" id="srcBtn" onclick="openSource()">查看原文</button>
+    <button class="theme-btn" onclick="toggleTheme()" title="切换白天/黑夜模式" aria-label="切换白天/黑夜模式"></button>
   </div>
 
   <div class="content">
@@ -621,6 +684,7 @@ body:before{display:none}
     <!-- Tabs -->
     <div class="tabs">
       <div class="tab active" onclick="switchTab('transcript')">全文稿</div>
+      <div class="tab" onclick="switchTab('translation')">翻译</div>
       <div class="tab" onclick="switchTab('vocab')">词汇</div>
       <div class="tab" onclick="switchTab('sentences')">难句</div>
       <div class="tab" onclick="switchTab('topics')">背景</div>
@@ -641,6 +705,18 @@ body:before{display:none}
           </div>
         </div>
       </div>
+    </div>
+
+    <!-- Translation Tab -->
+    <div id="translation" class="section">
+      <div class="translate-toolbar">
+        <div>
+          <div class="card-label" style="margin-bottom:2px">全文翻译</div>
+          <div class="translate-status" id="translateStatus">可按需加载，浏览器会自动缓存。</div>
+        </div>
+        <button class="btn btn-src" onclick="translateAllParagraphs()">加载全文翻译</button>
+      </div>
+      <div class="translation-list" id="translationList"></div>
     </div>
 
     <!-- Vocab Tab -->
@@ -716,12 +792,15 @@ const COLORS = ['#4a9eff','#e05a3a','#1abc9c','#f0a500'];
 const LV_COLORS = {'考研':'#f0a500','六级':'#4a9eff','专四':'#a78bfa','专八':'#a78bfa','时事词汇':'#2ecc71'};
 const REVIEW_KEY_PREFIX = 'cnn_vocab_status:';
 const SIDEBAR_KEY = 'cnn_sidebar_collapsed';
+const THEME_KEY = 'cnn_theme';
+const TRANSLATE_CACHE_PREFIX = 'cnn_para_cn:';
 let toastTimer = null;
 
 audioPlayer.addEventListener('ended', clearAudioButton);
 audioPlayer.addEventListener('error', clearAudioButton);
 
 // ── Init ───────────────────────────────────────────
+restoreTheme();
 restoreSidebar();
 
 (function init(){
@@ -747,8 +826,28 @@ function toggleSidebar(){
   const layout = document.querySelector('.layout');
   if(!layout) return;
   const collapsed = layout.classList.toggle('sidebar-collapsed');
-  document.querySelector('.sidebar-toggle')?.setAttribute('title', collapsed ? '展开侧栏' : '收起侧栏');
+  document.querySelector('.sidebar-open-btn')?.setAttribute('title', collapsed ? '展开侧栏' : '收起侧栏');
   try{ localStorage.setItem(SIDEBAR_KEY, collapsed ? '1' : '0'); }catch(e){}
+}
+
+function restoreTheme(){
+  let theme = '';
+  try{ theme = localStorage.getItem(THEME_KEY) || ''; }catch(e){}
+  if(!theme && window.matchMedia?.('(prefers-color-scheme: dark)').matches) theme = 'dark';
+  setTheme(theme === 'dark' ? 'dark' : 'light', false);
+}
+
+function setTheme(theme, persist=true){
+  document.documentElement.dataset.theme = theme;
+  const btn = document.querySelector('.theme-btn');
+  if(btn) btn.title = theme === 'dark' ? '切换到白天模式' : '切换到黑夜模式';
+  if(persist){
+    try{ localStorage.setItem(THEME_KEY, theme); }catch(e){}
+  }
+}
+
+function toggleTheme(){
+  setTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark');
 }
 
 // ── Load Date ──────────────────────────────────────
@@ -769,6 +868,7 @@ function renderAll(data){
     'CNN This Morning · ' + (data.date||'');
 
   renderTranscript(data.paragraphs||[], data.vocabulary||[]);
+  renderFullTranslation(data.paragraphs||[]);
   renderWordList(data.vocabulary||[]);
   renderVocab(data.vocabulary||[]);
   renderSentences(data.sentences||[]);
@@ -791,10 +891,24 @@ function renderTranscript(paragraphs, vocab){
   const sortedWords = Object.keys(vocabMap).sort((a,b)=>b.length-a.length);
 
   body.innerHTML = paragraphs.map((p,pi)=>{
-    const tag = `<span class="speaker-tag">${esc(p.speaker||'ANCHOR')}</span>`;
+    const speaker = speakerLabel(p.speaker);
+    const tag = speaker ? `<span class="speaker-tag">${esc(speaker)}</span>` : '';
     const highlighted = highlightWords(p.text, sortedWords, vocabMap);
-    return `<div class="para">${tag}${highlighted}</div>`;
+    const cn = p.cn || getCachedTranslation(pi, p.text) || '';
+    return `<article class="para para-card" data-pi="${pi}" ondblclick="toggleParagraphTranslation(event,${pi})">
+      <div class="para-head">
+        ${tag}
+        <div class="para-actions">
+          <button class="para-flip-btn" onclick="toggleParagraphTranslation(event,${pi})" title="切换当前段落中英文">译</button>
+        </div>
+      </div>
+      <div class="para-content">
+        <div class="para-side para-en-side">${highlighted}</div>
+        <div class="para-side para-cn-side" data-cn-for="${pi}">${cn ? esc(cn) : '左滑或点击“译”加载当前段落中文翻译'}</div>
+      </div>
+    </article>`;
   }).join('');
+  attachParagraphSwipe();
 }
 
 function highlightWords(text, sortedWords, vocabMap){
@@ -838,6 +952,135 @@ function highlightWords(text, sortedWords, vocabMap){
   });
   html += esc(text.slice(last));
   return html;
+}
+
+// ── Paragraph Translation ─────────────────────────
+function speakerLabel(s){
+  const label = String(s||'').trim();
+  return (!label || label === 'ANCHOR' || label === 'REPORTER') ? '' : label;
+}
+
+function textHash(text){
+  let h = 0;
+  for(let i=0;i<text.length;i++) h = Math.imul(31, h) + text.charCodeAt(i) | 0;
+  return Math.abs(h).toString(36);
+}
+
+function translationCacheKey(index, text){
+  return `${TRANSLATE_CACHE_PREFIX}${currentData?.date||'unknown'}:${index}:${textHash(text)}`;
+}
+
+function getCachedTranslation(index, text){
+  try{ return localStorage.getItem(translationCacheKey(index, text)) || ''; }
+  catch(e){ return ''; }
+}
+
+function setCachedTranslation(index, text, cn){
+  try{ localStorage.setItem(translationCacheKey(index, text), cn); }catch(e){}
+}
+
+async function requestBrowserTranslation(text){
+  const url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=' + encodeURIComponent(text);
+  const resp = await fetch(url);
+  if(!resp.ok) throw new Error('translate failed');
+  const data = await resp.json();
+  return (data?.[0] || []).map(part=>part?.[0] || '').join('').trim();
+}
+
+async function ensureParagraphTranslation(index){
+  const p = currentData?.paragraphs?.[index];
+  if(!p?.text) return '';
+  if(p.cn) return p.cn;
+  const cached = getCachedTranslation(index, p.text);
+  if(cached) return cached;
+
+  const target = document.querySelector(`[data-cn-for="${index}"]`);
+  target?.classList.add('loading');
+  if(target) target.textContent = '正在加载当前段落中文翻译...';
+  try{
+    const cn = await requestBrowserTranslation(p.text);
+    if(cn){
+      p.cn = cn;
+      setCachedTranslation(index, p.text, cn);
+      return cn;
+    }
+  }catch(e){
+    showToast('翻译加载失败，请稍后再试');
+  }finally{
+    target?.classList.remove('loading');
+  }
+  return '';
+}
+
+async function toggleParagraphTranslation(e, index){
+  e?.stopPropagation?.();
+  const card = document.querySelector(`.para-card[data-pi="${index}"]`);
+  if(!card) return;
+  const shouldShowCn = !card.classList.contains('flipped');
+  if(shouldShowCn){
+    const cn = await ensureParagraphTranslation(index);
+    const target = document.querySelector(`[data-cn-for="${index}"]`);
+    if(target) target.textContent = cn || '暂无中文翻译';
+  }
+  card.classList.toggle('flipped', shouldShowCn);
+}
+
+function attachParagraphSwipe(){
+  document.querySelectorAll('.para-card').forEach(card=>{
+    let startX = 0, startY = 0;
+    card.addEventListener('touchstart', e=>{
+      const t = e.touches[0];
+      startX = t.clientX;
+      startY = t.clientY;
+    }, {passive:true});
+    card.addEventListener('touchend', e=>{
+      const t = e.changedTouches[0];
+      const dx = t.clientX - startX;
+      const dy = t.clientY - startY;
+      if(Math.abs(dx) > 56 && Math.abs(dx) > Math.abs(dy) * 1.4){
+        const index = Number(card.dataset.pi);
+        toggleParagraphTranslation(e, index);
+      }
+    }, {passive:false});
+  });
+}
+
+function renderFullTranslation(paragraphs){
+  const list = document.getElementById('translationList');
+  const status = document.getElementById('translateStatus');
+  if(!list || !status) return;
+  if(!paragraphs.length){
+    status.textContent = '当前日期暂无全文稿。';
+    list.innerHTML = '<div class="empty"><h3>暂无全文翻译</h3><p>请切换到有全文稿的日期。</p></div>';
+    return;
+  }
+  const ready = paragraphs.filter((p,i)=>p.cn || getCachedTranslation(i, p.text)).length;
+  status.textContent = `已缓存 ${ready} / ${paragraphs.length} 段中文翻译。`;
+  list.innerHTML = paragraphs.map((p,i)=>{
+    const speaker = speakerLabel(p.speaker);
+    const cn = p.cn || getCachedTranslation(i, p.text) || '';
+    return `<article class="translation-card" data-translation-card="${i}">
+      <div class="translation-index">第 ${i+1} 段${speaker ? ' · ' + esc(speaker) : ''}</div>
+      <div class="translation-cn" data-translation-cn="${i}">${cn ? esc(cn) : '尚未加载中文翻译'}</div>
+      <div class="translation-en">${esc(p.text)}</div>
+    </article>`;
+  }).join('');
+}
+
+async function translateAllParagraphs(){
+  const paragraphs = currentData?.paragraphs || [];
+  if(!paragraphs.length) return;
+  const status = document.getElementById('translateStatus');
+  for(let i=0;i<paragraphs.length;i++){
+    const p = paragraphs[i];
+    if(!p?.text) continue;
+    if(status) status.textContent = `正在翻译第 ${i+1} / ${paragraphs.length} 段...`;
+    const cn = await ensureParagraphTranslation(i);
+    const target = document.querySelector(`[data-translation-cn="${i}"]`);
+    if(target) target.textContent = cn || '暂无中文翻译';
+  }
+  renderFullTranslation(paragraphs);
+  showToast('全文翻译已缓存');
 }
 
 // ── Vocab Popup ────────────────────────────────────
@@ -1172,7 +1415,7 @@ function markMissedQuizWord(q){
 
 // ── Tab Switch ─────────────────────────────────────
 function switchTab(id){
-  ['transcript','vocab','sentences','topics','quiz'].forEach((t,i)=>{
+  ['transcript','translation','vocab','sentences','topics','quiz'].forEach((t,i)=>{
     document.querySelectorAll('.tab')[i].classList.toggle('active',t===id);
     document.getElementById(t).classList.toggle('active',t===id);
   });

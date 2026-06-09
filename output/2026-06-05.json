@@ -4,13 +4,13 @@
   "summary": "美国参议院通过700亿美元共和党移民法案，资助ICE和边境巡逻队至特朗普任期结束，但FISA重新授权法案受阻。缅因州参议员候选人Graham Platner再陷争议，《纽约时报》报道其过往暴力行为，他否认但承认曾与PTSD斗争。Kevin O'Leary因公众抗议缩减犹他州AI数据中心项目。其他新闻包括NBA总决赛、航母火灾、世界杯临近等。",
   "transcript_highlights": [
     {
-      "speaker": "ANCHOR",
+      "speaker": "",
       "text": "The U.S. Senate took almost 20 hours voting down amendment after amendment. But just a short time ago, they voted to approve the $70 billion Republican immigration bill.",
       "cn": "美国参议院花了近20个小时否决了一个又一个修正案。但就在不久前，他们投票通过了700亿美元的共和党移民法案。",
       "note": "参议院通过重大移民法案，体现两党在边境安全上的分歧。"
     },
     {
-      "speaker": "ANCHOR",
+      "speaker": "",
       "text": "More unsettling allegations in the Graham Platner saga. This is just days after the Maine Senate candidate met with Senate Democrats to assure them no other shoes were going to drop.",
       "cn": "Graham Platner事件中出现了更多令人不安的指控。就在几天前，这位缅因州参议员候选人还与参议院民主党人会面，向他们保证不会有其他意外发生。",
       "note": "Platner的争议持续发酵，民主党面临是否继续支持他的困境。"
@@ -22,13 +22,13 @@
       "note": "Platner否认《纽约时报》报道中的严重指控，但承认曾自我治疗酒精问题。"
     },
     {
-      "speaker": "ANCHOR",
+      "speaker": "",
       "text": "Kevin O'Leary, pulling back on some of his A.I. data center project. Is that going to be enough to ease concerns in Utah?",
       "cn": "Kevin O'Leary正在缩减他的一些AI数据中心项目。这足以缓解犹他州的担忧吗？",
       "note": "公众对数据中心资源消耗的抗议导致项目调整。"
     },
     {
-      "speaker": "ANCHOR",
+      "speaker": "",
       "text": "And the World Cup opener less than a week away. But could the beautiful game be clouded by a climate of fear?",
       "cn": "世界杯开幕战不到一周了。但这项美丽的运动会被恐惧气氛笼罩吗？",
       "note": "提及世界杯前的安全担忧，可能涉及恐怖主义或社会动荡。"
@@ -299,6 +299,33 @@
       ],
       "answer": 1,
       "explanation": "报道指出公众抗议导致项目缩减，担忧资源消耗。"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "",
+      "text": "The U.S. Senate took almost 20 hours voting down amendment after amendment. But just a short time ago, they voted to approve the $70 billion Republican immigration bill.",
+      "cn": "美国参议院花了近20个小时否决了一个又一个修正案。但就在不久前，他们投票通过了700亿美元的共和党移民法案。"
+    },
+    {
+      "speaker": "",
+      "text": "More unsettling allegations in the Graham Platner saga. This is just days after the Maine Senate candidate met with Senate Democrats to assure them no other shoes were going to drop.",
+      "cn": "Graham Platner事件中出现了更多令人不安的指控。就在几天前，这位缅因州参议员候选人还与参议院民主党人会面，向他们保证不会有其他意外发生。"
+    },
+    {
+      "speaker": "Platner",
+      "text": "There are some allegations in this piece that I just want to be kind of unequivocal about are simply not true. Anything alleging physicality; anything alleging that I knew what my tattoo was.",
+      "cn": "这篇报道中的一些指控，我想明确表示，根本不是真的。任何关于肢体暴力的指控，任何关于我知道我的纹身含义的指控。"
+    },
+    {
+      "speaker": "",
+      "text": "Kevin O'Leary, pulling back on some of his A.I. data center project. Is that going to be enough to ease concerns in Utah?",
+      "cn": "Kevin O'Leary正在缩减他的一些AI数据中心项目。这足以缓解犹他州的担忧吗？"
+    },
+    {
+      "speaker": "",
+      "text": "And the World Cup opener less than a week away. But could the beautiful game be clouded by a climate of fear?",
+      "cn": "世界杯开幕战不到一周了。但这项美丽的运动会被恐惧气氛笼罩吗？"
     }
   ]
 }
