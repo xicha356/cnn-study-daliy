@@ -75,3 +75,35 @@ jobs:
           git commit -m "📚 $(date +'%Y-%m-%d') Vercel CNN精读内容"
           git pull --rebase origin main
           git push origin HEAD:main
+
+      - name: 部署 PC 到 Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID || 'team_1bo68GKRsXoT2DiPBWHiD9NK' }}
+          VERCEL_PROJECT_ID: ${{ vars.VERCEL_WEB_PROJECT_ID || 'prj_3cUbNdsi38fSX0bPXoZ5LZ8jOW6B' }}
+        run: |
+          if [ -z "$VERCEL_TOKEN" ]; then
+            echo "::warning::未配置 VERCEL_TOKEN，跳过 PC Vercel 自动部署。"
+            exit 0
+          fi
+          mkdir -p .vercel
+          printf '{"orgId":"%s","projectId":"%s"}' "$VERCEL_ORG_ID" "$VERCEL_PROJECT_ID" > .vercel/project.json
+          pnpm dlx vercel@54.10.2 pull --yes --environment production --token "$VERCEL_TOKEN" -A vercel.web.json
+          pnpm dlx vercel@54.10.2 build --prod --yes --token "$VERCEL_TOKEN" -A vercel.web.json
+          pnpm dlx vercel@54.10.2 deploy --prebuilt --prod --yes --token "$VERCEL_TOKEN" -A vercel.web.json
+
+      - name: 部署 H5 到 Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID || 'team_1bo68GKRsXoT2DiPBWHiD9NK' }}
+          VERCEL_PROJECT_ID: ${{ vars.VERCEL_H5_PROJECT_ID || 'prj_WHlzXhnhB5UjiJOoOOoS9yhyEq0T' }}
+        run: |
+          if [ -z "$VERCEL_TOKEN" ]; then
+            echo "::warning::未配置 VERCEL_TOKEN，跳过 H5 Vercel 自动部署。"
+            exit 0
+          fi
+          mkdir -p .vercel
+          printf '{"orgId":"%s","projectId":"%s"}' "$VERCEL_ORG_ID" "$VERCEL_PROJECT_ID" > .vercel/project.json
+          pnpm dlx vercel@54.10.2 pull --yes --environment production --token "$VERCEL_TOKEN" -A vercel.h5.json
+          pnpm dlx vercel@54.10.2 build --prod --yes --token "$VERCEL_TOKEN" -A vercel.h5.json
+          pnpm dlx vercel@54.10.2 deploy --prebuilt --prod --yes --token "$VERCEL_TOKEN" -A vercel.h5.json

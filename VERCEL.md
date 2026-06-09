@@ -20,6 +20,8 @@
 - PC Build Command: `pnpm --filter english-web build`
 - H5 Build Command: `pnpm --filter english-h5 build`
 
+当前线上项目是通过 Vercel CLI / prebuilt 方式创建和部署的，Vercel API 返回的 Git link 为空，所以它们还没有真正连接到 GitHub 仓库。未连接 GitHub 时，Production Branch 设置不会自动监听 `main` 推送；推荐先使用下面的 GitHub Actions 主动部署链路。
+
 ## 环境变量
 
 两个项目都配置：
@@ -50,16 +52,26 @@
 4. `pnpm prepare:data` 把 `output/` 转成 Next.js 读取的 `public/data/`，并同步 `public/audio/`
 5. `pnpm validate:data` 校验生成数据
 6. workflow 提交 `output/`、`public/data/`、`public/audio/` 到 `main`
-7. Vercel 监听到 `main` 新提交后自动生产部署
+7. workflow 使用 Vercel CLI 分别把 PC 和 H5 部署到生产环境
 
 需要确认：
 
 - GitHub 仓库默认分支仍为 `main`
 - `.github/workflows/daily.yml` 存在于默认分支 `main`
-- Vercel 两个项目的 Production Branch 都是 `main`
 - GitHub Actions secret 已配置 `DEEPSEEK_API_KEY`
 - 如需预生成发音，GitHub Actions secret 配置 `ELEVENLABS_API_KEY`
+- GitHub Actions secret 已配置 `VERCEL_TOKEN`
 - `github-actions[bot]` 允许向 `main` 推送
+
+Vercel 自动部署使用这些项目 ID，已经在 workflow 里写了默认值：
+
+- `VERCEL_ORG_ID`: `team_1bo68GKRsXoT2DiPBWHiD9NK`
+- `VERCEL_WEB_PROJECT_ID`: `prj_3cUbNdsi38fSX0bPXoZ5LZ8jOW6B`
+- `VERCEL_H5_PROJECT_ID`: `prj_WHlzXhnhB5UjiJOoOOoS9yhyEq0T`
+
+如果后面换了 Vercel 项目，可以在 GitHub 仓库 Variables 里覆盖这三个值。
+
+如果想改成 Vercel 原生 Git 自动部署，需要先在 Vercel 账号里添加 GitHub Login Connection，然后把两个项目分别连接到 `xicha356/cnn-study-daliy`。连接完成后，在 Vercel Project Settings -> Environments -> Production -> Branch Tracking 里把 Production Branch 设为 `main`。
 
 旧版 `main` 内容会保留在 `old-main` 分支；日常开发、自动更新和 Vercel 部署
 统一使用 `main`。
