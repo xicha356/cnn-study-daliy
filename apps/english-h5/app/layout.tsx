@@ -36,7 +36,8 @@ function ThemeScript() {
 
 function DeviceRedirectScript() {
   const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
-  const webOrigin = process.env.NEXT_PUBLIC_WEB_ORIGIN || "";
+  const webOrigin =
+    process.env.NEXT_PUBLIC_WEB_ORIGIN || "https://english-web-phi.vercel.app";
   const code = `
     (function () {
       try {

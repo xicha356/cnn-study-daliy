@@ -82,6 +82,14 @@ function getSelectedEnglishWord() {
   return match?.[0] || "";
 }
 
+function getSidebarTitle(title: string, date: string) {
+  return title
+    .replace(new RegExp(`\\s*[·-]\\s*${escapeRegExp(date)}\\s*[·-]\\s*`), " · ")
+    .replace(new RegExp(`^${escapeRegExp(date)}\\s*[·-]\\s*`), "")
+    .replace(/\s+·\s+$/, "")
+    .trim();
+}
+
 function ParagraphBlock({
   articleDate,
   highlighted,
@@ -410,7 +418,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
       <aside
         className={[
           "fixed inset-y-0 left-0 z-30 border-r border-line bg-panel transition-[width] duration-200",
-          sidebarOpen ? "w-72" : "w-14",
+          sidebarOpen ? "w-96" : "w-14",
         ].join(" ")}
       >
         <button
@@ -431,14 +439,15 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
             >
               Home
             </Link>
-            <div className="mt-7">
+            <div className="mt-7 flex min-h-0 flex-1 flex-col">
               <p className="text-xs font-semibold uppercase tracking-wide text-sub">
                 Articles
               </p>
-              <div className="mt-3 max-h-64 overflow-y-auto pr-1 scrollbar-soft">
+              <div className="mt-3 min-h-0 flex-1 overflow-y-auto pr-1 scrollbar-soft">
                 <nav className="grid gap-2">
                   {sidebarArticles.map((item) => {
                     const current = item.date === article.date;
+                    const title = getSidebarTitle(item.title, item.date);
 
                     return (
                       <Link
@@ -460,17 +469,14 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                         >
                           {item.date}
                         </span>
-                        <span className="mt-1 line-clamp-2 block text-sm font-medium leading-5">
-                          {item.title}
+                        <span className="mt-2 line-clamp-2 block text-sm font-medium leading-5">
+                          {title}
                         </span>
                       </Link>
                     );
                   })}
                 </nav>
               </div>
-            </div>
-            <div className="mt-auto rounded-md bg-muted p-3 text-sm text-sub">
-              {sidebarArticles.length} articles available.
             </div>
           </div>
         ) : (
@@ -485,7 +491,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
       <div
         className={[
           "transition-[padding] duration-200",
-          sidebarOpen ? "pl-72" : "pl-14",
+          sidebarOpen ? "pl-96" : "pl-14",
         ].join(" ")}
       >
         <header className="sticky top-0 z-20 border-b border-line bg-bg/95 px-8 py-4 backdrop-blur">

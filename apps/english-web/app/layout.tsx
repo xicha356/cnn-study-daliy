@@ -9,7 +9,8 @@ export const metadata: Metadata = {
 
 function DeviceRedirectScript() {
   const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
-  const h5Origin = process.env.NEXT_PUBLIC_H5_ORIGIN || "";
+  const h5Origin =
+    process.env.NEXT_PUBLIC_H5_ORIGIN || "https://english-h5.vercel.app";
   const code = `
     (function () {
       try {
@@ -22,8 +23,14 @@ function DeviceRedirectScript() {
         var h5Origin = ${JSON.stringify(h5Origin)};
         var path = window.location.pathname;
         var suffix = path.indexOf(base) === 0 ? path.slice(base.length) : path;
+        while (suffix.indexOf('/h5/') === 0 || suffix === '/h5') {
+          suffix = suffix.slice(3) || '/';
+        }
         if (!suffix || suffix === '/') suffix = '/';
-        var target = (h5Origin || (base + '/h5')) + suffix + window.location.search + window.location.hash;
+        var h5Base = h5Origin || (base ? base + '/h5' : '');
+        if (!h5Base && (path.indexOf('/h5/') === 0 || path === '/h5')) return;
+        var target = (h5Base || '/h5') + suffix + window.location.search + window.location.hash;
+        if (target === window.location.pathname + window.location.search + window.location.hash) return;
         window.location.replace(target);
       } catch (_) {}
     })();
