@@ -1,0 +1,2 @@
+:HL["/cnn-study-daliy/h5/_next/static/chunks/454v2x-pyvomy.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"date","param":{"type":"d","key":"2026-06-05","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"omKa2SxRrYT4GpG55PdZ8"}
