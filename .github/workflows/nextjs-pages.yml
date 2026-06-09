@@ -113,3 +113,23 @@ jobs:
             -H "X-GitHub-Api-Version: 2022-11-28" \
             "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages" \
             -d '{"source":{"branch":"gh-pages","path":"/"}}'
+
+      - name: 构建 main 分支子目录版本
+        run: NEXT_PUBLIC_PAGES_BASE_PATH=/cnn-study-daliy/nextjs pnpm build:pages
+
+      - name: 发布到 main 分支 nextjs 目录
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          rm -rf /tmp/cnn-study-main-pages
+          git clone --depth 1 --branch main "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" /tmp/cnn-study-main-pages
+          cd /tmp/cnn-study-main-pages
+          rm -rf nextjs
+          mkdir -p nextjs
+          cp -R "${GITHUB_WORKSPACE}/dist/." nextjs/
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add nextjs
+          git diff --staged --quiet && exit 0
+          git commit -m "Deploy Next.js study app under /nextjs"
+          git push origin HEAD:main
