@@ -10,10 +10,12 @@ export function AudioButton({
   url,
   label = "播放音频",
   className,
+  playbackRate = 0.8,
 }: {
   url?: string;
   label?: string;
   className?: string;
+  playbackRate?: number;
 }) {
   const [state, setState] = useState<AudioState>("idle");
   const audioRef = useRef<HTMLAudioElement | null>(null);
@@ -27,6 +29,7 @@ export function AudioButton({
       audioRef.current.pause();
       audioRef.current.currentTime = 0;
       audioRef.current.src = src;
+      audioRef.current.playbackRate = playbackRate;
       audioRef.current.onended = () => setState("idle");
       audioRef.current.onerror = () => setState("idle");
       await audioRef.current.play();

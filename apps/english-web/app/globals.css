@@ -78,6 +78,25 @@ button:disabled {
   color: var(--text);
 }
 
+@keyframes paragraph-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 color-mix(in srgb, var(--brand) 0%, transparent);
+  }
+
+  35% {
+    box-shadow: 0 0 0 5px color-mix(in srgb, var(--brand) 26%, transparent);
+  }
+
+  70% {
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--brand) 18%, transparent);
+  }
+}
+
+.paragraph-pulse {
+  animation: paragraph-pulse 1.6s ease-in-out;
+}
+
 .focus-ring {
   outline: none;
 }

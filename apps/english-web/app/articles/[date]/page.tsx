@@ -32,11 +32,12 @@ export default async function ArticlePage({
   params: Promise<{ date: string }>;
 }) {
   const { date } = await params;
+  const articles = await loadArticleList();
   const article = await loadArticle(date);
 
   if (!article) {
     notFound();
   }
 
-  return <ArticleReader article={article} />;
+  return <ArticleReader article={article} articleList={articles} />;
 }

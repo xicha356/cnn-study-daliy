@@ -8,6 +8,7 @@ type AudioStatus = "idle" | "loading" | "playing" | "error";
 type AudioButtonProps = {
   url?: string;
   label?: string;
+  playbackRate?: number;
 };
 
 const statusIcon: Record<AudioStatus, string> = {
@@ -17,7 +18,11 @@ const statusIcon: Record<AudioStatus, string> = {
   error: "!",
 };
 
-export function AudioButton({ url, label = "播放音频" }: AudioButtonProps) {
+export function AudioButton({
+  url,
+  label = "Play audio",
+  playbackRate = 0.8,
+}: AudioButtonProps) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [status, setStatus] = useState<AudioStatus>("idle");
   const audioUrl = normalizeAudioUrl(url);
@@ -49,6 +54,7 @@ export function AudioButton({ url, label = "播放音频" }: AudioButtonProps) {
 
     try {
       setStatus("loading");
+      audio.playbackRate = playbackRate;
       await audio.play();
       setStatus("playing");
     } catch {

@@ -1,5 +1,6 @@
 "use client";
 
+import { playAudioUrl, speakEnglishText } from "@study/core/audio";
 import {
   getParagraphTranslation,
   isArticleStudied,
@@ -8,17 +9,25 @@ import {
 } from "@study/core/storage";
 import { requestBrowserTranslation } from "@study/core/translation";
 import type {
+  ArticleIndexItem,
   Paragraph,
   StudyArticle,
   VocabularyItem,
 } from "@study/core/types";
 import Link from "next/link";
-import { type ReactNode, useEffect, useMemo, useState } from "react";
+import {
+  type MouseEvent,
+  type ReactNode,
+  useEffect,
+  useMemo,
+  useState,
+} from "react";
 import { AudioButton } from "./AudioButton";
 import { ThemeToggle } from "./ThemeToggle";
 
 type ArticleReaderProps = {
   article: StudyArticle;
+  articleList: ArticleIndexItem[];
 };
 
 type TabKey =
@@ -54,6 +63,10 @@ function vocabId(word: string) {
   return `vocab-${word.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`;
 }
 
+function paragraphDomId(id: string) {
+  return `paragraph-${id.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`;
+}
+
 function getInitials(name: string) {
   return name
     .split(/\s+/)
@@ -63,12 +76,22 @@ function getInitials(name: string) {
     .join("");
 }
 
+function getSelectedEnglishWord() {
+  const selected = window.getSelection()?.toString().trim() || "";
+  const match = selected.match(/[A-Za-z][A-Za-z'-]*/);
+  return match?.[0] || "";
+}
+
 function ParagraphBlock({
   articleDate,
+  highlighted,
+  onSpeak,
   paragraph,
   renderText,
 }: {
   articleDate: string;
+  highlighted: boolean;
+  onSpeak: (text: string) => Promise<void> | void;
   paragraph: Paragraph;
   renderText: (text: string) => ReactNode;
 }) {
@@ -76,6 +99,7 @@ function ParagraphBlock({
   const [translation, setTranslation] = useState(paragraph.cn || "");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
+  const [reading, setReading] = useState(false);
 
   useEffect(() => {
     if (!paragraph.cn) {
@@ -111,14 +135,37 @@ function ParagraphBlock({
     await revealTranslation();
   }
 
+  function handleDoubleClick(event: MouseEvent<HTMLElement>) {
+    const word = getSelectedEnglishWord();
+    if (word) {
+      event.stopPropagation();
+      speakEnglishText(word, 0.8);
+      return;
+    }
+    void flip();
+  }
+
+  async function readAloud() {
+    try {
+      setReading(true);
+      await onSpeak(paragraph.en);
+    } finally {
+      window.setTimeout(() => setReading(false), 450);
+    }
+  }
+
   const visibleText = showTranslation
     ? translation || paragraph.cn || paragraph.en
     : paragraph.en;
 
   return (
     <article
-      className="rounded-md border border-line bg-panel p-5 shadow-sm"
-      onDoubleClick={flip}
+      id={paragraphDomId(paragraph.id)}
+      className={[
+        "scroll-mt-28 rounded-md border border-line bg-panel p-5 shadow-sm transition-shadow duration-300",
+        highlighted ? "paragraph-pulse border-brand shadow-lg" : "",
+      ].join(" ")}
+      onDoubleClick={handleDoubleClick}
     >
       <div className="mb-4 flex items-center justify-between gap-4">
         <div className="flex min-w-0 items-center gap-3">
@@ -132,14 +179,30 @@ function ParagraphBlock({
             <p className="text-xs text-sub">{paragraph.id}</p>
           </div>
         </div>
-        <button
-          type="button"
-          onClick={flip}
-          disabled={loading}
-          className="focus-ring h-9 shrink-0 rounded-md border border-line bg-bg px-3 text-sm font-medium text-sub transition hover:border-brand hover:text-brand"
-        >
-          {loading ? "翻译中" : showTranslation ? "翻回" : "翻译"}
-        </button>
+        <div className="flex shrink-0 items-center gap-2">
+          <button
+            type="button"
+            onClick={readAloud}
+            className={[
+              "focus-ring inline-flex h-9 w-9 items-center justify-center rounded-md border border-line bg-bg text-sm font-semibold text-sub transition hover:border-brand hover:text-brand",
+              reading ? "border-brand bg-brand-soft text-brand" : "",
+            ].join(" ")}
+            aria-label="Read paragraph aloud"
+            title="Read paragraph aloud"
+          >
+            <span aria-hidden>▶</span>
+          </button>
+          <button
+            type="button"
+            onClick={flip}
+            disabled={loading}
+            className="focus-ring inline-flex h-9 w-9 items-center justify-center rounded-md border border-line bg-bg text-sm font-semibold text-sub transition hover:border-brand hover:text-brand"
+            aria-label={showTranslation ? "Show English" : "Translate"}
+            title={showTranslation ? "Show English" : "Translate"}
+          >
+            <span aria-hidden>{loading ? "…" : "⇄"}</span>
+          </button>
+        </div>
       </div>
       <p className="text-base leading-8 text-text">
         {showTranslation ? visibleText : renderText(visibleText)}
@@ -149,11 +212,21 @@ function ParagraphBlock({
   );
 }
 
-export function ArticleReader({ article }: ArticleReaderProps) {
+function speakParagraphText(text: string) {
+  speakEnglishText(text, 0.8);
+}
+
+export function ArticleReader({ article, articleList }: ArticleReaderProps) {
   const [activeTab, setActiveTab] = useState<TabKey>("transcript");
   const [sidebarOpen, setSidebarOpen] = useState(true);
   const [wordToast, setWordToast] = useState<WordToast | null>(null);
   const [studied, setStudied] = useState(false);
+  const [pendingParagraphId, setPendingParagraphId] = useState<string | null>(
+    null,
+  );
+  const [highlightedParagraphId, setHighlightedParagraphId] = useState<
+    string | null
+  >(null);
 
   useEffect(() => {
     setStudied(isArticleStudied(article.date));
@@ -164,6 +237,39 @@ export function ArticleReader({ article }: ArticleReaderProps) {
     const timer = window.setTimeout(() => setWordToast(null), 5000);
     return () => window.clearTimeout(timer);
   }, [wordToast]);
+
+  useEffect(() => {
+    if (activeTab !== "transcript" || !pendingParagraphId) return;
+
+    let timer: number | undefined;
+    const frame = window.requestAnimationFrame(() => {
+      document
+        .getElementById(paragraphDomId(pendingParagraphId))
+        ?.scrollIntoView({ behavior: "smooth", block: "center" });
+
+      setHighlightedParagraphId(pendingParagraphId);
+      setPendingParagraphId(null);
+
+      timer = window.setTimeout(() => {
+        setHighlightedParagraphId((current) =>
+          current === pendingParagraphId ? null : current,
+        );
+      }, 1800);
+    });
+
+    return () => {
+      window.cancelAnimationFrame(frame);
+      if (timer) window.clearTimeout(timer);
+    };
+  }, [activeTab, pendingParagraphId]);
+
+  const sidebarArticles = useMemo(
+    () =>
+      articleList.length
+        ? articleList
+        : [{ date: article.date, title: article.title }],
+    [article.date, article.title, articleList],
+  );
 
   const vocabByText = useMemo(() => {
     return new Map(
@@ -182,6 +288,19 @@ export function ArticleReader({ article }: ArticleReaderProps) {
       : null;
   }, [article.vocabulary]);
 
+  const firstParagraphIdByWord = useMemo(() => {
+    return new Map(
+      article.vocabulary.map((item) => {
+        const matcher = new RegExp(escapeRegExp(item.word), "i");
+        const paragraph = article.paragraphs.find((entry) =>
+          matcher.test(entry.en),
+        );
+
+        return [item.word, paragraph?.id || null];
+      }),
+    );
+  }, [article.paragraphs, article.vocabulary]);
+
   function showWord(item: VocabularyItem) {
     setWordToast({
       word: item.word,
@@ -190,6 +309,7 @@ export function ArticleReader({ article }: ArticleReaderProps) {
       pos: item.pos,
       audioUrl: item.audioUrl,
     });
+    void playAudioUrl(item.audioUrl, 0.8);
   }
 
   function renderHighlightedText(text: string): ReactNode {
@@ -203,6 +323,11 @@ export function ArticleReader({ article }: ArticleReaderProps) {
         <button
           key={`${part}-${index}`}
           onClick={() => showWord(vocab)}
+          onDoubleClick={(event) => {
+            event.preventDefault();
+            event.stopPropagation();
+            speakEnglishText(part, 0.8);
+          }}
           type="button"
           className="focus-ring mx-0.5 inline rounded bg-brand-soft px-1 py-0.5 font-semibold text-brand"
         >
@@ -215,6 +340,14 @@ export function ArticleReader({ article }: ArticleReaderProps) {
   function markStudied() {
     markArticleStudied(article.date);
     setStudied(true);
+  }
+
+  function jumpToVocabularyUse(item: VocabularyItem) {
+    const paragraphId = firstParagraphIdByWord.get(item.word);
+    if (!paragraphId) return;
+
+    setActiveTab("transcript");
+    setPendingParagraphId(paragraphId);
   }
 
   return (
@@ -268,18 +401,47 @@ export function ArticleReader({ article }: ArticleReaderProps) {
               href="/"
               className="focus-ring rounded-md text-sm font-medium text-brand"
             >
-              返回首页
+              Home
             </Link>
-            <div className="mt-8">
+            <div className="mt-7">
               <p className="text-xs font-semibold uppercase tracking-wide text-sub">
-                Article
+                Articles
               </p>
-              <h2 className="mt-2 text-lg font-semibold leading-7 text-text">
-                {article.title}
-              </h2>
-              <p className="mt-2 text-sm text-sub">{article.date}</p>
+              <div className="mt-3 max-h-64 overflow-y-auto pr-1 scrollbar-soft">
+                <nav className="grid gap-2">
+                  {sidebarArticles.map((item) => {
+                    const current = item.date === article.date;
+
+                    return (
+                      <Link
+                        key={item.date}
+                        href={`/articles/${item.date}`}
+                        aria-current={current ? "page" : undefined}
+                        className={[
+                          "focus-ring rounded-md border px-3 py-2 text-left transition",
+                          current
+                            ? "border-brand bg-brand text-white"
+                            : "border-line bg-bg text-sub hover:border-brand hover:text-text",
+                        ].join(" ")}
+                      >
+                        <span
+                          className={[
+                            "block text-xs font-semibold",
+                            current ? "text-white/80" : "text-brand",
+                          ].join(" ")}
+                        >
+                          {item.date}
+                        </span>
+                        <span className="mt-1 line-clamp-2 block text-sm font-medium leading-5">
+                          {item.title}
+                        </span>
+                      </Link>
+                    );
+                  })}
+                </nav>
+              </div>
             </div>
-            <nav className="mt-8 grid gap-2">
+            <nav className="mt-7 grid gap-2">
               {tabs.map((tab) => (
                 <button
                   key={tab.key}
@@ -297,13 +459,13 @@ export function ArticleReader({ article }: ArticleReaderProps) {
               ))}
             </nav>
             <div className="mt-auto rounded-md bg-muted p-3 text-sm text-sub">
-              段落双击可在原文和翻译之间切换。
+              Double-click a paragraph to switch text.
             </div>
           </div>
         ) : (
           <div className="flex h-full items-center justify-center">
             <span className="-rotate-90 whitespace-nowrap text-xs font-semibold uppercase tracking-wide text-sub">
-              Study
+              Articles
             </span>
           </div>
         )}
@@ -328,17 +490,22 @@ export function ArticleReader({ article }: ArticleReaderProps) {
                 href={article.sourceUrl}
                 target="_blank"
                 rel="noreferrer"
-                className="focus-ring inline-flex h-10 items-center rounded-md border border-line bg-panel px-4 text-sm font-medium text-sub transition hover:border-brand hover:text-brand"
+                className="focus-ring inline-flex h-10 w-10 items-center justify-center rounded-md border border-line bg-panel text-sm font-semibold text-sub transition hover:border-brand hover:text-brand"
+                aria-label="Open source article"
+                title="Open source article"
               >
-                原文
+                <span className="sr-only">Open source article</span>
+                <span aria-hidden>↗</span>
               </a>
               <button
                 type="button"
                 onClick={markStudied}
                 disabled={studied}
-                className="focus-ring h-10 rounded-md border border-brand bg-brand px-4 text-sm font-medium text-white transition hover:brightness-105"
+                className="focus-ring inline-flex h-10 w-10 items-center justify-center rounded-md border border-brand bg-brand text-sm font-semibold text-white transition hover:brightness-105"
+                aria-label={studied ? "Already studied" : "Mark as studied"}
+                title={studied ? "Already studied" : "Mark as studied"}
               >
-                {studied ? "已学习" : "标记已学"}
+                <span aria-hidden>{studied ? "✓" : "+"}</span>
               </button>
               <ThemeToggle />
             </div>
@@ -378,6 +545,8 @@ export function ArticleReader({ article }: ArticleReaderProps) {
                   <ParagraphBlock
                     key={paragraph.id}
                     articleDate={article.date}
+                    highlighted={highlightedParagraphId === paragraph.id}
+                    onSpeak={speakParagraphText}
                     paragraph={paragraph}
                     renderText={renderHighlightedText}
                   />
@@ -546,26 +715,27 @@ export function ArticleReader({ article }: ArticleReaderProps) {
             <h2 className="text-sm font-semibold text-text">词汇索引</h2>
             <div className="mt-4 grid gap-2">
               {article.vocabulary.map((item) => (
-                <button
+                <div
                   key={item.word}
-                  type="button"
-                  onClick={() => {
-                    setActiveTab("vocabulary");
-                    window.requestAnimationFrame(() => {
-                      document
-                        .getElementById(vocabId(item.word))
-                        ?.scrollIntoView({ block: "start" });
-                    });
-                  }}
-                  className="focus-ring rounded-md border border-line bg-bg px-3 py-2 text-left transition hover:border-brand hover:text-brand"
+                  className="grid grid-cols-[minmax(0,1fr)_auto] gap-2"
                 >
-                  <span className="block text-sm font-semibold text-text">
-                    {item.word}
-                  </span>
-                  <span className="mt-1 line-clamp-1 block text-xs text-sub">
-                    {item.cn}
-                  </span>
-                </button>
+                  <button
+                    type="button"
+                    onClick={() => jumpToVocabularyUse(item)}
+                    className="focus-ring min-w-0 rounded-md border border-line bg-bg px-3 py-2 text-left transition hover:border-brand hover:text-brand"
+                  >
+                    <span className="block text-sm font-semibold text-text">
+                      {item.word}
+                    </span>
+                    <span className="mt-1 line-clamp-1 block text-xs text-sub">
+                      {item.cn}
+                    </span>
+                  </button>
+                  <AudioButton
+                    url={item.audioUrl}
+                    label={`Play ${item.word}`}
+                  />
+                </div>
               ))}
             </div>
           </aside>

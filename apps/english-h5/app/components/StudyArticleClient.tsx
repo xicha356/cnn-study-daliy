@@ -1,5 +1,6 @@
 "use client";
 
+import { playAudioUrl, speakEnglishText } from "@study/core/audio";
 import {
   getParagraphTranslation,
   setParagraphTranslation,
@@ -12,11 +13,14 @@ import type {
 } from "@study/core/types";
 import { AudioButton } from "@study/ui/AudioButton";
 import Link from "next/link";
+import type { MouseEvent } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { ReactNode } from "react";
 import { ThemeToggle } from "./ThemeToggle";
 
 type TabKey = "original" | "translation" | "vocabulary" | "sentences" | "quiz";
+
+const AUDIO_PLAYBACK_RATE = 0.8;
 
 const tabs: Array<{ key: TabKey; label: string }> = [
   { key: "original", label: "原文" },
@@ -44,6 +48,12 @@ function buildVocabularyMatcher(vocabulary: VocabularyItem[]) {
     .sort((a, b) => b.lowerWord.length - a.lowerWord.length);
 }
 
+function getSelectedEnglishWord() {
+  const selected = window.getSelection()?.toString().trim() || "";
+  const match = selected.match(/[A-Za-z][A-Za-z'-]*/);
+  return match?.[0] || "";
+}
+
 export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const [activeTab, setActiveTab] = useState<TabKey>("original");
   const [visibleCn, setVisibleCn] = useState<Record<string, boolean>>({});
@@ -55,11 +65,14 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const [loadingCn, setLoadingCn] = useState<Record<string, boolean>>({});
   const [activeVocab, setActiveVocab] = useState<VocabularyItem | null>(null);
   const [isSheetOpen, setIsSheetOpen] = useState(false);
+  const [isSheetMounted, setIsSheetMounted] = useState(false);
   const [pulseParagraphId, setPulseParagraphId] = useState("");
 
   const paragraphRefs = useRef<Record<string, HTMLElement | null>>({});
   const touchStartX = useRef<Record<string, number>>({});
   const tipTimer = useRef<number | null>(null);
+  const sheetTimer = useRef<number | null>(null);
+  const sheetFrame = useRef<number | null>(null);
 
   const vocabularyMatcher = useMemo(
     () => buildVocabularyMatcher(article.vocabulary),
@@ -69,6 +82,8 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   useEffect(() => {
     return () => {
       if (tipTimer.current) window.clearTimeout(tipTimer.current);
+      if (sheetTimer.current) window.clearTimeout(sheetTimer.current);
+      if (sheetFrame.current) window.cancelAnimationFrame(sheetFrame.current);
     };
   }, []);
 
@@ -118,10 +133,24 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     delete touchStartX.current[paragraph.id];
   }
 
-  function showVocabTip(vocab: VocabularyItem) {
+  function handleParagraphDoubleClick(event: MouseEvent<HTMLElement>) {
+    const word = getSelectedEnglishWord();
+    if (!word) return;
+    event.stopPropagation();
+    speakEnglishText(word, AUDIO_PLAYBACK_RATE);
+  }
+
+  function showVocabTip(vocab: VocabularyItem, shouldPlayAudio = false) {
     setActiveVocab(vocab);
     if (tipTimer.current) window.clearTimeout(tipTimer.current);
     tipTimer.current = window.setTimeout(() => setActiveVocab(null), 5000);
+    if (shouldPlayAudio) {
+      void playAudioUrl(vocab.audioUrl, AUDIO_PLAYBACK_RATE);
+    }
+  }
+
+  function readParagraphAloud(text: string) {
+    speakEnglishText(text, AUDIO_PLAYBACK_RATE);
   }
 
   function findParagraphForVocabulary(vocab: VocabularyItem) {
@@ -137,10 +166,29 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     );
   }
 
+  function openVocabularySheet() {
+    if (sheetTimer.current) window.clearTimeout(sheetTimer.current);
+    if (sheetFrame.current) window.cancelAnimationFrame(sheetFrame.current);
+    setIsSheetMounted(true);
+    sheetFrame.current = window.requestAnimationFrame(() => {
+      sheetFrame.current = null;
+      setIsSheetOpen(true);
+    });
+  }
+
+  function closeVocabularySheet() {
+    if (sheetFrame.current) window.cancelAnimationFrame(sheetFrame.current);
+    setIsSheetOpen(false);
+    if (sheetTimer.current) window.clearTimeout(sheetTimer.current);
+    sheetTimer.current = window.setTimeout(() => {
+      setIsSheetMounted(false);
+    }, 260);
+  }
+
   function jumpToVocabulary(vocab: VocabularyItem) {
     const paragraph = findParagraphForVocabulary(vocab);
     showVocabTip(vocab);
-    setIsSheetOpen(false);
+    closeVocabularySheet();
     setActiveTab("original");
     if (!paragraph) return;
 
@@ -178,7 +226,12 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
         <button
           type="button"
           key={`${match.item.word}-${index}`}
-          onClick={() => showVocabTip(match.item)}
+          onClick={() => showVocabTip(match.item, true)}
+          onDoubleClick={(event) => {
+            event.preventDefault();
+            event.stopPropagation();
+            speakEnglishText(value, AUDIO_PLAYBACK_RATE);
+          }}
           className="rounded bg-brandSoft px-1 font-extrabold text-brand underline decoration-brand underline-offset-4"
         >
           {value}
@@ -228,12 +281,15 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
               <div className="flex items-center gap-2">
                 <AudioButton
                   className="h-8 w-8 rounded-full"
-                  label={`播放 ${activeVocab.word}`}
+                  label={`Play ${activeVocab.word}`}
+                  playbackRate={AUDIO_PLAYBACK_RATE}
                   url={activeVocab.audioUrl}
                 />
                 <button
                   type="button"
                   onClick={() => setActiveVocab(null)}
+                  aria-label="Close"
+                  title="Close"
                   className="h-8 w-8 rounded-full bg-muted text-sm font-black text-sub"
                 >
                   X
@@ -301,10 +357,11 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                       event.changedTouches[0]?.clientX || 0,
                     )
                   }
+                  onDoubleClick={handleParagraphDoubleClick}
                   className={[
                     "scroll-mt-36 rounded-[8px] border bg-panel p-4 transition",
                     pulseParagraphId === paragraph.id
-                      ? "border-brand shadow-[0_0_0_3px_var(--brand-soft)]"
+                      ? "paragraph-pulse border-brand shadow-[0_0_0_3px_var(--brand-soft)]"
                       : "border-line",
                   ].join(" ")}
                 >
@@ -312,17 +369,34 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                     <span className="text-xs font-black text-brand">
                       P{index + 1}
                     </span>
-                    <button
-                      type="button"
-                      onClick={() => void toggleParagraphTranslation(paragraph)}
-                      className="h-8 rounded-full bg-muted px-3 text-xs font-bold text-sub"
-                    >
-                      {isShowingCn
-                        ? "看英文"
-                        : loadingCn[paragraph.id]
-                          ? "翻译中"
-                          : "看中文"}
-                    </button>
+                    <div className="flex items-center gap-2">
+                      <button
+                        type="button"
+                        onClick={() => void readParagraphAloud(paragraph.en)}
+                        aria-label={`Read paragraph ${index + 1}`}
+                        title={`Read paragraph ${index + 1}`}
+                        className="inline-flex h-8 w-8 items-center justify-center rounded-full border border-line bg-panel text-xs font-black text-sub transition active:scale-95"
+                      >
+                        <span aria-hidden="true">▶</span>
+                      </button>
+                      <button
+                        type="button"
+                        onClick={() =>
+                          void toggleParagraphTranslation(paragraph)
+                        }
+                        aria-label={
+                          isShowingCn ? "Show English" : "Translate paragraph"
+                        }
+                        title={
+                          isShowingCn ? "Show English" : "Translate paragraph"
+                        }
+                        className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-muted text-xs font-bold text-sub"
+                      >
+                        <span aria-hidden="true">
+                          {loadingCn[paragraph.id] ? "…" : "⇄"}
+                        </span>
+                      </button>
+                    </div>
                   </div>
                   {paragraph.speaker ? (
                     <p className="mb-2 text-xs font-bold uppercase tracking-[0.12em] text-sub">
@@ -372,41 +446,52 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
         {activeTab === "vocabulary" ? (
           <section className="space-y-3">
             {article.vocabulary.map((vocab) => (
-              <button
+              <article
                 key={vocab.word}
-                type="button"
-                onClick={() => jumpToVocabulary(vocab)}
-                className="block w-full rounded-[8px] border border-line bg-panel p-4 text-left transition active:scale-[0.99]"
+                className="rounded-[8px] border border-line bg-panel p-4"
               >
-                <div className="flex items-start justify-between gap-3">
-                  <div>
-                    <h3 className="text-lg font-black text-text">
-                      {vocab.word}
-                    </h3>
-                    <p className="mt-1 text-xs font-bold text-sub">
-                      {[vocab.phonetic, vocab.pos, vocab.level]
-                        .filter(Boolean)
-                        .join(" · ")}
+                <div className="flex items-start gap-3">
+                  <button
+                    type="button"
+                    onClick={() => jumpToVocabulary(vocab)}
+                    className="min-w-0 flex-1 text-left transition active:scale-[0.99]"
+                    aria-label={`Locate ${vocab.word}`}
+                  >
+                    <div className="flex items-start justify-between gap-3">
+                      <div className="min-w-0">
+                        <h3 className="text-lg font-black text-text">
+                          {vocab.word}
+                        </h3>
+                        <p className="mt-1 text-xs font-bold text-sub">
+                          {[vocab.phonetic, vocab.pos, vocab.level]
+                            .filter(Boolean)
+                            .join(" · ")}
+                        </p>
+                      </div>
+                      <span
+                        aria-hidden="true"
+                        className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-brandSoft text-sm font-black text-brand"
+                      >
+                        &gt;
+                      </span>
+                    </div>
+                    <p className="mt-3 text-sm font-semibold leading-6 text-text">
+                      {vocab.cn}
                     </p>
-                  </div>
-                  <div className="flex shrink-0 items-center gap-2">
-                    <AudioButton
-                      className="h-8 w-8 rounded-full"
-                      label={`播放 ${vocab.word}`}
-                      url={vocab.audioUrl}
-                    />
-                    <span className="rounded-full bg-brandSoft px-3 py-1 text-xs font-black text-brand">
-                      定位
-                    </span>
-                  </div>
+                    {vocab.en ? (
+                      <p className="mt-2 text-sm leading-6 text-sub">
+                        {vocab.en}
+                      </p>
+                    ) : null}
+                  </button>
+                  <AudioButton
+                    className="h-8 w-8 shrink-0 rounded-full"
+                    label={`Play ${vocab.word}`}
+                    playbackRate={AUDIO_PLAYBACK_RATE}
+                    url={vocab.audioUrl}
+                  />
                 </div>
-                <p className="mt-3 text-sm font-semibold leading-6 text-text">
-                  {vocab.cn}
-                </p>
-                {vocab.en ? (
-                  <p className="mt-2 text-sm leading-6 text-sub">{vocab.en}</p>
-                ) : null}
-              </button>
+              </article>
             ))}
           </section>
         ) : null}
@@ -424,7 +509,8 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                   </span>
                   <AudioButton
                     className="h-8 w-8 rounded-full"
-                    label="播放难句"
+                    label="Play sentence"
+                    playbackRate={AUDIO_PLAYBACK_RATE}
                     url={sentence.audioUrl}
                   />
                 </div>
@@ -490,27 +576,40 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
 
       <button
         type="button"
-        onClick={() => setIsSheetOpen(true)}
+        onClick={openVocabularySheet}
+        aria-label="Open vocabulary index"
         className="fixed bottom-[max(1rem,env(safe-area-inset-bottom))] right-4 z-40 h-14 w-14 rounded-full bg-brand text-lg font-black text-white shadow-[var(--shadow)] active:scale-95"
       >
         词
       </button>
 
-      {isSheetOpen ? (
-        <div className="fixed inset-0 z-50">
+      {isSheetMounted ? (
+        <div className="fixed inset-0 z-50" aria-hidden={!isSheetOpen}>
           <button
             type="button"
-            aria-label="关闭词汇面板"
-            className="absolute inset-0 bg-black/35"
-            onClick={() => setIsSheetOpen(false)}
+            aria-label="Close vocabulary index"
+            className={[
+              "absolute inset-0 bg-black/35 transition-opacity duration-300",
+              isSheetOpen ? "opacity-100" : "opacity-0",
+            ].join(" ")}
+            onClick={closeVocabularySheet}
           />
-          <div className="absolute inset-x-0 bottom-0 max-h-[72dvh] rounded-t-[8px] border border-line bg-panel pb-safe shadow-[var(--shadow)]">
+          <div
+            className={[
+              "absolute inset-x-0 bottom-0 max-h-[72dvh] rounded-t-[8px] border border-line bg-panel pb-safe shadow-[var(--shadow)] transition-[transform,opacity] duration-300 ease-[cubic-bezier(0.22,1,0.36,1)]",
+              isSheetOpen
+                ? "translate-y-0 opacity-100"
+                : "translate-y-full opacity-95",
+            ].join(" ")}
+          >
             <div className="mx-auto h-full max-w-screen-sm">
               <div className="flex items-center justify-between border-b border-line px-4 py-3">
                 <h2 className="text-base font-black text-text">词汇定位</h2>
                 <button
                   type="button"
-                  onClick={() => setIsSheetOpen(false)}
+                  onClick={closeVocabularySheet}
+                  aria-label="Close"
+                  title="Close"
                   className="h-9 w-9 rounded-full bg-muted text-sm font-black text-sub"
                 >
                   X
@@ -518,24 +617,38 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
               </div>
               <div className="max-h-[calc(72dvh-4rem)] overflow-y-auto px-4 py-3">
                 {article.vocabulary.map((vocab) => (
-                  <button
+                  <div
                     key={vocab.word}
-                    type="button"
-                    onClick={() => jumpToVocabulary(vocab)}
-                    className="flex w-full items-center justify-between gap-3 border-b border-line py-3 text-left last:border-b-0"
+                    className="flex items-center gap-3 border-b border-line py-3 last:border-b-0"
                   >
-                    <span>
-                      <span className="block text-sm font-black text-text">
-                        {vocab.word}
+                    <button
+                      type="button"
+                      onClick={() => jumpToVocabulary(vocab)}
+                      className="flex min-w-0 flex-1 items-center justify-between gap-3 text-left"
+                      aria-label={`Locate ${vocab.word}`}
+                    >
+                      <span className="min-w-0">
+                        <span className="block text-sm font-black text-text">
+                          {vocab.word}
+                        </span>
+                        <span className="mt-1 line-clamp-1 block text-xs font-semibold text-sub">
+                          {vocab.cn}
+                        </span>
                       </span>
-                      <span className="mt-1 line-clamp-1 block text-xs font-semibold text-sub">
-                        {vocab.cn}
+                      <span
+                        aria-hidden="true"
+                        className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-brandSoft text-sm font-black text-brand"
+                      >
+                        &gt;
                       </span>
-                    </span>
-                    <span className="shrink-0 text-xs font-black text-brand">
-                      定位
-                    </span>
-                  </button>
+                    </button>
+                    <AudioButton
+                      className="h-8 w-8 shrink-0 rounded-full"
+                      label={`Play ${vocab.word}`}
+                      playbackRate={AUDIO_PLAYBACK_RATE}
+                      url={vocab.audioUrl}
+                    />
+                  </div>
                 ))}
               </div>
             </div>
