@@ -69,6 +69,7 @@ jobs:
           pnpm build:pages
 
       - name: 保存生成内容
+        continue-on-error: true
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
