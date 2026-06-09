@@ -14,6 +14,7 @@ import type {
   StudyArticle,
   VocabularyItem,
 } from "@study/core/types";
+import { GlobalAudioPlayer } from "@study/ui/GlobalAudioPlayer";
 import Link from "next/link";
 import {
   type MouseEvent,
@@ -226,7 +227,11 @@ async function speakParagraphText(
   text: string,
   onState?: (state: "cache-hit" | "loading" | "playing" | "error") => void,
 ) {
-  await playTtsText(text, { playbackRate: 0.7, onState });
+  await playTtsText(text, {
+    kind: "Paragraph",
+    title: "Paragraph reading",
+    onState,
+  });
 }
 
 export function ArticleReader({ article, articleList }: ArticleReaderProps) {
@@ -324,7 +329,10 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
       pos: item.pos,
       audioUrl: item.audioUrl,
     });
-    void playAudioUrl(item.audioUrl).then((played) => {
+    void playAudioUrl(item.audioUrl, {
+      kind: "Word",
+      title: item.word,
+    }).then((played) => {
       if (!played) void speakWordText(item.word);
     });
   }
@@ -334,8 +342,9 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
     if (!normalized) return;
 
     await playTtsText(word, {
-      cacheKey: `word:${normalized}:0.7`,
-      playbackRate: 0.7,
+      cacheKey: `word:${normalized}`,
+      kind: "Word",
+      title: word,
       onState: (state) => {
         setTtsLoadingKey(state === "loading" ? normalized : "");
       },
@@ -529,7 +538,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
           </div>
         </header>
 
-        <main className="grid grid-cols-[minmax(0,1fr)_280px] gap-7 px-8 py-7">
+        <main className="grid grid-cols-[minmax(0,1fr)_280px] gap-7 px-8 py-7 pb-32">
           <section className="min-w-0">
             <section className="mb-6 rounded-md border border-line bg-panel p-5 shadow-sm">
               <div className="mb-3 flex items-center gap-2 text-xs font-semibold uppercase tracking-wide text-brand">
@@ -781,6 +790,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
           </aside>
         </main>
       </div>
+      <GlobalAudioPlayer variant="desktop" />
     </div>
   );
 }

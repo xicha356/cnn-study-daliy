@@ -12,6 +12,7 @@ import type {
   VocabularyItem,
 } from "@study/core/types";
 import { AudioButton } from "@study/ui/AudioButton";
+import { GlobalAudioPlayer } from "@study/ui/GlobalAudioPlayer";
 import Link from "next/link";
 import type { MouseEvent } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
@@ -19,8 +20,6 @@ import type { ReactNode } from "react";
 import { ThemeToggle } from "./ThemeToggle";
 
 type TabKey = "original" | "translation" | "vocabulary" | "sentences" | "quiz";
-
-const AUDIO_PLAYBACK_RATE = 0.7;
 
 const tabs: Array<{ key: TabKey; label: string }> = [
   { key: "original", label: "原文" },
@@ -147,14 +146,20 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     if (tipTimer.current) window.clearTimeout(tipTimer.current);
     tipTimer.current = window.setTimeout(() => setActiveVocab(null), 5000);
     if (shouldPlayAudio) {
-      void playAudioUrl(vocab.audioUrl, AUDIO_PLAYBACK_RATE).then((played) => {
+      void playAudioUrl(vocab.audioUrl, {
+        kind: "Word",
+        title: vocab.word,
+      }).then((played) => {
         if (!played) void speakWordText(vocab.word);
       });
     }
   }
 
   function readParagraphAloud(text: string) {
-    void playTtsText(text, { playbackRate: AUDIO_PLAYBACK_RATE });
+    void playTtsText(text, {
+      kind: "Paragraph",
+      title: "Paragraph reading",
+    });
   }
 
   async function speakWordText(word: string) {
@@ -162,8 +167,9 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     if (!normalized) return;
 
     await playTtsText(word, {
-      cacheKey: `word:${normalized}:0.7`,
-      playbackRate: AUDIO_PLAYBACK_RATE,
+      cacheKey: `word:${normalized}`,
+      kind: "Word",
+      title: word,
       onState: (state) => {
         setTtsLoadingKey(state === "loading" ? normalized : "");
       },
@@ -267,7 +273,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   }
 
   return (
-    <main className="min-h-dvh pb-24">
+    <main className="min-h-dvh pb-40">
       <header className="fixed inset-x-0 top-0 z-40 border-b border-line bg-bg pt-[env(safe-area-inset-top)]">
         <div className="safe-x mx-auto flex h-14 max-w-screen-sm items-center gap-3">
           <Link
@@ -305,7 +311,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                 <AudioButton
                   className="h-8 w-8 rounded-full"
                   label={`Play ${activeVocab.word}`}
-                  playbackRate={AUDIO_PLAYBACK_RATE}
                   url={activeVocab.audioUrl}
                 />
                 <button
@@ -510,7 +515,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                   <AudioButton
                     className="h-8 w-8 shrink-0 rounded-full"
                     label={`Play ${vocab.word}`}
-                    playbackRate={AUDIO_PLAYBACK_RATE}
                     url={vocab.audioUrl}
                   />
                 </div>
@@ -533,7 +537,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                   <AudioButton
                     className="h-8 w-8 rounded-full"
                     label="Play sentence"
-                    playbackRate={AUDIO_PLAYBACK_RATE}
                     url={sentence.audioUrl}
                   />
                 </div>
@@ -622,7 +625,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
         type="button"
         onClick={openVocabularySheet}
         aria-label="Open vocabulary index"
-        className="fixed bottom-[max(1rem,env(safe-area-inset-bottom))] right-4 z-40 h-14 w-14 rounded-full bg-brand text-lg font-black text-white shadow-[var(--shadow)] active:scale-95"
+        className="fixed bottom-[calc(env(safe-area-inset-bottom)+9rem)] right-4 z-40 h-14 w-14 rounded-full bg-brand text-lg font-black text-white shadow-[var(--shadow)] active:scale-95"
       >
         词
       </button>
@@ -689,7 +692,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                     <AudioButton
                       className="h-8 w-8 shrink-0 rounded-full"
                       label={`Play ${vocab.word}`}
-                      playbackRate={AUDIO_PLAYBACK_RATE}
                       url={vocab.audioUrl}
                     />
                   </div>
@@ -699,6 +701,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
           </div>
         </div>
       ) : null}
+      <GlobalAudioPlayer variant="mobile" />
     </main>
   );
 }

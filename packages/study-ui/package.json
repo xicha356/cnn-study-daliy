@@ -6,6 +6,7 @@
   "exports": {
     "./utils": "./src/utils.ts",
     "./AudioButton": "./src/AudioButton.tsx",
+    "./GlobalAudioPlayer": "./src/GlobalAudioPlayer.tsx",
     "./ThemeToggle": "./src/ThemeToggle.tsx",
     "./WordPopup": "./src/WordPopup.tsx",
     "./ParagraphFlipCard": "./src/ParagraphFlipCard.tsx"

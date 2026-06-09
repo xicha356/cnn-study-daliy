@@ -1,7 +1,12 @@
 "use client";
 
-import { normalizeAudioUrl } from "@study/core/audio";
-import { useRef, useState } from "react";
+import {
+  normalizeAudioUrl,
+  playAudioUrl,
+  subscribeAudioPlayer,
+  toggleGlobalAudioPlayback,
+} from "@study/core/audio";
+import { useEffect, useState } from "react";
 import { cn } from "./utils";
 
 type AudioState = "idle" | "loading" | "playing";
@@ -10,7 +15,6 @@ export function AudioButton({
   url,
   label = "播放音频",
   className,
-  playbackRate = 0.7,
 }: {
   url?: string;
   label?: string;
@@ -18,22 +22,29 @@ export function AudioButton({
   playbackRate?: number;
 }) {
   const [state, setState] = useState<AudioState>("idle");
-  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const audioUrl = normalizeAudioUrl(url);
+
+  useEffect(() => {
+    return subscribeAudioPlayer((player) => {
+      if (!audioUrl || player.src !== audioUrl) {
+        setState((current) => (current === "loading" ? current : "idle"));
+        return;
+      }
+      setState(player.status === "playing" ? "playing" : "idle");
+    });
+  }, [audioUrl]);
 
   async function play() {
-    const src = normalizeAudioUrl(url);
-    if (!src) return;
+    if (!audioUrl) return;
+    if (state === "playing") {
+      void toggleGlobalAudioPlayback();
+      setState("idle");
+      return;
+    }
     try {
       setState("loading");
-      if (!audioRef.current) audioRef.current = new Audio();
-      audioRef.current.pause();
-      audioRef.current.currentTime = 0;
-      audioRef.current.src = src;
-      audioRef.current.playbackRate = playbackRate;
-      audioRef.current.onended = () => setState("idle");
-      audioRef.current.onerror = () => setState("idle");
-      await audioRef.current.play();
-      setState("playing");
+      const ok = await playAudioUrl(url, { title: label, kind: "Audio" });
+      setState(ok ? "playing" : "idle");
     } catch {
       setState("idle");
     }
@@ -54,7 +65,7 @@ export function AudioButton({
         state === "loading" && "border-warn bg-amber-50 text-warn",
         className,
       )}
-      disabled={!url}
+      disabled={!audioUrl}
       onClick={(event) => {
         event.stopPropagation();
         void play();

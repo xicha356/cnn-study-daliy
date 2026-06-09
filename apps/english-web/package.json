@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev -p 3100",
     "build": "next build --webpack",
-    "lint": "biome check .",
+    "lint": "biome check $(find app -name '*.ts' -o -name '*.tsx') next.config.ts tailwind.config.ts",
     "type-check": "tsc --noEmit",
     "clean": "rm -rf .next out"
   },

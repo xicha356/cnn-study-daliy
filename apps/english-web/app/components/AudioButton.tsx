@@ -1,7 +1,12 @@
 "use client";
 
-import { normalizeAudioUrl } from "@study/core/audio";
-import { useEffect, useRef, useState } from "react";
+import {
+  normalizeAudioUrl,
+  playAudioUrl,
+  subscribeAudioPlayer,
+  toggleGlobalAudioPlayback,
+} from "@study/core/audio";
+import { useEffect, useState } from "react";
 
 type AudioStatus = "idle" | "loading" | "playing" | "error";
 
@@ -18,45 +23,35 @@ const statusIcon: Record<AudioStatus, string> = {
   error: "!",
 };
 
-export function AudioButton({
-  url,
-  label = "Play audio",
-  playbackRate = 0.7,
-}: AudioButtonProps) {
-  const audioRef = useRef<HTMLAudioElement | null>(null);
+export function AudioButton({ url, label = "Play audio" }: AudioButtonProps) {
   const [status, setStatus] = useState<AudioStatus>("idle");
   const audioUrl = normalizeAudioUrl(url);
 
   useEffect(() => {
-    return () => {
-      audioRef.current?.pause();
-      audioRef.current = null;
-    };
-  }, []);
+    return subscribeAudioPlayer((player) => {
+      if (!audioUrl || player.src !== audioUrl) {
+        setStatus((current) => (current === "loading" ? current : "idle"));
+        return;
+      }
+      if (player.status === "playing") setStatus("playing");
+      else if (player.status === "error") setStatus("error");
+      else setStatus("idle");
+    });
+  }, [audioUrl]);
 
   async function toggleAudio() {
     if (!audioUrl) return;
 
     if (status === "playing") {
-      audioRef.current?.pause();
+      void toggleGlobalAudioPlayback();
       setStatus("idle");
       return;
     }
 
-    let audio = audioRef.current;
-
-    if (!audio) {
-      audio = new Audio(audioUrl);
-      audio.addEventListener("ended", () => setStatus("idle"));
-      audio.addEventListener("error", () => setStatus("error"));
-      audioRef.current = audio;
-    }
-
     try {
       setStatus("loading");
-      audio.playbackRate = playbackRate;
-      await audio.play();
-      setStatus("playing");
+      const ok = await playAudioUrl(url, { title: label, kind: "Audio" });
+      setStatus(ok ? "playing" : "error");
     } catch {
       setStatus("error");
     }

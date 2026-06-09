@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="cnn news study">
+  <rect width="128" height="128" rx="26" fill="#2563eb"/>
+  <path d="M24 35h80v58H24z" fill="#ffffff" opacity=".12"/>
+  <path d="M31 81V47h13c10 0 18 7 18 17s-8 17-18 17H31Zm10-9h3c5 0 9-4 9-8s-4-8-9-8h-3v16Z" fill="#ffffff"/>
+  <path d="M68 81V47h9l17 18V47h10v34h-9L78 63v18H68Z" fill="#ffffff"/>
+  <path d="M25 96h78" stroke="#ef4444" stroke-width="8" stroke-linecap="round"/>
+</svg>
