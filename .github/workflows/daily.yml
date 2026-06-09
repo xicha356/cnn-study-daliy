@@ -19,16 +19,20 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: daily-cnn-generate
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: 检出仓库
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: 设置 Python 3.12
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
@@ -49,5 +53,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/ index.html
-          git diff --staged --quiet || git commit -m "📚 $(date +'%Y-%m-%d') CNN精读内容"
-          git push
+          git diff --staged --quiet && exit 0
+          git commit -m "📚 $(date +'%Y-%m-%d') CNN精读内容"
+          git pull --rebase origin main
+          git push origin HEAD:main
