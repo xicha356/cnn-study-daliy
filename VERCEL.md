@@ -11,7 +11,7 @@
 
 两个项目都使用：
 
-- Production Branch: `nextjs-main`
+- Production Branch: `main`
 - Install Command: `pnpm install --frozen-lockfile`
 - Build Command: `pnpm build`
 
@@ -45,21 +45,24 @@
 推荐链路：
 
 1. GitHub Actions 每天北京时间 07:30 运行 `.github/workflows/daily.yml`
-2. workflow checkout `nextjs-main`
+2. workflow checkout `main`
 3. `python src/generate.py` 抓取 CNN This Morning 文稿并生成 `output/YYYY-MM-DD.json`
 4. `pnpm prepare:data` 把 `output/` 转成 Next.js 读取的 `public/data/`，并同步 `public/audio/`
 5. `pnpm validate:data` 校验生成数据
-6. workflow 提交 `output/`、`public/data/`、`public/audio/` 到 `nextjs-main`
-7. Vercel 监听到 `nextjs-main` 新提交后自动生产部署
+6. workflow 提交 `output/`、`public/data/`、`public/audio/` 到 `main`
+7. Vercel 监听到 `main` 新提交后自动生产部署
 
 需要确认：
 
 - GitHub 仓库默认分支仍为 `main`
 - `.github/workflows/daily.yml` 存在于默认分支 `main`
-- Vercel 两个项目的 Production Branch 都是 `nextjs-main`
+- Vercel 两个项目的 Production Branch 都是 `main`
 - GitHub Actions secret 已配置 `DEEPSEEK_API_KEY`
 - 如需预生成发音，GitHub Actions secret 配置 `ELEVENLABS_API_KEY`
-- `github-actions[bot]` 允许向 `nextjs-main` 推送
+- `github-actions[bot]` 允许向 `main` 推送
+
+旧版 `main` 内容会保留在 `old-main` 分支；日常开发、自动更新和 Vercel 部署
+统一使用 `main`。
 
 周末没有新的 CNN This Morning 文稿时，生成脚本会自动回退到最近工作日，
 网站继续展示最新可用文章，不强行创建周末日期。

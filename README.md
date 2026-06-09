@@ -2,7 +2,7 @@
 
 每天北京时间 07:30 由 GitHub Actions 自动抓取 CNN This Morning 文稿，
 调用 DeepSeek API 生成精读学习内容，写入 Next.js 静态数据，再推送到
-`nextjs-main` 分支触发 Vercel 生产部署。
+`main` 分支触发 Vercel 生产部署。
 
 ## 功能
 
@@ -55,7 +55,7 @@
 
 两个项目都使用：
 
-- Production Branch：`nextjs-main`
+- Production Branch：`main`
 - Install Command：`pnpm install --frozen-lockfile`
 - Build Command：`pnpm build`
 
@@ -68,14 +68,14 @@ Include source files outside of the Root Directory；或者参考
 1. 仓库 → **Actions → 每日CNN精读自动生成**
 2. 点击 **Run workflow** → Run workflow
 3. 等待约 1-2 分钟
-4. 确认 workflow 向 `nextjs-main` 推送了 `public/data/` 更新
+4. 确认 workflow 向 `main` 推送了 `public/data/` 更新
 5. 等待 Vercel 自动完成生产部署
 
 之后每天北京时间 07:30 自动运行，无需任何操作。
 
 > 注意：GitHub 定时 workflow 只会从仓库默认分支运行。当前默认分支是
-> `main`，因此 `.github/workflows/daily.yml` 需要存在于 `main` 上；workflow
-> 执行时会 checkout `nextjs-main` 并把生成结果推送到 `nextjs-main`，从而触发 Vercel。
+> `main`，因此 `.github/workflows/daily.yml` 需要存在于 `main` 上。旧版
+> `main` 内容会保留在 `old-main` 分支，日常开发和部署统一使用 `main`。
 
 ---
 

@@ -26,10 +26,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 检出 Vercel 生产分支
+      - name: 检出 main 分支
         uses: actions/checkout@v5
         with:
-          ref: nextjs-main
+          ref: main
 
       - name: 设置 Python 3.12
         uses: actions/setup-python@v6
@@ -73,5 +73,5 @@ jobs:
           git add output/ public/data/ public/audio/
           git diff --staged --quiet && exit 0
           git commit -m "📚 $(date +'%Y-%m-%d') Vercel CNN精读内容"
-          git pull --rebase origin nextjs-main
-          git push origin HEAD:nextjs-main
+          git pull --rebase origin main
+          git push origin HEAD:main
