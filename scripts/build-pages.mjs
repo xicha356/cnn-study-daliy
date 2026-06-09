@@ -26,11 +26,23 @@ function copyApp(appName, target, basePath) {
   });
 }
 
+function copySharedPublic(target) {
+  const targetDir = path.join(dist, target);
+  for (const name of ["data", "audio"]) {
+    const source = path.join("public", name);
+    if (existsSync(source)) {
+      cpSync(source, path.join(targetDir, name), { recursive: true });
+    }
+  }
+}
+
 if (existsSync(dist)) rmSync(dist, { recursive: true, force: true });
 mkdirSync(dist, { recursive: true });
 
 copyApp("english-web", ".", repoBasePath);
 copyApp("english-h5", "h5", `${repoBasePath}/h5`);
+copySharedPublic(".");
+copySharedPublic("h5");
 writeFileSync(path.join(dist, ".nojekyll"), "");
 
 console.log(`Built Pages bundle in ${dist}`);
