@@ -1,0 +1,1558 @@
+{
+  "date": "2026-06-09",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-09/segment/01",
+  "summary": "今日CNN This Morning报道了多个话题：特朗普成为首位出席NBA总决赛的在任总统，尼克斯队输掉第三场，球迷指责特朗普带来厄运；缅因州初选正在进行，民主党候选人Graham Platner能否在11月挑战Susan Collins；中西部洪水救援故事；私人飞机紧急迫降起火；乡村歌手Brad Paisley反对在纳什维尔动物园附近建数据中心；世界杯开幕在即，票价高昂引发争议。",
+  "vocabulary": [
+    {
+      "word": "wrangle",
+      "phonetic": "/ˈræŋɡl/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "（艰难地）弄到，设法获得；争吵",
+      "en": "to obtain or manage something with difficulty; to argue or dispute",
+      "excerpt": "An employee was able to wrangle the reptile with a lasso and pull it into an empty horse stall.",
+      "example_cn": "一名员工用套索设法抓住了这只爬行动物，并将其拖进一个空的马厩。",
+      "audio_url": "output/audio/vocab/2026-06-09/wrangle-ad7a59b4.mp3"
+    },
+    {
+      "word": "bayou",
+      "phonetic": "/ˈbaɪuː/",
+      "pos": "n.",
+      "level": "专八",
+      "cn": "（美国南部的）牛轭湖，沼泽地",
+      "en": "a slow-moving body of water, typically in a low-lying area, especially in the southern US",
+      "excerpt": "Game wardens say that the gator was safely returned to a nearby bayou.",
+      "example_cn": "野生动物管理员说，那只短吻鳄被安全地放回了附近的沼泽地。",
+      "audio_url": "output/audio/vocab/2026-06-09/bayou-94365ad2.mp3"
+    },
+    {
+      "word": "unseat",
+      "phonetic": "/ʌnˈsiːt/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使下台，罢免",
+      "en": "to remove from a position of power or authority",
+      "excerpt": "The most important thing in this election is unseating Susan Collins.",
+      "example_cn": "这次选举中最重要的事情是让苏珊·柯林斯下台。",
+      "audio_url": "output/audio/vocab/2026-06-09/unseat-87bd805f.mp3"
+    },
+    {
+      "word": "jinx",
+      "phonetic": "/dʒɪŋks/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "厄运，不祥之物",
+      "en": "a person or thing that brings bad luck",
+      "excerpt": "He's a jinx. It's like the goat in Chicago. He freaking jinxed everything.",
+      "example_cn": "他是个扫把星。就像芝加哥的那只山羊。他他妈的把一切都搞砸了。",
+      "audio_url": "output/audio/vocab/2026-06-09/jinx-8d5bbe6a.mp3"
+    },
+    {
+      "word": "tone-deaf",
+      "phonetic": "/ˈtoʊn ˌdef/",
+      "pos": "adj.",
+      "level": "时事词汇",
+      "cn": "（对公众情绪）不敏感的，不合时宜的",
+      "en": "insensitive to the mood or concerns of the public",
+      "excerpt": "The idea that, look, we're here, the regular schmoes who want to be involved in this thing, and he comes and just says, kind of let them eat cake, right?",
+      "example_cn": "这种想法是，你看，我们这些想参与其中的普通人在这里，而他来了，就像在说‘让他们吃蛋糕’一样，对吧？",
+      "audio_url": "output/audio/vocab/2026-06-09/tone-deaf-444010c3.mp3"
+    },
+    {
+      "word": "motorcade",
+      "phonetic": "/ˈmoʊtərkeɪd/",
+      "pos": "n.",
+      "level": "六级",
+      "cn": "车队（尤指要人乘坐的）",
+      "en": "a procession of motor vehicles, typically carrying a VIP",
+      "excerpt": "Did they have motorcades and massive security.",
+      "example_cn": "他们有车队和大量安保吗？",
+      "audio_url": "output/audio/vocab/2026-06-09/motorcade-34b5e0e1.mp3"
+    },
+    {
+      "word": "lecture",
+      "phonetic": "/ˈlektʃər/",
+      "pos": "v.",
+      "level": "考研",
+      "cn": "训斥，告诫",
+      "en": "to criticize or reprimand someone at length",
+      "excerpt": "those are the same people who, for four years, lectured us that things were fine under Joe Biden.",
+      "example_cn": "那些人正是四年来告诫我们乔·拜登治下一切安好的人。",
+      "audio_url": "output/audio/vocab/2026-06-09/lecture-af09e2fc.mp3"
+    },
+    {
+      "word": "ship",
+      "phonetic": "/ʃɪp/",
+      "pos": "n.",
+      "level": "时事词汇",
+      "cn": "冠军（championship的缩写）",
+      "en": "short for championship",
+      "excerpt": "The last time they won a ship (Ph) was 1973.",
+      "example_cn": "他们上一次赢得冠军是1973年。",
+      "audio_url": "output/audio/vocab/2026-06-09/ship-ed43a8a0.mp3"
+    },
+    {
+      "word": "momentum",
+      "phonetic": "/moʊˈmentəm/",
+      "pos": "n.",
+      "level": "考研",
+      "cn": "势头，动力",
+      "en": "the force gained by motion or a series of events",
+      "excerpt": "you want to keep that same momentum going.",
+      "example_cn": "你想保持同样的势头。",
+      "audio_url": "output/audio/vocab/2026-06-09/momentum-503c4af7.mp3"
+    },
+    {
+      "word": "harrowing",
+      "phonetic": "/ˈhæroʊɪŋ/",
+      "pos": "adj.",
+      "level": "六级",
+      "cn": "令人痛苦的，折磨人的",
+      "en": "extremely distressing or painful",
+      "excerpt": "The harrowing rescue tales this morning as waters recede.",
+      "example_cn": "随着洪水退去，今早传来了令人揪心的救援故事。",
+      "audio_url": "output/audio/vocab/2026-06-09/harrowing-1ec9acdf.mp3"
+    },
+    {
+      "word": "overshadow",
+      "phonetic": "/ˌoʊvərˈʃædoʊ/",
+      "pos": "v.",
+      "level": "六级",
+      "cn": "使……相形见绌；给……蒙上阴影",
+      "en": "to cast a shadow over; to make seem less important",
+      "excerpt": "Could money and greed overshadow the beautiful game?",
+      "example_cn": "金钱和贪婪会掩盖这项美丽的运动吗？",
+      "audio_url": "output/audio/vocab/2026-06-09/overshadow-21d72f1a.mp3"
+    },
+    {
+      "word": "outrageous",
+      "phonetic": "/aʊtˈreɪdʒəs/",
+      "pos": "adj.",
+      "level": "考研",
+      "cn": "令人震惊的，离谱的",
+      "en": "shockingly bad or excessive",
+      "excerpt": "Senegal-France game, it's almost like $2,000 ticket. That's outrageous.",
+      "example_cn": "塞内加尔对法国的比赛，票价几乎要2000美元。太离谱了。",
+      "audio_url": "output/audio/vocab/2026-06-09/outrageous-edde5448.mp3"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "An employee was able to wrangle the reptile with a lasso and pull it into an empty horse stall.",
+      "cn": "一名员工用套索设法抓住了这只爬行动物，并将其拖进一个空的马厩。",
+      "structure": "主句：An employee was able to wrangle the reptile with a lasso and pull it into an empty horse stall.",
+      "analysis": "动词wrangle意为‘设法弄到’，此处指用套索艰难地控制住鳄鱼。with a lasso是方式状语。",
+      "audio_url": "output/audio/sentences/2026-06-09/an-employee-was-able-to-wrangle-the-reptile-with-a-lasso-and-205e4c57.mp3"
+    },
+    {
+      "en": "The most important thing in this election is unseating Susan Collins.",
+      "cn": "这次选举中最重要的事情是让苏珊·柯林斯下台。",
+      "structure": "主句：The most important thing in this election is unseating Susan Collins.",
+      "analysis": "unseat意为‘使下台’，是政治术语。动名词短语unseating Susan Collins作表语。",
+      "audio_url": "output/audio/sentences/2026-06-09/the-most-important-thing-in-this-election-is-unseating-susan-af2effed.mp3"
+    },
+    {
+      "en": "He's a jinx. It's like the goat in Chicago. He freaking jinxed everything.",
+      "cn": "他是个扫把星。就像芝加哥的那只山羊。他他妈的把一切都搞砸了。",
+      "structure": "三个简单句并列。",
+      "analysis": "jinx作名词意为‘厄运’，作动词意为‘带来厄运’。the goat in Chicago指芝加哥小熊队球迷Steve Bartman，他因干扰接球导致球队输掉比赛，被视为‘厄运山羊’。freaking是强调语气的俚语。",
+      "audio_url": "output/audio/sentences/2026-06-09/he-s-a-jinx-it-s-like-the-goat-in-chicago-he-freaking-jinxed-efbc2073.mp3"
+    },
+    {
+      "en": "The idea that, look, we're here, the regular schmoes who want to be involved in this thing, and he comes and just says, kind of let them eat cake, right?",
+      "cn": "这种想法是，你看，我们这些想参与其中的普通人在这里，而他来了，就像在说‘让他们吃蛋糕’一样，对吧？",
+      "structure": "主句：The idea that... 同位语从句：look, we're here, the regular schmoes who want to be involved in this thing, and he comes and just says, kind of let them eat cake, right?",
+      "analysis": "let them eat cake是玛丽·安托瓦内特的名言，意为‘何不食肉糜’，讽刺统治者对民众疾苦漠不关心。regular schmoes是俚语，指普通人。",
+      "audio_url": "output/audio/sentences/2026-06-09/the-idea-that-look-we-re-here-the-regular-schmoes-who-want-t-6f740bd3.mp3"
+    },
+    {
+      "en": "I think, first of all, a lot of those tickets, I mean, some of them are going for thousands of dollars.",
+      "cn": "我认为，首先，很多那些门票，我的意思是，有些票价高达数千美元。",
+      "structure": "主句：I think... 宾语从句：first of all, a lot of those tickets, I mean, some of them are going for thousands of dollars.",
+      "analysis": "go for意为‘售价为’。I mean是插入语，用于修正或强调。",
+      "audio_url": "output/audio/sentences/2026-06-09/i-think-first-of-all-a-lot-of-those-tickets-i-mean-some-of-t-9886730f.mp3"
+    }
+  ],
+  "topics": [
+    {
+      "title": "特朗普出席NBA总决赛",
+      "content": "特朗普成为首位出席NBA总决赛的在任总统，引发争议。尼克斯队此前保持13场季后赛连胜，但在特朗普到场后输掉第三场。球迷指责特朗普带来厄运（jinx），并批评其安保措施扰乱了球迷体验。支持者则认为特朗普是尼克斯长期球迷，有权观赛。",
+      "keywords": "NBA Finals · jinx · motorcade · tone-deaf"
+    },
+    {
+      "title": "缅因州初选与Susan Collins席位",
+      "content": "缅因州初选正在进行，民主党候选人Graham Platner若获胜，将在11月挑战共和党参议员Susan Collins。Collins是温和派共和党人，在缅因州拥有较强支持，但民主党视其为关键目标，希望‘unseat’（罢免）她。",
+      "keywords": "primary · unseat · Susan Collins · Graham Platner"
+    },
+    {
+      "title": "中西部洪水与救援",
+      "content": "中西部洪水水位上涨，救援人员展开‘harrowing’（令人揪心的）救援行动。报道提及洪水退去后的救援故事，但未提供具体细节。此类洪水常由暴雨或融雪引发，影响农业和居民生活。",
+      "keywords": "flood · rescue · Midwest · recede"
+    },
+    {
+      "title": "世界杯票价争议",
+      "content": "世界杯即将开幕，但票价高昂引发争议。例如塞内加尔对法国的比赛票价接近2000美元，被形容为‘outrageous’（离谱）。批评者认为金钱和贪婪可能‘overshadow’（掩盖）足球运动本身。",
+      "keywords": "World Cup · ticket price · outrageous · overshadow"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "在原文中，'unseat' 最接近下列哪个意思？\n原文：'The most important thing in this election is unseating Susan Collins.'",
+      "options": [
+        "A. 使坐下",
+        "B. 使下台",
+        "C. 使不安",
+        "D. 使就座"
+      ],
+      "answer": 1,
+      "explanation": "unseat 在政治语境中意为‘使下台’，即罢免现任官员。选项B正确。"
+    },
+    {
+      "type": "vocab",
+      "question": "原文中 'jinx' 的含义是什么？\n原文：'He's a jinx. It's like the goat in Chicago.'",
+      "options": [
+        "A. 幸运符",
+        "B. 厄运",
+        "C. 玩笑",
+        "D. 诅咒"
+      ],
+      "answer": 1,
+      "explanation": "jinx 指带来厄运的人或物。文中球迷认为特朗普是‘扫把星’，导致尼克斯输球。"
+    },
+    {
+      "type": "vocab",
+      "question": "短语 'tone-deaf' 在原文中描述什么？\n原文：'does that contribute to the tone-deaf narrative?'",
+      "options": [
+        "A. 音盲",
+        "B. 不敏感",
+        "C. 悦耳",
+        "D. 和谐"
+      ],
+      "answer": 1,
+      "explanation": "tone-deaf 在此处比喻对公众情绪不敏感，即‘不合时宜’。"
+    },
+    {
+      "type": "comprehension",
+      "question": "根据原文，特朗普出席NBA总决赛引发了什么争议？",
+      "options": [
+        "A. 他支持了错误的球队",
+        "B. 他的安保措施扰乱了球迷体验",
+        "C. 他拒绝与球迷互动",
+        "D. 他批评了尼克斯队"
+      ],
+      "answer": 1,
+      "explanation": "原文提到特朗普的安保和车队导致球迷需要提前两小时到场，且无法在花园外举办观赛派对，因此引发争议。"
+    },
+    {
+      "type": "comprehension",
+      "question": "关于缅因州初选，以下哪项正确？",
+      "options": [
+        "A. Graham Platner 是共和党候选人",
+        "B. 初选结果将决定谁挑战 Susan Collins",
+        "C. Susan Collins 是民主党人",
+        "D. 初选已经结束"
+      ],
+      "answer": 1,
+      "explanation": "原文说‘should Graham Platner be the Democrat on the ballot in November’，表明若他赢得初选，将在11月挑战Susan Collins。"
+    },
+    {
+      "type": "comprehension",
+      "question": "原文中关于世界杯的评论主要关注什么？",
+      "options": [
+        "A. 比赛质量",
+        "B. 票价过高",
+        "C. 球队实力",
+        "D. 场馆设施"
+      ],
+      "answer": 1,
+      "explanation": "原文提到‘Senegal-France game, it's almost like $2,000 ticket. That's outrageous.’，强调票价离谱。"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "Fortunately, no one was hurt. And in Texas, a nearly 8-foot alligator was caught horsing around in a stable. An employee was able to wrangle the reptile with a lasso and pull it into an empty horse stall. Game wardens say that the gator was safely returned to a nearby bayou. Well, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "幸运的是，无人受伤。在德克萨斯州，一条近8英尺长的短吻鳄在马厩里嬉闹。一名员工用套索制服了这只爬行动物，并将其拉进一个空马厩。野生动物管理人员表示，这条鳄鱼已被安全送回附近的河口。好了，CNN新闻速递到此结束。我是布拉德·史密斯。奥黛·科尼什主持的《CNN今晨》节目现在开始。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "There are polls opening up right at this moment in Maine. Today in the group chat, should Graham Platner be the Democrat on the ballot in November, even if he wins today's primary?",
+      "cn": "缅因州此刻正在开放投票站。今天在群聊中，如果格雷厄姆·普拉特纳赢得今天的初选，他是否应该成为11月大选中的民主党候选人？"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "The most important thing in this election is unseating Susan Collins.",
+      "cn": "这次选举中最重要的是击败苏珊·柯林斯。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Donald Trump becomes the first sitting president to attend an NBA finals game, and the home team blows a 13-game winning streak. Coincidence?",
+      "cn": "唐纳德·特朗普成为首位出席NBA总决赛的在任总统，而主队却输掉了13连胜。巧合吗？"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I yelled for help and that's -- Thank God for them. You know, because I (EXPLETIVE DELETED) made it.",
+      "cn": "我大声呼救，然后 --  -- 感谢上帝他们来了。你知道，因为我（脏话已删除）挺过来了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There are flood waters on the rise in the Midwest. The harrowing rescue tales this morning as waters recede. And a private jet bursts into a massive fireball during an emergency crash landing. The investigation into what went wrong this morning.",
+      "cn": "中西部洪水正在上涨。今早随着洪水退去，传来令人揪心的救援故事。一架私人飞机在紧急迫降时爆炸成巨大火球。今早调查事故原因。"
+    },
+    {
+      "speaker": "Brad Paisley",
+      "text": "That they want to build next to the Nashville Zoo, which is an absolute nightmare scenario.",
+      "cn": "他们想建在纳什维尔动物园旁边，这绝对是一场噩梦。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's country superstar Brad Paisley, speaking out against a proposed data center near the Nashville Zoo. Could it pose a threat to the thousands of animals there? And the World Cup starts this week. Could money and greed overshadow the beautiful game?",
+      "cn": "乡村巨星布拉德·佩斯利公开反对在纳什维尔动物园附近建设数据中心。这会对园内数千只动物构成威胁吗？世界杯本周开赛。金钱和贪婪会掩盖这项美丽运动的光芒吗？"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Senegal-France game, it's almost like $2,000 ticket. That's outrageous. That's outrageous.",
+      "cn": "塞内加尔对法国的比赛，票价几乎要2000美元。太离谱了，太离谱了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, people here in New York waking up -- I don't know -- in a foul mood, maybe pointing fingers after the Knicks lose a much-hyped game three of the NBA finals. Good morning, everybody. Good morning to New York. I'm Audie Cornish. You know, when you mix sports and politics, you do so at your own peril. For instance, here's Stephen A. Smith before last night's tipoff at the Garden.",
+      "cn": "所以，纽约的人们醒来时 --  -- 我不知道 --  -- 心情不好，可能在尼克斯输掉备受瞩目的NBA总决赛第三场后互相指责。大家早上好。纽约早上好。我是奥黛·科尼什。你知道，当你把体育和政治混在一起时，后果自负。比如，昨晚在麦迪逊广场花园开球前，斯蒂芬·A·史密斯就是这样说的。"
+    },
+    {
+      "speaker": "Stephen A. Smith",
+      "text": "If the New York Knicks lose game three, this is on Donald Trump. You think I've been on him before? I'm going to be on his ass like back pockets. Like white on rice. He got no business doing this. He doesn't belong at this game. No president does. None of them. Democrat, Republican, independent. I don't give a damn.",
+      "cn": "如果纽约尼克斯队输掉第三场比赛，这都怪唐纳德·特朗普。你以为我之前没骂过他？我会像后口袋一样紧紧盯着他，像白米饭上的米粒一样黏着他。他根本不该这么做，他不该出现在这场比赛。任何总统都不该来，一个都不行。民主党、共和党、独立派，我他妈才不管。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, the president, who is a New Yorker, showed up anyway. And that's not unusual. Trump has attended the Super Bowl, the U.S. Open, college football national championship. He's now the first sitting president to attend the NBA finals. But now, the Knicks' 13-game playoff winning streak is over. And Knicks fans, well, this is what they're saying about it.",
+      "cn": "所以，这位纽约出生的总统还是来了。这并不稀奇。特朗普参加过超级碗、美国公开赛、大学橄榄球全国冠军赛。他现在是第一位出席NBA总决赛的在任总统。但现在，尼克斯队的13场季后赛连胜纪录结束了。而尼克斯球迷们，嗯，这就是他们对此的看法。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "I wanted the Knicks to win this game. Trump just had to bring his ass down.",
+      "cn": "我希望尼克斯赢下这场比赛。特朗普非得跑来搅局。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "He's a jinx. It's like the goat in Chicago. He freaking jinxed everything.",
+      "cn": "他是个扫把星。就像芝加哥的那只山羊。他他妈把一切都搞砸了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, today in the group chat, we've got Brianna Lyman, reporter for \"The Federalist\"; and Christine Quinn, executive committee chair for the New York state Democratic committee. Sports people are very superstitious. Let's just say that. There was this tweet from Ron Filipkowski: \"I'm not an expert on jinxes, hexes, curses, and voodoo.",
+      "cn": "好的，今天的群聊中，我们有《联邦党人》记者布里安娜·莱曼，以及纽约州民主党委员会执行委员会主席克里斯汀·奎因。体育界的人非常迷信，就这么说吧。罗恩·菲利普科夫斯基发了这样一条推文：\"我不是扫把星、诅咒、巫毒方面的专家。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Not superstitious either, but if I was the Knicks, I probably wouldn't let Trump near the arena for game four, just to be on the safe side.\" What was the point of this for Trump? BRIANNA LYMAN, REPORTER, \"THE FEDERALIST\": Well, I think Trump has been a lifelong Knicks fan. There are pictures of him with Marla Maples, with Melania Trump in the '90s and early 2000s. So, this is someone who probably is rooting for the same team he's been rooting for, for decades.",
+      "cn": "我也不迷信，但如果我是尼克斯队，我可能不会让特朗普靠近第四场比赛的场地，以防万一。\"这对特朗普有什么意义？《联邦党人》记者布里安娜·莱曼：嗯，我认为特朗普一直是尼克斯队的终身球迷。有他和玛拉·梅普尔斯、梅拉尼娅·特朗普在90年代和21世纪初的照片。所以，他可能是在为他几十年来一直支持的同一支球队加油。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. This is the argument from Whoopi Goldberg. She said --",
+      "cn": "是的。这也是乌比·戈德堡的观点。她说 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- the same thing. Trump --",
+      "cn": "--  -- 同样的话。特朗普 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- and Mamdani are Knicks fans. They've been New Yorkers.",
+      "cn": "--  -- 和曼达尼都是尼克斯球迷。他们是纽约人。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You can't tell them what they're not going to do. I think the thing I found interesting is Trump is very much our sports president.",
+      "cn": "你不能告诉他们什么不能做。我觉得有趣的是，特朗普非常像我们的体育总统。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Has been. Obama was an NBA guy. And he didn't go to games, because he said it creates too much of a problem for the fans.",
+      "cn": "一直都是。奥巴马是个NBA球迷。但他不去看比赛，因为他说会给球迷带来太多麻烦。"
+    },
+    {
+      "speaker": "Christine Quinn",
+      "text": "Absolutely. Look, I live on the west side of Manhattan. It was a mess yesterday.",
+      "cn": "没错。你看，我住在曼哈顿西区。昨天简直一团糟。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I was about to say, how are you here?",
+      "cn": "我正想说，你是怎么到这儿的？"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "Exactly, exactly. It was a total mess. Fans had to get there at least two hours early. There didn't get to be a watch party right outside the Garden. I -- I get that he may be a fan, but you have to really appreciate when you're president, you're not just popping in and popping out. You're putting a whole bunch of people out. And in this case, he was a jinx. There is no question about it.",
+      "cn": "就是，就是。完全乱套了。球迷们至少得提前两小时到场。花园球场外根本没法搞观赛派对。我 --  -- 我理解他可能是球迷，但你必须意识到，当总统时，你不能随便来去自如。你会给一大群人添麻烦。而且这次，他还真是个扫把星。毫无疑问。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "Mamdani could have been the jinx.",
+      "cn": "曼达尼才可能是扫把星。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Completely like, he was a jinx. Christine Quinn, jinx expert.",
+      "cn": "完全同意，他就是个扫把星。克里斯汀·奎因，扫把星专家。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Put that under your name. Well, here's the thing. The reason why I'm asking about this is not just because it's funny, but also because one of the things people are accusing the administration of being in this moment, when there's economic difficulty for people, is tone deaf. The idea that, look, we're here, the regular schmoes who want to be involved in this thing, and he comes and just says, kind of let them eat cake, right? You can watch it on TV.",
+      "cn": "把这个写在你名下吧。不过，事情是这样的。我问这个不仅仅是因为好笑，还因为人们指责政府在经济困难时期的表现之一是麻木不仁。想想看，我们这些普通人想参与其中，而他来了，就像在说'让他们吃蛋糕吧'，对吧？你可以在电视上看。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And was -- what was the sort of -- I understand he's a fan, but does that contribute to the tone-deaf narrative?",
+      "cn": "那么 --  -- 这算是什么 --  -- 我知道他是球迷，但这会加剧麻木不仁的说法吗？"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "Oh, I don't think this was tone-deaf at all. I think, first of all, a lot of those tickets, I mean, some of them are going for thousands of dollars. I think I saw one ticket price at $7,000.",
+      "cn": "哦，我完全不觉得这麻木不仁。首先，那些门票，有些要卖几千美元。我记得看到一张票要7000美元。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "And the people who were buying them and who were courtside were a lot of people very popular among the left and celebrities, right? And I don't --",
+      "cn": "而买这些票、坐在场边的，很多都是左派名人和明星，对吧？而且我不 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Did they have motorcades and massive security. Or --",
+      "cn": "他们有车队和大量安保吗？还是 --  --"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "No, but those are the same people who, for four years, lectured us that things were fine under Joe Biden. So, they also could be considered tone-deaf. But I think the president -- politics is obviously very hostile, but sports is one of those last remaining arenas where people do put politics aside. I do --",
+      "cn": "不，但正是同一批人，四年来一直跟我们说乔·拜登领导下一切安好。所以，他们也可以被认为是迟钝的。但我认为总统 --  -- 政治显然非常敌对，但体育是少数几个人们确实能把政治搁置一边的领域之一。我确实 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me play for you the reception Trump got.",
+      "cn": "让我为你播放特朗普受到的接待。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "I know he got booed.",
+      "cn": "我知道他被嘘了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I just want to play it.",
+      "cn": "我只是想播放一下。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "Because it's also New York City.",
+      "cn": "因为这也是纽约市。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Because it's -- it's Madison Square Garden. He is the New Yorker of New Yorkers.",
+      "cn": "因为这是 --  -- 麦迪逊广场花园。他是纽约人中的纽约人。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And this is how people reacted.",
+      "cn": "而这就是人们的反应。"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "It was amazing actually. You mean when they had the camera on me? I thought it was very good. Yes, it was certainly amazing. It was -- it was, I think, mostly cheers. It was -- (BOOING)",
+      "cn": "实际上这很惊人。你是说当镜头对着我的时候？我认为那非常好。是的，当然很惊人。那是 --  -- 我认为，大部分是欢呼。那是 --  -- （嘘声）"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Cari Champion here, CNN contributor and host of the \"Flagrant and Funny\" podcast. We had to bring in a little bit of an expert, because we're political people. We don't know. We know about jinxes.",
+      "cn": "我是Cari Champion，CNN撰稿人兼《Flagrant and Funny》播客主持人。我们不得不请来一点专家，因为我们是搞政治的。我们不懂。我们只知道魔咒。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We know about hoaxes. We don't know when politics and sports clash --",
+      "cn": "我们知道恶作剧。但我们不知道政治和体育何时会发生冲突 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- What is the outcome? It's just New York. New York wasn't voting for Trump, en masse, anyway. But is this a problem?",
+      "cn": "--  -- 结果会怎样？这只是纽约。反正纽约人并没有集体投票给特朗普。但这是个问题吗？"
+    },
+    {
+      "speaker": "Champion",
+      "text": "Listen, well, first of all, you said, you know, people in sports normally I hear you say that normally they don't really care so much about politics. They absolutely cared about politics. This is such a rare moment for New Yorkers. People have waited their entire lives. The last time they won a ship (Ph) was 1973.",
+      "cn": "听着，首先，你说过，体育界的人通常不太关心政治。但他们绝对关心政治。这对纽约人来说是个难得的时刻。人们等了一辈子。他们上一次夺冠是在1973年。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But isn't that why the president of the United States, who is a New Yorker, would want to be there?",
+      "cn": "是的。但难道这不正是身为纽约人的美国总统想要出席的原因吗？"
+    },
+    {
+      "speaker": "Champion",
+      "text": "No. In fact, you should not want to be there, because you want to keep that same momentum going. You know, New York is such a rare place. I've never seen fans like this before in my entire life, and they deserve to have this moment. And it was supposed to be uninterrupted, meaning we were supposed to have our watch parties around MSG. We were supposed to be in that moment. And I do believe -- and you know, the great Stephen A. Smith said just the other day --",
+      "cn": "不。事实上，他不应该去，因为要保持那种势头。纽约是个难得的地方。我这辈子从没见过这样的球迷，他们值得拥有这一刻。这本该是不被打扰的，意思是我们应该在麦迪逊广场花园周围举办观赛派对。我们应该沉浸在那个时刻。而且我相信 --  -- 你知道，伟大的斯蒂芬·A·史密斯前几天说过 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, we played him earlier.",
+      "cn": "是的，我们之前播放了他的话。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "You played him? So, he fully blames him. But. So that was the -- that was the vibe.",
+      "cn": "你们播放了？所以，他完全责怪他。但。那就是 --  -- 那就是当时的气氛。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You can't be the cooler, Brianna. You can't be on a streak and then have someone come in and cool the street.",
+      "cn": "你不能当那个扫兴的人，布里安娜。你不能在连胜的时候让别人进来泼冷水。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's not political.",
+      "cn": "那跟政治无关。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm saying cooler. Let me play one more thing. Tommy Vietor, \"Pod Save America\" host. Obviously, these are Obama guys. But they're talking about the power of sports and why politicians would want to be involved. Here's that. TOMMY VIETOR, HOST, \"POST SAVE AMERICA\": He knows the power of live professional sports. And that's the only, like, kind of mono cultural events we really have left. That's why he goes to a lot of games. Usually, it's the NFL. He went to the Super Bowl.",
+      "cn": "我说的是扫兴的人。让我再放一段。汤米·维托尔，《拯救美国播客》主持人。显然，他们是奥巴马的人。但他们谈论的是体育的力量以及为什么政客想要参与其中。听听这个。汤米·维托尔，《拯救美国播客》主持人：他知道现场职业体育的力量。那是我们仅存的少数几种单一文化事件之一。所以他经常去看比赛。通常是NFL。他去了超级碗。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Usually he's more welcome in those, you know, sort of Southern NFL spaces. I -- I don't think he will be here. I mean, he's also buddies with James Dolan, I think, the owner of the Knicks.",
+      "cn": "通常他在那些南方NFL的场合会更受欢迎。我觉得他不会来这里。我是说，他和尼克斯队的老板詹姆斯·多兰也是朋友。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Always pals with the owners.",
+      "cn": "总是和老板们称兄道弟。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Not a real player guy.",
+      "cn": "不是真正的球员型人物。"
+    },
+    {
+      "speaker": "Vietor",
+      "text": "Yes. No. But like, look, he loves the limelight. He loves every spotlight. And he will attempt to co-opt this one, too.",
+      "cn": "是的。不。但是，你看，他喜欢出风头。他热爱每一个聚光灯。他也会试图利用这个。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Just that word. Corrupt -- co-opt. We know that he loves sports. UFC Claw rising like a phoenix on the lawn.",
+      "cn": "就是那个词。腐化 --  -- 利用。我们知道他热爱体育。UFC像凤凰一样在草坪上崛起。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "I don't know if he -- do you really think? I don't think he loves sports.",
+      "cn": "我不知道他是否 --  -- 你真的这么认为？我不觉得他热爱体育。"
+    },
+    {
+      "speaker": "I -- Cornish",
+      "text": "He's always been. He's been going to ringside games and matches.",
+      "cn": "他一直都是。他经常去拳击台边的比赛和格斗赛。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "No sitting -- no sitting president has ever attended a finals. Right? Look, Barack loved NBA, as you pointed out.",
+      "cn": "没有在任总统参加过总决赛。对吧？你看，巴拉克热爱NBA，正如你指出的。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "And he went to a few games, but he would never do that. One, it's on our dime. Two, it disrupts everything that goes on while you're there. And yes, UFC is a different thing for him in terms of for Donald Trump. That's more of his fan base. That's where he lives. That's where people love to see him. He has, obviously, the relationship with Dana. So, when we see him at the NBA finals, it really throws off everything that people wanted to be a part of. It changes the --",
+      "cn": "他也去看过几场比赛，但他绝不会那样做。第一，那是花我们的钱。第二，会扰乱你在场时的一切。是的，对于唐纳德·特朗普来说，UFC是另一回事。那更像是他的粉丝群体。那是他的地盘。那里的人们喜欢看到他。显然，他和达纳有关系。所以，当我们在NBA总决赛看到他时，真的打乱了人们想要参与的一切。它改变了 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, it'll be interesting to see if any of this comes down on Dolan, who obviously --",
+      "cn": "是的，看看这一切是否会影响到多兰会很有趣，他显然 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- has some interesting --",
+      "cn": "--  -- 有一些有趣的 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Renovating Penn Station. And there's a bunch of questions there about that relationship that I wonder if people are going to probe more now that they are -- I don't know -- angry.",
+      "cn": "翻新宾夕法尼亚车站。关于这种关系有很多问题，我想知道人们现在是否会更多地探究，因为他们 --  -- 我不知道 --  -- 很生气。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Being from Boston, let me tell you, I know to keep my mouth shut. I'm not messing with no New York fans, because I'm trying to live out a long, happy life. All right. Coming up on CNN THIS MORNING, we're going to talk about L.A. now. It looks like Spencer Pratt might be out in that mayoral race. The former reality TV star finding he's falling behind. So, was the red wave in L.A. just a splash? Plus, the queen ready for her return. Serena Williams back on the tennis court today.",
+      "cn": "我来自波士顿，告诉你，我知道要管住自己的嘴。我不会招惹纽约的球迷，因为我想过上长久幸福的生活。好了。接下来在《CNN今晨》节目中，我们将讨论洛杉矶。看起来斯宾塞·普拉特可能退出市长竞选。这位前真人秀明星发现自己落后了。那么，洛杉矶的红色浪潮只是昙花一现吗？另外，女王准备回归。塞雷娜·威廉姆斯今天重返网球场。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Why now? And then were going to talk about Hunter Biden trying to reclaim the narrative. Is it working?",
+      "cn": "为什么是现在？然后我们将讨论亨特·拜登试图重新掌控叙事。这奏效了吗？"
+    },
+    {
+      "speaker": "Hunter Biden",
+      "text": "I know there's going to be a lot of haters, and a lot of trolls, and a lot of people saying really, really awful things. But I've heard it all before. It doesn't even faze me.",
+      "cn": "我知道会有很多仇恨者，很多喷子，很多人说非常非常糟糕的话。但我以前都听过。这根本不会影响我。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It is now 15 minutes past the hour. This is your morning roundup. Sam Bankman-Fried, who orchestrated one of the world's largest financial frauds, wants a pardon. The co-founder and CEO of the crypto exchange FTX was convicted on multiple counts of fraud and conspiracy. And in fact, he's serving a 25-year prison sentence. He officially applied for a pardon, according to the Justice Department. But back in January, Trump told \"The New York Times\" he would not pardon Bankman-Fried.",
+      "cn": "现在是整点过15分。这是你的早间新闻摘要。策划了世界上最大金融欺诈案之一的萨姆·班克曼-弗里德希望获得赦免。加密货币交易所FTX的联合创始人兼首席执行官因多项欺诈和共谋罪名被定罪。事实上，他正在服25年监禁。据司法部称，他已正式申请赦免。但早在1月份，特朗普告诉《纽约时报》，他不会赦免班克曼-弗里德。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And two people confirmed dead after a private jet crashed while attempting to land in the Dominican Republic. The plane blew up in flames after skidding across the runway. Officials say the pilot and copilot, both U.S. nationals, died. No passengers were on board. And the Nashville Zoo pushing back on a proposal to build a nearly 70,000-square-foot data center right on the edge of its property. Country music star, Nashville resident Brad Paisley, trying to drum up support for a petition against the project.",
+      "cn": "一架私人飞机在试图降落多米尼加共和国时坠毁，两人确认死亡。飞机在滑过跑道后起火爆炸。官员称，飞行员和副驾驶均为美国公民，不幸遇难。机上没有乘客。纳什维尔动物园反对在其地产边缘建造一座近7万平方英尺的数据中心的提案。乡村音乐明星、纳什维尔居民布拉德·佩斯利试图为反对该项目的请愿争取支持。"
+    },
+    {
+      "speaker": "Paisley",
+      "text": "Let's stop it. We don't have to do this here. Build them somewhere else. But let's keep Nashville as beautiful and as -- as great an attraction as it's always been.",
+      "cn": "让我们阻止它。我们不必在这里做这个。把它们建到别处去。但让我们保持纳什维尔的美丽和吸引力，一如既往。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "D.C. Blocks, the company behind the proposal, assures there would be no health risks to the residents or the animals. And don't call it a comeback. Today, the GOAT, Serena Williams, officially coming out of retirement. The 44-year-old will play a doubles match at the Queens Club Championships alongside a Canadian teenager. When asked why now, she told reporters why not? Now is the best time for her and her family. I have to take this to Cari Champion. What is your thesis on the coming back?",
+      "cn": "别说是复出。今天，史上最佳选手塞雷娜·威廉姆斯正式退役复出。这位44岁的选手将在女王俱乐部锦标赛中与一位加拿大青少年搭档双打。当被问及为什么是现在时，她告诉记者为什么不呢？现在是她和家人最好的时机。我得把这个交给卡里·钱皮恩。你对复出有什么看法？"
+    },
+    {
+      "speaker": "Champion",
+      "text": "So, I love how she's like, she's preparing us. She's managing us. She's managing upwards, as they would say.",
+      "cn": "所以，我喜欢她那样，她在为我们做准备。她在管理我们。她在向上管理，就像他们说的那样。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Managing the expectations.",
+      "cn": "管理期望。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "Exactly. She says, oh, it's just for my kids to see me play. I totally believe that. But I think she, like Allyson Felix, like Lindsey Vonn had done. Everyone's prepping for the Olympics. My theory is that she's like, yes, I'll work my way to playing singles.",
+      "cn": "没错。她说，哦，这只是为了让我的孩子们看我打球。我完全相信这一点。但我认为她，就像艾莉森·菲利克斯、林赛·沃恩曾经做过的那样。每个人都在为奥运会做准备。我的理论是，她心里想的是，是的，我会努力打到单打。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Hey, don't say Lindsey Vonn, then. I mean --",
+      "cn": "嘿，那就别提林赛·沃恩了。我是说 --  --"
+    },
+    {
+      "speaker": "Champion",
+      "text": "Well, not in that way. But she came out of retirement.",
+      "cn": "嗯，不是那个意思。但她复出了。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "All of these women are coming out of retirement, because they're meeting the expectations of guess what? So what if I'm 40? So, what if I'm 40 plus?",
+      "cn": "所有这些女性都复出了，因为她们在满足期望，猜猜是什么？我40岁又怎样？我40多岁又怎样？"
+    },
+    {
+      "speaker": "Champion",
+      "text": "I'm still going to play. I still have the desire.",
+      "cn": "我仍然会打球。我仍然有渴望。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I thought she did it because she saw big sis on the court and was like, you know what? I miss it.",
+      "cn": "我以为她这么做是因为看到姐姐在球场上，然后心想，你知道吗？我怀念这种感觉。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I have a sister so I feel like that's what would happen.",
+      "cn": "我有个姐姐，所以我觉得那会是会发生的事。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "That might be a little bit of it, but I have a feeling she'll play the Olympics.",
+      "cn": "可能有一部分原因，但我感觉她会参加奥运会。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, listen, I want her kid to see her play, too.",
+      "cn": "好吧，听着，我也希望她的孩子能看到她打球。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Shout-out to Olympia. OK. After the break on CNN THIS MORNING, prediction markets and pro sports. Is it time for new rules to protect players and the integrity of the games? Plus, there is dangerous flooding. There's also efforts to rescue people from rising waters. We're going to be going live to Mexico City, as well, which will host their first World Cup match two days from now. Mexico versus South Africa.",
+      "cn": "向奥林匹亚致敬。好的。在CNN《今晨》节目之后，我们将讨论预测市场和职业体育。是否该制定新规则来保护球员和比赛的公正性？此外，还有危险的洪水。人们也在努力从上涨的水中救人。我们还将连线墨西哥城，那里将在两天后举办他们的第一场世界杯比赛。墨西哥对阵南非。"
+    },
+    {
+      "speaker": "Pat Mcafee",
+      "text": "We are getting a ruling just one day after the NCAA basically comes out and says, This guy's not allowed. OK? This is not -- we're not doing this. This judge comes out and says, Actually, can play.",
+      "cn": "就在NCAA刚刚宣布\"这个人不允许参赛\"的一天后，我们得到了一个裁决。对吧？这不是 --  -- 我们不会这样做。这位法官出来说，实际上，他可以参赛。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right. As the sports world grapples with the world of sports gambling and prediction markets, a new ruling is sending shock waves through college football. The NCAA ruled Texas Tech quarterback Brendan Sorsby was ineligible after placing more than $90,000 in bets on college sports, and that includes 40 bets on his own team when he played at Indiana. Now, a federal judge has overruled all of that.",
+      "cn": "好的。随着体育界应对体育博彩和预测市场的问题，一项新裁决在大学橄榄球界引起了震动。NCAA裁定德克萨斯理工大学四分卫布伦丹·索斯比因在大学体育赛事中下注超过9万美元而失去参赛资格，其中包括他在印第安纳大学效力时对自己球队的40次下注。现在，一名联邦法官推翻了这一切。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The judge, conveniently based in Texas Tech's hometown of Lubbock, argued that Sorsby will suffer, quote, \"probable, imminent and irreparable injury\" if he's not able to play for the Red Raiders this year. And the chairman of the NCAA calls the decision a glaring integrity threat. He wants Congress to pass a new bill which would allow them to enforce their gambling restrictions, adding, quote, \"It's needed now more than ever.\" I want to note here that CNN has a partnership with Kalshi, a prediction market.",
+      "cn": "这位法官恰好位于德克萨斯理工大学所在的拉伯克市，他辩称，如果索斯比今年不能为红色突击者队效力，他将遭受\"可能的、迫在眉睫且无法弥补的伤害\"。NCAA主席称这一决定是对公正性的明显威胁。他希望国会通过一项新法案，允许他们执行赌博限制，并补充说，\"现在比以往任何时候都更需要\"。我想指出，CNN与预测市场Kalshi有合作关系。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I'm bringing in Randall Williams, sports business reporter at Bloomberg. I wanted to talk to you, because as we are having this conversation about betting in general --",
+      "cn": "我请来了彭博社的体育商业记者兰德尔·威廉姆斯。我想和你谈谈，因为当我们讨论博彩问题时 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- there is this push to regulate harder prediction markets. What's the difference between betting in a prediction market and betting with DraftKings or regular sports betting book at Vegas?",
+      "cn": "--  -- 目前有加强监管预测市场的推动力。在预测市场下注与在DraftKings或拉斯维加斯的常规体育博彩下注有什么区别？"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Sure. So, let's say sports gambling is more \"I'm putting money into a sports book\" than \"I'm going to get that money right back.\" In Kalshi and Polymarket, it's derivative based. And so, what the offerings of Kalshi and Polymarket have seen, you've been able to bet on Gatorade. You've been able to bet on the Gatorade color after a team wins a Super Bowl. You've been able to --",
+      "cn": "当然。那么，假设体育博彩更像是\"我把钱投入体育博彩公司\"，而不是\"我会立刻拿回那些钱\"。在Kalshi和Polymarket，它是基于衍生品的。因此，Kalshi和Polymarket提供的产品中，你可以押注佳得乐。你可以押注一支球队赢得超级碗后佳得乐的颜色。你可以 --  --"
+    },
+    {
+      "speaker": "Williams",
+      "text": "All of these things are very, very manipulative because of the fact that people will seek out information in order to make a ton of money. That's called insider trading. And so, from a sports perspective, the last thing that you want, especially after all of these years of sports gambling with the MLB, with the NBA, with the NFL. We've seen suspensions across all of them in different cases and even at the federal level, as well. They're trying to get a handle on these things.",
+      "cn": "所有这些事情都非常非常容易被操纵，因为人们会寻找信息来赚大钱。这被称为内幕交易。因此，从体育的角度来看，你最不希望看到的就是 --  -- 尤其是在MLB、NBA、NFL这些年的体育博彩之后。我们在所有这些联盟中都看到了不同案例的禁赛，甚至在联邦层面也是如此。他们正试图控制这些事情。"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Now, different leagues have different approaches. Some are partnering with them and trying to say, Hey, if we don't partner with them, then they're going to run rampant. Others are saying, not so fast.",
+      "cn": "现在，不同的联盟有不同的做法。有些联盟与它们合作，并试图说，嘿，如果我们不与它们合作，它们就会猖獗。另一些则说，别急。"
+    },
+    {
+      "speaker": "Williams",
+      "text": "We want to see what happens first.",
+      "cn": "我们想先看看会发生什么。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, to your point, the MLB has a data sharing agreement again, because they're trying to catch bad actors.",
+      "cn": "所以，正如你所说，美国职业棒球大联盟再次签署了数据共享协议，因为他们试图抓住违规者。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I've been paying attention to this story, because we've actually talked here at CNN to, like, college-age adults. There was one story where the student said, the ads got me, and he was talking about prediction markets specifically. He says, \"Predictions absolutely mean gambling. And frankly, I'm surprised you loopholed this so well to allow someone like me to gamble on this stuff.\" This is what he was writing in his comments.",
+      "cn": "我一直在关注这件事，因为我们CNN确实采访过一些大学生。有一个故事中，学生说广告吸引了我，他特指预测市场。他说：\"预测绝对意味着赌博。坦白说，我很惊讶你们能如此巧妙地钻空子，让我这样的人也能赌这些。\"这是他在评论中写的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "\"A hundred percent should be banned before my -- before more kids like me use it, because God knows they shouldn't.\" Now, there's a couple of things that the sports leagues have written to federal regulators asking for: raising the betting age from 18 to 21.",
+      "cn": "\"百分之百应该被禁止，在我 --  -- 在更多像我这样的孩子使用它之前，因为天知道他们不应该用。\"现在，体育联盟已经向联邦监管机构提出了几项要求：将投注年龄从18岁提高到21岁。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "A ban on waging on your own team. We just talked about that in the introduction. Ban over/under bets on fouls and injuries, getting injured.",
+      "cn": "禁止投注自己的球队。我们刚才在开场白中提到了这一点。禁止对犯规和受伤进行大小分投注。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And then mandatory fan conduct rules. What's going on there?",
+      "cn": "还有强制性的球迷行为准则。这是怎么回事？"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Well, first of all, multifaceted. As far as the betting age, when you think about if you're on TikTok, if you're on ESPN, if you're on NBC, there are so many betting ads; and there's even betting sections of the shows. As far as the kids themselves, when you're watching these things, whether it be Pat McAfee, whether it be \"First Take,\" whether it be \"SportsCenter,\" whether it be from FS1 and FOX, you're going to see so much of it that you're going to be like, well, why not?",
+      "cn": "首先，这是多方面的。关于投注年龄，想想看，如果你在TikTok、ESPN、NBC上，你会看到大量投注广告；甚至节目里也有投注板块。对于孩子们来说，当你观看这些节目时，无论是帕特·迈克菲的节目、《第一印象》、《体育中心》，还是FS1和FOX的节目，你会看到太多这样的内容，以至于你会想，为什么不呢？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "How bad could it be?",
+      "cn": "能有多糟糕？"
+    },
+    {
+      "speaker": "Williams",
+      "text": "How bad could it be? And then, it's like, you win once. Now you're chasing that thrill. And that can be a very addictive process. So, from the league perspective, they're like, OK, let's try to push this until their brain is a little bit more fully developed, and then they can make their own decisions. But the reality is the floodgates of gambling are already open. When you accept money, this is a possibility, and people are going to try to win a lot of it.",
+      "cn": "能有多糟糕？然后，就像你赢了一次，就开始追逐那种刺激。这可能会让人上瘾。所以从联盟的角度来看，他们想，好吧，我们试着把年龄推后，等他们大脑发育更成熟一些，再做决定。但现实是，赌博的闸门已经打开。一旦你接受金钱，这种可能性就存在，人们会试图赢很多钱。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, Donald Trump actually was just posting about this on Truth Social, where he said, \"It's critically important that the CFTC's exclusive authority over prediction markets is maintained and that they will thrive.\" Can you talk about where he's coming down on this issue and where that compares to what the leagues are asking?",
+      "cn": "唐纳德·特朗普刚刚在Truth Social上发帖说：\"维持商品期货交易委员会对预测市场的独家管辖权至关重要，这样它们才能蓬勃发展。\"你能谈谈他在这件事上的立场，以及这与联盟的要求相比如何？"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Well, I think what President Trump is asking, I think is more impartial to or more partial to the fact that Kalshi and Polymarket have things that are outside of sports offering. You mentioned some of the Iran war strikes. You mentioned when President Maduro was -- was captured. If you can bet on some of those things, like who's to say that doesn't leak and compromise an operation? And so, he is trying to get a hold on and say, hey, we have some things going on at the federal level that are a serious issue.",
+      "cn": "我认为特朗普总统的要求更偏向于Kalshi和Polymarket提供体育之外的东西。你提到了伊朗战争打击，你提到了马杜罗总统被抓获。如果你能赌这些事，谁能保证这不会泄露并危及行动？所以他试图控制局面，说，嘿，我们在联邦层面有一些严重的问题。"
+    },
+    {
+      "speaker": "Williams",
+      "text": "I think those things run in line with some of the sports offerings, as well. But it remains to be seen how well the sports world and President Trump will work together on these, because President Trump was at the Knicks game yesterday. He's also targeted the NFL for the Sports Broadcasting Act and trying to see if -- if you know, the district -- excuse me, the distribution among streamers and traditional broadcasters is too wide. So, I think they are walking in the same path, but just at different paces.",
+      "cn": "我认为这些事情与一些体育赛事也是一致的。但体育界和特朗普总统在这些问题上能合作到什么程度还有待观察，因为特朗普总统昨天去了尼克斯队的比赛。他还针对《体育广播法》瞄准了NFL，试图看看 --  -- 你知道，流媒体和传统广播公司之间的分配差距是否过大。所以，我认为他们走在同一条路上，只是步伐不同。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Do you have a question? You were looking.",
+      "cn": "你有问题吗？你刚才在看。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "No, I was just really curious, like, why is that his business?",
+      "cn": "没有，我只是很好奇，为什么那是他的事？"
+    },
+    {
+      "speaker": "Williams",
+      "text": "I think it's his business because of the fact that he just doesn't want leaks out there. He doesn't want to be known as the president who had insider trading at all of these different things that were going on that were a result of him. So, if someone's going to be making money from his operations, he wants it to be himself or the people around him.",
+      "cn": "我认为这是他的事，因为他不想有泄密。他不想被视为一个在所有这些因他而起的事情中进行内幕交易的总统。所以，如果有人要从他的操作中赚钱，他希望那个人是他自己或他身边的人。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, I -- I should say -- we should note there is currently, I think, a U.S. service member who is facing --",
+      "cn": "嗯，我 --  -- 应该说 --  -- 我们应该注意到，目前有一名美国军人正面临 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- charges for allegedly placing wagers, contracts in prediction markets over the when and where of Maduro. So, it feels like these things are just now sort of entering the judicial system --",
+      "cn": "--  -- 指控，涉嫌在预测市场上就马杜罗的时间和地点下注。所以，感觉这些事情现在才刚刚进入司法系统 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- where a lot of it will be hashed out. Randall, I want to let you go. But before I do, Knicks. Are you -- where are you on Trump as cooler or Knicks just had a bad night?",
+      "cn": "--  -- 很多问题将在那里得到解决。兰德尔，我想让你走了。但在此之前，尼克斯队。你认为特朗普是扫把星，还是尼克斯队只是度过了一个糟糕的夜晚？"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Oh, I believe President Trump absolutely cursed the Knicks.",
+      "cn": "哦，我相信特朗普总统绝对诅咒了尼克斯队。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Strong language. All day.",
+      "cn": "语气很强硬。一整天都是。"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Listen, I've been to several events that President Trump has attended: UFC events. I was at the Super Bowl that he attended, and all of them had different results. But this one, I was like, I don't think he should go to this one just because of the fact that they were riding high. And now he shows up, and we see what happens.",
+      "cn": "听着，我参加过特朗普总统出席的几场活动：UFC赛事。我参加了他在场的超级碗，所有这些活动都有不同的结果。但这一次，我当时想，我觉得他不应该来，因为他们正势头正盛。现在他出现了，我们就看到了结果。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, the word from Bloomberg business. Local man says. No. Straight ahead on CNN THIS MORNING, it's primary day in Maine. We want to talk about that. Can voters there get over the scandals weighing down Democrat Graham Platner's campaign? Plus, a U.S. Army helicopter goes down in the Middle East. President Trump will be giving an update on the crew on board. var CNN = CNN || {};",
+      "cn": "好的，来自彭博商业新闻的消息。当地人说，不。在CNN《今晨》节目中，今天是缅因州的初选日。我们来谈谈这个。那里的选民能否克服拖累民主党人格雷厄姆·普拉特纳竞选的丑闻？此外，一架美国陆军直升机在中东坠毁。特朗普总统将就机上人员情况提供最新消息。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I'm a Democrat, but I don't feel like he's going to be my choice.",
+      "cn": "我是民主党人，但我不觉得他会是我的选择。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I don't want Susan Collins to win. And I think that maybe Janet Mills has a greater chance of beating Susan than Graham did.",
+      "cn": "我不想让苏珊·柯林斯赢。而且我认为也许珍妮特·米尔斯比格雷厄姆更有机会击败苏珊。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "So, voting is underway for primary day in Maine. Democrats choosing between Graham Platner or Janet Mills, who is still on the ballot. We're going to talk about that more in a moment. Good morning, everybody. I'm Audie Cornish. And thank you for joining me on CNN THIS MORNING. It is now half past the hour. And here's what's happening right now. President Trump saying pilots are OK after a report of an Apache helicopter going down near the Strait of Hormuz.",
+      "cn": "所以，缅因州的初选投票正在进行中。民主党人在格雷厄姆·普拉特纳和仍在选票上的珍妮特·米尔斯之间做出选择。我们稍后将进一步讨论这个话题。大家早上好。我是奥蒂·科尼什。感谢您收看CNN《今晨》节目。现在是半小时过一点。以下是正在发生的事情。特朗普总统表示，在阿帕奇直升机在霍尔木兹海峡附近坠毁的报告后，飞行员安然无恙。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "\"The New York Times\" reported that two crew members had to be rescued. The president says he plans to release more detail about what happened later today. Chinese President Xi Jinping wrapping up his two-day visit in North Korea with leader Kim Jong-un. It's been seven years since Xi's last visit. He's called for deepening, quote, \"strategic cooperation\" with North Korea. And intense flash flooding hits Missouri, with multiple people needing to be rescued from their homes and cars.",
+      "cn": "《纽约时报》报道称，两名机组人员不得不被救出。总统表示，他计划在今天晚些时候公布更多关于事件的细节。中国国家主席习近平结束了对朝鲜为期两天的访问，与领导人金正恩会面。这是习近平七年来首次访问。他呼吁与朝鲜深化\"战略合作\"。密苏里州遭遇严重山洪暴发，多人需要从家中和汽车中被救出。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "We're talking about four to six inches of rain falling on parts of the state on Monday. And it did trigger an emergency.",
+      "cn": "周一，该州部分地区降雨量达4到6英寸。这确实引发了紧急情况。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "We pretty much just woke up to our whole house completely full of water.",
+      "cn": "我们醒来时发现整个房子都灌满了水。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "We're screwed. I mean, there's no really -- no other way to put it.",
+      "cn": "我们完蛋了。我的意思是，真的没有别的说法了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Local officials are saying that it remains unclear exactly how many people were impacted by the floods. And some polls are now open in Maine, one of four states holding primaries today. Voters will decide who will go head-to-head in a race that could decide which party controls the Senate. Graham Platner is essentially running unopposed after his primary rival, Governor Janet Mills, suspended her campaign. But here's the thing, she's still on the ballot and votes for her will still count.",
+      "cn": "当地官员表示，目前尚不清楚究竟有多少人受到洪水影响。缅因州的一些投票站现已开放，该州是今天举行初选的四个州之一。选民将决定谁将在可能决定哪个政党控制参议院的竞选中正面交锋。格雷厄姆·普拉特纳基本上是在没有对手的情况下参选，因为他的初选对手、州长珍妮特·米尔斯暂停了竞选活动。但问题是，她仍在选票上，投给她的票仍然有效。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Platner is seeking to overcome a wave of scandal, including claims of knowingly getting a Nazi tattoo and allegations of inappropriate behavior with past girlfriends, all of which he has denied. Democrats are wondering if his past will derail their chances to unseat Republican Susan Collins in November.",
+      "cn": "普拉特纳正试图克服一波丑闻，包括明知故犯地纹上纳粹纹身以及与前女友不当行为的指控，所有这些他都否认。民主党人担心他的过去是否会破坏他们在11月击败共和党人苏珊·柯林斯的机会。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I don't like it. But if he votes the way I want him to, and he can defeat Susan Collins, yes, go for it.",
+      "cn": "我不喜欢他。但如果他按我的意愿投票，并且能击败苏珊·柯林斯，那好吧，我支持他。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "The truth is, is the Nazi tattoo should have been enough.",
+      "cn": "事实是，那个纳粹纹身本就应该足以说明问题。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "If his wife can deal with it, who am I to argue?",
+      "cn": "如果他妻子都能接受，我又有什么好说的呢？"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "The problems that are facing Maine and this country are too serious for us to focus on this purity politics kind of stuff.",
+      "cn": "缅因州和这个国家面临的问题太严重了，我们不能只关注这种政治纯洁性的东西。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I'm definitely voting for him. I, honestly, I would vote for a doorknob over Susan Collins.",
+      "cn": "我肯定会投他的票。说实话，我宁愿投给一个门把手也不会投给苏珊·柯林斯。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joining me now, Jamie Harrison, former chair of the former Democratic National Committee. Jamie, thank you so much for being here. I wanted you to be here because this race has gotten so much attention. Platner was recruited by people who weren't the Democratic Party, right?",
+      "cn": "现在请到的嘉宾是杰米·哈里森，前民主党全国委员会主席。杰米，非常感谢你的到来。我请你来是因为这场竞选备受关注。普拉特纳是由非民主党人士招募的，对吗？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And now we've seen a lot of questions as a result. \"The Wall Street Journal\" actually interviewed the people who recruited him, and they said, did you vet this guy? What questions did you ask? How do you feel about it with the controversies now? Here's how they replied. DANIEL MORAFF, SENIOR STRATEGIST, Platner",
+      "cn": "现在因此出现了很多质疑。《华尔街日报》采访了招募他的人，他们问：你们审查过这个人吗？你们问了什么问题？对于现在的争议你们怎么看？以下是他们的回答。丹尼尔·莫拉夫，普拉特纳的高级策略师。"
+    },
+    {
+      "speaker": "Campaign",
+      "text": "I think, if what the voters wanted were people who were grown in vats and had never done or said anything that they might regret their entire lives, we'd have a very different country. Part of our thesis here is that people do not want their candidates grown in vats. They want people who are real human beings, and they want people who do not look and sound like the vat-grown people who have been leading this country off a cliff for the last century. And that was Graham.",
+      "cn": "我认为，如果选民想要的是那种在培养皿中长大、从未做过或说过任何可能让他们后悔一辈子的事的人，那我们的国家就会大不相同。我们的论点之一是，人们不想要培养皿中长大的候选人。他们想要真实的人，他们想要那些看起来和听起来都不像过去一个世纪里把国家引向悬崖的那些培养皿中长大的人。这就是格雷厄姆的观点。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What side of the argument are you on here?",
+      "cn": "你支持哪一方的观点？"
+    },
+    {
+      "speaker": "Harrison",
+      "text": "Well, my apologies for being in this little, small phone booth in an American Airlines lounge, Audie. But listen, the bottom line is this. I supported Governor Janet Mills because I thought she was the strongest candidate in the race. And I can tell you, if I were voting in Maine today, she would still get my vote. But the Democratic voters will --",
+      "cn": "嗯，奥黛，抱歉我现在在美国航空休息室的一个小电话亭里。但听着，底线是这样的。我支持州长珍妮特·米尔斯，因为我认为她是竞选中实力最强的候选人。我可以告诉你，如果今天我在缅因州投票，我仍然会投给她。但民主党选民会 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But can you address the argument that they're saying? Like, they -- we're seeing this more and more. Mamdani is a great example.",
+      "cn": "但你能回应一下他们提出的论点吗？比如，他们 --  -- 我们越来越频繁地看到这种情况。马姆达尼就是一个很好的例子。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "People who are entering and they don't enter with the permission, so to speak, of the DNC or anyone from any formal organization.",
+      "cn": "那些进入的人，可以说，并没有得到民主党全国委员会或任何正式组织的许可。"
+    },
+    {
+      "speaker": "Harrison",
+      "text": "Well, but this is the thing. When you -- when you don't go through the regular process, then you get problems and issues like we have now, folks who aren't properly vetted, folks whose backgrounds have a lot of issues and problems in it that that jeopardize whether or not you win in the general election. I get and understand the frustration of going through the party filter sometimes. I totally get that as someone who's been a state party chair and the national chair.",
+      "cn": "嗯，但问题就在这里。当你 --  -- 当你不走常规流程时，就会遇到像我们现在这样的问题：一些人没有经过适当的审查，他们的背景存在很多问题和麻烦，这会危及你在大选中能否获胜。我理解并明白有时要通过政党筛选的挫败感。作为曾经担任过州党主席和全国主席的人，我完全理解这一点。"
+    },
+    {
+      "speaker": "Harrison",
+      "text": "But at -- but there's a level of quality checks that, when you go through that process, you understand what you are getting in the end, instead of this wild card now. And then, you know, there are folks who are hand-wringing and trying to figure out how they support the candidate or not. In the end of the day, you know, Graham Platner becomes the nominee because Mainers in the Democratic primary vote for him. This will be a contest between Graham Platner and Susan Collins.",
+      "cn": "但是 --  -- 但是存在一定质量检查的层面，当你经过那个流程时，你最终会明白你得到的是什么，而不是现在这种不确定因素。然后，你知道，有些人会焦虑不安，试图弄清楚他们是否支持这位候选人。最终，格雷厄姆·普拉特纳成为提名人，因为缅因州的民主党初选选民投票给了他。这将是格雷厄姆·普拉特纳和苏珊·柯林斯之间的竞争。"
+    },
+    {
+      "speaker": "Harrison",
+      "text": "And we know what we get with Susan Collins. Her legacy is tied to Supreme Court confirmations that have fundamentally changed the country.",
+      "cn": "而且我们知道苏珊·柯林斯会带来什么。她的政治遗产与最高法院的确认任命紧密相连，这些任命从根本上改变了这个国家。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, Jamie, let me stop you there, because we also just heard a voter say that they'd rather vote for a doorknob than Collins. So, you don't have to sell it on election day. But it is seen as one of a pickup opportunity.",
+      "cn": "嗯，杰米，让我打断你一下，因为我们也刚刚听到一位选民说，他们宁愿投票给一个门把手也不投给柯林斯。所以，你在选举日不必推销这一点。但这被视为一个可以争取的机会。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You said you're a supporter of Mills. She suspended her campaign. But she's not all the way gone, right?",
+      "cn": "你说你是米尔斯支持者。她暂停了竞选活动。但她并没有完全退出，对吧？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Like, not formally withdrawn. Here's what she told \"The Portland Press.\" And I think she was saying that, \"people have the impression that I 'withdrew' or 'dropped out,' but I simply suspended active campaigning. And I'm still on the ballot.\" So, then Senator John Fetterman weighs in on why he thinks she may not be connecting with voters. SEN. JOHN FETTERMAN (D-PA): In was a setting --",
+      "cn": "比如，没有正式退出。她告诉《波特兰新闻报》说：\"人们以为我'退出'或'放弃了'，但我只是暂停了积极竞选。我仍然在选票上。\"那么，参议员约翰·费特曼随后就为什么他认为她可能无法与选民建立联系发表了看法。参议员约翰·费特曼（民主党-宾夕法尼亚州）：那是在一个场合 --  --"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "She's the sitting governor and upstanding as a -- as a committed Democrat, you know. And it seems like the only thing wrong with her is she happens to be 78. So --",
+      "cn": "她是现任州长，并且是一位坚定的民主党人，品行端正。似乎她唯一的问题就是她恰好78岁了。所以 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He's talking about age as a factor. Can you talk about whether or not people, do you think, will be writing her in today or will be checking her name off, since she's still on the ballot, or is that wishful thinking?",
+      "cn": "他是在谈论年龄作为一个因素。你能谈谈你认为人们今天是否会给她写票，或者是否会勾选她的名字，因为她仍在选票上，还是说这只是美好的愿望？"
+    },
+    {
+      "speaker": "Harrison",
+      "text": "No, I think people would. I mean, if I were voting in Maine today, that's who I would be voting for as well. And that's the problem that I have with some parts of the Democratic Party at this point. It is -- you know, they can look past every other flaw but age, right? If you're an older Democrat, then that -- that is the fundamental flaw that everything else breaks down. But in the end of the day, what people want is, somebody's going to fight for them regardless of their age.",
+      "cn": "不，我认为人们会。我的意思是，如果今天我在缅因州投票，我也会投给她。这就是目前我对民主党某些部分感到不满的地方。你知道，他们可以忽略其他所有缺点，但年龄不行，对吧？如果你是一位年长的民主党人，那么年龄就是根本缺陷，其他一切都会因此瓦解。但归根结底，人们想要的是有人愿意为他们奋斗，无论年龄大小。"
+    },
+    {
+      "speaker": "Harrison",
+      "text": "Someone who has experience, who can be effective in terms of legislating. And Janet Mills has that proven record. And it's a shame that, you know, the chattering class was all in for someone who has all these flaws. And we knew it from the start. But in the end, again, you know, regardless of what happens in this primary, it's about the general election.",
+      "cn": "一个经验丰富、在立法方面能有效发挥作用的人。珍妮特·米尔斯就有这样的记录。遗憾的是，你知道，那些空谈阶层全都支持一个有着所有这些缺点的人。我们从一开始就知道。但最终，无论初选结果如何，关键还是大选。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well one -- yes, it is.",
+      "cn": "嗯，是的，确实如此。"
+    },
+    {
+      "speaker": "Harrison",
+      "text": "And it's between Susan Collins and likely Graham Platner. Yes.",
+      "cn": "而且这是苏珊·柯林斯和很可能格雷厄姆·普拉特纳之间的对决。是的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Thank you for being on. This is a fascinating race, especially since it was voters, right, in polling who put Platner so far ahead. And I'm going to be interested to see what kind of lessons Democrats take from this. Jamie, thank you for your time. Good luck catching your flight.",
+      "cn": "感谢你参加节目。这是一场引人入胜的竞选，尤其是因为选民 --  -- 在民调中 --  -- 让普拉特纳遥遥领先。我很想看看民主党会从中吸取什么教训。杰米，感谢你的时间。祝你赶上航班。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And tonight at 8 Eastern, CNN has live coverage of some of these key primaries across the country. And you can watch them on CNN or on the CNN app. In California, former reality star Spencer Pratt is out in the Los Angeles mayoral election. The CNN decision desk projects that Nithya Raman will advance to the general election to take on incumbent Karen Bass. In the governor's race, the CNN decision desk projects that Democrat Xavier Becerra will advance to November.",
+      "cn": "今晚东部时间8点，CNN将直播全国一些关键初选。你可以在CNN或CNN应用上观看。在加州，前真人秀明星斯宾塞·普拉特在洛杉矶市长选举中出局。CNN决策台预测尼提亚·拉曼将进入大选，与现任市长凯伦·巴斯对决。在州长竞选中，CNN决策台预测民主党人泽维尔·贝塞拉将进入11月的大选。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Republican Steve Hilton is holding a lead for second. California's elections often take days to get resolved because postmarked mail-in ballots, received up to a week after election day, can still be counted, again, as long as they are postmarked on election day. This has fueled President Trump's claims that the California elections are rigged. There is no evidence provided for that. Steve Hilton told CNN's Erin Burnett last night that's not what he's seeing. STEVE HILTON (R),",
+      "cn": "共和党人史蒂夫·希尔顿在第二名上保持领先。加州的选举通常需要数天才能得出结果，因为邮寄选票只要在选举日当天盖上邮戳，并在选举日后一周内收到，仍可被计入。这助长了特朗普总统关于加州选举被操纵的说法。但没有证据支持这一点。史蒂夫·希尔顿昨晚告诉CNN的艾琳·伯内特，他并没有看到这种情况。"
+    },
+    {
+      "speaker": "California Gubernatorial Candidate",
+      "text": "We've got teams standing by, lawyers standing by, and actually, it's the same answer that actually I've been giving for a few days now. We've seen nothing that would give us cause to intervene in that way.",
+      "cn": "我们有团队待命，律师待命，实际上，这也是我几天来一直在给出的答案。我们没有看到任何会让我们有理由以那种方式干预的情况。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I want to bring it back to the group chat. We've got this sort of thing where, again, you've got the leading Republican in the statewide race saying, I actually think it's going pretty well, probably because he's second. But we also saw Trump blow up at Kristen Welker at NBC for getting -- specifically on this issue, which is crazy considering they were talking about Iran and a variety of other things.",
+      "cn": "我想把话题拉回群聊。我们又遇到这种情况，全州竞选中领先的共和党人说，我实际上认为情况还不错，可能是因为他排在第二。但我们也看到特朗普在NBC对克里斯汀·韦尔克大发雷霆 --  -- 具体就是针对这个问题，考虑到他们当时在讨论伊朗和其他各种事情，这很疯狂。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Why do you think this issue has captured the imagination, especially on the right? Like, why are people looking at these two races and saying, aha, indicative of nationwide problems? BRIANNA LYMAN, REPORTER, \"THE FEDERALIST\": Well, I think it's fair skepticism for voters to look at a place like Los Angeles, for example. And you see that on election night, Spencer Pratt was up by about eight to 10 points. And when you went to bed, he was up by eight to 10 points. The next morning --",
+      "cn": "你认为为什么这个问题引起了人们的关注，尤其是在右翼？为什么人们看着这两场竞选说，啊哈，这预示着全国性的问题？《联邦党人》记者布里安娜·莱曼：嗯，我认为选民对像洛杉矶这样的地方持怀疑态度是合理的。你看到在选举之夜，斯宾塞·普拉特领先大约8到10个百分点。当你睡觉时，他领先8到10个百分点。第二天早上 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And that's what the percentage of vote counted being 28 percent, 35 percent.",
+      "cn": "这就是计票比例达到28%、35%的情况。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Just as a reporter, you're not looking at the full count.",
+      "cn": "作为记者，你看到的并不是完整的计票结果。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "Sure. Sure. So, traditionally, Americans, for decades, have expected to receive results on election night. That has not been the same for probably the past six years, really, with Covid starting, people began to expect a delay in results. But for a lot of Americans, they expect results on election night. And I think that there are Americans who say, look, a week after this election, a week after Nithya Raman, she gave a speech that even CSPAN characterized as a concession speech.",
+      "cn": "当然。当然。所以，传统上，几十年来，美国人都期望在选举之夜得到结果。但过去六年左右可能就不一样了，真的，随着新冠开始，人们开始预期结果会延迟。但对很多美国人来说，他们还是期望在选举之夜得到结果。而且我认为有些美国人会说，看，这次选举一周后，尼提亚·拉曼一周后发表了一场演讲，连C-SPAN都将其定性为认输演讲。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "She almost publicly dismissed any possibility for a path forward.",
+      "cn": "她几乎公开否定了任何前进的可能性。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "So, you put that into play. And then you see all these ballot drops, which tend to favor Nithya Raman even over Karen Bass, especially when Nithya Raman actually underperformed in her own city council district. I do think it's fair for people just to say, a week later suddenly the guy who was in second place on the night of the election, there are some questions --",
+      "cn": "所以，你把这一点考虑进去。然后你看到所有这些邮寄选票，它们往往更有利于尼提亚·拉曼，甚至超过凯伦·巴斯，尤其是当尼提亚·拉曼实际上在自己的市议会选区表现不佳时。我确实认为人们有理由说，一周后，那个在选举之夜排名第二的人突然出现了一些问题 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, let me bring in someone who's run a mayoral race and may have some thoughts about why you give a concession speech when there's only x amount of percentage of the ballots counted. Was that a mistake? Can you talk about the dynamics at play here?",
+      "cn": "那么，让我请一位参加过市长竞选的人来谈谈，为什么在只有一定比例的选票被统计时，你会发表认输演讲？这是个错误吗？你能谈谈这里面的动态吗？"
+    },
+    {
+      "speaker": "Christine Quinn",
+      "text": "I mean the way it works in California is very different than a lot of other states. The way you can mail in ballots. And one thing we see in California is the ballots that come in later tend to be Democratic ballots, which is not a surprise.",
+      "cn": "我的意思是，加州的做法和其他很多州非常不同。邮寄选票的方式也不同。我们在加州看到的一件事是，后来寄来的选票往往是民主党的选票，这并不奇怪。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But then so why wouldn't Raman be like, hey, everyone chill.",
+      "cn": "是的。但那么为什么拉曼不这样说呢，嘿，大家都冷静。"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "I thought it was strange.",
+      "cn": "我觉得这很奇怪。"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "I thought it was strange that she gave that kind of a speech, as opposed to, let's all wait and see.",
+      "cn": "我觉得她发表那种演讲很奇怪，而不是说，我们都等等看。"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "I think she missed the mark and probably got, you know, I think it -- look, election night is crazy. And if you're not winning, clearly you just want it to end and be over. CARI CHAMPION, HOST, \"FLAGRANT AND FUNNY\": That is what I thought. I thought the narrative got to her.",
+      "cn": "我觉得她没说到点子上，可能还 --  -- 你知道，我觉得 --  -- 你看，选举之夜本来就乱糟糟的。如果你没赢，你显然只想让它赶紧结束。主持人卡里·钱皮恩（《明目张胆又搞笑》）：我也是这么想的。我觉得她被舆论影响了。"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "Yes, I think that's right.",
+      "cn": "是的，我也这么认为。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "I think that's what happened. I think the narrative of perhaps this Spencer Pratt being someone that people were really excited about, and it's usually those who can't vote for mayor in",
+      "cn": "我觉得事情就是这样。也许是因为斯宾塞·普拉特这个人让大家都很兴奋，而通常那些不能投票选市长的人 --  --"
+    },
+    {
+      "speaker": "Champion",
+      "text": "Because I am a California resident. I vote --",
+      "cn": "因为我是加州居民。我投票 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, he was the internet's mayor for a week.",
+      "cn": "是的，他当了一周的互联网市长。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Mamdani was the internet's mayor last fall.",
+      "cn": "马姆达尼去年秋天是互联网市长。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "Exactly. Exactly. (CROSS TALK)",
+      "cn": "没错，没错。（交叉对话）"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Won our hearts with vigorous use of A.I. When I look at the L.A. voter breakdown, he was winning areas, you're talking about Westside, Pacific Palisades, which makes sense. He was fighting for their issue around rebuilding after the fires.",
+      "cn": "他通过积极使用人工智能赢得了我们的心。当我查看洛杉矶的选民分布时，他在一些地区获胜，比如西区、太平洋帕利塞兹，这说得通。他一直在为他们灾后重建的问题而奋斗。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You've got Karen Bass getting south of L.A., south of Santa Monica Freeway. Nithya Raman, Echo Park, Hollywood, to Highland Park.",
+      "cn": "凯伦·巴斯赢得了洛杉矶南部、圣莫尼卡高速公路以南的地区。尼提亚·拉曼赢得了回声公园、好莱坞到高地公园。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The reason why it -- yes, it makes sense, right, for California here.",
+      "cn": "原因在于 --  -- 是的，这说得通，对吧，对加州来说。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "It makes perfect sense.",
+      "cn": "这完全说得通。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I think the reason why I wanted to ask is because we're in this weird situation now where we're like, oh, this heavily Democratic city went to Democrats. Scandal. Skepticism. You know what I mean? And I feel like when I look at the Texas race, I'm not like, there should be bigger numbers here for the DSA. It's like, well, it kind of is breaking down the way the overall voter rolls break down.",
+      "cn": "我想问这个问题的原因是，我们现在处于一种奇怪的境地：哦，这个民主党占绝对优势的城市投给了民主党。丑闻。怀疑。你懂我的意思吗？当我看到得克萨斯州的选举时，我并不觉得民主社会主义者应该在这里获得更大的票数。而是觉得，这基本上是在按照整体选民登记的方式在分化。"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "And it's interesting for the president to be kind of so, you know, animated, to put it mildly, about the mayor's race when in the governor's race you're probably most likely going to have a Republican and a Democrat. So --",
+      "cn": "有趣的是，总统对市长选举如此激动 --  -- 说得客气点 --  -- 而在州长选举中，很可能最终是共和党人和民主党人对决。所以 --  --"
+    },
+    {
+      "speaker": "Champion",
+      "text": "Yes, which is why Hilton's like, it's fine to me. No big deal.",
+      "cn": "是的，这就是为什么希尔顿说，对我来说没问题。没什么大不了的。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "Everything looks good here.",
+      "cn": "这里一切看起来都很好。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "How will people -- I just want to give the last word to you, Brianna, because you are bringing this up. We're in a moment where you've got several states fighting Trump and fighting his DOJ on having to turn over their voter rolls. The administration has a new initiative where they say, look, states, we want everybody's unredacted voter rolls, names, birth dates, all the things. We're going to check it against a database we have.",
+      "cn": "人们会怎样 --  -- 布里安娜，我想把最后发言权给你，因为是你提出这个问题的。我们现在正处于这样一个时刻：有几个州正在与特朗普及其司法部抗争，拒绝交出选民名单。政府有一项新举措，他们说，各州听着，我们要所有人的未经编辑的选民名单、姓名、出生日期等等。我们要用我们的数据库来核对。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And there are some states who are saying, yes, and some states that are like, wait, that's not legal. Under the Constitution, states deal with voter rolls. Is his talking about California really about this fight?",
+      "cn": "有些州表示同意，而有些州则说，等等，这不合法。根据宪法，各州负责选民名单。他谈论加州是否真的与这场斗争有关？"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "Well, I think so. And actually, when it comes to voter rolls, so under HAV (ph) and HAVA, which are 2001 and 2004 election, federal election laws, states do have to comply with federal election voter roll audits.",
+      "cn": "嗯，我认为是的。实际上，关于选民名单，根据2001年和2004年选举的联邦选举法HAV和HAVA，各州必须遵守联邦选举选民名单审计。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "California is one of those states that said, I am not going to comply. And I do think there is reason for people to question California's audit rules (ph). For example, in California, you're supposed to provide your driver's license identification number and your Social Security Number when registering to vote, which neither one of them necessarily guarantees a check citizenship, but it's a pretty decent check.",
+      "cn": "加州是那些表示不会遵守的州之一。我确实认为人们有理由质疑加州的审计规则。例如，在加州，你在登记投票时应该提供驾照身份证号码和社会安全号码，这两者都不一定能保证核查公民身份，但这是一个相当不错的核查手段。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "But in California, if you are unable to provide either of those documents, you can actually provide proof of identity to register to vote with something as simple as a gym membership.",
+      "cn": "但在加州，如果你无法提供这些文件中的任何一个，你实际上可以提供身份证明来登记投票，比如一张健身房会员卡这么简单的东西。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "What kind of you, you know, rigger roll (ph) do you go through?",
+      "cn": "你会经历什么样的，你知道，绳索滚动（音）？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And so far they have not reported widespread fraud when they've done their audits."
+    },
+    {
+      "speaker": "Lyman",
+      "text": "Well, they're also not -- they 're also -- right, but they're also not letting the federal government check their audits. So, I think that's a concern that people have.",
+      "cn": "嗯，他们也没有 --  -- 他们也没有 --  -- 对，但他们也不让联邦政府检查他们的审计。所以，我认为这是人们担心的一个问题。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Absolutely. And I think -- the reason why I'm not addressing it now is because it's before the courts, right?",
+      "cn": "当然。我认为 --  -- 我现在不讨论它的原因是因为它正在法院审理中，对吧？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Actively asking whether or not the government has the right to ask for it.",
+      "cn": "正在积极质疑政府是否有权要求提供这些信息。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And the extent of information they do, and to use that to check against a database with known flaws, right? Because then you're kicking people off the rolls based on a database that isn't working so well. So, this story is not going to go away.",
+      "cn": "以及他们掌握的信息范围，并用这些信息去对照一个已知有缺陷的数据库，对吧？因为那样你就会基于一个运行不佳的数据库把人们从名单上剔除。所以，这件事不会就这么过去。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Even though it sounds like it's just about California's races. Next on CNN THIS MORNING, Hunter Biden has been out talking a lot, and now he's really clapping back. We're going to ask why? Why now? Plus, there's this.",
+      "cn": "尽管听起来这似乎只是关于加州的竞选。接下来在CNN《今晨》节目中，亨特·拜登最近频频发声，现在他真的在回击。我们将问为什么？为什么是现在？另外，还有这个。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "We can't afford it. We can't -- we'd rather stay home and just watch the game.",
+      "cn": "我们负担不起。我们 --  -- 我们宁愿待在家里看比赛。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Staggering prices. The ugly cost of the beautiful game.",
+      "cn": "惊人的价格。美丽足球的丑陋代价。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Hunter Biden, my guy, a natural born poster, a beacon of light in a dark world.",
+      "cn": "亨特·拜登，我的伙计，天生的海报男孩，黑暗世界中的一束光。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Hunter Biden is proof that you can't hurt somebody's feelings if they are 100 percent honest about who they are.",
+      "cn": "亨特·拜登证明了，如果一个人对自己百分百诚实，你就无法伤害他的感情。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "When they go low, we go Hunter Biden. And I will not be explaining any further.",
+      "cn": "当他们走低时，我们就走亨特·拜登路线。我不会再做任何解释。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I can't do better than that. Hunter Biden has entered the chat. The son of the former president, Joe Biden, has become the clapback king online after reactivating his X account. His posts are a mix of political attacks, hitting back at critics, personal reflection and addressing his past addictions and controversies.",
+      "cn": "我做不到比这更好。亨特·拜登加入了聊天。这位前总统乔·拜登的儿子在重新激活他的X账户后，成为了网络上的反击之王。他的帖子混合了政治攻击、回击批评者、个人反思以及处理他过去的成瘾和争议。"
+    },
+    {
+      "speaker": "Hunter Biden",
+      "text": "I know there's going to be a lot of haters, a lot of trolls, a lot of people saying really, really awful things. But I've heard it all before. It doesn't even faze me. I promise you. I know who I am. I know what I've done. I know the amends that I need to make.",
+      "cn": "我知道会有很多仇恨者，很多网络喷子，很多人说非常非常糟糕的话。但我以前都听过。这甚至不会让我感到不安。我向你保证。我知道我是谁。我知道我做了什么。我知道我需要弥补什么。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Hunter's reshaping of his image comes at the same time his stepmother, former First Lady Jill Biden, is getting mixed reviews from her post-White House memoir, where she shares her view of the 2024 election. Some Democrats say it's reopening old political wounds. I don't know who to start with here. Cari, who actually went, oh, when you were watching that, or Christine, who maybe has more doubts. More doubts. Why do people have political comebacks? Like, where are they effective? Where are they not?",
+      "cn": "亨特重塑形象的同时，他的继母、前第一夫人吉尔·拜登因其白宫后的回忆录收到了褒贬不一的评价，她在书中分享了她对2024年大选的看法。一些民主党人说这重新揭开了旧的政治伤疤。我不知道该从谁开始。卡里，她实际上去了，哦，当你看到那个的时候，或者克里斯汀，她可能更有疑虑。更多疑虑。为什么人们要政治复出？他们在哪里有效？在哪里无效？"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "Well, when you're Hunter Biden and your father had to, you know, pardon you for everything you may ever think, do or possibly have done, comeback, it should not be in your vocabulary. Keep your head down. Hope that people forget. That should be in your vocabulary.",
+      "cn": "嗯，当你是亨特·拜登，你的父亲不得不赦免你可能想过、做过或可能做过的一切时，复出不应该是你词汇表中的词。保持低调。希望人们忘记。那才应该是你词汇表中的词。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "See, that is the least American thing you could say.",
+      "cn": "看，这是你能说的最不美国的话。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "That's the least of what -- yes.",
+      "cn": "那是最不 --  -- 是的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We love a second act (ph).",
+      "cn": "我们喜欢第二幕。"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "But as a Democrat, I -- as a Democrat, I do not need Hunter Biden out there reminding people.",
+      "cn": "但作为一名民主党人，我 --  -- 作为一名民主党人，我不需要亨特·拜登在那里提醒人们。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "Oh, no. Oh, no. I totally -- I totally disagree with that. And I think it goes very much to what we were talking about earlier. We were talking about what was going on in Maine. I think people really enjoy the fact that he is so authentic, almost to the point where it's embarrassing. And yes, he is reopening probably perhaps some new -- old wounds, but he's saying, so what? This is what it is. What do you do when someone -- you say, you know what, you really are a horrible human. You're right. I am.",
+      "cn": "哦不，哦不。我完全 --  -- 我完全不同意这一点。而且我认为这非常符合我们之前讨论的内容。我们之前谈到缅因州发生的事情。我认为人们真的很喜欢他如此真实，甚至到了令人尴尬的地步。是的，他可能正在重新揭开一些新的 --  -- 旧的伤疤，但他在说，那又怎样？事实就是如此。当有人说，你知道吗，你真是个可怕的人。你会怎么做？你说，你说得对，我就是。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "There's no response to that. Like, and I'm not saying that he's a horrible human, but I'm like, there's just --",
+      "cn": "对此没有回应。我不是说他是个可怕的人，但我觉得，只是 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, yes, yes. Although that lady was. That was --",
+      "cn": "是的，是的，是的。虽然那位女士是。那是 --  --"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "Yes, she was. Right.",
+      "cn": "是的，她是。没错。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "(INAUDIBLE) compliment I've ever heard.",
+      "cn": "（听不清）我听过的最好的赞美。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, you said no Democrats want him back. But I can think of some people do.",
+      "cn": "所以，你说没有民主党人希望他回来。但我觉得有些人确实希望。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This is Hunter Biden on the Candace Owens podcast.",
+      "cn": "这是亨特·拜登在坎迪斯·欧文斯的播客上说的。"
+    },
+    {
+      "speaker": "Hunter Biden",
+      "text": "But they had a problem with me as being this emblematic emblem of corruption. These guys, OK, Don Junior got the single largest loan guarantee from the Department of Defense ever handed out of over $600 million for an energy company, a fusion energy company, of which he has zero, zero experience in it.",
+      "cn": "但他们认为我是腐败的象征。这些人，好吧，小唐纳德从国防部获得了有史以来最大的一笔贷款担保，超过6亿美元，用于一家能源公司，一家聚变能源公司，而他对此毫无经验。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Brianna, I think it's interesting that he is relitigating some of these issues direct into the lifeblood of the media ecosystem on the right. He's not going to any random place, right? He's going to Candace Owens, who's in the middle of a massive brawl, so to speak, with TPUSA. He's talking about Epstein. He's talking about things that this particular world of people agree with him on.",
+      "cn": "布里安娜，我觉得有趣的是，他正在重新讨论这些问题，直接进入右翼媒体生态系统的命脉。他没有去任何随机的地方，对吧？他去了坎迪斯·欧文斯那里，她正与TPUSA发生一场大规模争吵。他在谈论爱泼斯坦。他在谈论这个特定群体的人与他意见一致的事情。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "Well, I think, first of all, I think Hunter Biden coming back into the limelight, this is a way to kind of sanitize the public image of himself that I think he himself had tarnished for a few years.",
+      "cn": "嗯，我认为，首先，亨特·拜登重新回到聚光灯下，这是一种净化自己公众形象的方式，我认为这个形象是他自己过去几年玷污的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But why would Candace Owens sanitize it?",
+      "cn": "但坎迪斯·欧文斯为什么要粉饰它呢？"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "Candace Owens -- well, Candace Owens has been platforming people that have spewed stuff that is egregiously false and controversial and insulting to a lot of people, and I don't think she's someone that should be platformed. So, I'm not going to take any -- I'm going to take this interview with a grain of salt. I think when it comes to Hunter Biden, I will say, something that appeals to younger people is that level of honesty.",
+      "cn": "坎迪斯·欧文斯 --  -- 嗯，坎迪斯·欧文斯一直在给那些散布极其虚假、有争议且侮辱很多人言论的人提供平台，我认为她不应该被给予平台。所以，我不会全信 --  -- 我会对这次采访持保留态度。我认为当谈到亨特·拜登时，我会说，那种坦诚对年轻人有吸引力。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "You know, he said, look, if those were my drugs at the White House, you think I'd leave them there?",
+      "cn": "你知道，他说，看，如果那些是我的毒品在白宫，你觉得我会把它们留在那里吗？"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "And it's very reminiscent of when Charlie Sheen had said, if there are drugs -- (CROSS TALK)",
+      "cn": "这让人想起查理·辛曾说过，如果房子里有毒品 --  -- （交叉对话）"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "He was like, if there are drugs in the house I'm going to find them. That was Charlie Sheen years ago. And that's kind of become an internet meme. So, I think Hunter Biden is trying to reestablish himself and maybe in part because he does see himself as needing some kind of online support base in order to have a future career. I think he said he's opening a Substack soon. So, he wants to garner -- CHAMPION OK. Who doesn't have a Substack?",
+      "cn": "他当时说，如果房子里有毒品，我会找到它们。那是多年前的查理·辛。这几乎成了一个网络梗。所以，我认为亨特·拜登试图重塑自己，部分原因可能是他觉得自己需要某种在线支持基础才能有未来的职业生涯。他说他很快会开一个Substack。所以，他想获得 --  -- 冠军OK。谁没有Substack呢？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Next you're going to say he has a podcast.",
+      "cn": "好吧。接下来你就要说他有个播客了。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "But he wants to -- he wants to garner that -- that big audience.",
+      "cn": "但他想 --  -- 他想获得那个 --  -- 那个庞大的受众。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You think it's laying the ground for something else?",
+      "cn": "你认为这是在为别的事情打基础吗？"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "I think he's laying the ground for a future career.",
+      "cn": "我认为他是在为未来的职业生涯打基础。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This is like the Serena Williams Olympics thesis over here.",
+      "cn": "这就像塞雷娜·威廉姆斯的奥运论文一样。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "Right. He's not -- and, by the way, he's not even managing our expectations. He's letting us know that people he's going to be that problematic fave, as they say.",
+      "cn": "没错。他不是 --  -- 而且，顺便说一句，他甚至不是在管理我们的预期。他是在让我们知道，他将成为那种所谓的\"问题最爱\"。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "And people will enjoy it and they'll go to him and they're like, I don't know why I enjoy it, but I simply do.",
+      "cn": "人们会喜欢他，会去找他，然后说，我不知道为什么喜欢，但就是喜欢。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. I want to turn to our group chats because in mine are all the family in the Cornish Hen WhatsApp group. They're not loving these World Cup prices. It's a problem. They are very unhappy.",
+      "cn": "好的。我想聊聊我们的群聊，因为在我的Cornish Hen WhatsApp群里，全是家人。他们不喜欢这些世界杯的价格。这是个问题。他们非常不满。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Before we get to yours, what's the deal? Like, are people just going to have to suck it up?",
+      "cn": "在聊你的群之前，先说说怎么回事？比如，人们是不是只能忍气吞声？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Or is FIFA creating long term engendering frustration?",
+      "cn": "还是国际足联在制造长期的挫败感？"
+    },
+    {
+      "speaker": "Champion",
+      "text": "No, I think -- and I hate to even bring up, you know, game three last night, those prices were astronomically ridiculous. And let me tell you, just side note, Spurs, this is what the Spurs have done. They have season ticket holders who have these courtside seats and they've been reselling them on the second market -- secondary market to other players, other people, like the Knicks.",
+      "cn": "不，我觉得 --  -- 我甚至不想提昨晚的第三场比赛，那些价格高得离谱。而且我跟你说，顺便提一句，马刺队，这就是马刺队做的。他们有季票持有者拥有这些场边座位，然后他们在二级市场上转售给其他球员、其他人，比如尼克斯队。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "The Spurs have revoked those memberships and revoked those season ticket holders because they want to give them -- they're making a point here. Look, this is ridiculous. The prices are out of control.",
+      "cn": "马刺队已经吊销了那些会员资格和季票持有权，因为他们想表明一个立场。听着，这太荒谬了。价格失控了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, there are things they can do?",
+      "cn": "所以，他们可以采取一些措施？"
+    },
+    {
+      "speaker": "Champion",
+      "text": "There are things you can do. But for the most part we're just going to -- if you really want to see it, this is every so often it's here. People are going to pay.",
+      "cn": "可以采取一些措施。但大多数情况下，我们只能 --  -- 如果你真的想看，这种机会不常有。人们会付钱的。"
+    },
+    {
+      "speaker": "Ok. Champion",
+      "text": "People have saved up all -- you have no choice. You just have no choice.",
+      "cn": "人们攒了钱 --  -- 你别无选择。就是别无选择。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I know. It's what the market will (ph) bear.",
+      "cn": "我知道。这就是市场能承受的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, Christine, what's in your group chat?",
+      "cn": "好的，克里斯汀，你的群聊里有什么？"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "Well, this past weekend, Thursday and Friday actually of last week, I went to the two kickoff concerts for the Bruce Springsteen Center for American Music.",
+      "cn": "嗯，上个周末，实际上是上周四和周五，我去了布鲁斯·斯普林斯汀美国音乐中心的两场开幕音乐会。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We're -- whoa, wait, Bruce Springsteen has a museum?",
+      "cn": "我们 --  -- 哇，等等，布鲁斯·斯普林斯汀有个博物馆？"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "Monmouth University. Yes. It just opened at Monmouth University, down the shore in Jersey. And it's obviously about him, but more broadly it's about the history of American music. And this concert was fascinating because they went from the Revolutionary War to the present, kind of decade by decade.",
+      "cn": "蒙茅斯大学。是的。它刚刚在蒙茅斯大学开放，位于泽西海岸。显然博物馆是关于他的，但更广泛地说，是关于美国音乐的历史。这场音乐会非常吸引人，因为他们从独立战争一直演到现在，差不多每十年一个阶段。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What? For Bruce Springsteen?",
+      "cn": "什么？为了布鲁斯·斯普林斯汀？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Is this his presidential library?",
+      "cn": "这是他的总统图书馆吗？"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "It was kind of like that.",
+      "cn": "有点像。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What's happening here?",
+      "cn": "这里发生了什么？"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "It was kind of like that, but it was uplifting and exciting.",
+      "cn": "有点像，但令人振奋和激动。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, I take it. .I'll take time land cleanse from you, Christine. Brianna, what are you thinking about? What's going on in the group chat?",
+      "cn": "好的，我接受。克里斯汀，我会从你那里进行土地净化。布里安娜，你在想什么？群聊里在聊什么？"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "Well, she brought up the Revolution. My family knows I bog them every single day with history stuff. And this week is very important in America 250.",
+      "cn": "嗯，她提到了革命。我的家人知道我每天都会跟他们讲历史知识。而这一周对美国250周年来说非常重要。"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "Robert E. Lee had introduced -- or Richard Henry Lee had introduced a motion just on June 8th which said that the colony should call for independence. And this next week you will see the committee of five appointed on June 11th Thursday, which is when Thomas Jefferson was assigned to write the Declaration of Independence. And then we'll see, in about two and a half weeks from now, they actually vote on that declaration on July 2nd. So, I've been reminding --",
+      "cn": "罗伯特·E·李 --  -- 或者说理查德·亨利·李 --  -- 在6月8日提出了一项动议，主张殖民地应该呼吁独立。接下来的一周，你会看到6月11日星期四任命了五人委员会，托马斯·杰斐逊被指派起草《独立宣言》。然后大约再过两周半，也就是7月2日，他们将对这份宣言进行投票。所以我一直在提醒 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You're doing a timeline. You're doing these --",
+      "cn": "你在做时间线。你在做这些 --  --"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "A whole -- every -- my parents know about it every day.",
+      "cn": "整整 --  -- 每一天 --  -- 我父母都知道。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I like it. I like it.",
+      "cn": "我喜欢。我喜欢。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Also, I've been trying to find ways to celebrate the 250 that are not from the government.",
+      "cn": "另外，我一直在寻找非政府途径来庆祝250周年。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Like, there's just ways to look into your own history and share that with family and friends. What are you thinking about?",
+      "cn": "比如，可以探索自己的历史，并与家人朋友分享。你在想什么？"
+    },
+    {
+      "speaker": "Champion",
+      "text": "Well, I wasn't -- this wasn't in my group chat, but since she said it, for 250 anniversary, a group of friends, we have decided to write our own Declaration of Independence.",
+      "cn": "嗯，我的群聊里没有这个，但既然她提到了，为了250周年纪念，我们一群朋友决定写自己的《独立宣言》。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "And it's a group of us, a large group rather. And we all have decided, let me tell you what I am independent of. And so mine has been, just as a black woman here in the United States of America, I removed the mask of trying to fit in to something that I can't fit into. And I write down all the different things that I'm declaring for myself. And it's more of an affirmation so that I know that I can push forward. And all of us have done something like that. Something where we --",
+      "cn": "我们一群人，其实是一大群人。我们都决定，让我告诉你我独立于什么。对我来说，作为美国的一名黑人女性，我摘掉了试图融入我不可能融入的环境的面具。我写下了所有我为自己宣告的不同事物。这更像是一种肯定，让我知道自己可以向前迈进。我们所有人都做了类似的事情。一些让我们 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's amazing. That is a great idea.",
+      "cn": "太棒了。这是个好主意。"
+    },
+    {
+      "speaker": "Champion",
+      "text": "Yes, where we -- it really is.",
+      "cn": "是的，我们 --  -- 确实如此。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And also, if you write it on a scroll, in a -- (CROSS TALK)",
+      "cn": "而且，如果你把它写在卷轴上，在 --  -- （交叉对话）"
+    },
+    {
+      "speaker": "Lyman",
+      "text": "In a Chrome Pad (ph).",
+      "cn": "在Chrome Pad上。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In the Bruce Springsteen Museum of American History.",
+      "cn": "在布鲁斯·斯普林斯汀美国历史博物馆。"
+    },
+    {
+      "speaker": "Quinn",
+      "text": "Exactly. Exactly. And it all goes together.",
+      "cn": "没错。没错。这一切都融为一体。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You guys are a fantastic group. I'm so glad to be with you. Thank you for waking up with us. We have plenty more headlines. So, please, stick around. I'm Audie Cornish. And you're going to be listening to CNC, \"NEWS CENTRAL,\" next. var CNN = CNN || {};",
+      "cn": "你们是一群很棒的人。很高兴和你们在一起。谢谢你们和我们一起醒来。我们还有更多头条新闻。所以，请继续关注。我是奥蒂·科尼什。接下来你将收听CNC的《新闻中心》。"
+    }
+  ]
+}
