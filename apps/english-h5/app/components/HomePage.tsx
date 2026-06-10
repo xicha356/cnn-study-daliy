@@ -83,7 +83,7 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
             <h1 className="text-lg font-black text-text">cnn 新闻精读</h1>
           </div>
         </Link>
-        <ThemeToggle />
+        <ThemeToggle compact />
       </header>
 
       <section className="safe-x pt-7">
