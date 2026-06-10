@@ -20,6 +20,7 @@ import type {
   StudyArticle,
   VocabularyItem,
 } from "@study/core/types";
+import { orderVocabularyByArticle } from "@study/core/vocabulary";
 import { GlobalAudioPlayer } from "@study/ui/GlobalAudioPlayer";
 import Link from "next/link";
 import {
@@ -356,14 +357,19 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
     [article.date, article.title, articleList],
   );
 
+  const orderedVocabulary = useMemo(
+    () => orderVocabularyByArticle(article),
+    [article],
+  );
+
   const vocabByText = useMemo(() => {
     return new Map(
-      article.vocabulary.map((item) => [item.word.toLowerCase(), item]),
+      orderedVocabulary.map((item) => [item.word.toLowerCase(), item]),
     );
-  }, [article.vocabulary]);
+  }, [orderedVocabulary]);
 
   const vocabPattern = useMemo(() => {
-    const words = article.vocabulary
+    const words = orderedVocabulary
       .map((item) => item.word.trim())
       .filter(Boolean)
       .sort((left, right) => right.length - left.length);
@@ -371,11 +377,11 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
     return words.length
       ? new RegExp(`(${words.map(escapeRegExp).join("|")})`, "gi")
       : null;
-  }, [article.vocabulary]);
+  }, [orderedVocabulary]);
 
   const firstParagraphIdByWord = useMemo(() => {
     return new Map(
-      article.vocabulary.map((item) => {
+      orderedVocabulary.map((item) => {
         const matcher = new RegExp(escapeRegExp(item.word), "i");
         const paragraph = article.paragraphs.find((entry) =>
           matcher.test(entry.en),
@@ -384,7 +390,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
         return [item.word, paragraph?.id || null];
       }),
     );
-  }, [article.paragraphs, article.vocabulary]);
+  }, [article.paragraphs, orderedVocabulary]);
 
   function showWord(item: VocabularyItem) {
     void playAudioUrl(item.audioUrl, {
@@ -415,16 +421,20 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
     }
 
     const cached = getWordMeaning(cleanWord);
-    void speakWordText(cleanWord, cached || "查询中...");
+    const audioPromise = speakWordText(cleanWord, cached || "查询中...");
 
     if (cached) return;
 
     try {
       const cn = await requestBrowserTranslation(cleanWord);
-      setWordMeaning(cleanWord, cn);
-      updateGlobalAudioMetadata({ description: cn || "暂无释义" });
+      const description = cn || "暂无释义";
+      setWordMeaning(cleanWord, description);
+      updateGlobalAudioMetadata({ description });
+      void audioPromise.then(() => updateGlobalAudioMetadata({ description }));
     } catch {
-      updateGlobalAudioMetadata({ description: "释义查询失败，请稍后再试" });
+      const description = "释义查询失败，请稍后再试";
+      updateGlobalAudioMetadata({ description });
+      void audioPromise.then(() => updateGlobalAudioMetadata({ description }));
     }
   }
 
@@ -769,7 +779,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
 
             {activeTab === "vocabulary" && (
               <div className="grid gap-4">
-                {article.vocabulary.map((item) => (
+                {orderedVocabulary.map((item) => (
                   <article
                     key={item.word}
                     id={vocabId(item.word)}
@@ -956,7 +966,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
           <aside className="sticky top-24 h-[calc(100vh-7rem)] overflow-y-auto rounded-md border border-line bg-panel p-4 shadow-sm scrollbar-soft">
             <h2 className="text-sm font-semibold text-text">词汇索引</h2>
             <div className="mt-4 grid gap-2">
-              {article.vocabulary.map((item) => (
+              {orderedVocabulary.map((item) => (
                 <div
                   key={item.word}
                   className="grid grid-cols-[minmax(0,1fr)_auto] gap-2"

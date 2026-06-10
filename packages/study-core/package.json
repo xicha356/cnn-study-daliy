@@ -9,7 +9,8 @@
     "./storage": "./src/storage.ts",
     "./translation": "./src/translation.ts",
     "./audio": "./src/audio.ts",
-    "./seo": "./src/seo.ts"
+    "./seo": "./src/seo.ts",
+    "./vocabulary": "./src/vocabulary.ts"
   },
   "scripts": {
     "build": "tsc --noEmit",

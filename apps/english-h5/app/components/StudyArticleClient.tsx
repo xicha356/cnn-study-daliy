@@ -17,6 +17,7 @@ import type {
   StudyArticle,
   VocabularyItem,
 } from "@study/core/types";
+import { orderVocabularyByArticle } from "@study/core/vocabulary";
 import { AudioButton } from "@study/ui/AudioButton";
 import { GlobalAudioPlayer } from "@study/ui/GlobalAudioPlayer";
 import Link from "next/link";
@@ -139,9 +140,14 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const longPressTimer = useRef<number | null>(null);
   const wordPressPoint = useRef<{ x: number; y: number } | null>(null);
 
+  const orderedVocabulary = useMemo(
+    () => orderVocabularyByArticle(article),
+    [article],
+  );
+
   const vocabularyMatcher = useMemo(
-    () => buildVocabularyMatcher(article.vocabulary),
-    [article.vocabulary],
+    () => buildVocabularyMatcher(orderedVocabulary),
+    [orderedVocabulary],
   );
 
   useEffect(() => {
@@ -220,7 +226,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     if (!cleanWord) return;
 
     const normalized = cleanWord.toLowerCase();
-    const vocab = article.vocabulary.find(
+    const vocab = orderedVocabulary.find(
       (item) => item.word.toLowerCase() === normalized,
     );
     setWordPulseKey(pulseKey);
@@ -241,26 +247,30 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     });
     if (tipTimer.current) window.clearTimeout(tipTimer.current);
     tipTimer.current = window.setTimeout(() => setActiveVocab(null), 5000);
-    void speakWordText(cleanWord, cached || "查询中...");
+    const audioPromise = speakWordText(cleanWord, cached || "查询中...");
 
     if (cached) return;
 
     try {
       const cn = await requestBrowserTranslation(cleanWord);
-      setWordMeaning(cleanWord, cn);
+      const description = cn || "暂无释义";
+      setWordMeaning(cleanWord, description);
       setActiveVocab((current) =>
         current?.word.toLowerCase() === normalized
-          ? { ...current, cn: cn || "暂无释义", loading: false }
+          ? { ...current, cn: description, loading: false }
           : current,
       );
-      updateGlobalAudioMetadata({ description: cn || "暂无释义" });
+      updateGlobalAudioMetadata({ description });
+      void audioPromise.then(() => updateGlobalAudioMetadata({ description }));
     } catch {
+      const description = "释义查询失败，请稍后再试";
       setActiveVocab((current) =>
         current?.word.toLowerCase() === normalized
-          ? { ...current, cn: "释义查询失败，请稍后再试", loading: false }
+          ? { ...current, cn: description, loading: false }
           : current,
       );
-      updateGlobalAudioMetadata({ description: "释义查询失败，请稍后再试" });
+      updateGlobalAudioMetadata({ description });
+      void audioPromise.then(() => updateGlobalAudioMetadata({ description }));
     }
   }
 
@@ -784,7 +794,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
 
         {activeTab === "vocabulary" ? (
           <section className="space-y-3">
-            {article.vocabulary.map((vocab) => (
+            {orderedVocabulary.map((vocab) => (
               <article
                 key={vocab.word}
                 className="rounded-[8px] border border-line bg-panel p-4"
@@ -996,7 +1006,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                 </button>
               </div>
               <div className="max-h-[calc(72dvh-4rem)] overflow-y-auto px-4 py-3">
-                {article.vocabulary.map((vocab) => (
+                {orderedVocabulary.map((vocab) => (
                   <div
                     key={vocab.word}
                     className="flex items-center gap-3 border-b border-line py-3 last:border-b-0"
