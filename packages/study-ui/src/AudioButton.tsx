@@ -11,6 +11,10 @@ import { cn } from "./utils";
 
 type AudioState = "idle" | "loading" | "playing";
 
+function getPlayerTitle(label: string) {
+  return label.replace(/^Play\s+/i, "").replace(/^播放\s*/, "").trim() || label;
+}
+
 export function AudioButton({
   url,
   label = "播放音频",
@@ -48,7 +52,7 @@ export function AudioButton({
     try {
       setState("loading");
       const ok = await playAudioUrl(url, {
-        title: label,
+        title: getPlayerTitle(label),
         subtitle,
         description,
         kind: "Audio",

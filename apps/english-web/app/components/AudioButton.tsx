@@ -25,6 +25,10 @@ const statusIcon: Record<AudioStatus, string> = {
   error: "!",
 };
 
+function getPlayerTitle(label: string) {
+  return label.replace(/^Play\s+/i, "").replace(/^播放\s*/, "").trim() || label;
+}
+
 export function AudioButton({
   url,
   label = "Play audio",
@@ -58,7 +62,7 @@ export function AudioButton({
     try {
       setStatus("loading");
       const ok = await playAudioUrl(url, {
-        title: label,
+        title: getPlayerTitle(label),
         subtitle,
         description,
         kind: "Audio",
