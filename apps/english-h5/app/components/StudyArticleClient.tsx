@@ -61,6 +61,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const [isSheetMounted, setIsSheetMounted] = useState(false);
   const [pulseParagraphId, setPulseParagraphId] = useState("");
   const [ttsLoadingKey, setTtsLoadingKey] = useState("");
+  const [pendingSentenceKey, setPendingSentenceKey] = useState("");
   const [quizAnswers, setQuizAnswers] = useState<Record<number, number>>({});
 
   const paragraphRefs = useRef<Record<string, HTMLElement | null>>({});
@@ -161,6 +162,17 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       title: word,
       onState: (state) => {
         setTtsLoadingKey(state === "loading" ? normalized : "");
+      },
+    });
+  }
+
+  async function speakSentenceText(text: string, key: string) {
+    await playTtsText(text, {
+      cacheKey: `sentence:${key}`,
+      kind: "Sentence",
+      title: "Sentence reading",
+      onState: (state) => {
+        setPendingSentenceKey(state === "loading" ? key : "");
       },
     });
   }
@@ -588,39 +600,53 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
 
         {activeTab === "sentences" ? (
           <section className="space-y-3">
-            {article.sentences.map((sentence, index) => (
-              <article
-                key={`${sentence.en}-${index}`}
-                className="rounded-[8px] border border-line bg-panel p-4"
-              >
-                <div className="flex items-center justify-between gap-3">
-                  <span className="text-xs font-black text-brand">
-                    S{index + 1}
-                  </span>
-                  <AudioButton
-                    className="h-8 w-8 rounded-full"
-                    label="Play sentence"
-                    url={sentence.audioUrl}
-                  />
-                </div>
-                <p className="mt-3 text-base font-black leading-7 text-text">
-                  {sentence.en}
-                </p>
-                <p className="mt-3 text-sm font-semibold leading-7 text-sub">
-                  {sentence.cn}
-                </p>
-                {sentence.structure ? (
-                  <p className="mt-3 rounded-[8px] bg-muted p-3 text-sm leading-6 text-text">
-                    {sentence.structure}
+            {article.sentences.map((sentence, index) => {
+              const sentenceKey = `${article.date}:${index}`;
+              const isLoading = pendingSentenceKey === sentenceKey;
+              return (
+                <article
+                  key={`${sentence.en}-${index}`}
+                  className="rounded-[8px] border border-line bg-panel p-4"
+                >
+                  <div className="flex items-center justify-between gap-3">
+                    <span className="text-xs font-black text-brand">
+                      S{index + 1}
+                    </span>
+                    <button
+                      aria-label="Play sentence"
+                      className="inline-flex h-8 w-8 items-center justify-center rounded-full border border-line bg-panel text-xs font-black text-sub transition hover:border-brand hover:bg-brandSoft hover:text-brand"
+                      onClick={() => {
+                        void speakSentenceText(sentence.en, sentenceKey);
+                      }}
+                      title="Play sentence"
+                      type="button"
+                    >
+                      {isLoading ? (
+                        <span className="h-3.5 w-3.5 animate-spin rounded-full border-2 border-current border-t-transparent" />
+                      ) : (
+                        "▶"
+                      )}
+                    </button>
+                  </div>
+                  <p className="mt-3 text-base font-black leading-7 text-text">
+                    {sentence.en}
                   </p>
-                ) : null}
-                {sentence.analysis ? (
-                  <p className="mt-2 text-sm leading-6 text-sub">
-                    {sentence.analysis}
+                  <p className="mt-3 text-sm font-semibold leading-7 text-sub">
+                    {sentence.cn}
                   </p>
-                ) : null}
-              </article>
-            ))}
+                  {sentence.structure ? (
+                    <p className="mt-3 rounded-[8px] bg-muted p-3 text-sm leading-6 text-text">
+                      {sentence.structure}
+                    </p>
+                  ) : null}
+                  {sentence.analysis ? (
+                    <p className="mt-2 text-sm leading-6 text-sub">
+                      {sentence.analysis}
+                    </p>
+                  ) : null}
+                </article>
+              );
+            })}
           </section>
         ) : null}
 

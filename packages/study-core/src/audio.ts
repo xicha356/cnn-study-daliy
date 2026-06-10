@@ -1,4 +1,4 @@
-export const DEFAULT_PLAYBACK_RATE = 0.7;
+export const DEFAULT_PLAYBACK_RATE = 1;
 const SPEED_STORAGE_KEY = "cnn-study-audio-speed";
 const LOOP_STORAGE_KEY = "cnn-study-audio-loop";
 

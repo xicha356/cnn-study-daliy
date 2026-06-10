@@ -2,7 +2,7 @@ export const runtime = "nodejs";
 
 const DEFAULT_VOICE_ID = "pNInz6obpgDQGcFmaJgB";
 const DEFAULT_MODEL_ID = "eleven_flash_v2_5";
-const DEFAULT_SPEED = 0.7;
+const DEFAULT_SPEED = 1;
 const MAX_TEXT_LENGTH = 1200;
 
 function clampSpeed(value: unknown) {

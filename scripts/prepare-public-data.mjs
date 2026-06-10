@@ -81,8 +81,7 @@ function normalizeArticle(file) {
       phonetic: cleanText(item.phonetic),
       pos: cleanText(item.pos),
       level: cleanText(
-        item.level ||
-          [item.usage, item.difficulty].filter(Boolean).join(" · "),
+        item.level || [item.usage, item.difficulty].filter(Boolean).join(" · "),
       ),
       usage: cleanText(item.usage),
       difficulty: cleanText(item.difficulty),
@@ -98,7 +97,6 @@ function normalizeArticle(file) {
       cn: cleanText(item.cn),
       structure: cleanText(item.structure),
       analysis: cleanText(item.analysis),
-      audioUrl: normalizeAudioUrl(item.audio_url),
     })),
     topics: data.topics || [],
     quiz: data.quiz || [],
@@ -120,10 +118,7 @@ function validateArticle(article) {
 }
 
 function hasAudio(article) {
-  return (
-    article.vocabulary.some((item) => item.audioUrl) ||
-    article.sentences.some((item) => item.audioUrl)
-  );
+  return article.vocabulary.some((item) => item.audioUrl);
 }
 
 mkdirSync(publicArticles, { recursive: true });

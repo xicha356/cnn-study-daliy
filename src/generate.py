@@ -20,6 +20,7 @@ ELEVENLABS_OUTPUT_FORMAT = os.environ.get('ELEVENLABS_OUTPUT_FORMAT', 'mp3_44100
 DEEPSEEK_MAX_TOKENS = int(os.environ.get('DEEPSEEK_MAX_TOKENS', '8192'))
 MAX_VOCAB_ITEMS = int(os.environ.get('MAX_VOCAB_ITEMS', '50'))
 MAX_SENTENCE_ITEMS = int(os.environ.get('MAX_SENTENCE_ITEMS', '30'))
+MIN_SENTENCE_ITEMS = int(os.environ.get('MIN_SENTENCE_ITEMS', '20'))
 OUTPUT_DIR       = Path('output')
 AUDIO_DIR        = OUTPUT_DIR / 'audio'
 OUTPUT_DIR.mkdir(exist_ok=True)
@@ -164,14 +165,8 @@ def ensure_vocab_audio(data: dict, date_str: str) -> bool:
     return ensure_audio_for_items(data, date_str, 'vocabulary', 'word', 'audio_url', 'vocab')
 
 
-def ensure_sentence_audio(data: dict, date_str: str) -> bool:
-    return ensure_audio_for_items(data, date_str, 'sentences', 'en', 'audio_url', 'sentences')
-
-
 def ensure_all_audio(data: dict, date_str: str) -> bool:
-    changed = ensure_vocab_audio(data, date_str)
-    changed = ensure_sentence_audio(data, date_str) or changed
-    return changed
+    return ensure_vocab_audio(data, date_str)
 
 
 def cap_unique_items(data: dict, key: str, unique_field: str, limit: int) -> bool:
@@ -203,6 +198,12 @@ def enforce_study_item_limits(data: dict) -> bool:
     changed = cap_unique_items(data, 'vocabulary', 'word', MAX_VOCAB_ITEMS)
     changed = cap_unique_items(data, 'sentences', 'en', MAX_SENTENCE_ITEMS) or changed
     return changed
+
+
+def assert_generated_sentence_count(data: dict) -> None:
+    count = len(data.get('sentences') or [])
+    if count < MIN_SENTENCE_ITEMS:
+        raise RuntimeError(f'长难句数量不足：{count}，需要至少 {MIN_SENTENCE_ITEMS} 个')
 
 
 def normalize_vocab_taxonomy(data: dict) -> bool:
@@ -498,7 +499,7 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 严格要求：
 - vocabulary：按全文实际难词/重点短语抽取，不硬凑，最多{MAX_VOCAB_ITEMS}个；优先选择影响理解的新闻词、学术词、高频短语、固定搭配、熟词僻义和语境关键词；excerpt字段必须是文稿中真实存在的原文片段
 - vocabulary 不要使用四级、六级、考研、专四、专八等考试标签；必须使用 usage、difficulty、domain 三类标签。difficulty 规则：基础=日常高频但在语境中值得掌握；进阶=新闻/抽象表达常见但非日常口语；高阶=专业术语、政策法律金融军事等领域词或低频高信息量表达
-- sentences：按全文实际长难句抽取，不硬凑，最多{MAX_SENTENCE_ITEMS}个；优先选择从句多、插入语多、逻辑关系复杂、新闻压缩表达明显或适合精读训练的完整原句
+- sentences：必须返回{MIN_SENTENCE_ITEMS}-{MAX_SENTENCE_ITEMS}个长难句；优先选择从句多、插入语多、逻辑关系复杂、新闻压缩表达明显或适合精读训练的完整原句；不要选择短句或简单寒暄句凑数，但本篇新闻稿必须至少给出{MIN_SENTENCE_ITEMS}个可讲解句子
 - topics：4个话题
 - quiz：6道（前3词汇，后3理解）"""
 
@@ -651,6 +652,7 @@ def main():
     data['date']       = actual_date
     data['source_url'] = source_url
     enforce_study_item_limits(data)
+    assert_generated_sentence_count(data)
     normalize_vocab_taxonomy(data)
     ensure_paragraph_translations(data)
     ensure_all_audio(data, actual_date)

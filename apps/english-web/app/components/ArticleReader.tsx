@@ -246,6 +246,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
   const [pendingParagraphId, setPendingParagraphId] = useState<string | null>(
     null,
   );
+  const [pendingSentenceKey, setPendingSentenceKey] = useState("");
   const [highlightedParagraphId, setHighlightedParagraphId] = useState<
     string | null
   >(null);
@@ -355,6 +356,17 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
       title: word,
       onState: (state) => {
         setTtsLoadingKey(state === "loading" ? normalized : "");
+      },
+    });
+  }
+
+  async function speakSentenceText(text: string, key: string) {
+    await playTtsText(text, {
+      cacheKey: `sentence:${key}`,
+      kind: "Sentence",
+      title: "Sentence reading",
+      onState: (state) => {
+        setPendingSentenceKey(state === "loading" ? key : "");
       },
     });
   }
@@ -669,32 +681,50 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
 
             {activeTab === "sentences" && (
               <div className="grid gap-4">
-                {article.sentences.map((item) => (
-                  <article
-                    key={item.en}
-                    className="rounded-md border border-line bg-panel p-5 shadow-sm"
-                  >
-                    <div className="flex items-start justify-between gap-4">
-                      <h2 className="text-lg font-semibold leading-7 text-text">
-                        {item.en}
-                      </h2>
-                      <AudioButton url={item.audioUrl} label="Play sentence" />
-                    </div>
-                    <p className="mt-3 text-base leading-7 text-sub">
-                      {item.cn}
-                    </p>
-                    {item.structure && (
-                      <p className="mt-4 rounded-md bg-muted p-3 text-sm leading-6 text-text">
-                        {item.structure}
+                {article.sentences.map((item, index) => {
+                  const sentenceKey = `${article.date}:${index}`;
+                  const isLoading = pendingSentenceKey === sentenceKey;
+                  return (
+                    <article
+                      key={item.en}
+                      className="rounded-md border border-line bg-panel p-5 shadow-sm"
+                    >
+                      <div className="flex items-start justify-between gap-4">
+                        <h2 className="text-lg font-semibold leading-7 text-text">
+                          {item.en}
+                        </h2>
+                        <button
+                          aria-label="Play sentence"
+                          className="inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-md border border-line bg-panel text-sm font-bold text-sub transition hover:border-brand hover:bg-brandSoft hover:text-brand"
+                          onClick={() => {
+                            void speakSentenceText(item.en, sentenceKey);
+                          }}
+                          title="Play sentence"
+                          type="button"
+                        >
+                          {isLoading ? (
+                            <span className="h-4 w-4 animate-spin rounded-full border-2 border-current border-t-transparent" />
+                          ) : (
+                            "▶"
+                          )}
+                        </button>
+                      </div>
+                      <p className="mt-3 text-base leading-7 text-sub">
+                        {item.cn}
                       </p>
-                    )}
-                    {item.analysis && (
-                      <p className="mt-3 text-sm leading-6 text-sub">
-                        {item.analysis}
-                      </p>
-                    )}
-                  </article>
-                ))}
+                      {item.structure && (
+                        <p className="mt-4 rounded-md bg-muted p-3 text-sm leading-6 text-text">
+                          {item.structure}
+                        </p>
+                      )}
+                      {item.analysis && (
+                        <p className="mt-3 text-sm leading-6 text-sub">
+                          {item.analysis}
+                        </p>
+                      )}
+                    </article>
+                  );
+                })}
               </div>
             )}
 
