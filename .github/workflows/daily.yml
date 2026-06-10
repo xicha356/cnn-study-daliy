@@ -101,6 +101,7 @@ jobs:
             mkdir -p "$VERCEL_AUTH_DIR"
             printf '%s' "$VERCEL_AUTH_JSON_B64" | base64 -d > "$VERCEL_AUTH_DIR/auth.json"
             VERCEL_AUTH_FLAGS=(--global-config "$VERCEL_AUTH_DIR")
+            unset VERCEL_TOKEN
           elif [ -n "$VERCEL_TOKEN" ]; then
             VERCEL_AUTH_FLAGS=(--token "$VERCEL_TOKEN")
           else
@@ -126,6 +127,7 @@ jobs:
             mkdir -p "$VERCEL_AUTH_DIR"
             printf '%s' "$VERCEL_AUTH_JSON_B64" | base64 -d > "$VERCEL_AUTH_DIR/auth.json"
             VERCEL_AUTH_FLAGS=(--global-config "$VERCEL_AUTH_DIR")
+            unset VERCEL_TOKEN
           elif [ -n "$VERCEL_TOKEN" ]; then
             VERCEL_AUTH_FLAGS=(--token "$VERCEL_TOKEN")
           else
