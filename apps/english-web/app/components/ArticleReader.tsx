@@ -3,9 +3,11 @@
 import { playAudioUrl, playTtsText } from "@study/core/audio";
 import {
   getParagraphTranslation,
+  getWordMeaning,
   isArticleStudied,
   markArticleStudied,
   setParagraphTranslation,
+  setWordMeaning,
 } from "@study/core/storage";
 import { requestBrowserTranslation } from "@study/core/translation";
 import type {
@@ -49,6 +51,7 @@ type WordToast = {
   difficulty?: string;
   domain?: string;
   audioUrl?: string;
+  loading?: boolean;
 };
 
 const tabs: { key: TabKey; label: string }[] = [
@@ -87,6 +90,44 @@ function getSelectedEnglishWord() {
   return match?.[0] || "";
 }
 
+function cleanEnglishWord(value: string) {
+  return value.match(/[A-Za-z][A-Za-z'-]*/)?.[0] || "";
+}
+
+function buildArticleCopyText(article: StudyArticle) {
+  return [
+    article.title,
+    article.date,
+    "",
+    article.summary,
+    "",
+    ...article.paragraphs.map((paragraph) =>
+      [paragraph.speaker, paragraph.en].filter(Boolean).join(": "),
+    ),
+  ].join("\n");
+}
+
+async function copyText(value: string) {
+  const text = value.trim();
+  if (!text) return false;
+
+  try {
+    await window.navigator.clipboard.writeText(text);
+    return true;
+  } catch {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "true");
+    textarea.style.position = "fixed";
+    textarea.style.opacity = "0";
+    document.body.appendChild(textarea);
+    textarea.select();
+    const copied = document.execCommand("copy");
+    document.body.removeChild(textarea);
+    return copied;
+  }
+}
+
 function getSidebarTitle(title: string, date: string) {
   return title
     .replace(new RegExp(`\\s*[·-]\\s*${escapeRegExp(date)}\\s*[·-]\\s*`), " · ")
@@ -100,6 +141,8 @@ function ParagraphBlock({
   highlighted,
   onSpeak,
   onSpeakWord,
+  onCopy,
+  copied,
   paragraph,
   renderText,
 }: {
@@ -107,8 +150,10 @@ function ParagraphBlock({
   highlighted: boolean;
   onSpeak: (text: string) => Promise<void> | void;
   onSpeakWord: (word: string) => Promise<void> | void;
+  onCopy: (text: string, id: string) => Promise<void> | void;
+  copied: boolean;
   paragraph: Paragraph;
-  renderText: (text: string) => ReactNode;
+  renderText: (text: string, paragraphId: string) => ReactNode;
 }) {
   const [showTranslation, setShowTranslation] = useState(false);
   const [translation, setTranslation] = useState(paragraph.cn || "");
@@ -197,6 +242,18 @@ function ParagraphBlock({
         <div className="flex shrink-0 items-center gap-2">
           <button
             type="button"
+            onClick={() => void onCopy(visibleText, paragraph.id)}
+            className={[
+              "focus-ring inline-flex h-9 w-9 items-center justify-center rounded-md border border-line bg-bg text-sm font-semibold text-sub transition hover:border-brand hover:text-brand",
+              copied ? "border-good bg-brand-soft text-good" : "",
+            ].join(" ")}
+            aria-label="Copy paragraph"
+            title="Copy paragraph"
+          >
+            <span aria-hidden>{copied ? "✓" : "⧉"}</span>
+          </button>
+          <button
+            type="button"
             onClick={readAloud}
             className={[
               "focus-ring inline-flex h-9 w-9 items-center justify-center rounded-md border border-line bg-bg text-sm font-semibold text-sub transition hover:border-brand hover:text-brand",
@@ -220,7 +277,7 @@ function ParagraphBlock({
         </div>
       </div>
       <p className="text-base leading-8 text-text">
-        {showTranslation ? visibleText : renderText(visibleText)}
+        {showTranslation ? visibleText : renderText(visibleText, paragraph.id)}
       </p>
       {error && <p className="mt-3 text-sm text-bad">{error}</p>}
     </article>
@@ -251,6 +308,8 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
     string | null
   >(null);
   const [ttsLoadingKey, setTtsLoadingKey] = useState("");
+  const [wordPulseKey, setWordPulseKey] = useState("");
+  const [copiedKey, setCopiedKey] = useState("");
   const [quizAnswers, setQuizAnswers] = useState<Record<number, number>>({});
 
   useEffect(() => {
@@ -346,6 +405,49 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
     });
   }
 
+  async function showPlainWordMeaning(word: string, pulseKey: string) {
+    const cleanWord = cleanEnglishWord(word);
+    if (!cleanWord) return;
+
+    const normalized = cleanWord.toLowerCase();
+    const vocab = vocabByText.get(normalized);
+    setWordPulseKey(pulseKey);
+    window.setTimeout(() => {
+      setWordPulseKey((current) => (current === pulseKey ? "" : current));
+    }, 360);
+
+    if (vocab) {
+      showWord(vocab);
+      return;
+    }
+
+    const cached = getWordMeaning(cleanWord);
+    setWordToast({
+      word: cleanWord,
+      cn: cached || "查询中...",
+      loading: !cached,
+    });
+    void speakWordText(cleanWord);
+
+    if (cached) return;
+
+    try {
+      const cn = await requestBrowserTranslation(cleanWord);
+      setWordMeaning(cleanWord, cn);
+      setWordToast((current) =>
+        current?.word.toLowerCase() === normalized
+          ? { ...current, cn: cn || "暂无释义", loading: false }
+          : current,
+      );
+    } catch {
+      setWordToast((current) =>
+        current?.word.toLowerCase() === normalized
+          ? { ...current, cn: "释义查询失败，请稍后再试", loading: false }
+          : current,
+      );
+    }
+  }
+
   async function speakWordText(word: string) {
     const normalized = word.trim().toLowerCase();
     if (!normalized) return;
@@ -371,24 +473,75 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
     });
   }
 
-  function renderHighlightedText(text: string): ReactNode {
-    if (!vocabPattern) return text;
+  function renderPlainText(text: string, paragraphId: string): ReactNode[] {
+    const parts: ReactNode[] = [];
+    let cursor = 0;
+    const wordPattern = /[A-Za-z][A-Za-z'-]*/g;
+
+    for (const match of text.matchAll(wordPattern)) {
+      const start = match.index || 0;
+      if (start > cursor) parts.push(text.slice(cursor, start));
+
+      const word = match[0];
+      const pulseKey = `${paragraphId}:${start}:${word.toLowerCase()}`;
+      parts.push(
+        <button
+          key={`plain-${pulseKey}`}
+          type="button"
+          onDoubleClick={(event) => {
+            event.preventDefault();
+            event.stopPropagation();
+            void showPlainWordMeaning(word, pulseKey);
+          }}
+          className={[
+            "inline cursor-pointer rounded px-0.5 text-left transition hover:bg-brand-soft hover:text-brand",
+            wordPulseKey === pulseKey
+              ? "word-pop bg-brand-soft text-brand"
+              : "",
+          ].join(" ")}
+          title="Double click to hear and translate"
+        >
+          {word}
+        </button>,
+      );
+      cursor = start + word.length;
+    }
+
+    if (cursor < text.length) parts.push(text.slice(cursor));
+    return parts;
+  }
+
+  function renderHighlightedText(text: string, paragraphId: string): ReactNode {
+    if (!vocabPattern) return renderPlainText(text, paragraphId);
 
     return text.split(vocabPattern).map((part, index) => {
       const vocab = vocabByText.get(part.toLowerCase());
-      if (!vocab) return part;
+      if (!vocab) return renderPlainText(part, `${paragraphId}:${index}`);
+
+      const pulseKey = `${paragraphId}:vocab:${index}:${part.toLowerCase()}`;
 
       return (
         <button
           key={`${part}-${index}`}
-          onClick={() => showWord(vocab)}
+          onClick={() => {
+            setWordPulseKey(pulseKey);
+            window.setTimeout(() => {
+              setWordPulseKey((current) =>
+                current === pulseKey ? "" : current,
+              );
+            }, 360);
+            showWord(vocab);
+          }}
           onDoubleClick={(event) => {
             event.preventDefault();
             event.stopPropagation();
-            void speakWordText(part);
+            void showPlainWordMeaning(part, pulseKey);
           }}
           type="button"
-          className="focus-ring mx-0.5 inline-flex items-center gap-1 rounded bg-brand-soft px-1 py-0.5 font-semibold text-brand"
+          className={[
+            "focus-ring mx-0.5 inline-flex cursor-pointer items-center gap-1 rounded bg-brand-soft px-1 py-0.5 font-semibold text-brand transition",
+            wordPulseKey === pulseKey ? "word-pop" : "",
+          ].join(" ")}
         >
           {part}
           {ttsLoadingKey === vocab.word.toLowerCase() ? (
@@ -405,6 +558,25 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
   function markStudied() {
     markArticleStudied(article.date);
     setStudied(true);
+  }
+
+  async function copyArticle() {
+    if (await copyText(buildArticleCopyText(article))) {
+      setCopiedKey("article");
+      window.setTimeout(() => {
+        setCopiedKey((current) => (current === "article" ? "" : current));
+      }, 1400);
+    }
+  }
+
+  async function copyParagraph(text: string, id: string) {
+    if (await copyText(text)) {
+      const key = `paragraph:${id}`;
+      setCopiedKey(key);
+      window.setTimeout(() => {
+        setCopiedKey((current) => (current === key ? "" : current));
+      }, 1400);
+    }
   }
 
   function jumpToVocabularyUse(item: VocabularyItem) {
@@ -437,10 +609,28 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
               </p>
             </div>
             <div className="flex items-center gap-2">
-              <AudioButton
-                url={wordToast.audioUrl}
-                label={`播放 ${wordToast.word}`}
-              />
+              {wordToast.loading ? (
+                <span
+                  aria-hidden
+                  className="h-4 w-4 animate-spin rounded-full border-2 border-brand border-t-transparent"
+                />
+              ) : null}
+              {wordToast.audioUrl ? (
+                <AudioButton
+                  url={wordToast.audioUrl}
+                  label={`播放 ${wordToast.word}`}
+                />
+              ) : (
+                <button
+                  type="button"
+                  onClick={() => void speakWordText(wordToast.word)}
+                  className="focus-ring inline-flex h-9 w-9 items-center justify-center rounded-md border border-line bg-bg text-sm font-semibold text-sub transition hover:border-brand hover:text-brand"
+                  aria-label={`播放 ${wordToast.word}`}
+                  title={`播放 ${wordToast.word}`}
+                >
+                  <span aria-hidden>▶</span>
+                </button>
+              )}
               <span className="rounded bg-brand-soft px-2 py-1 text-xs font-medium text-brand">
                 5秒
               </span>
@@ -538,6 +728,20 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
               </h1>
             </div>
             <div className="flex shrink-0 items-center gap-3">
+              <button
+                type="button"
+                onClick={() => void copyArticle()}
+                className={[
+                  "focus-ring inline-flex h-10 w-10 items-center justify-center rounded-md border border-line bg-panel text-sm font-semibold text-sub transition hover:border-brand hover:text-brand",
+                  copiedKey === "article"
+                    ? "border-good bg-brand-soft text-good"
+                    : "",
+                ].join(" ")}
+                aria-label="Copy full article"
+                title="Copy full article"
+              >
+                <span aria-hidden>{copiedKey === "article" ? "✓" : "⧉"}</span>
+              </button>
               <a
                 href={article.sourceUrl}
                 target="_blank"
@@ -600,6 +804,8 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                     highlighted={highlightedParagraphId === paragraph.id}
                     onSpeak={speakParagraphText}
                     onSpeakWord={speakWordText}
+                    onCopy={copyParagraph}
+                    copied={copiedKey === `paragraph:${paragraph.id}`}
                     paragraph={paragraph}
                     renderText={renderHighlightedText}
                   />

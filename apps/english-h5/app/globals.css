@@ -110,3 +110,23 @@ button {
 .paragraph-pulse {
   animation: paragraph-pulse 1.2s ease-out;
 }
+
+@keyframes word-pop {
+  0%,
+  100% {
+    transform: translateY(0) scale(1);
+  }
+  45% {
+    transform: translateY(-1px) scale(1.08);
+  }
+}
+
+.word-pop {
+  animation: word-pop 360ms ease-out;
+}
+
+.touch-callout-none {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}

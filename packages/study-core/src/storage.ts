@@ -2,6 +2,7 @@ import type { VocabStatus } from "./types";
 
 const VOCAB_PREFIX = "cnn_vocab_status:";
 const TRANSLATION_PREFIX = "cnn_para_cn:";
+const WORD_MEANING_PREFIX = "cnn_word_cn:";
 const STUDIED_PREFIX = "cnn_article_studied:";
 const THEME_KEY = "cnn_theme";
 
@@ -41,6 +42,14 @@ export function setParagraphTranslation(
   cn: string,
 ): void {
   safeSet(`${TRANSLATION_PREFIX}${articleDate}:${paragraphId}`, cn);
+}
+
+export function getWordMeaning(word: string): string {
+  return safeGet(WORD_MEANING_PREFIX + word.trim().toLowerCase());
+}
+
+export function setWordMeaning(word: string, cn: string): void {
+  safeSet(WORD_MEANING_PREFIX + word.trim().toLowerCase(), cn);
 }
 
 export function markArticleStudied(date: string): void {

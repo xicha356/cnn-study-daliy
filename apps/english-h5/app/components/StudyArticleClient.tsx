@@ -3,7 +3,9 @@
 import { playAudioUrl, playTtsText } from "@study/core/audio";
 import {
   getParagraphTranslation,
+  getWordMeaning,
   setParagraphTranslation,
+  setWordMeaning,
 } from "@study/core/storage";
 import { requestBrowserTranslation } from "@study/core/translation";
 import type {
@@ -21,6 +23,10 @@ import { ThemeToggle } from "./ThemeToggle";
 
 type TabKey = "original" | "translation" | "vocabulary" | "sentences" | "quiz";
 
+type WordTip = VocabularyItem & {
+  loading?: boolean;
+};
+
 const tabs: Array<{ key: TabKey; label: string }> = [
   { key: "original", label: "原文" },
   { key: "translation", label: "翻译" },
@@ -35,6 +41,44 @@ function shortTitle(title: string) {
 
 function isLetter(value: string | undefined) {
   return Boolean(value && /[A-Za-z]/.test(value));
+}
+
+function cleanEnglishWord(value: string) {
+  return value.match(/[A-Za-z][A-Za-z'-]*/)?.[0] || "";
+}
+
+function buildArticleCopyText(article: StudyArticle) {
+  return [
+    article.title,
+    article.date,
+    "",
+    article.summary,
+    "",
+    ...article.paragraphs.map((paragraph) =>
+      [paragraph.speaker, paragraph.en].filter(Boolean).join(": "),
+    ),
+  ].join("\n");
+}
+
+async function copyText(value: string) {
+  const text = value.trim();
+  if (!text) return false;
+
+  try {
+    await window.navigator.clipboard.writeText(text);
+    return true;
+  } catch {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "true");
+    textarea.style.position = "fixed";
+    textarea.style.opacity = "0";
+    document.body.appendChild(textarea);
+    textarea.select();
+    const copied = document.execCommand("copy");
+    document.body.removeChild(textarea);
+    return copied;
+  }
 }
 
 function buildVocabularyMatcher(vocabulary: VocabularyItem[]) {
@@ -56,12 +100,14 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     ),
   );
   const [loadingCn, setLoadingCn] = useState<Record<string, boolean>>({});
-  const [activeVocab, setActiveVocab] = useState<VocabularyItem | null>(null);
+  const [activeVocab, setActiveVocab] = useState<WordTip | null>(null);
   const [isSheetOpen, setIsSheetOpen] = useState(false);
   const [isSheetMounted, setIsSheetMounted] = useState(false);
   const [pulseParagraphId, setPulseParagraphId] = useState("");
+  const [wordPulseKey, setWordPulseKey] = useState("");
   const [ttsLoadingKey, setTtsLoadingKey] = useState("");
   const [pendingSentenceKey, setPendingSentenceKey] = useState("");
+  const [copiedKey, setCopiedKey] = useState("");
   const [quizAnswers, setQuizAnswers] = useState<Record<number, number>>({});
 
   const paragraphRefs = useRef<Record<string, HTMLElement | null>>({});
@@ -70,6 +116,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const sheetTimer = useRef<number | null>(null);
   const sheetFrame = useRef<number | null>(null);
   const longPressTimer = useRef<number | null>(null);
+  const wordPressPoint = useRef<{ x: number; y: number } | null>(null);
 
   const vocabularyMatcher = useMemo(
     () => buildVocabularyMatcher(article.vocabulary),
@@ -145,6 +192,53 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     }
   }
 
+  async function showPlainWordTip(word: string, pulseKey: string) {
+    const cleanWord = cleanEnglishWord(word);
+    if (!cleanWord) return;
+
+    const normalized = cleanWord.toLowerCase();
+    const vocab = article.vocabulary.find(
+      (item) => item.word.toLowerCase() === normalized,
+    );
+    setWordPulseKey(pulseKey);
+    window.setTimeout(() => {
+      setWordPulseKey((current) => (current === pulseKey ? "" : current));
+    }, 360);
+
+    if (vocab) {
+      showVocabTip(vocab, true);
+      return;
+    }
+
+    const cached = getWordMeaning(cleanWord);
+    setActiveVocab({
+      word: cleanWord,
+      cn: cached || "查询中...",
+      loading: !cached,
+    });
+    if (tipTimer.current) window.clearTimeout(tipTimer.current);
+    tipTimer.current = window.setTimeout(() => setActiveVocab(null), 5000);
+    void speakWordText(cleanWord);
+
+    if (cached) return;
+
+    try {
+      const cn = await requestBrowserTranslation(cleanWord);
+      setWordMeaning(cleanWord, cn);
+      setActiveVocab((current) =>
+        current?.word.toLowerCase() === normalized
+          ? { ...current, cn: cn || "暂无释义", loading: false }
+          : current,
+      );
+    } catch {
+      setActiveVocab((current) =>
+        current?.word.toLowerCase() === normalized
+          ? { ...current, cn: "释义查询失败，请稍后再试", loading: false }
+          : current,
+      );
+    }
+  }
+
   function readParagraphAloud(text: string) {
     void playTtsText(text, {
       kind: "Paragraph",
@@ -182,18 +276,52 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       window.clearTimeout(longPressTimer.current);
       longPressTimer.current = null;
     }
+    wordPressPoint.current = null;
   }
 
-  function startWordLongPress(event: PointerEvent<HTMLElement>, word: string) {
+  function startWordLongPress(
+    event: PointerEvent<HTMLElement>,
+    word: string,
+    pulseKey: string,
+  ) {
     if (event.pointerType === "mouse") return;
     const normalized = word.trim();
     if (!normalized) return;
     cancelWordLongPress();
+    wordPressPoint.current = { x: event.clientX, y: event.clientY };
     longPressTimer.current = window.setTimeout(() => {
       longPressTimer.current = null;
       window.navigator.vibrate?.(12);
-      void speakWordText(normalized);
+      void showPlainWordTip(normalized, pulseKey);
     }, 460);
+  }
+
+  function handleWordPressMove(event: PointerEvent<HTMLElement>) {
+    const point = wordPressPoint.current;
+    if (!point) return;
+    const moved = Math.hypot(event.clientX - point.x, event.clientY - point.y);
+    if (moved > 8) cancelWordLongPress();
+  }
+
+  async function copyArticle() {
+    if (await copyText(buildArticleCopyText(article))) {
+      window.navigator.vibrate?.(8);
+      setCopiedKey("article");
+      window.setTimeout(() => {
+        setCopiedKey((current) => (current === "article" ? "" : current));
+      }, 1400);
+    }
+  }
+
+  async function copyParagraph(text: string, id: string) {
+    if (await copyText(text)) {
+      window.navigator.vibrate?.(8);
+      const key = `paragraph:${id}`;
+      setCopiedKey(key);
+      window.setTimeout(() => {
+        setCopiedKey((current) => (current === key ? "" : current));
+      }, 1400);
+    }
   }
 
   function findParagraphForVocabulary(vocab: VocabularyItem) {
@@ -261,15 +389,29 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
         }
 
         const word = match[0];
+        const pulseKey = `plain-${plainIndex}-${start}-${word.toLowerCase()}`;
         parts.push(
           <span
-            key={`plain-${plainIndex}-${start}`}
-            onPointerDown={(event) => startWordLongPress(event, word)}
+            key={pulseKey}
+            onPointerDown={(event) => startWordLongPress(event, word, pulseKey)}
             onPointerUp={cancelWordLongPress}
             onPointerCancel={cancelWordLongPress}
             onPointerLeave={cancelWordLongPress}
+            onPointerMove={handleWordPressMove}
             onContextMenu={(event) => event.preventDefault()}
-            className="rounded px-0.5 transition active:bg-brandSoft active:text-brand"
+            onDoubleClick={(event) => {
+              event.preventDefault();
+              event.stopPropagation();
+              window.navigator.vibrate?.(8);
+              void showPlainWordTip(word, pulseKey);
+            }}
+            className={[
+              "touch-callout-none inline cursor-pointer select-none rounded px-0.5 transition active:bg-brandSoft active:text-brand",
+              wordPulseKey === pulseKey
+                ? "word-pop bg-brandSoft text-brand"
+                : "",
+            ].join(" ")}
+            title="Long press to hear and translate"
           >
             {word}
           </span>,
@@ -309,17 +451,30 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       }
 
       const value = text.slice(index, index + match.lowerWord.length);
+      const pulseKey = `vocab-${index}-${match.item.word.toLowerCase()}`;
       parts.push(
         <button
           type="button"
           key={`${match.item.word}-${index}`}
-          onClick={() => showVocabTip(match.item, true)}
+          onClick={() => {
+            setWordPulseKey(pulseKey);
+            window.setTimeout(() => {
+              setWordPulseKey((current) =>
+                current === pulseKey ? "" : current,
+              );
+            }, 360);
+            showVocabTip(match.item, true);
+          }}
           onDoubleClick={(event) => {
             event.preventDefault();
             event.stopPropagation();
-            void speakWordText(value);
+            void showPlainWordTip(value, pulseKey);
           }}
-          className="inline-flex items-center gap-1 rounded bg-brandSoft px-1 font-extrabold text-brand underline decoration-brand underline-offset-4"
+          onContextMenu={(event) => event.preventDefault()}
+          className={[
+            "touch-callout-none inline-flex cursor-pointer select-none items-center gap-1 rounded bg-brandSoft px-1 font-extrabold text-brand underline decoration-brand underline-offset-4",
+            wordPulseKey === pulseKey ? "word-pop" : "",
+          ].join(" ")}
         >
           {value}
           {ttsLoadingKey === match.item.word.toLowerCase() ? (
@@ -353,6 +508,20 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
               {shortTitle(article.title)}
             </h1>
           </div>
+          <button
+            type="button"
+            onClick={() => void copyArticle()}
+            aria-label="Copy full article"
+            title="Copy full article"
+            className={[
+              "tap-highlight flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-line bg-panel text-sm font-black text-sub transition active:scale-95",
+              copiedKey === "article" ? "border-good text-good" : "",
+            ].join(" ")}
+          >
+            <span aria-hidden="true">
+              {copiedKey === "article" ? "✓" : "⧉"}
+            </span>
+          </button>
           <ThemeToggle compact />
         </div>
       </header>
@@ -378,11 +547,29 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                 </p>
               </div>
               <div className="flex items-center gap-2">
-                <AudioButton
-                  className="h-8 w-8 rounded-full"
-                  label={`Play ${activeVocab.word}`}
-                  url={activeVocab.audioUrl}
-                />
+                {activeVocab.loading ? (
+                  <span
+                    aria-hidden="true"
+                    className="h-4 w-4 animate-spin rounded-full border-2 border-brand border-t-transparent"
+                  />
+                ) : null}
+                {activeVocab.audioUrl ? (
+                  <AudioButton
+                    className="h-8 w-8 rounded-full"
+                    label={`Play ${activeVocab.word}`}
+                    url={activeVocab.audioUrl}
+                  />
+                ) : (
+                  <button
+                    type="button"
+                    onClick={() => void speakWordText(activeVocab.word)}
+                    aria-label={`Play ${activeVocab.word}`}
+                    title={`Play ${activeVocab.word}`}
+                    className="h-8 w-8 rounded-full border border-line bg-panel text-xs font-black text-sub"
+                  >
+                    <span aria-hidden="true">▶</span>
+                  </button>
+                )}
                 <button
                   type="button"
                   onClick={() => setActiveVocab(null)}
@@ -467,6 +654,31 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                       P{index + 1}
                     </span>
                     <div className="flex items-center gap-2">
+                      <button
+                        type="button"
+                        onClick={() =>
+                          void copyParagraph(
+                            isShowingCn
+                              ? translation || "暂无翻译"
+                              : paragraph.en,
+                            paragraph.id,
+                          )
+                        }
+                        aria-label={`Copy paragraph ${index + 1}`}
+                        title={`Copy paragraph ${index + 1}`}
+                        className={[
+                          "inline-flex h-8 w-8 items-center justify-center rounded-full border border-line bg-panel text-xs font-black text-sub transition active:scale-95",
+                          copiedKey === `paragraph:${paragraph.id}`
+                            ? "border-good text-good"
+                            : "",
+                        ].join(" ")}
+                      >
+                        <span aria-hidden="true">
+                          {copiedKey === `paragraph:${paragraph.id}`
+                            ? "✓"
+                            : "⧉"}
+                        </span>
+                      </button>
                       <button
                         type="button"
                         onClick={() => void readParagraphAloud(paragraph.en)}
