@@ -15,6 +15,7 @@ import { AudioButton } from "@study/ui/AudioButton";
 import { GlobalAudioPlayer } from "@study/ui/GlobalAudioPlayer";
 import Link from "next/link";
 import type { MouseEvent } from "react";
+import type { PointerEvent } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { ReactNode } from "react";
 import { ThemeToggle } from "./ThemeToggle";
@@ -53,6 +54,51 @@ function getSelectedEnglishWord() {
   return match?.[0] || "";
 }
 
+function extractEnglishWordAtOffset(text: string, offset: number) {
+  if (!text) return "";
+  let cursor = Math.min(Math.max(offset, 0), text.length);
+  if (!/[A-Za-z'-]/.test(text[cursor] || "") && cursor > 0) cursor -= 1;
+  if (!/[A-Za-z'-]/.test(text[cursor] || "")) return "";
+
+  let start = cursor;
+  let end = cursor + 1;
+  while (start > 0 && /[A-Za-z'-]/.test(text[start - 1] || "")) start -= 1;
+  while (end < text.length && /[A-Za-z'-]/.test(text[end] || "")) end += 1;
+
+  return (
+    text.slice(start, end).match(/[A-Za-z][A-Za-z'-]*/)?.[0] || ""
+  ).replace(/^'+|'+$/g, "");
+}
+
+function getEnglishWordFromPoint(clientX: number, clientY: number) {
+  type RangeDocument = Document & {
+    caretRangeFromPoint?: (x: number, y: number) => Range | null;
+    caretPositionFromPoint?: (
+      x: number,
+      y: number,
+    ) => { offsetNode: Node; offset: number } | null;
+  };
+
+  const doc = document as RangeDocument;
+  const range = doc.caretRangeFromPoint?.(clientX, clientY);
+  if (range?.startContainer.nodeType === Node.TEXT_NODE) {
+    return extractEnglishWordAtOffset(
+      range.startContainer.textContent || "",
+      range.startOffset,
+    );
+  }
+
+  const position = doc.caretPositionFromPoint?.(clientX, clientY);
+  if (position?.offsetNode.nodeType === Node.TEXT_NODE) {
+    return extractEnglishWordAtOffset(
+      position.offsetNode.textContent || "",
+      position.offset,
+    );
+  }
+
+  return "";
+}
+
 export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const [activeTab, setActiveTab] = useState<TabKey>("original");
   const [visibleCn, setVisibleCn] = useState<Record<string, boolean>>({});
@@ -74,6 +120,16 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const tipTimer = useRef<number | null>(null);
   const sheetTimer = useRef<number | null>(null);
   const sheetFrame = useRef<number | null>(null);
+  const lastParagraphTap = useRef({
+    paragraphId: "",
+    time: 0,
+    clientX: 0,
+    clientY: 0,
+  });
+  const lastWordTap = useRef({
+    word: "",
+    time: 0,
+  });
 
   const vocabularyMatcher = useMemo(
     () => buildVocabularyMatcher(article.vocabulary),
@@ -134,11 +190,67 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     delete touchStartX.current[paragraph.id];
   }
 
-  function handleParagraphDoubleClick(event: MouseEvent<HTMLElement>) {
-    const word = getSelectedEnglishWord();
+  function speakWordFromEventPoint(
+    event: MouseEvent<HTMLElement> | PointerEvent<HTMLElement>,
+  ) {
+    const word =
+      getSelectedEnglishWord() ||
+      getEnglishWordFromPoint(event.clientX, event.clientY);
     if (!word) return;
     event.stopPropagation();
     void speakWordText(word);
+  }
+
+  function handleParagraphDoubleClick(event: MouseEvent<HTMLElement>) {
+    speakWordFromEventPoint(event);
+  }
+
+  function handleParagraphPointerUp(
+    event: PointerEvent<HTMLElement>,
+    paragraphId: string,
+  ) {
+    if (event.pointerType === "mouse") return;
+
+    const now = window.performance.now();
+    const previous = lastParagraphTap.current;
+    const isDoubleTap =
+      previous.paragraphId === paragraphId &&
+      now - previous.time < 360 &&
+      Math.abs(event.clientX - previous.clientX) < 18 &&
+      Math.abs(event.clientY - previous.clientY) < 18;
+
+    lastParagraphTap.current = {
+      paragraphId,
+      time: now,
+      clientX: event.clientX,
+      clientY: event.clientY,
+    };
+
+    if (isDoubleTap) {
+      event.preventDefault();
+      speakWordFromEventPoint(event);
+    }
+  }
+
+  function handleHighlightedWordPointerUp(
+    event: PointerEvent<HTMLButtonElement>,
+    word: string,
+  ) {
+    if (event.pointerType === "mouse") return;
+
+    const normalized = word.trim().toLowerCase();
+    const now = window.performance.now();
+    const previous = lastWordTap.current;
+    const isDoubleTap =
+      previous.word === normalized && now - previous.time < 360;
+
+    lastWordTap.current = { word: normalized, time: now };
+
+    if (isDoubleTap) {
+      event.preventDefault();
+      event.stopPropagation();
+      void speakWordText(word);
+    }
   }
 
   function showVocabTip(vocab: VocabularyItem, shouldPlayAudio = false) {
@@ -255,6 +367,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
             event.stopPropagation();
             void speakWordText(value);
           }}
+          onPointerUp={(event) => handleHighlightedWordPointerUp(event, value)}
           className="inline-flex items-center gap-1 rounded bg-brandSoft px-1 font-extrabold text-brand underline decoration-brand underline-offset-4"
         >
           {value}
@@ -386,6 +499,9 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                     )
                   }
                   onDoubleClick={handleParagraphDoubleClick}
+                  onPointerUp={(event) =>
+                    handleParagraphPointerUp(event, paragraph.id)
+                  }
                   className={[
                     "scroll-mt-36 rounded-[8px] border bg-panel p-4 transition",
                     pulseParagraphId === paragraph.id

@@ -79,31 +79,49 @@ jobs:
       - name: 部署 PC 到 Vercel
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_AUTH_JSON_B64: ${{ secrets.VERCEL_AUTH_JSON_B64 }}
           VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID || 'team_1bo68GKRsXoT2DiPBWHiD9NK' }}
           VERCEL_PROJECT_ID: ${{ vars.VERCEL_WEB_PROJECT_ID || 'prj_3cUbNdsi38fSX0bPXoZ5LZ8jOW6B' }}
         run: |
-          if [ -z "$VERCEL_TOKEN" ]; then
-            echo "::warning::未配置 VERCEL_TOKEN，跳过 PC Vercel 自动部署。"
+          VERCEL_AUTH_FLAGS=()
+          if [ -n "$VERCEL_AUTH_JSON_B64" ]; then
+            VERCEL_AUTH_DIR="$RUNNER_TEMP/vercel-auth-web"
+            mkdir -p "$VERCEL_AUTH_DIR"
+            printf '%s' "$VERCEL_AUTH_JSON_B64" | base64 -d > "$VERCEL_AUTH_DIR/auth.json"
+            VERCEL_AUTH_FLAGS=(--global-config "$VERCEL_AUTH_DIR")
+          elif [ -n "$VERCEL_TOKEN" ]; then
+            VERCEL_AUTH_FLAGS=(--token "$VERCEL_TOKEN")
+          else
+            echo "::warning::未配置 VERCEL_AUTH_JSON_B64 或 VERCEL_TOKEN，跳过 PC Vercel 自动部署。"
             exit 0
           fi
           mkdir -p .vercel
           printf '{"orgId":"%s","projectId":"%s"}' "$VERCEL_ORG_ID" "$VERCEL_PROJECT_ID" > .vercel/project.json
-          pnpm dlx vercel@54.10.2 pull --yes --environment production --token "$VERCEL_TOKEN" -A vercel.web.json
-          pnpm dlx vercel@54.10.2 build --prod --yes --token "$VERCEL_TOKEN" -A vercel.web.json
-          pnpm dlx vercel@54.10.2 deploy --prebuilt --prod --yes --token "$VERCEL_TOKEN" -A vercel.web.json
+          pnpm dlx vercel@54.10.2 pull --yes --environment production "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
+          pnpm dlx vercel@54.10.2 build --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
+          pnpm dlx vercel@54.10.2 deploy --prebuilt --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
 
       - name: 部署 H5 到 Vercel
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_AUTH_JSON_B64: ${{ secrets.VERCEL_AUTH_JSON_B64 }}
           VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID || 'team_1bo68GKRsXoT2DiPBWHiD9NK' }}
           VERCEL_PROJECT_ID: ${{ vars.VERCEL_H5_PROJECT_ID || 'prj_WHlzXhnhB5UjiJOoOOoS9yhyEq0T' }}
         run: |
-          if [ -z "$VERCEL_TOKEN" ]; then
-            echo "::warning::未配置 VERCEL_TOKEN，跳过 H5 Vercel 自动部署。"
+          VERCEL_AUTH_FLAGS=()
+          if [ -n "$VERCEL_AUTH_JSON_B64" ]; then
+            VERCEL_AUTH_DIR="$RUNNER_TEMP/vercel-auth-h5"
+            mkdir -p "$VERCEL_AUTH_DIR"
+            printf '%s' "$VERCEL_AUTH_JSON_B64" | base64 -d > "$VERCEL_AUTH_DIR/auth.json"
+            VERCEL_AUTH_FLAGS=(--global-config "$VERCEL_AUTH_DIR")
+          elif [ -n "$VERCEL_TOKEN" ]; then
+            VERCEL_AUTH_FLAGS=(--token "$VERCEL_TOKEN")
+          else
+            echo "::warning::未配置 VERCEL_AUTH_JSON_B64 或 VERCEL_TOKEN，跳过 H5 Vercel 自动部署。"
             exit 0
           fi
           mkdir -p .vercel
           printf '{"orgId":"%s","projectId":"%s"}' "$VERCEL_ORG_ID" "$VERCEL_PROJECT_ID" > .vercel/project.json
-          pnpm dlx vercel@54.10.2 pull --yes --environment production --token "$VERCEL_TOKEN" -A vercel.h5.json
-          pnpm dlx vercel@54.10.2 build --prod --yes --token "$VERCEL_TOKEN" -A vercel.h5.json
-          pnpm dlx vercel@54.10.2 deploy --prebuilt --prod --yes --token "$VERCEL_TOKEN" -A vercel.h5.json
+          pnpm dlx vercel@54.10.2 pull --yes --environment production "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json
+          pnpm dlx vercel@54.10.2 build --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json
+          pnpm dlx vercel@54.10.2 deploy --prebuilt --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json

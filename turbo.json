@@ -1,5 +1,6 @@
 {
   "$schema": "https://turbo.build/schema.json",
+  "globalDependencies": ["public/data/**", "public/audio/**"],
   "tasks": {
     "build": {
       "dependsOn": ["^build"],
