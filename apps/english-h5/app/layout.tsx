@@ -67,10 +67,10 @@ function ThemeScript() {
       var stored = window.localStorage.getItem('cnn_theme');
       var theme = stored === 'dark' || stored === 'light'
         ? stored
-        : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        : 'dark';
       document.documentElement.dataset.theme = theme;
     } catch (_) {
-      document.documentElement.dataset.theme = 'light';
+      document.documentElement.dataset.theme = 'dark';
     }
   `;
 
@@ -110,7 +110,7 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: ReactNode }>) {
   return (
-    <html lang="zh-CN" suppressHydrationWarning>
+    <html lang="zh-CN" data-theme="dark" suppressHydrationWarning>
       <body>
         <DeviceRedirectScript />
         <ThemeScript />

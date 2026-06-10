@@ -14,6 +14,7 @@ export type AudioPlayerState = {
   status: AudioPlayerStatus;
   title: string;
   subtitle: string;
+  description: string;
   src: string;
   currentTime: number;
   duration: number;
@@ -25,6 +26,7 @@ export type AudioPlayerState = {
 type PlayAudioOptions = {
   title?: string;
   subtitle?: string;
+  description?: string;
   kind?: string;
   playbackRate?: number;
 };
@@ -36,6 +38,7 @@ const initialPlayerState: AudioPlayerState = {
   status: "idle",
   title: "",
   subtitle: "",
+  description: "",
   src: "",
   currentTime: 0,
   duration: 0,
@@ -200,6 +203,15 @@ export function setGlobalAudioLoop(loop: boolean) {
   emitPlayerState({ loop });
 }
 
+export function updateGlobalAudioMetadata(
+  metadata: Partial<
+    Pick<AudioPlayerState, "title" | "subtitle" | "description">
+  >,
+) {
+  hydrateAudioSettings();
+  emitPlayerState(metadata);
+}
+
 export function seekGlobalAudio(time: number) {
   const audio = ensureAudio();
   if (!audio || !Number.isFinite(time)) return;
@@ -240,6 +252,7 @@ export function closeGlobalAudioPlayer() {
     status: "idle",
     title: "",
     subtitle: "",
+    description: "",
     src: "",
     currentTime: 0,
     duration: 0,
@@ -271,6 +284,7 @@ async function playResolvedSource(
       status: "loading",
       title: options.title || "Audio",
       subtitle: formatSubtitle(options),
+      description: options.description || "",
       src,
       currentTime: 0,
       duration: 0,
@@ -339,6 +353,7 @@ type TtsOptions = {
   playbackRate?: number;
   title?: string;
   subtitle?: string;
+  description?: string;
   kind?: string;
   onState?: (state: TtsState) => void;
 };
@@ -431,6 +446,7 @@ export async function playTtsText(
   const playOptions = {
     title: options.title || normalized,
     subtitle: options.subtitle || options.kind || "TTS",
+    description: options.description || "",
   };
 
   if (cached) {

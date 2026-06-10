@@ -82,15 +82,30 @@ function DeviceRedirectScript() {
   return <script dangerouslySetInnerHTML={{ __html: code }} />;
 }
 
+function ThemeScript() {
+  const code = `
+    try {
+      var stored = window.localStorage.getItem('cnn_theme');
+      document.documentElement.dataset.theme = stored === 'light' || stored === 'dark' ? stored : 'dark';
+    } catch (_) {
+      document.documentElement.dataset.theme = 'dark';
+    }
+  `;
+
+  // biome-ignore lint/security/noDangerouslySetInnerHtml: inline theme bootstrapping avoids a visible light/dark flash.
+  return <script dangerouslySetInnerHTML={{ __html: code }} />;
+}
+
 export default function RootLayout({
   children,
 }: Readonly<{
   children: ReactNode;
 }>) {
   return (
-    <html lang="zh-CN" data-theme="light">
+    <html lang="zh-CN" data-theme="dark" suppressHydrationWarning>
       <body>
         <DeviceRedirectScript />
+        <ThemeScript />
         {children}
       </body>
     </html>

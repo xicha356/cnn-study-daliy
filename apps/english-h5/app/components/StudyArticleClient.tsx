@@ -1,6 +1,10 @@
 "use client";
 
-import { playAudioUrl, playTtsText } from "@study/core/audio";
+import {
+  playAudioUrl,
+  playTtsText,
+  updateGlobalAudioMetadata,
+} from "@study/core/audio";
 import {
   getParagraphTranslation,
   getWordMeaning,
@@ -45,6 +49,23 @@ function isLetter(value: string | undefined) {
 
 function cleanEnglishWord(value: string) {
   return value.match(/[A-Za-z][A-Za-z'-]*/)?.[0] || "";
+}
+
+function getWordSubtitle(
+  item: Pick<
+    VocabularyItem,
+    "phonetic" | "pos" | "usage" | "level" | "difficulty" | "domain"
+  >,
+) {
+  return [
+    item.phonetic,
+    item.pos,
+    item.usage || item.level,
+    item.difficulty,
+    item.domain,
+  ]
+    .filter(Boolean)
+    .join(" · ");
 }
 
 function buildArticleCopyText(article: StudyArticle) {
@@ -186,8 +207,10 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       void playAudioUrl(vocab.audioUrl, {
         kind: "Word",
         title: vocab.word,
+        subtitle: getWordSubtitle(vocab),
+        description: vocab.cn,
       }).then((played) => {
-        if (!played) void speakWordText(vocab.word);
+        if (!played) void speakWordText(vocab.word, vocab.cn);
       });
     }
   }
@@ -218,7 +241,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     });
     if (tipTimer.current) window.clearTimeout(tipTimer.current);
     tipTimer.current = window.setTimeout(() => setActiveVocab(null), 5000);
-    void speakWordText(cleanWord);
+    void speakWordText(cleanWord, cached || "查询中...");
 
     if (cached) return;
 
@@ -230,12 +253,14 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
           ? { ...current, cn: cn || "暂无释义", loading: false }
           : current,
       );
+      updateGlobalAudioMetadata({ description: cn || "暂无释义" });
     } catch {
       setActiveVocab((current) =>
         current?.word.toLowerCase() === normalized
           ? { ...current, cn: "释义查询失败，请稍后再试", loading: false }
           : current,
       );
+      updateGlobalAudioMetadata({ description: "释义查询失败，请稍后再试" });
     }
   }
 
@@ -246,7 +271,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     });
   }
 
-  async function speakWordText(word: string) {
+  async function speakWordText(word: string, description = "") {
     const normalized = word.trim().toLowerCase();
     if (!normalized) return;
 
@@ -254,6 +279,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       cacheKey: `word:${normalized}`,
       kind: "Word",
       title: word,
+      description,
       onState: (state) => {
         setTtsLoadingKey(state === "loading" ? normalized : "");
       },
@@ -557,12 +583,16 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                   <AudioButton
                     className="h-8 w-8 rounded-full"
                     label={`Play ${activeVocab.word}`}
+                    subtitle={getWordSubtitle(activeVocab)}
+                    description={activeVocab.cn}
                     url={activeVocab.audioUrl}
                   />
                 ) : (
                   <button
                     type="button"
-                    onClick={() => void speakWordText(activeVocab.word)}
+                    onClick={() =>
+                      void speakWordText(activeVocab.word, activeVocab.cn)
+                    }
                     aria-label={`Play ${activeVocab.word}`}
                     title={`Play ${activeVocab.word}`}
                     className="h-8 w-8 rounded-full border border-line bg-panel text-xs font-black text-sub"
@@ -802,6 +832,8 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                   <AudioButton
                     className="h-8 w-8 shrink-0 rounded-full"
                     label={`Play ${vocab.word}`}
+                    subtitle={getWordSubtitle(vocab)}
+                    description={vocab.cn}
                     url={vocab.audioUrl}
                   />
                 </div>
@@ -993,6 +1025,8 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                     <AudioButton
                       className="h-8 w-8 shrink-0 rounded-full"
                       label={`Play ${vocab.word}`}
+                      subtitle={getWordSubtitle(vocab)}
+                      description={vocab.cn}
                       url={vocab.audioUrl}
                     />
                   </div>

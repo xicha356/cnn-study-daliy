@@ -1,6 +1,10 @@
 "use client";
 
-import { playAudioUrl, playTtsText } from "@study/core/audio";
+import {
+  playAudioUrl,
+  playTtsText,
+  updateGlobalAudioMetadata,
+} from "@study/core/audio";
 import {
   getParagraphTranslation,
   getWordMeaning,
@@ -41,19 +45,6 @@ type TabKey =
   | "background"
   | "quiz";
 
-type WordToast = {
-  word: string;
-  cn: string;
-  phonetic?: string;
-  pos?: string;
-  level?: string;
-  usage?: string;
-  difficulty?: string;
-  domain?: string;
-  audioUrl?: string;
-  loading?: boolean;
-};
-
 const tabs: { key: TabKey; label: string }[] = [
   { key: "transcript", label: "全文稿" },
   { key: "translation", label: "全文翻译" },
@@ -88,6 +79,23 @@ function getSelectedEnglishWord() {
   const selected = window.getSelection()?.toString().trim() || "";
   const match = selected.match(/[A-Za-z][A-Za-z'-]*/);
   return match?.[0] || "";
+}
+
+function getWordSubtitle(
+  item: Pick<
+    VocabularyItem,
+    "phonetic" | "pos" | "usage" | "level" | "difficulty" | "domain"
+  >,
+) {
+  return [
+    item.phonetic,
+    item.pos,
+    item.usage || item.level,
+    item.difficulty,
+    item.domain,
+  ]
+    .filter(Boolean)
+    .join(" · ");
 }
 
 function cleanEnglishWord(value: string) {
@@ -298,7 +306,6 @@ async function speakParagraphText(
 export function ArticleReader({ article, articleList }: ArticleReaderProps) {
   const [activeTab, setActiveTab] = useState<TabKey>("transcript");
   const [sidebarOpen, setSidebarOpen] = useState(true);
-  const [wordToast, setWordToast] = useState<WordToast | null>(null);
   const [studied, setStudied] = useState(false);
   const [pendingParagraphId, setPendingParagraphId] = useState<string | null>(
     null,
@@ -315,12 +322,6 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
   useEffect(() => {
     setStudied(isArticleStudied(article.date));
   }, [article.date]);
-
-  useEffect(() => {
-    if (!wordToast) return;
-    const timer = window.setTimeout(() => setWordToast(null), 5000);
-    return () => window.clearTimeout(timer);
-  }, [wordToast]);
 
   useEffect(() => {
     if (activeTab !== "transcript" || !pendingParagraphId) return;
@@ -386,22 +387,14 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
   }, [article.paragraphs, article.vocabulary]);
 
   function showWord(item: VocabularyItem) {
-    setWordToast({
-      word: item.word,
-      cn: item.cn,
-      phonetic: item.phonetic,
-      pos: item.pos,
-      level: item.level,
-      usage: item.usage,
-      difficulty: item.difficulty,
-      domain: item.domain,
-      audioUrl: item.audioUrl,
-    });
     void playAudioUrl(item.audioUrl, {
       kind: "Word",
       title: item.word,
+      subtitle: getWordSubtitle(item),
+      description: item.cn,
     }).then((played) => {
-      if (!played) void speakWordText(item.word);
+      if (!played)
+        void speakWordText(item.word, item.cn, getWordSubtitle(item));
     });
   }
 
@@ -422,33 +415,24 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
     }
 
     const cached = getWordMeaning(cleanWord);
-    setWordToast({
-      word: cleanWord,
-      cn: cached || "查询中...",
-      loading: !cached,
-    });
-    void speakWordText(cleanWord);
+    void speakWordText(cleanWord, cached || "查询中...");
 
     if (cached) return;
 
     try {
       const cn = await requestBrowserTranslation(cleanWord);
       setWordMeaning(cleanWord, cn);
-      setWordToast((current) =>
-        current?.word.toLowerCase() === normalized
-          ? { ...current, cn: cn || "暂无释义", loading: false }
-          : current,
-      );
+      updateGlobalAudioMetadata({ description: cn || "暂无释义" });
     } catch {
-      setWordToast((current) =>
-        current?.word.toLowerCase() === normalized
-          ? { ...current, cn: "释义查询失败，请稍后再试", loading: false }
-          : current,
-      );
+      updateGlobalAudioMetadata({ description: "释义查询失败，请稍后再试" });
     }
   }
 
-  async function speakWordText(word: string) {
+  async function speakWordText(
+    word: string,
+    description = "",
+    subtitle = "Word",
+  ) {
     const normalized = word.trim().toLowerCase();
     if (!normalized) return;
 
@@ -456,6 +440,8 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
       cacheKey: `word:${normalized}`,
       kind: "Word",
       title: word,
+      subtitle,
+      description,
       onState: (state) => {
         setTtsLoadingKey(state === "loading" ? normalized : "");
       },
@@ -589,57 +575,6 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
 
   return (
     <div className="min-h-screen bg-bg text-text">
-      {wordToast && (
-        <div className="fixed left-1/2 top-5 z-50 w-[420px] -translate-x-1/2 rounded-md border border-brand bg-panel p-4 shadow-xl">
-          <div className="flex items-start justify-between gap-4">
-            <div>
-              <p className="text-lg font-semibold text-text">
-                {wordToast.word}
-              </p>
-              <p className="mt-1 text-sm text-sub">
-                {[
-                  wordToast.phonetic,
-                  wordToast.pos,
-                  wordToast.usage || wordToast.level,
-                  wordToast.difficulty,
-                  wordToast.domain,
-                ]
-                  .filter(Boolean)
-                  .join(" · ")}
-              </p>
-            </div>
-            <div className="flex items-center gap-2">
-              {wordToast.loading ? (
-                <span
-                  aria-hidden
-                  className="h-4 w-4 animate-spin rounded-full border-2 border-brand border-t-transparent"
-                />
-              ) : null}
-              {wordToast.audioUrl ? (
-                <AudioButton
-                  url={wordToast.audioUrl}
-                  label={`播放 ${wordToast.word}`}
-                />
-              ) : (
-                <button
-                  type="button"
-                  onClick={() => void speakWordText(wordToast.word)}
-                  className="focus-ring inline-flex h-9 w-9 items-center justify-center rounded-md border border-line bg-bg text-sm font-semibold text-sub transition hover:border-brand hover:text-brand"
-                  aria-label={`播放 ${wordToast.word}`}
-                  title={`播放 ${wordToast.word}`}
-                >
-                  <span aria-hidden>▶</span>
-                </button>
-              )}
-              <span className="rounded bg-brand-soft px-2 py-1 text-xs font-medium text-brand">
-                5秒
-              </span>
-            </div>
-          </div>
-          <p className="mt-3 text-sm leading-6 text-text">{wordToast.cn}</p>
-        </div>
-      )}
-
       <aside
         className={[
           "fixed inset-y-0 left-0 z-30 border-r border-line bg-panel transition-[width] duration-200",
@@ -860,6 +795,8 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                       <AudioButton
                         url={item.audioUrl}
                         label={`Play ${item.word}`}
+                        subtitle={getWordSubtitle(item)}
+                        description={item.cn}
                       />
                     </div>
                     <p className="mt-4 text-base font-medium text-text">
@@ -1039,6 +976,8 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                   <AudioButton
                     url={item.audioUrl}
                     label={`Play ${item.word}`}
+                    subtitle={getWordSubtitle(item)}
+                    description={item.cn}
                   />
                 </div>
               ))}

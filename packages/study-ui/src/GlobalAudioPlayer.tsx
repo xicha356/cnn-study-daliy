@@ -64,7 +64,7 @@ export function GlobalAudioPlayer({
         "pointer-events-none fixed z-50 transition-[opacity,transform] duration-300 ease-[cubic-bezier(0.22,1,0.36,1)]",
         isMobile
           ? "inset-x-3 bottom-[calc(env(safe-area-inset-bottom)+0.75rem)]"
-          : "bottom-5 left-1/2 w-[min(720px,calc(100vw-2rem))] -translate-x-1/2",
+          : "bottom-4 left-1/2 w-[min(640px,calc(100vw-2rem))] -translate-x-1/2",
         shown
           ? "translate-y-0 opacity-100"
           : isMobile
@@ -76,7 +76,7 @@ export function GlobalAudioPlayer({
       <section
         className={cn(
           "pointer-events-auto rounded-md border border-line bg-panel/95 shadow-[var(--shadow)] backdrop-blur-xl",
-          isMobile ? "p-3" : "p-4",
+          isMobile ? "p-3" : "p-3",
         )}
         aria-label="Global audio player"
       >
@@ -91,7 +91,7 @@ export function GlobalAudioPlayer({
             onClick={() => void toggleGlobalAudioPlayback()}
             className={cn(
               "focus-ring inline-flex shrink-0 items-center justify-center rounded-md border border-brand bg-brand font-black text-white transition active:scale-95",
-              isMobile ? "h-10 w-10" : "h-11 w-11",
+              isMobile ? "h-10 w-10" : "h-10 w-10",
             )}
             aria-label={isPlaying ? "Pause audio" : "Play audio"}
             title={isPlaying ? "Pause" : "Play"}
@@ -101,15 +101,20 @@ export function GlobalAudioPlayer({
 
           <div className="min-w-0 flex-1">
             <div className="flex min-w-0 items-start justify-between gap-3">
-              <div className="min-w-0">
+              <div className="min-w-0 flex-1">
                 <p className="truncate text-sm font-black text-text">
                   {player.title || "Audio"}
                 </p>
-                <p className="mt-0.5 truncate text-xs font-semibold text-sub">
+                <p className="mt-0.5 text-xs font-semibold text-sub">
                   {player.status === "loading"
                     ? "Loading"
                     : player.error || player.subtitle}
                 </p>
+                {player.description ? (
+                  <p className="mt-1 whitespace-normal break-words text-sm font-semibold leading-5 text-text">
+                    {player.description}
+                  </p>
+                ) : null}
               </div>
               <div className="flex shrink-0 items-center gap-1">
                 <button
@@ -138,7 +143,7 @@ export function GlobalAudioPlayer({
               </div>
             </div>
 
-            <div className="mt-3 grid gap-2">
+            <div className="mt-2 grid gap-1.5">
               <input
                 type="range"
                 min={0}
@@ -149,7 +154,7 @@ export function GlobalAudioPlayer({
                 onChange={(event) =>
                   seekGlobalAudio(Number(event.currentTarget.value))
                 }
-                className="h-2 w-full cursor-pointer accent-brand disabled:cursor-not-allowed disabled:opacity-40"
+                className="h-1.5 w-full cursor-pointer accent-brand disabled:cursor-not-allowed disabled:opacity-40"
                 aria-label="Audio progress"
               />
               <div
@@ -167,7 +172,7 @@ export function GlobalAudioPlayer({
                 <label
                   className={cn(
                     "flex min-w-0 items-center gap-2",
-                    isMobile ? "max-w-[145px]" : "w-56",
+                    isMobile ? "max-w-[145px]" : "w-48",
                   )}
                 >
                   <span className="shrink-0 font-black text-brand">

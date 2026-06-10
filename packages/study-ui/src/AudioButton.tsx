@@ -14,10 +14,14 @@ type AudioState = "idle" | "loading" | "playing";
 export function AudioButton({
   url,
   label = "播放音频",
+  subtitle,
+  description,
   className,
 }: {
   url?: string;
   label?: string;
+  subtitle?: string;
+  description?: string;
   className?: string;
   playbackRate?: number;
 }) {
@@ -43,7 +47,12 @@ export function AudioButton({
     }
     try {
       setState("loading");
-      const ok = await playAudioUrl(url, { title: label, kind: "Audio" });
+      const ok = await playAudioUrl(url, {
+        title: label,
+        subtitle,
+        description,
+        kind: "Audio",
+      });
       setState(ok ? "playing" : "idle");
     } catch {
       setState("idle");
