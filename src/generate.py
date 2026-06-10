@@ -17,7 +17,7 @@ DEFAULT_ELEVENLABS_VOICE_ID = 'pNInz6obpgDQGcFmaJgB'  # Adam, American male
 ELEVENLABS_VOICE_ID = os.environ.get('ELEVENLABS_VOICE_ID', DEFAULT_ELEVENLABS_VOICE_ID)
 ELEVENLABS_MODEL_ID = os.environ.get('ELEVENLABS_MODEL_ID', 'eleven_flash_v2_5')
 ELEVENLABS_OUTPUT_FORMAT = os.environ.get('ELEVENLABS_OUTPUT_FORMAT', 'mp3_44100_128')
-DEEPSEEK_MAX_TOKENS = int(os.environ.get('DEEPSEEK_MAX_TOKENS', '8192'))
+DEEPSEEK_MAX_TOKENS = int(os.environ.get('DEEPSEEK_MAX_TOKENS', '16384'))
 MAX_VOCAB_ITEMS = int(os.environ.get('MAX_VOCAB_ITEMS', '50'))
 MAX_SENTENCE_ITEMS = int(os.environ.get('MAX_SENTENCE_ITEMS', '30'))
 MIN_SENTENCE_ITEMS = int(os.environ.get('MIN_SENTENCE_ITEMS', '20'))
@@ -204,6 +204,43 @@ def assert_generated_sentence_count(data: dict) -> None:
     count = len(data.get('sentences') or [])
     if count < MIN_SENTENCE_ITEMS:
         raise RuntimeError(f'长难句数量不足：{count}，需要至少 {MIN_SENTENCE_ITEMS} 个')
+
+
+def generate_sentence_items(transcript: str) -> list[dict]:
+    prompt = f"""请从以下 CNN 逐字稿中抽取长难句，专门用于中文母语学习者做新闻英语精读。
+
+逐字稿：
+{transcript}
+
+只输出合法 JSON：
+{{
+  "sentences": [
+    {{
+      "en": "原文长难句（必须是逐字稿中真实存在的完整英文句子）",
+      "cn": "准确自然的中文翻译",
+      "structure": "句子结构分析：主句/从句/插入语/并列结构/修饰关系等",
+      "analysis": "精读解析：难点词组、逻辑关系、新闻压缩表达或语法现象"
+    }}
+  ]
+}}
+
+要求：
+- 必须返回 {MIN_SENTENCE_ITEMS}-{MAX_SENTENCE_ITEMS} 个长难句
+- 优先选择从句多、插入语多、逻辑关系复杂、新闻压缩表达明显、适合精读训练的完整原句
+- 不要选择短句、问候语、标题或无分析价值的简单句
+- en 字段必须来自逐字稿原文，不要改写
+- cn、structure、analysis 要简洁但有教学价值"""
+    result = call_deepseek_messages(
+        [
+            {'role': 'system', 'content': '你是专业新闻英语长难句分析老师，只输出合法 JSON。'},
+            {'role': 'user', 'content': prompt},
+        ],
+        max_tokens=DEEPSEEK_MAX_TOKENS,
+    )
+    items = result.get('sentences') or []
+    if not isinstance(items, list):
+        return []
+    return items
 
 
 def normalize_vocab_taxonomy(data: dict) -> bool:
@@ -468,14 +505,7 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
     }}
   ],
 
-  "sentences": [
-    {{
-      "en": "原文长难句（完整句子）",
-      "cn": "准确中文翻译",
-      "structure": "句子结构（主句/从句/插入语等）",
-      "analysis": "语法要点/习语/修辞分析"
-    }}
-  ],
+  "sentences": [],
 
   "topics": [
     {{
@@ -499,7 +529,7 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 严格要求：
 - vocabulary：按全文实际难词/重点短语抽取，不硬凑，最多{MAX_VOCAB_ITEMS}个；优先选择影响理解的新闻词、学术词、高频短语、固定搭配、熟词僻义和语境关键词；excerpt字段必须是文稿中真实存在的原文片段
 - vocabulary 不要使用四级、六级、考研、专四、专八等考试标签；必须使用 usage、difficulty、domain 三类标签。difficulty 规则：基础=日常高频但在语境中值得掌握；进阶=新闻/抽象表达常见但非日常口语；高阶=专业术语、政策法律金融军事等领域词或低频高信息量表达
-- sentences：必须返回{MIN_SENTENCE_ITEMS}-{MAX_SENTENCE_ITEMS}个长难句；优先选择从句多、插入语多、逻辑关系复杂、新闻压缩表达明显或适合精读训练的完整原句；不要选择短句或简单寒暄句凑数，但本篇新闻稿必须至少给出{MIN_SENTENCE_ITEMS}个可讲解句子
+- sentences：本次主 JSON 固定输出空数组 []，不要在这里生成长难句
 - topics：4个话题
 - quiz：6道（前3词汇，后3理解）"""
 
@@ -651,6 +681,7 @@ def main():
     data['paragraphs'] = paragraphs
     data['date']       = actual_date
     data['source_url'] = source_url
+    data['sentences']  = generate_sentence_items(full_text)
     enforce_study_item_limits(data)
     assert_generated_sentence_count(data)
     normalize_vocab_taxonomy(data)

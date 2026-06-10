@@ -71,7 +71,7 @@ jobs:
           MAX_VOCAB_ITEMS: ${{ vars.MAX_VOCAB_ITEMS || '50' }}
           MIN_SENTENCE_ITEMS: ${{ vars.MIN_SENTENCE_ITEMS || '20' }}
           MAX_SENTENCE_ITEMS: ${{ vars.MAX_SENTENCE_ITEMS || '30' }}
-          DEEPSEEK_MAX_TOKENS: ${{ vars.DEEPSEEK_MAX_TOKENS || '8192' }}
+          DEEPSEEK_MAX_TOKENS: ${{ vars.DEEPSEEK_MAX_TOKENS || '16384' }}
         run: python src/generate.py
 
       - name: 准备 Next.js 静态数据
