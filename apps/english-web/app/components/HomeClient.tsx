@@ -20,6 +20,29 @@ const filters: { key: FilterKey; label: string }[] = [
   { key: "review", label: "待复习" },
 ];
 
+const features = [
+  {
+    title: "重点词汇",
+    detail: "从新闻语境里抽取真正影响理解的词，不按考试标签硬分级。",
+    stat: "≤ 50",
+  },
+  {
+    title: "长难句精析",
+    detail: "独立生成 20-30 个可讲解句子，按结构、逻辑和表达逐层拆解。",
+    stat: "20-30",
+  },
+  {
+    title: "按需朗读",
+    detail: "词汇预生成音频；段落和难句按需请求 ElevenLabs，并在浏览器缓存。",
+    stat: "TTS",
+  },
+  {
+    title: "学习闭环",
+    detail: "测验、标记、待复习和已掌握都留在本地，适合每天短时复盘。",
+    stat: "Local",
+  },
+];
+
 function parseDate(date: string) {
   return new Date(`${date}T00:00:00`);
 }
@@ -32,6 +55,15 @@ function isWithinRecentDays(date: string, days: number) {
   start.setDate(now.getDate() - (days - 1));
   start.setHours(0, 0, 0, 0);
   return value >= start.getTime() && value <= now.getTime();
+}
+
+function compactDate(date: string) {
+  const [, month, day] = date.split("-");
+  return `${month}.${day}`;
+}
+
+function articleTitle(title: string) {
+  return title.replace(/^CNN This Morning\s*·\s*\d{4}-\d{2}-\d{2}\s*·\s*/, "");
 }
 
 export function HomeClient({ articles }: HomeClientProps) {
@@ -48,6 +80,16 @@ export function HomeClient({ articles }: HomeClientProps) {
       ),
     );
   }, [articles]);
+
+  const latestArticle = articles[0];
+  const totalVocab = articles.reduce(
+    (count, article) => count + article.vocabCount,
+    0,
+  );
+  const totalSentences = articles.reduce(
+    (count, article) => count + article.sentenceCount,
+    0,
+  );
 
   const filteredArticles = useMemo(() => {
     const keyword = query.trim().toLowerCase();
@@ -70,107 +112,298 @@ export function HomeClient({ articles }: HomeClientProps) {
   }, [articles, filter, query, studiedDates]);
 
   return (
-    <main className="mx-auto flex min-h-screen w-full max-w-7xl flex-col px-8 py-7">
-      <header className="mb-7 flex items-center justify-between gap-6">
-        <div>
-          <p className="text-sm font-medium uppercase tracking-wide text-brand">
-            CNN Study Daily
-          </p>
-          <h1 className="mt-2 text-3xl font-semibold text-text">
-            英语精读工作台
-          </h1>
+    <main className="min-h-screen overflow-hidden bg-bg text-text">
+      <header className="sticky top-0 z-30 border-b border-line/80 bg-bg/88 backdrop-blur-xl">
+        <div className="mx-auto flex h-16 w-full max-w-7xl items-center justify-between px-8">
+          <Link href="/" className="flex items-center gap-3">
+            <span className="grid h-10 w-10 place-items-center rounded-md bg-brand text-sm font-black text-white">
+              CNN
+            </span>
+            <div>
+              <p className="text-[11px] font-black uppercase tracking-[0.22em] text-brand">
+                News Study
+              </p>
+              <p className="text-base font-black text-text">cnn 新闻精读</p>
+            </div>
+          </Link>
+          <div className="flex items-center gap-3">
+            {latestArticle ? (
+              <Link
+                href={`/articles/${latestArticle.date}`}
+                className="focus-ring rounded-md border border-line bg-panel px-4 py-2 text-sm font-bold text-text transition hover:border-brand hover:text-brand"
+              >
+                今日文章
+              </Link>
+            ) : null}
+            <ThemeToggle />
+          </div>
         </div>
-        <ThemeToggle />
       </header>
 
-      <section className="mb-6 grid grid-cols-[1fr_auto] gap-4 rounded-md border border-line bg-panel p-4 shadow-sm">
-        <label className="block">
-          <span className="sr-only">搜索文章</span>
-          <input
-            value={query}
-            onChange={(event) => setQuery(event.target.value)}
-            placeholder="搜索标题、摘要或日期"
-            className="focus-ring h-11 w-full rounded-md border border-line bg-bg px-4 text-sm text-text placeholder:text-sub"
-          />
-        </label>
-        <div className="flex items-center gap-2">
-          {filters.map((item) => {
-            const active = filter === item.key;
-            return (
-              <button
-                key={item.key}
-                type="button"
-                onClick={() => setFilter(item.key)}
-                className={[
-                  "focus-ring h-11 rounded-md border px-4 text-sm font-medium transition",
-                  active
-                    ? "border-brand bg-brand text-white"
-                    : "border-line bg-bg text-sub hover:border-brand hover:text-brand",
-                ].join(" ")}
+      <section className="border-b border-line">
+        <div className="mx-auto grid min-h-[calc(100vh-4rem)] w-full max-w-7xl grid-cols-[minmax(0,0.92fr)_minmax(520px,1.08fr)] items-center gap-12 px-8 py-14">
+          <div className="relative z-10">
+            <p className="w-fit rounded-md border border-line bg-panel px-3 py-1 text-xs font-black uppercase tracking-[0.24em] text-brand">
+              Daily CNN intensive reading
+            </p>
+            <h1 className="mt-7 max-w-3xl text-7xl font-black leading-[0.96] tracking-normal text-text">
+              把一篇 CNN 新闻，拆成能真正吸收的英语训练。
+            </h1>
+            <p className="mt-7 max-w-2xl text-xl font-semibold leading-9 text-sub">
+              每天一篇新闻，自动整理双语全文、重点词汇、长难句、背景知识、测验和美式朗读。你只需要打开文章，跟着节奏精读。
+            </p>
+            <div className="mt-9 flex flex-wrap items-center gap-3">
+              {latestArticle ? (
+                <Link
+                  href={`/articles/${latestArticle.date}`}
+                  className="focus-ring rounded-md bg-brand px-6 py-3 text-base font-black text-white shadow-sm transition hover:translate-y-[-1px]"
+                >
+                  开始今天的精读
+                </Link>
+              ) : null}
+              <a
+                href="#articles"
+                className="focus-ring rounded-md border border-line bg-panel px-6 py-3 text-base font-black text-text transition hover:border-brand hover:text-brand"
               >
-                {item.label}
-              </button>
+                查看文章库
+              </a>
+            </div>
+            <dl className="mt-10 grid max-w-2xl grid-cols-3 gap-3">
+              <div className="border-l-2 border-brand pl-4">
+                <dt className="text-sm font-bold text-sub">文章</dt>
+                <dd className="mt-1 text-3xl font-black text-text">
+                  {articles.length}
+                </dd>
+              </div>
+              <div className="border-l-2 border-brand pl-4">
+                <dt className="text-sm font-bold text-sub">词汇</dt>
+                <dd className="mt-1 text-3xl font-black text-text">
+                  {totalVocab}
+                </dd>
+              </div>
+              <div className="border-l-2 border-brand pl-4">
+                <dt className="text-sm font-bold text-sub">难句</dt>
+                <dd className="mt-1 text-3xl font-black text-text">
+                  {totalSentences}
+                </dd>
+              </div>
+            </dl>
+          </div>
+
+          <div className="relative">
+            <div className="absolute -left-10 top-8 h-40 w-40 rounded-full border border-brand/30" />
+            <div className="absolute bottom-12 right-2 h-24 w-24 rotate-12 border border-line bg-panel/70" />
+            <div className="relative overflow-hidden rounded-md border border-line bg-[#111713] text-[#e9f3ec] shadow-2xl">
+              <div className="flex items-center justify-between border-b border-white/10 px-5 py-4">
+                <div className="flex items-center gap-2">
+                  <span className="h-3 w-3 rounded-full bg-[#ff7066]" />
+                  <span className="h-3 w-3 rounded-full bg-[#ffcc66]" />
+                  <span className="h-3 w-3 rounded-full bg-[#7bd88f]" />
+                </div>
+                <span className="text-xs font-black uppercase tracking-[0.2em] text-white/45">
+                  reading workflow
+                </span>
+              </div>
+              <div className="grid grid-cols-[1fr_220px] gap-0">
+                <div className="border-r border-white/10 p-6">
+                  <p className="font-mono text-sm leading-7 text-[#87d7b7]">
+                    $ cnn-study open latest
+                  </p>
+                  <div className="mt-6 space-y-4">
+                    <div>
+                      <p className="text-xs font-black uppercase tracking-[0.2em] text-[#87d7b7]">
+                        Article
+                      </p>
+                      <h2 className="mt-2 text-3xl font-black leading-tight">
+                        {latestArticle
+                          ? articleTitle(latestArticle.title)
+                          : "CNN This Morning"}
+                      </h2>
+                    </div>
+                    <p className="max-w-xl text-base font-medium leading-7 text-white/68">
+                      {latestArticle?.summary ||
+                        "生成文章后，这里会显示当天新闻的摘要和学习路线。"}
+                    </p>
+                    <div className="grid grid-cols-3 gap-3 pt-2">
+                      <div className="rounded-md bg-white/[0.06] p-3">
+                        <p className="text-xs text-white/48">vocab</p>
+                        <p className="mt-1 text-2xl font-black">
+                          {latestArticle?.vocabCount ?? 0}
+                        </p>
+                      </div>
+                      <div className="rounded-md bg-white/[0.06] p-3">
+                        <p className="text-xs text-white/48">sentences</p>
+                        <p className="mt-1 text-2xl font-black">
+                          {latestArticle?.sentenceCount ?? 0}
+                        </p>
+                      </div>
+                      <div className="rounded-md bg-white/[0.06] p-3">
+                        <p className="text-xs text-white/48">audio</p>
+                        <p className="mt-1 text-2xl font-black">
+                          {latestArticle?.hasAudio ? "on" : "off"}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="bg-white/[0.035] p-5">
+                  {["原文", "翻译", "词汇", "难句", "测验"].map(
+                    (item, index) => (
+                      <div
+                        key={item}
+                        className={[
+                          "mb-3 rounded-md border px-3 py-3 text-sm font-black",
+                          index === 2
+                            ? "border-[#87d7b7] bg-[#87d7b7] text-[#111713]"
+                            : "border-white/10 bg-white/[0.04] text-white/62",
+                        ].join(" ")}
+                      >
+                        {item}
+                      </div>
+                    ),
+                  )}
+                  <div className="mt-6 rounded-md border border-white/10 bg-black/20 p-4">
+                    <p className="text-xs uppercase tracking-[0.22em] text-white/40">
+                      next step
+                    </p>
+                    <p className="mt-2 text-sm font-bold leading-6 text-white/72">
+                      点击高亮词自动朗读，难句按需生成音频并缓存。
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="border-b border-line bg-panel/55">
+        <div className="mx-auto grid w-full max-w-7xl grid-cols-4 gap-4 px-8 py-12">
+          {features.map((feature) => (
+            <article
+              key={feature.title}
+              className="rounded-md border border-line bg-panel p-5 shadow-sm"
+            >
+              <div className="flex items-start justify-between gap-4">
+                <h2 className="text-xl font-black text-text">
+                  {feature.title}
+                </h2>
+                <span className="rounded-md bg-brand-soft px-2 py-1 font-mono text-xs font-black text-brand">
+                  {feature.stat}
+                </span>
+              </div>
+              <p className="mt-4 text-sm font-semibold leading-6 text-sub">
+                {feature.detail}
+              </p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section id="articles" className="mx-auto w-full max-w-7xl px-8 py-12">
+        <div className="mb-6 flex items-end justify-between gap-6">
+          <div>
+            <p className="text-sm font-black uppercase tracking-[0.2em] text-brand">
+              Library
+            </p>
+            <h2 className="mt-2 text-4xl font-black text-text">文章库</h2>
+          </div>
+          <p className="max-w-md text-right text-sm font-semibold leading-6 text-sub">
+            文章列表仍然是首页的一部分：快速搜索、筛选、进入学习页，适合每天回来继续。
+          </p>
+        </div>
+
+        <div className="mb-6 grid grid-cols-[1fr_auto] gap-4 rounded-md border border-line bg-panel p-4 shadow-sm">
+          <label className="block">
+            <span className="sr-only">搜索文章</span>
+            <input
+              value={query}
+              onChange={(event) => setQuery(event.target.value)}
+              placeholder="搜索标题、摘要或日期"
+              className="focus-ring h-11 w-full rounded-md border border-line bg-bg px-4 text-sm font-semibold text-text placeholder:text-sub"
+            />
+          </label>
+          <div className="flex items-center gap-2">
+            {filters.map((item) => {
+              const active = filter === item.key;
+              return (
+                <button
+                  key={item.key}
+                  type="button"
+                  onClick={() => setFilter(item.key)}
+                  className={[
+                    "focus-ring h-11 rounded-md border px-4 text-sm font-bold transition",
+                    active
+                      ? "border-brand bg-brand text-white"
+                      : "border-line bg-bg text-sub hover:border-brand hover:text-brand",
+                  ].join(" ")}
+                >
+                  {item.label}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+
+        <div className="grid gap-3">
+          {filteredArticles.map((article) => {
+            const studied = studiedDates.has(article.date);
+            return (
+              <Link
+                key={article.date}
+                href={`/articles/${article.date}`}
+                className="focus-ring grid grid-cols-[120px_1fr_auto] gap-5 rounded-md border border-line bg-panel p-5 shadow-sm transition hover:border-brand hover:shadow-md"
+              >
+                <div className="flex flex-col justify-between border-r border-line pr-5">
+                  <time className="font-mono text-2xl font-black text-brand">
+                    {compactDate(article.date)}
+                  </time>
+                  <span
+                    className={[
+                      "mt-4 w-fit rounded px-2 py-1 text-xs font-bold",
+                      studied
+                        ? "bg-brand-soft text-brand"
+                        : "bg-muted text-sub",
+                    ].join(" ")}
+                  >
+                    {studied ? "已学习" : "待复习"}
+                  </span>
+                </div>
+                <div className="min-w-0">
+                  <h3 className="line-clamp-1 text-xl font-black text-text">
+                    {articleTitle(article.title)}
+                  </h3>
+                  <p className="mt-2 line-clamp-2 text-sm font-semibold leading-6 text-sub">
+                    {article.summary}
+                  </p>
+                  <div className="mt-4 flex items-center gap-2 text-xs font-bold text-sub">
+                    <span className="rounded bg-muted px-2 py-1">
+                      词汇 {article.vocabCount}
+                    </span>
+                    <span className="rounded bg-muted px-2 py-1">
+                      难句 {article.sentenceCount}
+                    </span>
+                    {article.hasAudio && (
+                      <span className="rounded bg-brand-soft px-2 py-1 text-brand">
+                        词汇音频
+                      </span>
+                    )}
+                  </div>
+                </div>
+                <div className="flex items-center text-sm font-black text-brand">
+                  开始
+                </div>
+              </Link>
             );
           })}
         </div>
-      </section>
 
-      <section className="grid gap-3">
-        {filteredArticles.map((article) => {
-          const studied = studiedDates.has(article.date);
-          return (
-            <Link
-              key={article.date}
-              href={`/articles/${article.date}`}
-              className="focus-ring grid grid-cols-[148px_1fr_auto] gap-5 rounded-md border border-line bg-panel p-5 shadow-sm transition hover:border-brand hover:shadow-md"
-            >
-              <div className="flex flex-col justify-between border-r border-line pr-5">
-                <time className="text-lg font-semibold text-text">
-                  {article.date}
-                </time>
-                <span
-                  className={[
-                    "mt-4 w-fit rounded px-2 py-1 text-xs font-medium",
-                    studied ? "bg-brand-soft text-brand" : "bg-muted text-sub",
-                  ].join(" ")}
-                >
-                  {studied ? "已学习" : "待复习"}
-                </span>
-              </div>
-              <div className="min-w-0">
-                <h2 className="line-clamp-1 text-xl font-semibold text-text">
-                  {article.title}
-                </h2>
-                <p className="mt-2 line-clamp-2 text-sm leading-6 text-sub">
-                  {article.summary}
-                </p>
-                <div className="mt-4 flex items-center gap-2 text-xs text-sub">
-                  <span className="rounded bg-muted px-2 py-1">
-                    词汇 {article.vocabCount}
-                  </span>
-                  <span className="rounded bg-muted px-2 py-1">
-                    难句 {article.sentenceCount}
-                  </span>
-                  {article.hasAudio && (
-                    <span className="rounded bg-brand-soft px-2 py-1 text-brand">
-                      音频
-                    </span>
-                  )}
-                </div>
-              </div>
-              <div className="flex items-center text-sm font-medium text-brand">
-                进入学习
-              </div>
-            </Link>
-          );
-        })}
+        {filteredArticles.length === 0 && (
+          <div className="flex min-h-56 items-center justify-center rounded-md border border-dashed border-line bg-panel p-12 text-center text-sub">
+            暂无匹配文章。若数据还未生成，请先准备 public/data。
+          </div>
+        )}
       </section>
-
-      {filteredArticles.length === 0 && (
-        <div className="flex flex-1 items-center justify-center rounded-md border border-dashed border-line bg-panel p-12 text-center text-sub">
-          暂无匹配文章。若数据还未生成，请先准备 public/data。
-        </div>
-      )}
     </main>
   );
 }
