@@ -22,6 +22,9 @@ export type VocabularyItem = {
   phonetic?: string;
   pos?: string;
   level?: string;
+  usage?: string;
+  difficulty?: string;
+  domain?: string;
   cn: string;
   en?: string;
   excerpt?: string;

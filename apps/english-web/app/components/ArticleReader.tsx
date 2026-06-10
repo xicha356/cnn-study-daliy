@@ -44,6 +44,10 @@ type WordToast = {
   cn: string;
   phonetic?: string;
   pos?: string;
+  level?: string;
+  usage?: string;
+  difficulty?: string;
+  domain?: string;
   audioUrl?: string;
 };
 
@@ -327,6 +331,10 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
       cn: item.cn,
       phonetic: item.phonetic,
       pos: item.pos,
+      level: item.level,
+      usage: item.usage,
+      difficulty: item.difficulty,
+      domain: item.domain,
       audioUrl: item.audioUrl,
     });
     void playAudioUrl(item.audioUrl, {
@@ -405,7 +413,13 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                 {wordToast.word}
               </p>
               <p className="mt-1 text-sm text-sub">
-                {[wordToast.phonetic, wordToast.pos]
+                {[
+                  wordToast.phonetic,
+                  wordToast.pos,
+                  wordToast.usage || wordToast.level,
+                  wordToast.difficulty,
+                  wordToast.domain,
+                ]
                   .filter(Boolean)
                   .join(" · ")}
               </p>
@@ -614,7 +628,13 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                           {item.word}
                         </h2>
                         <p className="mt-1 text-sm text-sub">
-                          {[item.phonetic, item.pos, item.level]
+                          {[
+                            item.phonetic,
+                            item.pos,
+                            item.usage || item.level,
+                            item.difficulty,
+                            item.domain,
+                          ]
                             .filter(Boolean)
                             .join(" · ")}
                         </p>

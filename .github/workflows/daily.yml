@@ -13,6 +13,14 @@ on:
         description: '指定日期 YYYY-MM-DD（留空=自动找最近工作日）'
         required: false
         default: ''
+      force_regenerate:
+        description: '是否忽略已有缓存并重新生成'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
 
 permissions:
   contents: write
@@ -59,6 +67,10 @@ jobs:
           ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID || 'pNInz6obpgDQGcFmaJgB' }}
           ELEVENLABS_MODEL_ID: ${{ vars.ELEVENLABS_MODEL_ID || 'eleven_flash_v2_5' }}
           TARGET_DATE: ${{ github.event.inputs.date }}
+          FORCE_REGENERATE: ${{ github.event.inputs.force_regenerate }}
+          MAX_VOCAB_ITEMS: ${{ vars.MAX_VOCAB_ITEMS || '50' }}
+          MAX_SENTENCE_ITEMS: ${{ vars.MAX_SENTENCE_ITEMS || '30' }}
+          DEEPSEEK_MAX_TOKENS: ${{ vars.DEEPSEEK_MAX_TOKENS || '8192' }}
         run: python src/generate.py
 
       - name: 准备 Next.js 静态数据

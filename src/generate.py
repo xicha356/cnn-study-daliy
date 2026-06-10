@@ -17,6 +17,9 @@ DEFAULT_ELEVENLABS_VOICE_ID = 'pNInz6obpgDQGcFmaJgB'  # Adam, American male
 ELEVENLABS_VOICE_ID = os.environ.get('ELEVENLABS_VOICE_ID', DEFAULT_ELEVENLABS_VOICE_ID)
 ELEVENLABS_MODEL_ID = os.environ.get('ELEVENLABS_MODEL_ID', 'eleven_flash_v2_5')
 ELEVENLABS_OUTPUT_FORMAT = os.environ.get('ELEVENLABS_OUTPUT_FORMAT', 'mp3_44100_128')
+DEEPSEEK_MAX_TOKENS = int(os.environ.get('DEEPSEEK_MAX_TOKENS', '8192'))
+MAX_VOCAB_ITEMS = int(os.environ.get('MAX_VOCAB_ITEMS', '50'))
+MAX_SENTENCE_ITEMS = int(os.environ.get('MAX_SENTENCE_ITEMS', '30'))
 OUTPUT_DIR       = Path('output')
 AUDIO_DIR        = OUTPUT_DIR / 'audio'
 OUTPUT_DIR.mkdir(exist_ok=True)
@@ -37,6 +40,10 @@ def get_target_date() -> str:
     if wd >= 5:
         print(f'  今天是周末，自动使用最近工作日：{result}')
     return result
+
+
+def should_force_regenerate() -> bool:
+    return os.environ.get('FORCE_REGENERATE', '').strip().lower() in {'1', 'true', 'yes', 'y'}
 
 
 def find_available_date(start_date: str, max_lookback: int = 7) -> str:
@@ -164,6 +171,62 @@ def ensure_sentence_audio(data: dict, date_str: str) -> bool:
 def ensure_all_audio(data: dict, date_str: str) -> bool:
     changed = ensure_vocab_audio(data, date_str)
     changed = ensure_sentence_audio(data, date_str) or changed
+    return changed
+
+
+def cap_unique_items(data: dict, key: str, unique_field: str, limit: int) -> bool:
+    items = data.get(key) or []
+    if not isinstance(items, list):
+        data[key] = []
+        return True
+
+    seen = set()
+    capped = []
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        unique_value = sanitize(str(item.get(unique_field) or '')).lower()
+        if not unique_value or unique_value in seen:
+            continue
+        seen.add(unique_value)
+        capped.append(item)
+        if len(capped) >= limit:
+            break
+
+    if len(capped) != len(items):
+        data[key] = capped
+        return True
+    return False
+
+
+def enforce_study_item_limits(data: dict) -> bool:
+    changed = cap_unique_items(data, 'vocabulary', 'word', MAX_VOCAB_ITEMS)
+    changed = cap_unique_items(data, 'sentences', 'en', MAX_SENTENCE_ITEMS) or changed
+    return changed
+
+
+def normalize_vocab_taxonomy(data: dict) -> bool:
+    changed = False
+    for item in data.get('vocabulary') or []:
+        if not isinstance(item, dict):
+            continue
+        usage = sanitize(str(item.get('usage') or ''))
+        difficulty = sanitize(str(item.get('difficulty') or ''))
+        domain = sanitize(str(item.get('domain') or ''))
+        level = sanitize(str(item.get('level') or ''))
+        normalized_level = ' · '.join([part for part in [usage, difficulty] if part])
+        if normalized_level and level != normalized_level:
+            item['level'] = normalized_level
+            changed = True
+        if usage and item.get('usage') != usage:
+            item['usage'] = usage
+            changed = True
+        if difficulty and item.get('difficulty') != difficulty:
+            item['difficulty'] = difficulty
+            changed = True
+        if domain and item.get('domain') != domain:
+            item['domain'] = domain
+            changed = True
     return changed
 
 
@@ -393,7 +456,10 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
       "word": "单词或短语",
       "phonetic": "/音标/",
       "pos": "词性",
-      "level": "考研/六级/专四/专八/时事词汇",
+      "usage": "日常表达/新闻常用/专业术语/固定搭配/专名背景",
+      "difficulty": "基础/进阶/高阶",
+      "domain": "通用/政治外交/军事安全/法律司法/经济金融/科技医疗/社会民生/文化体育/灾害环境",
+      "level": "usage · difficulty，例如：新闻常用 · 进阶",
       "cn": "中文释义（含搭配）",
       "en": "英文释义",
       "excerpt": "包含该词的原文片段（10-20词，用于高亮定位，单引号代替双引号）",
@@ -430,8 +496,9 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 }}
 
 严格要求：
-- vocabulary：12个，excerpt字段必须是文稿中真实存在的原文片段
-- sentences：5个长难句
+- vocabulary：按全文实际难词/重点短语抽取，不硬凑，最多{MAX_VOCAB_ITEMS}个；优先选择影响理解的新闻词、学术词、高频短语、固定搭配、熟词僻义和语境关键词；excerpt字段必须是文稿中真实存在的原文片段
+- vocabulary 不要使用四级、六级、考研、专四、专八等考试标签；必须使用 usage、difficulty、domain 三类标签。difficulty 规则：基础=日常高频但在语境中值得掌握；进阶=新闻/抽象表达常见但非日常口语；高阶=专业术语、政策法律金融军事等领域词或低频高信息量表达
+- sentences：按全文实际长难句抽取，不硬凑，最多{MAX_SENTENCE_ITEMS}个；优先选择从句多、插入语多、逻辑关系复杂、新闻压缩表达明显或适合精读训练的完整原句
 - topics：4个话题
 - quiz：6道（前3词汇，后3理解）"""
 
@@ -446,7 +513,7 @@ def call_deepseek(prompt: str) -> dict:
         headers={'Authorization': f'Bearer {DEEPSEEK_API_KEY}', 'Content-Type': 'application/json'},
         json={
             'model': 'deepseek-chat',
-            'max_tokens': 4096,
+            'max_tokens': DEEPSEEK_MAX_TOKENS,
             'temperature': 0.1,
             'response_format': {'type': 'json_object'},
             'messages': [
@@ -522,6 +589,8 @@ def ensure_paragraph_translations(data: dict) -> bool:
 
 def normalize_and_enrich_existing(data: dict) -> bool:
     changed = normalize_paragraphs(data)
+    changed = enforce_study_item_limits(data) or changed
+    changed = normalize_vocab_taxonomy(data) or changed
     changed = ensure_paragraph_translations(data) or changed
     return changed
 
@@ -531,8 +600,12 @@ def main():
     print('\n=== CNN精读生成器 v4 ===')
 
     requested_date = get_target_date()
+    force_regenerate = should_force_regenerate()
+    if force_regenerate:
+        print('  FORCE_REGENERATE 已启用，将忽略现有 JSON 缓存')
+
     out_path = OUTPUT_DIR / f'{requested_date}.json'
-    if out_path.exists():
+    if out_path.exists() and not force_regenerate:
         print(f'✓ 缓存已存在：{out_path}')
         data = json.loads(out_path.read_text(encoding='utf-8'))
         changed = normalize_and_enrich_existing(data)
@@ -546,7 +619,7 @@ def main():
     actual_date = find_available_date(requested_date, max_lookback=7)
 
     out_path = OUTPUT_DIR / f'{actual_date}.json'
-    if out_path.exists():
+    if out_path.exists() and not force_regenerate:
         print(f'✓ {actual_date} 缓存已存在')
         data = json.loads(out_path.read_text(encoding='utf-8'))
         changed = normalize_and_enrich_existing(data)
@@ -577,6 +650,8 @@ def main():
     data['paragraphs'] = paragraphs
     data['date']       = actual_date
     data['source_url'] = source_url
+    enforce_study_item_limits(data)
+    normalize_vocab_taxonomy(data)
     ensure_paragraph_translations(data)
     ensure_all_audio(data, actual_date)
 

@@ -8,6 +8,8 @@ const noisePatterns = [
   "CNN.com - Transcripts",
   "Transcript Providers",
 ];
+const maxVocabItems = 50;
+const maxSentenceItems = 30;
 
 function assert(condition, message) {
   if (!condition) throw new Error(message);
@@ -25,6 +27,14 @@ for (const item of index) {
   for (const noise of noisePatterns)
     assert(!raw.includes(noise), `${item.date} contains noise: ${noise}`);
   const article = JSON.parse(raw);
+  assert(
+    (article.vocabulary || []).length <= maxVocabItems,
+    `${item.date} has more than ${maxVocabItems} vocabulary items`,
+  );
+  assert(
+    (article.sentences || []).length <= maxSentenceItems,
+    `${item.date} has more than ${maxSentenceItems} sentence items`,
+  );
   for (const paragraph of article.paragraphs || []) {
     assert(
       paragraph.speaker !== "ANCHOR",

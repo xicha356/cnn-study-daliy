@@ -40,9 +40,19 @@ export function WordPopup({
                 {word.pos}
               </span>
             ) : null}
-            {word.level ? (
+            {word.usage || word.level ? (
               <span className="rounded-full bg-amber-50 px-2 py-1 text-warn">
-                {word.level}
+                {word.usage || word.level}
+              </span>
+            ) : null}
+            {word.difficulty ? (
+              <span className="rounded-full bg-muted px-2 py-1 text-sub">
+                {word.difficulty}
+              </span>
+            ) : null}
+            {word.domain ? (
+              <span className="rounded-full bg-muted px-2 py-1 text-sub">
+                {word.domain}
               </span>
             ) : null}
           </div>

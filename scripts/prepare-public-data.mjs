@@ -80,7 +80,13 @@ function normalizeArticle(file) {
       word: cleanText(item.word),
       phonetic: cleanText(item.phonetic),
       pos: cleanText(item.pos),
-      level: cleanText(item.level),
+      level: cleanText(
+        item.level ||
+          [item.usage, item.difficulty].filter(Boolean).join(" · "),
+      ),
+      usage: cleanText(item.usage),
+      difficulty: cleanText(item.difficulty),
+      domain: cleanText(item.domain),
       cn: cleanText(item.cn),
       en: cleanText(item.en),
       excerpt: cleanText(item.excerpt || item.example),

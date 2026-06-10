@@ -14,7 +14,6 @@ import type {
 import { AudioButton } from "@study/ui/AudioButton";
 import { GlobalAudioPlayer } from "@study/ui/GlobalAudioPlayer";
 import Link from "next/link";
-import type { MouseEvent } from "react";
 import type { PointerEvent } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { ReactNode } from "react";
@@ -48,57 +47,6 @@ function buildVocabularyMatcher(vocabulary: VocabularyItem[]) {
     .sort((a, b) => b.lowerWord.length - a.lowerWord.length);
 }
 
-function getSelectedEnglishWord() {
-  const selected = window.getSelection()?.toString().trim() || "";
-  const match = selected.match(/[A-Za-z][A-Za-z'-]*/);
-  return match?.[0] || "";
-}
-
-function extractEnglishWordAtOffset(text: string, offset: number) {
-  if (!text) return "";
-  let cursor = Math.min(Math.max(offset, 0), text.length);
-  if (!/[A-Za-z'-]/.test(text[cursor] || "") && cursor > 0) cursor -= 1;
-  if (!/[A-Za-z'-]/.test(text[cursor] || "")) return "";
-
-  let start = cursor;
-  let end = cursor + 1;
-  while (start > 0 && /[A-Za-z'-]/.test(text[start - 1] || "")) start -= 1;
-  while (end < text.length && /[A-Za-z'-]/.test(text[end] || "")) end += 1;
-
-  return (
-    text.slice(start, end).match(/[A-Za-z][A-Za-z'-]*/)?.[0] || ""
-  ).replace(/^'+|'+$/g, "");
-}
-
-function getEnglishWordFromPoint(clientX: number, clientY: number) {
-  type RangeDocument = Document & {
-    caretRangeFromPoint?: (x: number, y: number) => Range | null;
-    caretPositionFromPoint?: (
-      x: number,
-      y: number,
-    ) => { offsetNode: Node; offset: number } | null;
-  };
-
-  const doc = document as RangeDocument;
-  const range = doc.caretRangeFromPoint?.(clientX, clientY);
-  if (range?.startContainer.nodeType === Node.TEXT_NODE) {
-    return extractEnglishWordAtOffset(
-      range.startContainer.textContent || "",
-      range.startOffset,
-    );
-  }
-
-  const position = doc.caretPositionFromPoint?.(clientX, clientY);
-  if (position?.offsetNode.nodeType === Node.TEXT_NODE) {
-    return extractEnglishWordAtOffset(
-      position.offsetNode.textContent || "",
-      position.offset,
-    );
-  }
-
-  return "";
-}
-
 export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const [activeTab, setActiveTab] = useState<TabKey>("original");
   const [visibleCn, setVisibleCn] = useState<Record<string, boolean>>({});
@@ -120,16 +68,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const tipTimer = useRef<number | null>(null);
   const sheetTimer = useRef<number | null>(null);
   const sheetFrame = useRef<number | null>(null);
-  const lastParagraphTap = useRef({
-    paragraphId: "",
-    time: 0,
-    clientX: 0,
-    clientY: 0,
-  });
-  const lastWordTap = useRef({
-    word: "",
-    time: 0,
-  });
+  const longPressTimer = useRef<number | null>(null);
 
   const vocabularyMatcher = useMemo(
     () => buildVocabularyMatcher(article.vocabulary),
@@ -141,6 +80,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       if (tipTimer.current) window.clearTimeout(tipTimer.current);
       if (sheetTimer.current) window.clearTimeout(sheetTimer.current);
       if (sheetFrame.current) window.cancelAnimationFrame(sheetFrame.current);
+      if (longPressTimer.current) window.clearTimeout(longPressTimer.current);
     };
   }, []);
 
@@ -190,69 +130,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     delete touchStartX.current[paragraph.id];
   }
 
-  function speakWordFromEventPoint(
-    event: MouseEvent<HTMLElement> | PointerEvent<HTMLElement>,
-  ) {
-    const word =
-      getSelectedEnglishWord() ||
-      getEnglishWordFromPoint(event.clientX, event.clientY);
-    if (!word) return;
-    event.stopPropagation();
-    void speakWordText(word);
-  }
-
-  function handleParagraphDoubleClick(event: MouseEvent<HTMLElement>) {
-    speakWordFromEventPoint(event);
-  }
-
-  function handleParagraphPointerUp(
-    event: PointerEvent<HTMLElement>,
-    paragraphId: string,
-  ) {
-    if (event.pointerType === "mouse") return;
-
-    const now = window.performance.now();
-    const previous = lastParagraphTap.current;
-    const isDoubleTap =
-      previous.paragraphId === paragraphId &&
-      now - previous.time < 360 &&
-      Math.abs(event.clientX - previous.clientX) < 18 &&
-      Math.abs(event.clientY - previous.clientY) < 18;
-
-    lastParagraphTap.current = {
-      paragraphId,
-      time: now,
-      clientX: event.clientX,
-      clientY: event.clientY,
-    };
-
-    if (isDoubleTap) {
-      event.preventDefault();
-      speakWordFromEventPoint(event);
-    }
-  }
-
-  function handleHighlightedWordPointerUp(
-    event: PointerEvent<HTMLButtonElement>,
-    word: string,
-  ) {
-    if (event.pointerType === "mouse") return;
-
-    const normalized = word.trim().toLowerCase();
-    const now = window.performance.now();
-    const previous = lastWordTap.current;
-    const isDoubleTap =
-      previous.word === normalized && now - previous.time < 360;
-
-    lastWordTap.current = { word: normalized, time: now };
-
-    if (isDoubleTap) {
-      event.preventDefault();
-      event.stopPropagation();
-      void speakWordText(word);
-    }
-  }
-
   function showVocabTip(vocab: VocabularyItem, shouldPlayAudio = false) {
     setActiveVocab(vocab);
     if (tipTimer.current) window.clearTimeout(tipTimer.current);
@@ -286,6 +163,25 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
         setTtsLoadingKey(state === "loading" ? normalized : "");
       },
     });
+  }
+
+  function cancelWordLongPress() {
+    if (longPressTimer.current) {
+      window.clearTimeout(longPressTimer.current);
+      longPressTimer.current = null;
+    }
+  }
+
+  function startWordLongPress(event: PointerEvent<HTMLElement>, word: string) {
+    if (event.pointerType === "mouse") return;
+    const normalized = word.trim();
+    if (!normalized) return;
+    cancelWordLongPress();
+    longPressTimer.current = window.setTimeout(() => {
+      longPressTimer.current = null;
+      window.navigator.vibrate?.(12);
+      void speakWordText(normalized);
+    }, 460);
   }
 
   function findParagraphForVocabulary(vocab: VocabularyItem) {
@@ -341,6 +237,39 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     const parts: ReactNode[] = [];
     const lowerText = text.toLowerCase();
     let index = 0;
+    let plainIndex = 0;
+
+    function pushPlainSegment(segment: string) {
+      let cursor = 0;
+      const wordPattern = /[A-Za-z][A-Za-z'-]*/g;
+      for (const match of segment.matchAll(wordPattern)) {
+        const start = match.index || 0;
+        if (start > cursor) {
+          parts.push(segment.slice(cursor, start));
+        }
+
+        const word = match[0];
+        parts.push(
+          <span
+            key={`plain-${plainIndex}-${start}`}
+            onPointerDown={(event) => startWordLongPress(event, word)}
+            onPointerUp={cancelWordLongPress}
+            onPointerCancel={cancelWordLongPress}
+            onPointerLeave={cancelWordLongPress}
+            onContextMenu={(event) => event.preventDefault()}
+            className="rounded px-0.5 transition active:bg-brandSoft active:text-brand"
+          >
+            {word}
+          </span>,
+        );
+        cursor = start + word.length;
+      }
+
+      if (cursor < segment.length) {
+        parts.push(segment.slice(cursor));
+      }
+      plainIndex += 1;
+    }
 
     while (index < text.length) {
       const match = vocabularyMatcher.find(({ lowerWord }) => {
@@ -351,8 +280,19 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       });
 
       if (!match) {
-        parts.push(text[index]);
-        index += 1;
+        let next = index + 1;
+        while (next < text.length) {
+          const hasVocabAtNext = vocabularyMatcher.some(({ lowerWord }) => {
+            if (!lowerText.startsWith(lowerWord, next)) return false;
+            const before = text[next - 1];
+            const after = text[next + lowerWord.length];
+            return !isLetter(before) && !isLetter(after);
+          });
+          if (hasVocabAtNext) break;
+          next += 1;
+        }
+        pushPlainSegment(text.slice(index, next));
+        index = next;
         continue;
       }
 
@@ -367,7 +307,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
             event.stopPropagation();
             void speakWordText(value);
           }}
-          onPointerUp={(event) => handleHighlightedWordPointerUp(event, value)}
           className="inline-flex items-center gap-1 rounded bg-brandSoft px-1 font-extrabold text-brand underline decoration-brand underline-offset-4"
         >
           {value}
@@ -415,7 +354,13 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                   {activeVocab.word}
                 </p>
                 <p className="mt-1 text-sm leading-6 text-sub">
-                  {[activeVocab.phonetic, activeVocab.pos, activeVocab.level]
+                  {[
+                    activeVocab.phonetic,
+                    activeVocab.pos,
+                    activeVocab.usage || activeVocab.level,
+                    activeVocab.difficulty,
+                    activeVocab.domain,
+                  ]
                     .filter(Boolean)
                     .join(" · ")}
                 </p>
@@ -497,10 +442,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                       paragraph,
                       event.changedTouches[0]?.clientX || 0,
                     )
-                  }
-                  onDoubleClick={handleParagraphDoubleClick}
-                  onPointerUp={(event) =>
-                    handleParagraphPointerUp(event, paragraph.id)
                   }
                   className={[
                     "scroll-mt-36 rounded-[8px] border bg-panel p-4 transition",
@@ -607,7 +548,13 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                           {vocab.word}
                         </h3>
                         <p className="mt-1 text-xs font-bold text-sub">
-                          {[vocab.phonetic, vocab.pos, vocab.level]
+                          {[
+                            vocab.phonetic,
+                            vocab.pos,
+                            vocab.usage || vocab.level,
+                            vocab.difficulty,
+                            vocab.domain,
+                          ]
                             .filter(Boolean)
                             .join(" · ")}
                         </p>
