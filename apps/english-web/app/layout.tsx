@@ -1,49 +1,51 @@
+import { seoKeywords, seoSiteDescription, seoSiteName } from "@study/core/seo";
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import "./globals.css";
 
-const siteName = "cnn 新闻精读";
-const siteDescription =
-  "每日 CNN 新闻英语精读，提供双语全文、重点词汇、难句解析、测验和美式发音练习。";
 const siteUrl =
   process.env.NEXT_PUBLIC_WEB_ORIGIN || "https://english-web-phi.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  applicationName: siteName,
+  applicationName: seoSiteName,
   title: {
-    default: siteName,
-    template: `%s | ${siteName}`,
+    default: seoSiteName,
+    template: `%s | ${seoSiteName}`,
   },
-  description: siteDescription,
-  keywords: [
-    "CNN",
-    "新闻英语",
-    "英语精读",
-    "英语学习",
-    "重点词汇",
-    "难句解析",
-    "英语听力",
-  ],
+  description: seoSiteDescription,
+  keywords: seoKeywords,
+  category: "education",
   icons: {
     icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
     shortcut: "/favicon.svg",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
   },
   alternates: {
     canonical: "/",
   },
   openGraph: {
-    title: siteName,
-    description: siteDescription,
+    title: seoSiteName,
+    description: seoSiteDescription,
     url: "/",
-    siteName,
+    siteName: seoSiteName,
     locale: "zh_CN",
     type: "website",
   },
   twitter: {
     card: "summary",
-    title: siteName,
-    description: siteDescription,
+    title: seoSiteName,
+    description: seoSiteDescription,
   },
 };
 

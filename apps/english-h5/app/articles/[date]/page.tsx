@@ -1,8 +1,13 @@
 import { getArticleByDate, getArticleList } from "@study/core/data";
+import { buildArticleJsonLd, trimSeoDescription } from "@study/core/seo";
 import type { StudyArticle } from "@study/core/types";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { JsonLd } from "../../components/JsonLd";
 import { StudyArticleClient } from "../../components/StudyArticleClient";
+
+const siteUrl =
+  process.env.NEXT_PUBLIC_H5_ORIGIN || "https://english-h5.vercel.app";
 
 export const dynamicParams = false;
 
@@ -21,10 +26,6 @@ async function loadArticle(date: string): Promise<StudyArticle | null> {
   } catch {
     return null;
   }
-}
-
-function trimDescription(value: string) {
-  return value.length > 150 ? `${value.slice(0, 147)}...` : value;
 }
 
 export async function generateMetadata({
@@ -46,7 +47,7 @@ export async function generateMetadata({
   }
 
   const title = `${article.date} · ${article.title}`;
-  const description = trimDescription(article.summary);
+  const description = trimSeoDescription(article.summary);
   const url = `/articles/${article.date}`;
 
   return {
@@ -61,6 +62,7 @@ export async function generateMetadata({
       url,
       type: "article",
       publishedTime: article.date,
+      modifiedTime: article.date,
     },
     twitter: {
       card: "summary",
@@ -78,5 +80,10 @@ export default async function ArticlePage({
 
   if (!article) notFound();
 
-  return <StudyArticleClient article={article} />;
+  return (
+    <>
+      <JsonLd data={buildArticleJsonLd(article, siteUrl)} />
+      <StudyArticleClient article={article} />
+    </>
+  );
 }

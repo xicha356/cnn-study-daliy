@@ -1,7 +1,12 @@
 import { getArticleList } from "@study/core/data";
+import { buildLearningAppJsonLd, buildWebsiteJsonLd } from "@study/core/seo";
 import type { ArticleIndexItem } from "@study/core/types";
 import type { Metadata } from "next";
 import { HomePage } from "./components/HomePage";
+import { JsonLd } from "./components/JsonLd";
+
+const siteUrl =
+  process.env.NEXT_PUBLIC_H5_ORIGIN || "https://english-h5.vercel.app";
 
 export const metadata: Metadata = {
   title: "cnn 新闻精读",
@@ -23,5 +28,11 @@ async function loadArticles(): Promise<ArticleIndexItem[]> {
 
 export default async function Page() {
   const articles = await loadArticles();
-  return <HomePage articles={articles} />;
+  return (
+    <>
+      <JsonLd data={buildWebsiteJsonLd(siteUrl)} />
+      <JsonLd data={buildLearningAppJsonLd(siteUrl)} />
+      <HomePage articles={articles} />
+    </>
+  );
 }

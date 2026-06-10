@@ -8,7 +8,8 @@
     "./data": "./src/data.ts",
     "./storage": "./src/storage.ts",
     "./translation": "./src/translation.ts",
-    "./audio": "./src/audio.ts"
+    "./audio": "./src/audio.ts",
+    "./seo": "./src/seo.ts"
   },
   "scripts": {
     "build": "tsc --noEmit",
