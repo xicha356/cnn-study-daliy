@@ -14,15 +14,15 @@ export type HapticKind =
 const HAPTICS_KEY = "cnn_haptics";
 
 const patterns: Record<HapticKind, number | number[]> = {
-  tap: 8,
-  selection: 12,
-  play: 16,
-  success: [12, 34, 12],
-  warning: [24, 34, 24],
-  error: [36, 36, 36],
-  sheet: 14,
-  toggle: [10, 28, 10],
-  scrub: 7,
+  tap: 18,
+  selection: 22,
+  play: 30,
+  success: [18, 42, 24],
+  warning: [32, 44, 30],
+  error: [46, 52, 46],
+  sheet: 24,
+  toggle: [20, 42, 20],
+  scrub: 12,
 };
 
 let lastHapticAt = 0;
@@ -64,9 +64,6 @@ export function haptic(kind: HapticKind) {
   if (!isHapticsSupported()) return false;
   if (!getHapticsEnabled()) return false;
   if (document.visibilityState !== "visible") return false;
-  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-    return false;
-  }
 
   const now = Date.now();
   const minimumGap =

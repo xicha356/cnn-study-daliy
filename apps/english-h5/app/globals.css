@@ -117,12 +117,53 @@ button {
     transform: translateY(0) scale(1);
   }
   45% {
-    transform: translateY(-1px) scale(1.08);
+    transform: translateY(-2px) scale(1.12);
   }
 }
 
 .word-pop {
-  animation: word-pop 360ms ease-out;
+  animation: word-pop 420ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@keyframes choice-correct {
+  0% {
+    box-shadow: 0 0 0 0 rgb(31 157 97 / 0.28);
+  }
+  65% {
+    box-shadow: 0 0 0 10px rgb(31 157 97 / 0);
+  }
+  100% {
+    box-shadow: none;
+  }
+}
+
+@keyframes choice-wrong {
+  0% {
+    transform: translateX(0);
+    box-shadow: 0 0 0 0 rgb(209 75 75 / 0.24);
+  }
+  24% {
+    transform: translateX(-2px);
+  }
+  48% {
+    transform: translateX(2px);
+  }
+  72% {
+    transform: translateX(-1px);
+    box-shadow: 0 0 0 8px rgb(209 75 75 / 0);
+  }
+  100% {
+    transform: translateX(0);
+    box-shadow: none;
+  }
+}
+
+.choice-correct {
+  animation: choice-correct 560ms ease-out;
+}
+
+.choice-wrong {
+  animation: choice-wrong 420ms ease-out;
 }
 
 .touch-callout-none {

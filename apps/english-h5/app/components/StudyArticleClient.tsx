@@ -130,6 +130,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const [pulseParagraphId, setPulseParagraphId] = useState("");
   const [wordPulseKey, setWordPulseKey] = useState("");
   const [ttsLoadingKey, setTtsLoadingKey] = useState("");
+  const [pendingParagraphId, setPendingParagraphId] = useState("");
   const [pendingSentenceKey, setPendingSentenceKey] = useState("");
   const [copiedKey, setCopiedKey] = useState("");
   const [quizAnswers, setQuizAnswers] = useState<Record<number, number>>({});
@@ -289,11 +290,15 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     }
   }
 
-  async function readParagraphAloud(text: string) {
+  async function readParagraphAloud(text: string, paragraphId: string) {
     haptic("play");
     const ok = await playTtsText(text, {
+      cacheKey: `paragraph:${article.date}:${paragraphId}`,
       kind: "Paragraph",
       title: "Paragraph reading",
+      onState: (state) => {
+        setPendingParagraphId(state === "loading" ? paragraphId : "");
+      },
     });
     if (!ok) haptic("error");
     return ok;
@@ -736,6 +741,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
             {article.paragraphs.map((paragraph, index) => {
               const isShowingCn = Boolean(visibleCn[paragraph.id]);
               const translation = translations[paragraph.id];
+              const isReadingParagraph = pendingParagraphId === paragraph.id;
               return (
                 <article
                   key={paragraph.id}
@@ -782,12 +788,26 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                       </button>
                       <button
                         type="button"
-                        onClick={() => void readParagraphAloud(paragraph.en)}
+                        onClick={() =>
+                          void readParagraphAloud(paragraph.en, paragraph.id)
+                        }
                         aria-label={`Read paragraph ${index + 1}`}
                         title={`Read paragraph ${index + 1}`}
-                        className="inline-flex h-8 w-8 items-center justify-center rounded-full border border-line bg-panel text-xs font-black text-sub transition active:scale-95"
+                        className={[
+                          "inline-flex h-8 w-8 items-center justify-center rounded-full border bg-panel text-xs font-black transition active:scale-95",
+                          isReadingParagraph
+                            ? "border-brand text-brand"
+                            : "border-line text-sub",
+                        ].join(" ")}
                       >
-                        <span aria-hidden="true">▶</span>
+                        {isReadingParagraph ? (
+                          <span
+                            aria-hidden="true"
+                            className="h-3.5 w-3.5 animate-spin rounded-full border-2 border-current border-t-transparent"
+                          />
+                        ) : (
+                          <span aria-hidden="true">▶</span>
+                        )}
                       </button>
                       <button
                         type="button"
@@ -998,9 +1018,9 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                         className={[
                           "rounded-[8px] border p-3 text-left text-sm font-semibold leading-6 transition",
                           answered && correct
-                            ? "border-good bg-brandSoft text-text"
+                            ? "choice-correct border-good bg-brandSoft text-text"
                             : answered && chosen
-                              ? "border-bad bg-bg text-text"
+                              ? "choice-wrong border-bad bg-bg text-text"
                               : "border-line bg-bg text-sub",
                         ].join(" ")}
                       >
