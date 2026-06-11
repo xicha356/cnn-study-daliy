@@ -152,18 +152,32 @@ jobs:
           resolve_vercel_auth() {
             VERCEL_AUTH_FLAGS=()
             if [ -n "${VERCEL_TOKEN:-}" ]; then
-              echo "Using VERCEL_TOKEN for $APP_NAME deployment."
+              echo "Checking VERCEL_TOKEN for $APP_NAME deployment."
               VERCEL_AUTH_FLAGS=(--token "$VERCEL_TOKEN")
-            elif [ -n "${VERCEL_AUTH_JSON_B64:-}" ]; then
-              echo "Using VERCEL_AUTH_JSON_B64 for $APP_NAME deployment."
-              VERCEL_AUTH_DIR="$RUNNER_TEMP/vercel-auth-$APP_NAME"
-              mkdir -p "$VERCEL_AUTH_DIR"
-              printf '%s' "$VERCEL_AUTH_JSON_B64" | base64 -d > "$VERCEL_AUTH_DIR/auth.json"
-              VERCEL_AUTH_FLAGS=(--global-config "$VERCEL_AUTH_DIR")
-            else
-              echo "::error::$APP_NAME Vercel deployment is missing VERCEL_TOKEN and VERCEL_AUTH_JSON_B64."
-              exit 1
+              if pnpm dlx "vercel@$VERCEL_CLI_VERSION" whoami "${VERCEL_AUTH_FLAGS[@]}" >/dev/null 2>&1; then
+                echo "Using VERCEL_TOKEN for $APP_NAME deployment."
+                return 0
+              fi
+              echo "::warning::VERCEL_TOKEN is not valid for $APP_NAME deployment. Trying VERCEL_AUTH_JSON_B64 fallback."
             fi
+
+            if [ -n "${VERCEL_AUTH_JSON_B64:-}" ]; then
+              echo "Checking VERCEL_AUTH_JSON_B64 for $APP_NAME deployment."
+              VERCEL_AUTH_DIR="$RUNNER_TEMP/vercel-auth-$APP_NAME"
+              rm -rf "$VERCEL_AUTH_DIR"
+              mkdir -p "$VERCEL_AUTH_DIR"
+              if printf '%s' "$VERCEL_AUTH_JSON_B64" | base64 -d > "$VERCEL_AUTH_DIR/auth.json"; then
+                VERCEL_AUTH_FLAGS=(--global-config "$VERCEL_AUTH_DIR")
+                if pnpm dlx "vercel@$VERCEL_CLI_VERSION" whoami "${VERCEL_AUTH_FLAGS[@]}" >/dev/null 2>&1; then
+                  echo "Using VERCEL_AUTH_JSON_B64 for $APP_NAME deployment."
+                  return 0
+                fi
+              fi
+              echo "::warning::VERCEL_AUTH_JSON_B64 is not valid for $APP_NAME deployment."
+            fi
+
+            echo "::error::$APP_NAME Vercel deployment has no valid credential. Refresh VERCEL_TOKEN or VERCEL_AUTH_JSON_B64 in GitHub Secrets."
+            exit 1
           }
 
           retry() {
@@ -247,18 +261,32 @@ jobs:
           resolve_vercel_auth() {
             VERCEL_AUTH_FLAGS=()
             if [ -n "${VERCEL_TOKEN:-}" ]; then
-              echo "Using VERCEL_TOKEN for $APP_NAME deployment."
+              echo "Checking VERCEL_TOKEN for $APP_NAME deployment."
               VERCEL_AUTH_FLAGS=(--token "$VERCEL_TOKEN")
-            elif [ -n "${VERCEL_AUTH_JSON_B64:-}" ]; then
-              echo "Using VERCEL_AUTH_JSON_B64 for $APP_NAME deployment."
-              VERCEL_AUTH_DIR="$RUNNER_TEMP/vercel-auth-$APP_NAME"
-              mkdir -p "$VERCEL_AUTH_DIR"
-              printf '%s' "$VERCEL_AUTH_JSON_B64" | base64 -d > "$VERCEL_AUTH_DIR/auth.json"
-              VERCEL_AUTH_FLAGS=(--global-config "$VERCEL_AUTH_DIR")
-            else
-              echo "::error::$APP_NAME Vercel deployment is missing VERCEL_TOKEN and VERCEL_AUTH_JSON_B64."
-              exit 1
+              if pnpm dlx "vercel@$VERCEL_CLI_VERSION" whoami "${VERCEL_AUTH_FLAGS[@]}" >/dev/null 2>&1; then
+                echo "Using VERCEL_TOKEN for $APP_NAME deployment."
+                return 0
+              fi
+              echo "::warning::VERCEL_TOKEN is not valid for $APP_NAME deployment. Trying VERCEL_AUTH_JSON_B64 fallback."
             fi
+
+            if [ -n "${VERCEL_AUTH_JSON_B64:-}" ]; then
+              echo "Checking VERCEL_AUTH_JSON_B64 for $APP_NAME deployment."
+              VERCEL_AUTH_DIR="$RUNNER_TEMP/vercel-auth-$APP_NAME"
+              rm -rf "$VERCEL_AUTH_DIR"
+              mkdir -p "$VERCEL_AUTH_DIR"
+              if printf '%s' "$VERCEL_AUTH_JSON_B64" | base64 -d > "$VERCEL_AUTH_DIR/auth.json"; then
+                VERCEL_AUTH_FLAGS=(--global-config "$VERCEL_AUTH_DIR")
+                if pnpm dlx "vercel@$VERCEL_CLI_VERSION" whoami "${VERCEL_AUTH_FLAGS[@]}" >/dev/null 2>&1; then
+                  echo "Using VERCEL_AUTH_JSON_B64 for $APP_NAME deployment."
+                  return 0
+                fi
+              fi
+              echo "::warning::VERCEL_AUTH_JSON_B64 is not valid for $APP_NAME deployment."
+            fi
+
+            echo "::error::$APP_NAME Vercel deployment has no valid credential. Refresh VERCEL_TOKEN or VERCEL_AUTH_JSON_B64 in GitHub Secrets."
+            exit 1
           }
 
           retry() {

@@ -71,7 +71,7 @@ Vercel 自动部署使用这些项目 ID，已经在 workflow 里写了默认值
 
 如果后面换了 Vercel 项目，可以在 GitHub 仓库 Variables 里覆盖这三个值。
 
-当前 workflow 会优先使用 `VERCEL_AUTH_JSON_B64` 恢复 Vercel CLI 登录态；没有这个 secret 时，才使用 `VERCEL_TOKEN`。本机 Vercel CLI 的短期 token 不能直接当 CI 的 `--token` 使用，会出现 `The token provided via --token argument is not valid`。后面如果在 Vercel Account Tokens 页面创建了正式 Access Token，可以更新 `VERCEL_TOKEN` 并删除 `VERCEL_AUTH_JSON_B64`。
+当前 workflow 会优先检查正式的 `VERCEL_TOKEN`；如果 token 已失效，会自动尝试 `VERCEL_AUTH_JSON_B64` 备份登录态。两者都不可用时，部署 job 会明确失败并提示刷新 GitHub Secrets。本机 Vercel CLI 的短期 token 不能直接当 CI 的 `--token` 使用，会出现 `The token provided via --token argument is not valid`。后面如果在 Vercel Account Tokens 页面创建了正式 Access Token，可以更新 `VERCEL_TOKEN` 并删除 `VERCEL_AUTH_JSON_B64`。
 
 如果想改成 Vercel 原生 Git 自动部署，需要先在 Vercel 账号里添加 GitHub Login Connection，然后把两个项目分别连接到 `xicha356/cnn-study-daliy`。连接完成后，在 Vercel Project Settings -> Environments -> Production -> Branch Tracking 里把 Production Branch 设为 `main`。
 
