@@ -4,6 +4,10 @@ on:
   schedule:
     # 周一到周五 北京时间 07:30 = UTC 23:30 (前一天)
     - cron: '30 23 * * 0-4'
+    # 周一到周五 北京时间 12:30 / 16:30 / 21:30 补跑，等待 CNN 当天文稿发布
+    - cron: '30 4 * * 1-5'
+    - cron: '30 8 * * 1-5'
+    - cron: '30 13 * * 1-5'
     # 周六北京时间 07:30 再跑一次，自动回退到周五内容
     - cron: '30 23 * * 5'
 
@@ -29,9 +33,16 @@ concurrency:
   group: daily-cnn-generate
   cancel-in-progress: false
 
+env:
+  VERCEL_CLI_VERSION: 54.10.2
+
 jobs:
   generate:
+    name: 生成并提交最新可用内容
     runs-on: ubuntu-latest
+    outputs:
+      article_date: ${{ steps.article_meta.outputs.article_date }}
+      content_changed: ${{ steps.commit_content.outputs.content_changed }}
 
     steps:
       - name: 检出 main 分支
@@ -66,8 +77,8 @@ jobs:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID || 'pNInz6obpgDQGcFmaJgB' }}
           ELEVENLABS_MODEL_ID: ${{ vars.ELEVENLABS_MODEL_ID || 'eleven_flash_v2_5' }}
-          TARGET_DATE: ${{ github.event.inputs.date }}
-          FORCE_REGENERATE: ${{ github.event.inputs.force_regenerate }}
+          TARGET_DATE: ${{ inputs.date || '' }}
+          FORCE_REGENERATE: ${{ inputs.force_regenerate || 'false' }}
           MAX_VOCAB_ITEMS: ${{ vars.MAX_VOCAB_ITEMS || '50' }}
           MIN_SENTENCE_ITEMS: ${{ vars.MIN_SENTENCE_ITEMS || '20' }}
           MAX_SENTENCE_ITEMS: ${{ vars.MAX_SENTENCE_ITEMS || '30' }}
@@ -79,64 +90,217 @@ jobs:
           pnpm prepare:data
           pnpm validate:data
 
-      - name: 提交并触发 Vercel 生产部署
+      - name: 读取最新文章日期
+        id: article_meta
+        run: |
+          article_date="$(node -e "const data = require('./public/data/articles.json'); if (!data[0]?.date) process.exit(1); console.log(data[0].date)")"
+          echo "article_date=$article_date" >> "$GITHUB_OUTPUT"
+          echo "ARTICLE_DATE=$article_date" >> "$GITHUB_ENV"
+          echo "Latest article date: $article_date"
+
+      - name: 提交生成内容
+        id: commit_content
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/ public/data/ public/audio/
-          git diff --staged --quiet && exit 0
-          git commit -m "📚 $(date +'%Y-%m-%d') Vercel CNN精读内容"
+          if git diff --staged --quiet; then
+            echo "content_changed=false" >> "$GITHUB_OUTPUT"
+            echo "No generated content changes for $ARTICLE_DATE."
+            exit 0
+          fi
+
+          git commit -m "📚 $ARTICLE_DATE Vercel CNN精读内容"
           git pull --rebase origin main
           git push origin HEAD:main
+          echo "content_changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy-web:
+    name: 部署 PC 到 Vercel
+    runs-on: ubuntu-latest
+    needs: generate
+    env:
+      APP_NAME: PC
+      EXPECTED_ARTICLE_DATE: ${{ needs.generate.outputs.article_date }}
+      PUBLIC_ARTICLES_URL: https://english-web-phi.vercel.app/data/articles.json
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_AUTH_JSON_B64: ${{ secrets.VERCEL_AUTH_JSON_B64 }}
+      VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID || 'team_1bo68GKRsXoT2DiPBWHiD9NK' }}
+      VERCEL_PROJECT_ID: ${{ vars.VERCEL_WEB_PROJECT_ID || 'prj_3cUbNdsi38fSX0bPXoZ5LZ8jOW6B' }}
+
+    steps:
+      - name: 检出最新 main 分支
+        uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: 设置 pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9.15.0
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+          cache: 'pnpm'
 
       - name: 部署 PC 到 Vercel
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          VERCEL_AUTH_JSON_B64: ${{ secrets.VERCEL_AUTH_JSON_B64 }}
-          VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID || 'team_1bo68GKRsXoT2DiPBWHiD9NK' }}
-          VERCEL_PROJECT_ID: ${{ vars.VERCEL_WEB_PROJECT_ID || 'prj_3cUbNdsi38fSX0bPXoZ5LZ8jOW6B' }}
         run: |
-          VERCEL_AUTH_FLAGS=()
-          if [ -n "$VERCEL_AUTH_JSON_B64" ]; then
-            VERCEL_AUTH_DIR="$RUNNER_TEMP/vercel-auth-web"
-            mkdir -p "$VERCEL_AUTH_DIR"
-            printf '%s' "$VERCEL_AUTH_JSON_B64" | base64 -d > "$VERCEL_AUTH_DIR/auth.json"
-            VERCEL_AUTH_FLAGS=(--global-config "$VERCEL_AUTH_DIR")
-            unset VERCEL_TOKEN
-          elif [ -n "$VERCEL_TOKEN" ]; then
-            VERCEL_AUTH_FLAGS=(--token "$VERCEL_TOKEN")
-          else
-            echo "::warning::未配置 VERCEL_AUTH_JSON_B64 或 VERCEL_TOKEN，跳过 PC Vercel 自动部署。"
-            exit 0
-          fi
+          git pull --ff-only origin main
+
+          resolve_vercel_auth() {
+            VERCEL_AUTH_FLAGS=()
+            if [ -n "${VERCEL_TOKEN:-}" ]; then
+              echo "Using VERCEL_TOKEN for $APP_NAME deployment."
+              VERCEL_AUTH_FLAGS=(--token "$VERCEL_TOKEN")
+            elif [ -n "${VERCEL_AUTH_JSON_B64:-}" ]; then
+              echo "Using VERCEL_AUTH_JSON_B64 for $APP_NAME deployment."
+              VERCEL_AUTH_DIR="$RUNNER_TEMP/vercel-auth-$APP_NAME"
+              mkdir -p "$VERCEL_AUTH_DIR"
+              printf '%s' "$VERCEL_AUTH_JSON_B64" | base64 -d > "$VERCEL_AUTH_DIR/auth.json"
+              VERCEL_AUTH_FLAGS=(--global-config "$VERCEL_AUTH_DIR")
+            else
+              echo "::error::$APP_NAME Vercel deployment is missing VERCEL_TOKEN and VERCEL_AUTH_JSON_B64."
+              exit 1
+            fi
+          }
+
+          retry() {
+            local attempt=1
+            local max_attempts=3
+            local delay=10
+            until "$@"; do
+              local status=$?
+              if [ "$attempt" -ge "$max_attempts" ]; then
+                return "$status"
+              fi
+              echo "::warning::Command failed for $APP_NAME deployment, retrying in ${delay}s (attempt $attempt/$max_attempts)."
+              sleep "$delay"
+              attempt=$((attempt + 1))
+            done
+          }
+
+          verify_latest_article() {
+            local actual=""
+            for attempt in 1 2 3 4 5 6 7 8 9 10; do
+              actual="$(
+                curl -fsSL "$PUBLIC_ARTICLES_URL?check=${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}-${attempt}" |
+                  node -e 'let body = ""; process.stdin.on("data", chunk => body += chunk); process.stdin.on("end", () => { try { const data = JSON.parse(body); console.log(data?.[0]?.date || ""); } catch { process.exit(2); } });' 2>/dev/null || true
+              )"
+              if [ "$actual" = "$EXPECTED_ARTICLE_DATE" ]; then
+                echo "$APP_NAME production data is up to date: $actual"
+                return 0
+              fi
+              echo "::warning::$APP_NAME production data date is '${actual:-unavailable}', expected '$EXPECTED_ARTICLE_DATE'. Retrying..."
+              sleep 10
+            done
+
+            echo "::error::$APP_NAME production data did not update. Expected '$EXPECTED_ARTICLE_DATE', got '${actual:-unavailable}'."
+            exit 1
+          }
+
+          resolve_vercel_auth
+          pnpm dlx "vercel@$VERCEL_CLI_VERSION" whoami "${VERCEL_AUTH_FLAGS[@]}"
+          rm -rf .vercel
           mkdir -p .vercel
           printf '{"orgId":"%s","projectId":"%s"}' "$VERCEL_ORG_ID" "$VERCEL_PROJECT_ID" > .vercel/project.json
-          pnpm dlx vercel@54.10.2 pull --yes --environment production "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
-          pnpm dlx vercel@54.10.2 build --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
-          pnpm dlx vercel@54.10.2 deploy --prebuilt --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
+          retry pnpm dlx "vercel@$VERCEL_CLI_VERSION" pull --yes --environment production "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
+          pnpm dlx "vercel@$VERCEL_CLI_VERSION" build --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
+          retry pnpm dlx "vercel@$VERCEL_CLI_VERSION" deploy --prebuilt --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
+          verify_latest_article
+
+  deploy-h5:
+    name: 部署 H5 到 Vercel
+    runs-on: ubuntu-latest
+    needs: generate
+    env:
+      APP_NAME: H5
+      EXPECTED_ARTICLE_DATE: ${{ needs.generate.outputs.article_date }}
+      PUBLIC_ARTICLES_URL: https://english-h5.vercel.app/data/articles.json
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_AUTH_JSON_B64: ${{ secrets.VERCEL_AUTH_JSON_B64 }}
+      VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID || 'team_1bo68GKRsXoT2DiPBWHiD9NK' }}
+      VERCEL_PROJECT_ID: ${{ vars.VERCEL_H5_PROJECT_ID || 'prj_WHlzXhnhB5UjiJOoOOoS9yhyEq0T' }}
+
+    steps:
+      - name: 检出最新 main 分支
+        uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: 设置 pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9.15.0
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+          cache: 'pnpm'
 
       - name: 部署 H5 到 Vercel
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          VERCEL_AUTH_JSON_B64: ${{ secrets.VERCEL_AUTH_JSON_B64 }}
-          VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID || 'team_1bo68GKRsXoT2DiPBWHiD9NK' }}
-          VERCEL_PROJECT_ID: ${{ vars.VERCEL_H5_PROJECT_ID || 'prj_WHlzXhnhB5UjiJOoOOoS9yhyEq0T' }}
         run: |
-          VERCEL_AUTH_FLAGS=()
-          if [ -n "$VERCEL_AUTH_JSON_B64" ]; then
-            VERCEL_AUTH_DIR="$RUNNER_TEMP/vercel-auth-h5"
-            mkdir -p "$VERCEL_AUTH_DIR"
-            printf '%s' "$VERCEL_AUTH_JSON_B64" | base64 -d > "$VERCEL_AUTH_DIR/auth.json"
-            VERCEL_AUTH_FLAGS=(--global-config "$VERCEL_AUTH_DIR")
-            unset VERCEL_TOKEN
-          elif [ -n "$VERCEL_TOKEN" ]; then
-            VERCEL_AUTH_FLAGS=(--token "$VERCEL_TOKEN")
-          else
-            echo "::warning::未配置 VERCEL_AUTH_JSON_B64 或 VERCEL_TOKEN，跳过 H5 Vercel 自动部署。"
-            exit 0
-          fi
+          git pull --ff-only origin main
+
+          resolve_vercel_auth() {
+            VERCEL_AUTH_FLAGS=()
+            if [ -n "${VERCEL_TOKEN:-}" ]; then
+              echo "Using VERCEL_TOKEN for $APP_NAME deployment."
+              VERCEL_AUTH_FLAGS=(--token "$VERCEL_TOKEN")
+            elif [ -n "${VERCEL_AUTH_JSON_B64:-}" ]; then
+              echo "Using VERCEL_AUTH_JSON_B64 for $APP_NAME deployment."
+              VERCEL_AUTH_DIR="$RUNNER_TEMP/vercel-auth-$APP_NAME"
+              mkdir -p "$VERCEL_AUTH_DIR"
+              printf '%s' "$VERCEL_AUTH_JSON_B64" | base64 -d > "$VERCEL_AUTH_DIR/auth.json"
+              VERCEL_AUTH_FLAGS=(--global-config "$VERCEL_AUTH_DIR")
+            else
+              echo "::error::$APP_NAME Vercel deployment is missing VERCEL_TOKEN and VERCEL_AUTH_JSON_B64."
+              exit 1
+            fi
+          }
+
+          retry() {
+            local attempt=1
+            local max_attempts=3
+            local delay=10
+            until "$@"; do
+              local status=$?
+              if [ "$attempt" -ge "$max_attempts" ]; then
+                return "$status"
+              fi
+              echo "::warning::Command failed for $APP_NAME deployment, retrying in ${delay}s (attempt $attempt/$max_attempts)."
+              sleep "$delay"
+              attempt=$((attempt + 1))
+            done
+          }
+
+          verify_latest_article() {
+            local actual=""
+            for attempt in 1 2 3 4 5 6 7 8 9 10; do
+              actual="$(
+                curl -fsSL "$PUBLIC_ARTICLES_URL?check=${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}-${attempt}" |
+                  node -e 'let body = ""; process.stdin.on("data", chunk => body += chunk); process.stdin.on("end", () => { try { const data = JSON.parse(body); console.log(data?.[0]?.date || ""); } catch { process.exit(2); } });' 2>/dev/null || true
+              )"
+              if [ "$actual" = "$EXPECTED_ARTICLE_DATE" ]; then
+                echo "$APP_NAME production data is up to date: $actual"
+                return 0
+              fi
+              echo "::warning::$APP_NAME production data date is '${actual:-unavailable}', expected '$EXPECTED_ARTICLE_DATE'. Retrying..."
+              sleep 10
+            done
+
+            echo "::error::$APP_NAME production data did not update. Expected '$EXPECTED_ARTICLE_DATE', got '${actual:-unavailable}'."
+            exit 1
+          }
+
+          resolve_vercel_auth
+          pnpm dlx "vercel@$VERCEL_CLI_VERSION" whoami "${VERCEL_AUTH_FLAGS[@]}"
+          rm -rf .vercel
           mkdir -p .vercel
           printf '{"orgId":"%s","projectId":"%s"}' "$VERCEL_ORG_ID" "$VERCEL_PROJECT_ID" > .vercel/project.json
-          pnpm dlx vercel@54.10.2 pull --yes --environment production "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json
-          pnpm dlx vercel@54.10.2 build --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json
-          pnpm dlx vercel@54.10.2 deploy --prebuilt --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json
+          retry pnpm dlx "vercel@$VERCEL_CLI_VERSION" pull --yes --environment production "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json
+          pnpm dlx "vercel@$VERCEL_CLI_VERSION" build --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json
+          retry pnpm dlx "vercel@$VERCEL_CLI_VERSION" deploy --prebuilt --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json
+          verify_latest_article
