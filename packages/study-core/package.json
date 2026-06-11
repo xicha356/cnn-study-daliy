@@ -6,6 +6,7 @@
   "exports": {
     "./types": "./src/types.ts",
     "./data": "./src/data.ts",
+    "./i18n": "./src/i18n.ts",
     "./storage": "./src/storage.ts",
     "./translation": "./src/translation.ts",
     "./audio": "./src/audio.ts",

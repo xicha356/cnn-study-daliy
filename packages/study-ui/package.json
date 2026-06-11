@@ -7,6 +7,8 @@
     "./utils": "./src/utils.ts",
     "./AudioButton": "./src/AudioButton.tsx",
     "./GlobalAudioPlayer": "./src/GlobalAudioPlayer.tsx",
+    "./LanguageSwitcher": "./src/LanguageSwitcher.tsx",
+    "./LocaleRedirectScript": "./src/LocaleRedirectScript.tsx",
     "./ThemeToggle": "./src/ThemeToggle.tsx",
     "./WordPopup": "./src/WordPopup.tsx",
     "./ParagraphFlipCard": "./src/ParagraphFlipCard.tsx"

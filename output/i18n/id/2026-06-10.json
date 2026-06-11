@@ -1,0 +1,2112 @@
+{
+  "date": "2026-06-10",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-10/segment/01",
+  "summary": "Dalam pemilihan pendahuluan Partai Demokrat di Maine, Graham Platter yang dilanda skandal mengalahkan Gubernur Janet Mills dengan sekitar 75% suara, dan akan menantang Senator Partai Republik Susan Collins. Platter perlu memenangkan pendukung Mills, sementara Collins masih unggul di kalangan pemilih independen. Berita lainnya: AS melancarkan serangan rudal ke Iran; OpenAI mengajukan IPO; sidang dokumen Epstein; pernyataan kontroversial kandidat gubernur Colorado Victor Marx.",
+  "vocabulary": [
+    {
+      "word": "stick with",
+      "phonetic": "/stɪk wɪð/",
+      "pos": "phrasal verb",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Dasar",
+      "domain": "Umum",
+      "level": "Ekspresi sehari-hari · Dasar",
+      "cn": "tetap memilih; terus mendukung",
+      "en": "to continue to support or choose someone or something",
+      "excerpt": "Democrats in Maine vote to stick with Graham Platner.",
+      "example_cn": "Para pemilih Demokrat di Maine memutuskan untuk terus mendukung Graham Platter.",
+      "audio_url": "output/audio/vocab/2026-06-10/stick-with-5b443823.mp3"
+    },
+    {
+      "word": "flip",
+      "phonetic": "/flɪp/",
+      "pos": "verb",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "membalikkan (merujuk pada partai yang memenangkan kursi yang sebelumnya dikuasai lawan dalam pemilu)",
+      "en": "to win a seat or office that was previously held by the opposing party",
+      "excerpt": "Could that cost the party a shot at flipping the Senate this fall?",
+      "example_cn": "Akankah ini melemahkan peluang partai untuk membalikkan Senat pada musim gugur ini?",
+      "audio_url": "output/audio/vocab/2026-06-10/flip-40f924d8.mp3"
+    },
+    {
+      "word": "weigh",
+      "phonetic": "/weɪ/",
+      "pos": "verb",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Dasar",
+      "domain": "Umum",
+      "level": "Ekspresi sehari-hari · Dasar",
+      "cn": "mempertimbangkan; menimbang-nimbang",
+      "en": "to consider something carefully, especially by comparing different factors",
+      "excerpt": "that's the situation that we have to weigh.",
+      "example_cn": "Itu adalah situasi yang harus kita pertimbangkan.",
+      "audio_url": "output/audio/vocab/2026-06-10/weigh-1ea8af94.mp3"
+    },
+    {
+      "word": "strain",
+      "phonetic": "/streɪn/",
+      "pos": "verb",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "membuat tegang; memberi tekanan",
+      "en": "to cause something to be under pressure or tension",
+      "excerpt": "Will the strained ceasefire last long enough for the U.S. to deliver that long-promised deal with Iran?",
+      "example_cn": "Akankah gencatan senjata yang tegang bertahan cukup lama bagi AS untuk menepati perjanjian komitmen jangka panjang dengan Iran?",
+      "audio_url": "output/audio/vocab/2026-06-10/strain-26d10fbf.mp3"
+    },
+    {
+      "word": "deliver",
+      "phonetic": "/dɪˈlɪvər/",
+      "pos": "verb",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "menepati (janji); menyerahkan",
+      "en": "to fulfill a promise or expectation; to provide something promised",
+      "excerpt": "for the U.S. to deliver that long-promised deal with Iran.",
+      "example_cn": "agar AS menepati perjanjian komitmen jangka panjang dengan Iran.",
+      "audio_url": "output/audio/vocab/2026-06-10/deliver-c3a71b15.mp3"
+    },
+    {
+      "word": "frontrunner",
+      "phonetic": "/ˈfrʌntˌrʌnər/",
+      "pos": "noun",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "pemimpin; kandidat terdepan",
+      "en": "the person or thing that is most likely to win a competition or election",
+      "excerpt": "Meet the frontrunner in the Republican race for governor of Colorado.",
+      "example_cn": "Kenali pemimpin dalam pemilihan gubernur Partai Republik di Colorado.",
+      "audio_url": "output/audio/vocab/2026-06-10/frontrunner-8625c821.mp3"
+    },
+    {
+      "word": "bubble",
+      "phonetic": "/ˈbʌbəl/",
+      "pos": "noun",
+      "usage": "Umum dalam Berita",
+      "difficulty": "Lanjutan",
+      "domain": "Ekonomi dan Keuangan",
+      "level": "Umum dalam Berita · Lanjutan",
+      "cn": "gelembung (kenaikan harga aset yang cepat terlepas dari fundamental)",
+      "en": "a situation in which the price of an asset rises far above its real value, often followed by a sudden collapse",
+      "excerpt": "signaling to me that the A.I. bubble is about to pop.",
+      "example_cn": "Menunjukkan bahwa gelembung AI akan segera pecah.",
+      "audio_url": "output/audio/vocab/2026-06-10/bubble-834184e4.mp3"
+    },
+    {
+      "word": "pop",
+      "phonetic": "/pɒp/",
+      "pos": "verb",
+      "usage": "Ekspresi Sehari-hari",
+      "difficulty": "Dasar",
+      "domain": "Ekonomi dan Keuangan",
+      "level": "Ekspresi Sehari-hari · Dasar",
+      "cn": "破裂；爆裂",
+      "en": "to burst or break open suddenly, often with a sound",
+      "excerpt": "the A.I. bubble is about to pop.",
+      "example_cn": "人工智能泡沫即将破裂。",
+      "audio_url": "output/audio/vocab/2026-06-10/pop-4f197c99.mp3"
+    },
+    {
+      "word": "punch one's ticket",
+      "phonetic": "/pʌntʃ wʌnz ˈtɪkɪt/",
+      "pos": "idiom",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "固定搭配 · 进阶",
+      "cn": "获得（提名/资格）；成功晋级",
+      "en": "to secure a nomination or qualification, especially in politics",
+      "excerpt": "Graham Platner punches his ticket.",
+      "example_cn": "格雷厄姆·普拉特纳获得了提名。",
+      "audio_url": "output/audio/vocab/2026-06-10/punch-one-s-ticket-495024d3.mp3"
+    },
+    {
+      "word": "clinch",
+      "phonetic": "/klɪntʃ/",
+      "pos": "verb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "锁定（胜利/提名）",
+      "en": "to finally win or achieve something, especially after a struggle",
+      "excerpt": "Moments after clinching the nomination, he turned his attention to his new opponent.",
+      "example_cn": "在锁定提名后不久，他将注意力转向了他的新对手。",
+      "audio_url": "output/audio/vocab/2026-06-10/clinch-e37e15ae.mp3"
+    },
+    {
+      "word": "spineless",
+      "phonetic": "/ˈspaɪnləs/",
+      "pos": "adjective",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "日常表达 · 进阶",
+      "cn": "没有骨气的；懦弱的",
+      "en": "lacking courage or determination; weak-willed",
+      "excerpt": "she has become just as spineless and corrupt as the establishment she now serves.",
+      "example_cn": "她变得和她现在服务的建制派一样懦弱和腐败。",
+      "audio_url": "output/audio/vocab/2026-06-10/spineless-bd636fd3.mp3"
+    },
+    {
+      "word": "establishment",
+      "phonetic": "/ɪˈstæblɪʃmənt/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "建制派；当权派",
+      "en": "the group of people who have power and influence in a society or organization, often seen as conservative or resistant to change",
+      "excerpt": "as the establishment she now serves.",
+      "example_cn": "她所服务的建制派。",
+      "audio_url": "output/audio/vocab/2026-06-10/establishment-15e523ca.mp3"
+    },
+    {
+      "word": "independent voice",
+      "phonetic": "/ˌɪndɪˈpendənt vɔɪs/",
+      "pos": "noun phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "固定搭配 · 进阶",
+      "cn": "独立的声音（指不依附政党、独立表达意见的人）",
+      "en": "a person or entity that expresses opinions independently, not aligned with a particular party or group",
+      "excerpt": "If you are an independent voice, why do you vote with Donald Trump 95 percent of the time?",
+      "example_cn": "如果你是一个独立的声音，为什么你95%的时间都和唐纳德·特朗普投票一致？",
+      "audio_url": "output/audio/vocab/2026-06-10/independent-voice-37a5c60e.mp3"
+    },
+    {
+      "word": "have a dog in the fight",
+      "phonetic": "/hæv ə dɒɡ ɪn ðə faɪt/",
+      "pos": "idiom",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "在竞争中有利益关系；参与其中",
+      "en": "to have a personal stake or interest in a particular situation or conflict",
+      "excerpt": "you guys had a dog in the fight in this race.",
+      "example_cn": "你们在这场竞选中有利害关系。",
+      "audio_url": "output/audio/vocab/2026-06-10/have-a-dog-in-the-fight-b33c24e1.mp3"
+    },
+    {
+      "word": "at stake",
+      "phonetic": "/æt steɪk/",
+      "pos": "phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "处于风险中；成败攸关",
+      "en": "at risk; something that could be lost or gained",
+      "excerpt": "what's at stake here.",
+      "example_cn": "Apa yang dipertaruhkan di sini.",
+      "audio_url": "output/audio/vocab/2026-06-10/at-stake-ed5c6c49.mp3"
+    },
+    {
+      "word": "jeopardize",
+      "phonetic": "/ˈdʒepərdaɪz/",
+      "pos": "verb",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "membahayakan; merusak",
+      "en": "to put something at risk of being lost or harmed",
+      "excerpt": "Maybe this has jeopardized it.",
+      "example_cn": "Mungkin ini sudah membahayakannya.",
+      "audio_url": "output/audio/vocab/2026-06-10/jeopardize-f6672bb1.mp3"
+    },
+    {
+      "word": "blowout",
+      "phonetic": "/ˈbloʊaʊt/",
+      "pos": "noun",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan diplomasi",
+      "level": "Ekspresi sehari-hari · Lanjutan",
+      "cn": "kemenangan telak; pemilihan sepihak",
+      "en": "an easy or decisive victory, especially in an election or sports event",
+      "excerpt": "A lot of times it can be a blowout, right?",
+      "example_cn": "Seringkali itu bisa menjadi kemenangan telak, bukan?",
+      "audio_url": "output/audio/vocab/2026-06-10/blowout-dfa69475.mp3"
+    },
+    {
+      "word": "in essence",
+      "phonetic": "/ɪn ˈesəns/",
+      "pos": "phrase",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "Ekspresi sehari-hari · 基础",
+      "cn": "本质上；实质上",
+      "en": "fundamentally; in its most important aspects",
+      "excerpt": "we're saying the same thing in essence, right?",
+      "example_cn": "我们本质上说的是同一件事，对吧？",
+      "audio_url": "output/audio/vocab/2026-06-10/in-essence-2ea6c77e.mp3"
+    },
+    {
+      "word": "tough to beat",
+      "phonetic": "/tʌf tə biːt/",
+      "pos": "phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "难以击败的",
+      "en": "difficult to defeat or overcome",
+      "excerpt": "Susan Collins is tough to beat.",
+      "example_cn": "苏珊·柯林斯很难被击败。",
+      "audio_url": "output/audio/vocab/2026-06-10/tough-to-beat-f0a13a4e.mp3"
+    },
+    {
+      "word": "Susan Collins light",
+      "phonetic": "/ˈsuːzən ˈkɒlɪnz laɪt/",
+      "pos": "noun phrase",
+      "usage": "固定搭配",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "固定搭配 · 高阶",
+      "cn": "Susan Collins versi yang lebih ringan (kandidat dengan posisi serupa tetapi lebih moderat)",
+      "en": "a candidate who is similar to Susan Collins but less extreme or less effective",
+      "excerpt": "you're not going to win this seat by electing a Susan Collins light.",
+      "example_cn": "Kamu tidak bisa memenangkan kursi ini dengan memilih Susan Collins versi yang lebih ringan.",
+      "audio_url": "output/audio/vocab/2026-06-10/susan-collins-light-a339fceb.mp3"
+    },
+    {
+      "word": "energize your base",
+      "phonetic": "/ˈenərdʒaɪz jɔːr beɪs/",
+      "pos": "phrase",
+      "usage": "Frasa tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Frasa tetap · Lanjutan",
+      "cn": "Memotivasi basis pemilihmu (pendukung inti)",
+      "en": "to motivate and rally the core supporters of a political party or candidate",
+      "excerpt": "You are going to beat her by energizing your base.",
+      "example_cn": "Kamu harus mengalahkannya dengan memotivasi basis pemilihmu.",
+      "audio_url": "output/audio/vocab/2026-06-10/energize-your-base-efa2eed8.mp3"
+    },
+    {
+      "word": "midterm election",
+      "phonetic": "/ˈmɪdtɜːrm ɪˈlekʃən/",
+      "pos": "noun phrase",
+      "usage": "Istilah teknis",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Istilah teknis · Lanjutan",
+      "cn": "Pemilihan paruh waktu (pemilihan kongres yang diadakan di tengah masa jabatan presiden AS)",
+      "en": "an election held in the middle of a president's term, typically for Congress and state offices",
+      "excerpt": "particularly in a midterm election.",
+      "example_cn": "Terutama dalam pemilihan paruh waktu.",
+      "audio_url": "output/audio/vocab/2026-06-10/midterm-election-37274e18.mp3"
+    },
+    {
+      "word": "referendum",
+      "phonetic": "/ˌrefəˈrendəm/",
+      "pos": "noun",
+      "usage": "专业术语",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "专业术语 · 进阶",
+      "cn": "公投；全民公决",
+      "en": "a direct vote by the electorate on a specific proposal or issue",
+      "excerpt": "this election has got to be a referendum on Susan Collins.",
+      "example_cn": "这次选举必须是对苏珊·柯林斯的公投。",
+      "audio_url": "output/audio/vocab/2026-06-10/referendum-ae5948d3.mp3"
+    },
+    {
+      "word": "hold accountable",
+      "phonetic": "/hoʊld əˈkaʊntəbəl/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "固定搭配 · 进阶",
+      "cn": "追究责任；使承担责任",
+      "en": "to require someone to explain their actions and accept responsibility",
+      "excerpt": "her refusal to hold Donald Trump accountable.",
+      "example_cn": "她拒绝追究唐纳德·特朗普的责任。",
+      "audio_url": "output/audio/vocab/2026-06-10/hold-accountable-f0ed7864.mp3"
+    },
+    {
+      "word": "back-to-back",
+      "phonetic": "/ˌbæk tə ˈbæk/",
+      "pos": "adverb",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "连续地；一个接一个地",
+      "en": "consecutively; one after another",
+      "excerpt": "I want to play two clips back-to-back.",
+      "example_cn": "我想连续播放两段剪辑。",
+      "audio_url": "output/audio/vocab/2026-06-10/back-to-back-63f6b2de.mp3"
+    },
+    {
+      "word": "ringing endorsement",
+      "phonetic": "/ˈrɪŋɪŋ ɪnˈdɔːrsmənt/",
+      "pos": "noun phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "固定搭配 · 进阶",
+      "cn": "强有力的支持；明确的背书",
+      "en": "a strong and enthusiastic statement of support",
+      "excerpt": "these are not ringing endorsements.",
+      "example_cn": "这些都不是强有力的支持。",
+      "audio_url": "output/audio/vocab/2026-06-10/ringing-endorsement-f5553c3b.mp3"
+    },
+    {
+      "word": "against her will",
+      "phonetic": "/əˈɡenst hɜːr wɪl/",
+      "pos": "phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "违背她的意愿",
+      "en": "without her consent or desire",
+      "excerpt": "who said she voted for Susan Collins, against her will.",
+      "example_cn": "她说她违背自己的意愿投票给了苏珊·柯林斯。",
+      "audio_url": "output/audio/vocab/2026-06-10/against-her-will-73b87a00.mp3"
+    },
+    {
+      "word": "character quality",
+      "phonetic": "/ˈkærɪktər ˈkwɒləti/",
+      "pos": "noun phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "品格素质",
+      "en": "the moral and ethical qualities of a person",
+      "excerpt": "It's really about the character quality.",
+      "example_cn": "这实际上是关于品格素质。",
+      "audio_url": "output/audio/vocab/2026-06-10/character-quality-599836d4.mp3"
+    },
+    {
+      "word": "tight bond",
+      "phonetic": "/taɪt bɒnd/",
+      "pos": "noun phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "紧密的联系",
+      "en": "a close and strong relationship",
+      "excerpt": "Collins and Trump, that's not a tight bond.",
+      "example_cn": "柯林斯和特朗普，关系并不紧密。",
+      "audio_url": "output/audio/vocab/2026-06-10/tight-bond-e3789afb.mp3"
+    },
+    {
+      "word": "trigger",
+      "phonetic": "/ˈtrɪɡər/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "触发机制；诱因",
+      "en": "a mechanism that initiates a process or event",
+      "excerpt": "The 60 days is a trigger.",
+      "example_cn": "60天是一个触发点。",
+      "audio_url": "output/audio/vocab/2026-06-10/trigger-63d62d4a.mp3"
+    },
+    {
+      "word": "congressional approval",
+      "phonetic": "/kənˈɡreʃənəl əˈpruːvəl/",
+      "pos": "noun phrase",
+      "usage": "专业术语",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "专业术语 · 进阶",
+      "cn": "国会批准",
+      "en": "formal consent or authorization by the U.S. Congress",
+      "excerpt": "the president has to obtain congressional approval.",
+      "example_cn": "总统必须获得国会批准。",
+      "audio_url": "output/audio/vocab/2026-06-10/congressional-approval-6a97bf82.mp3"
+    },
+    {
+      "word": "convicted",
+      "phonetic": "/kənˈvɪktɪd/",
+      "pos": "adjective",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "法律司法",
+      "level": "新闻常用 · 进阶",
+      "cn": "telah dihukum",
+      "en": "found guilty of a crime by a court of law",
+      "excerpt": "individuals who were convicted of violence against police officers.",
+      "example_cn": "Seseorang yang telah dihukum karena menyerang polisi dengan kekerasan.",
+      "audio_url": "output/audio/vocab/2026-06-10/convicted-e9ca1a81.mp3"
+    },
+    {
+      "word": "reimbursement",
+      "phonetic": "/ˌriːɪmˈbɜːrsmənt/",
+      "pos": "noun",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Ekonomi dan Keuangan",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "penggantian biaya; pembayaran kembali",
+      "en": "the act of paying back money spent or lost",
+      "excerpt": "should be entitled to reimbursement for their legal fees.",
+      "example_cn": "Harus berhak mengganti biaya hukum mereka.",
+      "audio_url": "output/audio/vocab/2026-06-10/reimbursement-19b7d3af.mp3"
+    },
+    {
+      "word": "legal fees",
+      "phonetic": "/ˈliːɡəl fiːz/",
+      "pos": "noun phrase",
+      "usage": "Istilah teknis",
+      "difficulty": "Lanjutan",
+      "domain": "Hukum dan Peradilan",
+      "level": "Istilah teknis · Lanjutan",
+      "cn": "biaya pengacara; biaya hukum",
+      "en": "charges for legal services provided by a lawyer or law firm",
+      "excerpt": "reimbursement for their legal fees.",
+      "example_cn": "Mengganti biaya hukum mereka.",
+      "audio_url": "output/audio/vocab/2026-06-10/legal-fees-152dae91.mp3"
+    },
+    {
+      "word": "cuts",
+      "phonetic": "/kʌts/",
+      "pos": "noun",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Ekonomi dan Keuangan",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "pemotongan (biasanya anggaran atau pengeluaran)",
+      "en": "reductions in spending, especially in government budgets",
+      "excerpt": "Concerned about the cuts in Medicaid.",
+      "example_cn": "Khawatir tentang pemotongan Medicaid.",
+      "audio_url": "output/audio/vocab/2026-06-10/cuts-f3881b3a.mp3"
+    },
+    {
+      "word": "Medicaid",
+      "phonetic": "/ˈmedɪkeɪd/",
+      "pos": "noun",
+      "usage": "Latar belakang istilah khusus",
+      "difficulty": "Lanjutan",
+      "domain": "Masyarakat dan Kesejahteraan Sosial",
+      "level": "Latar belakang istilah khusus · Lanjutan",
+      "cn": "Medicaid (asuransi kesehatan untuk orang berpenghasilan rendah yang disediakan oleh pemerintah federal dan negara bagian AS)",
+      "en": "a U.S. government program that provides health insurance to low-income individuals and families",
+      "excerpt": "Concerned about the cuts in Medicaid.",
+      "example_cn": "Khawatir tentang pemotongan Medicaid.",
+      "audio_url": "output/audio/vocab/2026-06-10/medicaid-1fb98d5e.mp3"
+    },
+    {
+      "word": "enforcement surge",
+      "phonetic": "/ɪnˈfɔːrsmənt sɜːrdʒ/",
+      "pos": "noun phrase",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "政治外交",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "执法激增；加强执法行动",
+      "en": "a sudden increase in law enforcement activities, often targeting specific issues",
+      "excerpt": "a pause on the enforcement surge in both Maine and in Minne...",
+      "example_cn": "暂停缅因州和明尼苏达州的执法激增行动。",
+      "audio_url": "output/audio/vocab/2026-06-10/enforcement-surge-79ceb588.mp3"
+    },
+    {
+      "word": "missile",
+      "phonetic": "/ˈmɪsaɪl/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "导弹",
+      "en": "a weapon that is thrown or fired through the air, especially one that is guided",
+      "excerpt": "Missiles light up the sky in the Middle East again.",
+      "example_cn": "导弹再次照亮中东的天空。",
+      "audio_url": "output/audio/vocab/2026-06-10/missile-520b856d.mp3"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "停火；停战",
+      "en": "a temporary agreement to stop fighting",
+      "excerpt": "Will the strained ceasefire last long enough?",
+      "example_cn": "Apakah gencatan senjata yang tegang ini dapat bertahan cukup lama?",
+      "audio_url": "output/audio/vocab/2026-06-10/ceasefire-dcd3a293.mp3"
+    },
+    {
+      "word": "Epstein files",
+      "phonetic": "/ˈepstaɪn faɪlz/",
+      "pos": "noun phrase",
+      "usage": "Latar belakang nama khusus",
+      "difficulty": "Tingkat lanjut",
+      "domain": "Hukum dan peradilan",
+      "level": "Latar belakang nama khusus · Tingkat lanjut",
+      "cn": "Dokumen Epstein (merujuk pada dokumen kasus yang terkait dengan pelaku kejahatan seksual yang telah meninggal, Jeffrey Epstein)",
+      "en": "documents related to the case of Jeffrey Epstein, a convicted sex offender",
+      "excerpt": "a big day for the Epstein files.",
+      "example_cn": "Hari penting bagi dokumen Epstein.",
+      "audio_url": "output/audio/vocab/2026-06-10/epstein-files-259af8d3.mp3"
+    },
+    {
+      "word": "sex offender",
+      "phonetic": "/seks əˈfendər/",
+      "pos": "noun phrase",
+      "usage": "Umum dalam berita",
+      "difficulty": "Menengah",
+      "domain": "Hukum dan peradilan",
+      "level": "Umum dalam berita · Menengah",
+      "cn": "Pelaku kejahatan seksual",
+      "en": "a person who has been convicted of a sexual crime",
+      "excerpt": "the late convicted sex offender.",
+      "example_cn": "Pelaku kejahatan seksual yang telah dihukum dan meninggal.",
+      "audio_url": "output/audio/vocab/2026-06-10/sex-offender-23f9e204.mp3"
+    },
+    {
+      "word": "gubernatorial",
+      "phonetic": "/ˌɡuːbərnəˈtɔːriəl/",
+      "pos": "adjective",
+      "usage": "Istilah teknis",
+      "difficulty": "Tingkat Lanjut",
+      "domain": "Politik dan Diplomasi",
+      "level": "Istilah teknis · Tingkat Lanjut",
+      "cn": "gubernatorial; berkaitan dengan gubernur atau pemilihan gubernur",
+      "en": "relating to a governor or the election of a governor",
+      "excerpt": "Colorado gubernatorial candidate.",
+      "example_cn": "Kandidat gubernur Colorado.",
+      "audio_url": "output/audio/vocab/2026-06-10/gubernatorial-c095ac10.mp3"
+    },
+    {
+      "word": "IPO",
+      "phonetic": "/ˌaɪ piː ˈoʊ/",
+      "pos": "noun",
+      "usage": "Istilah Teknis",
+      "difficulty": "Menengah",
+      "domain": "Ekonomi dan Keuangan",
+      "level": "Istilah Teknis · Menengah",
+      "cn": "Penawaran Umum Perdana (IPO)",
+      "en": "Initial Public Offering; the first sale of a company's shares to the public",
+      "excerpt": "OpenAI and Anthropic plan to have IPOs.",
+      "example_cn": "OpenAI dan Anthropic berencana melakukan Penawaran Umum Perdana.",
+      "audio_url": "output/audio/vocab/2026-06-10/ipo-731aad18.mp3"
+    },
+    {
+      "word": "bubble about to pop",
+      "phonetic": "/ˈbʌbəl əˈbaʊt tə pɒp/",
+      "pos": "phrase",
+      "usage": "Kolokasi Tetap",
+      "difficulty": "Menengah",
+      "domain": "Ekonomi dan Keuangan",
+      "level": "Kolokasi Tetap · Menengah",
+      "cn": "泡沫即将破裂",
+      "en": "a situation where an economic bubble is about to burst",
+      "excerpt": "the A.I. bubble is about to pop.",
+      "example_cn": "人工智能泡沫即将破裂。",
+      "audio_url": "output/audio/vocab/2026-06-10/bubble-about-to-pop-bbfd405f.mp3"
+    },
+    {
+      "word": "signal",
+      "phonetic": "/ˈsɪɡnəl/",
+      "pos": "verb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "表明；示意",
+      "en": "to indicate or show something, often indirectly",
+      "excerpt": "signaling to me that the A.I. bubble is about to pop.",
+      "example_cn": "向我表明人工智能泡沫即将破裂。",
+      "audio_url": "output/audio/vocab/2026-06-10/signal-36ab4aaa.mp3"
+    },
+    {
+      "word": "helicopter downed",
+      "phonetic": "/ˈhelɪkɒptər daʊnd/",
+      "pos": "phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "直升机被击落",
+      "en": "a helicopter that has been shot down or forced to crash",
+      "excerpt": "U.S. Hits Iran after Helicopter Downed.",
+      "example_cn": "直升机被击落后美国打击伊朗。",
+      "audio_url": "output/audio/vocab/2026-06-10/helicopter-downed-1a00c3bb.mp3"
+    },
+    {
+      "word": "hits",
+      "phonetic": "/hɪts/",
+      "pos": "verb",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Keamanan Militer",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "Serangan; menyerang",
+      "en": "to attack or strike, especially militarily",
+      "excerpt": "U.S. Hits Iran after Helicopter Downed.",
+      "example_cn": "Setelah helikopter ditembak jatuh, Amerika menyerang Iran.",
+      "audio_url": "output/audio/vocab/2026-06-10/hits-c748c763.mp3"
+    },
+    {
+      "word": "lawmaker",
+      "phonetic": "/ˈlɔːmeɪkər/",
+      "pos": "noun",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "Pembuat undang-undang; anggota parlemen",
+      "en": "a person who makes laws; a member of a legislature",
+      "excerpt": "What will Bill Gates tell lawmakers about his links?",
+      "example_cn": "Apa yang akan Bill Gates katakan kepada para legislator tentang hubungannya dengan Epstein?",
+      "audio_url": "output/audio/vocab/2026-06-10/lawmaker-aafee119.mp3"
+    },
+    {
+      "word": "links",
+      "phonetic": "/lɪŋks/",
+      "pos": "noun",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "通用",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "联系；关联",
+      "en": "connections or relationships between people or things",
+      "excerpt": "his links to the late convicted sex offender.",
+      "example_cn": "他与已故的已定罪性犯罪者的联系。",
+      "audio_url": "output/audio/vocab/2026-06-10/links-379e75c8.mp3"
+    },
+    {
+      "word": "kill someone as a child",
+      "phonetic": "/kɪl ˈsʌmwʌn æz ə tʃaɪld/",
+      "pos": "phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "社会民生",
+      "level": "日常表达 · 基础",
+      "cn": "小时候杀人",
+      "en": "to have committed murder when one was a child",
+      "excerpt": "a candidate who also claims he killed someone as a child.",
+      "example_cn": "一位还声称自己小时候杀过人的候选人。",
+      "audio_url": "output/audio/vocab/2026-06-10/kill-someone-as-a-child-20b2a2de.mp3"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Democrats in Maine vote to stick with Graham Platner.",
+      "cn": "缅因州的民主党人投票支持格雷厄姆·普拉特纳。",
+      "structure": "简单句：主语（Democrats in Maine）+ 谓语（vote）+ 不定式短语（to stick with Graham Platner）作宾语。",
+      "analysis": "stick with 意为\"坚持支持\"，是新闻常用短语。"
+    },
+    {
+      "en": "Could that cost the party a shot at flipping the Senate this fall?",
+      "cn": "这会让该党失去今年秋天翻转参议院的机会吗？",
+      "structure": "疑问句：情态动词（Could）+ 主语（that）+ 谓语（cost）+ 间接宾语（the party）+ 直接宾语（a shot at flipping the Senate this fall）。",
+      "analysis": "cost sb. a shot at sth. 意为\"使某人失去做某事的机会\"；flip the Senate 指\"翻转参议院（控制权）\"，是政治新闻常用表达。"
+    },
+    {
+      "en": "If the choice on the ballot is between that and a senator who's voted to take health care away from millions of Americans, that's the situation that we have to weigh.",
+      "cn": "如果选票上的选择是在那个（指普拉特纳的争议行为）和一位投票剥夺数百万美国人医保的参议员之间，那就是我们必须权衡的情况。",
+      "structure": "条件状语从句（If...）+ 主句（that's the situation）+ 定语从句（that we have to weigh）。",
+      "analysis": "weigh 意为\"权衡\"，是抽象动词；take health care away from 是新闻中常见的负面政策描述。"
+    },
+    {
+      "en": "Will the strained ceasefire last long enough for the U.S. to deliver that long-promised deal with Iran?",
+      "cn": "紧张的停火协议能否持续足够长的时间，让美国兑现与伊朗长期承诺的协议？",
+      "structure": "一般疑问句：Will + 主语（the strained ceasefire）+ 谓语（last）+ 状语（long enough）+ 不定式短语（for the U.S. to deliver...）。",
+      "analysis": "strained ceasefire 意为\"紧张的停火\"；long-promised 是复合形容词，意为\"长期承诺的\"。"
+    },
+    {
+      "en": "What will Bill Gates tell lawmakers about his links to the late convicted sex offender.",
+      "cn": "比尔·盖茨将就他与已故被定罪性犯罪者的关联向立法者说些什么。",
+      "structure": "特殊疑问句：What + 助动词（will）+ 主语（Bill Gates）+ 谓语（tell）+ 间接宾语（lawmakers）+ 介词短语（about his links...）。",
+      "analysis": "the late convicted sex offender 指\"已故被定罪的性犯罪者\"，late 意为\"已故的\"，convicted 是过去分词作定语。"
+    },
+    {
+      "en": "Do you think that you've killed people as an adult?",
+      "cn": "你认为你成年后杀过人吗？",
+      "structure": "一般疑问句（Do you think）+ 宾语从句（that you've killed people as an adult）。",
+      "analysis": "as an adult 意为\"作为成年人\"，与后文\"as a child\"形成对比。"
+    },
+    {
+      "en": "OpenAI and Anthropic plan to have IPOs at release before the end of this year, signaling to me that the A.I. bubble is about to pop.",
+      "cn": "OpenAI 和 Anthropic 计划在今年年底前进行首次公开募股，这向我表明人工智能泡沫即将破裂。",
+      "structure": "主句（OpenAI and Anthropic plan to have IPOs...）+ 现在分词短语（signaling to me that...）作结果状语，其中包含宾语从句（that the A.I. bubble is about to pop）。",
+      "analysis": "IPO 是 Initial Public Offering 的缩写；signal to sb. that... 意为\"向某人表明……\"；be about to pop 意为\"即将破裂\"。"
+    },
+    {
+      "en": "To any of those who feel let down or disappointed or disillusioned, it is my job to earn your trust, faith, and support.",
+      "cn": "对于任何感到失望、沮丧或幻想破灭的人，我的工作是赢得你们的信任、信念和支持。",
+      "structure": "介词短语（To any of those...）作状语，其中包含定语从句（who feel let down or disappointed or disillusioned）；主句（it is my job to earn...）。",
+      "analysis": "let down 意为\"失望\"；disillusioned 意为\"幻想破灭\"；it is my job to do sth. 是强调结构的常见表达。"
+    },
+    {
+      "en": "And I will spend every day of this campaign.",
+      "cn": "我将花费这场竞选的每一天。",
+      "structure": "简单句：主语（I）+ 谓语（will spend）+ 宾语（every day of this campaign）。",
+      "analysis": "spend 后接时间名词，表示\"花费时间\"。"
+    },
+    {
+      "en": "And if I have the privilege every day in the United States Senate doing exactly that.",
+      "cn": "如果我有幸每天在美国参议院做同样的事。",
+      "structure": "条件状语从句（if I have the privilege...），其中包含现在分词短语（doing exactly that）作伴随状语。",
+      "analysis": "have the privilege doing sth. 意为\"有幸做某事\"；the United States Senate 是专有名词。"
+    },
+    {
+      "en": "Graham Platner punches his ticket.",
+      "cn": "格雷厄姆·普拉特纳获得了提名。",
+      "structure": "简单句：主语（Graham Platner）+ 谓语（punches）+ 宾语（his ticket）。",
+      "analysis": "punch one's ticket 是习语，意为\"获得（政治）提名或资格\"。"
+    },
+    {
+      "en": "But now he's got to convince voters to choose him over a five-term senator.",
+      "cn": "但现在他必须说服选民选择他而不是一位连任五届的参议员。",
+      "structure": "简单句：主语（he）+ 谓语（'s got to convince）+ 宾语（voters）+ 不定式短语（to choose him over...）。",
+      "analysis": "convince sb. to do sth. 意为\"说服某人做某事\"；choose A over B 意为\"选择A而不是B\"；five-term 是复合形容词，意为\"连任五届的\"。"
+    },
+    {
+      "en": "Democrat Graham Platner, despite all the scandals, earned about three-fourths of primary voters' support over Governor Janet Mills.",
+      "cn": "民主党人格雷厄姆·普拉特纳，尽管有所有丑闻，还是赢得了大约四分之三初选选民的支持，超过了州长珍妮特·米尔斯。",
+      "structure": "主语（Democrat Graham Platner）+ 插入语（despite all the scandals）+ 谓语（earned）+ 宾语（about three-fourths of primary voters' support）+ 状语（over Governor Janet Mills）。",
+      "analysis": "despite 表示让步；three-fourths 是分数表达；over 在此表示\"超过\"。"
+    },
+    {
+      "en": "Moments after clinching the nomination, he turned his attention to his new opponent, Republican Senator Susan Collins.",
+      "cn": "在获得提名后不久，他就将注意力转向了他的新对手，共和党参议员苏珊·柯林斯。",
+      "structure": "时间状语（获得提名后不久）+ 主句（他将注意力转向...），其中宾语（他的新对手）后跟同位语（共和党参议员苏珊·柯林斯）。",
+      "analysis": "clinch the nomination 意为\"获得提名\"；turn one's attention to 意为\"将注意力转向\"。"
+    },
+    {
+      "en": "Susan Collins may have started her career decades ago in Washington with good intentions, but she has become just as spineless and corrupt as the establishment she now serves.",
+      "cn": "苏珊·柯林斯可能几十年前在华盛顿以良好的意图开始了她的职业生涯，但她已经变得和她现在所服务的建制派一样软弱和腐败。",
+      "structure": "并列句：第一分句（Susan Collins may have started...）+ but 连接第二分句（she has become...），其中包含比较结构（as...as...）和定语从句（she now serves）。",
+      "analysis": "may have started 表示对过去的推测；spineless 意为\"没有骨气的\"；the establishment 指\"建制派\"。"
+    },
+    {
+      "en": "If you are an independent voice, why do you vote with Donald Trump 95 percent of the time?",
+      "cn": "如果你是一个独立的声音，为什么你95%的时间都和唐纳德·特朗普投票一致？",
+      "structure": "条件状语从句（If you are...）+ 主句（why do you vote...）。",
+      "analysis": "independent voice 意为\"独立的声音\"；vote with sb. 意为\"与某人投相同票\"。"
+    },
+    {
+      "en": "Platner has a lot of work to do to get Mills voters on his side.",
+      "cn": "普拉特纳有很多工作要做，以争取米尔斯选民的支持。",
+      "structure": "简单句：主语（Platner）+ 谓语（has）+ 宾语（a lot of work）+ 不定式短语（to do to get...）作定语和目的状语。",
+      "analysis": "get sb. on one's side 意为\"争取某人支持\"。"
+    },
+    {
+      "en": "I couldn't honestly support Platner, even though some of the things that he says are really good.",
+      "cn": "我无法诚实地支持普拉特纳，尽管他说的一些话确实很好。",
+      "structure": "Kalimat utama (I couldn't honestly support Platner) + klausa konsesif (even though some of the things...), yang mengandung klausa relatif (that he says).",
+      "analysis": "honestly adalah adverbia, memodifikasi support; even though memimpin klausa konsesif."
+    },
+    {
+      "en": "I don't think he's ready to be a senator.",
+      "cn": "Saya rasa dia belum siap menjadi senator.",
+      "structure": "Kalimat utama (I don't think) + klausa objek (he's ready to be a senator).",
+      "analysis": "Negasi transfer: kalimat utama negatif, klausa positif."
+    },
+    {
+      "en": "I'm leaning towards Collins unless the guy shows something else, but I just -- he's not there yet.",
+      "cn": "Saya cenderung ke Collins, kecuali orang itu menunjukkan hal lain, tapi saya hanya -- dia belum sampai di situ.",
+      "structure": "Kalimat majemuk: klausa pertama (I'm leaning towards Collins unless...) + but menghubungkan klausa kedua (I just -- he's not there yet).",
+      "analysis": "lean towards berarti 'cenderung'; unless memimpin klausa syarat; he's not there yet adalah ekspresi informal, berarti 'dia belum mencapai standar'."
+    },
+    {
+      "en": "And so, what will you do in November if its Platner versus Collins?",
+      "cn": "Jadi, jika November adalah Platner versus Collins, apa yang akan Anda lakukan?",
+      "structure": "Kalimat tanya khusus (what will you do...) + klausa syarat (if it's Platner versus Collins).",
+      "analysis": "its seharusnya it's (kesalahan ketik); versus berarti 'melawan'."
+    },
+    {
+      "en": "I'm a Democrat, but I voted for Susan Collins several times, because I think that she does care about the state of Maine.",
+      "cn": "Saya seorang Demokrat, tetapi saya telah memilih Susan Collins berkali-kali karena saya pikir dia benar-benar peduli pada Maine.",
+      "structure": "并列句：第一分句（I'm a Democrat）+ but 连接第二分句（I voted for Susan Collins several times），后跟原因状语从句（because I think...），其中包含宾语从句（that she does care...）。",
+      "analysis": "does 表示强调；care about 意为\"关心\"。"
+    },
+    {
+      "en": "But it's going to be a real problem for me in November.",
+      "cn": "但这在十一月对我来说将是一个真正的问题。",
+      "structure": "简单句：主语（it）+ 谓语（'s going to be）+ 表语（a real problem）+ 状语（for me in November）。",
+      "analysis": "be going to 表示将来；a real problem 意为\"一个真正的问题\"。"
+    },
+    {
+      "en": "And Max, I'm actually going to start with you, because you're with VoteVets, which means you guys had a dog in the fight in this race.",
+      "cn": "马克斯，我实际上要从你开始，因为你在 VoteVets，这意味着你们在这场竞选中有利害关系。",
+      "structure": "主句（I'm actually going to start with you）+ 原因状语从句（because you're with VoteVets），后跟非限制性定语从句（which means...），其中包含宾语从句（you guys had a dog in the fight）。",
+      "analysis": "have a dog in the fight 是习语，意为\"有利害关系\"。"
+    },
+    {
+      "en": "Democrats' chances of flipping the Maine Senate seat.",
+      "cn": "民主党翻转缅因州参议院席位的机会。",
+      "structure": "名词短语：主语（Democrats' chances）+ 介词短语（of flipping the Maine Senate seat）作定语。",
+      "analysis": "flip the seat 意为\"翻转席位（改变政党控制）\"。"
+    },
+    {
+      "en": "Is this race as close as you all hoped it would be, now that Graham has struggled with these scandals?",
+      "cn": "既然格雷厄姆因这些丑闻而挣扎，这场竞选是否像你们所有人希望的那样接近？",
+      "structure": "一般疑问句（Is this race as close as...）+ 比较结构（as...as...）+ 宾语从句（you all hoped it would be）+ 原因状语从句（now that...）。",
+      "analysis": "as close as 表示\"和……一样接近\"；now that 意为\"既然\"。"
+    },
+    {
+      "en": "The race is always going to be close.",
+      "cn": "这场竞选总是会很接近。",
+      "structure": "简单句：主语（The race）+ 谓语（is always going to be）+ 表语（close）。",
+      "analysis": "be going to 表示将来；close 在此意为\"势均力敌的\"。"
+    },
+    {
+      "en": "Not with a five-term senator, it's not.",
+      "cn": "不是面对一位连任五届的参议员，它不是。",
+      "structure": "省略句：完整形式为\"It is not close with a five-term senator.\"。",
+      "analysis": "five-term 是复合形容词；it's not 是省略表达。"
+    },
+    {
+      "en": "What I would say about the Susan Collins race is that we've seen in the past, is you're not going to win this seat by electing a Susan Collins light or putting forward a Susan Collins light in a race.",
+      "cn": "关于苏珊·柯林斯的竞选，我想说的是，我们在过去看到的是，你不会通过选举一个\"苏珊·柯林斯轻量版\"或在竞选中推出一个\"苏珊·柯林斯轻量版\"来赢得这个席位。",
+      "structure": "主语从句（What I would say...）+ 系动词（is）+ 表语从句（that we've seen...），其中表语从句又包含另一个表语从句（is you're not going to win...）。",
+      "analysis": "Susan Collins light 意为\"苏珊·柯林斯的弱化版\"，light 表示\"轻量级的\"；put forward 意为\"提出\"。"
+    },
+    {
+      "en": "You are going to beat her by energizing your base, particularly in a midterm election.",
+      "cn": "你将通过激励你的基本盘来击败她，尤其是在中期选举中。",
+      "structure": "简单句：主语（You）+ 谓语（are going to beat）+ 宾语（her）+ 方式状语（by energizing your base）+ 插入语（particularly in a midterm election）。",
+      "analysis": "energize your base 意为\"激励你的基本盘\"；midterm election 指\"中期选举\"。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "缅因州参议员选举：普拉特纳 vs. 柯林斯",
+      "content": "缅因州民主党初选中，丑闻缠身的格雷厄姆·普拉特纳（Graham Platner）以约75%得票率击败州长珍妮特·米尔斯（Janet Mills），将挑战五届共和党参议员苏珊·柯林斯（Susan Collins）。普拉特纳需争取米尔斯支持者，而柯林斯在独立选民中仍有优势。民主党希望翻转该席位，但普拉特纳的品格问题可能影响选情。",
+      "keywords": "Graham Platner · Susan Collins · primary · flip · independent voter"
+    },
+    {
+      "title": "美国对伊朗军事打击",
+      "content": "美国在直升机被击落后对伊朗发动导弹袭击，中东紧张局势升级。此前美伊之间曾有长期承诺的协议，但停火（ceasefire）面临压力。事件可能影响地区稳定及美国外交政策。",
+      "keywords": "missile · Iran · ceasefire · U.S. military strike · helicopter downed"
+    },
+    {
+      "title": "人工智能公司IPO与泡沫担忧",
+      "content": "OpenAI和Anthropic计划在年底前进行首次公开募股（IPO），引发市场对人工智能泡沫（A.I. bubble）即将破裂的担忧。投资者关注AI行业估值是否过高，以及IPO是否标志行业转折点。",
+      "keywords": "IPO · OpenAI · Anthropic · A.I. bubble · pop"
+    },
+    {
+      "title": "科罗拉多州长候选人争议言论",
+      "content": "Calon gubernur Colorado dari Partai Republik, Victor Marx, mengaku pernah membunuh seseorang saat kecil dan bertanya \"Apakah itu penting?\", memicu kontroversi. Ia adalah frontrunner dalam pemilihan pendahuluan Partai Republik, dan pernyataan ekstremnya dapat memengaruhi hasil pemilu.",
+      "keywords": "Victor Marx · gubernatorial · frontrunner · controversial · killed someone"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "Dalam 'Democrats in Maine vote to stick with Graham Platner', 'stick with' paling mendekati arti?",
+      "options": [
+        "A. Tetap memilih",
+        "B. Memukul dengan tongkat",
+        "C. Menempel",
+        "D. Menyerah"
+      ],
+      "answer": 0,
+      "explanation": "'stick with' adalah phrasal verb yang berarti \"terus mendukung atau memilih\", di sini berarti para Demokrat memutuskan untuk terus mendukung Platner. Pilihan lain adalah arti harfiah atau kebalikannya."
+    },
+    {
+      "type": "vocab",
+      "question": "Dalam 'the A.I. bubble is about to pop', arti 'pop' adalah?",
+      "options": [
+        "A. Populer",
+        "B. Pecah",
+        "C. Muncul",
+        "D. Mengeluarkan bunyi gedebak"
+      ],
+      "answer": 1,
+      "explanation": "'pop' di sini berarti \"pecah\", merujuk pada pecahnya gelembung. Dalam konteks ekonomi, 'bubble pops' sering digunakan untuk menunjukkan pecahnya gelembung."
+    },
+    {
+      "type": "vocab",
+      "question": "Dalam 'Graham Platner punches his ticket', apa arti 'punches his ticket'?",
+      "options": [
+        "A. Tiket berlubang",
+        "B. Mendapatkan nominasi",
+        "C. Membeli tiket",
+        "D. Melepaskan kualifikasi"
+      ],
+      "answer": 1,
+      "explanation": "'punch one's ticket' adalah idiom yang berarti \"mendapatkan nominasi atau kualifikasi\", terutama dalam konteks politik yang berarti berhasil maju ke tahap berikutnya."
+    },
+    {
+      "type": "comprehension",
+      "question": "Berdasarkan teks, setelah Platner memenangkan pemilihan pendahuluan, tantangan utama yang dihadapinya adalah?",
+      "options": [
+        "A. Mengumpulkan dana kampanye",
+        "B. Mendapatkan dukungan pemilih Mills",
+        "C. Menangani tuduhan skandal",
+        "D. Mendapat dukungan partai"
+      ],
+      "answer": 1,
+      "explanation": "Teks menyebutkan bahwa Platner perlu \"get Mills voters on his side\", yaitu mendapatkan dukungan dari pemilih Mills, karena Mills kalah dalam pemilihan pendahuluan dan pemilihnya mungkin beralih ke Collins."
+    },
+    {
+      "type": "comprehension",
+      "question": "Manakah pernyataan berikut yang benar tentang Susan Collins?",
+      "options": [
+        "A. Dia memiliki hubungan erat dengan Trump",
+        "B. Dia adalah senator lima periode",
+        "C. Dia mendukung Plattner",
+        "D. Dia berasal dari Partai Demokrat"
+      ],
+      "answer": 1,
+      "explanation": "Teks menyebut Collins sebagai \"five-term senator\", yaitu senator lima periode. Hubungannya dengan Trump tidak erat ('not a tight bond'), dan dia adalah seorang Republikan."
+    },
+    {
+      "type": "comprehension",
+      "question": "Tentang IPO AI, pendapat apa yang dikutip dalam teks?",
+      "options": [
+        "A. Gelembung AI akan segera pecah",
+        "B. Valuasi perusahaan AI wajar",
+        "C. IPO akan mendorong perkembangan AI",
+        "D. Pasar penuh keyakinan terhadap AI"
+      ],
+      "answer": 0,
+      "explanation": "Pendapat yang dikutip dalam teks adalah \"the A.I. bubble is about to pop\", yaitu gelembung AI akan segera pecah, mengisyaratkan bahwa IPO mungkin merupakan sinyal puncak gelembung."
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Audie Cornish",
+      "text": "Today in the group chat, Democrats in Maine vote to stick with Graham Platner. Could that cost the party a shot at flipping the Senate this fall? REP. ALEXANDRIA OCASIO-CORTEZ (D-NY): If the choice on the ballot is between that and a senator who's voted to take health care away from millions of Americans, that's the situation that we have to weigh.",
+      "cn": "Hari ini dalam obrolan grup, para Demokrat di Maine memilih Graham Platter. Akankah ini membuat mereka kehilangan kesempatan untuk membalikkan Senat musim gugur ini? Anggota DPR Alexandria Ocasio-Cortez (Demokrat, New York): Jika pilihan di surat suara adalah antara dia dan seorang senator yang memilih untuk mencabut asuransi kesehatan jutaan warga Amerika, itulah situasi yang harus kita pertimbangkan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Missiles light up the sky in the Middle East again. Will the strained ceasefire last long enough for the U.S. to deliver that long- promised deal with Iran? And a big day for the Epstein files. What will Bill Gates tell lawmakers about his links to the late convicted sex offender.",
+      "cn": "Rudal kembali menerangi langit Timur Tengah. Akankah gencatan senjata yang rapuh bertahan cukup lama bagi AS untuk menepati janji perjanjian jangka panjang dengan Iran? Dokumen Epstein memasuki hari penting. Apa yang akan dikatakan Bill Gates kepada para legislator tentang hubungannya dengan pelaku kejahatan seksual yang telah dihukum dan meninggal?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Do you think that you've killed people as an adult? VICTOR MARX (R),",
+      "cn": "Apakah Anda pikir Anda pernah membunuh seseorang setelah dewasa? Victor Marx (Partai Republik),"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This is a candidate who also claims he killed someone as a child. Meet the frontrunner in the Republican race for governor of Colorado. And it's the $3.5 trillion question on Wall Street. Has the A.I. boom gotten ahead of itself?",
+      "cn": "Ini adalah kandidat yang mengaku pernah membunuh seseorang saat kecil. Kenali calon terdepan dalam pemilihan pendahuluan gubernur Colorado dari Partai Republik. Ini adalah masalah senilai $3,5 triliun di Wall Street. Apakah demam AI sudah terlalu maju?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "OpenAI and Anthropic plan to have IPOs at release before the end of this year, signaling to me that the A.I. bubble is about to pop. GRAHAM PLATNER (D),",
+      "cn": "OpenAI dan Anthropic berencana melakukan penawaran umum perdana pada akhir tahun ini, yang menurut saya menunjukkan bahwa gelembung AI akan segera pecah. Graham Platter (Demokrat),"
+    },
+    {
+      "speaker": "Maine Senate Candidate",
+      "text": "To any of those who feel let down or disappointed or disillusioned, it is my job to earn your trust, faith, and support. And I will spend every day of this campaign. And if I have the privilege every day in the United States Senate doing exactly that.",
+      "cn": "Bagi siapa pun yang merasa kecewa atau terasing, tugas saya adalah mendapatkan kepercayaan, keyakinan, dan dukungan Anda. Saya akan menghabiskan setiap hari dalam kampanye ini. Dan jika saya beruntung berada di Senat AS, saya akan melakukannya setiap hari."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Graham Platner punches his ticket. But now he's got to convince voters to choose him over a five-term senator. Good morning everybody. I'm Audie Cornish. Here is where we begin. That big statement out of Maine. Democrat Graham Platner, despite all the scandals, earned about three- fourths of primary voters' support over Governor Janet Mills. Moments after clinching the nomination, he turned his attention to his new opponent, Republican Senator Susan Collins.",
+      "cn": "Graham Platter memenangkan nominasi. Tapi sekarang dia harus meyakinkan pemilih untuk memilihnya daripada seorang senator yang telah menjabat lima periode. Selamat pagi semuanya. Saya Audi Cornish. Mari kita mulai. Berita besar dari Maine. Graham Platter dari Partai Demokrat, meskipun dilanda skandal, memenangkan dukungan sekitar tiga perempat pemilih pendahuluan, mengalahkan Gubernur Janet Mills. Segera setelah mendapatkan nominasi, dia mengalihkan perhatiannya ke lawan barunya, Senator Partai Republik Susan Collins."
+    },
+    {
+      "speaker": "Platner",
+      "text": "Susan Collins may have started -- may have started her career decades ago in Washington with good intentions, but she has become just as spineless and corrupt as the establishment she now serves. If you are an independent voice, why do you vote with Donald Trump 95 percent of the time?",
+      "cn": "Susan Collins mungkin memulai karirnya di Washington dengan niat baik puluhan tahun lalu, tapi dia telah menjadi tidak berprinsip dan korup seperti sistem yang dia layani sekarang. Jika Anda adalah suara independen, mengapa 95% dari waktu Anda memilih Donald Trump?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Platner has a lot of work to do to get Mills voters on his side.",
+      "cn": "Platter perlu bekerja keras untuk membuat pendukung Mills berpihak padanya."
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I couldn't honestly support Platner, even though some of the things that he says are really good.",
+      "cn": "Saya benar-benar tidak bisa mendukung Platter, meskipun beberapa hal yang dia katakan cukup bagus."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "I don't think he's ready to be a senator. I'm leaning towards Collins unless the guy shows something else, but I just -- he's not there yet. And --",
+      "cn": "Saya tidak berpikir dia siap menjadi senator. Saya cenderung mendukung Collins, kecuali orang itu menunjukkan hal lain, tapi saya hanya -- dia belum sampai di situ. Dan --"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "And so, what will you do in November if its Platner versus Collins?",
+      "cn": "Jadi, jika November adalah antara Plattner dan Collins, apa yang akan Anda lakukan?"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "That's a really good question. I'm a Democrat, but I voted for Susan Collins several times, because I think that she does care about the state of Maine. But it's going to be a real problem for me in November.",
+      "cn": "Itu pertanyaan yang bagus. Saya seorang Demokrat, tetapi saya telah memilih Susan Collins beberapa kali karena saya pikir dia benar-benar peduli pada Maine. Tapi November akan menjadi masalah nyata bagi saya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, today in the group chat, Mike Leon, host of the \"Can We Please Talk\" podcast; Jared Stepman, columnist with \"The Daily Signal\"; and Max Rose, former Democratic congressman from New York. And Max, I'm actually going to start with you, because you're with VoteVets, which means you guys had a dog in the fight in this race. You guys have been giving a lot of money across the country. And what is it? Let me just show what -- what's at stake here. Democrats' chances of flipping the Maine Senate seat.",
+      "cn": "Jadi, hari ini dalam obrolan grup, ada Mike Leone, pembawa acara podcast 'Can We Talk?', Jared Steppman, kolumnis untuk 'The Daily Signal', dan mantan anggota DPR Demokrat dari New York, Max Rose. Max, saya sebenarnya ingin bertanya kepada Anda terlebih dahulu, karena Anda bekerja di VoteVets, yang berarti Anda juga memiliki kepentingan dalam pemilihan ini. Anda telah menginvestasikan banyak uang secara nasional. Jadi bagaimana keadaannya? Biarkan saya menunjukkan --  -- apa yang menjadi kuncinya di sini. Peluang Demokrat untuk membalikkan kursi Senat Maine."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It was pretty good. Maybe this has jeopardized it. We're going to show people a chart while you're talking so you can see what's at stake. Is this race as close as you all hoped it would be, now that Graham has struggled with these scandals? MAX ROSE (D),",
+      "cn": "Awalnya cukup bagus. Mungkin ini telah terancam. Kami akan menunjukkan grafik kepada orang-orang saat Anda berbicara sehingga mereka bisa melihat apa yang dipertaruhkan. Karena Graham bergumul dengan skandal-skandal ini, apakah pemilihan ini sedekat yang Anda harapkan? Max Rose (Demokrat):"
+    },
+    {
+      "speaker": "Former New York Congressman",
+      "text": "The race is always going to be close. Because --",
+      "cn": "Pemilihan ini akan selalu ketat. Karena --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Not with a five-term senator, it's not. A lot of times it can be a blowout, right? Like what -- how do you look at what he needs to accomplish?",
+      "cn": "Untuk seorang senator yang menjabat lima periode, tidak seperti itu. Seringkali bisa menjadi satu sisi, kan? Seperti --  -- Bagaimana menurut Anda apa yang perlu dia capai?"
+    },
+    {
+      "speaker": "Rose",
+      "text": "Well, I think that we're saying the same thing --",
+      "cn": "Yah, saya pikir kita mengatakan hal yang sama --  --"
+    },
+    {
+      "speaker": "Rose",
+      "text": "-- in essence, right? Susan Collins is tough to beat. What I would say about the Susan Collins race is that we've seen in the past, is you're not going to win this seat by electing a Susan Collins light or putting forward a Susan Collins light in a race. You are going to beat her by energizing your base, particularly in a midterm election.",
+      "cn": "--  -- pada dasarnya, kan? Susan Collins sulit dikalahkan. Apa yang ingin saya katakan tentang kampanye Susan Collins adalah, yang kita lihat di masa lalu adalah, Anda tidak bisa memenangkan kursi ini dengan memilih 'Susan Collins versi ringan' atau menampilkan 'Susan Collins versi ringan' dalam pemilihan. Anda mengalahkannya dengan memotivasi basis Anda, terutama dalam pemilihan paruh waktu."
+    },
+    {
+      "speaker": "Rose",
+      "text": "There is no doubt, though, that this election has got to be a referendum on Susan Collins: on the ways in which she has voted to empower Donald Trump; on her refusal to hold Donald Trump accountable; on the ways in which she has said, I might be fair, but I want to take healthcare away from millions of people. Says the right thing often; does the wrong thing very frequently.",
+      "cn": "Namun, tidak diragukan lagi, pemilihan ini harus menjadi referendum tentang Susan Collins: tentang cara dia memilih untuk memberdayakan Donald Trump; tentang cara dia menolak untuk meminta pertanggungjawaban Donald Trump; tentang apa yang dia katakan, saya mungkin adil, tetapi saya ingin mengambil perawatan kesehatan dari jutaan orang. Dia sering mengatakan hal yang benar; tetapi sangat sering melakukan hal yang salah."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. So, this is very much the message we hear over and over again. And I love that Platner in front of him, it said, \"They don't know Maine.\" You know what I mean? Usually not his own name, not a bunch of other things. It was like, hello, media, this one is for you. I want to play two clips back-to-back, because it sort of, I think, represents something of this race. First, I'm going to play for you J.D. Vance and how he talks about Susan Collins.",
+      "cn": "Ya. Jadi, itulah pesan yang kami dengar berulang kali. Saya suka papan nama Plattner di depannya yang bertuliskan 'Mereka tidak tahu Maine'. Anda tahu maksud saya? Biasanya bukan namanya sendiri, atau banyak hal lainnya. Seperti, media, ini untuk Anda. Saya ingin memutar dua klip audio berturut-turut, karena saya pikir ini mewakili beberapa karakteristik pemilihan ini. Pertama, saya akan memutar klip J.D. Vance berbicara tentang Susan Collins."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And then I'm going to play AOC and how she's talking about Platner. You tell me how you hear the tone of these. J.D. VANCE (R),",
+      "cn": "Kemudian saya akan memutar klip AOC berbicara tentang Plattner. Anda memberi tahu saya bagaimana Anda merasakan nada-nada ini. J.D. Vance (Republik):"
+    },
+    {
+      "speaker": "U.S. Vice President",
+      "text": "Here's the thing I'll say about Susan Collins, is sometimes I get frustrated with Susan Collins. I almost wish that she was more partisan. But the thing I love about Susan is she is independent, because Maine is an independent state. And frankly, if she was as partisan as I sometimes wish that she was, she would not be a good fit for the people of Maine. So, let's give a shout-out to Susan Collins, who's doing a great job.",
+      "cn": "Apa yang akan saya katakan tentang Susan Collins adalah, kadang-kadang saya frustrasi dengannya. Saya hampir berharap dia lebih partisan. Tapi apa yang saya suka dari Susan adalah dia independen, karena Maine adalah negara bagian yang independen. Terus terang, jika dia partisan seperti yang kadang-kadang saya harapkan, dia tidak akan cocok untuk rakyat Maine. Jadi, mari kita bersorak untuk Susan Collins, dia melakukan pekerjaan dengan baik."
+    },
+    {
+      "speaker": "Ocasio-Cortez",
+      "text": "When it comes to the substance of this reporting, obviously, there's a lot in that behavior that's really challenging. It's hard to stomach, you know, in some of it. But -- but at the end of the day, I think that this is a choice. If that choice on the ballot is between that and a senator who's voted to take healthcare away from millions of Americans, that's the situation that we have to weigh.",
+      "cn": "Regarding the substance of this report, clearly there is a lot that is very disturbing in that behavior. Some of it is hard to accept. But ultimately, I think it's a choice. If the choice on the ballot is between that and a senator who would strip millions of Americans of their healthcare, that's the situation we have to weigh."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I played these, because one is like, it's hard to stomach. And the other is like, I get frustrated. Shout-out though, anyway, because I guess Maine. And I was, like, these are not ringing endorsements. MIKE LEON, HOST, \"CAN WE PLEASE TALK?\"",
+      "cn": "I played these because one is hard to accept and the other frustrates me. But still, kudos because I think it's Maine. I thought, these are not enthusiastic endorsements. Mike Leon, host, \"Can we talk about it?\""
+    },
+    {
+      "speaker": "Podcast",
+      "text": "But Audie, not only are they not ringing endorsements, the voter that we played in the package before listen to her tone. Maine independents are the second largest party in Maine.",
+      "cn": "But Audi, not only is it not an enthusiastic endorsement, listen to the tone of that voter we played in the earlier clip. Independents in Maine are the second largest party in the state."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And a woman, in particular.",
+      "cn": "Yes, especially women."
+    },
+    {
+      "speaker": "Leon",
+      "text": "And a woman and a Democrat who said she voted for Susan Collins, against her will, it sounded like, from that thing. So -- but those are -- those are some of the things that we're going to have to consider now. It's really about the character quality is what something that Graham Platner has been trying to say: Forget about that. I'm from here. It's how she's voted, to Max's point.",
+      "cn": "A female Democrat, she said she voted for Susan Collins, but it sounded like against her will. So -- -- but these are some of the things we have to consider now. It's really about character traits, which is what Graham Plattner has been trying to say: forget that. I'm from here. What matters is her voting record, as Max said."
+    },
+    {
+      "speaker": "Leon",
+      "text": "But then also you hear the voters, and they're, like, a little, still unsure because of those character issues with Platner. So, it's going to be really interesting.",
+      "cn": "But you also hear voters, they're still a bit uncertain because of Plattner's character issues. So, this will be very interesting."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And he's been telling a story for a while of, like, you know, I was -- went through difficult times. Now I'm a person who has changed. I want to ask one more thing. Collins and Trump, that's not a tight bond. OK? Can I just put it that way? Here's a list I'm going to play for you. Just some moments over the past couple of months where you hear her talking around Trump policies and where she stands on them. SEN. SUSAN COLLINS (R-ME): The 60 days is a trigger.",
+      "cn": "And he's been telling a story, like, you know, I've been through hard times. Now I'm a changed person. I want to ask one more thing. Collins and Trump, not close. Okay? Can I say that? Here's a list, I'm going to play it for you. Just some moments from the past few months, you hear her talking about Trump's policies and her stance on them. Senator Susan Collins (R-ME): 60 days is a trigger point."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "After 60 days, in my view, the president has to obtain congressional approval or Congress can block it. I do not believe that individuals who were convicted of violence against police officers on January 6th should be entitled to reimbursement for their legal fees. Concerned about the cuts in Medicaid and the impact on my state, but other states, as well. I've talked with the secretary of homeland security.",
+      "cn": "After 60 days, in my view, the president must get congressional approval, or Congress can block it. I don't think people convicted of violently assaulting police on January 6 should be entitled to reimbursement of legal fees. I'm concerned about the impact of Medicaid cuts on my state and others. I've spoken with the Secretary of Homeland Security."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I have strongly recommended to her that there be a pause on the enforcement surge in both Maine and in Minnesota.",
+      "cn": "I strongly advised her to suspend enforcement actions in Maine and Minnesota."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, I've chased her in the hallways before, too. She often ends up voting with Republicans, whatever that party line is. But is Trump going to get involved in this simply because of what's at stake with the Senate? Or is he going to send surrogates? He'll be like, OK, J.D., you go there? Like, can she expect any support there? JARRETT STEPMAN, COLUMNIST, \"THE DAILY SIGNAL\": Yes, I feel that's why he sent J.D. and I feel he will, if he's smart, actually keep some distance from this.",
+      "cn": "I've chased her down the hallway before. She often ends up voting with Republicans, regardless of party lines. But will Trump get involved just because of the Senate stakes? Or will he send surrogates? Will he say, okay, J.D., you go there? Can she count on support? Daily Signal columnist Jarrett Stepman: Yes, I think that's why he sent J.D., and I think if he's smart, he'll actually keep some distance from this."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I mean part of the -- the thing at stake here is that they're independent. Maine is a little bit different. I mean, both these candidates come from sort of -- almost independent of the party.",
+      "cn": "I mean, part of the stakes is that they are independent. Maine is a bit different. I mean, both candidates come from a kind of -- -- almost independent of party."
+    },
+    {
+      "speaker": "Stepman",
+      "text": "Because they -- they really focus on the issues related to Maine.",
+      "cn": "Because they really focus on issues relevant to Maine."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We should say, Platner is recruiting from outside the party. Yes.",
+      "cn": "Kita harus mengatakan, Plattner sedang merekrut orang dari luar partai. Ya."
+    },
+    {
+      "speaker": "Stepman",
+      "text": "Exactly. So, they're both sort of weirdly outsiders, even though Collins has been Republican part of the party for a long time, she's always struck an independent game this entire time. So, I think that's going to continue during this race. That is her path. Because if she does get too close to Trump, that's going to be the argument saying, whoa, she's too MAGA. She's not -- too much for me, which is more or less a blue state.",
+      "cn": "Benar. Jadi, keduanya agak aneh sebagai orang luar, meskipun Collins sudah lama menjadi bagian dari Partai Republik, dia tetap mempertahankan sikap independen. Jadi, saya pikir situasi ini akan berlanjut dalam kampanye ini. Ini adalah jalannya. Karena jika dia terlalu dekat dengan Trump, akan ada yang berkata, wah, dia terlalu MAGA. Dia tidak cocok untuk saya, dan ini pada dasarnya adalah negara bagian biru."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, you're saying there's nothing to be gained there of him coming.",
+      "cn": "Jadi, maksudmu dia tidak mendapat keuntungan apa pun dengan datang ke sini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, you guys stay with me, because we're going to talk about a couple other states this hour, as well. We're also still waiting for news about some sort of proposed deal with Iran. But in the meantime, the U.S. has launched new strikes against Iran overnight. Plus, Epstein's former assistant testifies before Congress. What she says she did not see. And a Texas teenager convicted of killing a rival track star. Why the jury rejected his claim of self-defense.",
+      "cn": "Baiklah, terus ikuti kami, karena dalam jam ini kami juga akan membahas beberapa negara bagian lain. Kami juga masih menunggu berita tentang semacam kesepakatan yang diusulkan dengan Iran. Namun sementara itu, Amerika melancarkan serangan baru terhadap Iran pada malam hari. Selain itu, mantan asisten Epstein bersaksi di depan Kongres. Dia mengatakan dia tidak melihat apa-apa. Dan seorang remaja Texas dihukum karena membunuh bintang atletik saingan. Mengapa juri menolak klaim pembelaan dirinya."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "It's just sad that it had to come to this. It was just a bad, bad decision he made.",
+      "cn": "Sungguh menyedihkan hal ini sampai sejauh ini. Dia membuat keputusan yang sangat, sangat buruk."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Right now, we are following the latest round of escalation between the U.S. and Iran. U.S. CENTRAL COMMAND saying they are now finished hitting targets in Iran in response to an Army helicopter getting shot down over the Strait of Hormuz. Iran's state media, however, released new video overnight, saying they retaliated to the U.S. by attack -- by launching missiles against targets in Bahrain and Kuwait and an air base in Jordan.",
+      "cn": "Saat ini, kami sedang memantau eskalasi ketegangan terbaru antara AS dan Iran. Komando Pusat AS mengatakan mereka telah menyelesaikan serangan terhadap target di Iran sebagai tanggapan atas jatuhnya helikopter Angkatan Darat di Selat Hormuz. Namun, media pemerintah Iran pada malam hari merilis video baru yang mengklaim mereka membalas AS dengan menembakkan rudal ke target di Bahrain, Kuwait, dan sebuah pangkalan udara di Yordania."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joining me now with the latest, CNN international correspondent Paula Hancocks in Abu Dhabi. Paula, can you talk about this? We know Iran, throughout the last couple of weeks, has -- they've tried to spread the war throughout the region. What have you heard from officials in Kuwait or Bahrain about confirmed damage?",
+      "cn": "Sekarang kita hubungi jurnalis internasional CNN Paula Hancocks di Abu Dhabi untuk berita terbaru. Paula, bisakah Anda menjelaskan situasinya? Kita tahu Iran selama beberapa minggu terakhir telah berusaha menyebarkan perang ke seluruh kawasan. Apakah Anda mendengar konfirmasi kerusakan dari pejabat Kuwait atau Bahrain?"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "The next few hours are going to be crucial as to whether or not this is an isolated escalation between the U.S. and Iran, or whether it is a step on the escalatory ladder. Now, at this point, we have not heard any damage assessment or casualty figures from those countries which were targeted by Iran. That is, Jordan, Kuwait, and Bahrain. Iran said that it had targeted the fifth fleet headquarters in Bahrain.",
+      "cn": "Beberapa jam ke depan akan sangat penting, menentukan apakah ini eskalasi terisolasi antara AS dan Iran, atau langkah dalam tangga eskalasi. Saat ini, kami belum mendengar penilaian kerusakan atau jumlah korban dari negara-negara yang menjadi sasaran serangan Iran -- yaitu Yordania, Kuwait, dan Bahrain. Iran mengatakan mereka menyerang markas Armada Kelima di Bahrain."
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "They also say that they targeted a military base in Jordan, Kuwait, as well, saying that it was intercepting incoming aerial missiles and drones. So, what we've heard from Iran's side is that they have said that there will -- no attack will go unanswered from the United States. What we had seen from U.S.",
+      "cn": "Mereka juga mengklaim menyerang sebuah pangkalan militer di Yordania dan Kuwait, dan mengatakan pangkalan itu sedang mencegat rudal dan drone udara yang masuk. Apa yang kami dengar dari pihak Iran adalah, mereka mengatakan serangan apa pun dari AS tidak akan dibiarkan tanpa balasan. Apa yang kami lihat dari pihak AS adalah..."
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "CENTRAL COMMAND is they said they had carried out what they called a, quote, \"proportional response\" to the shooting down of that Apache helicopter, saying that there were three locations along the Strait of Hormuz that were targeted. They say that they hit air defense, ground control stations, radar sites, as well. Now, one U.S.",
+      "cn": "Komando Pusat AS mengatakan mereka melakukan apa yang disebut 'tanggapan setimpal' atas jatuhnya helikopter Apache itu, dengan menyerang tiga lokasi di sepanjang pantai Selat Hormuz. Mereka mengatakan juga menyerang sistem pertahanan udara, stasiun kendali darat, dan stasiun radar. Sekarang, seorang pejabat AS mengatakan kepada CNN bahwa ini sebenarnya untuk mengirim peringatan ke Iran, mereka berharap masih bisa menjaga jalur negosiasi dan tidak akan menghalangi negosiasi tersebut, meskipun kami mendengar dari juru bicara Kementerian Luar Negeri Iran bahwa Iran sedang mengevaluasi kembali negosiasi, menuduh AS kurang itikad baik, Audi."
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "official telling CNN that this was really intended to be a warning to Iran, and they do hope that they will still be able to keep the talks on track, that it won't hinder those talks, although we've heard from Iran's foreign ministry spokesperson that Iran is reviewing negotiations at this point, accusing the U.S. of negotiating in bad faith, Audie.",
+      "cn": "Baik. Itu berita terbaru dari Paula Hancocks. Terima kasih banyak. Sekarang pukul 17 menit lewat. Saya ingin memberikan briefing pagi Anda. Hari ini, Komite Pengawas DPR akan mendengar kesaksian tertutup dari miliarder Microsoft Bill Gates. Dia berencana untuk bersaksi tentang hubungan profesionalnya dengan Jeffrey Epstein. Gates tidak dituduh melakukan kesalahan apa pun."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. That's Paula Hancocks with that update. Thank you so much. It is now 17 minutes past the hour. I want to give you your morning roundup. Happening today, the House Oversight Committee will hear from Microsoft billionaire Bill Gates behind closed doors. He's scheduled to testify about his professional relationship with Jeffrey Epstein. Gates has not been accused of wrongdoing.",
+      "cn": "Sementara itu, mantan asisten Epstein, Lesley Groff, pada hari Selasa bersaksi bahwa dia 'tidak pernah menyaksikan perilaku tidak pantas atau ilegal'. Dia juga mengatakan kepada anggota parlemen bahwa dia pernah mengatur beberapa panggilan telepon antara Epstein dan Donald Trump sebelum Trump menjadi presiden. Presiden Trump tidak dituduh melakukan kesalahan apa pun terkait Epstein. Di Texas, seorang remaja dihukum karena pembunuhan karena menusuk mati seorang atlet trek berusia 17 tahun dari tim lawan, dan dijatuhi hukuman 35 tahun penjara."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Meanwhile, Epstein's former assistant, Lesley Groff, testified on Tuesday, saying that she, quote, \"never witnessed anything improper or illegal.\" She also told lawmakers she arranged multiple calls between Epstein and Donald Trump before he was president. President Trump is not accused of any wrongdoing in connection to Epstein. And in Texas, a teen who fatally stabbed a 17-year-old track athlete from a rival team has been convicted of murder and sentenced to 35 years in prison.",
+      "cn": "Juri menolak klaim pembelaan diri Carmelo Anthony terkait insiden di tribun stadion tahun lalu dengan Austin Metcalf."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "A jury rejected Karmelo Anthony's claims of self-defense during a confrontation with Austin Metcalf in the stadium bleachers last year.",
+      "cn": "Sungguh menyedihkan hal ini terjadi. Dia membuat keputusan yang sangat, sangat buruk. Tapi dia mengambil nyawa seseorang. Sayangnya, dua kehidupan muda terpengaruh secara negatif karenanya."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "It's just sad that it had to come to this. It was just a bad, bad decision he made. But he took a life. And it's unfortunate that two young lives are affected so negatively about this.",
+      "cn": "Sayang sekali hal ini terjadi. Dia membuat keputusan yang sangat buruk. Tapi dia mengambil nyawa seseorang. Sayangnya, dua kehidupan muda terpengaruh secara negatif karenanya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Anthony did not testify. His mother took the stand during the sentencing phase, telling jurors her son was sorry. And CNN now projecting Republican Steve Hilton will advance to the November election in the California governor's race against Democrat Xavier Becerra. Becerra, the former health secretary, finished on top with nearly 28 percent of the vote, three points ahead of Hilton, a former FOX News host who has President Trump's endorsement.",
+      "cn": "Anthony tidak bersaksi. Ibunya hadir di pengadilan selama fase hukuman, memberi tahu juri bahwa putranya menyesal. CNN sekarang memprediksi bahwa Republikan Steve Hilton akan maju ke pemilihan gubernur California November melawan Demokrat Xavier Becerra. Mantan Menteri Kesehatan Becerra memimpin dengan hampir 28% suara, unggul tiga poin persentase atas Hilton, mantan pembawa acara Fox News yang didukung Presiden Trump."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "STEVE HILTON (R), CALIFORNIA GUBERNATORIAL CANDIDATE; Californians will have a real choice for change in November. Whether they want to keep going with the policies that have brought us to the highest poverty rate, the highest unemployment rate, the highest cost of living in the country, where they want more of that with Xavier Becerra, or whether they want to go in a new direction.",
+      "cn": "Steve Hilton (Republikan), calon gubernur California: Warga California akan memiliki pilihan perubahan nyata pada bulan November. Apakah mereka ingin melanjutkan kebijakan yang menyebabkan tingkat kemiskinan tertinggi, tingkat pengangguran tertinggi, biaya hidup tertinggi di negara kita, atau ingin melanjutkan dengan Xavier Becerra, atau ingin menuju arah baru."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I have to ask quickly: if Hilton does well, is California still going to be the corrupt election state that Republicans are saying it is?",
+      "cn": "Saya harus bertanya cepat: Jika Hilton tampil baik, apakah California masih akan menjadi negara bagian pemilu yang korupsi seperti yang dikatakan Republikan?"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "Yes. I mean, the question is how well, of course. How much can he actually make some --",
+      "cn": "Ya. Maksud saya, tentu saja masalahnya seberapa baik dia tampil. Seberapa banyak yang bisa dia dapatkan -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Is there a certain threshold after which --",
+      "cn": "Apakah ada ambang batas tertentu, di mana setelah itu -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- it's no longer considered corrupt if a Republican wins?",
+      "cn": "-- -- jika seorang Republikan menang, tidak lagi dianggap korupsi?"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "Well, you know, you know what? Especially given the state, it'll depend on how the votes are counted. I feel that especially after the next --",
+      "cn": "Yah, Anda tahu? Terutama mengingat negara bagian ini, itu akan tergantung pada bagaimana suara dihitung. Saya pikir terutama pada -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But you can see why I'm asking, right? Like, if he wins, it's fine. But if he doesn't win, it's corrupt.",
+      "cn": "Ya. Tapi Anda mengerti mengapa saya bertanya seperti itu, kan? Misalnya, jika dia menang, maka tidak masalah. Tapi jika dia tidak menang, itu korupsi."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But if he wins, it's still corrupt, but somehow --",
+      "cn": "Tapi jika dia menang, tetap korupsi, tapi entah bagaimana -- --"
+    },
+    {
+      "speaker": "Rose",
+      "text": "Maybe, maybe. I think it's still fairly unlikely that he's going to win this race. I will also say that it's been the process in California taking so long to discover who --",
+      "cn": "Mungkin, mungkin. Saya pikir peluangnya untuk memenangkan kampanye ini masih kecil. Saya juga harus mengatakan, proses penentuan kandidat di California memakan waktu terlalu lama --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, everyone's talking about that.",
+      "cn": "Ya, semua orang membicarakan ini."
+    },
+    {
+      "speaker": "Rose",
+      "text": "-- is going to win it. Everybody's talking about this.",
+      "cn": "-- akan memenangkannya. Semua orang membicarakan ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But everyone's disagreeing on what that means.",
+      "cn": "Tapi setiap orang memiliki pendapat yang berbeda tentang artinya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's by definition nefarious.",
+      "cn": "Ini sendiri jahat."
+    },
+    {
+      "speaker": "Rose",
+      "text": "But it makes people uncomfortable with the results.",
+      "cn": "Tapi ini membuat orang merasa tidak nyaman dengan hasilnya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I have to mention one other thing, just because the number's astounding. Tom Steyer's spending: 215 million. I'm not good at long division, so I didn't want to know how much per voter that spend was, and I can't do it. I can't do it. And someone on -- online was saying, oh, have you ever heard of effective altruism, and that this was ineffective altruism, basically.",
+      "cn": "Saya juga harus menyebutkan hal lain, hanya karena angkanya mengejutkan. Pengeluaran Tom Steyer: 215 juta dolar. Saya tidak pandai pembagian panjang, jadi saya tidak ingin tahu berapa biaya per pemilih, saya juga tidak bisa menghitungnya. Saya tidak bisa menghitungnya. Ada yang bilang di internet, oh, pernah dengar tentang effective altruism? Dan ini pada dasarnya adalah ineffective altruism."
+    },
+    {
+      "speaker": "Leon",
+      "text": "Basically, an ROI in the business term, right? You need a return on that investment. This is twice for Steyer now. He has not gotten that ROI. When is enough, enough? If I had that kind of money, I would invest it in something else. He has tried this political acumen.",
+      "cn": "Pada dasarnya, dalam istilah bisnis, return on investment, kan? Anda perlu return on investment. Ini kedua kalinya bagi Steyer. Dia tidak mendapatkan return on investment itu. Kapan cukup? Jika saya punya uang sebanyak itu, saya akan investasikan di tempat lain. Dia sudah mencoba taktik politik ini."
+    },
+    {
+      "speaker": "Leon",
+      "text": "It has not worked out.",
+      "cn": "Tapi tidak berhasil."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. I was about to say --",
+      "cn": "Ya. Saya baru saja akan mengatakan --"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Voters have said that.",
+      "cn": "Para pemilih sudah mengatakan itu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The voters have rejected it.",
+      "cn": "Para pemilih sudah menolaknya."
+    },
+    {
+      "speaker": "Leon",
+      "text": "Especially with the billionaire. When the billionaire class. We've got AOC and others that have talked about the billionaire class, and we have somebody here spending his own money like this, it seems like a waste where it could be invested in other.",
+      "cn": "Especially that billionaire. When it comes to the billionaire class, we have AOC and others talking about the billionaire class, and now someone spending their own money like this seems wasteful, money that could have been invested elsewhere."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, it's been a wild race coming from last year to all of a sudden have Becerra at the front.",
+      "cn": "Well, since last year, this campaign has been intense, and suddenly Becerra is leading."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We couldn't have seen that then.",
+      "cn": "We didn't see that coming."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, after the break on CNN THIS MORNING, two controversial to win? So, the Colorado frontrunner for governor claims he killed a man when he was 7 years old. I have more stories like that from him. Plus, A.I. companies are rushing to the stock market. Is it the next tech boom or is the A.I. bubble about to burst? And for viewers watching us from right here in New York City, Knicks versus Spurs again tonight at the Garden. Good morning.",
+      "cn": "Now, after a break on CNN This Morning, two controversial victories? The Colorado governor race frontrunner claims he killed someone when he was 7. I have more stories like that about him. Also, AI companies are racing to go public. Is this the next tech boom, or is the AI bubble about to burst? For those watching us in New York City, the Knicks are playing the Spurs again at the Garden tonight. Good morning."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, a bunch of IPOs in the A.I. sector are about to hit Wall Street after OpenAI announced on Monday it filed for an initial public offering, an IPO. The three biggest A.I. companies are now in line to go public, as well. That includes Anthropic and SpaceX. A fourth, Perplexity, is expected to file in 2028.",
+      "cn": "So, after OpenAI announced its IPO filing on Monday, a wave of AI IPOs is heading to Wall Street. The three largest AI companies are also going public, including Anthropic and SpaceX. A fourth company, Perplexity, is expected to file in 2028."
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "We're talking about it. Where the American people can benefit from the success of A.I. And by doing that, they're going to like it better. Because we're leading China. We're leading everybody in the world with A.I., and we want to keep it that way. It's like you make them a partnership in this revolution. It would be a beautiful thing.",
+      "cn": "We're discussing this. The American people can benefit from AI's success. By doing so, they will like it more. Because we lead China and every other country in AI, we want to stay that way. It's like making them partners in this revolution. That would be a beautiful thing."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, investors who get in early could make a fortune. But has the A.I. boom gotten ahead of itself? Madison Mills joins the group chat. She's the senior A.I. reporter at Axios. You guys have done some fantastic reporting on this industry. Just to show people the amount of money at stake. When you look at OpenAI and SpaceX and Anthropic, there were 3.5 trillion. We dug around, and we found out that's, like, as much money as, you know, France. Like, OK? So, we're dealing with a lot of money.",
+      "cn": "Now, early investors could make a lot of money. But has the AI boom gotten ahead of itself? Madison Mills joins the chat. She's a senior AI reporter at Axios. You've done some great reporting on this industry. Just to show people the scale of money involved. When you look at OpenAI, SpaceX, and Anthropic, the total value is $3.5 trillion. We dug into it and found that's equivalent to the economy of France, you know? So we're dealing with huge sums."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But is it a bubble? And I ask because we've got some people on TikTok who think that it is. I'm going to play for you, the finance experts online.",
+      "cn": "But is it a bubble? I ask because some people on TikTok think it is. Let me play you what online financial experts are saying."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "A.I. companies are now trying to save themselves by applying for IPOs.",
+      "cn": "AI companies are now trying to save themselves by filing for IPOs."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "OpenAI and Anthropic plan to have IPOs at release before the end of this year, signaling to me that the A.I. bubble is about to pop and that these insiders and institutional investors know that they better cash out now, or they may not ever get the chance.",
+      "cn": "OpenAI and Anthropic plan to IPO by the end of this year, which tells me the AI bubble is about to burst, and these insiders and institutional investors know they better cash out now or they may never get another chance."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Why is this the word on the street?",
+      "cn": "Why is this anecdotal?"
+    },
+    {
+      "speaker": "Madison Mills",
+      "text": "Yes, I would push back on a lot of the financial finfluencing that we hear about on finance.",
+      "cn": "Yes, I would push back against a lot of the financial influencer talk we hear in the finance world."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Finfluencing. You said it. Go on.",
+      "cn": "Financial influencer. You're right. Continue."
+    },
+    {
+      "speaker": "Mills",
+      "text": "Yes. But -- but just because companies are IPOing doesn't necessarily mean that the bubble is going to happen this Friday when SpaceX lists on the",
+      "cn": "Yes. But -- -- just because a company goes public doesn't necessarily mean a bubble will happen when SpaceX goes public this Friday."
+    },
+    {
+      "speaker": "Mills",
+      "text": "Right? But the concept of the bubble is this idea that valuations are completely divorced from reality: the underlying business fundamentals, the things that we would learn about in journalism and business school --",
+      "cn": "Right? But the concept of a bubble is that valuation is completely detached from reality: detached from what we learn in the news and business schools -- --"
+    },
+    {
+      "speaker": "Mills",
+      "text": "-- that make a company profitable, right?",
+      "cn": "-- -- the fundamentals that make a company profitable, right?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, the street phrase would be they're high on their own supply?",
+      "cn": "So, the jargon is they produce and sell to themselves?"
+    },
+    {
+      "speaker": "Mills",
+      "text": "Absolutely. And that's very clear with a company like SpaceX. Their expected valuation is $1.8 trillion. They're trading at about 90 times their sales -- not their profits, just their sales -- as of this Friday, when they're expected to list. So, that is an example of a company you might look at and say, not sure if the valuation is high.",
+      "cn": "Exactly right. Companies like SpaceX are obvious. Their expected valuation is $1.8 trillion. When they are expected to go public this Friday, they will trade at about 90 times sales -- -- not profit, just sales. So, this is an example where you might look at it and say, not sure if the valuation is too high."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I know. There's also this thing I've been learning about circular financing.",
+      "cn": "I know. I also learned about something called circular financing."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, I'm understanding this as, you use money from one A.I. company to do work in your A.I. company. and then another A.I. company gets work from you. It's like the same money going around and around. Do I have that right?",
+      "cn": "So, my understanding is, you take money from an AI company for your AI company's work, and then another AI company gets work from you. It's like the same money going around. Am I right?"
+    },
+    {
+      "speaker": "Mills",
+      "text": "Absolutely. That's perfect. And part of --",
+      "cn": "Exactly right. Well said. And part -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm ready to finfluence.",
+      "cn": "I'm ready to do financial influence."
+    },
+    {
+      "speaker": "Mills",
+      "text": "You're ready to finfluence. And more than that, you can be the CFO of an A.I. company. You know? But part of the problem with that is that Anthropic can -- or OpenAI, any of the A.I. labs, can book that as revenue. And that feeds into that valuation number that we're getting. But that revenue could also just be money that they are getting from Google, that then they're giving back to Google in the form of compute capacity. And then Google has that compute capacity and is giving it over to another A.I. lab.",
+      "cn": "You're ready to do financial influence. Not only that, you could be the CFO of an AI company, you know? But part of the problem is that Anthropic or OpenAI, any AI lab, can count that money as revenue. And that affects the valuation numbers we see. But that revenue could also just be money they got from Google, and then they give it back to Google in the form of computing power. Then Google has that computing power and gives it to another AI lab."
+    },
+    {
+      "speaker": "Mills",
+      "text": "And so, it's all very circular right now. And that's the concern.",
+      "cn": "So, now all of this is very circular. That's what's worrying."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And it's giving shell game. I'm going to listen to you, because I believe that this market is the future. I understand that, but I think people rightly have questions. var CNN = CNN || {};",
+      "cn": "Ini seperti bermain trik. Saya akan mendengarkan Anda, karena saya percaya pasar ini adalah masa depan. Saya mengerti itu, tapi saya pikir wajar jika orang memiliki pertanyaan."
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "I'm going to listen to you because I believe that this market is the future. I understand that. But I think people, rightly, have questions. There are a ton of people who are pushing back on A.I. right now. You've got some local municipalities super upset about data centers coming near them. Yesterday we played Brad Paisley in Nashville, upset there might be a data center next to the zoo.",
+      "cn": "Saya akan mendengarkan Anda, karena saya percaya pasar ini adalah masa depan. Saya mengerti itu. Tapi saya pikir wajar jika orang memiliki pertanyaan. Sekarang banyak orang menentang AI. Beberapa pemerintah daerah sangat tidak senang dengan pusat data yang dibangun di dekat mereka. Kemarin kami menayangkan acara Brad Paisley di Nashville, dan orang-orang di sana tidak senang dengan kemungkinan pusat data dibangun di samping kebun binatang."
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Here at CNN I want to disclose, we're currently suing Perplexity, alleging that the company is unlawfully copying and sharing CNN content in its summaries. I've also heard of people complaining about the summaries as well. How does that figure in to how investors look at this industry, which is facing massive blowback? MADISON MILLS, SENIOR A.I. REPORTER, \"AXIOS\": Yes, this A.I. hate wave that we're seeing could be a real problem for these A.I.",
+      "cn": "Di CNN, saya ingin mengungkapkan bahwa kami saat ini sedang menggugat Perplexity, menuduh perusahaan itu menyalin dan membagikan konten CNN secara ilegal dalam ringkasannya. Saya juga mendengar keluhan tentang ringkasan ini. Bagaimana ini mempengaruhi investor yang melihat industri yang menghadapi reaksi besar ini? Madison Mills, jurnalis AI senior Axios: Ya, gelombang kebencian AI yang kita lihat ini bisa menjadi masalah nyata bagi perusahaan AI ini."
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "companies because they need something called compute that's like the currency, the energy fueling the A.I. race. If the A.I. labs can't get their data centers, then they can't get the compute that they need to service your queries.",
+      "cn": "Karena mereka membutuhkan sesuatu yang disebut daya komputasi, yang seperti mata uang, energi yang mendorong perlombaan AI. Jika laboratorium AI tidak bisa mendapatkan pusat data, maka mereka tidak bisa mendapatkan daya komputasi yang diperlukan untuk memproses pertanyaan pengguna."
+    },
+    {
+      "speaker": "Mills",
+      "text": "So, it could be a big problem. And we're seeing this data center pushback really hitting a fever pitch.",
+      "cn": "Jadi, ini bisa menjadi masalah besar. Kita melihat penolakan terhadap pusat data ini benar-benar mencapai titik puncak."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, because some of them are going -- are supposed to be coming up with their own way to power -- to sort of self-power the data centers.",
+      "cn": "Ya, karena beberapa pusat data ini akan -- seharusnya bisa menghasilkan listrik sendiri -- semacam swadaya listrik."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But, like, people don't want them. And I was thinking, when I look at how people talk about A.I., for instance, we played the president earlier and he said, \"we're talking about it where the American people can benefit from the success of A.I. They're going to like it better because we're leading China, we're leading everyone in the world. We want to keep it that way.\" And I felt like, if you took away the word A.I. and put \"globalization,\" we've heard this before.",
+      "cn": "Tapi, orang tidak menginginkannya. Saya berpikir ketika saya melihat bagaimana orang berbicara tentang AI, seperti saat kami memutar pidato presiden sebelumnya, dia berkata: \"Kita sedang membahas bagaimana membuat rakyat Amerika mendapat manfaat dari kesuksesan AI. Mereka akan lebih menyukainya karena kita unggul dari China, unggul dari semua negara di dunia. Kita ingin mempertahankan ini.\" Saya pikir, jika kata \"AI\" diganti dengan \"globalisasi\", kita pernah mendengar ini sebelumnya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I wonder if that is contributing to what you call the hate wave.",
+      "cn": "Saya ingin tahu apakah ini yang menyebabkan apa yang Anda sebut \"gelombang kebencian\"."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "People feeling like, I'm being told something's going to make my life better. And my experience in the past is that that isn't -- doesn't play out the way politicians say it will.",
+      "cn": "Orang merasa, seseorang mengatakan sesuatu akan membuat hidup saya lebih baik, dan pengalaman saya di masa lalu adalah bahwa hal itu tidak akan terwujud seperti yang dikatakan politisi."
+    },
+    {
+      "speaker": "Mills",
+      "text": "I mean, I would push back on that too because the overwhelming research shows that people are not happy about A.I. There's this YouGov poll people cite all the time that showed very clear bipartisan support against A.I. across the aisle.",
+      "cn": "Maksud saya, saya juga akan membantah itu, karena sebagian besar penelitian menunjukkan bahwa orang tidak puas dengan AI. Jajak pendapat YouGov yang sering dikutip menunjukkan bahwa penentangan bipartisan terhadap AI sangat jelas, melintasi batas partai."
+    },
+    {
+      "speaker": "Mills",
+      "text": "And we're seeing that play out with the data center pushback that you had mentioned. I also do think part of the challenge is that these models are getting better so much faster than anything we've seen.",
+      "cn": "Kita melihat, penolakan terhadap pusat data yang Anda sebutkan sedang terjadi. Saya juga berpikir bahwa sebagian tantangannya adalah bahwa model-model ini meningkat jauh lebih cepat daripada apa pun yang pernah kita lihat sebelumnya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Anthropic releasing a safer work mythos.",
+      "cn": "Ya. Anthropic merilis mitos kerja yang lebih aman."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Which is still scary.",
+      "cn": "Ini masih menakutkan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "After saying that they were so worried about it they only brought it to the government and certain companies.",
+      "cn": "Setelah menyatakan bahwa mereka sangat khawatir tentang hal ini, mereka hanya memberikannya kepada pemerintah dan beberapa perusahaan."
+    },
+    {
+      "speaker": "Mills",
+      "text": "Exactly. And because of that, I think that people haven't necessarily seen a lot of the benefits of A.I. because it's getting better so much faster. And so people are, you know, hearing about a data center in their backyard, they're hearing A.I. CEOs say that it could replace their jobs. And, by the way, you haven't really felt the positive use cases of it yet because it's getting more technical more quickly. So, I think that creates kind of a challenging soup for people. Yes.",
+      "cn": "Benar. Karena itulah, saya pikir orang belum tentu melihat banyak manfaat dari AI, karena AI berkembang terlalu cepat. Jadi, orang mendengar akan ada pusat data di halaman belakang rumah mereka, mendengar CEO AI mengatakan bahwa AI bisa menggantikan pekerjaan mereka. Dan, omong-omong, Anda belum benar-benar merasakan dampak positifnya, karena teknologinya meningkat terlalu cepat. Jadi, saya pikir ini menciptakan situasi yang rumit bagi orang-orang."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. We'll see what happens when people are ringing that bell on Wall Street. Madison Mills, thank you so much for being here. Always love to have you. And straight ahead on CNN THIS MORNING, the World Cup kicks off tomorrow. But with sky high ticket prices, problems with immigration, is this going to be the World Cup of chaos? Plus, Nancy Mace broke with President Trump over the Epstein files. Is that what costs her a shot at the governor's mansion in South Carolina, or was it something else?",
+      "cn": "Ya. Kita lihat saja apa yang terjadi saat bel dibunyikan di Wall Street. Madison Mills, terima kasih banyak sudah datang. Kami selalu senang Anda datang. Selanjutnya di CNN This Morning, Piala Dunia dimulai besok. Tapi harga tiket mahal, masalah imigrasi bermunculan, akankah Piala Dunia ini kacau? Juga, Nancy Mace memutuskan hubungan dengan Presiden Trump karena dokumen Epstein. Apakah ini menghilangkan peluangnya menjadi gubernur South Carolina, atau ada alasan lain?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, the World Cup kicks off tomorrow. I know, I said it. It kicks off across North America. But are the off the field headlines threatening to overshadow the biggest tournament in the world? So, there was a Somali referee turned away by U.S. Customs and Border Patrol in Miami when he arrived for his World Cup assignment. And he received a hero's welcome when he returned to Somalia. The Trump administration tells CNN that vetting uncovered derogatory information. They did not go into further detail.",
+      "cn": "Jadi, Piala Dunia dimulai besok. Saya tahu, saya sudah mengatakannya. Ini akan dimulai di berbagai tempat di Amerika Utara. Tapi apakah berita di luar lapangan akan mengancam perhatian terhadap turnamen terbesar di dunia ini? Seorang wasit Somalia ditolak masuk di Miami oleh Bea Cukai dan Perlindungan Perbatasan AS, yang seharusnya bertugas di Piala Dunia. Dia disambut seperti pahlawan saat kembali ke Somalia. Pemerintahan Trump mengatakan kepada CNN bahwa pemeriksaan menemukan informasi yang tidak menguntungkan, tapi tidak memberikan rincian lebih lanjut."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, the ref told \"The New York Times,\" quote, \"I'm just simply a referee who's trying to live his dream.\" Fans from Scotland said their permits were withdrawn at the final moment. Teams from Senegal, Uzbekistan were treated, quote, \"like criminals,\" according to critics. And a player from Iraq was questioned for seven hours upon arrival in Chicago.",
+      "cn": "Wasit itu mengatakan kepada New York Times: \"Saya hanya seorang wasit yang mencoba mewujudkan mimpi.\" Penggemar dari Skotlandia mengatakan izin mereka dicabut di menit-menit terakhir. Kritikus mengatakan tim Senegal dan Uzbekistan diperlakukan \"seperti penjahat.\" Seorang pemain Irak diinterogasi selama tujuh jam setelah tiba di Chicago."
+    },
+    {
+      "speaker": "Ian Wright",
+      "text": "Every few hours it's another story. Another story about fans denied, players denied, officials denied, journalists denied. Now refs. You know something? I'm laughing, but it's not funny. It's actually not funny. Something has to be said. It's expensive tickets. Most expensive tickets ever. Know what? This is the World Cup. This is a World Cup of chaos.",
+      "cn": "Setiap beberapa jam ada cerita baru. Lagi cerita tentang penggemar ditolak, pemain ditolak, ofisial ditolak, jurnalis ditolak. Sekarang giliran wasit. Anda tahu? Saya tertawa, tapi ini tidak lucu. Sebenarnya sama sekali tidak lucu. Sesuatu harus dikatakan. Tiket mahal, termahal sepanjang sejarah. Anda tahu? Ini Piala Dunia. Ini Piala Dunia yang kacau."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joining us in the group chat, Dan Courtemanche. He's the executive vice president and chief communications officer for Major League Soccer. Did I say your name right? I don't want your mom being mad at me.",
+      "cn": "Bergabung dengan obrolan kami adalah Dan Courtemanche, Wakil Presiden Eksekutif dan Kepala Petugas Komunikasi Major League Soccer. Apakah saya menyebut nama Anda dengan benar? Saya tidak ingin membuat ibu Anda marah."
+    },
+    {
+      "speaker": "Dan Courtemanche",
+      "text": "You did. Thank you. It's terrific to be here. Really appreciate it.",
+      "cn": "Anda benar. Terima kasih. Senang berada di sini. Terima kasih banyak."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, I wanted to talk to you about this for a couple of reasons. One, your team sent over some information here, and I was noting that there is a record number of MLS players, 45, who represent countries in this, right?",
+      "cn": "Jadi, saya ingin berbicara dengan Anda tentang ini, karena beberapa alasan. Pertama, tim Anda mengirimkan beberapa informasi, dan saya perhatikan ada rekor 45 pemain MLS yang mewakili negara mereka masing-masing, kan?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And that you've also got -- done a lot of work through your academies to be a place to recruit people who will want to play here. Does this -- these headlines, do they kind of undermine that message that MLS has been so good, frankly, at cultivating over the last decade?",
+      "cn": "Dan Anda juga telah melakukan banyak pekerjaan melalui sistem pembinaan, menjadi tempat untuk merekrut mereka yang ingin bermain di sini. Apakah berita-berita ini merusak citra yang dibangun MLS dengan hati-hati selama sepuluh tahun terakhir?"
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Yes, I think what we're going to see is some of those headlines tomorrow when the World Cup opens in Mexico City, then certainly in North America and Canada and the United States on Friday. It's going to shift from some of those headlines, the World Cup of chaos, to celebration, to pageantry, to a party.",
+      "cn": "Ya, saya pikir besok saat Piala Dunia dibuka di Mexico City, kita akan melihat beberapa berita seperti ini, tentu saja pada hari Jumat di Amerika Utara, Kanada, dan AS. Fokus akan beralih dari berita \"Piala Dunia yang kacau\" ke perayaan, kemeriahan, dan pesta."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But I'm saying, for the players, is this irritating, scary, frustrating? The whole point is international cooperation.",
+      "cn": "But I want to say, for the players, is this annoying, scary, frustrating? The whole point is international cooperation."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's not feeling welcoming.",
+      "cn": "It feels a bit unwelcoming."
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "So, I hear you. You know, ultimately, that's a question for the players. It's not something that we've seen. And in Major League Soccer, we have players from 78 different countries. And we've been around for 31 seasons. And we haven't experienced that, challenges with visa issues or anything. But I understand where you're coming from. We want to be welcoming to all the players. We want to see them have a wonderful time here in the United States, Canada and Mexico.",
+      "cn": "So, I hear you. You know, at the end of the day, it's the players' issue. We haven't seen that. In Major League Soccer, we have players from 78 different countries. We've been operating for 31 seasons. We haven't had challenges like visa issues. But I understand your point. We want to welcome all players. We want to see them have a great time in the US, Canada, and Mexico."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And a lot of your incoming star players, over the last couple of years, coming to the U.S., they're coming from abroad. It's finally a place people are starting to come to and want to play, right?",
+      "cn": "In the past few years, many upcoming star players have come to the US from abroad. It has finally become a place where people start to aspire to come and play, right?"
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Most definitely. The greatest of all time. Lionel Messi, by the way, scored last night in Auburn, Alabama, in a friendly against Iceland. You'll see him on Tuesday in Kansas City against Algeria. I hope he scores a lot of goals because then you can watch him playing for Inter Miami each and every weekend in Major League Soccer.",
+      "cn": "No doubt. The greatest player of all time. By the way, Lionel Messi scored last night in a warm-up match against Iceland in Auburn, Alabama. You'll see him on Tuesday in Kansas City against Algeria. I hope he scores many goals so you can watch him play for Inter Miami every weekend in MLS."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, what I loved about that person who spoke at the end of our introduction is he goes, oh, I laugh because, you know, it's sort of -- sort of sad. And then he tied all of that to ticket prices. And I thought that was really fascinating, that people are also looking at this in the context of the cost of the ticket. The average get in price for a World Cup match right now, roughly $600 for the opening round of the tournament. And people are complaining about FIFA's pricing scheme.",
+      "cn": "Now, I liked the guy who spoke at the end of our introduction, who said, oh, I laughed because, you know, it's a bit -- a bit sad. Then he connected it all to ticket prices. I found that interesting, that people are looking at it from a ticket price perspective. The average entry price for World Cup matches right now, group stage, is about $600. People are complaining about FIFA's pricing scheme."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And right now, if I want, I can still get a ticket to USA Paraguay. It's not sold out, and it should be.",
+      "cn": "Now, if I wanted, I could still buy tickets for USA vs. Paraguay. The match isn't sold out yet, but it should be."
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Yes, I can tell you, I'm going to be there for the U.S.- Paraguay game. I certainly anticipate it's going to be sold out. I got to tell you, there's unprecedented demand for the World Cup.",
+      "cn": "Yes, I can tell you, I will go watch USA vs. Paraguay. I expect that match will definitely sell out. I have to tell you, the demand for the World Cup is unprecedented."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Then why isn't it sold out?",
+      "cn": "Then why isn't it sold out yet?"
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Much like you'll see from my Knicks tonight, where the get-in price is about $15,000 for lower level seating. Now, that said, I think you're going to see the pageantry, the celebration throughout the World Cup. But I understand where people are coming from. Also, you have to remind people that FIFA is actually a non-profit. So, all that money goes back to the 211 FIFA nations to build the sport, especially in some underdeveloped countries.",
+      "cn": "Like you'll see my Knicks game tonight, lower-level seats are about $15,000. That said, I think you'll see the spectacle and celebration during the World Cup. But I understand people's thinking. Also, you have to remind people that FIFA is actually a non-profit organization. So, all the money goes back to the 211 FIFA member associations to develop football, especially in less developed countries."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, I'm glad you brought that up because we did have a California lawmaker, Representative Sydney Kamlager-Dove. She was on the show Friday. She said something I didn't expect to hear related to ticket prices and what her concerns were. Here's what she had to say. REP. SYDNEY KAMLAGER-DOVE (D-CA): The issue is dynamic pricing. The other issue is, you buy a ticket, you don't know where that seat is going to be. You're spending over $1,000.",
+      "cn": "Okay, glad you mentioned that, because we do have a California congresswoman, Rep. Sydney Kamlager-Dove. She was on the show Friday. She said something I didn't expect to hear about ticket prices and her concerns. Here's what she said. Rep. Sydney Kamlager-Dove (D-CA): The problem is dynamic pricing. Another issue is, you buy a ticket and don't know where the seat is. You spend over $1,000."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And finally you got the -- you get the seat and you're behind a post and you can't see anything. We want to know why ticket prices are changing so dramatically from city to city. I want to know why cities aren't getting any financial support from the World Cup to actually put on the games, because World Cup is getting everything, concessions, merchandise, parking, tickets.",
+      "cn": "Finally you get the seat, and you're behind a pillar, can't see anything. We want to know why ticket prices vary so much between cities. I want to know why cities don't get any financial support from the World Cup to host matches, because the World Cup takes everything: concessions, merchandise, parking, tickets."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That was just a long list. Can you answer any of it?",
+      "cn": "That's a lot of questions. Can you answer any of them?"
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Well, I can tell you, look, we're fortunate, five of the stadiums out of the 13 markets in the United States and Canada are Major League Soccer stadiums. And I can tell you that nobody will be sitting behind posts during the World Cup games in those MLS stadiums. So, look, she brings up some valid points. She's clearly an expert on it. But we think it's going to pivot again from some of the challenges that we've seen in the media to the celebration.",
+      "cn": "Well, I can tell you that we are lucky that 5 of the 13 stadiums in the US and Canada are Major League Soccer stadiums. I can tell you that during the World Cup matches, no one will be sitting behind pillars in those MLS stadiums. She made some valid points, and she is clearly an expert in this area. But we think the focus will shift from some challenges seen by the media to the celebrations."
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "And ultimately goals scored by hopefully the United States national team and they make a deep run in the tournament.",
+      "cn": "Ultimately, hopefully the US national team will score goals and go far in the tournament."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. I think, fundamentally, nobody is arguing that it won't be good. They'll be arguing about whether or not they got to participate.",
+      "cn": "Yes. I think basically no one will question that this will be a good thing. What they will argue about is whether they can be part of it."
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Yes. You know, and I -- you know, it's also a good reminder that FIFA actually had $60 tickets available for those passionate supporters who registered early. So, they had some affordable prices. But I certainly understand you. And for us, you also have to look at, there'll be nearly 80 fan festivals throughout the different markets. Twenty of our MLS clubs are going to have soccer celebrations. So, you're providing free accessibility to fans who may not be able to go to the games.",
+      "cn": "Yes. You know, it also reminds us that FIFA actually offered $60 tickets for enthusiastic fans who registered early. So, they have some affordable prices. But I certainly understand you. For us, you also have to see that there will be nearly 80 fan festivals in different markets. Our 20 MLS clubs will host football celebrations. That way, fans who may not be able to go to the stadium can participate for free."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Well, thank you, Dan, so much for being here. Good luck. I know this is your Super Bowl. That's what we say here in the U.S. instead of soccer.",
+      "cn": "Okay. Thank you very much for coming here, Dan. Good luck. I know this is your Super Bowl -- -- we say that in the US, not football."
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Hey, I'm a big -- I'm a University of Georgia graduate. I love gridiron football. Come on.",
+      "cn": "Hey, I'm a die-hard -- -- I'm a graduate of the University of Georgia. I love American football. Really."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, OK. OK. All right. Well, thank you for being here. Appreciate your time.",
+      "cn": "Oh, okay. Okay. Well, thank you for coming here. Thank you for your time."
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Really appreciate it.",
+      "cn": "Thank you very much."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Next on CNN THIS MORNING, Congresswoman Nancy Mace gets crushed in the South Carolina governor's race. Did going against Trump cost her the election? But first.",
+      "cn": "Coming up next on CNN This Morning, Congresswoman Nancy Mace loses badly in the South Carolina governor's race. Did going against Trump cost her the election? But first."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "If you're elected governor, would you continue to perform exorcisms while governor?",
+      "cn": "If you are elected governor, will you continue to perform exorcisms during your term?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, controversial candidate leading in the polls in Colorado. Will the strange headlines sway voters?",
+      "cn": "Yes, the controversial candidate in Colorado is leading in the polls. Will these strange headlines affect voters?"
+    },
+    {
+      "speaker": "Kyle Clark",
+      "text": "Your campaign website falsely claimed that you had rescued more than 45,000 women and children. You once called in a U.S. military airstrike that killed 70 ISIS fighters. You perform exorcisms, commanding demons to come out of people. Do you understand why so many of your critics think you're a con man? VICTOR MARX (R),",
+      "cn": "Situs kampanye Anda secara palsu mengklaim bahwa Anda menyelamatkan lebih dari 45.000 wanita dan anak-anak. Anda memanggil serangan udara AS yang menewaskan 70 militan ISIS. Anda melakukan pengusiran setan, memerintahkan setan keluar dari orang-orang. Apakah Anda mengerti mengapa begitu banyak kritikus menganggap Anda pembohong? Victor Marx (Republik),"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that was a wild ride. And it didn't stop there. That reporter in Colorado was interviewing a Republican frontrunner for governor, Victor Marx. He's a Marine Corps veteran. He runs a faith- based nonprofit. But he's made a lot of outlandish claims. And it does not end with exorcisms and rescuing women and children from slavery. He also says he killed a man when he was a child.",
+      "cn": "Yah, itu percakapan yang gila. Dan belum selesai. Wartawan Colorado itu mewawancarai calon gubernur dari Partai Republik, Victor Marx. Dia adalah veteran Korps Marinir. Dia menjalankan organisasi nirlaba berbasis iman. Tapi dia membuat banyak pernyataan keterlaluan. Dan bukan hanya pengusiran setan dan menyelamatkan wanita dan anak-anak dari perbudakan. Dia juga mengatakan dia membunuh seseorang saat kecil."
+    },
+    {
+      "speaker": "Kyle Clark",
+      "text": "Your claim that your abusive stepfather forced you to kill a man when you were seven years old, is that the only person you've ever killed? VICTOR MARX (R),",
+      "cn": "Anda mengklaim bahwa Anda dianiaya oleh ayah tiri Anda yang memaksa Anda membunuh seseorang pada usia tujuh tahun, apakah itu satu-satunya orang yang Anda bunuh? Victor Marx (Republik),"
+    },
+    {
+      "speaker": "Colorado Candidate For Governor",
+      "text": "Well, I would say, as a -- as a child, yes. But I've been in other situations where, you know, possibly people or persons died.",
+      "cn": "Yah, saya akan mengatakan, sebagai -- sebagai seorang anak, ya. Tapi saya juga mengalami situasi lain, Anda tahu, mungkin seseorang atau beberapa orang meninggal."
+    },
+    {
+      "speaker": "Clark",
+      "text": "Do you think that you've killed people as an adult?",
+      "cn": "Apakah Anda pikir Anda pernah membunuh seseorang saat dewasa?"
+    },
+    {
+      "speaker": "Clark",
+      "text": "Killing somebody is a pretty weighty thing. So, I'm just asking you, how many people have you killed?",
+      "cn": "Membunuh adalah hal yang cukup berat. Jadi, saya hanya bertanya, berapa banyak orang yang Anda bunuh?"
+    },
+    {
+      "speaker": "Marx",
+      "text": "Well, if I did, I wouldn't be telling a reporter sitting here in my training center.",
+      "cn": "Yah, jika saya membunuh, saya tidak akan memberitahu wartawan yang duduk di pusat pelatihan saya."
+    },
+    {
+      "speaker": "Clark",
+      "text": "How about voters? Would you tell voters?",
+      "cn": "Bagaimana dengan pemilih? Apakah Anda akan memberitahu pemilih?"
+    },
+    {
+      "speaker": "Marx",
+      "text": "Theres no need. I don't think that's important.",
+      "cn": "Tidak perlu. Saya rasa itu tidak penting."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Group chat is back. I wanted to talk about this because we started the hour talking about Maine, right, and Graham Platner and being like, voters, what are they thinking? You know, like, what's happening? What will these scandals matter? And then I was seeing a lot more stories about what's happening in Colorado. Just to give you a sense of where things are. In this Republican primary right now, the fundraising, Victor Marx is at $2.7 million.",
+      "cn": "Baik. Grup chat kembali. Saya ingin membahas ini karena kita memulai jam ini dengan membicarakan Maine, kan, dan Graham Platter, apa yang dipikirkan pemilih? Anda tahu, apa yang terjadi? Apa dampak dari skandal-skandal ini? Dan kemudian saya melihat lebih banyak laporan tentang apa yang terjadi di Colorado. Untuk memberi Anda gambaran. Dalam pemilihan pendahuluan Partai Republik ini, dalam hal penggalangan dana, Victor Marx memiliki $2,7 juta."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The next closest person is at around $500,000, who is a state senator. I know you're just kind of clocking into this, Jarrett, but help me understand why he's so far ahead in the money. That means people are the donors. The people with pockets are giving to him. JARRETT STEPMAN, CONTRIBUTOR, \"THE DAILY SIGNAL\": Yes. In fairness, that may shift a bit after this moment, seeing him not as credible candidate.",
+      "cn": "Peringkat kedua memiliki sekitar $500.000, seorang senator negara bagian. Saya tahu Anda baru bergabung dalam diskusi, Jarrett, tapi bantu saya mengerti mengapa dia unggul jauh dalam pendanaan. Ini berarti orang-orang adalah donor. Orang kaya memberinya uang. Kontributor The Daily Signal, Jarrett Stepman: Ya. Secara adil, setelah melihat bahwa dia bukan kandidat yang kredibel, hal itu mungkin berubah."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, that's a shift by about a million bucks. Yes.",
+      "cn": "Yah, itu sekitar selisih satu juta dolar. Ya."
+    },
+    {
+      "speaker": "Stepman",
+      "text": "It would -- it would have to be quite a bit.",
+      "cn": "That would require a lot of changes."
+    },
+    {
+      "speaker": "Stepman",
+      "text": "And, frankly, it -- Colorado, look, they haven't elected a Republican governor in that state since --",
+      "cn": "And, frankly, Colorado, you see, they haven't elected a Republican governor since..."
+    },
+    {
+      "speaker": "Stepman",
+      "text": "So, it's been a long time. I think you sometimes see this in states that have gone one way for a long time. You get sometimes candidates who are not particularly credible. There's a sort of a desperation saying, this guy seems like an outsider. He's, said, look, we saw this in Maine, somebody who's an outsider, in that case actually had a huge amount of success against a political establishment.",
+      "cn": "So, it's been a long time. I think sometimes you see this in states that have leaned one way for a long time. Sometimes there are candidates who are not very credible. There's a sense of desperation that says this guy looks like an outsider. He says, look, we saw it in Maine, an outsider, actually in that case, had great success against the political establishment."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can I tell you how far outside --",
+      "cn": "Can I tell you how much of an outsider he is?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Just how far outside. MIKE LEON, HOST, \"CAN WE PLEASE TALK\"",
+      "cn": "How much of an outsider. \"Can We Talk\" host Mike Leon:"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "A bit outside is probably -- (CROSS TALK)",
+      "cn": "A little bit outside might be -- -- (cross talk)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm going to -- I needed to be, like, what's happening with this exorcism bit? Is this an internet joke? Is this people sort of, you know, I don't know what I thought. But here's what I saw. VICTOR MARX (R),",
+      "cn": "I'm going to -- -- I need to know, what's this exorcism bit? Is it an internet joke? Or are people a little, you know, I don't know what to think. But this is what I saw. Victor Marks (Republican),"
+    },
+    {
+      "speaker": "Colorado Candidate For Governor",
+      "text": "When you say I perform exorcisms.",
+      "cn": "When you say I perform exorcisms."
+    },
+    {
+      "speaker": "Kyle Clark",
+      "text": "Yes. You described yourself as a, quote/unquote, reluctant exorcist.",
+      "cn": "Yes. You describe yourself as a, quote, reluctant exorcist."
+    },
+    {
+      "speaker": "Clark",
+      "text": "Yes. Describe to me how your exorcisms work when you command demons out.",
+      "cn": "Yes. Describe how your exorcism works, when you command the demon to leave."
+    },
+    {
+      "speaker": "Marx",
+      "text": "Well, that's a joke. We identify the demon, like Jesus did. We asked what their name is. And then we give them commands. And they very frequently and typically will answer through the person's mind. They'll tell us what they hear. And then we destroy them, banish them to perfect judgment from Christ.",
+      "cn": "Well, it's a joke. We identify demons, like Jesus did. We ask their names. Then we give them commands. They often and usually answer through the person's mind. They tell us what they heard. Then we destroy them, banishing them to the perfect judgment of Christ."
+    },
+    {
+      "speaker": "Clark",
+      "text": "If you're elected governor, would you continue to perform exorcisms while governor?",
+      "cn": "If you are elected governor, will you continue to perform exorcisms while in office?"
+    },
+    {
+      "speaker": "Marx",
+      "text": "I would never stop praying for people.",
+      "cn": "I will never stop praying for people."
+    },
+    {
+      "speaker": "Leon",
+      "text": "So, Audie, remember when we were talking about candidate quality earlier in the first segment. Shout out to Kyle Clark, the reporter there, for 9News in Denver. I love watching you on social media. He's done a lot on this one.",
+      "cn": "So, Audi, remember earlier in the first paragraph we discussed candidate qualities? Shout out to Kyle Clark, reporter at 9News Denver. I love watching you on social media. He's done a lot on this."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He's actually become a bit of a social media star precisely for this coverage.",
+      "cn": "He actually became a social media star because of this coverage."
+    },
+    {
+      "speaker": "Leon",
+      "text": "He has. Precisely for this and the pushback. He's asked different questions of different candidates to give them factual examples. And the fact that he did this, I think it truly exposes a candidate. The fact that he has 2.7, like you said, million dollars in campaign donations. It should be alarming for all of us given this guy's track record and his history and what he just said in that interview there. We're all trying to make sense of exorcisms. And this morning about a candidate, I mean, come on. (CROSS TALK)",
+      "cn": "He really did. Because of this and the backlash. He asked different candidates different questions, giving them factual examples. By doing so, I think he really exposed the candidates. As you said, he has $2.7 million in campaign donations. Considering this person's track record, history, and what he just said in the interview, that should shock all of us. We're all trying to understand exorcism. And this morning about a candidate, I mean, come on. (Cross talk)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But, you know what, I think I also thought, like, OK, Marines, if he's a guy talking about the war, maybe people are interested in that. If he's a guy talking about Epstein, which he is, somebody who is constantly talking about child trafficking, there are lanes within the MAGA movement that are laser focused on this topic.",
+      "cn": "Yes. But, you know, I also thought, okay, Marine, if he's talking about war, maybe people are interested in that. If he's talking about Epstein, like he does, someone constantly talking about child trafficking, then in the MAGA movement, there are factions very focused on this topic."
+    },
+    {
+      "speaker": "Max Rose",
+      "text": "Yes. Yes, I'll say this as a partizan Democrat to my Republican friends and colleagues, that's your guy. That's your nominee. They should vote for him. They should rally for him.",
+      "cn": "Yes. Yes, as a Democrat, I want to say to my Republican friends and colleagues, that's your guy. That's your candidate. They should vote for him. They should rally for him."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I think this is sarcasm. I think under his name it should say Max Rose being sarcastic.",
+      "cn": "I think this is sarcasm. I think under his name it should say Max Rose in sarcasm."
+    },
+    {
+      "speaker": "Rose",
+      "text": "They should -- we should (INAUDIBLE). This is their pathway to finally take back Colorado. (CROSS TALK)",
+      "cn": "They should -- -- we should (inaudible). This is their path to finally take back Colorado. (Cross talk)"
+    },
+    {
+      "speaker": "Rose",
+      "text": "Us Democrats are so afraid of this guy. And, you know,",
+      "cn": "We Democrats are very afraid of this person. And, you know,"
+    },
+    {
+      "speaker": "I -- Leon",
+      "text": "Republicans just learned about him.",
+      "cn": "Republicans just got to know him."
+    },
+    {
+      "speaker": "Rose",
+      "text": "Oh, my God. We're --",
+      "cn": "Oh my god. We -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Listen. No, OK, what you're saying, I can see you amused, but, however, here's Lauren Boebert of Colorado giving her word on why she thinks this is a decent path. REP. LAUREN BOEBERT (R-CO): So, I think right now in Colorado we need a motivator who can then lead. Motivation has to be key in any of our Republican races, especially in a non-election year. I believe that Victor Marx will get qualified people in positions. I stand ready to help him. I am not disparaging any of the other candidates.",
+      "cn": "Listen. No, okay, what you're saying, I think you find it funny, but, however, this is Lauren Boebert from Colorado explaining why she thinks this is a decent path. Rep. Lauren Boebert (R-CO): So, I think now in Colorado, we need a motivator who can lead. Motivation must be key in any Republican campaign, especially in off-year elections. I believe Victor Marx will put qualified people in positions. I am ready to help him. I am not disparaging any other candidates."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I have endorsed Victor Marx, but that's not something that I've turned the volume way up on. I want candidates to be able to professionally run their own race. I do not like the hateful back and forth that I see with Republicans.",
+      "cn": "Saya mendukung Victor Marx, tapi itu bukan sesuatu yang saya umumkan. Saya berharap kandidat bisa menjalankan kampanye secara profesional. Saya tidak suka melihat pertengkaran penuh kebencian di antara Partai Republik."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Today is a day of ringing endorsements, but --",
+      "cn": "Hari ini penuh dengan dukungan kuat, tapi -- --"
+    },
+    {
+      "speaker": "Leon",
+      "text": "I said it, don't (ph) turn up the volume.",
+      "cn": "Saya bilang, jangan (tidak jelas) perbesar suaranya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, no, this is the -- we talked about this during the break. The imperfect messenger argument. We heard this with Trump, right?",
+      "cn": "Tidak, tidak, ini -- -- yang kita bahas saat istirahat. Argumen pembawa pesan yang tidak sempurna. Kita juga mendengarnya tentang Trump, kan?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You're an evangelical. Maybe you're like, I don't know about the marriages, I don't know about this, I don't know about that. But maybe he will put in people that will do the thing we want.",
+      "cn": "Anda seorang evangelis. Mungkin Anda berpikir, saya tidak tahu tentang pernikahannya, saya tidak tahu ini, saya tidak tahu itu. Tapi mungkin dia akan menunjuk orang yang bisa melakukan apa yang kita inginkan."
+    },
+    {
+      "speaker": "Stepman",
+      "text": "It's the outsider again. Look, I mean, in Maine, you had a guy who has a Nazi tattoo fighting the fascists. Was that a credible campaign? Maybe it wasn't.",
+      "cn": "Ini lagi-lagi orang luar. Maksud saya, di Maine, ada orang dengan tato Nazi yang melawan fasis. Apakah itu kampanye yang kredibel? Mungkin tidak."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Maybe he needed an exorcist.",
+      "cn": "Mungkin dia butuh pengusir setan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And maybe he should call Colorado.",
+      "cn": "Mungkin dia harus menelepon Colorado."
+    },
+    {
+      "speaker": "Stepman",
+      "text": "But again, that's also an outsider candidate that people see as different from the establishment as it is in the state. If they think things are going the wrong way, even a charismatic, let's call it, candidate like this can punch through. Yes, the other side may say, hey, we want that guy. We want to face him. But sometimes you get what you wish for and it turns up backfiring.",
+      "cn": "Tapi lagi, ini adalah kandidat orang luar, yang dianggap berbeda dari kemapanan negara bagian. Jika mereka pikir semuanya berjalan ke arah yang salah, bahkan kandidat yang karismatik, katakanlah, seperti ini bisa menonjol. Ya, pihak lain mungkin berkata, hei, kami menginginkan orang itu. Kami ingin menghadapinya. Tapi kadang Anda mendapatkan apa yang Anda inginkan, dan hasilnya jadi bumerang."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, that does backfire. I have one more thing about being an outsider. This one is about a member of Congress who had hoped to go into a new office in the next year. They're coming up short. Last night Republican Nancy Mace finished fifth in the GOP primary for South Carolina governor. She did not get the president's endorsement in the race. She believes it was because of her vote to release the Epstein files, which may have eventually led to her defeat. REP.",
+      "cn": "Ya, itu benar-benar bumerang. Saya punya satu hal lagi tentang orang luar. Ini menyangkut anggota Kongres yang berharap masuk ke kantor baru tahun depan. Mereka tertinggal. Tadi malam, Partai Republik Nancy Mace berada di peringkat kelima dalam pemilihan pendahuluan gubernur Partai Republik di South Carolina. Dia tidak mendapat dukungan presiden dalam kampanye. Dia pikir itu karena dia memilih untuk merilis file Epstein, yang mungkin akhirnya menyebabkan kekalahannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "NANCY MACE (R-SC): I chose to expose the abusers of children, and apparently I chose wrong if the goal was winning an election. I'm at peace with that because when a candidate is OK with corruption, when a candidate is OK with cover ups, something is broken. And that's not political opinion, that is a moral emergency.",
+      "cn": "Nancy Mace (R-SC): Saya memilih untuk mengungkap pelaku kekerasan anak, jelas jika tujuannya adalah memenangkan pemilu, saya salah pilih. Saya merasa tenang dengan itu, karena ketika seorang kandidat mentolerir korupsi, ketika seorang kandidat mentolerir penutupan, ada sesuatu yang rusak. Itu bukan pandangan politik, itu krisis moral."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Group chat is back. I'm going to just say it. There's been a lot of difficult headlines for Nancy Mace. Another person who is dealing with scandal and allegations. But at the same time, she is another person who talked about Epstein a lot, right? She's another person who got on the wrong side of Trump on certain issues. Is that reflected here, or is this really candidate quality?",
+      "cn": "Obrolan grup kembali. Saya akan terus terang. Nancy Mace punya banyak berita utama yang sulit. Orang lain yang juga menghadapi skandal dan tuduhan. Tapi pada saat yang sama, dia juga orang lain yang sering bicara tentang Epstein, kan? Dia berseberangan dengan Trump dalam beberapa masalah. Apakah ini tercermin di sini, atau ini benar-benar masalah kualitas kandidat?"
+    },
+    {
+      "speaker": "Leon",
+      "text": "I want to go back to something we talked about in Maine with Susan Collins, talking about the issues, and Platner as well, talking about issues to Mainers. I feel like South Carolinians didn't hear Nancy Mace talking about that. And more of those headlines and more of her getting a microphone in front of her --",
+      "cn": "I want to go back to our discussion in Maine with Susan Collins, talking about issues, and Plattner, talking to Maine people about issues. I don't think South Carolinians hear Nancy Mace talking about those. It's more the headlines, and her getting the microphone -- --"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Or coming on this network and arguing with somebody and then saying something completely the opposite when she gets off camera, I think those things are what really caught up to her in this race.",
+      "cn": "Or coming on this network to argue with someone, then saying the exact opposite after stepping down, I think that's what really gets her attention in this campaign."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I also heard she didn't do ad spend on",
+      "cn": "I also heard she hasn't spent money on ads -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Like only digital. Is that wise?",
+      "cn": "Like only doing digital ads. Is that wise?"
+    },
+    {
+      "speaker": "Rose",
+      "text": "Well, I -- first of all, Donald Trump still has a stranglehold on the Republican primary. And that is why his party is getting ripped apart.",
+      "cn": "Well, I -- -- first, Donald Trump still firmly controls the Republican primary. That's why his party is splitting."
+    },
+    {
+      "speaker": "Leon",
+      "text": "And didn't endorse her.",
+      "cn": "And not supporting her."
+    },
+    {
+      "speaker": "Rose",
+      "text": "Because the primary base is so extreme and they are so disassociated at this point from independents and moderates nationwide. But Nancy Mace took it one step further. She decided to antagonize, not just Donald Trump, but literally everyone in her life to include just random folks at the airport. So, what you saw here was -- and politicians do this sometimes. They jump into races not to win, but to bolster their public profile for something they're after.",
+      "cn": "Because the primary base voters are very extreme, and they are now severely out of touch with independents and moderates nationwide. But Nancy Mace goes further. She decided to fight, not only Donald Trump, but almost everyone in her life, including random people at the airport. So, what you see here is -- -- politicians sometimes do this. They don't run to win, but to boost their public profile for some goal."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Well, this is the kind of thing that is in my group chat because every member of the YOLO caucus, the people who limp back to Congress from their primaries, they're really upset. And they plan to spend the next couple of months antagonizing the White House. Do you think Nancy Mace will be one of those?",
+      "cn": "Yes. Well, that's exactly what's in my group chat, because every member of the YOLO caucus, those who barely made it back to Congress from the primary, they are very unhappy. They plan to confront the White House in the coming months. Do you think Nancy Mace will be one of them?"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "I think she's going to in her final months. I mean she's already burned all the bridges. She's -- I think the voters in her state didn't like the drama and they said, hey, we don't want that actually running the place.",
+      "cn": "I think she will do that in the final months. I mean, she has burned all bridges. She -- -- I don't think voters in her state like this drama, they say, hey, we don't want someone like that to actually run the place."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. That's a good point, you're not effective if you're at odds with everyone.",
+      "cn": "Yes, well said. If you're at odds with everyone, you won't be effective."
+    },
+    {
+      "speaker": "Stepman",
+      "text": "You're not effective. And you're infective (ph). And she's going to continue this. Obviously, if she's done it up to this point, I don't think she's going to stop. But I -- she's already burned the bridges with President Trump, clearly. So, what have you got to lose now?",
+      "cn": "You won't be effective, and you'll be contagious (sound). She will continue this. Obviously, if she's done it this far, I don't think she'll stop. But I -- -- she has completely fallen out with President Trump, that's clear. So, what do you have to lose now?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What have you got to lose? OK, speaking of YOLO, we're going to talk about what's in our group chats on this news show. Mike Leon, what are you talking about in your group chats?",
+      "cn": "What do you have to lose? Well, speaking of YOLO, we'll chat about what's in the group chat on this news program. Mike Leon, what's in your group chat?"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Well, first off, it's always the Knicks. But I'm talking about UFC 250. One thing that is always interesting to me --",
+      "cn": "嗯，首先，总是尼克斯队。但我在聊UFC 250。有一件事一直让我很感兴趣 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This is the UFC fight. The claws going up on the White House lawn.",
+      "cn": "这是UFC比赛。爪子伸到了白宫草坪上。"
+    },
+    {
+      "speaker": "Leon",
+      "text": "The UFC Freedom 250. Unnecessary. All of this that you're seeing here in the screen here. But Trump has always used the combat sports space to talk to voters. It's something I've talked to Democrats about. Senator Ruben Gallego, who's a big boxing fan, him and I have had this conversation. Democrat --",
+      "cn": "UFC自由250。没必要。你在屏幕上看到的这一切。但特朗普一直利用格斗运动领域与选民对话。我和民主党人谈过这件事。参议员鲁本·加列戈是个大拳击迷，我和他有过这样的对话。民主党 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And they're giving tickets to combat (INAUDIBLE).",
+      "cn": "他们正在赠送格斗比赛的门票（听不清）。"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Correct. And -- exactly. And Trump has always used it as a vehicle, for his relationship with Tyson and the fights that he would put on in Trump -- at Taj Mahal or whatever.",
+      "cn": "没错。而且 --  -- 正是如此。特朗普一直把它当作一个工具，用于他与泰森的关系以及他在特朗普泰姬陵或其他地方举办的比赛。"
+    },
+    {
+      "speaker": "Leon",
+      "text": "He would always be in this space. He's always had these relationships because those are the kind of voters that go out and vote for him. That's the thing that we've always talked about.",
+      "cn": "他总是在这个领域。他一直有这些关系，因为那些是出去投票给他的选民。这是我们一直谈论的事情。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right, my friend at \"The Daily Signal,\" what's in your group chat?",
+      "cn": "好了，我在《每日信号》的朋友，你的群聊里有什么？"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "So, I'm going to bring up the Knicks because it's a big thing. I moved here to New York --",
+      "cn": "那么，我要提一下尼克斯队，因为这是件大事。我搬到纽约来 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Why do I even bother?",
+      "cn": "我干嘛还要费这个劲？"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "I know. Why did you even bother.",
+      "cn": "我知道。你干嘛还要费这个劲。"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Just change the segment.",
+      "cn": "换个话题吧。"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "You know, it matters to me. I'm from Oakland, California. The saddest sports town in America. We've lost all of our sports teams. So, just the fact the Knicks -- look, I have a lot of New York sports fan friends who haven't seen the Knicks or the Jets, or these teams ever do anything pretty much in their life, and now they get to spend some time with their kids and enjoy this moment. It may not come again. So, you know what --",
+      "cn": "你知道吗，这对我很重要。我来自加州奥克兰，美国最悲伤的体育城市。我们失去了所有的运动队。所以，就凭尼克斯队 --  -- 你看，我有很多纽约体育迷朋友，他们这辈子几乎没见过尼克斯队、喷气机队或其他队伍有什么作为，而现在他们能和孩子一起享受这一刻。这机会可能不会再有了。所以，你知道吗 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I love it. I love it. It's communal.",
+      "cn": "Saya suka ini. Saya suka ini. Ini adalah pengalaman bersama."
+    },
+    {
+      "speaker": "Stepman",
+      "text": "It's communal. Its wonderful.",
+      "cn": "Ini adalah pengalaman bersama. Luar biasa."
+    },
+    {
+      "speaker": "Rose",
+      "text": "You know it, not just the Knicks, Donald Trump lost that game for the Knicks.",
+      "cn": "Tahukah Anda, bukan hanya Knicks, Donald Trump yang membuat Knicks kalah dalam pertandingan itu."
+    },
+    {
+      "speaker": "Leon",
+      "text": "Zero-11, 0-11 in sporting events.",
+      "cn": "0-11 dalam acara olahraga."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You're one of those people.",
+      "cn": "Kamu tipe orang seperti itu."
+    },
+    {
+      "speaker": "Rose",
+      "text": "Stay away. He lost it for us. We -- all we were doing is winning. This guy shows up.",
+      "cn": "Menjauhlah. Dia membuat kita kalah. Kita -- kita terus menang. Orang ini muncul."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, luckily, he's not going. So, all of New York is not calling him the cooler.",
+      "cn": "Untungnya, dia tidak pergi. Jadi, seluruh New York tidak memanggilnya pembawa sial."
+    },
+    {
+      "speaker": "Rose",
+      "text": "Fine. I thought I couldn't dislike the guy more.",
+      "cn": "Baiklah. Saya pikir saya sudah cukup membencinya."
+    },
+    {
+      "speaker": "Leon",
+      "text": "I agree. (CROSS TALK)",
+      "cn": "Saya setuju. (Percakapan silang)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You guys. Thank you so much. Thank you for waking up with us. I'm Audie Cornish, and the headlines are next. var CNN = CNN || {};",
+      "cn": "Hadirin sekalian. Terima kasih banyak. Terima kasih telah bangun bersama kami. Saya Oti Cornish, dan selanjutnya adalah ringkasan berita. var CNN = CNN || {};"
+    }
+  ]
+}

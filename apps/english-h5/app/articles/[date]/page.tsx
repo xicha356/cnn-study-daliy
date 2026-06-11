@@ -1,6 +1,8 @@
 import { getArticleByDate, getArticleList } from "@study/core/data";
+import { DEFAULT_LOCALE } from "@study/core/i18n";
 import { buildArticleJsonLd, trimSeoDescription } from "@study/core/seo";
 import type { StudyArticle } from "@study/core/types";
+import { LocaleRedirectScript } from "@study/ui/LocaleRedirectScript";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { JsonLd } from "../../components/JsonLd";
@@ -13,7 +15,7 @@ export const dynamicParams = false;
 
 export async function generateStaticParams() {
   try {
-    const articles = await getArticleList();
+    const articles = await getArticleList(DEFAULT_LOCALE);
     return articles.map((article) => ({ date: article.date }));
   } catch {
     return [];
@@ -22,7 +24,7 @@ export async function generateStaticParams() {
 
 async function loadArticle(date: string): Promise<StudyArticle | null> {
   try {
-    return await getArticleByDate(date);
+    return await getArticleByDate(date, DEFAULT_LOCALE);
   } catch {
     return null;
   }
@@ -82,8 +84,9 @@ export default async function ArticlePage({
 
   return (
     <>
-      <JsonLd data={buildArticleJsonLd(article, siteUrl)} />
-      <StudyArticleClient article={article} />
+      <LocaleRedirectScript path={`/articles/${article.date}`} />
+      <JsonLd data={buildArticleJsonLd(article, siteUrl, DEFAULT_LOCALE)} />
+      <StudyArticleClient article={article} locale={DEFAULT_LOCALE} />
     </>
   );
 }

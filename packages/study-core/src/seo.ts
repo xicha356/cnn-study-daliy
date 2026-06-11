@@ -1,3 +1,11 @@
+import {
+  DEFAULT_LOCALE,
+  type LocaleCode,
+  SUPPORTED_LOCALES,
+  getLocaleConfig,
+  getUiCopy,
+  localePath,
+} from "./i18n";
 import type { StudyArticle } from "./types";
 
 export const seoSiteName = "cnn 新闻精读";
@@ -33,28 +41,52 @@ export function getArticleText(article: StudyArticle, maxLength = 4000) {
     .slice(0, maxLength);
 }
 
-export function buildWebsiteJsonLd(siteUrl: string) {
+function siteText(locale: LocaleCode) {
+  const copy = getUiCopy(locale);
   return {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    name: seoSiteName,
-    alternateName: ["CNN Study", "CNN 英语精读"],
-    url: siteUrl,
-    inLanguage: "zh-CN",
-    description: seoSiteDescription,
+    name: copy.siteName,
+    description: copy.siteDescription,
   };
 }
 
-export function buildLearningAppJsonLd(siteUrl: string) {
+export function buildLanguageAlternates(path: string) {
+  return Object.fromEntries(
+    SUPPORTED_LOCALES.map((locale) => [locale, localePath(locale, path)]),
+  );
+}
+
+export function buildWebsiteJsonLd(
+  siteUrl: string,
+  locale: LocaleCode = DEFAULT_LOCALE,
+) {
+  const config = getLocaleConfig(locale);
+  const text = siteText(locale);
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: text.name,
+    alternateName: ["CNN Study", "CNN 英语精读"],
+    url: `${siteUrl}${localePath(locale)}`,
+    inLanguage: config.htmlLang,
+    description: text.description,
+  };
+}
+
+export function buildLearningAppJsonLd(
+  siteUrl: string,
+  locale: LocaleCode = DEFAULT_LOCALE,
+) {
+  const config = getLocaleConfig(locale);
+  const text = siteText(locale);
   return {
     "@context": "https://schema.org",
     "@type": "WebApplication",
-    name: seoSiteName,
-    url: siteUrl,
+    name: text.name,
+    url: `${siteUrl}${localePath(locale)}`,
     applicationCategory: "EducationalApplication",
     operatingSystem: "Web",
-    inLanguage: "zh-CN",
-    description: seoSiteDescription,
+    inLanguage: config.htmlLang,
+    description: text.description,
     offers: {
       "@type": "Offer",
       price: "0",
@@ -63,8 +95,14 @@ export function buildLearningAppJsonLd(siteUrl: string) {
   };
 }
 
-export function buildArticleJsonLd(article: StudyArticle, siteUrl: string) {
-  const url = `${siteUrl}/articles/${article.date}`;
+export function buildArticleJsonLd(
+  article: StudyArticle,
+  siteUrl: string,
+  locale: LocaleCode = DEFAULT_LOCALE,
+) {
+  const config = getLocaleConfig(locale);
+  const copy = getUiCopy(locale);
+  const url = `${siteUrl}${localePath(locale, `/articles/${article.date}`)}`;
   return {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -75,24 +113,23 @@ export function buildArticleJsonLd(article: StudyArticle, siteUrl: string) {
     mainEntityOfPage: url,
     datePublished: article.date,
     dateModified: article.date,
-    inLanguage: "zh-CN",
+    inLanguage: config.htmlLang,
     isAccessibleForFree: true,
-    articleSection: "新闻英语精读",
+    articleSection: copy.siteName,
     keywords: [
       "CNN",
-      "新闻英语",
-      "英语精读",
+      copy.siteName,
       ...article.vocabulary.slice(0, 12).map((item) => item.word),
     ].join(", "),
     author: {
       "@type": "Organization",
-      name: seoSiteName,
-      url: siteUrl,
+      name: copy.siteName,
+      url: `${siteUrl}${localePath(locale)}`,
     },
     publisher: {
       "@type": "Organization",
-      name: seoSiteName,
-      url: siteUrl,
+      name: copy.siteName,
+      url: `${siteUrl}${localePath(locale)}`,
     },
     about: article.topics.slice(0, 5).map((topic) => ({
       "@type": "Thing",

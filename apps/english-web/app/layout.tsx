@@ -1,3 +1,4 @@
+import { LOCALE_CONFIGS, SUPPORTED_LOCALES } from "@study/core/i18n";
 import { seoKeywords, seoSiteDescription, seoSiteName } from "@study/core/seo";
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
@@ -96,6 +97,30 @@ function ThemeScript() {
   return <script dangerouslySetInnerHTML={{ __html: code }} />;
 }
 
+function LocaleScript() {
+  const htmlLangByLocale = Object.fromEntries(
+    SUPPORTED_LOCALES.map((locale) => [
+      locale,
+      LOCALE_CONFIGS[locale].htmlLang,
+    ]),
+  );
+  const code = `
+    (function () {
+      try {
+        var map = ${JSON.stringify(htmlLangByLocale)};
+        var first = window.location.pathname.replace(/^\\/+/, '').split('/')[0];
+        if (map[first]) {
+          document.documentElement.lang = map[first];
+          window.localStorage.setItem('cnn_locale', first);
+        }
+      } catch (_) {}
+    })();
+  `;
+
+  // biome-ignore lint/security/noDangerouslySetInnerHtml: locale bootstrapping keeps html lang and stored preference aligned with locale routes.
+  return <script dangerouslySetInnerHTML={{ __html: code }} />;
+}
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -106,6 +131,7 @@ export default function RootLayout({
       <body>
         <DeviceRedirectScript />
         <ThemeScript />
+        <LocaleScript />
         {children}
       </body>
     </html>

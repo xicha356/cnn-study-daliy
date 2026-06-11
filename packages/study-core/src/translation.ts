@@ -1,5 +1,11 @@
-export async function requestBrowserTranslation(text: string): Promise<string> {
-  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=${encodeURIComponent(text)}`;
+import { getLocaleConfig } from "./i18n";
+
+export async function requestBrowserTranslation(
+  text: string,
+  locale = "zh-CN",
+): Promise<string> {
+  const target = getLocaleConfig(locale).googleTranslateCode;
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=${target}&dt=t&q=${encodeURIComponent(text)}`;
   const controller = new AbortController();
   const timer = globalThis.setTimeout(() => controller.abort(), 8000);
 

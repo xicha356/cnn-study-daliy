@@ -1,7 +1,9 @@
 "use client";
 
+import { type LocaleCode, getUiCopy, localePath } from "@study/core/i18n";
 import { isArticleStudied } from "@study/core/storage";
 import type { ArticleIndexItem } from "@study/core/types";
+import { LanguageSwitcher } from "@study/ui/LanguageSwitcher";
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { ThemeToggle } from "./ThemeToggle";
@@ -10,38 +12,8 @@ type FilterKey = "all" | "recent" | "audio" | "studied" | "review";
 
 type HomeClientProps = {
   articles: ArticleIndexItem[];
+  locale: LocaleCode;
 };
-
-const filters: { key: FilterKey; label: string }[] = [
-  { key: "all", label: "全部" },
-  { key: "recent", label: "最近7天" },
-  { key: "audio", label: "有音频" },
-  { key: "studied", label: "已学习" },
-  { key: "review", label: "待复习" },
-];
-
-const features = [
-  {
-    title: "重点词汇",
-    detail: "从新闻语境里抽取真正影响理解的词，不按考试标签硬分级。",
-    stat: "≤ 50",
-  },
-  {
-    title: "长难句精析",
-    detail: "独立生成 20-30 个可讲解句子，按结构、逻辑和表达逐层拆解。",
-    stat: "20-30",
-  },
-  {
-    title: "按需朗读",
-    detail: "词汇预生成音频；段落和难句按需请求 ElevenLabs，并在浏览器缓存。",
-    stat: "TTS",
-  },
-  {
-    title: "学习闭环",
-    detail: "测验、标记、待复习和已掌握都留在本地，适合每天短时复盘。",
-    stat: "Local",
-  },
-];
 
 function parseDate(date: string) {
   return new Date(`${date}T00:00:00`);
@@ -66,7 +38,15 @@ function articleTitle(title: string) {
   return title.replace(/^CNN This Morning\s*·\s*\d{4}-\d{2}-\d{2}\s*·\s*/, "");
 }
 
-export function HomeClient({ articles }: HomeClientProps) {
+export function HomeClient({ articles, locale }: HomeClientProps) {
+  const copy = getUiCopy(locale);
+  const filters: { key: FilterKey; label: string }[] = [
+    { key: "all", label: copy.filters.all },
+    { key: "recent", label: copy.filters.recent },
+    { key: "audio", label: copy.filters.audio },
+    { key: "studied", label: copy.filters.studied },
+    { key: "review", label: copy.filters.review },
+  ];
   const [query, setQuery] = useState("");
   const [filter, setFilter] = useState<FilterKey>("all");
   const [studiedDates, setStudiedDates] = useState<Set<string>>(new Set());
@@ -115,26 +95,27 @@ export function HomeClient({ articles }: HomeClientProps) {
     <main className="min-h-screen overflow-hidden bg-bg text-text">
       <header className="sticky top-0 z-30 border-b border-line/80 bg-bg/88 backdrop-blur-xl">
         <div className="mx-auto flex h-16 w-full max-w-7xl items-center justify-between px-8">
-          <Link href="/" className="flex items-center gap-3">
+          <Link href={localePath(locale)} className="flex items-center gap-3">
             <span className="grid h-10 w-10 place-items-center rounded-md bg-brand text-sm font-black text-white">
               CNN
             </span>
             <div>
               <p className="text-[11px] font-black uppercase tracking-[0.22em] text-brand">
-                News Study
+                {copy.siteKicker}
               </p>
-              <p className="text-base font-black text-text">cnn 新闻精读</p>
+              <p className="text-base font-black text-text">{copy.siteName}</p>
             </div>
           </Link>
           <div className="flex items-center gap-3">
             {latestArticle ? (
               <Link
-                href={`/articles/${latestArticle.date}`}
+                href={localePath(locale, `/articles/${latestArticle.date}`)}
                 className="focus-ring rounded-md border border-line bg-panel px-4 py-2 text-sm font-bold text-text transition hover:border-brand hover:text-brand"
               >
-                今日文章
+                {copy.todayArticle}
               </Link>
             ) : null}
+            <LanguageSwitcher locale={locale} />
             <ThemeToggle />
           </div>
         </div>
@@ -147,42 +128,42 @@ export function HomeClient({ articles }: HomeClientProps) {
               Daily CNN intensive reading
             </p>
             <h1 className="mt-7 max-w-3xl text-7xl font-black leading-[0.96] tracking-normal text-text">
-              把一篇 CNN 新闻，拆成能真正吸收的英语训练。
+              {copy.heroTitle}
             </h1>
             <p className="mt-7 max-w-2xl text-xl font-semibold leading-9 text-sub">
-              每天一篇新闻，自动整理双语全文、重点词汇、长难句、背景知识、测验和美式朗读。你只需要打开文章，跟着节奏精读。
+              {copy.heroText}
             </p>
             <div className="mt-9 flex flex-wrap items-center gap-3">
               {latestArticle ? (
                 <Link
-                  href={`/articles/${latestArticle.date}`}
+                  href={localePath(locale, `/articles/${latestArticle.date}`)}
                   className="focus-ring rounded-md bg-brand px-6 py-3 text-base font-black text-white shadow-sm transition hover:translate-y-[-1px]"
                 >
-                  开始今天的精读
+                  {copy.startLearning}
                 </Link>
               ) : null}
               <a
                 href="#articles"
                 className="focus-ring rounded-md border border-line bg-panel px-6 py-3 text-base font-black text-text transition hover:border-brand hover:text-brand"
               >
-                查看文章库
+                {copy.articleLibrary}
               </a>
             </div>
             <dl className="mt-10 grid max-w-2xl grid-cols-3 gap-3">
               <div className="border-l-2 border-brand pl-4">
-                <dt className="text-sm font-bold text-sub">文章</dt>
+                <dt className="text-sm font-bold text-sub">{copy.articles}</dt>
                 <dd className="mt-1 text-3xl font-black text-text">
                   {articles.length}
                 </dd>
               </div>
               <div className="border-l-2 border-brand pl-4">
-                <dt className="text-sm font-bold text-sub">词汇</dt>
+                <dt className="text-sm font-bold text-sub">{copy.words}</dt>
                 <dd className="mt-1 text-3xl font-black text-text">
                   {totalVocab}
                 </dd>
               </div>
               <div className="border-l-2 border-brand pl-4">
-                <dt className="text-sm font-bold text-sub">难句</dt>
+                <dt className="text-sm font-bold text-sub">{copy.sentences}</dt>
                 <dd className="mt-1 text-3xl font-black text-text">
                   {totalSentences}
                 </dd>
@@ -221,24 +202,25 @@ export function HomeClient({ articles }: HomeClientProps) {
                       </h2>
                     </div>
                     <p className="max-w-xl text-base font-medium leading-7 text-white/68">
-                      {latestArticle?.summary ||
-                        "生成文章后，这里会显示当天新闻的摘要和学习路线。"}
+                      {latestArticle?.summary || copy.noArticles}
                     </p>
                     <div className="grid grid-cols-3 gap-3 pt-2">
                       <div className="rounded-md bg-white/[0.06] p-3">
-                        <p className="text-xs text-white/48">vocab</p>
+                        <p className="text-xs text-white/48">{copy.words}</p>
                         <p className="mt-1 text-2xl font-black">
                           {latestArticle?.vocabCount ?? 0}
                         </p>
                       </div>
                       <div className="rounded-md bg-white/[0.06] p-3">
-                        <p className="text-xs text-white/48">sentences</p>
+                        <p className="text-xs text-white/48">
+                          {copy.sentences}
+                        </p>
                         <p className="mt-1 text-2xl font-black">
                           {latestArticle?.sentenceCount ?? 0}
                         </p>
                       </div>
                       <div className="rounded-md bg-white/[0.06] p-3">
-                        <p className="text-xs text-white/48">audio</p>
+                        <p className="text-xs text-white/48">{copy.audio}</p>
                         <p className="mt-1 text-2xl font-black">
                           {latestArticle?.hasAudio ? "on" : "off"}
                         </p>
@@ -247,27 +229,31 @@ export function HomeClient({ articles }: HomeClientProps) {
                   </div>
                 </div>
                 <div className="bg-white/[0.035] p-5">
-                  {["原文", "翻译", "词汇", "难句", "测验"].map(
-                    (item, index) => (
-                      <div
-                        key={item}
-                        className={[
-                          "mb-3 rounded-md border px-3 py-3 text-sm font-black",
-                          index === 2
-                            ? "border-[#87d7b7] bg-[#87d7b7] text-[#111713]"
-                            : "border-white/10 bg-white/[0.04] text-white/62",
-                        ].join(" ")}
-                      >
-                        {item}
-                      </div>
-                    ),
-                  )}
+                  {[
+                    copy.tabs.original,
+                    copy.tabs.translation,
+                    copy.tabs.vocabulary,
+                    copy.tabs.sentences,
+                    copy.tabs.quiz,
+                  ].map((item, index) => (
+                    <div
+                      key={item}
+                      className={[
+                        "mb-3 rounded-md border px-3 py-3 text-sm font-black",
+                        index === 2
+                          ? "border-[#87d7b7] bg-[#87d7b7] text-[#111713]"
+                          : "border-white/10 bg-white/[0.04] text-white/62",
+                      ].join(" ")}
+                    >
+                      {item}
+                    </div>
+                  ))}
                   <div className="mt-6 rounded-md border border-white/10 bg-black/20 p-4">
                     <p className="text-xs uppercase tracking-[0.22em] text-white/40">
                       next step
                     </p>
                     <p className="mt-2 text-sm font-bold leading-6 text-white/72">
-                      点击高亮词自动朗读，难句按需生成音频并缓存。
+                      {copy.heroText}
                     </p>
                   </div>
                 </div>
@@ -279,7 +265,7 @@ export function HomeClient({ articles }: HomeClientProps) {
 
       <section className="border-b border-line bg-panel/55">
         <div className="mx-auto grid w-full max-w-7xl grid-cols-4 gap-4 px-8 py-12">
-          {features.map((feature) => (
+          {copy.featureCards.map((feature) => (
             <article
               key={feature.title}
               className="rounded-md border border-line bg-panel p-5 shadow-sm"
@@ -289,7 +275,7 @@ export function HomeClient({ articles }: HomeClientProps) {
                   {feature.title}
                 </h2>
                 <span className="rounded-md bg-brand-soft px-2 py-1 font-mono text-xs font-black text-brand">
-                  {feature.stat}
+                  {feature.value}
                 </span>
               </div>
               <p className="mt-4 text-sm font-semibold leading-6 text-sub">
@@ -306,20 +292,22 @@ export function HomeClient({ articles }: HomeClientProps) {
             <p className="text-sm font-black uppercase tracking-[0.2em] text-brand">
               Library
             </p>
-            <h2 className="mt-2 text-4xl font-black text-text">文章库</h2>
+            <h2 className="mt-2 text-4xl font-black text-text">
+              {copy.articleLibrary}
+            </h2>
           </div>
           <p className="max-w-md text-right text-sm font-semibold leading-6 text-sub">
-            文章列表仍然是首页的一部分：快速搜索、筛选、进入学习页，适合每天回来继续。
+            {copy.siteDescription}
           </p>
         </div>
 
         <div className="mb-6 grid grid-cols-[1fr_auto] gap-4 rounded-md border border-line bg-panel p-4 shadow-sm">
           <label className="block">
-            <span className="sr-only">搜索文章</span>
+            <span className="sr-only">{copy.searchPlaceholder}</span>
             <input
               value={query}
               onChange={(event) => setQuery(event.target.value)}
-              placeholder="搜索标题、摘要或日期"
+              placeholder={copy.searchPlaceholder}
               className="focus-ring h-11 w-full rounded-md border border-line bg-bg px-4 text-sm font-semibold text-text placeholder:text-sub"
             />
           </label>
@@ -351,7 +339,7 @@ export function HomeClient({ articles }: HomeClientProps) {
             return (
               <Link
                 key={article.date}
-                href={`/articles/${article.date}`}
+                href={localePath(locale, `/articles/${article.date}`)}
                 className="focus-ring grid grid-cols-[120px_1fr_auto] gap-5 rounded-md border border-line bg-panel p-5 shadow-sm transition hover:border-brand hover:shadow-md"
               >
                 <div className="flex flex-col justify-between border-r border-line pr-5">
@@ -366,7 +354,7 @@ export function HomeClient({ articles }: HomeClientProps) {
                         : "bg-muted text-sub",
                     ].join(" ")}
                   >
-                    {studied ? "已学习" : "待复习"}
+                    {studied ? copy.filters.studied : copy.filters.review}
                   </span>
                 </div>
                 <div className="min-w-0">
@@ -378,20 +366,20 @@ export function HomeClient({ articles }: HomeClientProps) {
                   </p>
                   <div className="mt-4 flex items-center gap-2 text-xs font-bold text-sub">
                     <span className="rounded bg-muted px-2 py-1">
-                      词汇 {article.vocabCount}
+                      {copy.words} {article.vocabCount}
                     </span>
                     <span className="rounded bg-muted px-2 py-1">
-                      难句 {article.sentenceCount}
+                      {copy.sentences} {article.sentenceCount}
                     </span>
                     {article.hasAudio && (
                       <span className="rounded bg-brand-soft px-2 py-1 text-brand">
-                        词汇音频
+                        {copy.audio}
                       </span>
                     )}
                   </div>
                 </div>
                 <div className="flex items-center text-sm font-black text-brand">
-                  开始
+                  {copy.startLearning}
                 </div>
               </Link>
             );
@@ -400,7 +388,7 @@ export function HomeClient({ articles }: HomeClientProps) {
 
         {filteredArticles.length === 0 && (
           <div className="flex min-h-56 items-center justify-center rounded-md border border-dashed border-line bg-panel p-12 text-center text-sub">
-            暂无匹配文章。若数据还未生成，请先准备 public/data。
+            {copy.noArticles}
           </div>
         )}
       </section>

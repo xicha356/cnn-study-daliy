@@ -1,0 +1,2112 @@
+{
+  "date": "2026-06-10",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-10/segment/01",
+  "summary": "မဲန်းပြည်နယ် ဒီမိုကရက်တစ်ပါတီ၏ သမ္မတလောင်းရွေးချယ်ပွဲတွင် အရှုပ်တော်ပုံများနှင့် ရင်ဆိုင်နေရသော ဂရေဟမ် ပလတ်နာသည် အုပ်ချုပ်ရေးမှူး ဂျန်းနက် မီးလ်ကို ၇၅% မဲဖြင့် အနိုင်ယူပြီး ရီပါဘလစ်ကန် အထက်လွှတ်တော်အမတ် ဆူဇန် ကော်လင်ကို စိန်ခေါ်မည်။ ပလတ်နာသည် မီးလ်၏ ထောက်ခံသူများကို ဆွဲဆောင်ရန် လိုအပ်ပြီး ကော်လင်သည် လွတ်လပ်သော မဲဆန္ဒရှင်များကြားတွင် အားသာချက်ရှိနေဆဲဖြစ်သည်။ အခြားသတင်းများ- အမေရိကန်က အီရန်ကို ဒုံးကျည်ဖြင့် တိုက်ခိုက်ခြင်း၊ OpenAI က IPO လျှောက်ထားခြင်း၊ အဲပ်စတိန်း ဖိုင်များ ကြားနာပွဲ၊ ကော်လိုရာဒို အုပ်ချုပ်ရေးမှူးလောင်း ဗစ်တာ မာ့ခ်စ်၏ အငြင်းပွားဖွယ် ပြောဆိုချက်များ။",
+  "vocabulary": [
+    {
+      "word": "stick with",
+      "phonetic": "/stɪk wɪð/",
+      "pos": "phrasal verb",
+      "usage": "နေ့စဉ်သုံးအသုံးအနှုန်း",
+      "difficulty": "အခြေခံ",
+      "domain": "အထွေထွေ",
+      "level": "နေ့စဉ်သုံးအသုံးအနှုန်း · အခြေခံ",
+      "cn": "ဆက်လက်ထောက်ခံရန် ရွေးချယ်ခြင်း",
+      "en": "to continue to support or choose someone or something",
+      "excerpt": "Democrats in Maine vote to stick with Graham Platner.",
+      "example_cn": "မိန်းပြည်နယ် ဒီမိုကရက်များသည် Graham Platter ကို ဆက်လက်ထောက်ခံရန် မဲပေးခဲ့ကြသည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/stick-with-5b443823.mp3"
+    },
+    {
+      "word": "flip",
+      "phonetic": "/flɪp/",
+      "pos": "verb",
+      "usage": "သတင်းတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "သတင်းတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "လွှဲပြောင်းခြင်း (ပါတီတစ်ခုက ပြိုင်ဘက်ထိန်းချုပ်ထားသော နေရာကို ရွေးကောက်ပွဲတွင် အနိုင်ရခြင်း)",
+      "en": "to win a seat or office that was previously held by the opposing party",
+      "excerpt": "Could that cost the party a shot at flipping the Senate this fall?",
+      "example_cn": "၎င်းသည် ဆောင်းဦးတွင် ဆီးနိတ်ကို လွှဲပြောင်းရန် ပါတီ၏ အခွင့်အလမ်းကို အားနည်းစေမည်လား။",
+      "audio_url": "output/audio/vocab/2026-06-10/flip-40f924d8.mp3"
+    },
+    {
+      "word": "weigh",
+      "phonetic": "/weɪ/",
+      "pos": "verb",
+      "usage": "နေ့စဉ်သုံး",
+      "difficulty": "အခြေခံ",
+      "domain": "အထွေထွေ",
+      "level": "နေ့စဉ်သုံး · အခြေခံ",
+      "cn": "ချိန်ဆခြင်း၊ အလေးအနက်စဉ်းစားခြင်း",
+      "en": "to consider something carefully, especially by comparing different factors",
+      "excerpt": "that's the situation that we have to weigh.",
+      "example_cn": "ဒါက ကျွန်တော်တို့ ချိန်ဆရမယ့် အခြေအနေပါ။",
+      "audio_url": "output/audio/vocab/2026-06-10/weigh-1ea8af94.mp3"
+    },
+    {
+      "word": "strain",
+      "phonetic": "/streɪn/",
+      "pos": "verb",
+      "usage": "သတင်းများတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "သတင်းများတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "တင်းမာစေသည်; ဖိအားပေးသည်",
+      "en": "to cause something to be under pressure or tension",
+      "excerpt": "Will the strained ceasefire last long enough for the U.S. to deliver that long-promised deal with Iran?",
+      "example_cn": "တင်းမာနေသော အပစ်အခတ်ရပ်စဲရေးသည် အမေရိကန်အနေဖြင့် အီရန်နှင့် ရေရှည်ကတိကဝတ်သဘောတူညီချက်ကို အကောင်အထည်ဖော်ရန် လုံလောက်သော အချိန်ကြာရှည်နိုင်ပါသလား။",
+      "audio_url": "output/audio/vocab/2026-06-10/strain-26d10fbf.mp3"
+    },
+    {
+      "word": "deliver",
+      "phonetic": "/dɪˈlɪvər/",
+      "pos": "verb",
+      "usage": "သတင်းများတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "သတင်းများတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "ကတိအတိုင်း ဆောင်ရွက်သည်; ပေးအပ်သည်",
+      "en": "to fulfill a promise or expectation; to provide something promised",
+      "excerpt": "for the U.S. to deliver that long-promised deal with Iran.",
+      "example_cn": "အမေရိကန်အနေဖြင့် အီရန်နှင့် ရေရှည်ကတိကဝတ်သဘောတူညီချက်ကို အကောင်အထည်ဖော်ရန်။",
+      "audio_url": "output/audio/vocab/2026-06-10/deliver-c3a71b15.mp3"
+    },
+    {
+      "word": "frontrunner",
+      "phonetic": "/ˈfrʌntˌrʌnər/",
+      "pos": "noun",
+      "usage": "သတင်းများတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "သတင်းများတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "ဦးဆောင်သူ၊ အနိုင်ရရန် အလားအလာအကောင်းဆုံးသူ",
+      "en": "the person or thing that is most likely to win a competition or election",
+      "excerpt": "Meet the frontrunner in the Republican race for governor of Colorado.",
+      "example_cn": "ကော်လိုရာဒိုပြည်နယ် ရီပါဘလစ်ကန်ပါတီ အုပ်ချုပ်ရေးမှူးရွေးကောက်ပွဲတွင် ဦးဆောင်သူကို မိတ်ဆက်ပေးပါရစေ။",
+      "audio_url": "output/audio/vocab/2026-06-10/frontrunner-8625c821.mp3"
+    },
+    {
+      "word": "bubble",
+      "phonetic": "/ˈbʌbəl/",
+      "pos": "noun",
+      "usage": "သတင်းများတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "စီးပွားရေးနှင့် ဘဏ္ဍာရေး",
+      "level": "သတင်းများတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "ပူဖောင်း (ပိုင်ဆိုင်မှုစျေးနှုန်းများ အခြေခံအကြောင်းရင်းမှ ခွဲထွက်ကာ လျင်မြန်စွာမြင့်တက်ခြင်း)",
+      "en": "a situation in which the price of an asset rises far above its real value, often followed by a sudden collapse",
+      "excerpt": "signaling to me that the A.I. bubble is about to pop.",
+      "example_cn": "AI ပူဖောင်း ပေါက်တော့မည်ဟု ကျွန်ုပ်အား ပြသသည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/bubble-834184e4.mp3"
+    },
+    {
+      "word": "pop",
+      "phonetic": "/pɒp/",
+      "pos": "verb",
+      "usage": "နေ့စဉ်သုံး အသုံးအနှုန်း",
+      "difficulty": "အခြေခံ",
+      "domain": "စီးပွားရေးနှင့် ဘဏ္ဍာရေး",
+      "level": "နေ့စဉ်သုံး အသုံးအနှုန်း · အခြေခံ",
+      "cn": "ပေါက်ကွဲခြင်း၊ ကွဲအက်ခြင်း",
+      "en": "to burst or break open suddenly, often with a sound",
+      "excerpt": "the A.I. bubble is about to pop.",
+      "example_cn": "AI ပူဖောင်း ပေါက်ကွဲတော့မည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/pop-4f197c99.mp3"
+    },
+    {
+      "word": "punch one's ticket",
+      "phonetic": "/pʌntʃ wʌnz ˈtɪkɪt/",
+      "pos": "idiom",
+      "usage": "ပုံသေတွဲစကား",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "ပုံသေတွဲစကား · အဆင့်မြင့်",
+      "cn": "အမည်စာရင်းတင်သွင်းခြင်း/အရည်အချင်းပြည့်မီခြင်းကို ရရှိခြင်း၊ အောင်မြင်စွာ တက်လှမ်းခြင်း",
+      "en": "to secure a nomination or qualification, especially in politics",
+      "excerpt": "Graham Platner punches his ticket.",
+      "example_cn": "Graham Plattner သည် အမည်စာရင်းတင်သွင်းခြင်းကို ရရှိခဲ့သည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/punch-one-s-ticket-495024d3.mp3"
+    },
+    {
+      "word": "clinch",
+      "phonetic": "/klɪntʃ/",
+      "pos": "verb",
+      "usage": "သတင်းတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "သတင်းတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "အနိုင်ရရှိမှု/အမည်စာရင်းတင်သွင်းမှုကို သေချာစေခြင်း",
+      "en": "to finally win or achieve something, especially after a struggle",
+      "excerpt": "Moments after clinching the nomination, he turned his attention to his new opponent.",
+      "example_cn": "အမည်စာရင်းတင်သွင်းမှုကို သေချာစေပြီးနောက် မကြာမီတွင် သူသည် ပြိုင်ဘက်အသစ်ဆီသို့ အာရုံစိုက်လာခဲ့သည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/clinch-e37e15ae.mp3"
+    },
+    {
+      "word": "spineless",
+      "phonetic": "/ˈspaɪnləs/",
+      "pos": "adjective",
+      "usage": "နေ့စဉ်သုံးအသုံးအနှုန်း",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "အထွေထွေ",
+      "level": "နေ့စဉ်သုံးအသုံးအနှုန်း · အဆင့်မြင့်",
+      "cn": "ကျောရိုးမရှိသော; အားနည်းသော",
+      "en": "lacking courage or determination; weak-willed",
+      "excerpt": "she has become just as spineless and corrupt as the establishment she now serves.",
+      "example_cn": "သူမသည် ယခုသူမဝန်ဆောင်မှုပေးနေသော တည်ဆောက်မှုစနစ်ကဲ့သို့ပင် အားနည်းပြီး အကျင့်ပျက်လာသည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/spineless-bd636fd3.mp3"
+    },
+    {
+      "word": "establishment",
+      "phonetic": "/ɪˈstæblɪʃmənt/",
+      "pos": "noun",
+      "usage": "သတင်းများတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "သတင်းများတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "တည်ဆောက်မှုစနစ်; အာဏာရှိအဖွဲ့",
+      "en": "the group of people who have power and influence in a society or organization, often seen as conservative or resistant to change",
+      "excerpt": "as the establishment she now serves.",
+      "example_cn": "သူမဝန်ဆောင်မှုပေးနေသော တည်ဆောက်မှုစနစ်။",
+      "audio_url": "output/audio/vocab/2026-06-10/establishment-15e523ca.mp3"
+    },
+    {
+      "word": "independent voice",
+      "phonetic": "/ˌɪndɪˈpendənt vɔɪs/",
+      "pos": "noun phrase",
+      "usage": "ပုံသေတွဲစပ်",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "ပုံသေတွဲစပ် · အဆင့်မြင့်",
+      "cn": "လွတ်လပ်သော အသံ (ပါတီမှီခိုမှုမရှိဘဲ လွတ်လပ်စွာ ထင်မြင်ချက်ပေးသူ)",
+      "en": "a person or entity that expresses opinions independently, not aligned with a particular party or group",
+      "excerpt": "If you are an independent voice, why do you vote with Donald Trump 95 percent of the time?",
+      "example_cn": "သင်သည် လွတ်လပ်သော အသံတစ်ခုဖြစ်ပါက အဘယ်ကြောင့် သင်၏အချိန် ၉၅% ကို Donald Trump နှင့် မဲတူညီစွာ မဲပေးသနည်း။",
+      "audio_url": "output/audio/vocab/2026-06-10/independent-voice-37a5c60e.mp3"
+    },
+    {
+      "word": "have a dog in the fight",
+      "phonetic": "/hæv ə dɒɡ ɪn ðə faɪt/",
+      "pos": "idiom",
+      "usage": "ပုံသေအသုံးအနှုန်း",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "အထွေထွေ",
+      "level": "ပုံသေအသုံးအနှုန်း · အဆင့်မြင့်",
+      "cn": "ပြိုင်ပွဲတွင် အကျိုးစီးပွားရှိခြင်း၊ ပါဝင်ပတ်သက်ခြင်း",
+      "en": "to have a personal stake or interest in a particular situation or conflict",
+      "excerpt": "you guys had a dog in the fight in this race.",
+      "example_cn": "သင်တို့သည် ဤရွေးကောက်ပွဲတွင် အကျိုးစီးပွားရှိသည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/have-a-dog-in-the-fight-b33c24e1.mp3"
+    },
+    {
+      "word": "at stake",
+      "phonetic": "/æt steɪk/",
+      "pos": "phrase",
+      "usage": "နေ့စဉ်သုံးအသုံးအနှုန်း",
+      "difficulty": "အခြေခံ",
+      "domain": "အထွေထွေ",
+      "level": "နေ့စဉ်သုံးအသုံးအနှုန်း · အခြေခံ",
+      "cn": "အန္တရာယ်ရှိခြင်း၊ အောင်မြင်မှုအပေါ်မူတည်ခြင်း",
+      "en": "at risk; something that could be lost or gained",
+      "excerpt": "what's at stake here.",
+      "example_cn": "ဒီမှာ ဘာအန္တရာယ်ရှိနေလဲ။",
+      "audio_url": "output/audio/vocab/2026-06-10/at-stake-ed5c6c49.mp3"
+    },
+    {
+      "word": "jeopardize",
+      "phonetic": "/ˈdʒepərdaɪz/",
+      "pos": "verb",
+      "usage": "သတင်းများတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "အထွေထွေ",
+      "level": "သတင်းများတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "အန္တရာယ်ပြုခြင်း၊ ထိခိုက်စေခြင်း",
+      "en": "to put something at risk of being lost or harmed",
+      "excerpt": "Maybe this has jeopardized it.",
+      "example_cn": "ဒါက ၎င်းကို အန္တရာယ်ပြုမိသွားပြီ ဖြစ်နိုင်တယ်။",
+      "audio_url": "output/audio/vocab/2026-06-10/jeopardize-f6672bb1.mp3"
+    },
+    {
+      "word": "blowout",
+      "phonetic": "/ˈbloʊaʊt/",
+      "pos": "noun",
+      "usage": "နေ့စဉ်သုံး",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "နေ့စဉ်သုံး · အဆင့်မြင့်",
+      "cn": "အပြတ်အသတ်အနိုင်ရခြင်း၊ တစ်ဖက်သတ်ရွေးကောက်ပွဲ",
+      "en": "an easy or decisive victory, especially in an election or sports event",
+      "excerpt": "A lot of times it can be a blowout, right?",
+      "example_cn": "မကြာခဏဆိုသလို ဒါဟာ အပြတ်အသတ်အနိုင်ရမှုတစ်ခု ဖြစ်နိုင်တယ်၊ ဟုတ်တယ်ဟုတ်။",
+      "audio_url": "output/audio/vocab/2026-06-10/blowout-dfa69475.mp3"
+    },
+    {
+      "word": "in essence",
+      "phonetic": "/ɪn ˈesəns/",
+      "pos": "phrase",
+      "usage": "နေ့စဉ်သုံး",
+      "difficulty": "အခြေခံ",
+      "domain": "အထွေထွေ",
+      "level": "နေ့စဉ်သုံး · အခြေခံ",
+      "cn": "အနှစ်သာရအားဖြင့်",
+      "en": "fundamentally; in its most important aspects",
+      "excerpt": "we're saying the same thing in essence, right?",
+      "example_cn": "ကျွန်ုပ်တို့သည် အနှစ်သာရအားဖြင့် တူညီသောအရာကို ပြောနေကြသည်မဟုတ်လား။",
+      "audio_url": "output/audio/vocab/2026-06-10/in-essence-2ea6c77e.mp3"
+    },
+    {
+      "word": "tough to beat",
+      "phonetic": "/tʌf tə biːt/",
+      "pos": "phrase",
+      "usage": "နေ့စဉ်သုံးအသုံးအနှုန်း",
+      "difficulty": "အခြေခံ",
+      "domain": "အထွေထွေ",
+      "level": "နေ့စဉ်သုံးအသုံးအနှုန်း · အခြေခံ",
+      "cn": "အနိုင်ယူရန်ခက်ခဲသော",
+      "en": "difficult to defeat or overcome",
+      "excerpt": "Susan Collins is tough to beat.",
+      "example_cn": "ဆူဇန်ကော်လင်ကို အနိုင်ယူရန် ခက်ခဲသည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/tough-to-beat-f0a13a4e.mp3"
+    },
+    {
+      "word": "Susan Collins light",
+      "phonetic": "/ˈsuːzən ˈkɒlɪnz laɪt/",
+      "pos": "noun phrase",
+      "usage": "ပုံသေတွဲစကား",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးသံတမန်ရေး",
+      "level": "ပုံသေတွဲစကား · အဆင့်မြင့်",
+      "cn": "Susan Collins ၏ အားနည်းသောဗားရှင်း (ရပ်တည်ချက်တူသော်လည်း ပိုမိုပျော့ပျောင်းသော ကိုယ်စားလှယ်လောင်း)",
+      "en": "a candidate who is similar to Susan Collins but less extreme or less effective",
+      "excerpt": "you're not going to win this seat by electing a Susan Collins light.",
+      "example_cn": "Susan Collins ၏ အားနည်းသောဗားရှင်းကို ရွေးချယ်ခြင်းဖြင့် ဤနေရာကို သင်အနိုင်ရရှိနိုင်မည်မဟုတ်ပါ။",
+      "audio_url": "output/audio/vocab/2026-06-10/susan-collins-light-a339fceb.mp3"
+    },
+    {
+      "word": "energize your base",
+      "phonetic": "/ˈenərdʒaɪz jɔːr beɪs/",
+      "pos": "phrase",
+      "usage": "ပုံသေတွဲစကား",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးသံတမန်ရေး",
+      "level": "ပုံသေတွဲစကား · အဆင့်မြင့်",
+      "cn": "သင်၏ အခြေခံထောက်ခံသူများ (core supporters) ကို လှုံ့ဆော်ပါ",
+      "en": "to motivate and rally the core supporters of a political party or candidate",
+      "excerpt": "You are going to beat her by energizing your base.",
+      "example_cn": "သင်၏ အခြေခံထောက်ခံသူများကို လှုံ့ဆော်ခြင်းဖြင့် သူမကို အနိုင်ယူရမည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/energize-your-base-efa2eed8.mp3"
+    },
+    {
+      "word": "midterm election",
+      "phonetic": "/ˈmɪdtɜːrm ɪˈlekʃən/",
+      "pos": "noun phrase",
+      "usage": "ကျွမ်းကျင်ဝေါဟာရ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးသံတမန်ရေး",
+      "level": "ကျွမ်းကျင်ဝေါဟာရ · အဆင့်မြင့်",
+      "cn": "အလယ်အလတ်ရွေးကောက်ပွဲ (သမ္မတသက်တမ်းအလယ်တွင် ကျင်းပသော ကွန်ဂရက်ရွေးကောက်ပွဲ)",
+      "en": "an election held in the middle of a president's term, typically for Congress and state offices",
+      "excerpt": "particularly in a midterm election.",
+      "example_cn": "အထူးသဖြင့် အလယ်အလတ်ရွေးကောက်ပွဲများတွင် ဖြစ်သည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/midterm-election-37274e18.mp3"
+    },
+    {
+      "word": "referendum",
+      "phonetic": "/ˌrefəˈrendəm/",
+      "pos": "noun",
+      "usage": "ပညာရပ်ဆိုင်ရာ ဝေါဟာရ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "ပညာရပ်ဆိုင်ရာ ဝေါဟာရ · အဆင့်မြင့်",
+      "cn": "ပြည်လုံးကျွတ်ဆန္ဒခံယူပွဲ",
+      "en": "a direct vote by the electorate on a specific proposal or issue",
+      "excerpt": "this election has got to be a referendum on Susan Collins.",
+      "example_cn": "ဤရွေးကောက်ပွဲသည် Susan Collins အတွက် ပြည်လုံးကျွတ်ဆန္ဒခံယူပွဲ ဖြစ်ရမည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/referendum-ae5948d3.mp3"
+    },
+    {
+      "word": "hold accountable",
+      "phonetic": "/hoʊld əˈkaʊntəbəl/",
+      "pos": "phrase",
+      "usage": "ပုံသေအသုံးအနှုန်း",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "ပုံသေအသုံးအနှုန်း · အဆင့်မြင့်",
+      "cn": "တာဝန်ယူစေခြင်း",
+      "en": "to require someone to explain their actions and accept responsibility",
+      "excerpt": "her refusal to hold Donald Trump accountable.",
+      "example_cn": "သူမသည် Donald Trump ကို တာဝန်ယူစေရန် ငြင်းဆန်ခဲ့သည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/hold-accountable-f0ed7864.mp3"
+    },
+    {
+      "word": "back-to-back",
+      "phonetic": "/ˌbæk tə ˈbæk/",
+      "pos": "adverb",
+      "usage": "နေ့စဉ်သုံးအသုံးအနှုန်း",
+      "difficulty": "အခြေခံ",
+      "domain": "အထွေထွေ",
+      "level": "နေ့စဉ်သုံးအသုံးအနှုန်း · အခြေခံ",
+      "cn": "ဆက်တိုက်၊ တစ်ခုပြီးတစ်ခု",
+      "en": "consecutively; one after another",
+      "excerpt": "I want to play two clips back-to-back.",
+      "example_cn": "ကျွန်တော် ဗီဒီယိုတိုနှစ်ခုကို ဆက်တိုက်ဖွင့်ချင်တယ်။",
+      "audio_url": "output/audio/vocab/2026-06-10/back-to-back-63f6b2de.mp3"
+    },
+    {
+      "word": "ringing endorsement",
+      "phonetic": "/ˈrɪŋɪŋ ɪnˈdɔːrsmənt/",
+      "pos": "noun phrase",
+      "usage": "ပုံသေတွဲစကား",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးသံတမန်ရေး",
+      "level": "ပုံသေတွဲစကား · အဆင့်မြင့်",
+      "cn": "ခိုင်မာသောထောက်ခံမှု၊ ရှင်းလင်းသောကျောထောက်နောက်ခံ",
+      "en": "a strong and enthusiastic statement of support",
+      "excerpt": "these are not ringing endorsements.",
+      "example_cn": "ဤအရာများသည် ခိုင်မာသောထောက်ခံမှုမဟုတ်ပါ။",
+      "audio_url": "output/audio/vocab/2026-06-10/ringing-endorsement-f5553c3b.mp3"
+    },
+    {
+      "word": "against her will",
+      "phonetic": "/əˈɡenst hɜːr wɪl/",
+      "pos": "phrase",
+      "usage": "နေ့စဉ်သုံးအသုံးအနှုန်း",
+      "difficulty": "အခြေခံ",
+      "domain": "အထွေထွေ",
+      "level": "နေ့စဉ်သုံးအသုံးအနှုန်း · အခြေခံ",
+      "cn": "သူမ၏ဆန္ဒကိုဆန့်ကျင်ခြင်း",
+      "en": "without her consent or desire",
+      "excerpt": "who said she voted for Susan Collins, against her will.",
+      "example_cn": "သူမသည် မိမိဆန္ဒနှင့်ဆန့်ကျင်ကာ ဆူဇန်ကော်လင်ကို မဲပေးခဲ့သည်ဟု ပြောသည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/against-her-will-73b87a00.mp3"
+    },
+    {
+      "word": "character quality",
+      "phonetic": "/ˈkærɪktər ˈkwɒləti/",
+      "pos": "noun phrase",
+      "usage": "နေ့စဉ်သုံးအသုံးအနှုန်း",
+      "difficulty": "အခြေခံ",
+      "domain": "အထွေထွေ",
+      "level": "နေ့စဉ်သုံးအသုံးအနှုန်း · အခြေခံ",
+      "cn": "စရိုက်လက္ခဏာ အရည်အသွေး",
+      "en": "the moral and ethical qualities of a person",
+      "excerpt": "It's really about the character quality.",
+      "example_cn": "ဤသည်မှာ စရိုက်လက္ခဏာ အရည်အသွေးနှင့် ပတ်သက်သည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/character-quality-599836d4.mp3"
+    },
+    {
+      "word": "tight bond",
+      "phonetic": "/taɪt bɒnd/",
+      "pos": "noun phrase",
+      "usage": "နေ့စဉ်သုံးအသုံးအနှုန်း",
+      "difficulty": "အခြေခံ",
+      "domain": "အထွေထွေ",
+      "level": "နေ့စဉ်သုံးအသုံးအနှုန်း · အခြေခံ",
+      "cn": "နီးကပ်သော ဆက်သွယ်မှု",
+      "en": "a close and strong relationship",
+      "excerpt": "Collins and Trump, that's not a tight bond.",
+      "example_cn": "ကော်လင်းနှင့် ထရမ့်တို့သည် နီးကပ်သော ဆက်သွယ်မှုမရှိပါ။",
+      "audio_url": "output/audio/vocab/2026-06-10/tight-bond-e3789afb.mp3"
+    },
+    {
+      "word": "trigger",
+      "phonetic": "/ˈtrɪɡər/",
+      "pos": "noun",
+      "usage": "သတင်းတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "သတင်းတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "အစပျိုးယန္တရား၊ အကြောင်းရင်း",
+      "en": "a mechanism that initiates a process or event",
+      "excerpt": "The 60 days is a trigger.",
+      "example_cn": "ရက်ပေါင်း ၆၀ သည် အစပျိုးမှတ်တစ်ခုဖြစ်သည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/trigger-63d62d4a.mp3"
+    },
+    {
+      "word": "congressional approval",
+      "phonetic": "/kənˈɡreʃənəl əˈpruːvəl/",
+      "pos": "noun phrase",
+      "usage": "အထူးဝေါဟာရ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "အထူးဝေါဟာရ · အဆင့်မြင့်",
+      "cn": "ကွန်ဂရက်လွှတ်တော်၏ အတည်ပြုချက်",
+      "en": "formal consent or authorization by the U.S. Congress",
+      "excerpt": "the president has to obtain congressional approval.",
+      "example_cn": "သမ္မတသည် ကွန်ဂရက်လွှတ်တော်၏ အတည်ပြုချက်ကို ရယူရမည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/congressional-approval-6a97bf82.mp3"
+    },
+    {
+      "word": "convicted",
+      "phonetic": "/kənˈvɪktɪd/",
+      "pos": "adjective",
+      "usage": "သတင်းတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "ဥပဒေနှင့် တရားစီရင်ရေး",
+      "level": "သတင်းတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "ပြစ်ဒဏ်ချမှတ်ခံရပြီးသား",
+      "en": "found guilty of a crime by a court of law",
+      "excerpt": "individuals who were convicted of violence against police officers.",
+      "example_cn": "ရဲကို အကြမ်းဖက်တိုက်ခိုက်မှုဖြင့် ပြစ်ဒဏ်ချမှတ်ခံရသူ။",
+      "audio_url": "output/audio/vocab/2026-06-10/convicted-e9ca1a81.mp3"
+    },
+    {
+      "word": "reimbursement",
+      "phonetic": "/ˌriːɪmˈbɜːrsmənt/",
+      "pos": "noun",
+      "usage": "သတင်းများတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "စီးပွားရေးနှင့်ဘဏ္ဍာရေး",
+      "level": "သတင်းများတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "ပြန်အမ်းပေးခြင်း၊ ပြန်လည်ပေးဆပ်ခြင်း",
+      "en": "the act of paying back money spent or lost",
+      "excerpt": "should be entitled to reimbursement for their legal fees.",
+      "example_cn": "၎င်းတို့၏ ဥပဒေကြေးများကို ပြန်အမ်းပေးခွင့်ရှိသင့်သည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/reimbursement-19b7d3af.mp3"
+    },
+    {
+      "word": "legal fees",
+      "phonetic": "/ˈliːɡəl fiːz/",
+      "pos": "noun phrase",
+      "usage": "ကျွမ်းကျင်ဝေါဟာရ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "ဥပဒေနှင့်တရားစီရင်ရေး",
+      "level": "ကျွမ်းကျင်ဝေါဟာရ · အဆင့်မြင့်",
+      "cn": "ရှေ့နေကြေး၊ ဥပဒေကြေး",
+      "en": "charges for legal services provided by a lawyer or law firm",
+      "excerpt": "reimbursement for their legal fees.",
+      "example_cn": "၎င်းတို့၏ ဥပဒေကြေးများကို ပြန်အမ်းပေးခြင်း။",
+      "audio_url": "output/audio/vocab/2026-06-10/legal-fees-152dae91.mp3"
+    },
+    {
+      "word": "cuts",
+      "phonetic": "/kʌts/",
+      "pos": "noun",
+      "usage": "သတင်းတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "စီးပွားရေးနှင့်ဘဏ္ဍာရေး",
+      "level": "သတင်းတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "လျှော့ချခြင်း (များသောအားဖြင့် ဘတ်ဂျက် သို့မဟုတ် အသုံးစရိတ်)",
+      "en": "reductions in spending, especially in government budgets",
+      "excerpt": "Concerned about the cuts in Medicaid.",
+      "example_cn": "ဆေးကုသရေးအကူအညီ လျှော့ချမှုကို စိုးရိမ်နေသည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/cuts-f3881b3a.mp3"
+    },
+    {
+      "word": "Medicaid",
+      "phonetic": "/ˈmedɪkeɪd/",
+      "pos": "noun",
+      "usage": "အထူးအမည်နောက်ခံ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "လူမှုရေးနှင့်ပြည်သူ့ဘဝ",
+      "level": "အထူးအမည်နောက်ခံ · အဆင့်မြင့်",
+      "cn": "ဆေးကုသရေးအကူအညီ (အမေရိကန်ပြည်ထောင်စု၏ ဖက်ဒရယ်နှင့်ပြည်နယ်အစိုးရများက ဝင်ငွေနည်းသူများအတွက် ပေးအပ်သော ကျန်းမာရေးအာမခံ)",
+      "en": "a U.S. government program that provides health insurance to low-income individuals and families",
+      "excerpt": "Concerned about the cuts in Medicaid.",
+      "example_cn": "ဆေးကုသရေးအကူအညီ လျှော့ချမှုကို စိုးရိမ်နေသည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/medicaid-1fb98d5e.mp3"
+    },
+    {
+      "word": "enforcement surge",
+      "phonetic": "/ɪnˈfɔːrsmənt sɜːrdʒ/",
+      "pos": "noun phrase",
+      "usage": "သတင်းတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "သတင်းတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "တရားဥပဒေစိုးမိုးရေး မြှင့်တင်ခြင်း၊ တရားဥပဒေစိုးမိုးရေး လုပ်ဆောင်ချက်များ တိုးမြှင့်ခြင်း",
+      "en": "a sudden increase in law enforcement activities, often targeting specific issues",
+      "excerpt": "a pause on the enforcement surge in both Maine and in Minne...",
+      "example_cn": "မိန်းနှင့် မင်နီဆိုးတားပြည်နယ်များတွင် တရားဥပဒေစိုးမိုးရေး မြှင့်တင်မှုကို ရပ်ဆိုင်းထားသည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/enforcement-surge-79ceb588.mp3"
+    },
+    {
+      "word": "missile",
+      "phonetic": "/ˈmɪsaɪl/",
+      "pos": "noun",
+      "usage": "သတင်းများတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "စစ်ရေးနှင့် လုံခြုံရေး",
+      "level": "သတင်းများတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "ဒုံးကျည်",
+      "en": "a weapon that is thrown or fired through the air, especially one that is guided",
+      "excerpt": "Missiles light up the sky in the Middle East again.",
+      "example_cn": "ဒုံးကျည်များသည် အရှေ့အလယ်ပိုင်းကောင်းကင်ကို ထပ်မံထွန်းလင်းစေသည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/missile-520b856d.mp3"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "noun",
+      "usage": "သတင်းများတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "စစ်ရေးနှင့် လုံခြုံရေး",
+      "level": "သတင်းများတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "အပစ်အခတ်ရပ်စဲရေး၊ စစ်ပြေငြိမ်းရေး",
+      "en": "a temporary agreement to stop fighting",
+      "excerpt": "Will the strained ceasefire last long enough?",
+      "example_cn": "ပြင်းထန်သော အပစ်အခတ်ရပ်စဲရေးသည် အချိန်အကြာကြီး ဆက်လက်တည်ရှိနိုင်ပါသလား။",
+      "audio_url": "output/audio/vocab/2026-06-10/ceasefire-dcd3a293.mp3"
+    },
+    {
+      "word": "Epstein files",
+      "phonetic": "/ˈepstaɪn faɪlz/",
+      "pos": "noun phrase",
+      "usage": "အထူးနာမည် နောက်ခံ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "ဥပဒေနှင့် တရားစီရင်ရေး",
+      "level": "အထူးနာမည် နောက်ခံ · အဆင့်မြင့်",
+      "cn": "Epstein ဖိုင်များ (ကွယ်လွန်သွားသော လိင်ပိုင်းဆိုင်ရာ ရာဇဝတ်သား Jeffrey Epstein နှင့် ဆက်စပ်သော အမှုတွဲဖိုင်များ)",
+      "en": "documents related to the case of Jeffrey Epstein, a convicted sex offender",
+      "excerpt": "a big day for the Epstein files.",
+      "example_cn": "Epstein ဖိုင်များ၏ အရေးကြီးသောနေ့ရက်။",
+      "audio_url": "output/audio/vocab/2026-06-10/epstein-files-259af8d3.mp3"
+    },
+    {
+      "word": "sex offender",
+      "phonetic": "/seks əˈfendər/",
+      "pos": "noun phrase",
+      "usage": "သတင်းတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "ဥပဒေနှင့် တရားစီရင်ရေး",
+      "level": "သတင်းတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "လိင်ပိုင်းဆိုင်ရာ ရာဇဝတ်သား",
+      "en": "a person who has been convicted of a sexual crime",
+      "excerpt": "the late convicted sex offender.",
+      "example_cn": "ကွယ်လွန်သွားသော ပြစ်ဒဏ်ကျခံထားရသည့် လိင်ပိုင်းဆိုင်ရာ ရာဇဝတ်သား။",
+      "audio_url": "output/audio/vocab/2026-06-10/sex-offender-23f9e204.mp3"
+    },
+    {
+      "word": "gubernatorial",
+      "phonetic": "/ˌɡuːbərnəˈtɔːriəl/",
+      "pos": "adjective",
+      "usage": "ကျွမ်းကျင်သော ဝေါဟာရ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေးနှင့် သံတမန်ရေး",
+      "level": "ကျွမ်းကျင်သော ဝေါဟာရ · အဆင့်မြင့်",
+      "cn": "ပြည်နယ်အုပ်ချုပ်ရေးမှူးနှင့် ဆိုင်သော၊ ပြည်နယ်အုပ်ချုပ်ရေးမှူး ရွေးကောက်ပွဲနှင့် ဆက်စပ်သော",
+      "en": "relating to a governor or the election of a governor",
+      "excerpt": "Colorado gubernatorial candidate.",
+      "example_cn": "ကော်လိုရာဒိုပြည်နယ် အုပ်ချုပ်ရေးမှူး ကိုယ်စားလှယ်လောင်း။",
+      "audio_url": "output/audio/vocab/2026-06-10/gubernatorial-c095ac10.mp3"
+    },
+    {
+      "word": "IPO",
+      "phonetic": "/ˌaɪ piː ˈoʊ/",
+      "pos": "noun",
+      "usage": "အထူးပြုဝေါဟာရ",
+      "difficulty": "အလယ်အလတ်",
+      "domain": "စီးပွားရေးနှင့် ဘဏ္ဍာရေး",
+      "level": "အထူးပြုဝေါဟာရ · အလယ်အလတ်",
+      "cn": "ကနဦးအများပြည်သူသို့ ရှယ်ယာရောင်းချခြင်း (IPO)",
+      "en": "Initial Public Offering; the first sale of a company's shares to the public",
+      "excerpt": "OpenAI and Anthropic plan to have IPOs.",
+      "example_cn": "OpenAI နှင့် Anthropic တို့သည် ကနဦးအများပြည်သူသို့ ရှယ်ယာရောင်းချရန် စီစဉ်နေသည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/ipo-731aad18.mp3"
+    },
+    {
+      "word": "bubble about to pop",
+      "phonetic": "/ˈbʌbəl əˈbaʊt tə pɒp/",
+      "pos": "phrase",
+      "usage": "ပုံသေတွဲစကား",
+      "difficulty": "အလယ်အလတ်",
+      "domain": "စီးပွားရေးနှင့် ဘဏ္ဍာရေး",
+      "level": "ပုံသေတွဲစကား · အလယ်အလတ်",
+      "cn": "ပူဖောင်းပေါက်တော့မည်",
+      "en": "a situation where an economic bubble is about to burst",
+      "excerpt": "the A.I. bubble is about to pop.",
+      "example_cn": "AI ပူဖောင်းပေါက်တော့မည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/bubble-about-to-pop-bbfd405f.mp3"
+    },
+    {
+      "word": "signal",
+      "phonetic": "/ˈsɪɡnəl/",
+      "pos": "verb",
+      "usage": "သတင်းတွင်သုံးလေ့ရှိ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "အထွေထွေ",
+      "level": "သတင်းတွင်သုံးလေ့ရှိ · အဆင့်မြင့်",
+      "cn": "ဖော်ပြသည်; အချက်ပြသည်",
+      "en": "to indicate or show something, often indirectly",
+      "excerpt": "signaling to me that the A.I. bubble is about to pop.",
+      "example_cn": "AI ပူဖောင်းပေါက်တော့မည်ကို ကျွန်ုပ်အား ဖော်ပြသည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/signal-36ab4aaa.mp3"
+    },
+    {
+      "word": "helicopter downed",
+      "phonetic": "/ˈhelɪkɒptər daʊnd/",
+      "pos": "phrase",
+      "usage": "သတင်းတွင်သုံးလေ့ရှိ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "စစ်ရေးလုံခြုံရေး",
+      "level": "သတင်းတွင်သုံးလေ့ရှိ · အဆင့်မြင့်",
+      "cn": "ရဟတ်ယာဉ်ပစ်ချခံရ",
+      "en": "a helicopter that has been shot down or forced to crash",
+      "excerpt": "U.S. Hits Iran after Helicopter Downed.",
+      "example_cn": "ရဟတ်ယာဉ်ပစ်ချခံရပြီးနောက် အမေရိကန်က အီရန်ကို တိုက်ခိုက်သည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/helicopter-downed-1a00c3bb.mp3"
+    },
+    {
+      "word": "hits",
+      "phonetic": "/hɪts/",
+      "pos": "verb",
+      "usage": "သတင်းတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "စစ်ရေး လုံခြုံရေး",
+      "level": "သတင်းတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "တိုက်ခိုက်ခြင်း၊ ထိုးစစ်ဆင်ခြင်း",
+      "en": "to attack or strike, especially militarily",
+      "excerpt": "U.S. Hits Iran after Helicopter Downed.",
+      "example_cn": "ရဟတ်ယာဉ်ပစ်ချခံရပြီးနောက် အမေရိကန်က အီရန်ကို တိုက်ခိုက်သည်။",
+      "audio_url": "output/audio/vocab/2026-06-10/hits-c748c763.mp3"
+    },
+    {
+      "word": "lawmaker",
+      "phonetic": "/ˈlɔːmeɪkər/",
+      "pos": "noun",
+      "usage": "သတင်းတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "နိုင်ငံရေး သံတမန်ရေး",
+      "level": "သတင်းတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "ဥပဒေပြုသူ၊ လွှတ်တော်ကိုယ်စားလှယ်",
+      "en": "a person who makes laws; a member of a legislature",
+      "excerpt": "What will Bill Gates tell lawmakers about his links?",
+      "example_cn": "ဘီလ်ဂိတ်က ဥပဒေပြုသူများအား Epstein နှင့် သူ၏ဆက်သွယ်မှုအကြောင်း ဘာပြောမည်နည်း။",
+      "audio_url": "output/audio/vocab/2026-06-10/lawmaker-aafee119.mp3"
+    },
+    {
+      "word": "links",
+      "phonetic": "/lɪŋks/",
+      "pos": "noun",
+      "usage": "သတင်းတွင် အသုံးများ",
+      "difficulty": "အဆင့်မြင့်",
+      "domain": "အထွေထွေ",
+      "level": "သတင်းတွင် အသုံးများ · အဆင့်မြင့်",
+      "cn": "ဆက်သွယ်မှု; ဆက်စပ်မှု",
+      "en": "connections or relationships between people or things",
+      "excerpt": "his links to the late convicted sex offender.",
+      "example_cn": "ကွယ်လွန်သူ ပြစ်မှုထင်ရှား လိင်ပိုင်းဆိုင်ရာ ရာဇဝတ်သားနှင့် သူ၏ ဆက်သွယ်မှု။",
+      "audio_url": "output/audio/vocab/2026-06-10/links-379e75c8.mp3"
+    },
+    {
+      "word": "kill someone as a child",
+      "phonetic": "/kɪl ˈsʌmwʌn æz ə tʃaɪld/",
+      "pos": "phrase",
+      "usage": "နေ့စဉ်သုံး အသုံးအနှုန်း",
+      "difficulty": "အခြေခံ",
+      "domain": "လူမှုရေး ပြည်သူ့ဘဝ",
+      "level": "နေ့စဉ်သုံး အသုံးအနှုန်း · အခြေခံ",
+      "cn": "ငယ်စဉ်က လူသတ်ခဲ့ဖူးခြင်း",
+      "en": "to have committed murder when one was a child",
+      "excerpt": "a candidate who also claims he killed someone as a child.",
+      "example_cn": "ငယ်စဉ်က လူသတ်ခဲ့ဖူးသည်ဟု ဆိုသော ကိုယ်စားလှယ်လောင်းတစ်ဦး။",
+      "audio_url": "output/audio/vocab/2026-06-10/kill-someone-as-a-child-20b2a2de.mp3"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Democrats in Maine vote to stick with Graham Platner.",
+      "cn": "မိန်းပြည်နယ်မှ ဒီမိုကရက်များသည် Graham Platner ကို ဆက်လက်ထောက်ခံရန် မဲပေးခဲ့ကြသည်။",
+      "structure": "ရိုးရှင်းသောဝါကျ: ကတ္တား (Democrats in Maine) + ကြိယာ (vote) + ရည်ရွယ်ချက်ပြသည့် ကြိယာဝိသေသန (to stick with Graham Platner) က ကံအဖြစ်။",
+      "analysis": "stick with ဆိုသည်မှာ \"ဆက်လက်ထောက်ခံသည်\" ဟု အဓိပ္ပာယ်ရပြီး သတင်းများတွင် သုံးလေ့ရှိသော စကားစုဖြစ်သည်။"
+    },
+    {
+      "en": "Could that cost the party a shot at flipping the Senate this fall?",
+      "cn": "၎င်းသည် ပါတီအား ယခုနှစ်ဆောင်းဦးတွင် အထက်လွှတ်တော်ကို လွှဲပြောင်းရယူခွင့် ဆုံးရှုံးစေနိုင်ပါသလား။",
+      "structure": "မေးခွန်း၀ါကျ：ကြိယာဝိသေသန（Could）+ ကတ္တား（that）+ ကြိယာ（cost）+ သွယ်ဝိုက်ကံ（the party）+ တိုက်ရိုက်ကံ（a shot at flipping the Senate this fall）。",
+      "analysis": "cost sb. a shot at sth. ဆိုသည်မှာ \"တစ်စုံတစ်ဦးကို တစ်စုံတစ်ခုလုပ်ရန် အခွင့်အရေးဆုံးရှုံးစေသည်\" ဟု အဓိပ္ပာယ်ရသည်။ flip the Senate ဆိုသည်မှာ \"ဆီးနိတ်လွှတ်တော် (ထိန်းချုပ်မှု) ကို လွှဲပြောင်းခြင်း\" ဖြစ်ပြီး နိုင်ငံရေးသတင်းများတွင် အသုံးများသော အသုံးအနှုန်းဖြစ်သည်။"
+    },
+    {
+      "en": "If the choice on the ballot is between that and a senator who's voted to take health care away from millions of Americans, that's the situation that we have to weigh.",
+      "cn": "မဲစာရင်းပေါ်ရှိ ရွေးချယ်မှုသည် ထိုအရာ (Plattner ၏ အငြင်းပွားဖွယ်ရာ အပြုအမူ) နှင့် အမေရိကန်သန်းပေါင်းများစွာ၏ ကျန်းမာရေးအာမခံကို ဆုံးရှုံးစေမည့် အထက်လွှတ်တော်အမတ်တစ်ဦးကြားတွင် ဖြစ်ပါက၊ ထိုအခြေအနေသည် ကျွန်ုပ်တို့ ချိန်ဆရမည့် အခြေအနေဖြစ်သည်။",
+      "structure": "အခြေအနေပြဝါကျ（If...）+ ပင်မဝါကျ（that's the situation）+ နောက်ဆက်တွဲဝါကျ（that we have to weigh）。",
+      "analysis": "weigh ဆိုသည်မှာ \"ချိန်ဆသည်\" ဟု အဓိပ္ပာယ်ရပြီး စိတ္တကြိယာဖြစ်သည်။ take health care away from သည် သတင်းများတွင် တွေ့ရလေ့ရှိသော အပျက်သဘောဆောင်သည့် မူဝါဒဖော်ပြချက်ဖြစ်သည်။"
+    },
+    {
+      "en": "Will the strained ceasefire last long enough for the U.S. to deliver that long-promised deal with Iran?",
+      "cn": "တင်းမာနေသော အပစ်အခတ်ရပ်စဲရေးသဘောတူညီချက်သည် အမေရိကန်အား အီရန်နှင့် ကာလရှည်ကြာ ကတိပြုထားသော သဘောတူညီချက်ကို အကောင်အထည်ဖော်ရန် လုံလောက်သော အချိန်ကြာရှည်နိုင်ပါသလား။",
+      "structure": "အထွေထွေမေးခွန်း：Will + ကတ္တား（the strained ceasefire）+ ကြိယာ（last）+ ကြိယာဝိသေသန（long enough）+ ကြိယာပစ္စည်း（for the U.S. to deliver...）。",
+      "analysis": "strained ceasefire ဆိုသည်မှာ \"တင်းမာသော အပစ်အခတ်ရပ်စဲရေး\" ဖြစ်သည်။ long-promised သည် ပေါင်းစပ်နာမဝိသေသနဖြစ်ပြီး \"ကာလရှည်ကြာ ကတိပြုထားသော\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "What will Bill Gates tell lawmakers about his links to the late convicted sex offender.",
+      "cn": "Bill Gates သည် ကွယ်လွန်သွားသော ပြစ်မှုထင်ရှားစီရင်ခြင်းခံရသည့် လိင်ပိုင်းဆိုင်ရာ ရာဇဝတ်သားတစ်ဦးနှင့် သူ၏ဆက်စပ်မှုများအကြောင်း ဥပဒေပြုအမတ်များအား မည်သို့ပြောပြမည်နည်း။",
+      "structure": "အထူးမေးခွန်း：What + အကူကြိယာ（will）+ ကတ္တား（Bill Gates）+ ကြိယာ（tell）+ သွယ်ဝိုက်ကံ（lawmakers）+ ဝိဘတ်စကားစု（about his links...）。",
+      "analysis": "the late convicted sex offender ဆိုသည်မှာ \"ကွယ်လွန်သွားသော ပြစ်မှုထင်ရှားစီရင်ခြင်းခံရသည့် လိင်ပိုင်းဆိုင်ရာ ရာဇဝတ်သား\" ဖြစ်သည်။ late သည် \"ကွယ်လွန်သွားသော\" ဟု အဓိပ္ပာယ်ရပြီး convicted သည် အတိတ်ကာလကြိယာဝိသေသနဖြစ်ကာ နာမ်ကို ရှေ့မှပြင်ဆင်သည်။"
+    },
+    {
+      "en": "Do you think that you've killed people as an adult?",
+      "cn": "သင်သည် အရွယ်ရောက်ပြီးနောက် လူသတ်ဖူးသည်ဟု သင်ထင်ပါသလား။",
+      "structure": "အထွေထွေမေးခွန်း (Do you think) + ဝိဘတ်ဝါကျ (that you've killed people as an adult)။",
+      "analysis": "as an adult ဆိုသည်မှာ \"လူကြီးတစ်ယောက်အနေနှင့်\" ဟု အဓိပ္ပာယ်ရပြီး နောက်ပိုင်း \"as a child\" နှင့် ဆန့်ကျင်ဘက်ဖြစ်သည်။"
+    },
+    {
+      "en": "OpenAI and Anthropic plan to have IPOs at release before the end of this year, signaling to me that the A.I. bubble is about to pop.",
+      "cn": "OpenAI နှင့် Anthropic တို့သည် ယခုနှစ်ကုန်တွင် ပထမဆုံးအများပြည်သူသို့ရှယ်ယာရောင်းချရန် စီစဉ်နေပြီး၊ ၎င်းသည် AI ပူဖောင်းပေါက်တော့မည်ဟု ကျွန်ုပ်အား အချက်ပြနေသည်။",
+      "structure": "ပင်မဝါကျ (OpenAI and Anthropic plan to have IPOs...) + ပစ္စုပ္ပန်ကြိယာဝိသေသန (signaling to me that...) ကို အကျိုးဆက်ပြရန် သုံးထားပြီး ၎င်းတွင် ဝိဘတ်ဝါကျ (that the A.I. bubble is about to pop) ပါဝင်သည်။",
+      "analysis": "IPO သည် Initial Public Offering ၏ အတိုကောက်ဖြစ်သည်။ signal to sb. that... ဆိုသည်မှာ \"တစ်စုံတစ်ဦးအား ... ကို အချက်ပြသည်\" ဟု အဓိပ္ပာယ်ရသည်။ be about to pop ဆိုသည်မှာ \"ပေါက်တော့မည်\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "To any of those who feel let down or disappointed or disillusioned, it is my job to earn your trust, faith, and support.",
+      "cn": "စိတ်ပျက်၊ စိတ်ဓာတ်ကျ သို့မဟုတ် အိပ်မက်ပျက်နေသူများအတွက်၊ ကျွန်ုပ်၏အလုပ်မှာ သင်တို့၏ ယုံကြည်မှု၊ သစ္စာစောင့်သိမှုနှင့် ထောက်ခံမှုကို ရရှိရန်ဖြစ်သည်။",
+      "structure": "ဝိဘတ်စကားစု (To any of those...) ကို ဝိဘတ်ပြုရန် သုံးထားပြီး ၎င်းတွင် နာမ်ဝိသေသနဝါကျ (who feel let down or disappointed or disillusioned) ပါဝင်သည်။ ပင်မဝါကျ (it is my job to earn...)။",
+      "analysis": "let down ဆိုသည်မှာ \"စိတ်ပျက်သည်\" ဟု အဓိပ္ပာယ်ရသည်။ disillusioned ဆိုသည်မှာ \"အိပ်မက်ပျက်သည်\" ဟု အဓိပ္ပာယ်ရသည်။ it is my job to do sth. သည် အလေးပေးဖွဲ့စည်းပုံ၏ အသုံးများသော အသုံးအနှုန်းဖြစ်သည်။"
+    },
+    {
+      "en": "And I will spend every day of this campaign.",
+      "cn": "ဤရွေးကောက်ပွဲ၏ နေ့ရက်တိုင်းကို ကျွန်ုပ် သုံးစွဲမည်။",
+      "structure": "ရိုးရှင်းသောဝါကျ- ကတ္တား (I) + ကြိယာ (will spend) + ကံ (every day of this campaign)။",
+      "analysis": "spend နောက်တွင် အချိန်နာမ်ကို လက်ခံပြီး \"အချိန်ကုန်ဆုံးသည်\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "And if I have the privilege every day in the United States Senate doing exactly that.",
+      "cn": "ကျွန်ုပ်သည် အမေရိကန် အထက်လွှတ်တော်တွင် နေ့စဉ် အလားတူလုပ်ရန် ကံကောင်းပါက။",
+      "structure": "အခြေအနေအပိုဒ်ခွဲ (if I have the privilege...) တွင် ယခုပစ္စုပ္ပန်ကြိယာဝိသေသနပုဒ် (doing exactly that) ပါဝင်ပြီး အတူလိုက်ပါသော အခြေအနေကို ဖော်ပြသည်။",
+      "analysis": "have the privilege doing sth. ဆိုသည်မှာ \"တစ်စုံတစ်ခုကို လုပ်ခွင့်ရခြင်း\" ဟု အဓိပ္ပာယ်ရသည်။ the United States Senate သည် သင့်လျော်သော နာမ်စားဖြစ်သည်။"
+    },
+    {
+      "en": "Graham Platner punches his ticket.",
+      "cn": "ဂရေဟမ် ပလက်တ်နာ သည် အမည်စာရင်းတင်သွင်းခြင်းကို ရရှိခဲ့သည်။",
+      "structure": "ရိုးရှင်းသောဝါကျ: ကတ္တား (Graham Platner) + ကြိယာ (punches) + ကံ (his ticket)။",
+      "analysis": "punch one's ticket သည် အသုံးအနှုန်းဖြစ်ပြီး \"(နိုင်ငံရေး) အမည်စာရင်းတင်သွင်းခြင်း သို့မဟုတ် အရည်အချင်းကို ရရှိခြင်း\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "But now he's got to convince voters to choose him over a five-term senator.",
+      "cn": "သို့သော် ယခုသူသည် မဲဆန္ဒရှင်များကို ငါးကြိမ်ဆက်တိုက် အရွေးခံရသော အထက်လွှတ်တော်အမတ်ထက် သူ့ကို ရွေးချယ်ရန် စည်းရုံးရမည်ဖြစ်သည်။",
+      "structure": "ရိုးရှင်းသောဝါကျ: ကတ္တား (he) + ကြိယာ ('s got to convince) + ကံ (voters) + ကြိယာဝိသေသနပုဒ် (to choose him over...)။",
+      "analysis": "convince sb. to do sth. ဆိုသည်မှာ \"တစ်စုံတစ်ဦးကို တစ်စုံတစ်ခုလုပ်ရန် စည်းရုံးခြင်း\" ဟု အဓိပ္ပာယ်ရသည်။ choose A over B ဆိုသည်မှာ \"B ထက် A ကို ရွေးချယ်ခြင်း\" ဟု အဓိပ္ပာယ်ရသည်။ five-term သည် ပေါင်းစပ်နာမဝိသေသနဖြစ်ပြီး \"ငါးကြိမ်ဆက်တိုက်\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "Democrat Graham Platner, despite all the scandals, earned about three-fourths of primary voters' support over Governor Janet Mills.",
+      "cn": "ဒီမိုကရက်တစ်ပါတီဝင် ဂရေဟမ် ပလက်တ်နာသည် အရှုပ်တော်ပုံများအားလုံးရှိသော်လည်း ပဏာမရွေးကောက်ပွဲမဲဆန္ဒရှင်များ၏ လေးပုံသုံးပုံခန့်၏ ထောက်ခံမှုကို ရရှိခဲ့ပြီး အုပ်ချုပ်ရေးမှူး ဂျနက် မီးလ်ထက် ပိုမိုရရှိခဲ့သည်။",
+      "structure": "ကတ္တား (Democrat Graham Platner) + ထည့်သွင်းစကား (despite all the scandals) + ကြိယာ (earned) + ကံ (about three-fourths of primary voters' support) + ကြိယာဝိသေသန (over Governor Janet Mills)။",
+      "analysis": "despite သည် လက်ခံခြင်းကို ဖော်ပြသည်။ three-fourths သည် အပိုင်းကိန်းဖော်ပြချက်ဖြစ်သည်။ over သည် ဤနေရာတွင် \"ထက်ပိုသော\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "Moments after clinching the nomination, he turned his attention to his new opponent, Republican Senator Susan Collins.",
+      "cn": "အမည်စာရင်းတင်သွင်းခြင်းကို ရရှိပြီးနောက် မကြာမီတွင် သူသည် မိမိ၏ပြိုင်ဘက်အသစ် ရီပါဘလစ်ကန် အထက်လွှတ်တော်အမတ် ဆူဇန် ကော်လင်ထံသို့ အာရုံစိုက်လာခဲ့သည်။",
+      "structure": "အချိန်ပြစကားစု（Moments after clinching the nomination）+ ပင်မဝါကျ（he turned his attention to...），ထိုတွင် ကံ（his new opponent）နောက်တွင် ရှင်းလင်းချက်စကားစု（Republican Senator Susan Collins）လိုက်သည်။",
+      "analysis": "clinch the nomination ဆိုသည်မှာ \"အမည်စာရင်းတင်သွင်းခြင်းကို ရရှိသည်\" ဟု အဓိပ္ပာယ်ရသည်။ turn one's attention to ဆိုသည်မှာ \"အာရုံစိုက်မှုကို လှည့်သည်\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "Susan Collins may have started her career decades ago in Washington with good intentions, but she has become just as spineless and corrupt as the establishment she now serves.",
+      "cn": "Susan Collins သည် လွန်ခဲ့သော ဆယ်စုနှစ်များက Washington တွင် ရည်ရွယ်ချက်ကောင်းများဖြင့် သူမ၏ အသက်မွေးဝမ်းကျောင်းကို စတင်ခဲ့သော်လည်း၊ သူမသည် ယခု သူမဝန်ဆောင်မှုပေးနေသော တည်ထောင်မှုစနစ်ကဲ့သို့ပင် အားနည်းပြီး အကျင့်ပျက်လာခဲ့သည်။",
+      "structure": "ညီမျှဝါကျ：ပထမဝါကျပိုင်း（Susan Collins may have started...）+ but ဖြင့် ဆက်ထားသော ဒုတိယဝါကျပိုင်း（she has become...），ထိုတွင် နှိုင်းယှဉ်တည်ဆောက်မှု（as...as...）နှင့် နောက်ခံပြုဝါကျ（she now serves）ပါရှိသည်။",
+      "analysis": "may have started သည် အတိတ်ကို ခန့်မှန်းခြင်းကို ဖော်ပြသည်။ spineless ဆိုသည်မှာ \"ကျောရိုးမရှိသော\" ဟု အဓိပ္ပာယ်ရသည်။ the establishment ဆိုသည်မှာ \"တည်ထောင်မှုစနစ်\" ကို ရည်ညွှန်းသည်။"
+    },
+    {
+      "en": "If you are an independent voice, why do you vote with Donald Trump 95 percent of the time?",
+      "cn": "သင်သည် လွတ်လပ်သော အသံတစ်ခုဖြစ်ပါက၊ အဘယ်ကြောင့် သင်သည် 95% သောအချိန်တွင် Donald Trump နှင့် တူညီစွာ မဲပေးသနည်း။",
+      "structure": "အခြေအနေပြစကားစု（If you are...）+ ပင်မဝါကျ（why do you vote...）。",
+      "analysis": "independent voice ဆိုသည်မှာ \"လွတ်လပ်သော အသံ\" ဟု အဓိပ္ပာယ်ရသည်။ vote with sb. ဆိုသည်မှာ \"တစ်စုံတစ်ဦးနှင့် တူညီစွာ မဲပေးသည်\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "Platner has a lot of work to do to get Mills voters on his side.",
+      "cn": "Platner သည် Mills မဲဆန္ဒရှင်များ၏ ထောက်ခံမှုကို ရရှိရန် လုပ်ဆောင်ရမည့် အလုပ်များစွာရှိသည်။",
+      "structure": "ရိုးရှင်းဝါကျ：ကတ္တား（Platner）+ ကြိယာ（has）+ ကံ（a lot of work）+ ကြိယာပစ္စည်းစကားစု（to do to get...）သည် နောက်ခံပြုခြင်းနှင့် ရည်ရွယ်ချက်ပြခြင်းအဖြစ် ဆောင်ရွက်သည်။",
+      "analysis": "get sb. on one's side ဆိုသည်မှာ \"တစ်စုံတစ်ဦး၏ ထောက်ခံမှုကို ရယူသည်\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "I couldn't honestly support Platner, even though some of the things that he says are really good.",
+      "cn": "Platner ပြောသော အချို့သောစကားများသည် အမှန်တကယ်ကောင်းသော်လည်း၊ ကျွန်ုပ်သည် သူ့ကို ရိုးသားစွာ ထောက်ခံနိုင်ခြင်းမရှိပါ။",
+      "structure": "ပင်မဝါကျ (I couldn't honestly support Platner) + လိုက်လျောသောအခြေအနေပြဝါကျ (even though some of the things...)၊ ၎င်းတွင် သတ်မှတ်ပြဝါကျ (that he says) ပါဝင်သည်။",
+      "analysis": "honestly သည် ကြိယာဝိသေသနဖြစ်ပြီး support ကို ပြုပြင်သည်။ even though သည် လိုက်လျောသောအခြေအနေပြဝါကျကို ဦးဆောင်သည်။"
+    },
+    {
+      "en": "I don't think he's ready to be a senator.",
+      "cn": "သူဟာ အထက်လွှတ်တော်အမတ်ဖြစ်ဖို့ အဆင်သင့်မဖြစ်သေးဘူးလို့ ကျွန်တော်ထင်တယ်။",
+      "structure": "ပင်မဝါကျ (I don't think) + ကံပြုဝါကျ (he's ready to be a senator)။",
+      "analysis": "ငြင်းပယ်ခြင်းပြောင်းလဲခြင်း- ပင်မဝါကျတွင် ငြင်းပယ်ခြင်း၊ ကံပြုဝါကျတွင် အပြုသဘော။"
+    },
+    {
+      "en": "I'm leaning towards Collins unless the guy shows something else, but I just -- he's not there yet.",
+      "cn": "ကျွန်တော်က Collins ကို ဦးတည်နေတယ်၊ ဒါပေမဲ့ အဲဒီလူက တခြားအရာတစ်ခုခုကို ပြသမယ်ဆိုရင်တော့ မဟုတ်ဘူး၊ ဒါပေမဲ့ ကျွန်တော်က -- သူက အဲဒီအဆင့်ကို မရောက်သေးဘူး။",
+      "structure": "ညီမျှဝါကျ- ပထမအပိုင်း (I'm leaning towards Collins unless...) + but ဖြင့် ဆက်ထားသော ဒုတိယအပိုင်း (I just -- he's not there yet)။",
+      "analysis": "lean towards ဆိုသည်မှာ \"ဦးတည်သည်\" ဟု အဓိပ္ပာယ်ရသည်။ unless သည် အခြေအနေပြဝါကျကို ဦးဆောင်သည်။ he's not there yet သည် စကားပြောအသုံးအနှုန်းဖြစ်ပြီး \"သူသည် စံနှုန်းကို မပြည့်မီသေး\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "And so, what will you do in November if its Platner versus Collins?",
+      "cn": "ဒါဆို နိုဝင်ဘာလမှာ Platner နဲ့ Collins တို့ ယှဉ်ပြိုင်ရင် မင်းဘာလုပ်မလဲ။",
+      "structure": "အထူးမေးခွန်း (what will you do...) + အခြေအနေပြဝါကျ (if its Platner versus Collins)။",
+      "analysis": "its သည် it's ၏ စာလုံးပေါင်းမှားဖြစ်သည်။ versus ဆိုသည်မှာ \"ယှဉ်ပြိုင်သည်\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "I'm a Democrat, but I voted for Susan Collins several times, because I think that she does care about the state of Maine.",
+      "cn": "ကျွန်တော်က ဒီမိုကရက်တစ်ပါတီသားဖြစ်ပေမဲ့ Susan Collins ကို အကြိမ်ကြိမ်မဲပေးခဲ့တယ်၊ ဘာလို့လဲဆိုတော့ သူမက Maine ပြည်နယ်အတွက် တကယ်ဂရုစိုက်တယ်လို့ ကျွန်တော်ထင်လို့ပါ။",
+      "structure": "ပူးတွဲဝါကျ- ပထမအပိုဒ် (I'm a Democrat) + but ဖြင့် ဒုတိယအပိုဒ် (I voted for Susan Collins several times) ကို ဆက်ထားပြီး၊ နောက်တွင် အကြောင်းပြသောဝိဘတ်အပိုဒ် (because I think...) ပါရှိကာ ၎င်းတွင် ကံပုဒ်အပိုဒ် (that she does care...) ပါဝင်သည်။",
+      "analysis": "does သည် အလေးပေးဖော်ပြချက်ဖြစ်သည်။ care about ဆိုသည်မှာ \"ဂရုစိုက်သည်\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "But it's going to be a real problem for me in November.",
+      "cn": "သို့သော် ဤအချက်သည် နိုဝင်ဘာလတွင် ကျွန်တော့်အတွက် တကယ့်ပြဿနာတစ်ခု ဖြစ်လာလိမ့်မည်။",
+      "structure": "ရိုးရှင်းသောဝါကျ- ကတ္တား (it) + ကြိယာ ('s going to be) + နာမ်စိတ် (a real problem) + ဝိဘတ် (for me in November)။",
+      "analysis": "be going to သည် အနာဂတ်ကို ဖော်ပြသည်။ a real problem ဆိုသည်မှာ \"တကယ့်ပြဿနာ\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "And Max, I'm actually going to start with you, because you're with VoteVets, which means you guys had a dog in the fight in this race.",
+      "cn": "မက်စ်၊ ကျွန်တော် တကယ်တော့ မင်းနဲ့ စတင်မယ်၊ ဘာလို့လဲဆိုတော့ မင်း VoteVets မှာ ရှိနေတယ်၊ ဆိုလိုတာက မင်းတို့အားလုံး ဒီရွေးကောက်ပွဲမှာ အကျိုးစီးပွားရှိတယ်။",
+      "structure": "ပင်မဝါကျ (I'm actually going to start with you) + အကြောင်းပြသောဝိဘတ်အပိုဒ် (because you're with VoteVets)၊ နောက်တွင် ကန့်သတ်မထားသော နာမ်စားအပိုဒ် (which means...) ပါရှိကာ ၎င်းတွင် ကံပုဒ်အပိုဒ် (you guys had a dog in the fight) ပါဝင်သည်။",
+      "analysis": "have a dog in the fight သည် အသုံးအနှုန်းဖြစ်ပြီး \"အကျိုးစီးပွားရှိသည်\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "Democrats' chances of flipping the Maine Senate seat.",
+      "cn": "ဒီမိုကရက်များ၏ Maine ပြည်နယ် အထက်လွှတ်တော်နေရာကို လွှဲပြောင်းရယူရန် အခွင့်အလမ်းများ။",
+      "structure": "နာမ်စကားစု- ကတ္တား (Democrats' chances) + ဝိဘတ်စကားစု (of flipping the Maine Senate seat) က နာမ်ကို ဖော်ပြသည်။",
+      "analysis": "flip the seat ဆိုသည်မှာ \"နေရာကို လွှဲပြောင်းသည် (ပါတီထိန်းချုပ်မှု ပြောင်းလဲသည်)\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "Is this race as close as you all hoped it would be, now that Graham has struggled with these scandals?",
+      "cn": "Graham သည် ဤအရှုပ်တော်ပုံများကြောင့် ရုန်းကန်နေရသည်နှင့် ဤရွေးကောက်ပွဲသည် သင်တို့အားလုံး မျှော်လင့်ထားသလောက် နီးကပ်နေပါသလား။",
+      "structure": "အထွေထွေမေးခွန်း (Is this race as close as...) + နှိုင်းယှဉ်တည်ဆောက်ပုံ (as...as...) + ကံပုဒ်ဝါကျ (you all hoped it would be) + အကြောင်းပြချက်ဝိဘတ်တွဲ (now that...).",
+      "analysis": "as close as ဆိုသည်မှာ \"...နှင့် တူညီစွာ နီးကပ်သည်\" ဟု အဓိပ္ပာယ်ရသည်။ now that ဆိုသည်မှာ \"ကတည်းက\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "The race is always going to be close.",
+      "cn": "ဤရွေးကောက်ပွဲသည် အမြဲတမ်း နီးကပ်နေမည်ဖြစ်သည်။",
+      "structure": "ရိုးရှင်းသောဝါကျ- ကတ္တား (The race) + ကြိယာ (is always going to be) + နာမဝိသေသန (close).",
+      "analysis": "be going to သည် အနာဂတ်ကို ဖော်ပြသည်။ close သည် ဤနေရာတွင် \"အားပြိုင်မှုရှိသော\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "Not with a five-term senator, it's not.",
+      "cn": "ငါးကြိမ်အရွေးခံရသော အထက်လွှတ်တော်အမတ်တစ်ဦးနှင့် ရင်ဆိုင်ရခြင်းမဟုတ်ပါ။",
+      "structure": "ဝါကျအတိုကောက်- အပြည့်အစုံမှာ \"It is not close with a five-term senator.\" ဖြစ်သည်။",
+      "analysis": "five-term သည် ပေါင်းစပ်နာမဝိသေသနဖြစ်သည်။ it's not သည် အတိုကောက်အသုံးအနှုန်းဖြစ်သည်။"
+    },
+    {
+      "en": "What I would say about the Susan Collins race is that we've seen in the past, is you're not going to win this seat by electing a Susan Collins light or putting forward a Susan Collins light in a race.",
+      "cn": "Susan Collins ၏ ရွေးကောက်ပွဲနှင့်ပတ်သက်၍ ကျွန်ုပ်ပြောလိုသည်မှာ အတိတ်က ကျွန်ုပ်တို့တွေ့မြင်ခဲ့ရသည်မှာ \"Susan Collins light\" ကို ရွေးကောက်ခြင်း သို့မဟုတ် ရွေးကောက်ပွဲတွင် \"Susan Collins light\" ကို တင်သွင်းခြင်းဖြင့် ဤနေရာကို အနိုင်ရမည်မဟုတ်ပါ။",
+      "structure": "ကတ္တားဝါကျ (What I would say...) + ကြိယာ (is) + နာမ်ပုဒ်ဝါကျ (that we've seen...), ထိုနာမ်ပုဒ်ဝါကျတွင် အခြားနာမ်ပုဒ်ဝါကျ (is you're not going to win...) ပါဝင်သည်။",
+      "analysis": "Susan Collins light ဆိုသည်မှာ \"Susan Collins ၏ အားနည်းသောဗားရှင်း\" ဟု အဓိပ္ပာယ်ရသည်။ light သည် \"ပေါ့ပါးသော\" ဟု အဓိပ္ပာယ်ရသည်။ put forward ဆိုသည်မှာ \"တင်သွင်းသည်\" ဟု အဓိပ္ပာယ်ရသည်။"
+    },
+    {
+      "en": "You are going to beat her by energizing your base, particularly in a midterm election.",
+      "cn": "သင်၏ အခြေခံမဲဆန္ဒရှင်များကို လှုံ့ဆော်ခြင်းဖြင့် သူမကို အနိုင်ယူမည်ဖြစ်သည်၊ အထူးသဖြင့် ကြားဖြတ်ရွေးကောက်ပွဲများတွင် ဖြစ်သည်။",
+      "structure": "ရိုးရှင်းသောဝါကျ- ကတ္တား (You) + ကြိယာ (are going to beat) + ကံ (her) + နည်းလမ်းပြကြိယာဝိသေသန (by energizing your base) + ထည့်သွင်းစကား (particularly in a midterm election)။",
+      "analysis": "energize your base ဆိုသည်မှာ \"သင်၏အခြေခံအင်အားကို လှုံ့ဆော်ရန်\" ဖြစ်သည်။ midterm election ဆိုသည်မှာ \"ကြားဖြတ်ရွေးကောက်ပွဲ\" ကို ရည်ညွှန်းသည်။"
+    }
+  ],
+  "topics": [
+    {
+      "title": "မိန်းပြည်နယ် အထက်လွှတ်တော်အမတ် ရွေးကောက်ပွဲ- ပလက်တ်နာ vs. ကော်လင်စ်",
+      "content": "မိန်းပြည်နယ် ဒီမိုကရက်တစ်ပါတီ၏ ရွေးကောက်ပွဲအကြိုတွင်၊ အရှုပ်တော်ပုံများနှင့် ရင်ဆိုင်နေရသော ဂရေဟမ် ပလက်တ်နာ (Graham Platner) သည် အုပ်ချုပ်ရေးမှူး ဂျနက် မီးလ် (Janet Mills) ကို မဲအရေအတွက် ၇၅% ခန့်ဖြင့် အနိုင်ယူပြီး ငါးကြိမ်တိုင်တိုင် ရီပါဘလစ်ကန် အထက်လွှတ်တော်အမတ် ဆူဇန် ကော်လင်စ် (Susan Collins) ကို စိန်ခေါ်မည်ဖြစ်သည်။ ပလက်တ်နာသည် မီးလ်၏ ထောက်ခံသူများကို ဆွဲဆောင်ရန် လိုအပ်ပြီး ကော်လင်စ်သည် လွတ်လပ်သော မဲဆန္ဒရှင်များကြားတွင် အားသာချက်ရှိနေဆဲဖြစ်သည်။ ဒီမိုကရက်များသည် ထိုနေရာကို လွှဲပြောင်းရယူလိုသော်လည်း ပလက်တ်နာ၏ ကိုယ်ကျင့်တရားဆိုင်ရာ ပြဿနာများက ရွေးကောက်ပွဲအပေါ် သက်ရောက်မှုရှိနိုင်သည်။",
+      "keywords": "Graham Platner · Susan Collins · primary · flip · independent voter"
+    },
+    {
+      "title": "အမေရိကန်၏ အီရန်အပေါ် စစ်ရေးတိုက်ခိုက်မှု",
+      "content": "အမေရိကန်သည် ရဟတ်ယာဉ်တစ်စင်း ပစ်ချခံရပြီးနောက် အီရန်ကို ဒုံးကျည်ဖြင့် တိုက်ခိုက်ခဲ့ရာ အရှေ့အလယ်ပိုင်းတွင် တင်းမာမှုများ မြင့်တက်လာသည်။ ယခင်က အမေရိကန်နှင့် အီရန်ကြားတွင် ရေရှည်ကတိကဝတ်ပြုထားသော သဘောတူညီချက်များရှိခဲ့သော်လည်း အပစ်အခတ်ရပ်စဲရေး (ceasefire) သည် ဖိအားများနှင့် ရင်ဆိုင်နေရသည်။ ဤဖြစ်ရပ်သည် ဒေသတည်ငြိမ်ရေးနှင့် အမေရိကန်၏ နိုင်ငံခြားရေးမူဝါဒအပေါ် သက်ရောက်မှုရှိနိုင်သည်။",
+      "keywords": "missile · Iran · ceasefire · U.S. military strike · helicopter downed"
+    },
+    {
+      "title": "AI ကုမ္ပဏီများ၏ IPO နှင့် ပူဖောင်းစိုးရိမ်မှုများ",
+      "content": "OpenAI နှင့် Anthropic တို့သည် ယခုနှစ်ကုန်တွင် ပထမဆုံးအကြိမ် အများပြည်သူသို့ ရှယ်ယာရောင်းချခြင်း (IPO) ပြုလုပ်ရန် စီစဉ်နေပြီး ဉာဏ်ရည်တု ပူဖောင်း (A.I. bubble) ပေါက်ကွဲတော့မည်ကို စိုးရိမ်မှုများ ဖြစ်ပေါ်စေသည်။ ရင်းနှီးမြှုပ်နှံသူများသည် AI ကဏ္ဍ၏ တန်ဖိုးသတ်မှတ်မှု မြင့်မားလွန်းခြင်းရှိမရှိနှင့် IPO သည် ကဏ္ဍ၏ အလှည့်အပြောင်းအချက်ကို အမှတ်အသားပြုခြင်းရှိမရှိကို အာရုံစိုက်နေကြသည်။",
+      "keywords": "IPO · OpenAI · Anthropic · A.I. bubble · pop"
+    },
+    {
+      "title": "ကော်လိုရာဒိုပြည်နယ် အုပ်ချုပ်ရေးမှူးလောင်း အငြင်းပွားဖွယ် ပြောဆိုချက်များ",
+      "content": "ကော်လိုရာဒိုပြည်နယ် ရီပတ်ဘလီကန်ပါတီ အုပ်ချုပ်ရေးမှူးလောင်း ဗစ်တာ မာ့ခ်စ် (Victor Marx) က ငယ်စဉ်က လူသတ်ခဲ့ဖူးကြောင်း ဝန်ခံပြီး \"ဒါက အရေးကြီးလား\" ဟု ပြန်မေးကာ အငြင်းပွားဖွယ်ရာ ဖြစ်စေခဲ့သည်။ သူသည် ရီပတ်ဘလီကန်ပါတီ ရွေးကောက်ပွဲအတွက် ရှေ့ပြေးသူ (frontrunner) ဖြစ်ကာ ၎င်း၏ အစွန်းရောက်သော ပြောဆိုချက်များသည် မဲဆွယ်စည်းရုံးရေးကို သက်ရောက်မှုရှိနိုင်သည်။",
+      "keywords": "Victor Marx · gubernatorial · frontrunner · controversial · killed someone"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "'Democrats in Maine vote to stick with Graham Platner' တွင် 'stick with' ၏ အနီးစပ်ဆုံး အဓိပ္ပာယ်မှာ အဘယ်နည်း။",
+      "options": [
+        "A. ဆက်လက်ရွေးချယ်သည်",
+        "B. တုတ်ဖြင့်ရိုက်သည်",
+        "C. ကပ်သည်",
+        "D. စွန့်လွှတ်သည်"
+      ],
+      "answer": 0,
+      "explanation": "'stick with' သည် စကားစုကြိယာဖြစ်ပြီး \"ဆက်လက်ထောက်ခံခြင်း သို့မဟုတ် ရွေးချယ်ခြင်း\" ဟု အဓိပ္ပာယ်ရသည်။ ဤနေရာတွင် ဒီမိုကရက်များသည် ပလက်တ်နာကို ဆက်လက်ထောက်ခံရန် ဆုံးဖြတ်ခဲ့သည်ကို ရည်ညွှန်းသည်။ အခြားရွေးချယ်စရာများမှာ စာသားအတိုင်း သို့မဟုတ် ဆန့်ကျင်ဘက်အဓိပ္ပာယ်များဖြစ်သည်။"
+    },
+    {
+      "type": "vocab",
+      "question": "'the A.I. bubble is about to pop' တွင် 'pop' ၏ အဓိပ္ပာယ်မှာ အဘယ်နည်း။",
+      "options": [
+        "A. ခေတ်စားသည်",
+        "B. ပေါက်ကွဲသည်",
+        "C. ပေါ်လာသည်",
+        "D. ပေါက်ကွဲသံမြည်သည်"
+      ],
+      "answer": 1,
+      "explanation": "'pop' သည် ဤနေရာတွင် \"ပေါက်ကွဲခြင်း\" ဟု အဓိပ္ပာယ်ရပြီး ပူဖောင်းပေါက်ကွဲခြင်းကို ရည်ညွှန်းသည်။ စီးပွားရေးအခြေအနေတွင် 'bubble pops' ကို ပူဖောင်းပေါက်ကွဲခြင်းဟု သုံးလေ့ရှိသည်။"
+    },
+    {
+      "type": "vocab",
+      "question": "'Graham Platner punches his ticket' တွင် 'punches his ticket' ၏အဓိပ္ပာယ်မှာ အဘယ်နည်း။",
+      "options": [
+        "A. အပေါက်ဖောက်လက်မှတ်",
+        "B. အမည်စာရင်းတင်သွင်းခြင်းရရှိသည်",
+        "C. လက်မှတ်ဝယ်သည်",
+        "D. အရည်အချင်းစွန့်လွှတ်သည်"
+      ],
+      "answer": 1,
+      "explanation": "'punch one's ticket' သည် အသုံးအနှုန်းတစ်ခုဖြစ်ပြီး \"အမည်စာရင်းတင်သွင်းခြင်း သို့မဟုတ် အရည်အချင်းပြည့်မီခြင်း\" ဟု အဓိပ္ပာယ်ရသည်။ အထူးသဖြင့် နိုင်ငံရေးအခြေအနေတွင် အောင်မြင်စွာတိုးတက်ခြင်းကို ဆိုလိုသည်။"
+    },
+    {
+      "type": "comprehension",
+      "question": "စာသားအရ၊ Platner သည် ရွေးကောက်ပွဲအကြိုအနိုင်ရပြီးနောက် ရင်ဆိုင်ရမည့် အဓိကစိန်ခေါ်မှုကား အဘယ်နည်း။",
+      "options": [
+        "A. ရွေးကောက်ပွဲရန်ပုံငွေရှာဖွေခြင်း",
+        "B. Mills ထောက်ခံသူများကို ဆွဲဆောင်ခြင်း",
+        "C. စွပ်စွဲချက်များကို ကိုင်တွယ်ဖြေရှင်းခြင်း",
+        "D. ပါတီ၏ထောက်ခံမှုရရှိခြင်း"
+      ],
+      "answer": 1,
+      "explanation": "စာသားတွင် Platner သည် \"get Mills voters on his side\" လိုအပ်ကြောင်း ဖော်ပြထားသည်။ ဆိုလိုသည်မှာ Mills ထောက်ခံသူများ၏ ထောက်ခံမှုကို ရယူရန်ဖြစ်သည်။ အကြောင်းမှာ Mills သည် ရွေးကောက်ပွဲအကြိုတွင် ရှုံးနိမ့်ခဲ့ပြီး ၎င်း၏မဲဆန္ဒရှင်များသည် Collins ဘက်သို့ ကူးပြောင်းသွားနိုင်သောကြောင့်ဖြစ်သည်။"
+    },
+    {
+      "type": "comprehension",
+      "question": "Susan Collins နှင့်ပတ်သက်၍ အောက်ပါဖော်ပြချက်များအနက် မည်သည့်အချက်က မှန်ကန်သနည်း။",
+      "options": [
+        "A. သူမသည် Trump နှင့် ရင်းနှီးသောဆက်ဆံရေးရှိသည်",
+        "B. သူမသည် ငါးကြိမ်မြောက် အထက်လွှတ်တော်အမတ်ဖြစ်သည်",
+        "C. သူမသည် Platter ကို ထောက်ခံသည်",
+        "D. သူမသည် ဒီမိုကရက်တစ်ပါတီမှဖြစ်သည်"
+      ],
+      "answer": 1,
+      "explanation": "စာသားက Collins ကို \"five-term senator\" ဟုခေါ်ဆိုထားသည်။ သူမသည် Trump နှင့် ရင်းနှီးမှုမရှိ ('not a tight bond') ဘဲ ရီပတ်ဘလီကန်ပါတီဝင်ဖြစ်သည်။"
+    },
+    {
+      "type": "comprehension",
+      "question": "AI IPO နှင့်ပတ်သက်၍ စာသားတွင် ကိုးကားထားသော အမြင်ကား အဘယ်နည်း။",
+      "options": [
+        "A. AI ပူဖောင်း ပေါက်တော့မည်",
+        "B. AI ကုမ္ပဏီများ၏ တန်ဖိုးသတ်မှတ်မှုသည် ကျိုးကြောင်းဆီလျော်သည်",
+        "C. IPO သည် AI ဖွံ့ဖြိုးတိုးတက်မှုကို တွန်းအားပေးလိမ့်မည်",
+        "D. စျေးကွက်သည် AI အပေါ် ယုံကြည်မှုအပြည့်ရှိသည်"
+      ],
+      "answer": 0,
+      "explanation": "စာသားတွင် ကိုးကားထားသော အမြင်မှာ \"the A.I. bubble is about to pop\" ဖြစ်ပြီး AI ပူဖောင်းသည် ပေါက်တော့မည်ဟု ဆိုလိုကာ IPO သည် ပူဖောင်း၏အထွတ်အထိပ်ကို ညွှန်ပြနိုင်သည်ဟု အဓိပ္ပာယ်ရသည်။"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Audie Cornish",
+      "text": "Today in the group chat, Democrats in Maine vote to stick with Graham Platner. Could that cost the party a shot at flipping the Senate this fall? REP. ALEXANDRIA OCASIO-CORTEZ (D-NY): If the choice on the ballot is between that and a senator who's voted to take health care away from millions of Americans, that's the situation that we have to weigh.",
+      "cn": "ယနေ့ အဖွဲ့လိုက်စကားပြောခန်းတွင် မဲန်းပြည်နယ်မှ ဒီမိုကရက်များက ဂရေဟမ် ပလတ်နာကို မဲပေးရွေးချယ်ခဲ့သည်။ ဤသည်က ဆောင်းဦးတွင် အထက်လွှတ်တော်ကို လွှဲပြောင်းရန် အခွင့်အရေးကို ဆုံးရှုံးစေနိုင်ပါသလား။ ကိုယ်စားလှယ် အလက်ဇန်းဒရီးယား အိုကာစီယို-ကော်တက်ဇ် (နယူးယောက်ပြည်နယ် ဒီမိုကရက်)- မဲစာရင်းတွင် ရွေးချယ်စရာက ထိုသူနှင့် သန်းပေါင်းများစွာသော အမေရိကန်များ၏ ကျန်းမာရေးအာမခံကို ဖျက်သိမ်းမဲပေးသော အထက်လွှတ်တော်အမတ်တစ်ဦးဖြစ်ပါက ကျွန်ုပ်တို့ ချိန်ဆရမည့် အခြေအနေဖြစ်သည်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Missiles light up the sky in the Middle East again. Will the strained ceasefire last long enough for the U.S. to deliver that long- promised deal with Iran? And a big day for the Epstein files. What will Bill Gates tell lawmakers about his links to the late convicted sex offender.",
+      "cn": "ဒုံးကျည်များသည် အရှေ့အလယ်ပိုင်းကောင်းကင်ကို ထပ်မံထွန်းလင်းစေသည်။ အားနည်းသော အပစ်အခတ်ရပ်စဲရေးသည် အမေရိကန်က အီရန်နှင့် ရေရှည်ကတိကဝတ်သဘောတူညီချက်ကို အကောင်အထည်ဖော်ရန် လုံလောက်သောအချိန်အထိ တည်တံ့နိုင်ပါသလား။ အဲပ်စတိန်း ဖိုင်များအတွက် အရေးကြီးသောနေ့။ ဘီလ်ဂိတ်သည် ကွယ်လွန်သူ ပြစ်မှုထင်ရှားသော လိင်ပိုင်းဆိုင်ရာ ရာဇဝတ်သားနှင့် သူ၏ဆက်သွယ်မှုနှင့်ပတ်သက်၍ ဥပဒေပြုအမတ်များအား ဘာပြောမည်နည်း။"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Do you think that you've killed people as an adult? VICTOR MARX (R),",
+      "cn": "သင်သည် အရွယ်ရောက်ပြီးနောက် လူသတ်ဖူးသည်ဟု ထင်ပါသလား။ ဗစ်တာ မာ့ခ်စ် (ရီပါဘလစ်ကန်)၊"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This is a candidate who also claims he killed someone as a child. Meet the frontrunner in the Republican race for governor of Colorado. And it's the $3.5 trillion question on Wall Street. Has the A.I. boom gotten ahead of itself?",
+      "cn": "ဤသူသည် ငယ်စဉ်က လူသတ်ဖူးသည်ဟု ဝန်ခံသော ကိုယ်စားလှယ်လောင်းဖြစ်သည်။ ကော်လိုရာဒိုပြည်နယ် အုပ်ချုပ်ရေးမှူးအတွက် ရီပါဘလစ်ကန် သမ္မတလောင်းရွေးချယ်ပွဲတွင် ဦးဆောင်နေသူကို မိတ်ဆက်ပေးပါရစေ။ ဤသည်မှာ ဝေါလ်လမ်းရှိ ဒေါ်လာ ၃.၅ ထရီလီယံတန် မေးခွန်းဖြစ်သည်။ AI အလျင်စလိုလွန်းနေပြီလား။"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "OpenAI and Anthropic plan to have IPOs at release before the end of this year, signaling to me that the A.I. bubble is about to pop. GRAHAM PLATNER (D),",
+      "cn": "OpenAI နှင့် Anthropic တို့သည် ယခုနှစ်ကုန်တွင် ရှယ်ယာများကို လူသိရှင်ကြား ပထမဆုံးအကြိမ် ရောင်းချရန် စီစဉ်နေပြီး ၎င်းက AI ပူဖောင်း ပေါက်တော့မည်ဟု ကျွန်ုပ်အား ညွှန်ပြနေသည်။ ဂရေဟမ် ပလတ်နာ (ဒီမိုကရက်)၊"
+    },
+    {
+      "speaker": "Maine Senate Candidate",
+      "text": "To any of those who feel let down or disappointed or disillusioned, it is my job to earn your trust, faith, and support. And I will spend every day of this campaign. And if I have the privilege every day in the United States Senate doing exactly that.",
+      "cn": "စိတ်ပျက် သို့မဟုတ် အိပ်မက်ပျက်နေသူများအတွက် ကျွန်ုပ်၏အလုပ်မှာ သင်၏ယုံကြည်မှု၊ ယုံကြည်ချက်နှင့် ထောက်ခံမှုကို ရရှိရန်ဖြစ်သည်။ ဤရွေးကောက်ပွဲတွင် နေ့တိုင်း လုပ်ဆောင်သွားမည်။ အကယ်၍ ကျွန်ုပ်သည် အမေရိကန် အထက်လွှတ်တော်တွင် ရှိရန် ကံကောင်းပါက နေ့တိုင်း ထိုသို့လုပ်ဆောင်မည်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Graham Platner punches his ticket. But now he's got to convince voters to choose him over a five-term senator. Good morning everybody. I'm Audie Cornish. Here is where we begin. That big statement out of Maine. Democrat Graham Platner, despite all the scandals, earned about three- fourths of primary voters' support over Governor Janet Mills. Moments after clinching the nomination, he turned his attention to his new opponent, Republican Senator Susan Collins.",
+      "cn": "ဂရေဟမ် ပလတ်နာသည် သမ္မတလောင်းအဖြစ် အနိုင်ရရှိခဲ့သည်။ သို့သော် ယခု သူသည် ငါးကြိမ်အရွေးခံထားရသော အထက်လွှတ်တော်အမတ်ထက် မိမိကိုယ်ကို ရွေးချယ်ရန် မဲဆန္ဒရှင်များကို စည်းရုံးရမည်။ မင်္ဂလာနံနက်ခင်းပါ။ ကျွန်ုပ်မှာ အော်ဒီ ကော်နစ်ရှ်ဖြစ်သည်။ စတင်ကြပါစို့။ မဲန်းပြည်နယ်မှ ကြီးမားသောကြေညာချက်။ ဒီမိုကရက် ဂရေဟမ် ပလတ်နာသည် အရှုပ်တော်ပုံများရှိသော်လည်း သမ္မတလောင်းရွေးချယ်ပွဲ မဲဆန္ဒရှင်များ၏ လေးပုံသုံးပုံခန့်၏ ထောက်ခံမှုကိုရရှိကာ အုပ်ချုပ်ရေးမှူး ဂျန်းနက် မီးလ်ကို အနိုင်ယူခဲ့သည်။ သမ္မတလောင်းအဖြစ် အတည်ပြုခံရပြီးနောက် မကြာမီတွင် သူသည် မိမိ၏ပြိုင်ဘက်အသစ် ရီပါဘလစ်ကန် အထက်လွှတ်တော်အမတ် ဆူဇန် ကော်လင်ထံ အာရုံစိုက်လာသည်။"
+    },
+    {
+      "speaker": "Platner",
+      "text": "Susan Collins may have started -- may have started her career decades ago in Washington with good intentions, but she has become just as spineless and corrupt as the establishment she now serves. If you are an independent voice, why do you vote with Donald Trump 95 percent of the time?",
+      "cn": "ဆူဇန် ကော်လင်သည် လွန်ခဲ့သော ဆယ်စုနှစ်များက ဝါရှင်တန်တွင် သူမ၏အသက်မွေးဝမ်းကျောင်းကို စတင်စဉ် ရည်ရွယ်ချက်ကောင်းများရှိခဲ့နိုင်သော်လည်း သူမသည် ယခုသူမဝန်ဆောင်မှုပေးနေသော တည်ဆောက်မှုစနစ်ကဲ့သို့ပင် ကျောရိုးမရှိ၊ အကျင့်ပျက်သွားပြီ။ အကယ်၍ သင်သည် လွတ်လပ်သောအသံဖြစ်ပါက အဘယ်ကြောင့် ၉၅% သောအချိန်တွင် ဒေါ်နယ်ထရမ့်ကို မဲပေးသနည်း။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Platner has a lot of work to do to get Mills voters on his side.",
+      "cn": "ပလတ်နာသည် မီးလ်၏ ထောက်ခံသူများကို မိမိဘက်သို့ ဆွဲဆောင်ရန် များစွာလုပ်ဆောင်ရမည်။"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I couldn't honestly support Platner, even though some of the things that he says are really good.",
+      "cn": "ကျွန်ုပ်သည် ပလတ်နာကို မထောက်ခံနိုင်ပါ၊ သူပြောသော အချို့သောအရာများမှာ အလွန်ကောင်းသော်လည်း။"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "I don't think he's ready to be a senator. I'm leaning towards Collins unless the guy shows something else, but I just -- he's not there yet. And --",
+      "cn": "သူသည် အထက်လွှတ်တော်အမတ်ဖြစ်ရန် အဆင်သင့်ဖြစ်နေပြီဟု ကျွန်ုပ်မထင်ပါ။ ကျွန်ုပ်သည် ကော်လင်ကို ထောက်ခံလေ့ရှိသည်၊ ထိုလူက အခြားအရာတစ်ခုကို မပြသမချင်း၊ သို့သော် ကျွန်ုပ်က -- -- သူသည် ထိုအဆင့်သို့ မရောက်သေးပါ။ ပြီးတော့ -- --"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "And so, what will you do in November if its Platner versus Collins?",
+      "cn": "ဒါဆို နိုဝင်ဘာလမှာ ပလက်တ်နာက ကော်လင်ကို ယှဉ်ပြိုင်ရင် မင်းဘာလုပ်မလဲ။"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "That's a really good question. I'm a Democrat, but I voted for Susan Collins several times, because I think that she does care about the state of Maine. But it's going to be a real problem for me in November.",
+      "cn": "ဒါက ကောင်းတဲ့မေးခွန်းပါ။ ကျွန်တော်က ဒီမိုကရက်တစ်ပါတီသားဖြစ်ပေမယ့် ဆူဇန်ကော်လင်ကို အကြိမ်ကြိမ်မဲပေးခဲ့တယ်၊ ဘာလို့လဲဆိုတော့ သူမ Main ပြည်နယ်အတွက် တကယ်ဂရုစိုက်တယ်လို့ ကျွန်တော်ထင်လို့ပါ။ ဒါပေမယ့် နိုဝင်ဘာလကတော့ ကျွန်တော့်အတွက် တကယ့်ပြဿနာတစ်ခုဖြစ်လာမယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, today in the group chat, Mike Leon, host of the \"Can We Please Talk\" podcast; Jared Stepman, columnist with \"The Daily Signal\"; and Max Rose, former Democratic congressman from New York. And Max, I'm actually going to start with you, because you're with VoteVets, which means you guys had a dog in the fight in this race. You guys have been giving a lot of money across the country. And what is it? Let me just show what -- what's at stake here. Democrats' chances of flipping the Maine Senate seat.",
+      "cn": "ဒါဆို ဒီနေ့ group chat မှာ \"Can We Talk\" podcast ရဲ့ အစီအစဉ်တင်ဆက်သူ Mike Leon၊ The Daily Signal ရဲ့ ဆောင်းပါးရှင် Jared Steppman နဲ့ နယူးယောက်ပြည်နယ် ဒီမိုကရက်တစ် လွှတ်တော်ကိုယ်စားလှယ်ဟောင်း Max Rose တို့ရှိပါတယ်။ Max၊ မင်းက VoteVets မှာ အလုပ်လုပ်တဲ့အတွက် ဒီရွေးကောက်ပွဲမှာလည်း မင်းတို့မှာ အကျိုးစီးပွားရှိတယ်။ မင်းတို့ တစ်နိုင်ငံလုံးအတိုင်းအတာနဲ့ ငွေအမြောက်အမြားသုံးထားတယ်။ ဒါဆို အခြေအနေဘယ်လိုရှိလဲ။ ကျွန်တော်ပြပါရစေ -- ဒီမှာ အဓိကအချက်က ဒီမိုကရက်တွေ Main ပြည်နယ် အထက်လွှတ်တော်နေရာကို လွှဲပြောင်းရယူနိုင်တဲ့ အခွင့်အရေးပါ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It was pretty good. Maybe this has jeopardized it. We're going to show people a chart while you're talking so you can see what's at stake. Is this race as close as you all hoped it would be, now that Graham has struggled with these scandals? MAX ROSE (D),",
+      "cn": "မူလက အတော်လေးကောင်းတယ်။ ဒါက အန္တရာယ်ကျရောက်သွားပြီဖြစ်နိုင်တယ်။ မင်းစကားပြောနေတုန်း လူတွေကို ဇယားတစ်ခုပြပါမယ်၊ ဒါမှ မင်းတို့ လောင်းကြေးကို မြင်နိုင်မယ်။ Graham ဒီအရှုပ်တော်ပုံတွေမှာ ရုန်းကန်နေရတဲ့အတွက် ဒီရွေးကောက်ပွဲက မင်းတို့အားလုံးမျှော်လင့်ထားသလောက် နီးကပ်နေပြီလား။ Max Rose (ဒီမိုကရက်):"
+    },
+    {
+      "speaker": "Former New York Congressman",
+      "text": "The race is always going to be close. Because --",
+      "cn": "ဒီရွေးကောက်ပွဲက အမြဲတမ်းနီးကပ်နေမှာပါ။ ဘာလို့လဲဆိုတော့ --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Not with a five-term senator, it's not. A lot of times it can be a blowout, right? Like what -- how do you look at what he needs to accomplish?",
+      "cn": "ငါးကြိမ်အရွေးခံထားရတဲ့ အထက်လွှတ်တော်အမတ်တစ်ယောက်အတွက်တော့ မဟုတ်ဘူး။ အများကြီးသောအခါမှာ တစ်ဖက်သတ်ဖြစ်နိုင်တယ် ဟုတ်တယ်မလား။ ဥပမာ -- သူဘာတွေပြီးမြောက်ဖို့လိုတယ်လို့ မင်းထင်လဲ။"
+    },
+    {
+      "speaker": "Rose",
+      "text": "Well, I think that we're saying the same thing --",
+      "cn": "ဟုတ်တယ်၊ ကျွန်တော်တို့ အတူတူပဲပြောနေတယ်လို့ထင်တယ် --"
+    },
+    {
+      "speaker": "Rose",
+      "text": "-- in essence, right? Susan Collins is tough to beat. What I would say about the Susan Collins race is that we've seen in the past, is you're not going to win this seat by electing a Susan Collins light or putting forward a Susan Collins light in a race. You are going to beat her by energizing your base, particularly in a midterm election.",
+      "cn": "-- အခြေခံအားဖြင့် ဟုတ်တယ်မလား။ Susan Collins ကို အနိုင်ယူဖို့ခက်တယ်။ Susan Collins ရဲ့ ရွေးကောက်ပွဲအကြောင်း ကျွန်တော်ပြောချင်တာက အတိတ်က ကျွန်တော်တို့မြင်ခဲ့ရတာက မင်း \"Susan Collins အပေါ့စားဗားရှင်း\" ကို ရွေးချယ်တာ ဒါမှမဟုတ် ရွေးကောက်ပွဲမှာ \"Susan Collins အပေါ့စားဗားရှင်း\" ကို ထုတ်ပြီး ဒီနေရာကို အနိုင်ယူလို့မရဘူး။ မင်းက မင်းရဲ့ အခြေခံမဲဆန္ဒရှင်တွေကို လှုံ့ဆော်ပြီး သူမကို အနိုင်ယူရမယ်၊ အထူးသဖြင့် ကြားဖြတ်ရွေးကောက်ပွဲတွေမှာ။"
+    },
+    {
+      "speaker": "Rose",
+      "text": "There is no doubt, though, that this election has got to be a referendum on Susan Collins: on the ways in which she has voted to empower Donald Trump; on her refusal to hold Donald Trump accountable; on the ways in which she has said, I might be fair, but I want to take healthcare away from millions of people. Says the right thing often; does the wrong thing very frequently.",
+      "cn": "ဒါပေမယ့် သံသယမရှိဘဲ ဒီရွေးကောက်ပွဲဟာ Susan Collins အတွက် ပြည်သူ့ဆန္ဒခံယူပွဲတစ်ခုဖြစ်ရမယ်။ သူမ Donald Trump ကို အာဏာပေးအပ်ဖို့ မဲပေးခဲ့တဲ့နည်းလမ်း၊ Donald Trump ကို တာဝန်ယူမှုမပြုဖို့ ငြင်းဆန်ခဲ့တဲ့နည်းလမ်း၊ သူမပြောခဲ့တဲ့ \"ကျွန်မတရားမျှတနိုင်ပေမယ့် သန်းနဲ့ချီတဲ့လူတွေဆီက ကျန်းမာရေးစောင့်ရှောက်မှုကို လုယူချင်တယ်\" ဆိုတဲ့နည်းလမ်းတွေအပေါ်မှာ။ သူမက မကြာခဏ မှန်ကန်တဲ့စကားတွေပြောတယ်။ ဒါပေမယ့် မကြာခဏဆိုသလို မှားယွင်းတဲ့အရာတွေကို လုပ်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. So, this is very much the message we hear over and over again. And I love that Platner in front of him, it said, \"They don't know Maine.\" You know what I mean? Usually not his own name, not a bunch of other things. It was like, hello, media, this one is for you. I want to play two clips back-to-back, because it sort of, I think, represents something of this race. First, I'm going to play for you J.D. Vance and how he talks about Susan Collins.",
+      "cn": "ဟုတ်တယ်။ ဒါကြောင့် ဒါက ကျွန်တော်တို့ ထပ်ခါထပ်ခါကြားနေရတဲ့ သတင်းစကားပဲ။ သူ့ရှေ့မှာ \"သူတို့ Main ပြည်နယ်ကို နားမလည်ဘူး\" လို့ရေးထားတဲ့ Platter ဆိုင်းဘုတ်ကို ကျွန်တော်ကြိုက်တယ်။ မင်းငါ့သဘောပေါက်လား။ များသောအားဖြင့် သူ့နာမည်မဟုတ်ဘူး၊ တခြားအရာတွေလည်းမဟုတ်ဘူး။ မီဒီယာ၊ ဒါက မင်းတို့အတွက်ပဲလို့ ပြောနေသလိုပဲ။ ကျွန်တော် audio နှစ်ခုကို ဆက်တိုက်ဖွင့်ချင်တယ်၊ ဘာလို့လဲဆိုတော့ ဒါက ဒီရွေးကောက်ပွဲရဲ့ လက္ခဏာအချို့ကို ကိုယ်စားပြုတယ်လို့ ကျွန်တော်ထင်လို့ပါ။ ပထမဆုံး J.D. Vance က Susan Collins အကြောင်းပြောတဲ့အပိုင်းကို ဖွင့်ပါမယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And then I'm going to play AOC and how she's talking about Platner. You tell me how you hear the tone of these. J.D. VANCE (R),",
+      "cn": "ပြီးရင် AOC က Platter အကြောင်းပြောတဲ့အပိုင်းကို ဖွင့်ပါမယ်။ မင်းဒီလေသံတွေကို ဘယ်လိုခံစားရလဲ ပြောပြပါ။ J.D. Vance (ရီပက်ဘလစ်ကန်):"
+    },
+    {
+      "speaker": "U.S. Vice President",
+      "text": "Here's the thing I'll say about Susan Collins, is sometimes I get frustrated with Susan Collins. I almost wish that she was more partisan. But the thing I love about Susan is she is independent, because Maine is an independent state. And frankly, if she was as partisan as I sometimes wish that she was, she would not be a good fit for the people of Maine. So, let's give a shout-out to Susan Collins, who's doing a great job.",
+      "cn": "Susan Collins အကြောင်း ကျွန်တော်ပြောချင်တာက တစ်ခါတလေ ကျွန်တော်သူမကို စိတ်ပျက်မိတယ်။ သူမက ပိုပြီး ပါတီစွဲဖြစ်စေချင်တယ်လို့ ကျွန်တော်နီးပါးဆန္ဒရှိတယ်။ ဒါပေမယ့် Susan မှာ ကျွန်တော်ကြိုက်တဲ့အချက်က သူမလွတ်လပ်တယ်၊ ဘာလို့လဲဆိုတော့ Main ပြည်နယ်က လွတ်လပ်တဲ့ပြည်နယ်ဖြစ်လို့ပါ။ ရိုးရိုးသားသားပြောရရင် သူမက ကျွန်တော်တစ်ခါတလေဆန္ဒရှိသလို ပါတီစွဲဖြစ်နေရင် သူမ Main ပြည်နယ်ပြည်သူတွေအတွက် မသင့်တော်ဘူး။ ဒါကြောင့် Susan Collins အတွက် အားပေးကြပါစို့၊ သူမကောင်းကောင်းလုပ်နေတယ်။"
+    },
+    {
+      "speaker": "Ocasio-Cortez",
+      "text": "When it comes to the substance of this reporting, obviously, there's a lot in that behavior that's really challenging. It's hard to stomach, you know, in some of it. But -- but at the end of the day, I think that this is a choice. If that choice on the ballot is between that and a senator who's voted to take healthcare away from millions of Americans, that's the situation that we have to weigh.",
+      "cn": "ဒီအစီရင်ခံစာရဲ့ အနှစ်သာရအကြောင်းအရာအရ၊ အဲဒီအပြုအမူတွေထဲမှာ အလွန်စိတ်မသက်မသာဖြစ်စရာတွေ အများကြီးရှိတာ ထင်ရှားပါတယ်။ တချို့အကြောင်းအရာတွေက လက်ခံဖို့ခက်ပါတယ်။ ဒါပေမယ့် နောက်ဆုံးမှာတော့ ဒါဟာ ရွေးချယ်မှုတစ်ခုလို့ ကျွန်တော်ထင်ပါတယ်။ မဲစာရင်းပေါ်က ရွေးချယ်စရာက အဲဒါနဲ့ အမေရိကန်သန်းပေါင်းများစွာရဲ့ ကျန်းမာရေးစောင့်ရှောက်မှုကို ဖြတ်တောက်မယ့် အထက်လွှတ်တော်အမတ်တစ်ယောက်ကြားမှာဆိုရင်၊ ဒါဟာ ကျွန်တော်တို့ ချိန်ဆရမယ့် အခြေအနေပါ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I played these, because one is like, it's hard to stomach. And the other is like, I get frustrated. Shout-out though, anyway, because I guess Maine. And I was, like, these are not ringing endorsements. MIKE LEON, HOST, \"CAN WE PLEASE TALK?\"",
+      "cn": "ကျွန်တော် ဒါတွေကို ဖွင့်ပြတာက တစ်ခုက လက်ခံဖို့ခက်ပြီး နောက်တစ်ခုက ကျွန်တော့်ကို စိတ်ပျက်စေလို့ပါ။ ဒါပေမယ့် ကျေးဇူးတင်ပါတယ်၊ ဘာလို့လဲဆိုတော့ မိန်းပြည်နယ်လို့ ကျွန်တော်ထင်လို့ပါ။ အဲဒီအချိန်က ကျွန်တော်ထင်တာက ဒါတွေဟာ စိတ်အားထက်သန်တဲ့ ထောက်ခံမှုတွေ မဟုတ်ဘူးလို့ပါ။ Mike Leon၊ အစီအစဉ်တင်ဆက်သူ၊ \"ကျွန်တော်တို့ ဒီအကြောင်း ဆွေးနွေးလို့ရမလား\""
+    },
+    {
+      "speaker": "Podcast",
+      "text": "But Audie, not only are they not ringing endorsements, the voter that we played in the package before listen to her tone. Maine independents are the second largest party in Maine.",
+      "cn": "ဒါပေမယ့် Audi၊ စိတ်အားထက်သန်တဲ့ ထောက်ခံမှုတွေ မဟုတ်ရုံသာမက၊ အရင်အပိုင်းတွေမှာ ကျွန်တော်တို့ ဖွင့်ပြခဲ့တဲ့ မဲဆန္ဒရှင်ရဲ့ အသံလေသံကို နားထောင်ကြည့်ပါ။ မိန်းပြည်နယ်က တစ်သီးပုဂ္ဂလတွေဟာ ပြည်နယ်ရဲ့ ဒုတိယအကြီးဆုံး ပါတီဖြစ်ပါတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And a woman, in particular.",
+      "cn": "ဟုတ်ပါတယ်။ အထူးသဖြင့် အမျိုးသမီးတွေပါ။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "And a woman and a Democrat who said she voted for Susan Collins, against her will, it sounded like, from that thing. So -- but those are -- those are some of the things that we're going to have to consider now. It's really about the character quality is what something that Graham Platner has been trying to say: Forget about that. I'm from here. It's how she's voted, to Max's point.",
+      "cn": "ဒီမိုကရက်တစ်အမျိုးသမီးတစ်ယောက်က သူမဟာ Susan Collins ကို မဲပေးခဲ့တယ်လို့ ပြောပေမယ့် သူမရဲ့ဆန္ဒကို ဆန့်ကျင်ပြီး မဲပေးသလိုမျိုး ဖြစ်နေပါတယ်။ ဒါကြောင့် -- -- ဒါပေမယ့် ဒါတွေဟာ အခု ကျွန်တော်တို့ စဉ်းစားရမယ့် အချက်တချို့ပါ။ ဒါဟာ တကယ်တော့ စရိုက်လက္ခဏာတွေနဲ့ ပတ်သက်ပြီး၊ အဲဒါက Graham Plattner ပြောဖို့ ကြိုးစားနေတဲ့အရာပါ။ အဲဒါတွေကို မေ့လိုက်ပါ။ ကျွန်တော်က ဒီကပါ။ အရေးကြီးတာက သူမရဲ့ မဲပေးမှတ်တမ်းပါ၊ Max ပြောသလိုပါပဲ။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "But then also you hear the voters, and they're, like, a little, still unsure because of those character issues with Platner. So, it's going to be really interesting.",
+      "cn": "ဒါပေမယ့် မဲဆန္ဒရှင်တွေက Plattner ရဲ့ စရိုက်လက္ခဏာမေးခွန်းတွေကြောင့် နည်းနည်း မသေချာသေးတာကိုလည်း သင်ကြားရပါတယ်။ ဒါကြောင့် ဒါဟာ အလွန်စိတ်ဝင်စားစရာကောင်းပါလိမ့်မယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And he's been telling a story for a while of, like, you know, I was -- went through difficult times. Now I'm a person who has changed. I want to ask one more thing. Collins and Trump, that's not a tight bond. OK? Can I just put it that way? Here's a list I'm going to play for you. Just some moments over the past couple of months where you hear her talking around Trump policies and where she stands on them. SEN. SUSAN COLLINS (R-ME): The 60 days is a trigger.",
+      "cn": "ပြီးတော့ သူက ဇာတ်လမ်းတစ်ပုဒ်ကို ပြောနေတယ်၊ ဥပမာ၊ သင်သိပါတယ်၊ ကျွန်တော် ခက်ခဲတဲ့အချိန်တွေကို ဖြတ်သန်းခဲ့ရတယ်။ အခု ကျွန်တော်ဟာ ပြောင်းလဲသွားတဲ့လူတစ်ယောက်ပါ။ နောက်ထပ် တစ်ခုကို မေးချင်ပါတယ်။ Collins နဲ့ Trump က သိပ်မရင်းနှီးပါဘူး။ ကောင်းပြီလား။ ကျွန်တော် အဲဒါကို ပြောလို့ရမလား။ ဒီမှာ စာရင်းတစ်ခုရှိတယ်၊ ကျွန်တော် သင်ကို ဖွင့်ပြပါမယ်။ လွန်ခဲ့တဲ့ လအနည်းငယ်အတွင်းက အခိုက်အတန့်တချို့ပါ၊ သူမက Trump ရဲ့မူဝါဒတွေနဲ့ သူမရဲ့ ရပ်တည်ချက်တွေအကြောင်း ပြောတာကို သင်ကြားရပါတယ်။ အထက်လွှတ်တော်အမတ် Susan Collins (R-ME): ရက်ပေါင်း 60 ဟာ အစပျိုးမှတ်တစ်ခုပါ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "After 60 days, in my view, the president has to obtain congressional approval or Congress can block it. I do not believe that individuals who were convicted of violence against police officers on January 6th should be entitled to reimbursement for their legal fees. Concerned about the cuts in Medicaid and the impact on my state, but other states, as well. I've talked with the secretary of homeland security.",
+      "cn": "ရက်ပေါင်း 60 ပြီးရင်၊ ကျွန်တော့်အမြင်မှာ သမ္မတဟာ ကွန်ဂရက်လွှတ်တော်ရဲ့ ခွင့်ပြုချက်ကို ရယူရမယ်၊ ဒါမှမဟုတ် ကွန်ဂရက်လွှတ်တော်က တားဆီးနိုင်တယ်။ ဇန်နဝါရီ 6 ရက်နေ့မှာ ရဲကို အကြမ်းဖက်တိုက်ခိုက်မှုအတွက် ပြစ်ဒဏ်ချမှတ်ခံရသူတွေဟာ ဥပဒေကြေးတွေ ပြန်အမ်းခွင့်ရှိသင့်တယ်လို့ ကျွန်တော်မထင်ဘူး။ ကျွန်တော့်ပြည်နယ်နဲ့ တခြားပြည်နယ်တွေအပေါ် Medicaid ဖြတ်တောက်မှုရဲ့ သက်ရောက်မှုကို ကျွန်တော် စိုးရိမ်ပါတယ်။ ကျွန်တော် ပြည်ထဲရေးလုံခြုံရေးဝန်ကြီးနဲ့ ဆွေးနွေးပြီးပါပြီ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I have strongly recommended to her that there be a pause on the enforcement surge in both Maine and in Minnesota.",
+      "cn": "မိန်းပြည်နယ်နဲ့ Minnesota ပြည်နယ်မှာ လက်ကိုင်အရေးယူမှုတွေကို ရပ်ဆိုင်းဖို့ ကျွန်တော် သူမကို ပြင်းပြင်းထန်ထန် အကြံပြုပါတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, I've chased her in the hallways before, too. She often ends up voting with Republicans, whatever that party line is. But is Trump going to get involved in this simply because of what's at stake with the Senate? Or is he going to send surrogates? He'll be like, OK, J.D., you go there? Like, can she expect any support there? JARRETT STEPMAN, COLUMNIST, \"THE DAILY SIGNAL\": Yes, I feel that's why he sent J.D. and I feel he will, if he's smart, actually keep some distance from this.",
+      "cn": "အရင်ကလည်း စင်္ကြံမှာ သူမနောက်ကို လိုက်ဖူးတယ်။ သူမဟာ ပါတီလမ်းကြောင်းကို မလိုက်ဘဲ ရီပါဘလစ်ကန်တွေနဲ့ မကြာခဏ မဲပေးလေ့ရှိတယ်။ ဒါပေမယ့် Trump ဟာ အထက်လွှတ်တော်ရဲ့ အကျိုးစီးပွားကြောင့်သာ ဝင်ရောက်စွက်ဖက်မှာလား။ ဒါမှမဟုတ် သူက ကိုယ်စားလှယ်တွေ စေလွှတ်မှာလား။ သူက ပြောလိမ့်မယ်၊ ကောင်းပြီ၊ J.D.၊ မင်း အဲဒီကိုသွား။ သူမ ထောက်ခံမှုကို မျှော်လင့်နိုင်မလား။ The Daily Signal ကော်လံရေးဆရာ Jarrett Stepman: ဟုတ်တယ်၊ ဒါကြောင့် သူ J.D. ကို စေလွှတ်တာလို့ ကျွန်တော်ထင်တယ်၊ ပြီးတော့ သူ ဉာဏ်ကောင်းရင် တကယ်တော့ ဒီကနေ အကွာအဝေးတစ်ခုထားသင့်တယ်လို့ ကျွန်တော်ထင်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I mean part of the -- the thing at stake here is that they're independent. Maine is a little bit different. I mean, both these candidates come from sort of -- almost independent of the party.",
+      "cn": "ကျွန်တော်ဆိုလိုတာက တစ်စိတ်တစ်ပိုင်း အကျိုးစီးပွားက သူတို့ဟာ တစ်သီးပုဂ္ဂလတွေဖြစ်လို့ပါ။ မိန်းပြည်နယ်က နည်းနည်းကွဲပြားတယ်။ ကျွန်တော်ဆိုလိုတာက ဒီကိုယ်စားလှယ်လောင်းနှစ်ယောက်စလုံးဟာ တစ်မျိုးတစ်ဖုံကနေ လာတာပါ -- -- ပါတီကနေ လွတ်လပ်လုနီးပါးပါ။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "Because they -- they really focus on the issues related to Maine.",
+      "cn": "ဘာလို့လဲဆိုတော့ သူတို့ဟာ မိန်းပြည်နယ်နဲ့ ပတ်သက်တဲ့ ကိစ္စရပ်တွေကို တကယ်အာရုံစိုက်လို့ပါ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We should say, Platner is recruiting from outside the party. Yes.",
+      "cn": "ကျွန်တော်တို့ပြောရမယ်ဆိုရင် Prattner ဟာ ပါတီပြင်ပကနေ လူတွေကို စုဆောင်းနေတာပါ။ ဟုတ်ပါတယ်။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "Exactly. So, they're both sort of weirdly outsiders, even though Collins has been Republican part of the party for a long time, she's always struck an independent game this entire time. So, I think that's going to continue during this race. That is her path. Because if she does get too close to Trump, that's going to be the argument saying, whoa, she's too MAGA. She's not -- too much for me, which is more or less a blue state.",
+      "cn": "မှန်ပါတယ်။ ဒါကြောင့် သူတို့နှစ်ယောက်စလုံးဟာ ထူးဆန်းတဲ့အပြင်လူတွေဖြစ်ပေမယ့် Collins ဟာ ရီပတ်ဘလစ်ကန်ပါတီရဲ့ အစိတ်အပိုင်းတစ်ခုဖြစ်နေတာကြာပြီဖြစ်ပေမယ့် သူမဟာ လွတ်လပ်တဲ့သဘောထားကို ထိန်းသိမ်းထားပါတယ်။ ဒါကြောင့် ဒီအခြေအနေဟာ ဒီရွေးကောက်ပွဲမှာ ဆက်ရှိနေမယ်လို့ ကျွန်တော်ထင်ပါတယ်။ ဒါဟာ သူမရဲ့လမ်းစဉ်ပါ။ ဘာလို့လဲဆိုတော့ သူမက Trump နဲ့ အရမ်းနီးကပ်သွားရင် တစ်ချို့က ဝိုး သူမ MAGA လွန်းတယ်။ သူမက ကျွန်တော့်အတွက် မသင့်တော်ဘူးလို့ ပြောလာလိမ့်မယ်။ ဒါဟာ အခြေခံအားဖြင့် ပြာပြည်နယ်တစ်ခုပါ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, you're saying there's nothing to be gained there of him coming.",
+      "cn": "ဒါကြောင့် သူ့အတွက် ဘာအကျိုးကျေးဇူးမှမရှိဘူးလို့ သင်ပြောနေတာလား။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, you guys stay with me, because we're going to talk about a couple other states this hour, as well. We're also still waiting for news about some sort of proposed deal with Iran. But in the meantime, the U.S. has launched new strikes against Iran overnight. Plus, Epstein's former assistant testifies before Congress. What she says she did not see. And a Texas teenager convicted of killing a rival track star. Why the jury rejected his claim of self-defense.",
+      "cn": "ကောင်းပြီ၊ သင်တို့ ဆက်လက်စောင့်ကြည့်နေပါ၊ ဘာလို့လဲဆိုတော့ ဒီနာရီအတွင်းမှာ တခြားပြည်နယ်အနည်းငယ်ကိုလည်း ဆွေးနွေးသွားမှာပါ။ အီရန်နဲ့ အဆိုပြုထားတဲ့ သဘောတူညီချက်တစ်ခုအကြောင်း သတင်းကိုလည်း စောင့်ဆိုင်းနေပါတယ်။ ဒါပေမယ့် တစ်ချိန်တည်းမှာပဲ အမေရိကန်ဟာ အီရန်ကို ညဘက်မှာ ထပ်မံတိုက်ခိုက်မှုအသစ်တစ်ခု ပြုလုပ်ခဲ့ပါတယ်။ ထို့အပြင် Epstein ရဲ့ လက်ထောက်ဟောင်းက ကွန်ဂရက်မှာ သက်သေခံခဲ့ပါတယ်။ သူမက ဘာမှမမြင်ခဲ့ရဘူးလို့ ပြောပါတယ်။ ပြီးတော့ Texas ပြည်နယ်က ဆယ်ကျော်သက်တစ်ဦးကို ပြိုင်ဘက်ပြေးခုန်ပစ်ကြယ်ပွင့်တစ်ဦးကို သတ်မှုအတွက် ပြစ်ဒဏ်ချမှတ်ခဲ့ပါတယ်။ ဘာကြောင့် ဂျူရီလူကြီးတွေက သူ့ရဲ့ ကိုယ်ခံပြုမှုကို ပယ်ချခဲ့တာလဲ။"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "It's just sad that it had to come to this. It was just a bad, bad decision he made.",
+      "cn": "ဒီအခြေအနေအထိ ရောက်လာတာ ဝမ်းနည်းစရာပါ။ သူဟာ အလွန်ဆိုးရွားတဲ့ ဆုံးဖြတ်ချက်တစ်ခုကို ချခဲ့တာပါ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Right now, we are following the latest round of escalation between the U.S. and Iran. U.S. CENTRAL COMMAND saying they are now finished hitting targets in Iran in response to an Army helicopter getting shot down over the Strait of Hormuz. Iran's state media, however, released new video overnight, saying they retaliated to the U.S. by attack -- by launching missiles against targets in Bahrain and Kuwait and an air base in Jordan.",
+      "cn": "လက်ရှိမှာ ကျွန်တော်တို့ဟာ အမေရိကန်နဲ့ အီရန်ကြား နောက်ဆုံးတင်းမာမှုအဆင့်ကို စောင့်ကြည့်နေပါတယ်။ အမေရိကန်ဗဟိုကွပ်ကဲမှုဌာနက Hormuz ရေလက်ကြားမှာ စစ်တပ်ရဟတ်ယာဉ်တစ်စင်း ပစ်ချခံရမှုကို တုံ့ပြန်တဲ့အနေနဲ့ အီရန်နိုင်ငံအတွင်းက ပစ်မှတ်တွေကို တိုက်ခိုက်မှုတွေ ပြီးမြောက်ခဲ့ပြီလို့ ပြောပါတယ်။ သို့သော် အီရန်နိုင်ငံပိုင်မီဒီယာတွေက ညဘက်မှာ ဗီဒီယိုအသစ်တွေ ထုတ်ပြန်ပြီး ဘာရိန်း၊ ကူဝိတ်နဲ့ ဂျော်ဒန်ရှိ လေတပ်အခြေစိုက်စခန်းတစ်ခုကို ဒုံးကျည်တွေနဲ့ ပစ်ခတ်ခြင်းအားဖြင့် အမေရိကန်ကို လက်တုံ့ပြန်ခဲ့တယ်လို့ ဆိုပါတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joining me now with the latest, CNN international correspondent Paula Hancocks in Abu Dhabi. Paula, can you talk about this? We know Iran, throughout the last couple of weeks, has -- they've tried to spread the war throughout the region. What have you heard from officials in Kuwait or Bahrain about confirmed damage?",
+      "cn": "အခု CNN နိုင်ငံတကာသတင်းထောက် Paula Hancocks ကို Abu Dhabi ကနေ ဆက်သွယ်ထားပါတယ်။ Paula၊ ဒီအခြေအနေအကြောင်း ပြောပြနိုင်မလား။ အီရန်ဟာ လွန်ခဲ့တဲ့ရက်သတ္တပတ်အနည်းငယ်အတွင်း စစ်ပွဲကို ဒေသတစ်ခုလုံးကို ပျံ့နှံ့အောင် ကြိုးစားနေတယ်ဆိုတာ ကျွန်တော်တို့သိပါတယ်။ ကူဝိတ် ဒါမှမဟုတ် ဘာရိန်းက အရာရှိတွေဆီကနေ ဆုံးရှုံးမှုအတည်ပြုချက်တွေ ကြားရလား။"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "The next few hours are going to be crucial as to whether or not this is an isolated escalation between the U.S. and Iran, or whether it is a step on the escalatory ladder. Now, at this point, we have not heard any damage assessment or casualty figures from those countries which were targeted by Iran. That is, Jordan, Kuwait, and Bahrain. Iran said that it had targeted the fifth fleet headquarters in Bahrain.",
+      "cn": "နောက်လာမယ့်နာရီအနည်းငယ်ဟာ အလွန်အရေးကြီးပါတယ်။ ဒါဟာ အမေရိကန်နဲ့ အီရန်ကြား သီးခြားတိုးမြှင့်မှုတစ်ခုလား၊ ဒါမှမဟုတ် တိုးမြှင့်မှုလှေကားထစ်တစ်ခုလားဆိုတာ ဆုံးဖြတ်ပေးပါလိမ့်မယ်။ လက်ရှိမှာ အီရန်က တိုက်ခိုက်ခဲ့တဲ့ နိုင်ငံတွေဖြစ်တဲ့ ဂျော်ဒန်၊ ကူဝိတ်နဲ့ ဘာရိန်းတို့ဆီကနေ ဆုံးရှုံးမှုအကဲဖြတ်ချက် ဒါမှမဟုတ် သေဆုံးဒဏ်ရာရသူအရေအတွက်ကို မကြားရသေးပါဘူး။ အီရန်က ဘာရိန်းရှိ ပဉ္စမရေတပ်ဌာနချုပ်ကို တိုက်ခိုက်ခဲ့တယ်လို့ ပြောပါတယ်။"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "They also say that they targeted a military base in Jordan, Kuwait, as well, saying that it was intercepting incoming aerial missiles and drones. So, what we've heard from Iran's side is that they have said that there will -- no attack will go unanswered from the United States. What we had seen from U.S.",
+      "cn": "သူတို့က ဂျော်ဒန်နဲ့ ကူဝိတ်ရှိ စစ်အခြေစိုက်စခန်းတစ်ခုကိုလည်း တိုက်ခိုက်ခဲ့ပြီး အဲဒီစခန်းက ဝင်လာတဲ့ ဝေဟင်ပစ်ဒုံးကျည်တွေနဲ့ ဒရုန်းတွေကို ကြားဖြတ်တားဆီးနေတယ်လို့ ဆိုပါတယ်။ အီရန်ဘက်ကနေ ကျွန်တော်တို့ကြားရတာက အမေရိကန်ရဲ့ တိုက်ခိုက်မှုတိုင်းဟာ တုံ့ပြန်မှုမရှိဘဲ မကျန်ရစ်ဘူးလို့ ပြောပါတယ်။ အမေရိကန်ဘက်ကနေ ကျွန်တော်တို့မြင်ရတာက..."
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "CENTRAL COMMAND is they said they had carried out what they called a, quote, \"proportional response\" to the shooting down of that Apache helicopter, saying that there were three locations along the Strait of Hormuz that were targeted. They say that they hit air defense, ground control stations, radar sites, as well. Now, one U.S.",
+      "cn": "အမေရိကန်ဗဟိုကွပ်ကဲမှုဌာနက Apache ရဟတ်ယာဉ်ပစ်ချခံရမှုအတွက် \"အချိုးကျတုံ့ပြန်မှု\" လို့ခေါ်တဲ့ တုံ့ပြန်မှုကို ပြုလုပ်ခဲ့ပြီး Hormuz ရေလက်ကြားကမ်းရိုးတန်းရှိ နေရာသုံးခုကို တိုက်ခိုက်ခဲ့တယ်လို့ ပြောပါတယ်။ သူတို့က ဝေဟင်ကာကွယ်ရေးစနစ်တွေ၊ မြေပြင်ထိန်းချုပ်ရေးစခန်းတွေနဲ့ ရေဒါစခန်းတွေကိုလည်း တိုက်ခိုက်ခဲ့တယ်လို့ ဆိုပါတယ်။ အခုတော့ အမေရိကန်အရာရှိတစ်ဦးက CNN ကို ပြောတာက ဒါဟာ အီရန်ကို သတိပေးချက်တစ်ခုဖြစ်ပြီး သူတို့ဟာ စေ့စပ်ညှိနှိုင်းမှုလမ်းကြောင်းကို ဆက်လက်ထိန်းသိမ်းထားနိုင်ဖို့ မျှော်လင့်ပြီး ဒီစေ့စပ်ညှိနှိုင်းမှုတွေကို အတားအဆီးမဖြစ်စေချင်ဘူးလို့ ဆိုပါတယ်။ ဒါပေမယ့် အီရန်နိုင်ငံခြားရေးဝန်ကြီးဌာနပြောရေးဆိုခွင့်ရှိသူဆီကနေ ကျွန်တော်တို့ကြားရတာက အီရန်ဟာ စေ့စပ်ညှိနှိုင်းမှုတွေကို ပြန်လည်အကဲဖြတ်နေပြီး အမေရိကန်ကို စေ့စပ်ညှိနှိုင်းမှုမှာ ရိုးသားမှုမရှိဘူးလို့ စွပ်စွဲထားပါတယ်။"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "official telling CNN that this was really intended to be a warning to Iran, and they do hope that they will still be able to keep the talks on track, that it won't hinder those talks, although we've heard from Iran's foreign ministry spokesperson that Iran is reviewing negotiations at this point, accusing the U.S. of negotiating in bad faith, Audie.",
+      "cn": "ကောင်းပြီ။ ဒါဟာ Paula Hancocks ရဲ့ နောက်ဆုံးသတင်းပါ။ ကျေးဇူးအများကြီးတင်ပါတယ်။ အခုအချိန်က နာရီကျော် ၁၇ မိနစ်ပါ။ မနက်ခင်းအကျဉ်းချုပ်ကို တင်ပြချင်ပါတယ်။ ဒီနေ့မှာ အောက်လွှတ်တော်ကြီးကြပ်ရေးကော်မတီက Microsoft ဘီလျံနာသူဌေး Bill Gates ရဲ့ သက်သေခံချက်ကို တံခါးပိတ်ကြားနာမယ်။ သူဟာ Jeffrey Epstein နဲ့ လုပ်ငန်းဆိုင်ရာဆက်ဆံရေးအကြောင်း သက်သေခံဖို့ စီစဉ်ထားပါတယ်။ Gates ကို မည်သည့်မသင့်လျော်မှုမှ စွဲချက်မတင်ထားပါဘူး။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. That's Paula Hancocks with that update. Thank you so much. It is now 17 minutes past the hour. I want to give you your morning roundup. Happening today, the House Oversight Committee will hear from Microsoft billionaire Bill Gates behind closed doors. He's scheduled to testify about his professional relationship with Jeffrey Epstein. Gates has not been accused of wrongdoing.",
+      "cn": "တစ်ချိန်တည်းမှာပဲ Epstein ရဲ့ လက်ထောက်ဟောင်း Lesley Groff က အင်္ဂါနေ့မှာ သက်သေခံရင်း \"မည်သည့်မသင့်လျော်သော သို့မဟုတ် တရားမဝင်သော အပြုအမူကိုမျှ မမြင်ဖူးဘူး\" လို့ ပြောပါတယ်။ သူမက လွှတ်တော်အမတ်တွေကို ပြောတာက သူမဟာ Epstein နဲ့ Donald Trump တို့ကို Trump သမ္မတမဖြစ်မီက အကြိမ်ပေါင်းများစွာ ဖုန်းပြောဆိုမှုတွေ စီစဉ်ပေးခဲ့တယ်လို့ ဆိုပါတယ်။ သမ္မတ Trump ကို Epstein နဲ့ မည်သည့်မသင့်လျော်မှုမှ စွဲချက်မတင်ထားပါဘူး။ Texas ပြည်နယ်မှာ ဆယ်ကျော်သက်တစ်ဦးကို ပြိုင်ဘက်အသင်းက အသက် ၁၇ နှစ်အရွယ် ပြေးခုန်ပစ်ကြယ်ပွင့်ကို ဓားနဲ့ထိုးသတ်မှုအတွက် လူသတ်မှုဖြင့် ပြစ်ဒဏ်ချမှတ်ပြီး ထောင်ဒဏ် ၃၅ နှစ် ချမှတ်ခဲ့ပါတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Meanwhile, Epstein's former assistant, Lesley Groff, testified on Tuesday, saying that she, quote, \"never witnessed anything improper or illegal.\" She also told lawmakers she arranged multiple calls between Epstein and Donald Trump before he was president. President Trump is not accused of any wrongdoing in connection to Epstein. And in Texas, a teen who fatally stabbed a 17-year-old track athlete from a rival team has been convicted of murder and sentenced to 35 years in prison.",
+      "cn": "ဂျူရီအဖွဲ့သည် Carmelo Anthony က ပြီးခဲ့သည့်နှစ်က အားကစားကွင်းရှိ ထိုင်ခုံတန်းတွင် Austin Metcalfe နှင့် ထိပ်တိုက်ရင်ဆိုင်မှုအတွင်း မိမိကိုယ်ကို ခုခံကာကွယ်ခဲ့သည်ဟူသော ပြောဆိုချက်ကို ပယ်ချခဲ့သည်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "A jury rejected Karmelo Anthony's claims of self-defense during a confrontation with Austin Metcalf in the stadium bleachers last year.",
+      "cn": "ဒီအခြေအနေအထိ ရောက်သွားတာ ဝမ်းနည်းစရာပါ။ သူဟာ အလွန်ဆိုးရွားတဲ့ ဆုံးဖြတ်ချက်တစ်ခုကို ချခဲ့တယ်။ ဒါပေမယ့် သူဟာ အသက်တစ်ချောင်းကို သတ်ပစ်ခဲ့တယ်။ ကံမကောင်းစွာပဲ၊ လူငယ်နှစ်ယောက်ရဲ့ ဘဝဟာ ဒီလောက်အထိ ဆိုးရွားစွာ ထိခိုက်သွားခဲ့တယ်။"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "It's just sad that it had to come to this. It was just a bad, bad decision he made. But he took a life. And it's unfortunate that two young lives are affected so negatively about this.",
+      "cn": "ဒီအခြေအနေအထိ ရောက်သွားတာ ဝမ်းနည်းစရာပါ။ သူဟာ အလွန်ဆိုးရွားတဲ့ ဆုံးဖြတ်ချက်တစ်ခုကို ချခဲ့တယ်။ ဒါပေမယ့် သူဟာ အသက်တစ်ချောင်းကို သတ်ပစ်ခဲ့တယ်။ ကံမကောင်းစွာပဲ၊ လူငယ်နှစ်ယောက်ရဲ့ ဘဝဟာ ဒီလောက်အထိ ဆိုးရွားစွာ ထိခိုက်သွားခဲ့တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Anthony did not testify. His mother took the stand during the sentencing phase, telling jurors her son was sorry. And CNN now projecting Republican Steve Hilton will advance to the November election in the California governor's race against Democrat Xavier Becerra. Becerra, the former health secretary, finished on top with nearly 28 percent of the vote, three points ahead of Hilton, a former FOX News host who has President Trump's endorsement.",
+      "cn": "Anthony က သက်သေမထွက်ခဲ့ပါ။ သူ့အမေက ပြစ်ဒဏ်ချမှတ်သည့်အဆင့်တွင် တရားရုံးသို့ လာရောက်ကာ သူ့သား ဝမ်းနည်းကြောင်း ဂျူရီအဖွဲ့အား ပြောကြားခဲ့သည်။ CNN က ရီပတ်ဘလီကန် Steve Hilton သည် နိုဝင်ဘာလ ကယ်လီဖိုးနီးယားပြည်နယ် အုပ်ချုပ်ရေးမှူးရွေးကောက်ပွဲတွင် ဒီမိုကရက်တစ် Xavier Becerra ကို ဆန့်ကျင်ယှဉ်ပြိုင်ရန် တက်လာမည်ဟု ခန့်မှန်းထားသည်။ ယခင် ကျန်းမာရေးဝန်ကြီး Becerra သည် မဲရာခိုင်နှုန်း ၂၈ နီးပါးဖြင့် ထိပ်ဆုံးမှ ရပ်တည်နေပြီး သမ္မတ Trump ၏ ထောက်ခံမှုရရှိထားသော ယခင် Fox News အစီအစဉ်တင်ဆက်သူ Hilton ကို သုံးရာခိုင်နှုန်းဖြင့် ဦးဆောင်နေသည်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "STEVE HILTON (R), CALIFORNIA GUBERNATORIAL CANDIDATE; Californians will have a real choice for change in November. Whether they want to keep going with the policies that have brought us to the highest poverty rate, the highest unemployment rate, the highest cost of living in the country, where they want more of that with Xavier Becerra, or whether they want to go in a new direction.",
+      "cn": "Steve Hilton (ရီပတ်ဘလီကန်), ကယ်လီဖိုးနီးယား အုပ်ချုပ်ရေးမှူးလောင်း- ကယ်လီဖိုးနီးယားပြည်သူတွေဟာ နိုဝင်ဘာလမှာ တကယ့်ပြောင်းလဲမှုအတွက် ရွေးချယ်ခွင့်တစ်ခု ရရှိမှာပါ။ သူတို့ဟာ ကျွန်တော်တို့နိုင်ငံရဲ့ အမြင့်ဆုံး ဆင်းရဲမွဲတေမှုနှုန်း၊ အမြင့်ဆုံး အလုပ်လက်မဲ့နှုန်း၊ အမြင့်ဆုံး နေထိုင်မှုစရိတ်ကို ဖြစ်စေတဲ့ မူဝါဒတွေကို ဆက်လက်ကျင့်သုံးချင်ကြသလား၊ ဒါမှမဟုတ် Xavier Becerra နဲ့အတူ ဆက်လုပ်ချင်ကြသလား၊ ဒါမှမဟုတ် လမ်းကြောင်းသစ်ဆီ သွားချင်ကြသလား။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I have to ask quickly: if Hilton does well, is California still going to be the corrupt election state that Republicans are saying it is?",
+      "cn": "ကျွန်တော် မြန်မြန်မေးရမယ်- Hilton ကောင်းကောင်းလုပ်ရင် ကယ်လီဖိုးနီးယားဟာ ရီပတ်ဘလီကန်တွေ ပြောနေကျ အကျင့်ပျက်ရွေးကောက်ပွဲပြည်နယ် ဖြစ်နေဦးမှာလား။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "Yes. I mean, the question is how well, of course. How much can he actually make some --",
+      "cn": "ဟုတ်တယ်။ ဆိုလိုတာက သူ ဘယ်လောက်ကောင်းကောင်းလုပ်လဲဆိုတဲ့ ပြဿနာပါ။ သူ တကယ်ရနိုင်တဲ့ ပမာဏက -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Is there a certain threshold after which --",
+      "cn": "ကျော်လွန်သွားရင် -- -- ဆိုတဲ့ အတိုင်းအတာတစ်ခု ရှိလား။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- it's no longer considered corrupt if a Republican wins?",
+      "cn": "-- -- ရီပတ်ဘလီကန်တစ်ယောက် အနိုင်ရရင် အကျင့်ပျက်လို့ မသတ်မှတ်တော့ဘူးလား။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "Well, you know, you know what? Especially given the state, it'll depend on how the votes are counted. I feel that especially after the next --",
+      "cn": "ဟုတ်တယ်။ မင်းသိလား။ အထူးသဖြင့် ဒီပြည်နယ်ကို ထည့်စဉ်းစားရင် မဲတွေကို ဘယ်လိုရေတွက်မလဲဆိုတာအပေါ် မူတည်ပါတယ်။ နောက်တစ်ကြိမ်မှာ အထူးသဖြင့် -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But you can see why I'm asking, right? Like, if he wins, it's fine. But if he doesn't win, it's corrupt.",
+      "cn": "ဟုတ်တယ်။ ဒါပေမယ့် ငါဘာလို့ဒီလိုမေးတာလဲ မင်းနားလည်တယ်ဟုတ်လား။ ဥပမာ၊ သူအနိုင်ရရင် ပြဿနာမရှိဘူး။ ဒါပေမယ့် သူမအနိုင်ရရင် အကျင့်ပျက်တယ်လို့ ပြောတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But if he wins, it's still corrupt, but somehow --",
+      "cn": "ဒါပေမယ့် သူအနိုင်ရရင်တောင် အကျင့်ပျက်နေသေးတယ်၊ ဒါပေမယ့် တစ်နည်းနည်းနဲ့ -- --"
+    },
+    {
+      "speaker": "Rose",
+      "text": "Maybe, maybe. I think it's still fairly unlikely that he's going to win this race. I will also say that it's been the process in California taking so long to discover who --",
+      "cn": "ဖြစ်နိုင်တယ်၊ ဖြစ်နိုင်တယ်။ သူဒီရွေးကောက်ပွဲမှာ အနိုင်ရဖို့ အခွင့်အလမ်းနည်းနေတုန်းပဲလို့ ကျွန်တော်ထင်တယ်။ ကယ်လီဖိုးနီးယားက ကိုယ်စားလှယ်ရွေးချယ်တဲ့ လုပ်ငန်းစဉ်က အချိန်အကြာကြီးယူတယ်ဆိုတာလည်း ပြောချင်တယ် --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, everyone's talking about that.",
+      "cn": "ဟုတ်တယ်၊ လူတိုင်းဒီအကြောင်းပြောနေကြတယ်။"
+    },
+    {
+      "speaker": "Rose",
+      "text": "-- is going to win it. Everybody's talking about this.",
+      "cn": "-- အနိုင်ရလိမ့်မယ်။ လူတိုင်းဒီအကြောင်းပြောနေကြတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But everyone's disagreeing on what that means.",
+      "cn": "ဒါပေမယ့် လူတိုင်းက ဒီအဓိပ္ပာယ်ကို သဘောမတူကြဘူး။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's by definition nefarious.",
+      "cn": "ဒါက သူ့ဘာသာ ဆိုးယုတ်တယ်။"
+    },
+    {
+      "speaker": "Rose",
+      "text": "But it makes people uncomfortable with the results.",
+      "cn": "ဒါပေမယ့် ဒါက လူတွေကို ရလဒ်အတွက် စိတ်မသက်မသာဖြစ်စေတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I have to mention one other thing, just because the number's astounding. Tom Steyer's spending: 215 million. I'm not good at long division, so I didn't want to know how much per voter that spend was, and I can't do it. I can't do it. And someone on -- online was saying, oh, have you ever heard of effective altruism, and that this was ineffective altruism, basically.",
+      "cn": "နောက်တစ်ခုပြောရမှာက ကိန်းဂဏန်းတွေက အံ့ဩစရာကောင်းလို့ပါ။ Tom Steyler ရဲ့ အသုံးစရိတ်- ဒေါ်လာ ၂၁၅ သန်း။ ကျွန်တော် ရှည်လျားတဲ့ စားလုံးတွေကို မတွက်တတ်ဘူး၊ ဒါကြောင့် မဲဆန္ဒရှင်တစ်ယောက်အတွက် ဘယ်လောက်ကုန်ကျလဲဆိုတာ မသိချင်ဘူး၊ တွက်လည်းမရဘူး။ ကျွန်တော် တွက်လို့မရဘူး။ အွန်လိုင်းမှာ တစ်ယောက်ယောက်က ပြောတယ်၊ အိုး၊ ထိရောက်တဲ့ ပရဟိတလုပ်ငန်းအကြောင်း ကြားဖူးလား။ ဒါက အခြေခံအားဖြင့် ထိရောက်မှုမရှိတဲ့ ပရဟိတလုပ်ငန်းပဲ။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Basically, an ROI in the business term, right? You need a return on that investment. This is twice for Steyer now. He has not gotten that ROI. When is enough, enough? If I had that kind of money, I would invest it in something else. He has tried this political acumen.",
+      "cn": "အခြေခံအားဖြင့် စီးပွားရေးအသုံးအနှုန်းနဲ့ဆိုရင် ရင်းနှီးမြှုပ်နှံမှုအပေါ် ပြန်အမ်းငွေ (ROI) ပေါ့။ ရင်းနှီးမြှုပ်နှံမှုအပေါ် ပြန်အမ်းငွေ လိုတယ်။ ဒါက Steyler အတွက် ဒုတိယအကြိမ်ပဲ။ သူ အဲဒီပြန်အမ်းငွေကို မရဘူး။ ဘယ်အချိန်မှာ လုံလောက်မှာလဲ။ ကျွန်တော့်မှာ အဲဒီလောက်ငွေရှိရင် တခြားနေရာမှာ ရင်းနှီးမြှုပ်နှံမယ်။ သူ ဒီနိုင်ငံရေးလှည့်ကွက်ကို ကြိုးစားပြီးပြီ။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "It has not worked out.",
+      "cn": "ဒါပေမယ့် မအောင်မြင်ဘူး။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. I was about to say --",
+      "cn": "ဟုတ်တယ်။ ကျွန်တော်ပြောချင်တာက --"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Voters have said that.",
+      "cn": "မဲဆန္ဒရှင်တွေ ဒီလိုပြောပြီးပြီ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The voters have rejected it.",
+      "cn": "မဲဆန္ဒရှင်တွေ ဒါကို ပယ်ချပြီးပြီ။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Especially with the billionaire. When the billionaire class. We've got AOC and others that have talked about the billionaire class, and we have somebody here spending his own money like this, it seems like a waste where it could be invested in other.",
+      "cn": "အထူးသဖြင့် ထိုဘီလျံနာသူဌေးကြီးပါ။ ဘီလျံနာအဆင့်အကြောင်းပြောရင် AOC နဲ့ တခြားသူတွေ ပြောဖူးပါတယ်။ အခုလို ကိုယ့်ငွေကိုယ်သုံးတာက ဖြုန်းတီးမှုလို့ထင်ရပြီး ဒီငွေကို တခြားနေရာတွေမှာ ရင်းနှီးမြှုပ်နှံနိုင်ပါတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, it's been a wild race coming from last year to all of a sudden have Becerra at the front.",
+      "cn": "ဟုတ်ကဲ့၊ မနှစ်ကတည်းက ဒီရွေးကောက်ပွဲဟာ အပြိုင်အဆိုင်ဖြစ်ခဲ့ပြီး ရုတ်တရက် Bacerra က ဦးဆောင်သွားတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We couldn't have seen that then.",
+      "cn": "ကျွန်တော်တို့ အဲဒါကို မျှော်လင့်မထားခဲ့ဘူး။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, after the break on CNN THIS MORNING, two controversial to win? So, the Colorado frontrunner for governor claims he killed a man when he was 7 years old. I have more stories like that from him. Plus, A.I. companies are rushing to the stock market. Is it the next tech boom or is the A.I. bubble about to burst? And for viewers watching us from right here in New York City, Knicks versus Spurs again tonight at the Garden. Good morning.",
+      "cn": "အခု CNN This Morning ရဲ့ အနားယူချိန်ပြီးရင်၊ အငြင်းပွားဖွယ်အောင်ပွဲနှစ်ခုလား။ Colorado ပြည်နယ်အုပ်ချုပ်ရေးမှူးရွေးကောက်ပွဲမှာ ဦးဆောင်သူက သူ ၇ နှစ်သားအရွယ်မှာ လူတစ်ယောက်ကိုသတ်ခဲ့တယ်လို့ပြောတယ်။ သူ့အကြောင်း နောက်ထပ်ပုံပြင်တွေလည်းရှိတယ်။ ဒါ့အပြင် AI ကုမ္ပဏီတွေက အများပိုင်ကုမ္ပဏီဖြစ်ဖို့ အပြိုင်အဆိုင်လုပ်နေကြတယ်။ ဒါက နောက်ထပ် နည်းပညာတိုးတက်မှုလား၊ ဒါမှမဟုတ် AI ပူဖောင်းပေါက်တော့မှာလား။ New York City မှာ ကျွန်တော်တို့ကိုကြည့်နေတဲ့ပရိသတ်အတွက်၊ ဒီည Knicks အသင်းက Garden မှာ Spurs ကို ထပ်မံကစားမယ်။ မင်္ဂလာနံနက်ခင်းပါ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, a bunch of IPOs in the A.I. sector are about to hit Wall Street after OpenAI announced on Monday it filed for an initial public offering, an IPO. The three biggest A.I. companies are now in line to go public, as well. That includes Anthropic and SpaceX. A fourth, Perplexity, is expected to file in 2028.",
+      "cn": "ဒါကြောင့် OpenAI က တနင်္လာနေ့မှာ IPO လျှောက်လွှာတင်ကြောင်းကြေညာပြီးနောက် AI IPO တွေ Wall Street ကိုရောက်လာတော့မယ်။ အကြီးဆုံး AI ကုမ္ပဏီသုံးခုဖြစ်တဲ့ Anthropic နဲ့ SpaceX တို့လည်း မကြာခင် အများပိုင်ဖြစ်တော့မယ်။ စတုတ္ထမြောက်ကုမ္ပဏီ Perplexity က 2028 ခုနှစ်မှာ လျှောက်လွှာတင်မယ်လို့ ခန့်မှန်းရတယ်။"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "We're talking about it. Where the American people can benefit from the success of A.I. And by doing that, they're going to like it better. Because we're leading China. We're leading everybody in the world with A.I., and we want to keep it that way. It's like you make them a partnership in this revolution. It would be a beautiful thing.",
+      "cn": "ကျွန်တော်တို့ ဒီအကြောင်းကို ဆွေးနွေးနေပါတယ်။ အမေရိကန်ပြည်သူတွေဟာ AI ရဲ့အောင်မြင်မှုကနေ အကျိုးခံစားနိုင်ပါတယ်။ ဒီလိုလုပ်ခြင်းအားဖြင့် သူတို့က ပိုပြီးသဘောကျလာမယ်။ ဘာလို့လဲဆိုတော့ ကျွန်တော်တို့ဟာ AI မှာ တရုတ်နဲ့ ကမ္ဘာ့နိုင်ငံအားလုံးကို ဦးဆောင်နေတယ်၊ ဒီအနေအထားကို ဆက်ထိန်းထားချင်တယ်။ ဒါက သူတို့ကို ဒီတော်လှန်ရေးရဲ့ မိတ်ဖက်တွေဖြစ်စေသလိုပါပဲ။ ဒါဟာ လှပတဲ့အရာတစ်ခုဖြစ်လိမ့်မယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, investors who get in early could make a fortune. But has the A.I. boom gotten ahead of itself? Madison Mills joins the group chat. She's the senior A.I. reporter at Axios. You guys have done some fantastic reporting on this industry. Just to show people the amount of money at stake. When you look at OpenAI and SpaceX and Anthropic, there were 3.5 trillion. We dug around, and we found out that's, like, as much money as, you know, France. Like, OK? So, we're dealing with a lot of money.",
+      "cn": "အခု အစောပိုင်းမှာဝင်တဲ့ ရင်းနှီးမြှုပ်နှံသူတွေ ငွေအမြောက်အမြားရှာနိုင်တယ်။ ဒါပေမယ့် AI ရဲ့ဖွံ့ဖြိုးမှုက အချိန်မတိုင်သေးဘူးလား။ Madison Mills က ဆွေးနွေးပွဲထဲဝင်လာတယ်။ သူမက Axios ရဲ့ အကြီးတန်း AI သတင်းထောက်ပါ။ ခင်ဗျားတို့က ဒီလုပ်ငန်းအကြောင်း ကောင်းကောင်းသတင်းပို့တယ်။ ပါဝင်တဲ့ငွေပမာဏကို လူတွေကိုပြဖို့ပါ။ OpenAI, SpaceX နဲ့ Anthropic တို့ကို ကြည့်ရင် စုစုပေါင်းတန်ဖိုး ၃.၅ ထရီလီယံဒေါ်လာရှိတယ်။ ကျွန်တော်တို့ တူးဖော်ကြည့်တော့ ဒါက ပြင်သစ်နိုင်ငံရဲ့ စီးပွားရေးအရွယ်အစားနဲ့ ညီမျှတယ်၊ ဟုတ်တယ်မလား။ ဒါကြောင့် ငွေအမြောက်အမြားနဲ့ ရင်ဆိုင်နေရတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But is it a bubble? And I ask because we've got some people on TikTok who think that it is. I'm going to play for you, the finance experts online.",
+      "cn": "ဒါပေမယ့် ဒါက ပူဖောင်းလား။ ဒီမေးခွန်းကို TikTok ပေါ်က တချို့လူတွေက ပူဖောင်းလို့ထင်လို့မေးတာပါ။ အွန်လိုင်းက ဘဏ္ဍာရေးကျွမ်းကျင်သူတွေပြောတာကို ဖွင့်ပြပါမယ်။"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "A.I. companies are now trying to save themselves by applying for IPOs.",
+      "cn": "AI ကုမ္ပဏီတွေက အခု IPO လျှောက်ထားခြင်းအားဖြင့် မိမိတို့ကိုယ်ကို ကယ်တင်ဖို့ကြိုးစားနေတယ်။"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "OpenAI and Anthropic plan to have IPOs at release before the end of this year, signaling to me that the A.I. bubble is about to pop and that these insiders and institutional investors know that they better cash out now, or they may not ever get the chance.",
+      "cn": "OpenAI နဲ့ Anthropic တို့က ဒီနှစ်ကုန်မှာ IPO လုပ်ဖို့စီစဉ်နေတာက AI ပူဖောင်းပေါက်တော့မယ်လို့ ကျွန်တော့်ကိုပြတယ်။ ဒီအတွင်းလူတွေနဲ့ အဖွဲ့အစည်းဆိုင်ရာရင်းနှီးမြှုပ်နှံသူတွေက အခုငွေထုတ်တာ အကောင်းဆုံးဆိုတာ သိကြတယ်၊ ဒါမှမဟုတ် နောက်တစ်ခါအခွင့်အရေးရမှာမဟုတ်ဘူး။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Why is this the word on the street?",
+      "cn": "ဘာလို့ ဒါက ကောလဟာလဖြစ်တာလဲ။"
+    },
+    {
+      "speaker": "Madison Mills",
+      "text": "Yes, I would push back on a lot of the financial finfluencing that we hear about on finance.",
+      "cn": "ဟုတ်တယ်၊ ကျွန်တော် ဘဏ္ဍာရေးနယ်ပယ်မှာ ကြားရတဲ့ finfluencer တွေရဲ့ပြောဆိုချက်တွေကို ငြင်းဆန်ပါမယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Finfluencing. You said it. Go on.",
+      "cn": "ဘဏ္ဍာရေးဆိုင်ရာ အင်ဖလူရန်ဆာ။ မင်းပြောတာမှန်တယ်။ ဆက်လုပ်ပါ။"
+    },
+    {
+      "speaker": "Mills",
+      "text": "Yes. But -- but just because companies are IPOing doesn't necessarily mean that the bubble is going to happen this Friday when SpaceX lists on the",
+      "cn": "ဟုတ်တယ်။ ဒါပေမယ့် -- -- ကုမ္ပဏီတစ်ခု အများပိုင်ဖြစ်ရုံနဲ့ ဒီသောကြာနေ့ SpaceX အများပိုင်ဖြစ်တဲ့အခါ ပူဖောင်းပေါက်မယ်လို့ မဆိုလိုပါဘူး။"
+    },
+    {
+      "speaker": "Mills",
+      "text": "Right? But the concept of the bubble is this idea that valuations are completely divorced from reality: the underlying business fundamentals, the things that we would learn about in journalism and business school --",
+      "cn": "ဟုတ်တယ်နော်။ ဒါပေမယ့် ပူဖောင်းဆိုတဲ့ အယူအဆက တန်ဖိုးဖြတ်ခြင်းဟာ လက်တွေ့နဲ့ လုံးဝကင်းကွာနေတာကို ဆိုလိုတယ်- သတင်းတွေနဲ့ စီးပွားရေးကျောင်းမှာ သင်ယူခဲ့တဲ့ -- --"
+    },
+    {
+      "speaker": "Mills",
+      "text": "-- that make a company profitable, right?",
+      "cn": "-- -- ကုမ္ပဏီတွေကို အမြတ်အစွန်းရစေတဲ့ အခြေခံအချက်တွေနဲ့ ကင်းကွာနေတာပါ။ ဟုတ်တယ်နော်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, the street phrase would be they're high on their own supply?",
+      "cn": "ဒါဆို ဗန်းစကားအရ သူတို့ဟာ ကိုယ်ထုတ်ကိုယ်ရောင်းလား။"
+    },
+    {
+      "speaker": "Mills",
+      "text": "Absolutely. And that's very clear with a company like SpaceX. Their expected valuation is $1.8 trillion. They're trading at about 90 times their sales -- not their profits, just their sales -- as of this Friday, when they're expected to list. So, that is an example of a company you might look at and say, not sure if the valuation is high.",
+      "cn": "လုံးဝမှန်တယ်။ SpaceX လိုကုမ္ပဏီမျိုးမှာ သိသာထင်ရှားတယ်။ သူတို့ရဲ့ မျှော်မှန်းတန်ဖိုးက ၁.၈ ထရီလီယံဒေါ်လာရှိတယ်။ ဒီသောကြာနေ့ သူတို့ အများပိုင်ဖြစ်မယ်လို့ မျှော်လင့်တဲ့အခါ ရောင်းအားရဲ့ ၉၀ ဆလောက်နဲ့ အရောင်းအဝယ်ဖြစ်မယ် -- -- အမြတ်မဟုတ်ဘူး၊ ရောင်းအားပဲ။ ဒါကြောင့် ဒါက ဥပမာတစ်ခုပဲ၊ မင်းကြည့်လိုက်ရင် တန်ဖိုးဖြတ်ခြင်းက မြင့်လွန်းသလားဆိုတာ မသေချာဘူးလို့ ပြောနိုင်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I know. There's also this thing I've been learning about circular financing.",
+      "cn": "ငါသိတယ်။ ငါလည်း လည်ပတ်ငွေကြေးထောက်ပံ့မှုလို့ခေါ်တဲ့ အရာတစ်ခုကို လေ့လာခဲ့တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, I'm understanding this as, you use money from one A.I. company to do work in your A.I. company. and then another A.I. company gets work from you. It's like the same money going around and around. Do I have that right?",
+      "cn": "ဒါဆို ငါနားလည်တာက မင်းက AI ကုမ္ပဏီတစ်ခုဆီက ပိုက်ဆံယူပြီး မင်းရဲ့ AI ကုမ္ပဏီအလုပ်အတွက် သုံးတယ်၊ နောက် AI ကုမ္ပဏီတစ်ခုက မင်းဆီက အလုပ်ရတယ်။ ဒါက ပိုက်ဆံတစ်ခုတည်း လည်ပတ်နေသလိုပဲ။ ငါနားလည်တာ မှန်လား။"
+    },
+    {
+      "speaker": "Mills",
+      "text": "Absolutely. That's perfect. And part of --",
+      "cn": "လုံးဝမှန်တယ်။ ကောင်းကောင်းပြောတယ်။ တစ်စိတ်တစ်ပိုင်းအနေနဲ့ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm ready to finfluence.",
+      "cn": "ငါ ဘဏ္ဍာရေးဆိုင်ရာ လွှမ်းမိုးမှုလုပ်ဖို့ အဆင်သင့်ဖြစ်နေပြီ။"
+    },
+    {
+      "speaker": "Mills",
+      "text": "You're ready to finfluence. And more than that, you can be the CFO of an A.I. company. You know? But part of the problem with that is that Anthropic can -- or OpenAI, any of the A.I. labs, can book that as revenue. And that feeds into that valuation number that we're getting. But that revenue could also just be money that they are getting from Google, that then they're giving back to Google in the form of compute capacity. And then Google has that compute capacity and is giving it over to another A.I. lab.",
+      "cn": "မင်း ဘဏ္ဍာရေးဆိုင်ရာ လွှမ်းမိုးမှုလုပ်ဖို့ အဆင်သင့်ဖြစ်နေပြီ။ ဒါတင်မကဘူး၊ မင်း AI ကုမ္ပဏီတစ်ခုရဲ့ CFO ဖြစ်လို့ရတယ်၊ မင်းသိလား။ ဒါပေမယ့် ပြဿနာရဲ့ တစ်စိတ်တစ်ပိုင်းက Anthropic ဒါမှမဟုတ် OpenAI လို AI ဓာတ်ခွဲခန်းတိုင်းက ဒီပိုက်ဆံကို ၀င်ငွေအဖြစ် မှတ်တမ်းတင်နိုင်တယ်။ ဒါက ငါတို့မြင်ရတဲ့ တန်ဖိုးဖြတ်ကိန်းဂဏန်းတွေကို သက်ရောက်မှုရှိတယ်။ ဒါပေမယ့် အဲဒီ၀င်ငွေတွေက သူတို့ Google ဆီကရတဲ့ပိုက်ဆံဖြစ်နိုင်တယ်၊ ပြီးတော့ သူတို့က Google ကို တွက်ချက်မှုစွမ်းအားအဖြစ် ပြန်ပေးတယ်။ ပြီးတော့ Google က အဲဒီတွက်ချက်မှုစွမ်းအားကို ပိုင်ဆိုင်ပြီး တခြား AI ဓာတ်ခွဲခန်းကို ပြန်ပေးတယ်။"
+    },
+    {
+      "speaker": "Mills",
+      "text": "And so, it's all very circular right now. And that's the concern.",
+      "cn": "ဒါကြောင့် အခုအားလုံးက အလွန်လည်ပတ်နေတယ်။ ဒါက စိုးရိမ်စရာပဲ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And it's giving shell game. I'm going to listen to you, because I believe that this market is the future. I understand that, but I think people rightly have questions. var CNN = CNN || {};",
+      "cn": "ဒါက လှည့်ကွက်တစ်ခုလို ဖြစ်နေတယ်။ မင်းပြောတာကို ငါနားထောင်မယ်၊ ဘာလို့လဲဆိုတော့ ဒီစျေးကွက်က အနာဂတ်လို့ ငါယုံကြည်တယ်။ ငါဒါကိုနားလည်တယ်၊ ဒါပေမယ့် လူတွေမှာ မေးခွန်းတွေရှိတာ ကျိုးကြောင်းဆီလျော်တယ်လို့ ငါထင်တယ်။"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "I'm going to listen to you because I believe that this market is the future. I understand that. But I think people, rightly, have questions. There are a ton of people who are pushing back on A.I. right now. You've got some local municipalities super upset about data centers coming near them. Yesterday we played Brad Paisley in Nashville, upset there might be a data center next to the zoo.",
+      "cn": "မင်းပြောတာကို ငါနားထောင်မယ်၊ ဘာလို့လဲဆိုတော့ ဒီစျေးကွက်က အနာဂတ်လို့ ငါယုံကြည်တယ်။ ငါဒါကိုနားလည်တယ်။ ဒါပေမယ့် လူတွေမှာ မေးခွန်းတွေရှိတာ ကျိုးကြောင်းဆီလျော်တယ်လို့ ငါထင်တယ်။ အခု လူအများကြီးက AI ကို ဆန့်ကျင်နေကြတယ်။ အချို့ဒေသဆိုင်ရာအစိုးရတွေက ဒေတာစင်တာတွေကို သူတို့အနီးမှာ ဆောက်တာကို အလွန်မကျေမနပ်ဖြစ်နေကြတယ်။ မနေ့က Nashville မှာ Brad Paisley ရဲ့အစီအစဉ်ကို ထုတ်လွှင့်ခဲ့တယ်၊ အဲဒီမှာ လူတွေက တိရစ္ဆာန်ရုံဘေးမှာ ဒေတာစင်တာတစ်ခု ဆောက်နိုင်တာကို မကျေမနပ်ဖြစ်နေကြတယ်။"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Here at CNN I want to disclose, we're currently suing Perplexity, alleging that the company is unlawfully copying and sharing CNN content in its summaries. I've also heard of people complaining about the summaries as well. How does that figure in to how investors look at this industry, which is facing massive blowback? MADISON MILLS, SENIOR A.I. REPORTER, \"AXIOS\": Yes, this A.I. hate wave that we're seeing could be a real problem for these A.I.",
+      "cn": "CNN မှာ၊ ကျွန်တော်တို့ လက်ရှိ Perplexity ကို တရားစွဲဆိုနေတယ်ဆိုတာ ထုတ်ဖော်ပြောကြားလိုပါတယ်၊ ကုမ္ပဏီက ၎င်း၏အကျဉ်းချုပ်များတွင် CNN ၏အကြောင်းအရာများကို တရားမဝင်ကူးယူပြီး မျှဝေသည်ဟု စွပ်စွဲထားပါတယ်။ ဒီအကျဉ်းချုပ်တွေနဲ့ပတ်သက်ပြီး တိုင်ကြားမှုတွေလည်း ကြားနေရတယ်။ ဒါက ကြီးမားတဲ့တုံ့ပြန်မှုကို ရင်ဆိုင်နေရတဲ့ ဒီလုပ်ငန်းကို ရင်းနှီးမြှုပ်နှံသူတွေ ဘယ်လိုမြင်လဲဆိုတာကို ဘယ်လိုသက်ရောက်မှုရှိလဲ။ Axios မှ အကြီးတန်း AI သတင်းထောက် Madison Mills: ဟုတ်တယ်၊ ကျွန်တော်တို့မြင်နေရတဲ့ ဒီ AI အမုန်းတရားလှိုင်းက ဒီ AI ကုမ္ပဏီတွေအတွက် တကယ့်ပြဿနာတစ်ခု ဖြစ်လာနိုင်တယ်။"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "companies because they need something called compute that's like the currency, the energy fueling the A.I. race. If the A.I. labs can't get their data centers, then they can't get the compute that they need to service your queries.",
+      "cn": "ဘာလို့လဲဆိုတော့ သူတို့မှာ compute လို့ခေါ်တဲ့ အရာတစ်ခု လိုအပ်တယ်၊ ဒါက ငွေကြေးလိုပဲ၊ AI ပြိုင်ပွဲကို တွန်းအားပေးတဲ့ စွမ်းအင်ဖြစ်တယ်။ AI ဓာတ်ခွဲခန်းတွေက ဒေတာစင်တာတွေကို မရရှိနိုင်ရင်၊ သူတို့က သုံးစွဲသူတွေရဲ့မေးခွန်းတွေကို လုပ်ဆောင်ဖို့လိုအပ်တဲ့ compute ကို မရရှိနိုင်ဘူး။"
+    },
+    {
+      "speaker": "Mills",
+      "text": "So, it could be a big problem. And we're seeing this data center pushback really hitting a fever pitch.",
+      "cn": "ဒါကြောင့် ဒါက ပြဿနာကြီးတစ်ခု ဖြစ်လာနိုင်တယ်။ ဒေတာစင်တာတွေကို ဒီလိုဆန့်ကျင်မှုက တကယ်ကို ပြင်းထန်လာတာကို ကျွန်တော်တို့မြင်နေရတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, because some of them are going -- are supposed to be coming up with their own way to power -- to sort of self-power the data centers.",
+      "cn": "ဟုတ်တယ်၊ ဘာလို့လဲဆိုတော့ ဒီဒေတာစင်တာအချို့က -- -- ကိုယ်တိုင်လျှပ်စစ်ဓာတ်အားထုတ်လုပ်နိုင်တဲ့နည်းလမ်းကို တွေးထားသင့်တယ် -- -- တစ်နည်းနည်းနဲ့ ကိုယ်တိုင်လျှပ်စစ်ဓာတ်အားထုတ်လုပ်နိုင်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But, like, people don't want them. And I was thinking, when I look at how people talk about A.I., for instance, we played the president earlier and he said, \"we're talking about it where the American people can benefit from the success of A.I. They're going to like it better because we're leading China, we're leading everyone in the world. We want to keep it that way.\" And I felt like, if you took away the word A.I. and put \"globalization,\" we've heard this before.",
+      "cn": "ဒါပေမယ့် လူတွေက သူတို့ကို မလိုချင်ဘူး။ လူတွေ AI အကြောင်း ဘယ်လိုပြောနေကြတာကို ငါတွေးမိတယ်၊ ဥပမာ ငါတို့ အရင်က သမ္မတရဲ့မိန့်ခွန်းကို ထုတ်လွှင့်ခဲ့တယ်၊ သူက \"ကျွန်တော်တို့ AI ရဲ့အောင်မြင်မှုကနေ အမေရိကန်ပြည်သူတွေ ဘယ်လိုအကျိုးခံစားရမလဲဆိုတာ ဆွေးနွေးနေတယ်။ သူတို့က ဒါကို ပိုသဘောကျလာလိမ့်မယ်၊ ဘာလို့လဲဆိုတော့ ငါတို့က တရုတ်ထက်၊ ကမ္ဘာ့နိုင်ငံအားလုံးထက် ရှေ့ရောက်နေလို့ပဲ။ ငါတို့ ဒီအခြေအနေကို ဆက်ထိန်းထားချင်တယ်။\" လို့ပြောတယ်။ ငါထင်တယ် \"AI\" ဆိုတဲ့စကားလုံးကို \"globalization\" နဲ့ အစားထိုးရင်၊ ငါတို့ အရင်က ဒီလိုပြောတာကို ကြားဖူးတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I wonder if that is contributing to what you call the hate wave.",
+      "cn": "ဒါက မင်းပြောတဲ့ \"အမုန်းတရားလှိုင်း\" ကို ဖြစ်စေသလားလို့ ငါသိချင်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "People feeling like, I'm being told something's going to make my life better. And my experience in the past is that that isn't -- doesn't play out the way politicians say it will.",
+      "cn": "လူတွေက တစ်စုံတစ်ယောက်က ငါ့ဘဝကို ပိုကောင်းအောင်လုပ်ပေးလိမ့်မယ်လို့ ပြောတာကို ခံစားရတယ်၊ ဒါပေမယ့် ငါ့ရဲ့အတိတ်အတွေ့အကြုံအရ ဒါက နိုင်ငံရေးသမားတွေပြောသလို ဖြစ်မလာဘူး။"
+    },
+    {
+      "speaker": "Mills",
+      "text": "I mean, I would push back on that too because the overwhelming research shows that people are not happy about A.I. There's this YouGov poll people cite all the time that showed very clear bipartisan support against A.I. across the aisle.",
+      "cn": "ငါဆိုလိုတာက ငါလည်း ဒါကို ဆန့်ကျင်ပြောမယ်၊ ဘာလို့လဲဆိုတော့ လေ့လာမှုအများစုက လူတွေ AI ကို မကျေမနပ်ဖြစ်တယ်လို့ ပြသတယ်။ လူတွေမကြာခဏကိုးကားတဲ့ YouGov စစ်တမ်းက ပါတီနှစ်ရပ်စလုံးက AI ကို ဆန့်ကျင်မှုက ပါတီလိုင်းကိုကျော်ပြီး ရှင်းရှင်းလင်းလင်းရှိတယ်လို့ ပြသတယ်။"
+    },
+    {
+      "speaker": "Mills",
+      "text": "And we're seeing that play out with the data center pushback that you had mentioned. I also do think part of the challenge is that these models are getting better so much faster than anything we've seen.",
+      "cn": "မင်းဖော်ပြခဲ့တဲ့ ဒေတာစင်တာတွေကို ဆန့်ကျင်မှုက ဖြစ်ပျက်နေတာကို ကျွန်တော်တို့မြင်ရတယ်။ ကျွန်တော်လည်း တစ်စိတ်တစ်ပိုင်းအနေနဲ့ စိန်ခေါ်မှုက ဒီမော်ဒယ်တွေရဲ့တိုးတက်မှုနှုန်းက ငါတို့အရင်ကမြင်ဖူးသမျှထက် အများကြီးပိုမြန်တယ်လို့ ထင်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Anthropic releasing a safer work mythos.",
+      "cn": "ဟုတ်တယ်။ Anthropic က ပိုလုံခြုံတဲ့အလုပ်ဒဏ္ဍာရီတစ်ခုကို ထုတ်ပြန်ခဲ့တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Which is still scary.",
+      "cn": "ဒါက ကြောက်စရာကောင်းနေတုန်းပဲ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "After saying that they were so worried about it they only brought it to the government and certain companies.",
+      "cn": "သူတို့က ဒီကိစ္စကို အလွန်စိုးရိမ်ကြောင်း ဖော်ပြပြီးနောက် အစိုးရနဲ့ ကုမ္ပဏီအချို့ကိုသာ ပေးအပ်ခဲ့တယ်။"
+    },
+    {
+      "speaker": "Mills",
+      "text": "Exactly. And because of that, I think that people haven't necessarily seen a lot of the benefits of A.I. because it's getting better so much faster. And so people are, you know, hearing about a data center in their backyard, they're hearing A.I. CEOs say that it could replace their jobs. And, by the way, you haven't really felt the positive use cases of it yet because it's getting more technical more quickly. So, I think that creates kind of a challenging soup for people. Yes.",
+      "cn": "မှန်ပါတယ်။ ဒါကြောင့် လူတွေက AI ရဲ့ အကျိုးကျေးဇူးတွေကို သေချာမမြင်ကြဘူးလို့ ကျွန်တော်ထင်တယ်၊ ဘာလို့လဲဆိုတော့ အဲဒါက အရမ်းမြန်လွန်းတယ်။ ဒါကြောင့် လူတွေက သူတို့အိမ်နောက်ဖေးမှာ data center ဆောက်မယ်ဆိုတာ ကြားရတယ်၊ AI CEO တွေက သူတို့အလုပ်တွေကို အစားထိုးနိုင်တယ်လို့ ပြောတာကို ကြားရတယ်။ ပြီးတော့ စကားမစပ်၊ သူတို့က AI ရဲ့ အပြုသဘောဆောင်တဲ့ အသုံးပြုမှုတွေကို တကယ်မခံစားရသေးဘူး၊ ဘာလို့လဲဆိုတော့ နည်းပညာက အရမ်းမြန်လွန်းတယ်။ ဒါကြောင့် ဒါက လူတွေအတွက် ခက်ခဲတဲ့ အခြေအနေတစ်ခုကို ဖန်တီးပေးတယ်လို့ ကျွန်တော်ထင်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. We'll see what happens when people are ringing that bell on Wall Street. Madison Mills, thank you so much for being here. Always love to have you. And straight ahead on CNN THIS MORNING, the World Cup kicks off tomorrow. But with sky high ticket prices, problems with immigration, is this going to be the World Cup of chaos? Plus, Nancy Mace broke with President Trump over the Epstein files. Is that what costs her a shot at the governor's mansion in South Carolina, or was it something else?",
+      "cn": "ဟုတ်တယ်။ Wall Street မှာ ခေါင်းလောင်းထိုးတဲ့အခါ ဘာဖြစ်မလဲဆိုတာ စောင့်ကြည့်ရမယ်။ Madison Mills၊ လာတဲ့အတွက် အရမ်းကျေးဇူးတင်ပါတယ်။ မင်းလာတာကို အမြဲဝမ်းသာတယ်။ နောက်တစ်ခုက CNN ရဲ့ This Morning မှာ ကမ္ဘာ့ဖလားက မနက်ဖြန်စမယ်။ ဒါပေမယ့် လက်မှတ်ဈေးကြီးတယ်၊ လူဝင်မှုပြဿနာတွေရှိတယ်၊ ဒီကမ္ဘာ့ဖလားက ရှုပ်ထွေးမှုတစ်ခုဖြစ်မလား။ နောက်ပြီး Nancy Mace က Epstein ဖိုင်တွေကြောင့် သမ္မတ Trump နဲ့ လမ်းခွဲလိုက်တယ်။ ဒါက South Carolina ပြည်နယ်အုပ်ချုပ်ရေးမှူးဖြစ်ဖို့ အခွင့်အရေးကို ဆုံးရှုံးစေသလား၊ ဒါမှမဟုတ် တခြားအကြောင်းရင်းရှိလား။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, the World Cup kicks off tomorrow. I know, I said it. It kicks off across North America. But are the off the field headlines threatening to overshadow the biggest tournament in the world? So, there was a Somali referee turned away by U.S. Customs and Border Patrol in Miami when he arrived for his World Cup assignment. And he received a hero's welcome when he returned to Somalia. The Trump administration tells CNN that vetting uncovered derogatory information. They did not go into further detail.",
+      "cn": "ဒါဆို ကမ္ဘာ့ဖလားက မနက်ဖြန်စမယ်။ ကျွန်တော်သိတယ်၊ ပြောပြီးပြီ။ မြောက်အမေရိကတစ်ဝှမ်းမှာ စမယ်။ ဒါပေမယ့် ကွင်းပြင်ပသတင်းတွေက ဒီကမ္ဘာ့အကြီးဆုံးပွဲရဲ့ အာရုံစိုက်မှုကို ခြိမ်းခြောက်နိုင်သလား။ ဆိုမာလီယာ ဒိုင်လူကြီးတစ်ဦးကို Miami မှာ US Customs and Border Protection က ဝင်ခွင့်ငြင်းပယ်ခဲ့တယ်၊ သူက ကမ္ဘာ့ဖလားတာဝန်အတွက် လာတာပါ။ သူ ဆိုမာလီယာကို ပြန်သွားတဲ့အခါ သူရဲကောင်းလို ကြိုဆိုခံရတယ်။ Trump အစိုးရက CNN ကို စစ်ဆေးမှုမှာ ဆိုးရွားတဲ့အချက်အလက်တွေ့ရှိခဲ့ပေမယ့် အသေးစိတ်မဖော်ပြဘူးလို့ ပြောတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, the ref told \"The New York Times,\" quote, \"I'm just simply a referee who's trying to live his dream.\" Fans from Scotland said their permits were withdrawn at the final moment. Teams from Senegal, Uzbekistan were treated, quote, \"like criminals,\" according to critics. And a player from Iraq was questioned for seven hours upon arrival in Chicago.",
+      "cn": "ဒိုင်လူကြီးက New York Times ကို \"ကျွန်တော်က အိပ်မက်တစ်ခုကို အကောင်အထည်ဖော်ဖို့ ကြိုးစားနေတဲ့ ဒိုင်လူကြီးတစ်ယောက်ပါ\" လို့ ပြောတယ်။ စကော့တလန်က ပရိသတ်တွေက သူတို့ရဲ့ လိုင်စင်တွေကို နောက်ဆုံးမိနစ်မှာ ရုပ်သိမ်းခံရတယ်လို့ ပြောတယ်။ ဝေဖန်သူတွေက ဆီနီဂေါနဲ့ ဥဇဘက်ကစ္စတန်အသင်းတွေကို \"ရာဇဝတ်သားတွေလို\" ဆက်ဆံတယ်လို့ ပြောတယ်။ အီရတ်ကစားသမားတစ်ဦးက Chicago ကိုရောက်တဲ့အခါ ခုနစ်နာရီကြာ စစ်ဆေးခြင်းခံရတယ်။"
+    },
+    {
+      "speaker": "Ian Wright",
+      "text": "Every few hours it's another story. Another story about fans denied, players denied, officials denied, journalists denied. Now refs. You know something? I'm laughing, but it's not funny. It's actually not funny. Something has to be said. It's expensive tickets. Most expensive tickets ever. Know what? This is the World Cup. This is a World Cup of chaos.",
+      "cn": "နာရီတိုင်း ဇာတ်လမ်းအသစ်တွေ ထွက်လာတယ်။ ပရိသတ်တွေ ငြင်းပယ်ခံရတဲ့၊ ကစားသမားတွေ ငြင်းပယ်ခံရတဲ့၊ အရာရှိတွေ ငြင်းပယ်ခံရတဲ့၊ သတင်းထောက်တွေ ငြင်းပယ်ခံရတဲ့ ဇာတ်လမ်းတစ်ပုဒ်ပြီးတစ်ပုဒ်။ အခုတော့ ဒိုင်လူကြီးတွေအလှည့်ပဲ။ မင်းသိလား။ ကျွန်တော်ရယ်နေပေမယ့် ဒါက ရယ်စရာမဟုတ်ဘူး။ တကယ်တော့ လုံးဝမရယ်စရာဘူး။ တစ်ခုခုပြောဖို့လိုတယ်။ လက်မှတ်ဈေးကြီးတယ်၊ သမိုင်းမှာ အကြီးဆုံး။ မင်းသိလား။ ဒါက ကမ္ဘာ့ဖလားပဲ။ ဒါက ရှုပ်ထွေးတဲ့ ကမ္ဘာ့ဖလားတစ်ခုပဲ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joining us in the group chat, Dan Courtemanche. He's the executive vice president and chief communications officer for Major League Soccer. Did I say your name right? I don't want your mom being mad at me.",
+      "cn": "ကျွန်တော်တို့ရဲ့ အဖွဲ့လိုက်ဆွေးနွေးပွဲမှာ Dan Courtemanche ကို ကြိုဆိုပါတယ်၊ သူက Major League Soccer ရဲ့ အမှုဆောင်ဒုတိယဥက္ကဋ္ဌနဲ့ ဆက်သွယ်ရေးအရာရှိချုပ်ပါ။ မင်းနာမည်ကို မှန်အောင်ပြောမိလား။ မင်းအမေကို ကျွန်တော့်ကို စိတ်ဆိုးစေချင်ဘူး။"
+    },
+    {
+      "speaker": "Dan Courtemanche",
+      "text": "You did. Thank you. It's terrific to be here. Really appreciate it.",
+      "cn": "မှန်ပါတယ်။ ကျေးဇူးပါ။ ဒီကိုလာရတာ ဝမ်းသာပါတယ်။ အရမ်းကျေးဇူးတင်ပါတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, I wanted to talk to you about this for a couple of reasons. One, your team sent over some information here, and I was noting that there is a record number of MLS players, 45, who represent countries in this, right?",
+      "cn": "ဒါဆို ဒီအကြောင်းကို မင်းနဲ့ဆွေးနွေးချင်တယ်၊ အကြောင်းရင်းနှစ်ခုရှိတယ်။ ပထမတစ်ခုက မင်းအဖွဲ့က သတင်းအချက်အလက်တချို့ ပို့ပေးတယ်၊ MLS ကစားသမား ၄၅ ဦးက သူတို့ရဲ့နိုင်ငံအတွက် ကစားမယ်ဆိုတဲ့ စံချိန်တင်အရေအတွက်ကို ကျွန်တော်သတိထားမိတယ်၊ ဟုတ်တယ်ဟုတ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And that you've also got -- done a lot of work through your academies to be a place to recruit people who will want to play here. Does this -- these headlines, do they kind of undermine that message that MLS has been so good, frankly, at cultivating over the last decade?",
+      "cn": "ပြီးတော့ မင်းတို့က လူငယ်ဖွံ့ဖြိုးရေးစနစ်ကနေတစ်ဆင့် အလုပ်အများကြီးလုပ်ပြီး ဒီမှာကစားချင်တဲ့သူတွေကို စုဆောင်းတဲ့နေရာဖြစ်လာတယ်။ ဒီသတင်းတွေက MLS ရဲ့ လွန်ခဲ့တဲ့ဆယ်စုနှစ်အတွင်း ဂရုတစိုက်တည်ဆောက်ထားတဲ့ ပုံရိပ်ကို အားနည်းစေသလား။"
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Yes, I think what we're going to see is some of those headlines tomorrow when the World Cup opens in Mexico City, then certainly in North America and Canada and the United States on Friday. It's going to shift from some of those headlines, the World Cup of chaos, to celebration, to pageantry, to a party.",
+      "cn": "ဟုတ်တယ်၊ မနက်ဖြန် Mexico City မှာ ကမ္ဘာ့ဖလားစတင်တဲ့အခါ ဒီသတင်းတချို့ကို ကျွန်တော်တို့တွေ့ရမယ်လို့ ထင်တယ်၊ သောကြာနေ့မှာ မြောက်အမေရိက၊ ကနေဒါနဲ့ အမေရိကန်မှာလည်း ဖြစ်မယ်။ အာရုံစိုက်မှုက \"ရှုပ်ထွေးတဲ့ကမ္ဘာ့ဖလား\" သတင်းတွေကနေ ဂုဏ်ပြုပွဲ၊ ခမ်းနားမှုနဲ့ ပါတီပွဲတွေဆီ ပြောင်းသွားလိမ့်မယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But I'm saying, for the players, is this irritating, scary, frustrating? The whole point is international cooperation.",
+      "cn": "But I want to say, for the players, is this annoying, scary, frustrating? The whole point is international cooperation."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's not feeling welcoming.",
+      "cn": "It feels unwelcoming."
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "So, I hear you. You know, ultimately, that's a question for the players. It's not something that we've seen. And in Major League Soccer, we have players from 78 different countries. And we've been around for 31 seasons. And we haven't experienced that, challenges with visa issues or anything. But I understand where you're coming from. We want to be welcoming to all the players. We want to see them have a wonderful time here in the United States, Canada and Mexico.",
+      "cn": "So, I hear you. You know, at the end of the day, it's the players' issue. We haven't seen that. In Major League Soccer, we have players from 78 different countries. We've been operating for 31 seasons. We haven't faced challenges like visa issues. But I understand your thoughts. We want to welcome all players. We want to see them have a great time in the US, Canada, and Mexico."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And a lot of your incoming star players, over the last couple of years, coming to the U.S., they're coming from abroad. It's finally a place people are starting to come to and want to play, right?",
+      "cn": "In the past few years, many star players coming to the US are from abroad. It has finally become a place where people start to aspire to and want to come to play, right?"
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Most definitely. The greatest of all time. Lionel Messi, by the way, scored last night in Auburn, Alabama, in a friendly against Iceland. You'll see him on Tuesday in Kansas City against Algeria. I hope he scores a lot of goals because then you can watch him playing for Inter Miami each and every weekend in Major League Soccer.",
+      "cn": "No doubt. The greatest player of all time. By the way, Lionel Messi scored last night in a warm-up match against Iceland in Auburn, Alabama. You'll see him on Tuesday in Kansas City against Algeria. I hope he scores many goals so you can watch him play for Inter Miami every weekend in Major League Soccer."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, what I loved about that person who spoke at the end of our introduction is he goes, oh, I laugh because, you know, it's sort of -- sort of sad. And then he tied all of that to ticket prices. And I thought that was really fascinating, that people are also looking at this in the context of the cost of the ticket. The average get in price for a World Cup match right now, roughly $600 for the opening round of the tournament. And people are complaining about FIFA's pricing scheme.",
+      "cn": "Now, I liked the person who spoke at the end of our introduction, who said, oh, I laughed because, you know, it's a bit -- a bit sad. Then he linked it all to ticket prices. I find it interesting that people are looking at this from a ticket price perspective. The average entry price for World Cup matches currently, group stage, is about $600. People are complaining about FIFA's pricing scheme."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And right now, if I want, I can still get a ticket to USA Paraguay. It's not sold out, and it should be.",
+      "cn": "Now, if I wanted, I could still buy tickets for USA vs. Paraguay. The match isn't sold out yet, but it should be."
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Yes, I can tell you, I'm going to be there for the U.S.- Paraguay game. I certainly anticipate it's going to be sold out. I got to tell you, there's unprecedented demand for the World Cup.",
+      "cn": "Yes, I can tell you, I will go watch USA vs. Paraguay. I expect this match will definitely sell out. I have to tell you, the demand for the World Cup is unprecedented."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Then why isn't it sold out?",
+      "cn": "Then why isn't it sold out yet?"
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Much like you'll see from my Knicks tonight, where the get-in price is about $15,000 for lower level seating. Now, that said, I think you're going to see the pageantry, the celebration throughout the World Cup. But I understand where people are coming from. Also, you have to remind people that FIFA is actually a non-profit. So, all that money goes back to the 211 FIFA nations to build the sport, especially in some underdeveloped countries.",
+      "cn": "Just like you'll see my Knicks game tonight, the entry price for lower-level seats is about $15,000. That said, I think you'll see the spectacle and celebration during the World Cup. But I understand people's thoughts. Also, you have to remind people that FIFA is actually a non-profit organization. So, all the money goes back to the 211 FIFA member associations to develop football, especially in some less developed countries."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, I'm glad you brought that up because we did have a California lawmaker, Representative Sydney Kamlager-Dove. She was on the show Friday. She said something I didn't expect to hear related to ticket prices and what her concerns were. Here's what she had to say. REP. SYDNEY KAMLAGER-DOVE (D-CA): The issue is dynamic pricing. The other issue is, you buy a ticket, you don't know where that seat is going to be. You're spending over $1,000.",
+      "cn": "Okay, glad you mentioned that, because we do have a California congresswoman, Representative Sydney Kamlager-Dove. She was on the show Friday. She said something I didn't expect to hear about ticket prices and her concerns. Here's what she said. Rep. Sydney Kamlager-Dove (D-CA): The problem is dynamic pricing. Another issue is, you buy a ticket and don't know where your seat is. You spend over $1,000."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And finally you got the -- you get the seat and you're behind a post and you can't see anything. We want to know why ticket prices are changing so dramatically from city to city. I want to know why cities aren't getting any financial support from the World Cup to actually put on the games, because World Cup is getting everything, concessions, merchandise, parking, tickets.",
+      "cn": "Finally you get a seat, and you're sitting behind a pillar, unable to see anything. We want to know why ticket prices vary so much between cities. I want to know why cities don't get any financial support from the World Cup to host matches, because the World Cup takes everything: concessions, merchandise, parking, tickets."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That was just a long list. Can you answer any of it?",
+      "cn": "ဒီမေးခွန်းတွေက တော်တော်များတယ်။ မင်း အဲဒီထဲက တစ်ခုခုကို ဖြေနိုင်လား။"
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Well, I can tell you, look, we're fortunate, five of the stadiums out of the 13 markets in the United States and Canada are Major League Soccer stadiums. And I can tell you that nobody will be sitting behind posts during the World Cup games in those MLS stadiums. So, look, she brings up some valid points. She's clearly an expert on it. But we think it's going to pivot again from some of the challenges that we've seen in the media to the celebration.",
+      "cn": "ဟုတ်ကဲ့၊ ငါပြောနိုင်တာက ငါတို့ ကံကောင်းတယ်၊ အမေရိကန်နဲ့ ကနေဒါက စျေးကွက် ၁၃ ခုမှာ အားကစားကွင်း ၅ ခုက MLS ကွင်းတွေပဲ။ ငါပြောနိုင်တာက ကမ္ဘာ့ဖလားပွဲတွေအတွင်း အဲဒီ MLS ကွင်းတွေမှာ ဘယ်သူမှ တိုင်နောက်မှာ ထိုင်နေမှာမဟုတ်ဘူး။ သူမ တင်ပြတဲ့ အချက်တွေက ကျိုးကြောင်းဆီလျော်တယ်၊ သူမက ဒီနယ်ပယ်မှာ ကျွမ်းကျင်သူပဲ။ ဒါပေမယ့် ငါတို့ထင်တာက မီဒီယာက မြင်တဲ့ စိန်ခေါ်မှုတွေကနေ အာရုံစိုက်မှုက ပွဲတော်ဆီ ပြောင်းသွားလိမ့်မယ်။"
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "And ultimately goals scored by hopefully the United States national team and they make a deep run in the tournament.",
+      "cn": "နောက်ဆုံးမှာတော့ အမေရိကန်အမျိုးသားအသင်း ဂိုးသွင်းနိုင်ပြီး ပြိုင်ပွဲမှာ ရှေ့ဆက်သွားနိုင်ဖို့ မျှော်လင့်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. I think, fundamentally, nobody is arguing that it won't be good. They'll be arguing about whether or not they got to participate.",
+      "cn": "ဟုတ်တယ်။ ငါထင်တာက အခြေခံအားဖြင့် ဘယ်သူမှ ဒါက ကောင်းတဲ့အရာဖြစ်မယ်ဆိုတာကို မေးခွန်းထုတ်မှာမဟုတ်ဘူး။ သူတို့ ငြင်းခုံမှာက သူတို့ ပါဝင်နိုင်မလားဆိုတာပဲ။"
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Yes. You know, and I -- you know, it's also a good reminder that FIFA actually had $60 tickets available for those passionate supporters who registered early. So, they had some affordable prices. But I certainly understand you. And for us, you also have to look at, there'll be nearly 80 fan festivals throughout the different markets. Twenty of our MLS clubs are going to have soccer celebrations. So, you're providing free accessibility to fans who may not be able to go to the games.",
+      "cn": "ဟုတ်တယ်။ မင်းသိလား၊ ဒါက FIFA က စောစောစာရင်းသွင်းတဲ့ စိတ်အားထက်သန်တဲ့ပရိသတ်တွေအတွက် လက်မှတ်တွေကို ဒေါ်လာ ၆၀ နဲ့ ပေးတယ်ဆိုတာကိုလည်း သတိရစေတယ်။ ဒါကြောင့် သူတို့မှာ တတ်နိုင်တဲ့စျေးနှုန်းတွေရှိတယ်။ ဒါပေမယ့် မင်းရဲ့အမြင်ကို ငါနားလည်တယ်။ ငါတို့အတွက်ကတော့ မင်းလည်း မြင်ရမှာက မတူညီတဲ့စျေးကွက်တွေမှာ ပရိသတ်ပွဲတော် ၈၀ နီးပါးရှိလိမ့်မယ်။ ငါတို့ရဲ့ MLS ကလပ် ၂၀ က ဘောလုံးပွဲတော်တွေကို ကျင်းပလိမ့်မယ်။ ဒါမှ ကွင်းကိုသွားလို့မရတဲ့သူတွေလည်း အခမဲ့ပါဝင်နိုင်မယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Well, thank you, Dan, so much for being here. Good luck. I know this is your Super Bowl. That's what we say here in the U.S. instead of soccer.",
+      "cn": "ကောင်းပြီ။ ဒီကိုလာတဲ့အတွက် အရမ်းကျေးဇူးတင်ပါတယ် Dan။ ကံကောင်းပါစေ။ ဒါက မင်းရဲ့ Super Bowl ဆိုတာ ငါသိတယ် -- ငါတို့ အမေရိကန်မှာ ဒီလိုပြောတယ်၊ ဘောလုံးလို့မဟုတ်ဘူး။"
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Hey, I'm a big -- I'm a University of Georgia graduate. I love gridiron football. Come on.",
+      "cn": "ဟေး၊ ငါက သေချာတဲ့ပရိသတ်တစ်ယောက်ပါ -- ငါက ဂျော်ဂျီယာတက္ကသိုလ်က ဘွဲ့ရတစ်ယောက်ပါ။ ငါ အမေရိကန်ဘောလုံးကို ချစ်တယ်။ တကယ်ပါ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, OK. OK. All right. Well, thank you for being here. Appreciate your time.",
+      "cn": "အိုး ကောင်းပြီ။ ကောင်းပြီ။ ဒီကိုလာတဲ့အတွက် ကျေးဇူးတင်ပါတယ်။ အချိန်ပေးတဲ့အတွက် ကျေးဇူးတင်ပါတယ်။"
+    },
+    {
+      "speaker": "Courtemanche",
+      "text": "Really appreciate it.",
+      "cn": "ကျေးဇူးအများကြီးတင်ပါတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Next on CNN THIS MORNING, Congresswoman Nancy Mace gets crushed in the South Carolina governor's race. Did going against Trump cost her the election? But first.",
+      "cn": "နောက်ထပ် CNN ရဲ့ This Morning အစီအစဉ်မှာ လွှတ်တော်အမတ် Nancy Mace က South Carolina ပြည်နယ်အုပ်ချုပ်ရေးမှူးရွေးကောက်ပွဲမှာ အကြီးအကျယ်ရှုံးနိမ့်ခဲ့တယ်။ Trump ကို ဆန့်ကျင်တာက သူမကို ရွေးကောက်ပွဲရှုံးစေခဲ့လား။ ဒါပေမယ့် အရင်ဆုံး။"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "If you're elected governor, would you continue to perform exorcisms while governor?",
+      "cn": "မင်း ပြည်နယ်အုပ်ချုပ်ရေးမှူးဖြစ်ရင် မင်းရဲ့သက်တမ်းအတွင်း နတ်ဆိုးနှင်ထုတ်ခြင်းကို ဆက်လုပ်မှာလား။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, controversial candidate leading in the polls in Colorado. Will the strange headlines sway voters?",
+      "cn": "ဟုတ်တယ်၊ Colorado က အငြင်းပွားဖွယ်ရာ ကိုယ်စားလှယ်လောင်းက မဲစစ်တမ်းတွေမှာ ဦးဆောင်နေတယ်။ ဒီထူးဆန်းတဲ့ ခေါင်းစီးတွေက မဲဆန္ဒရှင်တွေကို သက်ရောက်မှုရှိမလား။"
+    },
+    {
+      "speaker": "Kyle Clark",
+      "text": "Your campaign website falsely claimed that you had rescued more than 45,000 women and children. You once called in a U.S. military airstrike that killed 70 ISIS fighters. You perform exorcisms, commanding demons to come out of people. Do you understand why so many of your critics think you're a con man? VICTOR MARX (R),",
+      "cn": "မင်းရဲ့ ရွေးကောက်ပွဲဝက်ဘ်ဆိုက်က မင်းဟာ အမျိုးသမီးနဲ့ ကလေး ၄၅၀၀၀ ကျော်ကို ကယ်တင်ခဲ့တယ်လို့ မဟုတ်မမှန် ပြောဆိုထားတယ်။ မင်းက အမေရိကန်စစ်တပ်ကို လေကြောင်းတိုက်ခိုက်မှုတွေ ပြုလုပ်ဖို့ ခေါ်ယူခဲ့ပြီး ISIS စစ်သွေးကြွ ၇၀ ကို သေစေခဲ့တယ်။ မင်းက နတ်ဆိုးနှင်ထုတ်ခြင်းတွေ လုပ်ဆောင်ပြီး လူတွေထဲက နတ်ဆိုးတွေကို ထွက်သွားဖို့ အမိန့်ပေးခဲ့တယ်။ မင်းရဲ့ဝေဖန်သူတွေ မင်းကို လိမ်လည်သူလို့ ထင်ကြတဲ့အကြောင်းရင်းကို မင်းနားလည်လား။ ဗစ်တာ မာ့ခ်စ် (ရီပတ်ဘလစ်ကန်)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that was a wild ride. And it didn't stop there. That reporter in Colorado was interviewing a Republican frontrunner for governor, Victor Marx. He's a Marine Corps veteran. He runs a faith- based nonprofit. But he's made a lot of outlandish claims. And it does not end with exorcisms and rescuing women and children from slavery. He also says he killed a man when he was a child.",
+      "cn": "ကောင်းပြီ၊ အဲဒါက တကယ့်ကို ရူးသွပ်တဲ့ စကားဝိုင်းပဲ။ ပြီးတော့ မပြီးသေးဘူး။ ကော်လိုရာဒိုက သတင်းထောက်က ရီပတ်ဘလစ်ကန် အုပ်ချုပ်ရေးမှူးရွေးကောက်ပွဲမှာ ဦးဆောင်နေတဲ့ ဗစ်တာ မာ့ခ်စ်ကို တွေ့ဆုံမေးမြန်းနေတယ်။ သူက မရိန်းတပ်သားဟောင်းတစ်ယောက်ပါ။ သူက ယုံကြည်မှုဆိုင်ရာ အကျိုးအမြတ်မယူတဲ့ အဖွဲ့အစည်းတစ်ခုကို လည်ပတ်နေတယ်။ ဒါပေမယ့် သူက မယုံနိုင်စရာ ပြောဆိုချက်တွေ အများကြီး ထုတ်ပြောခဲ့တယ်။ နတ်ဆိုးနှင်ထုတ်ခြင်းနဲ့ အမျိုးသမီးနဲ့ ကလေးတွေကို ကျွန်ပြုခြင်းကနေ ကယ်တင်ခြင်းတွေတင်မကဘူး။ သူက ငယ်ငယ်တုန်းက လူသတ်ခဲ့တယ်လို့လည်း ပြောတယ်။"
+    },
+    {
+      "speaker": "Kyle Clark",
+      "text": "Your claim that your abusive stepfather forced you to kill a man when you were seven years old, is that the only person you've ever killed? VICTOR MARX (R),",
+      "cn": "မင်းက မင်းရဲ့ပထွေးက မင်းကို ခုနစ်နှစ်သားအရွယ်မှာ လူတစ်ယောက်ကို သတ်ခိုင်းတယ်လို့ ပြောတယ်။ အဲဒါက မင်းသတ်ဖူးတဲ့ တစ်ဦးတည်းသောလူလား။ ဗစ်တာ မာ့ခ်စ် (ရီပတ်ဘလစ်ကန်)"
+    },
+    {
+      "speaker": "Colorado Candidate For Governor",
+      "text": "Well, I would say, as a -- as a child, yes. But I've been in other situations where, you know, possibly people or persons died.",
+      "cn": "ဟုတ်တယ်၊ ကလေးဘဝတုန်းက ဟုတ်တယ်လို့ ပြောချင်တယ်။ ဒါပေမယ့် လူတစ်ယောက် ဒါမှမဟုတ် လူအတော်များများ သေဆုံးသွားနိုင်တဲ့ အခြားအခြေအနေတွေလည်း ရှိခဲ့တယ်။"
+    },
+    {
+      "speaker": "Clark",
+      "text": "Do you think that you've killed people as an adult?",
+      "cn": "မင်းက အရွယ်ရောက်ပြီးနောက်မှာ လူသတ်ခဲ့တယ်လို့ ထင်လား။"
+    },
+    {
+      "speaker": "Clark",
+      "text": "Killing somebody is a pretty weighty thing. So, I'm just asking you, how many people have you killed?",
+      "cn": "လူသတ်တာက တော်တော်လေးလေးနက်တဲ့ကိစ္စပါ။ ဒါကြောင့် မင်းက လူဘယ်နှစ်ယောက်သတ်ခဲ့လဲလို့ မေးနေတာ။"
+    },
+    {
+      "speaker": "Marx",
+      "text": "Well, if I did, I wouldn't be telling a reporter sitting here in my training center.",
+      "cn": "ဟုတ်တယ်၊ ငါသတ်ခဲ့ရင် ငါ့ရဲ့လေ့ကျင့်ရေးစင်တာမှာ ထိုင်နေတဲ့ သတင်းထောက်ကို ပြောမှာမဟုတ်ဘူး။"
+    },
+    {
+      "speaker": "Clark",
+      "text": "How about voters? Would you tell voters?",
+      "cn": "မဲဆန္ဒရှင်တွေကိုရော ပြောမှာလား။"
+    },
+    {
+      "speaker": "Marx",
+      "text": "Theres no need. I don't think that's important.",
+      "cn": "မလိုအပ်ဘူး။ အဲဒါက အရေးမကြီးဘူးလို့ ငါထင်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Group chat is back. I wanted to talk about this because we started the hour talking about Maine, right, and Graham Platner and being like, voters, what are they thinking? You know, like, what's happening? What will these scandals matter? And then I was seeing a lot more stories about what's happening in Colorado. Just to give you a sense of where things are. In this Republican primary right now, the fundraising, Victor Marx is at $2.7 million.",
+      "cn": "ကောင်းပြီ။ အဖွဲ့လိုက်စကားပြောတာ ပြန်လာပြီ။ ဒီအကြောင်းကို ပြောချင်တယ်၊ ဘာလို့လဲဆိုတော့ ဒီနာရီအစမှာ မိန်းပြည်နယ်အကြောင်း ဆွေးနွေးနေတယ်၊ ဟုတ်တယ်နော်၊ ဂရေဟမ် ပလက်တ်နာနဲ့အတူ၊ မဲဆန္ဒရှင်တွေ ဘာတွေတွေးနေလဲ။ မင်းသိလား၊ ဘာတွေဖြစ်နေလဲ။ ဒီအရှုပ်တော်ပုံတွေက ဘယ်လိုသက်ရောက်မှုရှိမလဲ။ ပြီးတော့ ကော်လိုရာဒိုမှာ ဖြစ်ပျက်နေတဲ့အကြောင်း နောက်ထပ် သတင်းတွေ တွေ့တယ်။ မင်းကို အခြေအနေကို နားလည်စေချင်တယ်။ ဒီရီပတ်ဘလစ်ကန် ပဏာမရွေးကောက်ပွဲမှာ လက်ရှိ ရန်ပုံငွေရှာဖွေမှုအရ ဗစ်တာ မာ့ခ်စ်မှာ ဒေါ်လာ ၂.၇ သန်းရှိတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The next closest person is at around $500,000, who is a state senator. I know you're just kind of clocking into this, Jarrett, but help me understand why he's so far ahead in the money. That means people are the donors. The people with pockets are giving to him. JARRETT STEPMAN, CONTRIBUTOR, \"THE DAILY SIGNAL\": Yes. In fairness, that may shift a bit after this moment, seeing him not as credible candidate.",
+      "cn": "ဒုတိယနေရာက ပြည်နယ်အထက်လွှတ်တော်အမတ်တစ်ယောက်ဖြစ်ပြီး ဒေါ်လာ ၅၀၀,၀၀၀ လောက်ရှိတယ်။ မင်း ဆွေးနွေးပွဲထဲကို ဝင်လာတာပဲရှိသေးတယ် ဂျာရက်၊ ဒါပေမယ့် သူ ဘာလို့ ရန်ပုံငွေမှာ ဒီလောက်အများကြီး ဦးဆောင်နေတာလဲဆိုတာ နားလည်အောင် ကူညီပေးပါ။ ဆိုလိုတာက လူတွေက အလှူရှင်တွေပါ။ ချမ်းသာတဲ့လူတွေက သူ့ကို ငွေပေးနေတယ်။ The Daily Signal ရဲ့ ဆောင်းပါးရှင် ဂျာရက် စတက်ပ်မန်း- ဟုတ်တယ်။ တရားမျှတစွာပြောရရင် သူ့ကို ယုံကြည်စိတ်ချရတဲ့ ကိုယ်စားလှယ်လောင်းတစ်ယောက်အဖြစ် မမြင်ရတော့တဲ့နောက်မှာ အခြေအနေတွေ ပြောင်းလဲသွားနိုင်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, that's a shift by about a million bucks. Yes.",
+      "cn": "ဟုတ်တယ်၊ အဲဒါက ဒေါ်လာ တစ်သန်းလောက် ကွာဟချက်ပဲ။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "It would -- it would have to be quite a bit.",
+      "cn": "ဒါက အများကြီး ပြောင်းလဲဖို့ လိုပါတယ်။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "And, frankly, it -- Colorado, look, they haven't elected a Republican governor in that state since --",
+      "cn": "ပြီးတော့ ရိုးရိုးသားသားပြောရရင် ကော်လိုရာဒိုပြည်နယ်က သူတို့ ... ကတည်းက ရီပါဘလစ်ကန် အုပ်ချုပ်ရေးမှူးကို မရွေးကောက်ခဲ့ဘူးလေ။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "So, it's been a long time. I think you sometimes see this in states that have gone one way for a long time. You get sometimes candidates who are not particularly credible. There's a sort of a desperation saying, this guy seems like an outsider. He's, said, look, we saw this in Maine, somebody who's an outsider, in that case actually had a huge amount of success against a political establishment.",
+      "cn": "ဒါကြောင့် ကြာပါပြီ။ ရေရှည် တစ်ဖက်သတ် လိုလားတဲ့ ပြည်နယ်တွေမှာ ဒီလိုမျိုး တစ်ခါတစ်ရံ တွေ့ရတယ်လို့ ထင်ပါတယ်။ တစ်ခါတစ်ရံ သိပ်မယုံကြည်ရလောက်တဲ့ ကိုယ်စားလှယ်လောင်းတွေ ပေါ်လာတတ်တယ်။ ဒီကောင်က အပြင်လူလိုပဲဆိုတဲ့ စိတ်ပျက်အားငယ်တဲ့ ခံစားချက်မျိုး ရှိတယ်။ သူက ပြောတယ်၊ ကြည့်စမ်း၊ မိန်းပြည်နယ်မှာ ငါတို့တွေ့ခဲ့တယ်၊ အပြင်လူတစ်ယောက်၊ တကယ်တော့ အဲဒီဖြစ်ရပ်မှာ နိုင်ငံရေး အဆောက်အအုံကို ကြီးမားတဲ့ အောင်မြင်မှု ရရှိခဲ့တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can I tell you how far outside --",
+      "cn": "သူ ဘယ်လောက် အပြင်လူလဲဆိုတာ ငါပြောပြလို့ရမလား။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Just how far outside. MIKE LEON, HOST, \"CAN WE PLEASE TALK\"",
+      "cn": "ဘယ်လောက် အပြင်လူလဲ။ \"Can We Talk\" အစီအစဉ်တင်ဆက်သူ Mike Leone:"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "A bit outside is probably -- (CROSS TALK)",
+      "cn": "နည်းနည်း အပြင်ဘက်ကို လွန်သွားတာဖြစ်နိုင်တယ် -- -- (စကားပြန်ဖြတ်)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm going to -- I needed to be, like, what's happening with this exorcism bit? Is this an internet joke? Is this people sort of, you know, I don't know what I thought. But here's what I saw. VICTOR MARX (R),",
+      "cn": "ငါ ... သိဖို့လိုတယ်၊ ဒီနတ်ဆိုးနှင်ထုတ်တဲ့ ဇာတ်လမ်းက ဘာလဲ။ အင်တာနက် ဟာသလား။ ဒါမှမဟုတ် လူတွေက နည်းနည်း သိလား၊ ငါ ဘယ်လိုထင်လဲ မသိဘူး။ ဒါပေမယ့် ငါမြင်တာက ဒါပဲ။ Victor Marks (ရီပါဘလစ်ကန်)၊"
+    },
+    {
+      "speaker": "Colorado Candidate For Governor",
+      "text": "When you say I perform exorcisms.",
+      "cn": "မင်းက ငါ နတ်ဆိုးနှင်ထုတ်တယ်လို့ ပြောတဲ့အခါ။"
+    },
+    {
+      "speaker": "Kyle Clark",
+      "text": "Yes. You described yourself as a, quote/unquote, reluctant exorcist.",
+      "cn": "ဟုတ်တယ်။ မင်းကိုယ်မင်း ကိုးကားချက်အရ \"တွန့်ဆုတ်နေတဲ့ နတ်ဆိုးနှင်ထုတ်သူ\" လို့ ဖော်ပြတယ်။"
+    },
+    {
+      "speaker": "Clark",
+      "text": "Yes. Describe to me how your exorcisms work when you command demons out.",
+      "cn": "ဟုတ်တယ်။ မင်းရဲ့ နတ်ဆိုးနှင်ထုတ်ပုံကို ဖော်ပြပါ၊ နတ်ဆိုးတွေကို ထွက်သွားဖို့ အမိန့်ပေးတဲ့အခါ။"
+    },
+    {
+      "speaker": "Marx",
+      "text": "Well, that's a joke. We identify the demon, like Jesus did. We asked what their name is. And then we give them commands. And they very frequently and typically will answer through the person's mind. They'll tell us what they hear. And then we destroy them, banish them to perfect judgment from Christ.",
+      "cn": "ဟုတ်ကဲ့၊ ဒါက ဟာသတစ်ခုပါ။ ငါတို့က ယေရှုလုပ်သလို နတ်ဆိုးတွေကို ခွဲခြားသတ်မှတ်တယ်။ သူတို့ရဲ့ နာမည်တွေကို မေးတယ်။ ပြီးရင် သူတို့ကို အမိန့်ပေးတယ်။ သူတို့က မကြာခဏဆိုသလို လူရဲ့ စိတ်ကနေ တစ်ဆင့် ဖြေကြားတတ်တယ်။ သူတို့ ဘာကြားလဲဆိုတာ ငါတို့ကို ပြောပြလိမ့်မယ်။ ပြီးရင် ငါတို့က သူတို့ကို ဖျက်ဆီးပြီး ခရစ်တော်ရဲ့ စုံလင်တဲ့ တရားစီရင်ခြင်းဆီ နှင်ထုတ်လိုက်တယ်။"
+    },
+    {
+      "speaker": "Clark",
+      "text": "If you're elected governor, would you continue to perform exorcisms while governor?",
+      "cn": "မင်း အုပ်ချုပ်ရေးမှူး ရွေးကောက်ခံရရင် ရာထူးသက်တမ်းအတွင်း နတ်ဆိုးနှင်ထုတ်တာကို ဆက်လုပ်မှာလား။"
+    },
+    {
+      "speaker": "Marx",
+      "text": "I would never stop praying for people.",
+      "cn": "ငါဘယ်တော့မှလူတွေအတွက်ဆုတောင်းတာရပ်မှာမဟုတ်ဘူး။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "So, Audie, remember when we were talking about candidate quality earlier in the first segment. Shout out to Kyle Clark, the reporter there, for 9News in Denver. I love watching you on social media. He's done a lot on this one.",
+      "cn": "ဒါကြောင့် Audi၊ ပထမအပိုဒ်မှာ ကိုယ်စားလှယ်လောင်းတွေရဲ့ အရည်အချင်းတွေအကြောင်း ဆွေးနွေးခဲ့တာကို မှတ်မိလား။ Denver 9News သတင်းထောက် Kyle Clark ကို ဂုဏ်ပြုပါတယ်။ မင်းကို လူမှုမီဒီယာမှာ ကြည့်ရတာ ကြိုက်တယ်။ သူဒီကိစ္စမှာ အများကြီးလုပ်ခဲ့တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He's actually become a bit of a social media star precisely for this coverage.",
+      "cn": "သူဒီသတင်းတင်ဆက်မှုကြောင့် လူမှုမီဒီယာကြယ်ပွင့်ဖြစ်သွားတယ်။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "He has. Precisely for this and the pushback. He's asked different questions of different candidates to give them factual examples. And the fact that he did this, I think it truly exposes a candidate. The fact that he has 2.7, like you said, million dollars in campaign donations. It should be alarming for all of us given this guy's track record and his history and what he just said in that interview there. We're all trying to make sense of exorcisms. And this morning about a candidate, I mean, come on. (CROSS TALK)",
+      "cn": "ဟုတ်တယ်။ ဒါနဲ့ တုံ့ပြန်မှုတွေကြောင့်ပါ။ သူက ကိုယ်စားလှယ်လောင်းတွေကို မေးခွန်းအမျိုးမျိုးမေးပြီး အချက်အလက်တွေပေးတယ်။ သူဒီလိုလုပ်တာက ကိုယ်စားလှယ်လောင်းတွေကို ဖော်ထုတ်တယ်လို့ ငါထင်တယ်။ မင်းပြောသလိုပဲ သူ့မှာ ဒေါ်လာ ၂.၇ သန်း မဲဆွယ်ရန်ပုံငွေရှိတယ်။ ဒီလူရဲ့ အတိတ်၊ သမိုင်းနဲ့ အင်တာဗျူးမှာပြောတာတွေကို ထည့်စဉ်းစားရင် ဒါက ငါတို့အားလုံးကို ထိတ်လန့်စေသင့်တယ်။ ငါတို့အားလုံး နတ်ဆိုးနှင်ထုတ်ခြင်းကို နားလည်ဖို့ကြိုးစားနေတယ်။ ဒီမနက် ကိုယ်စားလှယ်လောင်းတစ်ယောက်အကြောင်း ပြောရရင် ကျေးဇူးပြုပြီး (အပြန်အလှန်စကားပြော)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But, you know what, I think I also thought, like, OK, Marines, if he's a guy talking about the war, maybe people are interested in that. If he's a guy talking about Epstein, which he is, somebody who is constantly talking about child trafficking, there are lanes within the MAGA movement that are laser focused on this topic.",
+      "cn": "ဟုတ်တယ်။ ဒါပေမယ့် မင်းသိလား၊ ငါလည်း စဉ်းစားမိတယ်၊ ကောင်းပြီ၊ မရိန်းတပ်သား၊ သူစစ်ပွဲအကြောင်းပြောနေရင် လူတွေစိတ်ဝင်စားကောင်းစိတ်ဝင်စားမယ်။ သူ Epstein အကြောင်းပြောရင် သူလုပ်သလိုပဲ ကလေးရောင်းဝယ်မှုအကြောင်း အဆက်မပြတ်ပြောနေတဲ့သူဆိုရင် MAGA လှုပ်ရှားမှုမှာ ဒီအကြောင်းကို အထူးအာရုံစိုက်တဲ့ အုပ်စုတွေရှိတယ်။"
+    },
+    {
+      "speaker": "Max Rose",
+      "text": "Yes. Yes, I'll say this as a partizan Democrat to my Republican friends and colleagues, that's your guy. That's your nominee. They should vote for him. They should rally for him.",
+      "cn": "ဟုတ်တယ်။ ဟုတ်တယ်၊ ဒီမိုကရက်တစ်ပါတီသားတစ်ယောက်အနေနဲ့ ငါ့ရဲ့ ရီပါဘလစ်ကန်သူငယ်ချင်းတွေနဲ့ လုပ်ဖော်ကိုင်ဖက်တွေကို ပြောချင်တာက ဒါ မင်းတို့လူပဲ။ ဒါ မင်းတို့ရဲ့ ကိုယ်စားလှယ်လောင်းပဲ။ သူတို့ သူ့ကို မဲပေးသင့်တယ်။ သူတို့ သူ့အတွက် စုဝေးသင့်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I think this is sarcasm. I think under his name it should say Max Rose being sarcastic.",
+      "cn": "ဒါ သရော်စာလို့ ငါထင်တယ်။ သူ့နာမည်အောက်မှာ Max Rose က သရော်စာလို့ ရေးထားသင့်တယ်။"
+    },
+    {
+      "speaker": "Rose",
+      "text": "They should -- we should (INAUDIBLE). This is their pathway to finally take back Colorado. (CROSS TALK)",
+      "cn": "သူတို့ -- သူတို့ -- ငါတို့ (မကြားရ)။ ဒါက ကော်လိုရာဒိုကို ပြန်ရယူဖို့ သူတို့ရဲ့ နောက်ဆုံးနည်းလမ်းပဲ။ (အပြန်အလှန်စကားပြော)"
+    },
+    {
+      "speaker": "Rose",
+      "text": "Us Democrats are so afraid of this guy. And, you know,",
+      "cn": "ငါတို့ ဒီမိုကရက်တစ်ပါတီသားတွေ ဒီလူကို အရမ်းကြောက်တယ်။ ပြီးတော့ မင်းသိလား၊"
+    },
+    {
+      "speaker": "I -- Leon",
+      "text": "Republicans just learned about him.",
+      "cn": "ရီပါဘလစ်ကန်တွေ သူ့ကို ခုမှ စသိကြတာ။"
+    },
+    {
+      "speaker": "Rose",
+      "text": "Oh, my God. We're --",
+      "cn": "အိုး ဘုရားရေ။ ငါတို့ --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Listen. No, OK, what you're saying, I can see you amused, but, however, here's Lauren Boebert of Colorado giving her word on why she thinks this is a decent path. REP. LAUREN BOEBERT (R-CO): So, I think right now in Colorado we need a motivator who can then lead. Motivation has to be key in any of our Republican races, especially in a non-election year. I believe that Victor Marx will get qualified people in positions. I stand ready to help him. I am not disparaging any of the other candidates.",
+      "cn": "နားထောင်ပါ။ မဟုတ်ဘူး၊ ကောင်းပြီ၊ မင်းပြောနေတာကို ငါ ရယ်စရာလို့မြင်တယ်၊ ဒါပေမယ့် ဒါက ကော်လိုရာဒိုက Lauren Boebert က ဒါက လျောက်ပတ်တဲ့လမ်းလို့ ဘာကြောင့်ထင်တာကို ရှင်းပြနေတာ။ အောက်လွှတ်တော်အမတ် Lauren Boebert (R-CO): ဒါကြောင့် ကော်လိုရာဒိုမှာ အခု ဦးဆောင်နိုင်တဲ့ လှုံ့ဆော်သူတစ်ယောက် လိုအပ်တယ်လို့ ငါထင်တယ်။ လှုံ့ဆော်မှုဟာ မည်သည့် ရီပါဘလစ်ကန် မဲဆွယ်စည်းရုံးရေးမှာမဆို အဓိကဖြစ်ရမယ်၊ အထူးသဖြင့် ရွေးကောက်ပွဲမဟုတ်တဲ့နှစ်တွေမှာ။ Victor Marx က အရည်အချင်းပြည့်မီတဲ့လူတွေကို ရာထူးတွေပေးလိမ့်မယ်လို့ ငါယုံကြည်တယ်။ ငါ သူ့ကို ကူညီဖို့ အဆင်သင့်ရှိတယ်။ ငါက တခြားကိုယ်စားလှယ်လောင်းတွေကို နှိမ့်ချတာမဟုတ်ဘူး။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I have endorsed Victor Marx, but that's not something that I've turned the volume way up on. I want candidates to be able to professionally run their own race. I do not like the hateful back and forth that I see with Republicans.",
+      "cn": "ကျွန်တော် Victor Marx ကို ထောက်ခံပါတယ်၊ ဒါပေမယ့် ဒါက ကျွန်တော် အကျယ်တဝင့် ကြွေးကြော်နေတဲ့ကိစ္စတော့ မဟုတ်ပါဘူး။ ကိုယ်စားလှယ်လောင်းတွေက သူတို့ရဲ့ မဲဆွယ်စည်းရုံးရေးကို ကျွမ်းကျင်စွာ လုပ်ဆောင်စေချင်ပါတယ်။ ရီပါဘလစ်ကန်တွေကြားက အမုန်းတရားတွေနဲ့ အပြန်အလှန် ငြင်းခုံနေတာကို ကျွန်တော် မကြိုက်ပါဘူး။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Today is a day of ringing endorsements, but --",
+      "cn": "ဒီနေ့ဟာ အားကောင်းတဲ့ ကျောထောက်နောက်ခံပေးတဲ့နေ့ပါ၊ ဒါပေမယ့် -- --"
+    },
+    {
+      "speaker": "Leon",
+      "text": "I said it, don't (ph) turn up the volume.",
+      "cn": "ကျွန်တော်ပြောတယ်၊ (မကြားရ) အသံကို ကျယ်အောင်လုပ်ပါ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, no, this is the -- we talked about this during the break. The imperfect messenger argument. We heard this with Trump, right?",
+      "cn": "မဟုတ်ဘူး၊ မဟုတ်ဘူး၊ ဒါက -- -- ကျွန်တော်တို့ အနားယူချိန်မှာ ဆွေးနွေးခဲ့တာပါ။ မစုံလင်တဲ့ တမန်တော် အငြင်းအခုံပါ။ Trump မှာလည်း ကြားဖူးတယ်မဟုတ်လား။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You're an evangelical. Maybe you're like, I don't know about the marriages, I don't know about this, I don't know about that. But maybe he will put in people that will do the thing we want.",
+      "cn": "မင်းက ဧဝံဂေလိဆရာပါ။ မင်းက သူ့အိမ်ထောင်ရေးအကြောင်း မသိဘူး၊ ဒါကို မသိဘူး၊ ဟိုဟာကို မသိဘူးလို့ ထင်ကောင်းထင်နိုင်တယ်။ ဒါပေမယ့် သူက ငါတို့လိုချင်တာကို လုပ်နိုင်တဲ့သူတွေကို ခန့်အပ်လိမ့်မယ်။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "It's the outsider again. Look, I mean, in Maine, you had a guy who has a Nazi tattoo fighting the fascists. Was that a credible campaign? Maybe it wasn't.",
+      "cn": "ဒါက ပြင်ပလူတစ်ယောက်ပါ။ ကြည့်ပါ၊ ဆိုလိုတာက Maine မှာ နာဇီတက်တူးထိုးထားတဲ့ ဖက်ဆစ်ဆန့်ကျင်ရေးသမားတစ်ယောက်ရှိတယ်။ အဲဒါက ယုံကြည်လောက်တဲ့ မဲဆွယ်စည်းရုံးရေးလား။ မဟုတ်နိုင်ဘူး။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Maybe he needed an exorcist.",
+      "cn": "သူ့မှာ နတ်ဆိုးမောင်းထုတ်သူတစ်ယောက် လိုကောင်းလိုလိမ့်မယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And maybe he should call Colorado.",
+      "cn": "သူက Colorado ကို ဖုန်းဆက်သင့်တယ်။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "But again, that's also an outsider candidate that people see as different from the establishment as it is in the state. If they think things are going the wrong way, even a charismatic, let's call it, candidate like this can punch through. Yes, the other side may say, hey, we want that guy. We want to face him. But sometimes you get what you wish for and it turns up backfiring.",
+      "cn": "ဒါပေမယ့် ဒါကလည်း ပြင်ပလူ ကိုယ်စားလှယ်လောင်းတစ်ယောက်ပါ၊ လူတွေက သူ့ကို ပြည်နယ်ရဲ့ အဆောက်အအုံနဲ့ မတူဘူးလို့ ထင်ကြတယ်။ သူတို့က အခြေအနေတွေ မှားယွင်းတဲ့လမ်းကြောင်းပေါ် ရောက်နေတယ်လို့ ထင်ရင် ဆွဲဆောင်မှုရှိတဲ့ ဒီလိုကိုယ်စားလှယ်လောင်းတစ်ယောက်တောင် ပေါ်လာနိုင်တယ်။ ဟုတ်တယ်၊ အခြားဘက်က ပြောနိုင်တယ်၊ ဟေး၊ ငါတို့ အဲဒီလူကို လိုချင်တယ်။ သူ့ကို ရင်ဆိုင်ချင်တယ်။ ဒါပေမယ့် တစ်ခါတစ်လေ မင်းလိုချင်တာကို ရတယ်၊ ပြီးတော့ ပြောင်းပြန်ဖြစ်သွားတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, that does backfire. I have one more thing about being an outsider. This one is about a member of Congress who had hoped to go into a new office in the next year. They're coming up short. Last night Republican Nancy Mace finished fifth in the GOP primary for South Carolina governor. She did not get the president's endorsement in the race. She believes it was because of her vote to release the Epstein files, which may have eventually led to her defeat. REP.",
+      "cn": "ဟုတ်တယ်၊ အဲဒါက ပြောင်းပြန်ဖြစ်သွားလိမ့်မယ်။ ပြင်ပလူတွေအကြောင်း ကျွန်တော်မှာ နောက်ထပ်ပြောစရာရှိသေးတယ်။ ဒါက နောက်နှစ်မှာ ရုံးအသစ်တစ်ခုကို ဝင်ဖို့မျှော်လင့်နေတဲ့ ကွန်ဂရက်အမတ်တစ်ယောက်ပါ။ သူတို့ နောက်ကျနေတယ်။ မနေ့ညက ရီပါဘလစ်ကန် Nancy Mace ဟာ South Carolina ပြည်နယ်အုပ်ချုပ်ရေးမှူး ရီပါဘလစ်ကန် ပဏာမရွေးကောက်ပွဲမှာ ပဉ္စမနေရာမှာ ရပ်တည်ခဲ့တယ်။ သူမဟာ မဲဆွယ်စည်းရုံးရေးမှာ သမ္မတရဲ့ ထောက်ခံမှုကို မရခဲ့ဘူး။ သူမက Epstein ဖိုင်တွေကို ထုတ်ပြန်ဖို့ မဲပေးခဲ့တာကြောင့် ဒါက သူမရဲ့ ရှုံးနိမ့်မှုကို ဖြစ်စေခဲ့တယ်လို့ ထင်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "NANCY MACE (R-SC): I chose to expose the abusers of children, and apparently I chose wrong if the goal was winning an election. I'm at peace with that because when a candidate is OK with corruption, when a candidate is OK with cover ups, something is broken. And that's not political opinion, that is a moral emergency.",
+      "cn": "Nancy Mace (R-SC): ကျွန်မက ကလေးသူငယ်အလွဲသုံးစားမှုကို ဖော်ထုတ်ဖို့ ရွေးချယ်ခဲ့တယ်၊ ရွေးကောက်ပွဲအနိုင်ရဖို့က ပန်းတိုင်ဆိုရင် ကျွန်မ မှားယွင်းတဲ့ရွေးချယ်မှု လုပ်ခဲ့တာ ထင်ရှားပါတယ်။ ကျွန်မ ဒါကို လက်ခံပါတယ်၊ အကြောင်းကတော့ ကိုယ်စားလှယ်လောင်းတစ်ယောက်က အဂတိလိုက်စားမှုကို သည်းခံတဲ့အခါ၊ ကိုယ်စားလှယ်လောင်းတစ်ယောက်က ဖုံးကွယ်မှုကို သည်းခံတဲ့အခါ တစ်ခုခု ပျက်စီးသွားတယ်။ အဲဒါက နိုင်ငံရေးအမြင်မဟုတ်ဘူး၊ ကိုယ်ကျင့်တရားဆိုင်ရာ အကျပ်အတည်းပါ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Group chat is back. I'm going to just say it. There's been a lot of difficult headlines for Nancy Mace. Another person who is dealing with scandal and allegations. But at the same time, she is another person who talked about Epstein a lot, right? She's another person who got on the wrong side of Trump on certain issues. Is that reflected here, or is this really candidate quality?",
+      "cn": "အဖွဲ့လိုက်စကားပြောခန်း ပြန်လာပြီ။ ကျွန်တော် တိုက်ရိုက်ပြောမယ်။ Nancy Mace မှာ ခက်ခဲတဲ့ ခေါင်းစီးသတင်းတွေ အများကြီးရှိတယ်။ နောက်တစ်ယောက်ကလည်း အရှုပ်တော်ပုံနဲ့ စွဲချက်တွေ ရင်ဆိုင်နေရတယ်။ ဒါပေမယ့် တစ်ချိန်တည်းမှာ သူမဟာ Epstein အကြောင်း မကြာခဏပြောတဲ့ နောက်ထပ်လူတစ်ယောက်လည်း ဖြစ်တယ်မဟုတ်လား။ သူမဟာ Trump နဲ့ ဆန့်ကျင်ဘက်ရပ်တည်ခဲ့တဲ့ ကိစ္စရပ်တွေရှိတယ်။ ဒါက ဒီမှာ ထင်ဟပ်နေသလား၊ ဒါမှမဟုတ် ဒါက တကယ်တော့ ကိုယ်စားလှယ်လောင်းရဲ့ အရည်အသွေးပြဿနာလား။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "I want to go back to something we talked about in Maine with Susan Collins, talking about the issues, and Platner as well, talking about issues to Mainers. I feel like South Carolinians didn't hear Nancy Mace talking about that. And more of those headlines and more of her getting a microphone in front of her --",
+      "cn": "ကျွန်တော် မိန်းပြည်နယ်မှာ Susan Collins နဲ့ ဆွေးနွေးခဲ့တဲ့ အကြောင်းအရာကို ပြန်သွားချင်တယ်၊ ပြဿနာတွေအကြောင်း ပြောဖို့၊ ပြီးတော့ Plattner က မိန်းပြည်နယ်သားတွေကို ပြဿနာတွေအကြောင်း ပြောဖို့ပါ။ South Carolina ပြည်နယ်သားတွေက Nancy Mace ဒီအကြောင်းတွေ ပြောတာကို မကြားရဘူးလို့ ကျွန်တော်ထင်တယ်။ ပိုပြီးတော့ ခေါင်းကြီးသတင်းတွေနဲ့ သူမ မိုက်ခရိုဖုန်းကိုင်ပြီး -- --"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Or coming on this network and arguing with somebody and then saying something completely the opposite when she gets off camera, I think those things are what really caught up to her in this race.",
+      "cn": "ဒါမှမဟုတ် ဒီကွန်ရက်ကို လာပြီး တစ်စုံတစ်ယောက်နဲ့ ငြင်းခုံပြီး စင်ပေါ်ကဆင်းပြီးနောက် လုံးဝဆန့်ကျင်ဘက် ပြောတာတွေ၊ ဒါတွေက သူမရဲ့ ဒီရွေးကောက်ပွဲမှာ တကယ်အာရုံစိုက်ခံရတဲ့ အကြောင်းရင်းတွေလို့ ကျွန်တော်ထင်တယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I also heard she didn't do ad spend on",
+      "cn": "သူမ ကြော်ငြာတွေအတွက် ငွေမသုံးဘူးလို့လည်း ကြားတယ် -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Like only digital. Is that wise?",
+      "cn": "ဒစ်ဂျစ်တယ်ကြော်ငြာတွေပဲ လုပ်တယ်ပေါ့။ ဒါက ပညာရှိရာရောက်လား။"
+    },
+    {
+      "speaker": "Rose",
+      "text": "Well, I -- first of all, Donald Trump still has a stranglehold on the Republican primary. And that is why his party is getting ripped apart.",
+      "cn": "ဟုတ်ကဲ့၊ ကျွန်တော် -- -- ပထမဆုံး၊ Donald Trump က ရီပတ်ဘလစ်ကန် ပဏာမရွေးကောက်ပွဲကို ခိုင်မာစွာ ထိန်းချုပ်ထားဆဲပါ။ ဒါကြောင့် သူ့ပါတီက ကွဲပြားနေတာပါ။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "And didn't endorse her.",
+      "cn": "ပြီးတော့ သူမကို ထောက်ခံတာမရှိဘူး။"
+    },
+    {
+      "speaker": "Rose",
+      "text": "Because the primary base is so extreme and they are so disassociated at this point from independents and moderates nationwide. But Nancy Mace took it one step further. She decided to antagonize, not just Donald Trump, but literally everyone in her life to include just random folks at the airport. So, what you saw here was -- and politicians do this sometimes. They jump into races not to win, but to bolster their public profile for something they're after.",
+      "cn": "ဘာလို့လဲဆိုတော့ ပဏာမရွေးကောက်ပွဲရဲ့ အခြေခံမဲဆန္ဒရှင်တွေက အလွန်အမင်း အစွန်းရောက်နေပြီး သူတို့ဟာ တစ်နိုင်ငံလုံးအတိုင်းအတာနဲ့ လွတ်လပ်သောသူတွေနဲ့ အလယ်အလတ်သမားတွေနဲ့ ဆိုးဆိုးရွားရွား ကွဲလွဲနေပါတယ်။ ဒါပေမယ့် Nancy Mace က ပိုပြီးသွားတယ်။ သူမက Donald Trump သာမက သူ့ဘဝမှာ လူတိုင်းနီးပါးကို ဆန့်ကျင်ဖို့ ဆုံးဖြတ်လိုက်တယ်၊ လေဆိပ်က ကျပန်းလူတွေအပါအဝင်။ ဒီတော့ ဒီမှာ မြင်ရတာက -- -- နိုင်ငံရေးသမားတွေ တစ်ခါတစ်လေ ဒီလိုလုပ်တတ်တယ်။ သူတို့ဟာ အနိုင်ရဖို့ မဟုတ်ဘဲ သူတို့ရဲ့ လူထုပုံရိပ်ကို မြှင့်တင်ဖို့၊ တစ်ချို့သော ရည်မှန်းချက်တွေကို လိုက်စားဖို့ ရွေးကောက်ပွဲဝင်ကြတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Well, this is the kind of thing that is in my group chat because every member of the YOLO caucus, the people who limp back to Congress from their primaries, they're really upset. And they plan to spend the next couple of months antagonizing the White House. Do you think Nancy Mace will be one of those?",
+      "cn": "ဟုတ်တယ်။ ဟုတ်ကဲ့၊ ဒါက ကျွန်တော့် group chat ထဲမှာ ရှိတဲ့အကြောင်းအရာပဲ၊ YOLO caucus ရဲ့ အဖွဲ့ဝင်တိုင်း၊ ပဏာမရွေးကောက်ပွဲကနေ ကွန်ဂရက်ကို ပြန်ရောက်လာတဲ့သူတွေက အရမ်းမကျေနပ်ကြဘူး။ သူတို့ဟာ လာမယ့်လတွေမှာ အိမ်ဖြူတော်ကို ဆန့်ကျင်ဖို့ စီစဉ်နေတယ်။ Nancy Mace က သူတို့ထဲက တစ်ယောက်ဖြစ်လိမ့်မယ်လို့ ထင်လား။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "I think she's going to in her final months. I mean she's already burned all the bridges. She's -- I think the voters in her state didn't like the drama and they said, hey, we don't want that actually running the place.",
+      "cn": "သူမက နောက်ဆုံးလတွေမှာ ဒီလိုလုပ်လိမ့်မယ်လို့ ကျွန်တော်ထင်တယ်။ ဆိုလိုတာက သူမက တံတားတွေအားလုံးကို မီးရှို့ပြီးသွားပြီ။ သူမ -- -- သူမရဲ့ ပြည်နယ်က မဲဆန္ဒရှင်တွေက ဒီလို ဇာတ်လမ်းတွေကို မကြိုက်ဘူးလို့ ကျွန်တော်ထင်တယ်၊ သူတို့က ဟေး၊ ဒီလိုလူမျိုးကို ဒီနေရာကို တကယ်အုပ်ချုပ်ခိုင်းဖို့ မလိုချင်ဘူးလို့ ပြောတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. That's a good point, you're not effective if you're at odds with everyone.",
+      "cn": "ဟုတ်တယ်၊ ကောင်းပြောတယ်။ မင်းက လူတိုင်းနဲ့ သဘောမတူဘူးဆိုရင် မင်း ထိရောက်မှာမဟုတ်ဘူး။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "You're not effective. And you're infective (ph). And she's going to continue this. Obviously, if she's done it up to this point, I don't think she's going to stop. But I -- she's already burned the bridges with President Trump, clearly. So, what have you got to lose now?",
+      "cn": "မင်း ထိရောက်မှာမဟုတ်ဘူး၊ ပြီးတော့ မင်း ကူးစက်တတ်တယ် (အသံ)။ သူမ ဒီအတိုင်း ဆက်လုပ်လိမ့်မယ်။ သိသာတာက သူမ အခုအထိ ဒီလိုလုပ်ခဲ့ရင် ရပ်တော့မယ်လို့ ကျွန်တော်မထင်ဘူး။ ဒါပေမယ့် ကျွန်တော် -- -- သူမက Trump သမ္မတနဲ့ လုံးဝ ဆက်ဆံရေးပျက်သွားပြီ၊ သိသာပါတယ်။ ဒီတော့ အခု မင်း ဘာဆုံးရှုံးစရာ ကျန်သေးလဲ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What have you got to lose? OK, speaking of YOLO, we're going to talk about what's in our group chats on this news show. Mike Leon, what are you talking about in your group chats?",
+      "cn": "မင်း ဘာဆုံးရှုံးစရာ ကျန်သေးလဲ။ ကောင်းပြီ၊ YOLO အကြောင်းပြောရရင် ကျွန်တော်တို့ ဒီသတင်းအစီအစဉ်မှာ group chat ထဲက အကြောင်းအရာတွေကို ဆွေးနွေးပါမယ်။ Mike Leong၊ မင်းရဲ့ group chat ထဲမှာ ဘာတွေ ဆွေးနွေးနေလဲ။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Well, first off, it's always the Knicks. But I'm talking about UFC 250. One thing that is always interesting to me --",
+      "cn": "ဟုတ်ကဲ့၊ ပထမဆုံး၊ အမြဲတမ်း နစ်ခ်စ်အသင်းပါ။ ဒါပေမယ့် ကျွန်တော် UFC 250 အကြောင်းပြောနေတာ။ ကျွန်တော့်ကို အမြဲစိတ်ဝင်စားစေတဲ့အရာတစ်ခုရှိတယ် -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This is the UFC fight. The claws going up on the White House lawn.",
+      "cn": "ဒါ UFC ပွဲပါ။ လက်သည်းတွေက အိမ်ဖြူတော်မြက်ခင်းပေါ်ကို ရောက်နေတယ်။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "The UFC Freedom 250. Unnecessary. All of this that you're seeing here in the screen here. But Trump has always used the combat sports space to talk to voters. It's something I've talked to Democrats about. Senator Ruben Gallego, who's a big boxing fan, him and I have had this conversation. Democrat --",
+      "cn": "UFC 250 လွတ်လပ်ရေး။ မလိုအပ်ပါဘူး။ မင်း မျက်နှာပြင်ပေါ်မှာ မြင်နေရတဲ့အရာအားလုံးပါ။ ဒါပေမယ့် Trump က တိုက်ခိုက်ရေးအားကစားနယ်ပယ်ကို မဲဆန္ဒရှင်တွေနဲ့ ဆက်သွယ်ဖို့ အသုံးပြုနေတယ်။ ကျွန်တော် ဒီအကြောင်းကို ဒီမိုကရက်တွေနဲ့ ဆွေးနွေးခဲ့တယ်။ အထက်လွှတ်တော်အမတ် Ruben Gallego က လက်ဝှေ့ပရိသတ်ကြီးဖြစ်ပြီး ကျွန်တော် သူနဲ့ ဒီလိုစကားပြောခဲ့တယ်။ ဒီမိုကရက် -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And they're giving tickets to combat (INAUDIBLE).",
+      "cn": "သူတို့က တိုက်ခိုက်ရေးပွဲတွေရဲ့ လက်မှတ်တွေကို လက်ဆောင်ပေးနေတယ် (မကြားရဘူး)။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Correct. And -- exactly. And Trump has always used it as a vehicle, for his relationship with Tyson and the fights that he would put on in Trump -- at Taj Mahal or whatever.",
+      "cn": "မှန်ပါတယ်။ ပြီးတော့ -- -- ဒါပဲ။ Trump က ဒါကို Tyson နဲ့ သူ့ရဲ့ဆက်ဆံရေး၊ Trump Taj Mahal ဒါမှမဟုတ် တခြားနေရာတွေမှာ ကျင်းပခဲ့တဲ့ပွဲတွေအတွက် ကိရိယာတစ်ခုအနေနဲ့ အသုံးပြုခဲ့တယ်။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "He would always be in this space. He's always had these relationships because those are the kind of voters that go out and vote for him. That's the thing that we've always talked about.",
+      "cn": "သူက ဒီနယ်ပယ်မှာ အမြဲရှိတယ်။ သူ့မှာ ဒီဆက်ဆံရေးတွေ အမြဲရှိတယ်၊ ဘာလို့လဲဆိုတော့ အဲဒီလူတွေက သူ့ကိုမဲပေးဖို့ ထွက်လာတဲ့ မဲဆန္ဒရှင်တွေဖြစ်လို့ပါ။ ဒါက ကျွန်တော်တို့ အမြဲပြောနေတဲ့အရာပါ။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right, my friend at \"The Daily Signal,\" what's in your group chat?",
+      "cn": "ကောင်းပြီ၊ The Daily Signal က ကျွန်တော့်သူငယ်ချင်း၊ မင်းရဲ့ group chat ထဲမှာ ဘာရှိလဲ။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "So, I'm going to bring up the Knicks because it's a big thing. I moved here to New York --",
+      "cn": "ဒါဆို ကျွန်တော် နစ်ခ်စ်အသင်းအကြောင်း ပြောမယ်၊ ဘာလို့လဲဆိုတော့ ဒါက အရေးကြီးတဲ့ကိစ္စကြီးဖြစ်လို့ပါ။ ကျွန်တော် နယူးယောက်ကို ပြောင်းလာခဲ့တယ် -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Why do I even bother?",
+      "cn": "ငါ ဘာလို့ ဒီဒုက္ခခံနေရတာလဲ။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "I know. Why did you even bother.",
+      "cn": "ငါသိတယ်။ မင်း ဘာလို့ ဒီဒုက္ခခံနေရတာလဲ။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Just change the segment.",
+      "cn": "ခေါင်းစဉ်ပြောင်းလိုက်ရအောင်။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "You know, it matters to me. I'm from Oakland, California. The saddest sports town in America. We've lost all of our sports teams. So, just the fact the Knicks -- look, I have a lot of New York sports fan friends who haven't seen the Knicks or the Jets, or these teams ever do anything pretty much in their life, and now they get to spend some time with their kids and enjoy this moment. It may not come again. So, you know what --",
+      "cn": "မင်းသိလား၊ ဒါက ကျွန်တော့်အတွက် အရေးကြီးတယ်။ ကျွန်တော် ကယ်လီဖိုးနီးယားပြည်နယ်၊ အော့ကလန်မြို့က လာတယ်၊ အမေရိကရဲ့ ဝမ်းနည်းစရာအကောင်းဆုံး အားကစားမြို့ပါ။ ကျွန်တော်တို့ရဲ့ အားကစားအသင်းအားလုံး ဆုံးရှုံးခဲ့ရတယ်။ ဒါကြောင့် နစ်ခ်စ်အသင်းနဲ့ဆိုရင် -- -- ကြည့်လိုက်၊ ကျွန်တော့်မှာ နယူးယောက်အားကစားပရိသတ်သူငယ်ချင်းတွေ အများကြီးရှိတယ်၊ သူတို့ ဒီဘဝမှာ နစ်ခ်စ်၊ ဂျက်လေယာဉ် ဒါမှမဟုတ် တခြားအသင်းတွေ ဘာမှမအောင်မြင်တာကို တွေ့ခဲ့ရသလောက်ပဲ၊ အခု သူတို့ ကလေးတွေနဲ့အတူ ဒီအခိုက်အတန့်ကို ခံစားနိုင်ပြီ။ ဒီအခွင့်အရေး နောက်တစ်ကြိမ် ပြန်ရမှာမဟုတ်ဘူး။ ဒါကြောင့် မင်းသိလား -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I love it. I love it. It's communal.",
+      "cn": "ငါဒါကိုကြိုက်တယ်။ ငါဒါကိုကြိုက်တယ်။ ဒါဟာအစုလိုက်အတွေ့အကြုံပဲ။"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "It's communal. Its wonderful.",
+      "cn": "ဒါဟာအစုလိုက်အတွေ့အကြုံပဲ။ အရမ်းကောင်းတယ်။"
+    },
+    {
+      "speaker": "Rose",
+      "text": "You know it, not just the Knicks, Donald Trump lost that game for the Knicks.",
+      "cn": "မင်းသိလား၊ နစ်ခ်စ်အသင်းတင်မဟုတ်ဘူး၊ Donald Trump က နစ်ခ်စ်အသင်းကို အဲဒီပွဲရှုံးအောင်လုပ်ခဲ့တာ။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Zero-11, 0-11 in sporting events.",
+      "cn": "အားကစားပွဲတွေမှာ 0-11 ရှုံးတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You're one of those people.",
+      "cn": "မင်းက အဲဒီလိုလူမျိုးပဲ။"
+    },
+    {
+      "speaker": "Rose",
+      "text": "Stay away. He lost it for us. We -- all we were doing is winning. This guy shows up.",
+      "cn": "ဝေးဝေးနေပါ။ သူက ငါတို့ကိုရှုံးစေတယ်။ ငါတို့ -- ငါတို့အမြဲနိုင်နေတာ။ ဒီကောင်လေးပေါ်လာတယ်။"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, luckily, he's not going. So, all of New York is not calling him the cooler.",
+      "cn": "ကံကောင်းတာက သူမသွားတော့ဘူး။ ဒါကြောင့် New York တစ်ခုလုံးက သူ့ကို ကံဆိုးစေတဲ့သူလို့မခေါ်ဘူး။"
+    },
+    {
+      "speaker": "Rose",
+      "text": "Fine. I thought I couldn't dislike the guy more.",
+      "cn": "ကောင်းပြီ။ ငါသူ့ကိုမုန်းဖို့လုံလောက်ပြီလို့ထင်ခဲ့တာ။"
+    },
+    {
+      "speaker": "Leon",
+      "text": "I agree. (CROSS TALK)",
+      "cn": "ငါသဘောတူတယ်။ (အပြန်အလှန်စကားပြော)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You guys. Thank you so much. Thank you for waking up with us. I'm Audie Cornish, and the headlines are next. var CNN = CNN || {};",
+      "cn": "အားလုံးပဲ။ ကျေးဇူးအများကြီးတင်ပါတယ်။ ငါတို့နဲ့အတူနိုးထလာတဲ့အတွက်ကျေးဇူးတင်ပါတယ်။ ကျွန်တော်က Oti Cornish ပါ၊ နောက်တစ်ခုက သတင်းအကျဉ်းချုပ်ပါ။ var CNN = CNN || {};"
+    }
+  ]
+}

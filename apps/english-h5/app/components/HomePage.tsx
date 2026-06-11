@@ -1,36 +1,20 @@
 "use client";
 
+import {
+  type LocaleCode,
+  getLocaleConfig,
+  getUiCopy,
+  localePath,
+} from "@study/core/i18n";
 import type { ArticleIndexItem } from "@study/core/types";
+import { LanguageSwitcher } from "@study/ui/LanguageSwitcher";
 import Link from "next/link";
 import { haptic } from "../lib/haptics";
 import { HapticToggle } from "./HapticToggle";
 import { ThemeToggle } from "./ThemeToggle";
 
-const featureCards = [
-  {
-    title: "词汇",
-    value: "≤50",
-    detail: "按新闻语境抽重点词，不再用考试标签。",
-  },
-  {
-    title: "难句",
-    value: "20-30",
-    detail: "单独生成长难句解析，适合逐句精读。",
-  },
-  {
-    title: "朗读",
-    value: "TTS",
-    detail: "词汇预生成，段落和难句按需缓存播放。",
-  },
-  {
-    title: "测验",
-    value: "Quiz",
-    detail: "选择后看解析，错题进入复习节奏。",
-  },
-];
-
-function formatDate(date: string) {
-  return new Intl.DateTimeFormat("zh-CN", {
+function formatDate(date: string, locale: LocaleCode) {
+  return new Intl.DateTimeFormat(getLocaleConfig(locale).dateLocale, {
     month: "2-digit",
     day: "2-digit",
     weekday: "short",
@@ -43,25 +27,43 @@ function shortTitle(title: string) {
     .replace(/^CNN This Morning\s*·\s*/, "");
 }
 
-function ArticleMeta({ article }: { article: ArticleIndexItem }) {
+function ArticleMeta({
+  article,
+  locale,
+}: {
+  article: ArticleIndexItem;
+  locale: LocaleCode;
+}) {
+  const copy = getUiCopy(locale);
   return (
     <div className="flex flex-wrap items-center gap-2 text-xs font-black text-sub">
-      <span>{formatDate(article.date)}</span>
+      <span>{formatDate(article.date, locale)}</span>
       <span className="h-1 w-1 rounded-full bg-line" />
-      <span>{article.vocabCount} 词</span>
+      <span>
+        {article.vocabCount} {copy.words}
+      </span>
       <span className="h-1 w-1 rounded-full bg-line" />
-      <span>{article.sentenceCount} 难句</span>
+      <span>
+        {article.sentenceCount} {copy.sentences}
+      </span>
       {article.hasAudio ? (
         <>
           <span className="h-1 w-1 rounded-full bg-line" />
-          <span>音频</span>
+          <span>{copy.audio}</span>
         </>
       ) : null}
     </div>
   );
 }
 
-export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
+export function HomePage({
+  articles,
+  locale,
+}: {
+  articles: ArticleIndexItem[];
+  locale: LocaleCode;
+}) {
+  const copy = getUiCopy(locale);
   const todayArticle = articles[0];
   const restArticles = articles.slice(1);
   const totalVocab = articles.reduce(
@@ -85,7 +87,7 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
     <main className="min-h-dvh overflow-hidden bg-bg pb-safe text-text">
       <header className="safe-x sticky top-0 z-30 flex h-[calc(env(safe-area-inset-top)+4.25rem)] items-end justify-between gap-4 border-b border-line bg-bg/90 pb-3 backdrop-blur-xl">
         <Link
-          href="/"
+          href={localePath(locale)}
           className="flex items-center gap-3"
           onClick={() => haptic("tap")}
         >
@@ -94,12 +96,13 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
           </span>
           <div>
             <p className="text-[10px] font-black uppercase tracking-[0.18em] text-brand">
-              News Study
+              {copy.siteKicker}
             </p>
-            <h1 className="text-lg font-black text-text">cnn 新闻精读</h1>
+            <h1 className="text-lg font-black text-text">{copy.siteName}</h1>
           </div>
         </Link>
         <div className="flex items-center gap-2">
+          <LanguageSwitcher locale={locale} compact />
           <HapticToggle compact />
           <ThemeToggle compact />
         </div>
@@ -110,12 +113,10 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
           Daily intensive reading
         </p>
         <h2 className="mt-5 text-[2.75rem] font-black leading-[0.96] tracking-normal text-text">
-          每天一篇新闻，
-          <br />
-          把英语拆开学。
+          {copy.heroTitle}
         </h2>
         <p className="mt-5 text-base font-semibold leading-7 text-sub">
-          双语全文、重点词汇、长难句、测验和美式朗读，组合成一个手机上的精读流程。
+          {copy.heroText}
         </p>
 
         <div className="mt-7 overflow-hidden rounded-[8px] border border-line bg-[#111713] text-[#edf7f0] shadow-[var(--shadow)]">
@@ -139,20 +140,19 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
                 : "CNN This Morning"}
             </h3>
             <p className="mt-3 line-clamp-3 text-sm font-semibold leading-6 text-white/68">
-              {todayArticle?.summary ||
-                "文章生成后，这里会显示今日摘要和学习入口。"}
+              {todayArticle?.summary || copy.noArticles}
             </p>
             <div className="mt-5 grid grid-cols-3 gap-2">
               <div className="rounded-[8px] bg-white/[0.07] p-3">
-                <p className="text-[10px] text-white/45">articles</p>
+                <p className="text-[10px] text-white/45">{copy.articles}</p>
                 <p className="mt-1 text-xl font-black">{articles.length}</p>
               </div>
               <div className="rounded-[8px] bg-white/[0.07] p-3">
-                <p className="text-[10px] text-white/45">vocab</p>
+                <p className="text-[10px] text-white/45">{copy.words}</p>
                 <p className="mt-1 text-xl font-black">{totalVocab}</p>
               </div>
               <div className="rounded-[8px] bg-white/[0.07] p-3">
-                <p className="text-[10px] text-white/45">sentences</p>
+                <p className="text-[10px] text-white/45">{copy.sentences}</p>
                 <p className="mt-1 text-xl font-black">{totalSentences}</p>
               </div>
             </div>
@@ -162,11 +162,11 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
         <div className="mt-6 flex gap-3">
           {todayArticle ? (
             <Link
-              href={`/articles/${todayArticle.date}`}
+              href={localePath(locale, `/articles/${todayArticle.date}`)}
               onClick={() => haptic("selection")}
               className="tap-highlight flex h-12 flex-1 items-center justify-center rounded-[8px] bg-brand text-sm font-black text-white active:scale-[0.99]"
             >
-              开始学习
+              {copy.startLearning}
             </Link>
           ) : null}
           <button
@@ -174,18 +174,18 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
             onClick={scrollToArticles}
             className="tap-highlight flex h-12 items-center justify-center rounded-[8px] border border-line bg-panel px-5 text-sm font-black text-text active:scale-[0.99]"
           >
-            文章
+            {copy.articles}
           </button>
         </div>
       </section>
 
       <section className="mt-8">
         <div className="safe-x mb-3 flex items-end justify-between">
-          <h2 className="text-lg font-black text-text">功能</h2>
-          <span className="text-xs font-black text-sub">横向滑动</span>
+          <h2 className="text-lg font-black text-text">{copy.features}</h2>
+          <span className="text-xs font-black text-sub">{copy.swipeHint}</span>
         </div>
         <div className="no-scrollbar flex snap-x gap-3 overflow-x-auto px-4 pb-2">
-          {featureCards.map((feature) => (
+          {copy.featureCards.map((feature) => (
             <article
               key={feature.title}
               className="min-w-[72%] snap-start rounded-[8px] border border-line bg-panel p-4 shadow-sm"
@@ -208,9 +208,9 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
 
       <section className="safe-x mt-8">
         <div className="rounded-[8px] border border-line bg-panel p-4">
-          <h2 className="text-lg font-black text-text">学习路径</h2>
+          <h2 className="text-lg font-black text-text">{copy.studyPath}</h2>
           <div className="mt-4 space-y-3">
-            {["读原文", "查词汇", "拆难句", "做测验"].map((step, index) => (
+            {copy.steps.map((step, index) => (
               <div key={step} className="flex items-center gap-3">
                 <span className="grid h-8 w-8 place-items-center rounded-full bg-brand-soft font-mono text-xs font-black text-brand">
                   {index + 1}
@@ -226,17 +226,19 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
       {todayArticle ? (
         <section className="safe-x mt-8">
           <div className="mb-3 flex items-end justify-between">
-            <h2 className="text-lg font-black text-text">今日文章</h2>
+            <h2 className="text-lg font-black text-text">
+              {copy.todayArticle}
+            </h2>
             <span className="text-xs font-black text-sub">
               {todayArticle.date}
             </span>
           </div>
           <Link
-            href={`/articles/${todayArticle.date}`}
+            href={localePath(locale, `/articles/${todayArticle.date}`)}
             onClick={() => haptic("selection")}
             className="tap-highlight block rounded-[8px] border border-line bg-panel p-5 shadow-[var(--shadow)] transition active:scale-[0.99]"
           >
-            <ArticleMeta article={todayArticle} />
+            <ArticleMeta article={todayArticle} locale={locale} />
             <h3 className="mt-4 text-xl font-black leading-tight text-text">
               {shortTitle(todayArticle.title)}
             </h3>
@@ -248,22 +250,22 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
       ) : (
         <section className="safe-x mt-8">
           <div className="rounded-[8px] border border-line bg-panel p-5 text-sm leading-6 text-sub">
-            暂无文章数据。请先生成 public/data 后再打开 H5。
+            {copy.noArticles}
           </div>
         </section>
       )}
 
       {restArticles.length ? (
         <section id="articles" className="safe-x mt-8 space-y-3">
-          <h2 className="text-lg font-black text-text">往期文章</h2>
+          <h2 className="text-lg font-black text-text">{copy.pastArticles}</h2>
           {restArticles.map((article) => (
             <Link
               key={article.date}
-              href={`/articles/${article.date}`}
+              href={localePath(locale, `/articles/${article.date}`)}
               onClick={() => haptic("selection")}
               className="tap-highlight block rounded-[8px] border border-line bg-panel p-4 transition active:scale-[0.99]"
             >
-              <ArticleMeta article={article} />
+              <ArticleMeta article={article} locale={locale} />
               <h3 className="mt-3 text-base font-black leading-snug text-text">
                 {shortTitle(article.title)}
               </h3>

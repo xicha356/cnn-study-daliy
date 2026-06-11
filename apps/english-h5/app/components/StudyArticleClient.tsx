@@ -6,6 +6,7 @@ import {
   subscribeAudioPlayer,
   updateGlobalAudioMetadata,
 } from "@study/core/audio";
+import { type LocaleCode, getUiCopy, localePath } from "@study/core/i18n";
 import {
   getParagraphTranslation,
   getWordMeaning,
@@ -21,6 +22,7 @@ import type {
 import { orderVocabularyByArticle } from "@study/core/vocabulary";
 import { AudioButton } from "@study/ui/AudioButton";
 import { GlobalAudioPlayer } from "@study/ui/GlobalAudioPlayer";
+import { LanguageSwitcher } from "@study/ui/LanguageSwitcher";
 import Link from "next/link";
 import type { PointerEvent } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
@@ -35,14 +37,6 @@ type ActiveAudioTarget = {
   kind: "paragraph" | "sentence";
   key: string;
 };
-
-const tabs: Array<{ key: TabKey; label: string }> = [
-  { key: "original", label: "原文" },
-  { key: "translation", label: "翻译" },
-  { key: "vocabulary", label: "词汇" },
-  { key: "sentences", label: "难句" },
-  { key: "quiz", label: "测验" },
-];
 
 function shortTitle(title: string) {
   return title.length > 18 ? `${title.slice(0, 18)}...` : title;
@@ -117,7 +111,21 @@ function buildVocabularyMatcher(vocabulary: VocabularyItem[]) {
     .sort((a, b) => b.lowerWord.length - a.lowerWord.length);
 }
 
-export function StudyArticleClient({ article }: { article: StudyArticle }) {
+export function StudyArticleClient({
+  article,
+  locale,
+}: {
+  article: StudyArticle;
+  locale: LocaleCode;
+}) {
+  const copy = getUiCopy(locale);
+  const tabs: Array<{ key: TabKey; label: string }> = [
+    { key: "original", label: copy.tabs.original },
+    { key: "translation", label: copy.tabs.translation },
+    { key: "vocabulary", label: copy.tabs.vocabulary },
+    { key: "sentences", label: copy.tabs.sentences },
+    { key: "quiz", label: copy.tabs.quiz },
+  ];
   const [activeTab, setActiveTab] = useState<TabKey>("original");
   const [visibleCn, setVisibleCn] = useState<Record<string, boolean>>({});
   const [translations, setTranslations] = useState<Record<string, string>>(() =>
@@ -179,7 +187,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   async function ensureTranslation(paragraph: Paragraph) {
     const existing =
       translations[paragraph.id] ||
-      getParagraphTranslation(article.date, paragraph.id);
+      getParagraphTranslation(article.date, paragraph.id, locale);
     if (existing) {
       setTranslations((current) => ({ ...current, [paragraph.id]: existing }));
       return existing;
@@ -187,9 +195,9 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
 
     setLoadingCn((current) => ({ ...current, [paragraph.id]: true }));
     try {
-      const translated = await requestBrowserTranslation(paragraph.en);
+      const translated = await requestBrowserTranslation(paragraph.en, locale);
       if (translated) {
-        setParagraphTranslation(article.date, paragraph.id, translated);
+        setParagraphTranslation(article.date, paragraph.id, translated, locale);
         setTranslations((current) => ({
           ...current,
           [paragraph.id]: translated,
@@ -210,7 +218,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
 
     const hadTranslation = Boolean(
       translations[paragraph.id] ||
-        getParagraphTranslation(article.date, paragraph.id),
+        getParagraphTranslation(article.date, paragraph.id, locale),
     );
     try {
       const translated = await ensureTranslation(paragraph);
@@ -225,7 +233,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     haptic("selection");
     const hadTranslation = Boolean(
       translations[paragraph.id] ||
-        getParagraphTranslation(article.date, paragraph.id),
+        getParagraphTranslation(article.date, paragraph.id, locale),
     );
     try {
       const translated = await ensureTranslation(paragraph);
@@ -267,24 +275,27 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       return;
     }
 
-    const cached = getWordMeaning(cleanWord);
-    const audioPromise = speakWordText(cleanWord, cached || "查询中...");
+    const cached = getWordMeaning(cleanWord, locale);
+    const audioPromise = speakWordText(
+      cleanWord,
+      cached || copy.status.loadingTranslation,
+    );
     updateGlobalAudioMetadata({
       title: cleanWord,
       subtitle: "Word",
-      description: cached || "查询中...",
+      description: cached || copy.status.loadingTranslation,
     });
 
     if (cached) return;
 
     try {
-      const cn = await requestBrowserTranslation(cleanWord);
-      const description = cn || "暂无释义";
-      setWordMeaning(cleanWord, description);
+      const cn = await requestBrowserTranslation(cleanWord, locale);
+      const description = cn || copy.status.noMeaning;
+      setWordMeaning(cleanWord, description, locale);
       updateGlobalAudioMetadata({ description });
       void audioPromise.then(() => updateGlobalAudioMetadata({ description }));
     } catch {
-      const description = "释义查询失败，请稍后再试";
+      const description = copy.status.meaningFailed;
       haptic("error");
       updateGlobalAudioMetadata({ description });
       void audioPromise.then(() => updateGlobalAudioMetadata({ description }));
@@ -527,7 +538,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                 ? "word-pop bg-brandSoft text-brand"
                 : "",
             ].join(" ")}
-            title="Long press to hear and translate"
+            title={copy.actions.translate}
           >
             {word}
           </span>,
@@ -614,8 +625,8 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       <header className="fixed inset-x-0 top-0 z-40 border-b border-line bg-bg pt-[env(safe-area-inset-top)]">
         <div className="safe-x mx-auto flex h-14 max-w-screen-sm items-center gap-3">
           <Link
-            href="/"
-            aria-label="返回首页"
+            href={localePath(locale)}
+            aria-label={copy.actions.back}
             onClick={() => haptic("tap")}
             className="tap-highlight flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-line bg-panel text-lg font-black"
           >
@@ -633,8 +644,8 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
               haptic("tap");
               void copyArticle();
             }}
-            aria-label="Copy full article"
-            title="Copy full article"
+            aria-label={copy.actions.copy}
+            title={copy.actions.copy}
             className={[
               "tap-highlight flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-line bg-panel text-sm font-black text-sub transition active:scale-95",
               copiedKey === "article" ? "border-good text-good" : "",
@@ -644,6 +655,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
               {copiedKey === "article" ? "✓" : "⧉"}
             </span>
           </button>
+          <LanguageSwitcher locale={locale} compact />
           <HapticToggle compact />
           <ThemeToggle compact />
         </div>
@@ -652,7 +664,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       <div className="safe-x mx-auto max-w-screen-sm pt-[calc(env(safe-area-inset-top)+4.5rem)]">
         <section className="mb-4 rounded-[8px] border border-line bg-panel p-4">
           <p className="text-xs font-bold uppercase tracking-[0.16em] text-brand">
-            Study Article
+            {copy.todayArticle}
           </p>
           <h2 className="mt-2 text-xl font-black leading-tight text-text">
             {article.title}
@@ -718,13 +730,13 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                           haptic("tap");
                           void copyParagraph(
                             isShowingCn
-                              ? translation || "暂无翻译"
+                              ? translation || copy.status.noTranslation
                               : paragraph.en,
                             paragraph.id,
                           );
                         }}
-                        aria-label={`Copy paragraph ${index + 1}`}
-                        title={`Copy paragraph ${index + 1}`}
+                        aria-label={`${copy.actions.copy} P${index + 1}`}
+                        title={`${copy.actions.copy} P${index + 1}`}
                         className={[
                           "inline-flex h-8 w-8 items-center justify-center rounded-full border border-line bg-panel text-xs font-black text-sub transition active:scale-95",
                           copiedKey === `paragraph:${paragraph.id}`
@@ -743,8 +755,8 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                         onClick={() =>
                           void readParagraphAloud(paragraph.en, paragraph.id)
                         }
-                        aria-label={`Read paragraph ${index + 1}`}
-                        title={`Read paragraph ${index + 1}`}
+                        aria-label={`${copy.actions.read} P${index + 1}`}
+                        title={`${copy.actions.read} P${index + 1}`}
                         className={[
                           "inline-flex h-8 w-8 items-center justify-center rounded-full border bg-panel text-xs font-black transition active:scale-95",
                           isReadingParagraph
@@ -767,10 +779,14 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                           void toggleParagraphTranslation(paragraph)
                         }
                         aria-label={
-                          isShowingCn ? "Show English" : "Translate paragraph"
+                          isShowingCn
+                            ? copy.actions.hideTranslation
+                            : copy.actions.showTranslation
                         }
                         title={
-                          isShowingCn ? "Show English" : "Translate paragraph"
+                          isShowingCn
+                            ? copy.actions.hideTranslation
+                            : copy.actions.showTranslation
                         }
                         className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-muted text-xs font-bold text-sub"
                       >
@@ -787,7 +803,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                   ) : null}
                   <p className="text-[17px] font-semibold leading-8 text-text">
                     {isShowingCn
-                      ? translation || "暂无翻译"
+                      ? translation || copy.status.noTranslation
                       : renderHighlightedText(paragraph.en)}
                   </p>
                 </article>
@@ -815,12 +831,14 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                       }
                       className="h-8 rounded-full bg-muted px-3 text-xs font-bold text-sub"
                     >
-                      {loadingCn[paragraph.id] ? "翻译中" : "获取翻译"}
+                      {loadingCn[paragraph.id]
+                        ? copy.status.loadingTranslation
+                        : copy.actions.translate}
                     </button>
                   ) : null}
                 </div>
                 <p className="text-base font-semibold leading-8 text-text">
-                  {translations[paragraph.id] || "暂无翻译，点击获取翻译。"}
+                  {translations[paragraph.id] || copy.status.noTranslation}
                 </p>
               </article>
             ))}
@@ -1009,7 +1027,9 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                           : "border-bad bg-bg text-bad",
                       ].join(" ")}
                     >
-                      {answeredCorrect ? "答对了" : "再想想"}
+                      {answeredCorrect
+                        ? copy.status.correct
+                        : copy.status.wrong}
                     </div>
                   ) : null}
                   {answered && quiz.explanation ? (
@@ -1027,17 +1047,17 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       <button
         type="button"
         onClick={openVocabularySheet}
-        aria-label="Open vocabulary index"
+        aria-label={copy.actions.openVocabulary}
         className="fixed bottom-[calc(env(safe-area-inset-bottom)+9rem)] right-4 z-40 h-14 w-14 rounded-full bg-brand text-lg font-black text-white shadow-[var(--shadow)] active:scale-95"
       >
-        词
+        {copy.words.slice(0, 1) || "W"}
       </button>
 
       {isSheetMounted ? (
         <div className="fixed inset-0 z-50" aria-hidden={!isSheetOpen}>
           <button
             type="button"
-            aria-label="Close vocabulary index"
+            aria-label={copy.actions.close}
             className={[
               "absolute inset-0 bg-black/35 transition-opacity duration-300",
               isSheetOpen ? "opacity-100" : "opacity-0",
@@ -1054,12 +1074,14 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
           >
             <div className="mx-auto h-full max-w-screen-sm">
               <div className="flex items-center justify-between border-b border-line px-4 py-3">
-                <h2 className="text-base font-black text-text">词汇定位</h2>
+                <h2 className="text-base font-black text-text">
+                  {copy.actions.openVocabulary}
+                </h2>
                 <button
                   type="button"
                   onClick={() => closeVocabularySheet()}
-                  aria-label="Close"
-                  title="Close"
+                  aria-label={copy.actions.close}
+                  title={copy.actions.close}
                   className="h-9 w-9 rounded-full bg-muted text-sm font-black text-sub"
                 >
                   X

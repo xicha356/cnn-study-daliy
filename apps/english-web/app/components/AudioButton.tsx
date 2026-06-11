@@ -26,7 +26,12 @@ const statusIcon: Record<AudioStatus, string> = {
 };
 
 function getPlayerTitle(label: string) {
-  return label.replace(/^Play\s+/i, "").replace(/^播放\s*/, "").trim() || label;
+  return (
+    label
+      .replace(/^Play\s+/i, "")
+      .replace(/^播放\s*/, "")
+      .trim() || label
+  );
 }
 
 export function AudioButton({

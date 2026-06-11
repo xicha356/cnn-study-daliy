@@ -14,6 +14,30 @@ const publicDir = "public";
 const publicData = path.join(publicDir, "data");
 const publicArticles = path.join(publicData, "articles");
 const publicAudio = path.join(publicDir, "audio");
+const supportedLocales = [
+  "zh-CN",
+  "en",
+  "km",
+  "th",
+  "vi",
+  "id",
+  "ms",
+  "fil",
+  "my",
+  "lo",
+];
+const fallbackLocales = {
+  "zh-CN": "zh-CN",
+  en: "zh-CN",
+  km: "zh-CN",
+  th: "en",
+  vi: "en",
+  id: "en",
+  ms: "en",
+  fil: "en",
+  my: "en",
+  lo: "en",
+};
 const noisePatterns = [
   "CNNSTATICSECTION",
   "CNN.com - Transcripts",
@@ -122,6 +146,9 @@ function hasAudio(article) {
 }
 
 mkdirSync(publicArticles, { recursive: true });
+for (const locale of supportedLocales) {
+  mkdirSync(path.join(publicData, locale, "articles"), { recursive: true });
+}
 
 const articleFiles = existsSync(legacyOutput)
   ? readdirSync(legacyOutput)
@@ -131,14 +158,17 @@ const articleFiles = existsSync(legacyOutput)
       .map((name) => path.join(legacyOutput, name))
   : [];
 
-const index = [];
-for (const file of articleFiles) {
-  const article = normalizeArticle(file);
-  writeFileSync(
-    path.join(publicArticles, `${article.date}.json`),
-    `${JSON.stringify(article, null, 2)}\n`,
-  );
-  index.push({
+const localizedIndexes = Object.fromEntries(
+  supportedLocales.map((locale) => [locale, []]),
+);
+
+function localizedArticleFile(locale, date) {
+  if (locale === "zh-CN") return "";
+  return path.join(legacyOutput, "i18n", locale, `${date}.json`);
+}
+
+function buildIndexItem(article) {
+  return {
     date: article.date,
     title: article.title,
     summary: article.summary,
@@ -146,14 +176,65 @@ for (const file of articleFiles) {
     hasAudio: hasAudio(article),
     vocabCount: article.vocabulary.length,
     sentenceCount: article.sentences.length,
-  });
+  };
+}
+
+for (const file of articleFiles) {
+  const article = normalizeArticle(file);
+  writeFileSync(
+    path.join(publicArticles, `${article.date}.json`),
+    `${JSON.stringify(article, null, 2)}\n`,
+  );
+  localizedIndexes["zh-CN"].push(buildIndexItem(article));
+  writeFileSync(
+    path.join(publicData, "zh-CN", "articles", `${article.date}.json`),
+    `${JSON.stringify(article, null, 2)}\n`,
+  );
+
+  const preparedByLocale = { "zh-CN": article };
+  for (const locale of supportedLocales.filter((value) => value !== "zh-CN")) {
+    const localFile = localizedArticleFile(locale, article.date);
+    let localized = null;
+    if (existsSync(localFile)) {
+      localized = normalizeArticle(localFile);
+      localized.date = article.date;
+      localized.sourceUrl = article.sourceUrl;
+      localized.vocabulary = localized.vocabulary.map((item, index) => ({
+        ...item,
+        word: article.vocabulary[index]?.word || item.word,
+        phonetic: article.vocabulary[index]?.phonetic || item.phonetic,
+        en: article.vocabulary[index]?.en || item.en,
+        excerpt: article.vocabulary[index]?.excerpt || item.excerpt,
+        audioUrl: article.vocabulary[index]?.audioUrl || item.audioUrl,
+      }));
+    } else {
+      const fallback = fallbackLocales[locale] || "zh-CN";
+      localized = preparedByLocale[fallback] || article;
+      console.warn(
+        `⚠ Missing ${locale} localization for ${article.date}; using ${fallback} fallback.`,
+      );
+    }
+    preparedByLocale[locale] = localized;
+    writeFileSync(
+      path.join(publicData, locale, "articles", `${article.date}.json`),
+      `${JSON.stringify(localized, null, 2)}\n`,
+    );
+    localizedIndexes[locale].push(buildIndexItem(localized));
+  }
 }
 
 mkdirSync(publicData, { recursive: true });
+const index = localizedIndexes["zh-CN"];
 writeFileSync(
   path.join(publicData, "articles.json"),
   `${JSON.stringify(index, null, 2)}\n`,
 );
+for (const locale of supportedLocales) {
+  writeFileSync(
+    path.join(publicData, locale, "articles.json"),
+    `${JSON.stringify(localizedIndexes[locale], null, 2)}\n`,
+  );
+}
 
 const audioSrc = path.join(legacyOutput, "audio");
 if (existsSync(audioSrc)) {

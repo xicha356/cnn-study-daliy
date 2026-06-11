@@ -1,6 +1,8 @@
 import { getArticleByDate, getArticleList } from "@study/core/data";
+import { DEFAULT_LOCALE } from "@study/core/i18n";
 import { buildArticleJsonLd, trimSeoDescription } from "@study/core/seo";
 import type { ArticleIndexItem, StudyArticle } from "@study/core/types";
+import { LocaleRedirectScript } from "@study/ui/LocaleRedirectScript";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArticleReader } from "../../components/ArticleReader";
@@ -13,7 +15,7 @@ export const dynamicParams = false;
 
 async function loadArticleList(): Promise<ArticleIndexItem[]> {
   try {
-    return await getArticleList();
+    return await getArticleList(DEFAULT_LOCALE);
   } catch {
     return [];
   }
@@ -21,7 +23,7 @@ async function loadArticleList(): Promise<ArticleIndexItem[]> {
 
 async function loadArticle(date: string): Promise<StudyArticle | null> {
   try {
-    return await getArticleByDate(date);
+    return await getArticleByDate(date, DEFAULT_LOCALE);
   } catch {
     return null;
   }
@@ -91,8 +93,13 @@ export default async function ArticlePage({
 
   return (
     <>
-      <JsonLd data={buildArticleJsonLd(article, siteUrl)} />
-      <ArticleReader article={article} articleList={articles} />
+      <LocaleRedirectScript path={`/articles/${article.date}`} />
+      <JsonLd data={buildArticleJsonLd(article, siteUrl, DEFAULT_LOCALE)} />
+      <ArticleReader
+        article={article}
+        articleList={articles}
+        locale={DEFAULT_LOCALE}
+      />
     </>
   );
 }

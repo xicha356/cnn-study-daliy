@@ -1,4 +1,5 @@
 import { getArticleList } from "@study/core/data";
+import { SUPPORTED_LOCALES, localePath } from "@study/core/i18n";
 import type { MetadataRoute } from "next";
 
 const siteUrl =
@@ -14,6 +15,20 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: "daily",
       priority: 1,
     },
+    ...SUPPORTED_LOCALES.map((locale) => ({
+      url: `${siteBase}${localePath(locale)}/`,
+      lastModified: new Date(),
+      changeFrequency: "daily" as const,
+      priority: 0.95,
+    })),
+    ...SUPPORTED_LOCALES.flatMap((locale) =>
+      articles.map((article) => ({
+        url: `${siteBase}${localePath(locale, `/articles/${article.date}`)}/`,
+        lastModified: new Date(`${article.date}T00:00:00.000Z`),
+        changeFrequency: "weekly" as const,
+        priority: 0.85,
+      })),
+    ),
     ...articles.map((article) => ({
       url: `${siteBase}/articles/${article.date}/`,
       lastModified: new Date(`${article.date}T00:00:00.000Z`),

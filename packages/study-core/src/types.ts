@@ -14,6 +14,7 @@ export type Paragraph = {
   id: string;
   speaker?: string;
   en: string;
+  /** Localized learner-facing translation for the current article locale. */
   cn?: string;
 };
 
@@ -25,9 +26,11 @@ export type VocabularyItem = {
   usage?: string;
   difficulty?: string;
   domain?: string;
+  /** Localized learner-facing meaning for the current article locale. */
   cn: string;
   en?: string;
   excerpt?: string;
+  /** Localized translation of the example/excerpt for the current article locale. */
   exampleCn?: string;
   audioUrl?: string;
 };

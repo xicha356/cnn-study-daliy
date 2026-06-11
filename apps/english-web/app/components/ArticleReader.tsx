@@ -5,6 +5,7 @@ import {
   playTtsText,
   updateGlobalAudioMetadata,
 } from "@study/core/audio";
+import { type LocaleCode, getUiCopy, localePath } from "@study/core/i18n";
 import {
   getParagraphTranslation,
   getWordMeaning,
@@ -22,6 +23,7 @@ import type {
 } from "@study/core/types";
 import { orderVocabularyByArticle } from "@study/core/vocabulary";
 import { GlobalAudioPlayer } from "@study/ui/GlobalAudioPlayer";
+import { LanguageSwitcher } from "@study/ui/LanguageSwitcher";
 import Link from "next/link";
 import {
   type MouseEvent,
@@ -36,6 +38,7 @@ import { ThemeToggle } from "./ThemeToggle";
 type ArticleReaderProps = {
   article: StudyArticle;
   articleList: ArticleIndexItem[];
+  locale: LocaleCode;
 };
 
 type TabKey =
@@ -45,15 +48,6 @@ type TabKey =
   | "sentences"
   | "background"
   | "quiz";
-
-const tabs: { key: TabKey; label: string }[] = [
-  { key: "transcript", label: "全文稿" },
-  { key: "translation", label: "全文翻译" },
-  { key: "vocabulary", label: "词汇" },
-  { key: "sentences", label: "难句" },
-  { key: "background", label: "背景" },
-  { key: "quiz", label: "测验" },
-];
 
 function escapeRegExp(value: string) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
@@ -154,6 +148,8 @@ function ParagraphBlock({
   copied,
   paragraph,
   renderText,
+  locale,
+  copy,
 }: {
   articleDate: string;
   highlighted: boolean;
@@ -163,6 +159,8 @@ function ParagraphBlock({
   copied: boolean;
   paragraph: Paragraph;
   renderText: (text: string, paragraphId: string) => ReactNode;
+  locale: LocaleCode;
+  copy: ReturnType<typeof getUiCopy>;
 }) {
   const [showTranslation, setShowTranslation] = useState(false);
   const [translation, setTranslation] = useState(paragraph.cn || "");
@@ -172,9 +170,11 @@ function ParagraphBlock({
 
   useEffect(() => {
     if (!paragraph.cn) {
-      setTranslation(getParagraphTranslation(articleDate, paragraph.id));
+      setTranslation(
+        getParagraphTranslation(articleDate, paragraph.id, locale),
+      );
     }
-  }, [articleDate, paragraph.cn, paragraph.id]);
+  }, [articleDate, locale, paragraph.cn, paragraph.id]);
 
   async function revealTranslation() {
     setError("");
@@ -185,12 +185,12 @@ function ParagraphBlock({
 
     try {
       setLoading(true);
-      const result = await requestBrowserTranslation(paragraph.en);
+      const result = await requestBrowserTranslation(paragraph.en, locale);
       setTranslation(result);
-      setParagraphTranslation(articleDate, paragraph.id, result);
+      setParagraphTranslation(articleDate, paragraph.id, result, locale);
       setShowTranslation(true);
     } catch {
-      setError("翻译请求失败，请稍后重试");
+      setError(copy.status.translationFailed);
     } finally {
       setLoading(false);
     }
@@ -256,8 +256,8 @@ function ParagraphBlock({
               "focus-ring inline-flex h-9 w-9 items-center justify-center rounded-md border border-line bg-bg text-sm font-semibold text-sub transition hover:border-brand hover:text-brand",
               copied ? "border-good bg-brand-soft text-good" : "",
             ].join(" ")}
-            aria-label="Copy paragraph"
-            title="Copy paragraph"
+            aria-label={copy.actions.copy}
+            title={copy.actions.copy}
           >
             <span aria-hidden>{copied ? "✓" : "⧉"}</span>
           </button>
@@ -268,8 +268,8 @@ function ParagraphBlock({
               "focus-ring inline-flex h-9 w-9 items-center justify-center rounded-md border border-line bg-bg text-sm font-semibold text-sub transition hover:border-brand hover:text-brand",
               reading ? "border-brand bg-brand-soft text-brand" : "",
             ].join(" ")}
-            aria-label="Read paragraph aloud"
-            title="Read paragraph aloud"
+            aria-label={copy.actions.read}
+            title={copy.actions.read}
           >
             <span aria-hidden>▶</span>
           </button>
@@ -278,8 +278,16 @@ function ParagraphBlock({
             onClick={flip}
             disabled={loading}
             className="focus-ring inline-flex h-9 w-9 items-center justify-center rounded-md border border-line bg-bg text-sm font-semibold text-sub transition hover:border-brand hover:text-brand"
-            aria-label={showTranslation ? "Show English" : "Translate"}
-            title={showTranslation ? "Show English" : "Translate"}
+            aria-label={
+              showTranslation
+                ? copy.actions.hideTranslation
+                : copy.actions.showTranslation
+            }
+            title={
+              showTranslation
+                ? copy.actions.hideTranslation
+                : copy.actions.showTranslation
+            }
           >
             <span aria-hidden>{loading ? "…" : "⇄"}</span>
           </button>
@@ -304,7 +312,20 @@ async function speakParagraphText(
   });
 }
 
-export function ArticleReader({ article, articleList }: ArticleReaderProps) {
+export function ArticleReader({
+  article,
+  articleList,
+  locale,
+}: ArticleReaderProps) {
+  const copy = getUiCopy(locale);
+  const tabs: { key: TabKey; label: string }[] = [
+    { key: "transcript", label: copy.tabs.transcript },
+    { key: "translation", label: copy.tabs.translation },
+    { key: "vocabulary", label: copy.tabs.vocabulary },
+    { key: "sentences", label: copy.tabs.sentences },
+    { key: "background", label: copy.tabs.background },
+    { key: "quiz", label: copy.tabs.quiz },
+  ];
   const [activeTab, setActiveTab] = useState<TabKey>("transcript");
   const [sidebarOpen, setSidebarOpen] = useState(true);
   const [studied, setStudied] = useState(false);
@@ -420,19 +441,22 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
       return;
     }
 
-    const cached = getWordMeaning(cleanWord);
-    const audioPromise = speakWordText(cleanWord, cached || "查询中...");
+    const cached = getWordMeaning(cleanWord, locale);
+    const audioPromise = speakWordText(
+      cleanWord,
+      cached || copy.status.loadingTranslation,
+    );
 
     if (cached) return;
 
     try {
-      const cn = await requestBrowserTranslation(cleanWord);
-      const description = cn || "暂无释义";
-      setWordMeaning(cleanWord, description);
+      const cn = await requestBrowserTranslation(cleanWord, locale);
+      const description = cn || copy.status.noMeaning;
+      setWordMeaning(cleanWord, description, locale);
       updateGlobalAudioMetadata({ description });
       void audioPromise.then(() => updateGlobalAudioMetadata({ description }));
     } catch {
-      const description = "释义查询失败，请稍后再试";
+      const description = copy.status.meaningFailed;
       updateGlobalAudioMetadata({ description });
       void audioPromise.then(() => updateGlobalAudioMetadata({ description }));
     }
@@ -495,7 +519,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
               ? "word-pop bg-brand-soft text-brand"
               : "",
           ].join(" ")}
-          title="Double click to hear and translate"
+          title={copy.actions.translate}
         >
           {word}
         </button>,
@@ -604,14 +628,14 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
         {sidebarOpen ? (
           <div className="flex h-full flex-col p-5">
             <Link
-              href="/"
+              href={localePath(locale)}
               className="focus-ring rounded-md text-sm font-medium text-brand"
             >
-              Home
+              {copy.actions.back}
             </Link>
             <div className="mt-7 flex min-h-0 flex-1 flex-col">
               <p className="text-xs font-semibold uppercase tracking-wide text-sub">
-                Articles
+                {copy.articles}
               </p>
               <div className="mt-3 min-h-0 flex-1 overflow-y-auto pr-1 scrollbar-soft">
                 <nav className="grid gap-2">
@@ -622,7 +646,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                     return (
                       <Link
                         key={item.date}
-                        href={`/articles/${item.date}`}
+                        href={localePath(locale, `/articles/${item.date}`)}
                         aria-current={current ? "page" : undefined}
                         className={[
                           "focus-ring rounded-md border px-3 py-2 text-left transition",
@@ -652,7 +676,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
         ) : (
           <div className="flex h-full items-center justify-center">
             <span className="-rotate-90 whitespace-nowrap text-xs font-semibold uppercase tracking-wide text-sub">
-              Articles
+              {copy.articles}
             </span>
           </div>
         )}
@@ -682,8 +706,8 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                     ? "border-good bg-brand-soft text-good"
                     : "",
                 ].join(" ")}
-                aria-label="Copy full article"
-                title="Copy full article"
+                aria-label={copy.actions.copy}
+                title={copy.actions.copy}
               >
                 <span aria-hidden>{copiedKey === "article" ? "✓" : "⧉"}</span>
               </button>
@@ -692,10 +716,10 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                 target="_blank"
                 rel="noreferrer"
                 className="focus-ring inline-flex h-10 w-10 items-center justify-center rounded-md border border-line bg-panel text-sm font-semibold text-sub transition hover:border-brand hover:text-brand"
-                aria-label="Open source article"
-                title="Open source article"
+                aria-label={copy.actions.source}
+                title={copy.actions.source}
               >
-                <span className="sr-only">Open source article</span>
+                <span className="sr-only">{copy.actions.source}</span>
                 <span aria-hidden>↗</span>
               </a>
               <button
@@ -703,11 +727,14 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                 onClick={markStudied}
                 disabled={studied}
                 className="focus-ring inline-flex h-10 w-10 items-center justify-center rounded-md border border-brand bg-brand text-sm font-semibold text-white transition hover:brightness-105"
-                aria-label={studied ? "Already studied" : "Mark as studied"}
-                title={studied ? "Already studied" : "Mark as studied"}
+                aria-label={
+                  studied ? copy.filters.studied : copy.filters.review
+                }
+                title={studied ? copy.filters.studied : copy.filters.review}
               >
                 <span aria-hidden>{studied ? "✓" : "+"}</span>
               </button>
+              <LanguageSwitcher locale={locale} />
               <ThemeToggle />
             </div>
           </div>
@@ -717,7 +744,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
           <section className="min-w-0">
             <section className="mb-6 rounded-md border border-line bg-panel p-5 shadow-sm">
               <div className="mb-3 flex items-center gap-2 text-xs font-semibold uppercase tracking-wide text-brand">
-                Summary
+                {copy.todayArticle}
               </div>
               <p className="text-base leading-8 text-text">{article.summary}</p>
             </section>
@@ -746,6 +773,8 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                   <ParagraphBlock
                     key={paragraph.id}
                     articleDate={article.date}
+                    locale={locale}
+                    copy={copy}
                     highlighted={highlightedParagraphId === paragraph.id}
                     onSpeak={speakParagraphText}
                     onSpeakWord={speakWordText}
@@ -769,8 +798,7 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
                       {paragraph.speaker || "Transcript"} · {paragraph.id}
                     </p>
                     <p className="text-base leading-8 text-text">
-                      {paragraph.cn ||
-                        "该段暂无内置翻译，可在全文稿中单独翻译。"}
+                      {paragraph.cn || copy.status.noTranslation}
                     </p>
                   </article>
                 ))}
@@ -964,7 +992,9 @@ export function ArticleReader({ article, articleList }: ArticleReaderProps) {
           </section>
 
           <aside className="sticky top-24 h-[calc(100vh-7rem)] overflow-y-auto rounded-md border border-line bg-panel p-4 shadow-sm scrollbar-soft">
-            <h2 className="text-sm font-semibold text-text">词汇索引</h2>
+            <h2 className="text-sm font-semibold text-text">
+              {copy.actions.openVocabulary}
+            </h2>
             <div className="mt-4 grid gap-2">
               {orderedVocabulary.map((item) => (
                 <div

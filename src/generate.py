@@ -6,7 +6,7 @@ src/generate.py  v4
 - 周末自动回退 / HEAD→GET 修复 / JSON 多层容错
 """
 
-import os, re, json, requests, sys, hashlib
+import os, re, json, requests, sys, hashlib, copy
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -23,8 +23,21 @@ MAX_SENTENCE_ITEMS = int(os.environ.get('MAX_SENTENCE_ITEMS', '30'))
 MIN_SENTENCE_ITEMS = int(os.environ.get('MIN_SENTENCE_ITEMS', '20'))
 OUTPUT_DIR       = Path('output')
 AUDIO_DIR        = OUTPUT_DIR / 'audio'
+I18N_DIR         = OUTPUT_DIR / 'i18n'
 OUTPUT_DIR.mkdir(exist_ok=True)
 CST = timezone(timedelta(hours=8))
+SUPPORTED_LOCALES = {
+    'en': 'English',
+    'km': 'Khmer for Cambodian learners',
+    'th': 'Thai',
+    'vi': 'Vietnamese',
+    'id': 'Indonesian',
+    'ms': 'Malay',
+    'fil': 'Filipino',
+    'my': 'Burmese',
+    'lo': 'Lao',
+}
+CORE_LOCALES = {'km'}
 
 
 # ── 日期处理 ──────────────────────────────────────────────────
@@ -579,6 +592,222 @@ def call_deepseek_messages(messages: list[dict], max_tokens: int = 4096) -> dict
     return parse_json_robust(resp.json()['choices'][0]['message']['content'])
 
 
+def target_locales() -> list[str]:
+    raw = os.environ.get('TARGET_LOCALES', '').strip()
+    if not raw:
+        return list(SUPPORTED_LOCALES.keys())
+    requested = [item.strip() for item in raw.split(',') if item.strip()]
+    return [item for item in requested if item in SUPPORTED_LOCALES]
+
+
+def localization_prompt(data: dict, locale: str) -> str:
+    language = SUPPORTED_LOCALES[locale]
+    payload = {
+        'date': data.get('date'),
+        'source_url': data.get('source_url'),
+        'summary': data.get('summary'),
+        'paragraphs': data.get('paragraphs') or [],
+        'vocabulary': data.get('vocabulary') or [],
+        'sentences': data.get('sentences') or [],
+        'topics': data.get('topics') or [],
+        'quiz': data.get('quiz') or [],
+    }
+    return f"""Localize this CNN English study article for learners whose study language is {language}.
+
+Keep the CNN English source as the primary learning object. Preserve these values exactly:
+- date, source_url
+- paragraphs[].text and paragraphs[].speaker
+- vocabulary[].word, vocabulary[].phonetic, vocabulary[].en, vocabulary[].excerpt, vocabulary[].audio_url
+- sentences[].en
+- quiz[].type and quiz[].answer
+
+Translate/localize all learner-facing explanations into {language}:
+- summary
+- paragraphs[].cn
+- vocabulary[].usage, difficulty, domain, level, cn, example_cn
+- sentences[].cn, structure, analysis
+- topics[].title, content, keywords
+- quiz[].question, options, explanation
+
+Return valid JSON with the same top-level shape and no Markdown.
+
+Input JSON:
+{json.dumps(payload, ensure_ascii=False)}"""
+
+
+def validate_localized_article(base: dict, localized: dict, locale: str) -> dict:
+    localized['date'] = base.get('date')
+    localized['source_url'] = base.get('source_url')
+
+    base_paragraphs = base.get('paragraphs') or []
+    localized_paragraphs = localized.get('paragraphs') or []
+    if len(localized_paragraphs) != len(base_paragraphs):
+        raise RuntimeError(f'{locale} 段落数量不一致')
+    for idx, paragraph in enumerate(localized_paragraphs):
+        paragraph['speaker'] = base_paragraphs[idx].get('speaker', '')
+        paragraph['text'] = base_paragraphs[idx].get('text', '')
+
+    base_vocab = base.get('vocabulary') or []
+    localized_vocab = localized.get('vocabulary') or []
+    if len(localized_vocab) != len(base_vocab):
+        raise RuntimeError(f'{locale} 词汇数量不一致')
+    for idx, item in enumerate(localized_vocab):
+        source = base_vocab[idx]
+        for key in ['word', 'phonetic', 'en', 'excerpt', 'audio_url']:
+          if source.get(key):
+              item[key] = source.get(key)
+
+    base_sentences = base.get('sentences') or []
+    localized_sentences = localized.get('sentences') or []
+    if len(localized_sentences) != len(base_sentences):
+        raise RuntimeError(f'{locale} 难句数量不一致')
+    for idx, item in enumerate(localized_sentences):
+        item['en'] = base_sentences[idx].get('en', '')
+
+    base_quiz = base.get('quiz') or []
+    localized_quiz = localized.get('quiz') or []
+    if len(localized_quiz) != len(base_quiz):
+        raise RuntimeError(f'{locale} 测验数量不一致')
+    for idx, item in enumerate(localized_quiz):
+        item['type'] = base_quiz[idx].get('type', item.get('type', 'vocab'))
+        item['answer'] = base_quiz[idx].get('answer', item.get('answer', 0))
+
+    return localized
+
+
+def get_localizable_value(container, key) -> str:
+    if isinstance(container, list):
+        if isinstance(key, int) and 0 <= key < len(container):
+            return container[key]
+        return ''
+    if isinstance(container, dict):
+        return container.get(key, '')
+    return ''
+
+
+def set_localizable_value(container, key, value: str) -> None:
+    if isinstance(container, list) and isinstance(key, int) and 0 <= key < len(container):
+        container[key] = value
+    elif isinstance(container, dict):
+        container[key] = value
+
+
+def collect_localizable_fields(article: dict) -> list[tuple[dict, str, str]]:
+    fields = []
+
+    def add(container, key, field_id: str):
+        value = sanitize(str(get_localizable_value(container, key) or ''))
+        if value:
+            fields.append((container, key, field_id))
+
+    add(article, 'summary', 'summary')
+    for index, paragraph in enumerate(article.get('paragraphs') or []):
+        add(paragraph, 'cn', f'paragraphs.{index}.cn')
+    for index, item in enumerate(article.get('vocabulary') or []):
+        for key in ['usage', 'difficulty', 'domain', 'cn', 'example_cn']:
+            add(item, key, f'vocabulary.{index}.{key}')
+    for index, item in enumerate(article.get('sentences') or []):
+        for key in ['cn', 'structure', 'analysis']:
+            add(item, key, f'sentences.{index}.{key}')
+    for index, topic in enumerate(article.get('topics') or []):
+        for key in ['title', 'content', 'keywords']:
+            add(topic, key, f'topics.{index}.{key}')
+    for index, item in enumerate(article.get('quiz') or []):
+        add(item, 'question', f'quiz.{index}.question')
+        add(item, 'explanation', f'quiz.{index}.explanation')
+        for option_index, _ in enumerate(item.get('options') or []):
+            add(item['options'], option_index, f'quiz.{index}.options.{option_index}')
+    return fields
+
+
+def localize_text_batch(items: list[dict], locale: str) -> dict[str, str]:
+    language = SUPPORTED_LOCALES[locale]
+    prompt = f"""Translate these learner-facing CNN English-study explanations into {language}.
+
+Rules:
+- Preserve IDs exactly.
+- Keep names, English vocabulary terms, dates, percentages, and acronyms accurate.
+- Keep the output concise and natural for English learners.
+- Return only valid JSON: {{"items":[{{"id":"same id","text":"translated text"}}]}}
+
+Items:
+{json.dumps(items, ensure_ascii=False)}"""
+    result = call_deepseek_messages(
+        [
+            {'role': 'system', 'content': 'You are a precise educational translator. Return valid JSON only.'},
+            {'role': 'user', 'content': prompt},
+        ],
+        max_tokens=8192,
+    )
+    translated = {}
+    for item in result.get('items') or []:
+        item_id = sanitize(str(item.get('id') or ''))
+        text = sanitize(str(item.get('text') or ''))
+        if item_id and text:
+            translated[item_id] = text
+    return translated
+
+
+def localize_article_fields(data: dict, locale: str) -> dict:
+    localized = copy.deepcopy(data)
+    fields = collect_localizable_fields(localized)
+    chunk_size = int(os.environ.get('LOCALIZATION_CHUNK_SIZE', '12'))
+    missing = []
+
+    for offset in range(0, len(fields), chunk_size):
+        chunk = fields[offset:offset + chunk_size]
+        payload = [
+            {'id': field_id, 'text': sanitize(str(get_localizable_value(container, key) or ''))}
+            for container, key, field_id in chunk
+        ]
+        translated = localize_text_batch(payload, locale)
+        for container, key, field_id in chunk:
+            value = translated.get(field_id)
+            if value:
+                set_localizable_value(container, key, value)
+            else:
+                missing.append(field_id)
+
+    if missing:
+        raise RuntimeError(f'{locale} 本地化字段缺失：{", ".join(missing[:8])}')
+
+    for item in localized.get('vocabulary') or []:
+        item['level'] = ' · '.join(
+            [part for part in [sanitize(item.get('usage', '')), sanitize(item.get('difficulty', ''))] if part]
+        )
+    return validate_localized_article(data, localized, locale)
+
+
+def ensure_localizations(data: dict, date_str: str) -> bool:
+    if not DEEPSEEK_API_KEY:
+        missing_core = [
+            locale for locale in CORE_LOCALES
+            if not (I18N_DIR / locale / f'{date_str}.json').exists()
+        ]
+        if missing_core:
+            raise RuntimeError(f'DeepSeek 未配置，无法生成核心语言本地化：{", ".join(missing_core)}')
+        print('      DeepSeek 未配置，跳过多语言本地化')
+        return False
+
+    changed = False
+    for locale in target_locales():
+        out_path = I18N_DIR / locale / f'{date_str}.json'
+        if out_path.exists() and not should_force_regenerate():
+            print(f'      {locale} 本地化缓存已存在')
+            continue
+        try:
+            print(f'      生成 {locale} 本地化内容...')
+            localized = localize_article_fields(data, locale)
+            out_path.parent.mkdir(parents=True, exist_ok=True)
+            out_path.write_text(json.dumps(localized, ensure_ascii=False, indent=2), encoding='utf-8')
+            changed = True
+        except Exception as e:
+            if locale in CORE_LOCALES:
+                raise RuntimeError(f'{locale} 核心本地化失败：{e}') from e
+            print(f'      ⚠ {locale} 本地化失败，发布时将使用 fallback：{e}')
+    return changed
+
+
 def ensure_paragraph_translations(data: dict) -> bool:
     paragraphs = data.get('paragraphs') or []
     missing = [
@@ -641,6 +870,7 @@ def main():
         data = json.loads(out_path.read_text(encoding='utf-8'))
         changed = normalize_and_enrich_existing(data)
         changed = ensure_all_audio(data, requested_date) or changed
+        changed = ensure_localizations(data, requested_date) or changed
         if changed:
             out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
             print(f'✓ 已补齐缓存数据：{out_path}')
@@ -655,6 +885,7 @@ def main():
         data = json.loads(out_path.read_text(encoding='utf-8'))
         changed = normalize_and_enrich_existing(data)
         changed = ensure_all_audio(data, actual_date) or changed
+        changed = ensure_localizations(data, actual_date) or changed
         if changed:
             out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
             print(f'✓ 已补齐缓存数据：{out_path}')
@@ -687,6 +918,7 @@ def main():
     normalize_vocab_taxonomy(data)
     ensure_paragraph_translations(data)
     ensure_all_audio(data, actual_date)
+    ensure_localizations(data, actual_date)
 
     print(f'      词汇：{len(data.get("vocabulary",[]))} 难句：{len(data.get("sentences",[]))}')
 
