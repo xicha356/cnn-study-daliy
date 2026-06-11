@@ -16,6 +16,9 @@ import { cn } from "./utils";
 type GlobalAudioPlayerProps = {
   variant?: "desktop" | "mobile";
   className?: string;
+  onHaptic?: (
+    event: "play" | "pause" | "loop" | "close" | "seek" | "speed",
+  ) => void;
 };
 
 function formatTime(value: number) {
@@ -30,6 +33,7 @@ function formatTime(value: number) {
 export function GlobalAudioPlayer({
   variant = "desktop",
   className,
+  onHaptic,
 }: GlobalAudioPlayerProps) {
   const [player, setPlayer] = useState<AudioPlayerState>(() =>
     getAudioPlayerState(),
@@ -57,6 +61,21 @@ export function GlobalAudioPlayer({
   const canSeek = player.duration > 0;
   const isPlaying = player.status === "playing";
   const progress = canSeek ? Math.min(player.currentTime, player.duration) : 0;
+
+  function handlePlaybackToggle() {
+    onHaptic?.(isPlaying ? "pause" : "play");
+    void toggleGlobalAudioPlayback();
+  }
+
+  function handleLoopToggle() {
+    onHaptic?.("loop");
+    setGlobalAudioLoop(!player.loop);
+  }
+
+  function handleClose() {
+    onHaptic?.("close");
+    closeGlobalAudioPlayer();
+  }
 
   return (
     <div
@@ -88,7 +107,7 @@ export function GlobalAudioPlayer({
         >
           <button
             type="button"
-            onClick={() => void toggleGlobalAudioPlayback()}
+            onClick={handlePlaybackToggle}
             className={cn(
               "focus-ring inline-flex shrink-0 items-center justify-center rounded-md border border-brand bg-brand font-black text-white transition active:scale-95",
               isMobile ? "h-10 w-10" : "h-10 w-10",
@@ -119,7 +138,7 @@ export function GlobalAudioPlayer({
               <div className="flex shrink-0 items-center gap-1">
                 <button
                   type="button"
-                  onClick={() => setGlobalAudioLoop(!player.loop)}
+                  onClick={handleLoopToggle}
                   className={cn(
                     "focus-ring inline-flex h-8 w-8 items-center justify-center rounded-md border text-sm font-black transition",
                     player.loop
@@ -133,7 +152,7 @@ export function GlobalAudioPlayer({
                 </button>
                 <button
                   type="button"
-                  onClick={closeGlobalAudioPlayer}
+                  onClick={handleClose}
                   className="focus-ring inline-flex h-8 w-8 items-center justify-center rounded-md border border-line bg-bg text-sm font-black text-sub transition hover:border-bad hover:text-bad"
                   aria-label="Close player"
                   title="Close"
@@ -154,6 +173,17 @@ export function GlobalAudioPlayer({
                 onChange={(event) =>
                   seekGlobalAudio(Number(event.currentTarget.value))
                 }
+                onPointerUp={() => onHaptic?.("seek")}
+                onKeyUp={(event) => {
+                  if (
+                    event.key === "ArrowLeft" ||
+                    event.key === "ArrowRight" ||
+                    event.key === "Home" ||
+                    event.key === "End"
+                  ) {
+                    onHaptic?.("seek");
+                  }
+                }}
                 className="h-1.5 w-full cursor-pointer accent-brand disabled:cursor-not-allowed disabled:opacity-40"
                 aria-label="Audio progress"
               />
@@ -187,6 +217,17 @@ export function GlobalAudioPlayer({
                     onChange={(event) =>
                       setGlobalPlaybackRate(Number(event.currentTarget.value))
                     }
+                    onPointerUp={() => onHaptic?.("speed")}
+                    onKeyUp={(event) => {
+                      if (
+                        event.key === "ArrowLeft" ||
+                        event.key === "ArrowRight" ||
+                        event.key === "Home" ||
+                        event.key === "End"
+                      ) {
+                        onHaptic?.("speed");
+                      }
+                    }}
                     className="min-w-0 flex-1 accent-brand"
                     aria-label="Playback speed"
                   />

@@ -2,6 +2,7 @@
 
 import { getStoredTheme, setStoredTheme } from "@study/core/storage";
 import { useEffect, useState } from "react";
+import { haptic } from "../lib/haptics";
 
 type Theme = "light" | "dark";
 
@@ -23,6 +24,7 @@ export function ThemeToggle({ compact = false }: { compact?: boolean }) {
 
   function toggleTheme() {
     const nextTheme = theme === "dark" ? "light" : "dark";
+    haptic("toggle");
     setTheme(nextTheme);
     setStoredTheme(nextTheme);
     document.documentElement.dataset.theme = nextTheme;

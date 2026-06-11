@@ -24,6 +24,8 @@ import Link from "next/link";
 import type { PointerEvent } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { ReactNode } from "react";
+import { haptic } from "../lib/haptics";
+import { HapticToggle } from "./HapticToggle";
 import { ThemeToggle } from "./ThemeToggle";
 
 type TabKey = "original" | "translation" | "vocabulary" | "sentences" | "quiz";
@@ -133,7 +135,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const [quizAnswers, setQuizAnswers] = useState<Record<number, number>>({});
 
   const paragraphRefs = useRef<Record<string, HTMLElement | null>>({});
-  const touchStartX = useRef<Record<string, number>>({});
   const tipTimer = useRef<number | null>(null);
   const sheetTimer = useRef<number | null>(null);
   const sheetFrame = useRef<number | null>(null);
@@ -185,24 +186,37 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   }
 
   async function toggleParagraphTranslation(paragraph: Paragraph) {
+    haptic("selection");
     if (visibleCn[paragraph.id]) {
       setVisibleCn((current) => ({ ...current, [paragraph.id]: false }));
       return;
     }
 
-    await ensureTranslation(paragraph);
-    setVisibleCn((current) => ({ ...current, [paragraph.id]: true }));
+    const hadTranslation = Boolean(
+      translations[paragraph.id] ||
+        getParagraphTranslation(article.date, paragraph.id),
+    );
+    try {
+      const translated = await ensureTranslation(paragraph);
+      setVisibleCn((current) => ({ ...current, [paragraph.id]: true }));
+      if (!hadTranslation) haptic(translated ? "success" : "warning");
+    } catch {
+      haptic("error");
+    }
   }
 
-  function handleTouchStart(paragraphId: string, clientX: number) {
-    touchStartX.current[paragraphId] = clientX;
-  }
-
-  function handleTouchEnd(paragraph: Paragraph, clientX: number) {
-    const startX = touchStartX.current[paragraph.id];
-    if (typeof startX !== "number") return;
-    if (clientX - startX < -42) void toggleParagraphTranslation(paragraph);
-    delete touchStartX.current[paragraph.id];
+  async function requestParagraphTranslation(paragraph: Paragraph) {
+    haptic("selection");
+    const hadTranslation = Boolean(
+      translations[paragraph.id] ||
+        getParagraphTranslation(article.date, paragraph.id),
+    );
+    try {
+      const translated = await ensureTranslation(paragraph);
+      if (!hadTranslation) haptic(translated ? "success" : "warning");
+    } catch {
+      haptic("error");
+    }
   }
 
   function showVocabTip(vocab: VocabularyItem, shouldPlayAudio = false) {
@@ -264,6 +278,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       void audioPromise.then(() => updateGlobalAudioMetadata({ description }));
     } catch {
       const description = "释义查询失败，请稍后再试";
+      haptic("error");
       setActiveVocab((current) =>
         current?.word.toLowerCase() === normalized
           ? { ...current, cn: description, loading: false }
@@ -274,18 +289,21 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     }
   }
 
-  function readParagraphAloud(text: string) {
-    void playTtsText(text, {
+  async function readParagraphAloud(text: string) {
+    haptic("play");
+    const ok = await playTtsText(text, {
       kind: "Paragraph",
       title: "Paragraph reading",
     });
+    if (!ok) haptic("error");
+    return ok;
   }
 
   async function speakWordText(word: string, description = "") {
     const normalized = word.trim().toLowerCase();
-    if (!normalized) return;
+    if (!normalized) return false;
 
-    await playTtsText(word, {
+    const ok = await playTtsText(word, {
       cacheKey: `word:${normalized}`,
       kind: "Word",
       title: word,
@@ -294,10 +312,13 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
         setTtsLoadingKey(state === "loading" ? normalized : "");
       },
     });
+    if (!ok) haptic("error");
+    return ok;
   }
 
   async function speakSentenceText(text: string, key: string) {
-    await playTtsText(text, {
+    haptic("play");
+    const ok = await playTtsText(text, {
       cacheKey: `sentence:${key}`,
       kind: "Sentence",
       title: "Sentence reading",
@@ -305,6 +326,8 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
         setPendingSentenceKey(state === "loading" ? key : "");
       },
     });
+    if (!ok) haptic("error");
+    return ok;
   }
 
   function cancelWordLongPress() {
@@ -327,7 +350,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     wordPressPoint.current = { x: event.clientX, y: event.clientY };
     longPressTimer.current = window.setTimeout(() => {
       longPressTimer.current = null;
-      window.navigator.vibrate?.(12);
+      haptic("play");
       void showPlainWordTip(normalized, pulseKey);
     }, 460);
   }
@@ -341,7 +364,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
 
   async function copyArticle() {
     if (await copyText(buildArticleCopyText(article))) {
-      window.navigator.vibrate?.(8);
+      haptic("success");
       setCopiedKey("article");
       window.setTimeout(() => {
         setCopiedKey((current) => (current === "article" ? "" : current));
@@ -351,7 +374,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
 
   async function copyParagraph(text: string, id: string) {
     if (await copyText(text)) {
-      window.navigator.vibrate?.(8);
+      haptic("success");
       const key = `paragraph:${id}`;
       setCopiedKey(key);
       window.setTimeout(() => {
@@ -374,6 +397,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   }
 
   function openVocabularySheet() {
+    haptic("sheet");
     if (sheetTimer.current) window.clearTimeout(sheetTimer.current);
     if (sheetFrame.current) window.cancelAnimationFrame(sheetFrame.current);
     setIsSheetMounted(true);
@@ -383,7 +407,8 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     });
   }
 
-  function closeVocabularySheet() {
+  function closeVocabularySheet(withFeedback = true) {
+    if (withFeedback) haptic("sheet");
     if (sheetFrame.current) window.cancelAnimationFrame(sheetFrame.current);
     setIsSheetOpen(false);
     if (sheetTimer.current) window.clearTimeout(sheetTimer.current);
@@ -393,9 +418,10 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   }
 
   function jumpToVocabulary(vocab: VocabularyItem) {
+    haptic("selection");
     const paragraph = findParagraphForVocabulary(vocab);
     showVocabTip(vocab);
-    closeVocabularySheet();
+    closeVocabularySheet(false);
     setActiveTab("original");
     if (!paragraph) return;
 
@@ -407,6 +433,37 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       setPulseParagraphId(paragraph.id);
       window.setTimeout(() => setPulseParagraphId(""), 1200);
     }, 80);
+  }
+
+  function handleAudioButtonHaptic(event: "play" | "pause" | "error") {
+    if (event === "play") haptic("play");
+    else if (event === "pause") haptic("tap");
+    else haptic("error");
+  }
+
+  function handlePlayerHaptic(
+    event: "play" | "pause" | "loop" | "close" | "seek" | "speed",
+  ) {
+    if (event === "play") haptic("play");
+    else if (event === "loop") haptic("toggle");
+    else if (event === "seek" || event === "speed") haptic("scrub");
+    else haptic("tap");
+  }
+
+  function answerQuiz(
+    questionIndex: number,
+    optionIndex: number,
+    correctIndex: number,
+  ) {
+    setQuizAnswers((current) => {
+      if (typeof current[questionIndex] !== "number") {
+        haptic(optionIndex === correctIndex ? "success" : "warning");
+      }
+      return {
+        ...current,
+        [questionIndex]: optionIndex,
+      };
+    });
   }
 
   function renderHighlightedText(text: string) {
@@ -438,7 +495,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
             onDoubleClick={(event) => {
               event.preventDefault();
               event.stopPropagation();
-              window.navigator.vibrate?.(8);
+              haptic("play");
               void showPlainWordTip(word, pulseKey);
             }}
             className={[
@@ -493,6 +550,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
           type="button"
           key={`${match.item.word}-${index}`}
           onClick={() => {
+            haptic("play");
             setWordPulseKey(pulseKey);
             window.setTimeout(() => {
               setWordPulseKey((current) =>
@@ -504,6 +562,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
           onDoubleClick={(event) => {
             event.preventDefault();
             event.stopPropagation();
+            haptic("play");
             void showPlainWordTip(value, pulseKey);
           }}
           onContextMenu={(event) => event.preventDefault()}
@@ -534,6 +593,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
           <Link
             href="/"
             aria-label="返回首页"
+            onClick={() => haptic("tap")}
             className="tap-highlight flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-line bg-panel text-lg font-black"
           >
             &lt;
@@ -546,7 +606,10 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
           </div>
           <button
             type="button"
-            onClick={() => void copyArticle()}
+            onClick={() => {
+              haptic("tap");
+              void copyArticle();
+            }}
             aria-label="Copy full article"
             title="Copy full article"
             className={[
@@ -558,6 +621,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
               {copiedKey === "article" ? "✓" : "⧉"}
             </span>
           </button>
+          <HapticToggle compact />
           <ThemeToggle compact />
         </div>
       </header>
@@ -593,6 +657,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                   <AudioButton
                     className="h-8 w-8 rounded-full"
                     label={`Play ${activeVocab.word}`}
+                    onHaptic={handleAudioButtonHaptic}
                     subtitle={getWordSubtitle(activeVocab)}
                     description={activeVocab.cn}
                     url={activeVocab.audioUrl}
@@ -600,9 +665,10 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                 ) : (
                   <button
                     type="button"
-                    onClick={() =>
-                      void speakWordText(activeVocab.word, activeVocab.cn)
-                    }
+                    onClick={() => {
+                      haptic("play");
+                      void speakWordText(activeVocab.word, activeVocab.cn);
+                    }}
                     aria-label={`Play ${activeVocab.word}`}
                     title={`Play ${activeVocab.word}`}
                     className="h-8 w-8 rounded-full border border-line bg-panel text-xs font-black text-sub"
@@ -612,7 +678,10 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                 )}
                 <button
                   type="button"
-                  onClick={() => setActiveVocab(null)}
+                  onClick={() => {
+                    haptic("tap");
+                    setActiveVocab(null);
+                  }}
                   aria-label="Close"
                   title="Close"
                   className="h-8 w-8 rounded-full bg-muted text-sm font-black text-sub"
@@ -645,7 +714,10 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
               <button
                 key={tab.key}
                 type="button"
-                onClick={() => setActiveTab(tab.key)}
+                onClick={() => {
+                  if (activeTab !== tab.key) haptic("selection");
+                  setActiveTab(tab.key);
+                }}
                 className={[
                   "h-9 shrink-0 rounded-full px-4 text-sm font-bold transition",
                   activeTab === tab.key
@@ -670,18 +742,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                   ref={(node) => {
                     paragraphRefs.current[paragraph.id] = node;
                   }}
-                  onTouchStart={(event) =>
-                    handleTouchStart(
-                      paragraph.id,
-                      event.touches[0]?.clientX || 0,
-                    )
-                  }
-                  onTouchEnd={(event) =>
-                    handleTouchEnd(
-                      paragraph,
-                      event.changedTouches[0]?.clientX || 0,
-                    )
-                  }
                   className={[
                     "scroll-mt-36 rounded-[8px] border bg-panel p-4 transition",
                     pulseParagraphId === paragraph.id
@@ -696,14 +756,15 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                     <div className="flex items-center gap-2">
                       <button
                         type="button"
-                        onClick={() =>
+                        onClick={() => {
+                          haptic("tap");
                           void copyParagraph(
                             isShowingCn
                               ? translation || "暂无翻译"
                               : paragraph.en,
                             paragraph.id,
-                          )
-                        }
+                          );
+                        }}
                         aria-label={`Copy paragraph ${index + 1}`}
                         title={`Copy paragraph ${index + 1}`}
                         className={[
@@ -777,7 +838,9 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                   {!translations[paragraph.id] ? (
                     <button
                       type="button"
-                      onClick={() => void ensureTranslation(paragraph)}
+                      onClick={() =>
+                        void requestParagraphTranslation(paragraph)
+                      }
                       className="h-8 rounded-full bg-muted px-3 text-xs font-bold text-sub"
                     >
                       {loadingCn[paragraph.id] ? "翻译中" : "获取翻译"}
@@ -842,6 +905,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                   <AudioButton
                     className="h-8 w-8 shrink-0 rounded-full"
                     label={`Play ${vocab.word}`}
+                    onHaptic={handleAudioButtonHaptic}
                     subtitle={getWordSubtitle(vocab)}
                     description={vocab.cn}
                     url={vocab.audioUrl}
@@ -929,10 +993,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                         key={option}
                         type="button"
                         onClick={() =>
-                          setQuizAnswers((current) => ({
-                            ...current,
-                            [index]: optionIndex,
-                          }))
+                          answerQuiz(index, optionIndex, quiz.answer)
                         }
                         className={[
                           "rounded-[8px] border p-3 text-left text-sm font-semibold leading-6 transition",
@@ -982,7 +1043,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
               "absolute inset-0 bg-black/35 transition-opacity duration-300",
               isSheetOpen ? "opacity-100" : "opacity-0",
             ].join(" ")}
-            onClick={closeVocabularySheet}
+            onClick={() => closeVocabularySheet()}
           />
           <div
             className={[
@@ -997,7 +1058,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                 <h2 className="text-base font-black text-text">词汇定位</h2>
                 <button
                   type="button"
-                  onClick={closeVocabularySheet}
+                  onClick={() => closeVocabularySheet()}
                   aria-label="Close"
                   title="Close"
                   className="h-9 w-9 rounded-full bg-muted text-sm font-black text-sub"
@@ -1035,6 +1096,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                     <AudioButton
                       className="h-8 w-8 shrink-0 rounded-full"
                       label={`Play ${vocab.word}`}
+                      onHaptic={handleAudioButtonHaptic}
                       subtitle={getWordSubtitle(vocab)}
                       description={vocab.cn}
                       url={vocab.audioUrl}
@@ -1046,7 +1108,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
           </div>
         </div>
       ) : null}
-      <GlobalAudioPlayer variant="mobile" />
+      <GlobalAudioPlayer variant="mobile" onHaptic={handlePlayerHaptic} />
     </main>
   );
 }

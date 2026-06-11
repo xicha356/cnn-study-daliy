@@ -1,5 +1,9 @@
+"use client";
+
 import type { ArticleIndexItem } from "@study/core/types";
 import Link from "next/link";
+import { haptic } from "../lib/haptics";
+import { HapticToggle } from "./HapticToggle";
 import { ThemeToggle } from "./ThemeToggle";
 
 const featureCards = [
@@ -69,10 +73,22 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
     0,
   );
 
+  function scrollToArticles() {
+    haptic("selection");
+    document.getElementById("articles")?.scrollIntoView({
+      block: "start",
+      behavior: "smooth",
+    });
+  }
+
   return (
     <main className="min-h-dvh overflow-hidden bg-bg pb-safe text-text">
       <header className="safe-x sticky top-0 z-30 flex h-[calc(env(safe-area-inset-top)+4.25rem)] items-end justify-between gap-4 border-b border-line bg-bg/90 pb-3 backdrop-blur-xl">
-        <Link href="/" className="flex items-center gap-3">
+        <Link
+          href="/"
+          className="flex items-center gap-3"
+          onClick={() => haptic("tap")}
+        >
           <span className="grid h-11 w-11 place-items-center rounded-[8px] bg-brand text-sm font-black text-white">
             CNN
           </span>
@@ -83,7 +99,10 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
             <h1 className="text-lg font-black text-text">cnn 新闻精读</h1>
           </div>
         </Link>
-        <ThemeToggle compact />
+        <div className="flex items-center gap-2">
+          <HapticToggle compact />
+          <ThemeToggle compact />
+        </div>
       </header>
 
       <section className="safe-x pt-7">
@@ -144,17 +163,19 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
           {todayArticle ? (
             <Link
               href={`/articles/${todayArticle.date}`}
+              onClick={() => haptic("selection")}
               className="tap-highlight flex h-12 flex-1 items-center justify-center rounded-[8px] bg-brand text-sm font-black text-white active:scale-[0.99]"
             >
               开始学习
             </Link>
           ) : null}
-          <a
-            href="#articles"
+          <button
+            type="button"
+            onClick={scrollToArticles}
             className="tap-highlight flex h-12 items-center justify-center rounded-[8px] border border-line bg-panel px-5 text-sm font-black text-text active:scale-[0.99]"
           >
             文章
-          </a>
+          </button>
         </div>
       </section>
 
@@ -212,6 +233,7 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
           </div>
           <Link
             href={`/articles/${todayArticle.date}`}
+            onClick={() => haptic("selection")}
             className="tap-highlight block rounded-[8px] border border-line bg-panel p-5 shadow-[var(--shadow)] transition active:scale-[0.99]"
           >
             <ArticleMeta article={todayArticle} />
@@ -238,6 +260,7 @@ export function HomePage({ articles }: { articles: ArticleIndexItem[] }) {
             <Link
               key={article.date}
               href={`/articles/${article.date}`}
+              onClick={() => haptic("selection")}
               className="tap-highlight block rounded-[8px] border border-line bg-panel p-4 transition active:scale-[0.99]"
             >
               <ArticleMeta article={article} />

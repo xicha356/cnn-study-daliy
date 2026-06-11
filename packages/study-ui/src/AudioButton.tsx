@@ -10,9 +10,15 @@ import { useEffect, useState } from "react";
 import { cn } from "./utils";
 
 type AudioState = "idle" | "loading" | "playing";
+type AudioButtonHapticEvent = "play" | "pause" | "error";
 
 function getPlayerTitle(label: string) {
-  return label.replace(/^Play\s+/i, "").replace(/^播放\s*/, "").trim() || label;
+  return (
+    label
+      .replace(/^Play\s+/i, "")
+      .replace(/^播放\s*/, "")
+      .trim() || label
+  );
 }
 
 export function AudioButton({
@@ -21,6 +27,7 @@ export function AudioButton({
   subtitle,
   description,
   className,
+  onHaptic,
 }: {
   url?: string;
   label?: string;
@@ -28,6 +35,7 @@ export function AudioButton({
   description?: string;
   className?: string;
   playbackRate?: number;
+  onHaptic?: (event: AudioButtonHapticEvent) => void;
 }) {
   const [state, setState] = useState<AudioState>("idle");
   const audioUrl = normalizeAudioUrl(url);
@@ -45,11 +53,14 @@ export function AudioButton({
   async function play() {
     if (!audioUrl) return;
     if (state === "playing") {
-      void toggleGlobalAudioPlayback();
+      onHaptic?.("pause");
+      const ok = await toggleGlobalAudioPlayback();
+      if (!ok) onHaptic?.("error");
       setState("idle");
       return;
     }
     try {
+      onHaptic?.("play");
       setState("loading");
       const ok = await playAudioUrl(url, {
         title: getPlayerTitle(label),
@@ -57,8 +68,10 @@ export function AudioButton({
         description,
         kind: "Audio",
       });
+      if (!ok) onHaptic?.("error");
       setState(ok ? "playing" : "idle");
     } catch {
+      onHaptic?.("error");
       setState("idle");
     }
   }
