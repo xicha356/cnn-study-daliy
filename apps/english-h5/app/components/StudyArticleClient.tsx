@@ -3,6 +3,7 @@
 import {
   playAudioUrl,
   playTtsText,
+  subscribeAudioPlayer,
   updateGlobalAudioMetadata,
 } from "@study/core/audio";
 import {
@@ -32,6 +33,11 @@ type TabKey = "original" | "translation" | "vocabulary" | "sentences" | "quiz";
 
 type WordTip = VocabularyItem & {
   loading?: boolean;
+};
+
+type ActiveAudioTarget = {
+  kind: "paragraph" | "sentence";
+  key: string;
 };
 
 const tabs: Array<{ key: TabKey; label: string }> = [
@@ -132,11 +138,13 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   const [ttsLoadingKey, setTtsLoadingKey] = useState("");
   const [pendingParagraphId, setPendingParagraphId] = useState("");
   const [pendingSentenceKey, setPendingSentenceKey] = useState("");
+  const [activeAudioTarget, setActiveAudioTarget] =
+    useState<ActiveAudioTarget | null>(null);
   const [copiedKey, setCopiedKey] = useState("");
   const [quizAnswers, setQuizAnswers] = useState<Record<number, number>>({});
 
   const paragraphRefs = useRef<Record<string, HTMLElement | null>>({});
-  const tipTimer = useRef<number | null>(null);
+  const quizFeedbackRefs = useRef<Record<number, HTMLDivElement | null>>({});
   const sheetTimer = useRef<number | null>(null);
   const sheetFrame = useRef<number | null>(null);
   const longPressTimer = useRef<number | null>(null);
@@ -154,11 +162,23 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
 
   useEffect(() => {
     return () => {
-      if (tipTimer.current) window.clearTimeout(tipTimer.current);
       if (sheetTimer.current) window.clearTimeout(sheetTimer.current);
       if (sheetFrame.current) window.cancelAnimationFrame(sheetFrame.current);
       if (longPressTimer.current) window.clearTimeout(longPressTimer.current);
     };
+  }, []);
+
+  useEffect(() => {
+    return subscribeAudioPlayer((player) => {
+      if (
+        player.status === "idle" ||
+        player.status === "paused" ||
+        player.status === "error" ||
+        !player.visible
+      ) {
+        setActiveAudioTarget(null);
+      }
+    });
   }, []);
 
   async function ensureTranslation(paragraph: Paragraph) {
@@ -221,9 +241,8 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   }
 
   function showVocabTip(vocab: VocabularyItem, shouldPlayAudio = false) {
+    if (shouldPlayAudio) setActiveAudioTarget(null);
     setActiveVocab(vocab);
-    if (tipTimer.current) window.clearTimeout(tipTimer.current);
-    tipTimer.current = window.setTimeout(() => setActiveVocab(null), 5000);
     if (shouldPlayAudio) {
       void playAudioUrl(vocab.audioUrl, {
         kind: "Word",
@@ -260,8 +279,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       cn: cached || "查询中...",
       loading: !cached,
     });
-    if (tipTimer.current) window.clearTimeout(tipTimer.current);
-    tipTimer.current = window.setTimeout(() => setActiveVocab(null), 5000);
     const audioPromise = speakWordText(cleanWord, cached || "查询中...");
 
     if (cached) return;
@@ -292,6 +309,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
 
   async function readParagraphAloud(text: string, paragraphId: string) {
     haptic("play");
+    setActiveAudioTarget({ kind: "paragraph", key: paragraphId });
     const ok = await playTtsText(text, {
       cacheKey: `paragraph:${article.date}:${paragraphId}`,
       kind: "Paragraph",
@@ -300,7 +318,10 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
         setPendingParagraphId(state === "loading" ? paragraphId : "");
       },
     });
-    if (!ok) haptic("error");
+    if (!ok) {
+      haptic("error");
+      setActiveAudioTarget(null);
+    }
     return ok;
   }
 
@@ -308,6 +329,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     const normalized = word.trim().toLowerCase();
     if (!normalized) return false;
 
+    setActiveAudioTarget(null);
     const ok = await playTtsText(word, {
       cacheKey: `word:${normalized}`,
       kind: "Word",
@@ -323,6 +345,7 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
 
   async function speakSentenceText(text: string, key: string) {
     haptic("play");
+    setActiveAudioTarget({ kind: "sentence", key });
     const ok = await playTtsText(text, {
       cacheKey: `sentence:${key}`,
       kind: "Sentence",
@@ -331,7 +354,10 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
         setPendingSentenceKey(state === "loading" ? key : "");
       },
     });
-    if (!ok) haptic("error");
+    if (!ok) {
+      haptic("error");
+      setActiveAudioTarget(null);
+    }
     return ok;
   }
 
@@ -441,8 +467,10 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
   }
 
   function handleAudioButtonHaptic(event: "play" | "pause" | "error") {
-    if (event === "play") haptic("play");
-    else if (event === "pause") haptic("tap");
+    if (event === "play") {
+      setActiveAudioTarget(null);
+      haptic("play");
+    } else if (event === "pause") haptic("tap");
     else haptic("error");
   }
 
@@ -463,6 +491,12 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     setQuizAnswers((current) => {
       if (typeof current[questionIndex] !== "number") {
         haptic(optionIndex === correctIndex ? "success" : "warning");
+        window.setTimeout(() => {
+          quizFeedbackRefs.current[questionIndex]?.scrollIntoView({
+            block: "center",
+            behavior: "smooth",
+          });
+        }, 80);
       }
       return {
         ...current,
@@ -631,77 +665,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
         </div>
       </header>
 
-      {activeVocab ? (
-        <div className="fixed inset-x-0 top-[calc(env(safe-area-inset-top)+3.75rem)] z-50 px-4">
-          <div className="mx-auto max-w-screen-sm rounded-[8px] border border-line bg-panel p-4 shadow-[var(--shadow)]">
-            <div className="flex items-start justify-between gap-3">
-              <div>
-                <p className="text-lg font-black text-text">
-                  {activeVocab.word}
-                </p>
-                <p className="mt-1 text-sm leading-6 text-sub">
-                  {[
-                    activeVocab.phonetic,
-                    activeVocab.pos,
-                    activeVocab.usage || activeVocab.level,
-                    activeVocab.difficulty,
-                    activeVocab.domain,
-                  ]
-                    .filter(Boolean)
-                    .join(" · ")}
-                </p>
-              </div>
-              <div className="flex items-center gap-2">
-                {activeVocab.loading ? (
-                  <span
-                    aria-hidden="true"
-                    className="h-4 w-4 animate-spin rounded-full border-2 border-brand border-t-transparent"
-                  />
-                ) : null}
-                {activeVocab.audioUrl ? (
-                  <AudioButton
-                    className="h-8 w-8 rounded-full"
-                    label={`Play ${activeVocab.word}`}
-                    onHaptic={handleAudioButtonHaptic}
-                    subtitle={getWordSubtitle(activeVocab)}
-                    description={activeVocab.cn}
-                    url={activeVocab.audioUrl}
-                  />
-                ) : (
-                  <button
-                    type="button"
-                    onClick={() => {
-                      haptic("play");
-                      void speakWordText(activeVocab.word, activeVocab.cn);
-                    }}
-                    aria-label={`Play ${activeVocab.word}`}
-                    title={`Play ${activeVocab.word}`}
-                    className="h-8 w-8 rounded-full border border-line bg-panel text-xs font-black text-sub"
-                  >
-                    <span aria-hidden="true">▶</span>
-                  </button>
-                )}
-                <button
-                  type="button"
-                  onClick={() => {
-                    haptic("tap");
-                    setActiveVocab(null);
-                  }}
-                  aria-label="Close"
-                  title="Close"
-                  className="h-8 w-8 rounded-full bg-muted text-sm font-black text-sub"
-                >
-                  X
-                </button>
-              </div>
-            </div>
-            <p className="mt-2 text-sm font-semibold leading-6 text-text">
-              {activeVocab.cn}
-            </p>
-          </div>
-        </div>
-      ) : null}
-
       <div className="safe-x mx-auto max-w-screen-sm pt-[calc(env(safe-area-inset-top)+4.5rem)]">
         <section className="mb-4 rounded-[8px] border border-line bg-panel p-4">
           <p className="text-xs font-bold uppercase tracking-[0.16em] text-brand">
@@ -742,6 +705,9 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
               const isShowingCn = Boolean(visibleCn[paragraph.id]);
               const translation = translations[paragraph.id];
               const isReadingParagraph = pendingParagraphId === paragraph.id;
+              const isActiveParagraph =
+                activeAudioTarget?.kind === "paragraph" &&
+                activeAudioTarget.key === paragraph.id;
               return (
                 <article
                   key={paragraph.id}
@@ -752,7 +718,9 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
                     "scroll-mt-36 rounded-[8px] border bg-panel p-4 transition",
                     pulseParagraphId === paragraph.id
                       ? "paragraph-pulse border-brand shadow-[0_0_0_3px_var(--brand-soft)]"
-                      : "border-line",
+                      : isActiveParagraph
+                        ? "border-brand shadow-[0_0_0_2px_var(--brand-soft)]"
+                        : "border-line",
                   ].join(" ")}
                 >
                   <div className="mb-3 flex items-center justify-between gap-3">
@@ -941,10 +909,18 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
             {article.sentences.map((sentence, index) => {
               const sentenceKey = `${article.date}:${index}`;
               const isLoading = pendingSentenceKey === sentenceKey;
+              const isActiveSentence =
+                activeAudioTarget?.kind === "sentence" &&
+                activeAudioTarget.key === sentenceKey;
               return (
                 <article
                   key={`${sentence.en}-${index}`}
-                  className="rounded-[8px] border border-line bg-panel p-4"
+                  className={[
+                    "rounded-[8px] border bg-panel p-4 transition",
+                    isActiveSentence
+                      ? "border-brand shadow-[0_0_0_2px_var(--brand-soft)]"
+                      : "border-line",
+                  ].join(" ")}
                 >
                   <div className="flex items-center justify-between gap-3">
                     <span className="text-xs font-black text-brand">
@@ -990,57 +966,76 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
 
         {activeTab === "quiz" ? (
           <section className="space-y-3">
-            {article.quiz.map((quiz, index) => (
-              <article
-                key={`${quiz.question}-${index}`}
-                className="rounded-[8px] border border-line bg-panel p-4"
-              >
-                <span className="text-xs font-black text-brand">
-                  Q{index + 1}
-                </span>
-                <h3 className="mt-3 text-base font-black leading-7 text-text">
-                  {quiz.question}
-                </h3>
-                <div className="mt-4 space-y-2">
-                  {quiz.options.map((option, optionIndex) => {
-                    const selected = quizAnswers[index];
-                    const answered = typeof selected === "number";
-                    const correct = optionIndex === quiz.answer;
-                    const chosen = selected === optionIndex;
+            {article.quiz.map((quiz, index) => {
+              const selected = quizAnswers[index];
+              const answered = typeof selected === "number";
+              const answeredCorrect = selected === quiz.answer;
 
-                    return (
-                      <button
-                        key={option}
-                        type="button"
-                        onClick={() =>
-                          answerQuiz(index, optionIndex, quiz.answer)
-                        }
-                        className={[
-                          "rounded-[8px] border p-3 text-left text-sm font-semibold leading-6 transition",
-                          answered && correct
-                            ? "choice-correct border-good bg-brandSoft text-text"
-                            : answered && chosen
-                              ? "choice-wrong border-bad bg-bg text-text"
-                              : "border-line bg-bg text-sub",
-                        ].join(" ")}
-                      >
-                        {option}
-                        {answered ? (
-                          <span className="ml-2 font-black">
-                            {correct ? "✓" : chosen ? "×" : ""}
-                          </span>
-                        ) : null}
-                      </button>
-                    );
-                  })}
-                </div>
-                {typeof quizAnswers[index] === "number" && quiz.explanation ? (
-                  <p className="mt-3 text-sm leading-6 text-sub">
-                    {quiz.explanation}
-                  </p>
-                ) : null}
-              </article>
-            ))}
+              return (
+                <article
+                  key={`${quiz.question}-${index}`}
+                  className="rounded-[8px] border border-line bg-panel p-4"
+                >
+                  <span className="text-xs font-black text-brand">
+                    Q{index + 1}
+                  </span>
+                  <h3 className="mt-3 text-base font-black leading-7 text-text">
+                    {quiz.question}
+                  </h3>
+                  <div className="mt-4 space-y-2">
+                    {quiz.options.map((option, optionIndex) => {
+                      const correct = optionIndex === quiz.answer;
+                      const chosen = selected === optionIndex;
+
+                      return (
+                        <button
+                          key={option}
+                          type="button"
+                          onClick={() =>
+                            answerQuiz(index, optionIndex, quiz.answer)
+                          }
+                          className={[
+                            "rounded-[8px] border p-3 text-left text-sm font-semibold leading-6 transition",
+                            answered && correct
+                              ? "choice-correct border-good bg-brandSoft text-text"
+                              : answered && chosen
+                                ? "choice-wrong border-bad bg-bg text-text"
+                                : "border-line bg-bg text-sub",
+                          ].join(" ")}
+                        >
+                          {option}
+                          {answered ? (
+                            <span className="ml-2 font-black">
+                              {correct ? "✓" : chosen ? "×" : ""}
+                            </span>
+                          ) : null}
+                        </button>
+                      );
+                    })}
+                  </div>
+                  {answered ? (
+                    <div
+                      ref={(node) => {
+                        quizFeedbackRefs.current[index] = node;
+                      }}
+                      className={[
+                        "mt-3 rounded-[8px] border px-3 py-2 text-sm font-black",
+                        answeredCorrect
+                          ? "border-good bg-brandSoft text-good"
+                          : "border-bad bg-bg text-bad",
+                      ].join(" ")}
+                    >
+                      {answeredCorrect ? "答对了" : "再想想"}
+                    </div>
+                  ) : null}
+                  {answered && quiz.explanation ? (
+                    <p className="mt-3 text-sm leading-6 text-sub">
+                      {quiz.explanation}
+                    </p>
+                  ) : null}
+                </article>
+              );
+            })}
           </section>
         ) : null}
       </div>
@@ -1128,6 +1123,90 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
           </div>
         </div>
       ) : null}
+
+      {activeVocab ? (
+        <div className="fixed inset-0 z-[60]">
+          <button
+            type="button"
+            aria-label="Close word detail"
+            className="absolute inset-0 bg-black/30"
+            onClick={() => {
+              haptic("tap");
+              setActiveVocab(null);
+            }}
+          />
+          <section className="word-sheet absolute inset-x-0 bottom-0 rounded-t-[8px] border border-line bg-panel px-4 pb-[calc(env(safe-area-inset-bottom)+1rem)] pt-3 shadow-[var(--shadow)]">
+            <div className="mx-auto max-w-screen-sm">
+              <div className="mx-auto mb-3 h-1 w-11 rounded-full bg-line" />
+              <div className="flex items-start justify-between gap-3">
+                <div className="min-w-0">
+                  <p className="break-words text-2xl font-black text-text">
+                    {activeVocab.word}
+                  </p>
+                  <p className="mt-1 text-sm leading-6 text-sub">
+                    {[
+                      activeVocab.phonetic,
+                      activeVocab.pos,
+                      activeVocab.usage || activeVocab.level,
+                      activeVocab.difficulty,
+                      activeVocab.domain,
+                    ]
+                      .filter(Boolean)
+                      .join(" · ")}
+                  </p>
+                </div>
+                <div className="flex shrink-0 items-center gap-2">
+                  {activeVocab.loading ? (
+                    <span
+                      aria-hidden="true"
+                      className="h-4 w-4 animate-spin rounded-full border-2 border-brand border-t-transparent"
+                    />
+                  ) : null}
+                  {activeVocab.audioUrl ? (
+                    <AudioButton
+                      className="h-9 w-9 rounded-full"
+                      label={`Play ${activeVocab.word}`}
+                      onHaptic={handleAudioButtonHaptic}
+                      subtitle={getWordSubtitle(activeVocab)}
+                      description={activeVocab.cn}
+                      url={activeVocab.audioUrl}
+                    />
+                  ) : (
+                    <button
+                      type="button"
+                      onClick={() => {
+                        haptic("play");
+                        void speakWordText(activeVocab.word, activeVocab.cn);
+                      }}
+                      aria-label={`Play ${activeVocab.word}`}
+                      title={`Play ${activeVocab.word}`}
+                      className="h-9 w-9 rounded-full border border-line bg-panel text-xs font-black text-sub"
+                    >
+                      <span aria-hidden="true">▶</span>
+                    </button>
+                  )}
+                  <button
+                    type="button"
+                    onClick={() => {
+                      haptic("tap");
+                      setActiveVocab(null);
+                    }}
+                    aria-label="Close"
+                    title="Close"
+                    className="h-9 w-9 rounded-full bg-muted text-sm font-black text-sub"
+                  >
+                    X
+                  </button>
+                </div>
+              </div>
+              <p className="mt-3 max-h-[28dvh] overflow-y-auto text-base font-semibold leading-7 text-text">
+                {activeVocab.cn}
+              </p>
+            </div>
+          </section>
+        </div>
+      ) : null}
+
       <GlobalAudioPlayer variant="mobile" onHaptic={handlePlayerHaptic} />
     </main>
   );
