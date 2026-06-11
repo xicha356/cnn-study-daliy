@@ -31,10 +31,6 @@ import { ThemeToggle } from "./ThemeToggle";
 
 type TabKey = "original" | "translation" | "vocabulary" | "sentences" | "quiz";
 
-type WordTip = VocabularyItem & {
-  loading?: boolean;
-};
-
 type ActiveAudioTarget = {
   kind: "paragraph" | "sentence";
   key: string;
@@ -130,7 +126,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     ),
   );
   const [loadingCn, setLoadingCn] = useState<Record<string, boolean>>({});
-  const [activeVocab, setActiveVocab] = useState<WordTip | null>(null);
   const [isSheetOpen, setIsSheetOpen] = useState(false);
   const [isSheetMounted, setIsSheetMounted] = useState(false);
   const [pulseParagraphId, setPulseParagraphId] = useState("");
@@ -242,7 +237,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
 
   function showVocabTip(vocab: VocabularyItem, shouldPlayAudio = false) {
     if (shouldPlayAudio) setActiveAudioTarget(null);
-    setActiveVocab(vocab);
     if (shouldPlayAudio) {
       void playAudioUrl(vocab.audioUrl, {
         kind: "Word",
@@ -274,12 +268,12 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
     }
 
     const cached = getWordMeaning(cleanWord);
-    setActiveVocab({
-      word: cleanWord,
-      cn: cached || "查询中...",
-      loading: !cached,
-    });
     const audioPromise = speakWordText(cleanWord, cached || "查询中...");
+    updateGlobalAudioMetadata({
+      title: cleanWord,
+      subtitle: "Word",
+      description: cached || "查询中...",
+    });
 
     if (cached) return;
 
@@ -287,21 +281,11 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
       const cn = await requestBrowserTranslation(cleanWord);
       const description = cn || "暂无释义";
       setWordMeaning(cleanWord, description);
-      setActiveVocab((current) =>
-        current?.word.toLowerCase() === normalized
-          ? { ...current, cn: description, loading: false }
-          : current,
-      );
       updateGlobalAudioMetadata({ description });
       void audioPromise.then(() => updateGlobalAudioMetadata({ description }));
     } catch {
       const description = "释义查询失败，请稍后再试";
       haptic("error");
-      setActiveVocab((current) =>
-        current?.word.toLowerCase() === normalized
-          ? { ...current, cn: description, loading: false }
-          : current,
-      );
       updateGlobalAudioMetadata({ description });
       void audioPromise.then(() => updateGlobalAudioMetadata({ description }));
     }
@@ -1121,89 +1105,6 @@ export function StudyArticleClient({ article }: { article: StudyArticle }) {
               </div>
             </div>
           </div>
-        </div>
-      ) : null}
-
-      {activeVocab ? (
-        <div className="fixed inset-0 z-[60]">
-          <button
-            type="button"
-            aria-label="Close word detail"
-            className="absolute inset-0 bg-black/30"
-            onClick={() => {
-              haptic("tap");
-              setActiveVocab(null);
-            }}
-          />
-          <section className="word-sheet absolute inset-x-0 bottom-0 rounded-t-[8px] border border-line bg-panel px-4 pb-[calc(env(safe-area-inset-bottom)+1rem)] pt-3 shadow-[var(--shadow)]">
-            <div className="mx-auto max-w-screen-sm">
-              <div className="mx-auto mb-3 h-1 w-11 rounded-full bg-line" />
-              <div className="flex items-start justify-between gap-3">
-                <div className="min-w-0">
-                  <p className="break-words text-2xl font-black text-text">
-                    {activeVocab.word}
-                  </p>
-                  <p className="mt-1 text-sm leading-6 text-sub">
-                    {[
-                      activeVocab.phonetic,
-                      activeVocab.pos,
-                      activeVocab.usage || activeVocab.level,
-                      activeVocab.difficulty,
-                      activeVocab.domain,
-                    ]
-                      .filter(Boolean)
-                      .join(" · ")}
-                  </p>
-                </div>
-                <div className="flex shrink-0 items-center gap-2">
-                  {activeVocab.loading ? (
-                    <span
-                      aria-hidden="true"
-                      className="h-4 w-4 animate-spin rounded-full border-2 border-brand border-t-transparent"
-                    />
-                  ) : null}
-                  {activeVocab.audioUrl ? (
-                    <AudioButton
-                      className="h-9 w-9 rounded-full"
-                      label={`Play ${activeVocab.word}`}
-                      onHaptic={handleAudioButtonHaptic}
-                      subtitle={getWordSubtitle(activeVocab)}
-                      description={activeVocab.cn}
-                      url={activeVocab.audioUrl}
-                    />
-                  ) : (
-                    <button
-                      type="button"
-                      onClick={() => {
-                        haptic("play");
-                        void speakWordText(activeVocab.word, activeVocab.cn);
-                      }}
-                      aria-label={`Play ${activeVocab.word}`}
-                      title={`Play ${activeVocab.word}`}
-                      className="h-9 w-9 rounded-full border border-line bg-panel text-xs font-black text-sub"
-                    >
-                      <span aria-hidden="true">▶</span>
-                    </button>
-                  )}
-                  <button
-                    type="button"
-                    onClick={() => {
-                      haptic("tap");
-                      setActiveVocab(null);
-                    }}
-                    aria-label="Close"
-                    title="Close"
-                    className="h-9 w-9 rounded-full bg-muted text-sm font-black text-sub"
-                  >
-                    X
-                  </button>
-                </div>
-              </div>
-              <p className="mt-3 max-h-[28dvh] overflow-y-auto text-base font-semibold leading-7 text-text">
-                {activeVocab.cn}
-              </p>
-            </div>
-          </section>
         </div>
       ) : null}
 

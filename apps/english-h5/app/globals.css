@@ -166,21 +166,6 @@ button {
   animation: choice-wrong 420ms ease-out;
 }
 
-@keyframes word-sheet-up {
-  0% {
-    transform: translateY(16px);
-    opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
-.word-sheet {
-  animation: word-sheet-up 260ms cubic-bezier(0.22, 1, 0.36, 1);
-}
-
 .touch-callout-none {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
