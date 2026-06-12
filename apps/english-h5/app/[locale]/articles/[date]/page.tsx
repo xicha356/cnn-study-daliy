@@ -100,6 +100,7 @@ export default async function LocaleArticlePage({
 }) {
   const { locale: rawLocale, date } = await params;
   const locale = normalizeLocale(rawLocale);
+  const articles = await loadArticleList(locale);
   const article = await loadArticle(date, locale);
 
   if (!article) notFound();
@@ -107,7 +108,11 @@ export default async function LocaleArticlePage({
   return (
     <>
       <JsonLd data={buildArticleJsonLd(article, siteUrl, locale)} />
-      <StudyArticleClient article={article} locale={locale} />
+      <StudyArticleClient
+        article={article}
+        articles={articles}
+        locale={locale}
+      />
     </>
   );
 }

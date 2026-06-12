@@ -22,6 +22,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.95,
     })),
     ...SUPPORTED_LOCALES.flatMap((locale) =>
+      ["/articles", "/settings"].map((path) => ({
+        url: `${siteBase}${localePath(locale, path)}/`,
+        lastModified: new Date(),
+        changeFrequency: "daily" as const,
+        priority: 0.8,
+      })),
+    ),
+    ...SUPPORTED_LOCALES.flatMap((locale) =>
       articles.map((article) => ({
         url: `${siteBase}${localePath(locale, `/articles/${article.date}`)}/`,
         lastModified: new Date(`${article.date}T00:00:00.000Z`),

@@ -78,6 +78,7 @@ export default async function ArticlePage({
   params,
 }: { params: Promise<{ date: string }> }) {
   const { date } = await params;
+  const articles = await getArticleList(DEFAULT_LOCALE);
   const article = await loadArticle(date);
 
   if (!article) notFound();
@@ -86,7 +87,11 @@ export default async function ArticlePage({
     <>
       <LocaleRedirectScript path={`/articles/${article.date}`} />
       <JsonLd data={buildArticleJsonLd(article, siteUrl, DEFAULT_LOCALE)} />
-      <StudyArticleClient article={article} locale={DEFAULT_LOCALE} />
+      <StudyArticleClient
+        article={article}
+        articles={articles}
+        locale={DEFAULT_LOCALE}
+      />
     </>
   );
 }

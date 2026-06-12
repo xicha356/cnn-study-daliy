@@ -73,7 +73,7 @@ export function LanguageSwitcher({
         aria-expanded={open}
         onClick={() => setOpen((value) => !value)}
         className={cn(
-          "focus:ring-brand/35 group relative inline-flex shrink-0 items-center justify-center overflow-hidden border border-line bg-panel text-text shadow-sm transition hover:-translate-y-px hover:border-brand/70 hover:text-brand hover:shadow-md focus:outline-none focus:ring-2 active:translate-y-0 active:scale-[0.98]",
+          "focus:ring-brand/35 group relative inline-flex shrink-0 items-center justify-center overflow-hidden border border-line bg-panel text-text shadow-sm transition hover:border-brand/70 hover:text-brand hover:shadow-md focus:outline-none focus:ring-2 active:scale-[0.98]",
           compact ? "h-9 w-9 rounded-full" : "h-10 w-10 rounded-[10px]",
         )}
       >
@@ -89,30 +89,6 @@ export function LanguageSwitcher({
           )}
         >
           {currentLocale.flag}
-        </span>
-        <span
-          aria-hidden="true"
-          className="absolute -right-0.5 -top-0.5 grid h-4 w-4 place-items-center rounded-full border border-line bg-bg text-[9px] text-muted shadow-sm"
-        >
-          <svg
-            aria-hidden="true"
-            className="h-2.5 w-2.5"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
-            strokeWidth="2.2"
-          >
-            <path
-              d="M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18Z"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-            <path
-              d="M3.6 9h16.8M3.6 15h16.8M12 3c2.1 2.3 3.2 5.3 3.2 9S14.1 18.7 12 21c-2.1-2.3-3.2-5.3-3.2-9S9.9 5.3 12 3Z"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-          </svg>
         </span>
       </button>
 

@@ -1,19 +1,8 @@
 export const DEFAULT_LOCALE = "zh-CN" as const;
 
-export const CORE_LOCALES = ["zh-CN", "km"] as const;
+export const CORE_LOCALES = ["zh-CN", "km", "id"] as const;
 
-export const SUPPORTED_LOCALES = [
-  "zh-CN",
-  "en",
-  "km",
-  "th",
-  "vi",
-  "id",
-  "ms",
-  "fil",
-  "my",
-  "lo",
-] as const;
+export const SUPPORTED_LOCALES = ["zh-CN", "km", "id"] as const;
 
 export type LocaleCode = (typeof SUPPORTED_LOCALES)[number];
 
@@ -41,17 +30,6 @@ export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
     dateLocale: "zh-CN",
     fallbackLocale: "zh-CN",
   },
-  en: {
-    code: "en",
-    flag: "🇺🇸",
-    label: "English",
-    nativeLabel: "English",
-    googleTranslateCode: "en",
-    htmlLang: "en",
-    ogLocale: "en_US",
-    dateLocale: "en-US",
-    fallbackLocale: "zh-CN",
-  },
   km: {
     code: "km",
     flag: "🇰🇭",
@@ -63,28 +41,6 @@ export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
     dateLocale: "km-KH",
     fallbackLocale: "zh-CN",
   },
-  th: {
-    code: "th",
-    flag: "🇹🇭",
-    label: "Thai",
-    nativeLabel: "ไทย",
-    googleTranslateCode: "th",
-    htmlLang: "th",
-    ogLocale: "th_TH",
-    dateLocale: "th-TH",
-    fallbackLocale: "en",
-  },
-  vi: {
-    code: "vi",
-    flag: "🇻🇳",
-    label: "Vietnamese",
-    nativeLabel: "Tiếng Việt",
-    googleTranslateCode: "vi",
-    htmlLang: "vi",
-    ogLocale: "vi_VN",
-    dateLocale: "vi-VN",
-    fallbackLocale: "en",
-  },
   id: {
     code: "id",
     flag: "🇮🇩",
@@ -94,51 +50,7 @@ export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
     htmlLang: "id",
     ogLocale: "id_ID",
     dateLocale: "id-ID",
-    fallbackLocale: "en",
-  },
-  ms: {
-    code: "ms",
-    flag: "🇲🇾",
-    label: "Malay",
-    nativeLabel: "Bahasa Melayu",
-    googleTranslateCode: "ms",
-    htmlLang: "ms",
-    ogLocale: "ms_MY",
-    dateLocale: "ms-MY",
-    fallbackLocale: "en",
-  },
-  fil: {
-    code: "fil",
-    flag: "🇵🇭",
-    label: "Filipino",
-    nativeLabel: "Filipino",
-    googleTranslateCode: "tl",
-    htmlLang: "fil",
-    ogLocale: "fil_PH",
-    dateLocale: "fil-PH",
-    fallbackLocale: "en",
-  },
-  my: {
-    code: "my",
-    flag: "🇲🇲",
-    label: "Burmese",
-    nativeLabel: "မြန်မာ",
-    googleTranslateCode: "my",
-    htmlLang: "my",
-    ogLocale: "my_MM",
-    dateLocale: "my-MM",
-    fallbackLocale: "en",
-  },
-  lo: {
-    code: "lo",
-    flag: "🇱🇦",
-    label: "Lao",
-    nativeLabel: "ລາວ",
-    googleTranslateCode: "lo",
-    htmlLang: "lo",
-    ogLocale: "lo_LA",
-    dateLocale: "lo-LA",
-    fallbackLocale: "en",
+    fallbackLocale: "zh-CN",
   },
 };
 
@@ -430,24 +342,6 @@ const localizedCopies: Partial<Record<LocaleCode, Partial<UiCopy>>> = {
     heroText:
       "អត្ថបទអង់គ្លេសគឺជាចំណុចកណ្តាល ហើយភាសារបស់អ្នកជួយពន្យល់ការបកប្រែ វាក្យសព្ទ វេយ្យាករណ៍ និងសំណួរ។",
   },
-  th: {
-    siteName: "เรียนข่าว CNN",
-    todayArticle: "บทความวันนี้",
-    startLearning: "เริ่มเรียน",
-    articleLibrary: "คลังบทความ",
-    words: "คำศัพท์",
-    sentences: "ประโยค",
-    heroTitle: "เรียนข่าว CNN อย่างลึกซึ้งวันละหนึ่งเรื่อง",
-  },
-  vi: {
-    siteName: "Học tin tức CNN",
-    todayArticle: "Bài hôm nay",
-    startLearning: "Bắt đầu học",
-    articleLibrary: "Thư viện bài viết",
-    words: "Từ vựng",
-    sentences: "Câu khó",
-    heroTitle: "Mỗi ngày học sâu một bản tin CNN.",
-  },
   id: {
     siteName: "Belajar Berita CNN",
     todayArticle: "Artikel hari ini",
@@ -457,47 +351,10 @@ const localizedCopies: Partial<Record<LocaleCode, Partial<UiCopy>>> = {
     sentences: "Kalimat",
     heroTitle: "Pelajari satu berita CNN secara mendalam setiap hari.",
   },
-  ms: {
-    siteName: "Belajar Berita CNN",
-    todayArticle: "Artikel hari ini",
-    startLearning: "Mula belajar",
-    articleLibrary: "Pustaka artikel",
-    words: "Kosa kata",
-    sentences: "Ayat",
-    heroTitle: "Pelajari satu berita CNN dengan mendalam setiap hari.",
-  },
-  fil: {
-    siteName: "CNN News Study",
-    todayArticle: "Artikulo ngayon",
-    startLearning: "Magsimulang matuto",
-    articleLibrary: "Aklatan ng artikulo",
-    words: "Bokabularyo",
-    sentences: "Pangungusap",
-    heroTitle: "Pag-aralan nang malalim ang isang balita ng CNN araw-araw.",
-  },
-  my: {
-    siteName: "CNN သတင်းလေ့လာရေး",
-    todayArticle: "ယနေ့ဆောင်းပါး",
-    startLearning: "စတင်လေ့လာမည်",
-    articleLibrary: "ဆောင်းပါးစာကြည့်တိုက်",
-    words: "ဝေါဟာရ",
-    sentences: "ဝါကျ",
-    heroTitle: "နေ့စဉ် CNN သတင်းတစ်ပုဒ်ကို နက်နက်ရှိုင်းရှိုင်း လေ့လာပါ။",
-  },
-  lo: {
-    siteName: "ຮຽນຂ່າວ CNN",
-    todayArticle: "ບົດຄວາມມື້ນີ້",
-    startLearning: "ເລີ່ມຮຽນ",
-    articleLibrary: "ຄັງບົດຄວາມ",
-    words: "ຄຳສັບ",
-    sentences: "ປະໂຫຍກ",
-    heroTitle: "ຮຽນຂ່າວ CNN ໃຫ້ເລິກມື້ລະໜຶ່ງບົດ.",
-  },
 };
 
 function mergeCopy(locale: LocaleCode): UiCopy {
   if (locale === "zh-CN") return zhCopy;
-  if (locale === "en") return englishCopy;
   return {
     ...englishCopy,
     ...localizedCopies[locale],

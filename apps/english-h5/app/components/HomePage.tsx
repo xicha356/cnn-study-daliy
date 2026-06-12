@@ -1,59 +1,16 @@
 "use client";
 
-import {
-  type LocaleCode,
-  getLocaleConfig,
-  getUiCopy,
-  localePath,
-} from "@study/core/i18n";
+import { type LocaleCode, getUiCopy, localePath } from "@study/core/i18n";
 import type { ArticleIndexItem } from "@study/core/types";
 import { LanguageSwitcher } from "@study/ui/LanguageSwitcher";
 import Link from "next/link";
 import { haptic } from "../lib/haptics";
-import { HapticToggle } from "./HapticToggle";
-import { ThemeToggle } from "./ThemeToggle";
-
-function formatDate(date: string, locale: LocaleCode) {
-  return new Intl.DateTimeFormat(getLocaleConfig(locale).dateLocale, {
-    month: "2-digit",
-    day: "2-digit",
-    weekday: "short",
-  }).format(new Date(`${date}T00:00:00`));
-}
+import { TabBar } from "./TabBar";
 
 function shortTitle(title: string) {
   return title
     .replace(/^CNN This Morning\s*·\s*\d{4}-\d{2}-\d{2}\s*·\s*/, "")
     .replace(/^CNN This Morning\s*·\s*/, "");
-}
-
-function ArticleMeta({
-  article,
-  locale,
-}: {
-  article: ArticleIndexItem;
-  locale: LocaleCode;
-}) {
-  const copy = getUiCopy(locale);
-  return (
-    <div className="flex flex-wrap items-center gap-2 text-xs font-black text-sub">
-      <span>{formatDate(article.date, locale)}</span>
-      <span className="h-1 w-1 rounded-full bg-line" />
-      <span>
-        {article.vocabCount} {copy.words}
-      </span>
-      <span className="h-1 w-1 rounded-full bg-line" />
-      <span>
-        {article.sentenceCount} {copy.sentences}
-      </span>
-      {article.hasAudio ? (
-        <>
-          <span className="h-1 w-1 rounded-full bg-line" />
-          <span>{copy.audio}</span>
-        </>
-      ) : null}
-    </div>
-  );
 }
 
 export function HomePage({
@@ -65,7 +22,6 @@ export function HomePage({
 }) {
   const copy = getUiCopy(locale);
   const todayArticle = articles[0];
-  const restArticles = articles.slice(1);
   const totalVocab = articles.reduce(
     (count, article) => count + article.vocabCount,
     0,
@@ -75,16 +31,8 @@ export function HomePage({
     0,
   );
 
-  function scrollToArticles() {
-    haptic("selection");
-    document.getElementById("articles")?.scrollIntoView({
-      block: "start",
-      behavior: "smooth",
-    });
-  }
-
   return (
-    <main className="min-h-dvh overflow-hidden bg-bg pb-safe text-text">
+    <main className="min-h-dvh overflow-hidden bg-bg pb-28 text-text">
       <header className="safe-x sticky top-0 z-30 flex h-[calc(env(safe-area-inset-top)+4.25rem)] items-end justify-between gap-4 border-b border-line bg-bg/90 pb-3 backdrop-blur-xl">
         <Link
           href={localePath(locale)}
@@ -103,8 +51,6 @@ export function HomePage({
         </Link>
         <div className="flex items-center gap-2">
           <LanguageSwitcher locale={locale} compact />
-          <HapticToggle compact />
-          <ThemeToggle compact />
         </div>
       </header>
 
@@ -169,13 +115,13 @@ export function HomePage({
               {copy.startLearning}
             </Link>
           ) : null}
-          <button
-            type="button"
-            onClick={scrollToArticles}
+          <Link
+            href={localePath(locale, "/articles")}
+            onClick={() => haptic("selection")}
             className="tap-highlight flex h-12 items-center justify-center rounded-[8px] border border-line bg-panel px-5 text-sm font-black text-text active:scale-[0.99]"
           >
             {copy.articles}
-          </button>
+          </Link>
         </div>
       </section>
 
@@ -223,59 +169,7 @@ export function HomePage({
         </div>
       </section>
 
-      {todayArticle ? (
-        <section className="safe-x mt-8">
-          <div className="mb-3 flex items-end justify-between">
-            <h2 className="text-lg font-black text-text">
-              {copy.todayArticle}
-            </h2>
-            <span className="text-xs font-black text-sub">
-              {todayArticle.date}
-            </span>
-          </div>
-          <Link
-            href={localePath(locale, `/articles/${todayArticle.date}`)}
-            onClick={() => haptic("selection")}
-            className="tap-highlight block rounded-[8px] border border-line bg-panel p-5 shadow-[var(--shadow)] transition active:scale-[0.99]"
-          >
-            <ArticleMeta article={todayArticle} locale={locale} />
-            <h3 className="mt-4 text-xl font-black leading-tight text-text">
-              {shortTitle(todayArticle.title)}
-            </h3>
-            <p className="mt-3 line-clamp-3 text-sm font-semibold leading-6 text-sub">
-              {todayArticle.summary}
-            </p>
-          </Link>
-        </section>
-      ) : (
-        <section className="safe-x mt-8">
-          <div className="rounded-[8px] border border-line bg-panel p-5 text-sm leading-6 text-sub">
-            {copy.noArticles}
-          </div>
-        </section>
-      )}
-
-      {restArticles.length ? (
-        <section id="articles" className="safe-x mt-8 space-y-3">
-          <h2 className="text-lg font-black text-text">{copy.pastArticles}</h2>
-          {restArticles.map((article) => (
-            <Link
-              key={article.date}
-              href={localePath(locale, `/articles/${article.date}`)}
-              onClick={() => haptic("selection")}
-              className="tap-highlight block rounded-[8px] border border-line bg-panel p-4 transition active:scale-[0.99]"
-            >
-              <ArticleMeta article={article} locale={locale} />
-              <h3 className="mt-3 text-base font-black leading-snug text-text">
-                {shortTitle(article.title)}
-              </h3>
-              <p className="mt-2 line-clamp-2 text-sm font-semibold leading-6 text-sub">
-                {article.summary}
-              </p>
-            </Link>
-          ))}
-        </section>
-      ) : null}
+      <TabBar locale={locale} />
     </main>
   );
 }

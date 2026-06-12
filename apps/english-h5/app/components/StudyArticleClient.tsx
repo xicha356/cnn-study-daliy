@@ -15,6 +15,7 @@ import {
 } from "@study/core/storage";
 import { requestBrowserTranslation } from "@study/core/translation";
 import type {
+  ArticleIndexItem,
   Paragraph,
   StudyArticle,
   VocabularyItem,
@@ -22,14 +23,13 @@ import type {
 import { orderVocabularyByArticle } from "@study/core/vocabulary";
 import { AudioButton } from "@study/ui/AudioButton";
 import { GlobalAudioPlayer } from "@study/ui/GlobalAudioPlayer";
-import { LanguageSwitcher } from "@study/ui/LanguageSwitcher";
 import Link from "next/link";
 import type { PointerEvent } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { ReactNode } from "react";
 import { haptic } from "../lib/haptics";
-import { HapticToggle } from "./HapticToggle";
-import { ThemeToggle } from "./ThemeToggle";
+import { ArticleDrawer } from "./ArticleDrawer";
+import { getMobileCopy } from "./mobileCopy";
 
 type TabKey = "original" | "translation" | "vocabulary" | "sentences" | "quiz";
 
@@ -113,12 +113,15 @@ function buildVocabularyMatcher(vocabulary: VocabularyItem[]) {
 
 export function StudyArticleClient({
   article,
+  articles,
   locale,
 }: {
   article: StudyArticle;
+  articles: ArticleIndexItem[];
   locale: LocaleCode;
 }) {
   const copy = getUiCopy(locale);
+  const mobileCopy = getMobileCopy(locale);
   const tabs: Array<{ key: TabKey; label: string }> = [
     { key: "original", label: copy.tabs.original },
     { key: "translation", label: copy.tabs.translation },
@@ -144,6 +147,7 @@ export function StudyArticleClient({
   const [activeAudioTarget, setActiveAudioTarget] =
     useState<ActiveAudioTarget | null>(null);
   const [copiedKey, setCopiedKey] = useState("");
+  const [isArticleDrawerOpen, setIsArticleDrawerOpen] = useState(false);
   const [quizAnswers, setQuizAnswers] = useState<Record<number, number>>({});
 
   const paragraphRefs = useRef<Record<string, HTMLElement | null>>({});
@@ -655,9 +659,18 @@ export function StudyArticleClient({
               {copiedKey === "article" ? "✓" : "⧉"}
             </span>
           </button>
-          <LanguageSwitcher locale={locale} compact />
-          <HapticToggle compact />
-          <ThemeToggle compact />
+          <button
+            type="button"
+            onClick={() => {
+              haptic("sheet");
+              setIsArticleDrawerOpen(true);
+            }}
+            aria-label={mobileCopy.articleDrawer.open}
+            title={mobileCopy.articleDrawer.open}
+            className="tap-highlight flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-line bg-panel text-sm font-black text-sub transition active:scale-95"
+          >
+            <span aria-hidden="true">☰</span>
+          </button>
         </div>
       </header>
 
@@ -1129,6 +1142,14 @@ export function StudyArticleClient({
           </div>
         </div>
       ) : null}
+
+      <ArticleDrawer
+        articles={articles}
+        currentDate={article.date}
+        locale={locale}
+        open={isArticleDrawerOpen}
+        onClose={() => setIsArticleDrawerOpen(false)}
+      />
 
       <GlobalAudioPlayer variant="mobile" onHaptic={handlePlayerHaptic} />
     </main>

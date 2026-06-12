@@ -27,17 +27,10 @@ I18N_DIR         = OUTPUT_DIR / 'i18n'
 OUTPUT_DIR.mkdir(exist_ok=True)
 CST = timezone(timedelta(hours=8))
 SUPPORTED_LOCALES = {
-    'en': 'English',
     'km': 'Khmer for Cambodian learners',
-    'th': 'Thai',
-    'vi': 'Vietnamese',
     'id': 'Indonesian',
-    'ms': 'Malay',
-    'fil': 'Filipino',
-    'my': 'Burmese',
-    'lo': 'Lao',
 }
-CORE_LOCALES = {'km'}
+CORE_LOCALES = {'km', 'id'}
 
 
 # ── 日期处理 ──────────────────────────────────────────────────

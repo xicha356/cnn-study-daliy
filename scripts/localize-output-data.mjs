@@ -10,18 +10,11 @@ import path from "node:path";
 const outputDir = "output";
 const i18nDir = path.join(outputDir, "i18n");
 const localeTargets = {
-  en: "en",
   km: "km",
-  th: "th",
-  vi: "vi",
   id: "id",
-  ms: "ms",
-  fil: "tl",
-  my: "my",
-  lo: "lo",
 };
 
-const requestedLocales = (process.env.TARGET_LOCALES || "km")
+const requestedLocales = (process.env.TARGET_LOCALES || "km,id")
   .split(",")
   .map((item) => item.trim())
   .filter((item) => item && localeTargets[item]);

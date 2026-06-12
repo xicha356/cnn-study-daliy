@@ -3,19 +3,8 @@ import path from "node:path";
 
 const dataRoot = path.join("public", "data");
 const articlesRoot = path.join(dataRoot, "articles");
-const supportedLocales = [
-  "zh-CN",
-  "en",
-  "km",
-  "th",
-  "vi",
-  "id",
-  "ms",
-  "fil",
-  "my",
-  "lo",
-];
-const coreLocales = ["zh-CN", "km"];
+const supportedLocales = ["zh-CN", "km", "id"];
+const coreLocales = ["zh-CN", "km", "id"];
 const noisePatterns = [
   "CNNSTATICSECTION",
   "CNN.com - Transcripts",

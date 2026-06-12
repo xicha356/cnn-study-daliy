@@ -86,7 +86,7 @@ jobs:
           MIN_SENTENCE_ITEMS: ${{ vars.MIN_SENTENCE_ITEMS || '12' }}
           MAX_SENTENCE_ITEMS: ${{ vars.MAX_SENTENCE_ITEMS || '20' }}
           DEEPSEEK_MAX_TOKENS: ${{ vars.DEEPSEEK_MAX_TOKENS || '16384' }}
-          TARGET_LOCALES: ${{ vars.TARGET_LOCALES || 'en,km' }}
+          TARGET_LOCALES: ${{ vars.TARGET_LOCALES || 'km,id' }}
           LOCALIZATION_CHUNK_SIZE: ${{ vars.LOCALIZATION_CHUNK_SIZE || '24' }}
         run: python src/generate.py
 

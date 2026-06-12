@@ -14,29 +14,11 @@ const publicDir = "public";
 const publicData = path.join(publicDir, "data");
 const publicArticles = path.join(publicData, "articles");
 const publicAudio = path.join(publicDir, "audio");
-const supportedLocales = [
-  "zh-CN",
-  "en",
-  "km",
-  "th",
-  "vi",
-  "id",
-  "ms",
-  "fil",
-  "my",
-  "lo",
-];
+const supportedLocales = ["zh-CN", "km", "id"];
 const fallbackLocales = {
   "zh-CN": "zh-CN",
-  en: "zh-CN",
   km: "zh-CN",
-  th: "en",
-  vi: "en",
-  id: "en",
-  ms: "en",
-  fil: "en",
-  my: "en",
-  lo: "en",
+  id: "zh-CN",
 };
 const noisePatterns = [
   "CNNSTATICSECTION",
@@ -146,6 +128,12 @@ function hasAudio(article) {
 }
 
 mkdirSync(publicArticles, { recursive: true });
+for (const name of existsSync(publicData) ? readdirSync(publicData) : []) {
+  const fullPath = path.join(publicData, name);
+  if (/^[a-z]{2,3}(-[A-Z]{2})?$/.test(name) && !supportedLocales.includes(name)) {
+    rmSync(fullPath, { recursive: true, force: true });
+  }
+}
 for (const locale of supportedLocales) {
   mkdirSync(path.join(publicData, locale, "articles"), { recursive: true });
 }

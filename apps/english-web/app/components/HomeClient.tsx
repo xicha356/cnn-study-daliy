@@ -107,14 +107,6 @@ export function HomeClient({ articles, locale }: HomeClientProps) {
             </div>
           </Link>
           <div className="flex items-center gap-3">
-            {latestArticle ? (
-              <Link
-                href={localePath(locale, `/articles/${latestArticle.date}`)}
-                className="focus-ring rounded-md border border-line bg-panel px-4 py-2 text-sm font-bold text-text transition hover:border-brand hover:text-brand"
-              >
-                {copy.todayArticle}
-              </Link>
-            ) : null}
             <LanguageSwitcher locale={locale} />
             <ThemeToggle />
           </div>
