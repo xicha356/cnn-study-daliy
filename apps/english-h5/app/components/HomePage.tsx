@@ -136,21 +136,21 @@ export function HomePage({
           <h2 className="text-lg font-black text-text">{copy.features}</h2>
           <span className="text-xs font-black text-sub">{copy.studyPath}</span>
         </div>
-        <div className="no-scrollbar flex snap-x gap-3 overflow-x-auto px-4 pb-1">
+        <div className="safe-x grid grid-cols-2 gap-3">
           {copy.featureCards.map((feature) => (
             <article
               key={feature.title}
-              className="min-w-[78%] snap-start rounded-[8px] border border-line bg-panel p-4 shadow-sm"
+              className="rounded-[8px] border border-line bg-panel p-3 shadow-sm"
             >
-              <div className="flex items-start justify-between gap-4">
-                <h3 className="text-xl font-black text-text">
+              <div className="flex min-h-16 flex-col justify-between gap-2">
+                <h3 className="text-base font-black leading-tight text-text">
                   {feature.title}
                 </h3>
-                <span className="rounded-[8px] bg-brand-soft px-2 py-1 font-mono text-xs font-black text-brand">
+                <span className="w-fit rounded-[8px] bg-brand-soft px-2 py-1 font-mono text-xs font-black text-brand">
                   {feature.value}
                 </span>
               </div>
-              <p className="mt-4 text-sm font-semibold leading-6 text-sub">
+              <p className="mt-3 text-xs font-semibold leading-5 text-sub">
                 {feature.detail}
               </p>
             </article>
