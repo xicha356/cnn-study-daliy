@@ -35,8 +35,8 @@ export function TabBar({ locale }: { locale: LocaleCode }) {
   }
 
   return (
-    <nav className="fixed inset-x-0 bottom-0 z-40 border-t border-line bg-panel/96 px-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] pt-2 shadow-[0_-14px_40px_rgb(0_0_0/0.18)] backdrop-blur-xl">
-      <div className="mx-auto grid max-w-screen-sm grid-cols-3 gap-2">
+    <nav className="fixed inset-x-0 bottom-[var(--vv-bottom,0px)] z-40 border-t border-line bg-panel/96 px-3 pb-[max(0.65rem,env(safe-area-inset-bottom))] pt-2 shadow-[0_-14px_40px_rgb(0_0_0/0.18)] backdrop-blur-xl">
+      <div className="mx-auto grid max-w-screen-sm grid-cols-3 gap-3">
         {tabs.map((tab) => {
           const active = isActive(tab.key);
           return (
@@ -46,15 +46,16 @@ export function TabBar({ locale }: { locale: LocaleCode }) {
               onClick={() => {
                 if (!active) haptic("selection");
               }}
+              aria-label={tab.label}
+              title={tab.label}
               className={[
-                "tap-highlight flex h-12 flex-col items-center justify-center rounded-[8px] text-xs font-black transition active:scale-[0.98]",
+                "tap-highlight mx-auto flex h-11 w-16 items-center justify-center rounded-[8px] text-base font-black transition active:scale-[0.98]",
                 active ? "bg-brand text-white" : "text-sub",
               ].join(" ")}
             >
               <span aria-hidden="true" className="text-base leading-none">
                 {tabIcon(tab.key)}
               </span>
-              <span className="mt-1 leading-none">{tab.label}</span>
             </Link>
           );
         })}

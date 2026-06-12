@@ -103,6 +103,43 @@ function LocaleScript() {
   return <script dangerouslySetInnerHTML={{ __html: code }} />;
 }
 
+function VisualViewportScript() {
+  const code = `
+    (function () {
+      try {
+        var root = document.documentElement;
+        var frame = 0;
+        function updateViewportVars() {
+          if (frame) window.cancelAnimationFrame(frame);
+          frame = window.requestAnimationFrame(function () {
+            frame = 0;
+            var viewport = window.visualViewport;
+            var bottom = 0;
+            var top = 0;
+            if (viewport) {
+              top = Math.max(0, viewport.offsetTop || 0);
+              bottom = Math.max(0, window.innerHeight - viewport.height - top);
+            }
+            root.style.setProperty('--vv-top', top.toFixed(2) + 'px');
+            root.style.setProperty('--vv-bottom', bottom.toFixed(2) + 'px');
+          });
+        }
+        updateViewportVars();
+        window.addEventListener('resize', updateViewportVars, { passive: true });
+        window.addEventListener('orientationchange', updateViewportVars, { passive: true });
+        window.addEventListener('pageshow', updateViewportVars, { passive: true });
+        if (window.visualViewport) {
+          window.visualViewport.addEventListener('resize', updateViewportVars, { passive: true });
+          window.visualViewport.addEventListener('scroll', updateViewportVars, { passive: true });
+        }
+      } catch (_) {}
+    })();
+  `;
+
+  // biome-ignore lint/security/noDangerouslySetInnerHtml: visual viewport CSS vars keep fixed mobile controls aligned with Android browser chrome.
+  return <script dangerouslySetInnerHTML={{ __html: code }} />;
+}
+
 function DeviceRedirectScript() {
   const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
   const webOrigin =
@@ -140,6 +177,7 @@ export default function RootLayout({
         <DeviceRedirectScript />
         <ThemeScript />
         <LocaleScript />
+        <VisualViewportScript />
         {children}
       </body>
     </html>

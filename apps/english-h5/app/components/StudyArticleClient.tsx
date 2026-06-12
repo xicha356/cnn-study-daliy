@@ -625,8 +625,8 @@ export function StudyArticleClient({
   }
 
   return (
-    <main className="min-h-dvh pb-40">
-      <header className="fixed inset-x-0 top-0 z-40 border-b border-line bg-bg pt-[env(safe-area-inset-top)]">
+    <main className="min-h-dvh pb-[calc(var(--vv-bottom,0px)+11rem)]">
+      <header className="sticky top-0 z-40 border-b border-line bg-bg pt-[env(safe-area-inset-top)]">
         <div className="safe-x mx-auto flex h-14 max-w-screen-sm items-center gap-3">
           <Link
             href={localePath(locale)}
@@ -674,7 +674,7 @@ export function StudyArticleClient({
         </div>
       </header>
 
-      <div className="safe-x mx-auto max-w-screen-sm pt-[calc(env(safe-area-inset-top)+4.5rem)]">
+      <div className="safe-x mx-auto max-w-screen-sm pt-4">
         <section className="mb-4 rounded-[8px] border border-line bg-panel p-4">
           <p className="text-xs font-bold uppercase tracking-[0.16em] text-brand">
             {copy.todayArticle}
@@ -1061,7 +1061,7 @@ export function StudyArticleClient({
         type="button"
         onClick={openVocabularySheet}
         aria-label={copy.actions.openVocabulary}
-        className="fixed bottom-[calc(env(safe-area-inset-bottom)+9rem)] right-4 z-40 h-14 w-14 rounded-full bg-brand text-lg font-black text-white shadow-[var(--shadow)] active:scale-95"
+        className="fixed bottom-[calc(var(--vv-bottom,0px)+env(safe-area-inset-bottom)+9rem)] right-4 z-40 h-14 w-14 rounded-full bg-brand text-lg font-black text-white shadow-[var(--shadow)] active:scale-95"
       >
         {copy.words.slice(0, 1) || "W"}
       </button>

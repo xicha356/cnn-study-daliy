@@ -33,13 +33,13 @@ export function HomePage({
 
   return (
     <main className="min-h-dvh overflow-hidden bg-bg pb-28 text-text">
-      <header className="safe-x sticky top-0 z-30 flex h-[calc(env(safe-area-inset-top)+4.25rem)] items-end justify-between gap-4 border-b border-line bg-bg/90 pb-3 backdrop-blur-xl">
+      <header className="safe-x sticky top-0 z-30 flex h-[calc(env(safe-area-inset-top)+4rem)] items-end justify-between gap-4 border-b border-line bg-bg/92 pb-3 backdrop-blur-xl">
         <Link
           href={localePath(locale)}
           className="flex items-center gap-3"
           onClick={() => haptic("tap")}
         >
-          <span className="grid h-11 w-11 place-items-center rounded-[8px] bg-brand text-sm font-black text-white">
+          <span className="grid h-10 w-10 place-items-center rounded-[8px] bg-brand text-sm font-black text-white shadow-sm">
             CNN
           </span>
           <div>
@@ -54,33 +54,39 @@ export function HomePage({
         </div>
       </header>
 
-      <section className="safe-x pt-7">
-        <p className="w-fit rounded-[8px] border border-line bg-panel px-3 py-1 text-[10px] font-black uppercase tracking-[0.18em] text-brand">
-          Daily intensive reading
-        </p>
-        <h2 className="mt-5 text-[2.75rem] font-black leading-[0.96] tracking-normal text-text">
-          {copy.heroTitle}
-        </h2>
-        <p className="mt-5 text-base font-semibold leading-7 text-sub">
-          {copy.heroText}
-        </p>
-
-        <div className="mt-7 overflow-hidden rounded-[8px] border border-line bg-[#111713] text-[#edf7f0] shadow-[var(--shadow)]">
-          <div className="flex items-center justify-between border-b border-white/10 px-4 py-3">
-            <div className="flex gap-1.5">
-              <span className="h-2.5 w-2.5 rounded-full bg-[#ff7066]" />
-              <span className="h-2.5 w-2.5 rounded-full bg-[#ffcc66]" />
-              <span className="h-2.5 w-2.5 rounded-full bg-[#7bd88f]" />
+      <section className="safe-x pt-5">
+        <div className="rounded-[8px] border border-line bg-panel p-4 shadow-[var(--shadow)]">
+          <div className="flex items-start justify-between gap-4">
+            <div className="min-w-0">
+              <p className="text-[10px] font-black uppercase tracking-[0.18em] text-brand">
+                Daily intensive reading
+              </p>
+              <h2 className="mt-3 text-[2.2rem] font-black leading-[1.02] tracking-normal text-text">
+                {copy.heroTitle}
+              </h2>
             </div>
-            <span className="text-[10px] font-black uppercase tracking-[0.18em] text-white/45">
-              study flow
+            <span className="grid h-12 w-12 shrink-0 place-items-center rounded-[8px] bg-brand-soft font-mono text-sm font-black text-brand">
+              {articles.length}
             </span>
           </div>
+          <p className="mt-4 text-sm font-semibold leading-6 text-sub">
+            {copy.heroText}
+          </p>
+        </div>
+
+        <article className="mt-4 overflow-hidden rounded-[8px] border border-line bg-[#111713] text-[#edf7f0] shadow-[var(--shadow)]">
+          <div className="border-b border-white/10 px-4 py-3">
+            <div className="flex items-center justify-between gap-3">
+              <span className="rounded-full bg-[#43d4c4] px-3 py-1 text-xs font-black text-[#08120f]">
+                {copy.todayArticle}
+              </span>
+              <span className="font-mono text-xs font-black text-white/45">
+                {todayArticle?.date || "--"}
+              </span>
+            </div>
+          </div>
           <div className="p-4">
-            <p className="font-mono text-xs text-[#87d7b7]">
-              $ open today --focus
-            </p>
-            <h3 className="mt-4 text-2xl font-black leading-tight">
+            <h3 className="text-2xl font-black leading-tight">
               {todayArticle
                 ? shortTitle(todayArticle.title)
                 : "CNN This Morning"}
@@ -102,39 +108,39 @@ export function HomePage({
                 <p className="mt-1 text-xl font-black">{totalSentences}</p>
               </div>
             </div>
+            <div className="mt-5 grid grid-cols-[1fr_auto] gap-3">
+              {todayArticle ? (
+                <Link
+                  href={localePath(locale, `/articles/${todayArticle.date}`)}
+                  onClick={() => haptic("selection")}
+                  className="tap-highlight flex h-12 items-center justify-center rounded-[8px] bg-brand text-sm font-black text-white active:scale-[0.99]"
+                >
+                  {copy.startLearning}
+                </Link>
+              ) : null}
+              <Link
+                href={localePath(locale, "/articles")}
+                onClick={() => haptic("selection")}
+                aria-label={copy.articles}
+                className="tap-highlight grid h-12 w-12 place-items-center rounded-[8px] border border-white/12 bg-white/[0.07] text-lg font-black text-white active:scale-[0.99]"
+              >
+                <span aria-hidden="true">☰</span>
+              </Link>
+            </div>
           </div>
-        </div>
-
-        <div className="mt-6 flex gap-3">
-          {todayArticle ? (
-            <Link
-              href={localePath(locale, `/articles/${todayArticle.date}`)}
-              onClick={() => haptic("selection")}
-              className="tap-highlight flex h-12 flex-1 items-center justify-center rounded-[8px] bg-brand text-sm font-black text-white active:scale-[0.99]"
-            >
-              {copy.startLearning}
-            </Link>
-          ) : null}
-          <Link
-            href={localePath(locale, "/articles")}
-            onClick={() => haptic("selection")}
-            className="tap-highlight flex h-12 items-center justify-center rounded-[8px] border border-line bg-panel px-5 text-sm font-black text-text active:scale-[0.99]"
-          >
-            {copy.articles}
-          </Link>
-        </div>
+        </article>
       </section>
 
-      <section className="mt-8">
+      <section className="mt-6">
         <div className="safe-x mb-3 flex items-end justify-between">
           <h2 className="text-lg font-black text-text">{copy.features}</h2>
-          <span className="text-xs font-black text-sub">{copy.swipeHint}</span>
+          <span className="text-xs font-black text-sub">{copy.studyPath}</span>
         </div>
-        <div className="no-scrollbar flex snap-x gap-3 overflow-x-auto px-4 pb-2">
+        <div className="no-scrollbar flex snap-x gap-3 overflow-x-auto px-4 pb-1">
           {copy.featureCards.map((feature) => (
             <article
               key={feature.title}
-              className="min-w-[72%] snap-start rounded-[8px] border border-line bg-panel p-4 shadow-sm"
+              className="min-w-[78%] snap-start rounded-[8px] border border-line bg-panel p-4 shadow-sm"
             >
               <div className="flex items-start justify-between gap-4">
                 <h3 className="text-xl font-black text-text">
@@ -152,17 +158,21 @@ export function HomePage({
         </div>
       </section>
 
-      <section className="safe-x mt-8">
-        <div className="rounded-[8px] border border-line bg-panel p-4">
-          <h2 className="text-lg font-black text-text">{copy.studyPath}</h2>
-          <div className="mt-4 space-y-3">
+      <section className="safe-x mt-6">
+        <div className="rounded-[8px] border border-line bg-panel p-4 shadow-sm">
+          <div className="flex items-center justify-between gap-4">
+            <h2 className="text-lg font-black text-text">{copy.studyPath}</h2>
+            <span className="rounded-full bg-brand-soft px-3 py-1 text-xs font-black text-brand">
+              {copy.steps.length}
+            </span>
+          </div>
+          <div className="mt-4 grid gap-3">
             {copy.steps.map((step, index) => (
               <div key={step} className="flex items-center gap-3">
                 <span className="grid h-8 w-8 place-items-center rounded-full bg-brand-soft font-mono text-xs font-black text-brand">
                   {index + 1}
                 </span>
                 <span className="text-sm font-black text-text">{step}</span>
-                <span className="h-px flex-1 bg-line" />
               </div>
             ))}
           </div>

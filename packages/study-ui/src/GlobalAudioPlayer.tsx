@@ -82,10 +82,10 @@ export function GlobalAudioPlayer({
       className={cn(
         "pointer-events-none fixed z-50 transition-[opacity,transform] duration-300 ease-[cubic-bezier(0.22,1,0.36,1)]",
         isMobile
-          ? "inset-x-3 bottom-[calc(env(safe-area-inset-bottom)+0.75rem)]"
+          ? "inset-x-3 bottom-[calc(var(--vv-bottom,0px)+env(safe-area-inset-bottom)+0.75rem)]"
           : "bottom-4 left-1/2 w-[min(640px,calc(100vw-2rem))] -translate-x-1/2",
         shown
-          ? "translate-y-0 opacity-100"
+          ? "opacity-100"
           : isMobile
             ? "translate-y-8 opacity-0"
             : "translate-y-4 opacity-0",
@@ -94,8 +94,8 @@ export function GlobalAudioPlayer({
     >
       <section
         className={cn(
-          "pointer-events-auto rounded-md border border-line bg-panel/95 shadow-[var(--shadow)] backdrop-blur-xl",
-          isMobile ? "p-3" : "p-3",
+          "pointer-events-auto rounded-md border border-line shadow-[var(--shadow)]",
+          isMobile ? "bg-panel p-3" : "bg-panel/95 p-3 backdrop-blur-xl",
         )}
         aria-label="Global audio player"
       >
