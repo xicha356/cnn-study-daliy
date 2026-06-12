@@ -226,7 +226,7 @@ jobs:
           printf '{"orgId":"%s","projectId":"%s"}' "$VERCEL_ORG_ID" "$VERCEL_PROJECT_ID" > .vercel/project.json
           retry pnpm dlx "vercel@$VERCEL_CLI_VERSION" pull --yes --environment production "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
           pnpm dlx "vercel@$VERCEL_CLI_VERSION" build --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
-          retry pnpm dlx "vercel@$VERCEL_CLI_VERSION" deploy --prebuilt --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
+          retry pnpm dlx "vercel@$VERCEL_CLI_VERSION" deploy --prebuilt --prod --yes --archive=tgz "${VERCEL_AUTH_FLAGS[@]}" -A vercel.web.json
           verify_latest_article
 
   deploy-h5:
@@ -335,5 +335,5 @@ jobs:
           printf '{"orgId":"%s","projectId":"%s"}' "$VERCEL_ORG_ID" "$VERCEL_PROJECT_ID" > .vercel/project.json
           retry pnpm dlx "vercel@$VERCEL_CLI_VERSION" pull --yes --environment production "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json
           pnpm dlx "vercel@$VERCEL_CLI_VERSION" build --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json
-          retry pnpm dlx "vercel@$VERCEL_CLI_VERSION" deploy --prebuilt --prod --yes "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json
+          retry pnpm dlx "vercel@$VERCEL_CLI_VERSION" deploy --prebuilt --prod --yes --archive=tgz "${VERCEL_AUTH_FLAGS[@]}" -A vercel.h5.json
           verify_latest_article
