@@ -5,7 +5,7 @@ import {
   setGlobalPlaybackRate,
   subscribeAudioPlayer,
 } from "@study/core/audio";
-import { type LocaleCode, getLocaleConfig } from "@study/core/i18n";
+import { type LocaleCode } from "@study/core/i18n";
 import { getStoredTheme } from "@study/core/storage";
 import { LanguageSwitcher } from "@study/ui/LanguageSwitcher";
 import { useEffect, useState } from "react";
@@ -71,7 +71,7 @@ function getAuthorCopy(locale: LocaleCode) {
   > = {
     "zh-CN": {
       label: "作者",
-      name: "xicha356",
+      name: "Kakashi",
       role: "软件工程师",
       telegram: "Telegram",
       hapticTest: "测试",
@@ -81,7 +81,7 @@ function getAuthorCopy(locale: LocaleCode) {
     },
     km: {
       label: "អ្នកបង្កើត",
-      name: "xicha356",
+      name: "Kakashi",
       role: "វិស្វករផ្នែកទន់",
       telegram: "Telegram",
       hapticTest: "សាកល្បង",
@@ -91,7 +91,7 @@ function getAuthorCopy(locale: LocaleCode) {
     },
     id: {
       label: "Pembuat",
-      name: "xicha356",
+      name: "Kakashi",
       role: "Software Engineer",
       telegram: "Telegram",
       hapticTest: "Tes",
@@ -105,7 +105,6 @@ function getAuthorCopy(locale: LocaleCode) {
 
 export function SettingsPage({ locale }: { locale: LocaleCode }) {
   const mobileCopy = getMobileCopy(locale);
-  const currentLocale = getLocaleConfig(locale);
   const authorCopy = getAuthorCopy(locale);
   const [speed, setSpeed] = useState(1);
   const [theme, setTheme] = useState<Theme>("dark");
@@ -128,23 +127,7 @@ export function SettingsPage({ locale }: { locale: LocaleCode }) {
 
   return (
     <main className="min-h-dvh bg-bg pb-28 text-text">
-      <header className="safe-x sticky top-0 z-30 border-b border-line bg-bg/92 pb-3 pt-[calc(env(safe-area-inset-top)+1rem)]">
-        <div className="flex items-center justify-between gap-4">
-          <div>
-            <p className="text-xs font-black uppercase tracking-[0.18em] text-brand">
-              {currentLocale.nativeLabel}
-            </p>
-            <h1 className="mt-1 text-2xl font-black text-text">
-              {mobileCopy.settings.title}
-            </h1>
-          </div>
-          <span className="grid h-11 w-11 place-items-center rounded-[8px] bg-brand text-base font-black text-white">
-            ⚙
-          </span>
-        </div>
-      </header>
-
-      <section className="safe-x mx-auto max-w-screen-sm py-4">
+      <section className="safe-x mx-auto max-w-screen-sm pb-4 pt-[calc(env(safe-area-inset-top)+1rem)]">
         <article className="rounded-[8px] border border-line bg-panel p-4 shadow-[var(--shadow)]">
           <div className="flex items-center gap-4">
             <img
@@ -164,7 +147,7 @@ export function SettingsPage({ locale }: { locale: LocaleCode }) {
               </p>
             </div>
             <a
-              href="https://t.me/xicha356"
+              href="https://t.me/kakashi89757"
               target="_blank"
               rel="noreferrer"
               className="tap-highlight rounded-full bg-brand px-3 py-2 text-xs font-black text-white active:scale-95"
