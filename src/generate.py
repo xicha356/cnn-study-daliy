@@ -721,6 +721,11 @@ def collect_localizable_fields(article: dict) -> list[tuple[dict, str, str]]:
 
 
 def localize_text_batch(items: list[dict], locale: str) -> dict[str, str]:
+    if not items:
+        return {}
+    if len(items) == 1:
+        return localize_single_text(items[0], locale)
+
     language = SUPPORTED_LOCALES[locale]
     prompt = f"""Translate these learner-facing CNN English-study explanations into {language}.
 
@@ -732,20 +737,71 @@ Rules:
 
 Items:
 {json.dumps(items, ensure_ascii=False)}"""
-    result = call_deepseek_messages(
-        [
-            {'role': 'system', 'content': 'You are a precise educational translator. Return valid JSON only.'},
-            {'role': 'user', 'content': prompt},
-        ],
-        max_tokens=8192,
-    )
+    try:
+        result = call_deepseek_messages(
+            [
+                {'role': 'system', 'content': 'You are a precise educational translator. Return valid JSON only.'},
+                {'role': 'user', 'content': prompt},
+            ],
+            max_tokens=8192,
+        )
+    except Exception as e:
+        mid = max(1, len(items) // 2)
+        print(f'      ⚠ {locale} 本地化批次失败，拆分重试（{len(items)} 项）：{e}')
+        translated = localize_text_batch(items[:mid], locale)
+        translated.update(localize_text_batch(items[mid:], locale))
+        return translated
+
     translated = {}
     for item in result.get('items') or []:
         item_id = sanitize(str(item.get('id') or ''))
         text = sanitize(str(item.get('text') or ''))
         if item_id and text:
             translated[item_id] = text
+
+    missing = [item for item in items if item.get('id') not in translated]
+    if missing:
+        print(f'      ⚠ {locale} 本地化批次缺失 {len(missing)} 项，单独重试')
+        for item in missing:
+            translated.update(localize_single_text(item, locale))
     return translated
+
+
+def localize_single_text(item: dict, locale: str) -> dict[str, str]:
+    item_id = sanitize(str(item.get('id') or ''))
+    text = sanitize(str(item.get('text') or ''))
+    if not item_id or not text:
+        return {}
+
+    language = SUPPORTED_LOCALES[locale]
+    prompt = f"""Translate this learner-facing CNN English-study explanation into {language}.
+
+Rules:
+- Preserve names, English vocabulary terms, dates, percentages, and acronyms accurately.
+- Keep the output concise and natural for English learners.
+- Return only valid JSON with this exact shape: {{"id":"{item_id}","text":"translated text"}}
+
+ID: {item_id}
+Text: {text}"""
+    try:
+        result = call_deepseek_messages(
+            [
+                {'role': 'system', 'content': 'You are a precise educational translator. Return valid JSON only.'},
+                {'role': 'user', 'content': prompt},
+            ],
+            max_tokens=2048,
+        )
+    except Exception as e:
+        print(f'      ⚠ {locale} 单项本地化失败：{item_id} ({e})')
+        return {}
+
+    value = sanitize(str(result.get('text') or ''))
+    if not value:
+        for result_item in result.get('items') or []:
+            if sanitize(str(result_item.get('id') or '')) == item_id:
+                value = sanitize(str(result_item.get('text') or ''))
+                break
+    return {item_id: value} if value else {}
 
 
 def localize_article_fields(data: dict, locale: str) -> dict:
