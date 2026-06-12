@@ -35,7 +35,7 @@ export function TabBar({ locale }: { locale: LocaleCode }) {
   }
 
   return (
-    <nav className="fixed inset-x-0 bottom-[var(--vv-bottom,0px)] z-40 border-t border-line bg-panel/96 px-3 pb-[max(0.65rem,env(safe-area-inset-bottom))] pt-2 shadow-[0_-14px_40px_rgb(0_0_0/0.18)] backdrop-blur-xl">
+    <nav className="fixed inset-x-0 bottom-0 z-40 border-t border-line bg-panel/96 px-3 pb-[max(0.65rem,env(safe-area-inset-bottom))] pt-2 shadow-[0_-14px_40px_rgb(0_0_0/0.18)] backdrop-blur-xl">
       <div className="mx-auto grid max-w-screen-sm grid-cols-3 gap-3">
         {tabs.map((tab) => {
           const active = isActive(tab.key);

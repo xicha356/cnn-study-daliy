@@ -13,14 +13,21 @@ function getPreferredTheme(): Theme {
   return "dark";
 }
 
-export function ThemeToggle({ compact = false }: { compact?: boolean }) {
+export function ThemeToggle({
+  compact = false,
+  onThemeChange,
+}: {
+  compact?: boolean;
+  onThemeChange?: (theme: Theme) => void;
+}) {
   const [theme, setTheme] = useState<Theme>("dark");
 
   useEffect(() => {
     const nextTheme = getPreferredTheme();
     setTheme(nextTheme);
     document.documentElement.dataset.theme = nextTheme;
-  }, []);
+    onThemeChange?.(nextTheme);
+  }, [onThemeChange]);
 
   function toggleTheme() {
     const nextTheme = theme === "dark" ? "light" : "dark";
@@ -28,6 +35,7 @@ export function ThemeToggle({ compact = false }: { compact?: boolean }) {
     setTheme(nextTheme);
     setStoredTheme(nextTheme);
     document.documentElement.dataset.theme = nextTheme;
+    onThemeChange?.(nextTheme);
   }
 
   return (
