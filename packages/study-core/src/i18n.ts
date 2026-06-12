@@ -19,6 +19,7 @@ export type LocaleCode = (typeof SUPPORTED_LOCALES)[number];
 
 export type LocaleConfig = {
   code: LocaleCode;
+  flag: string;
   label: string;
   nativeLabel: string;
   googleTranslateCode: string;
@@ -31,6 +32,7 @@ export type LocaleConfig = {
 export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
   "zh-CN": {
     code: "zh-CN",
+    flag: "🇨🇳",
     label: "Chinese",
     nativeLabel: "中文",
     googleTranslateCode: "zh-CN",
@@ -41,6 +43,7 @@ export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
   },
   en: {
     code: "en",
+    flag: "🇺🇸",
     label: "English",
     nativeLabel: "English",
     googleTranslateCode: "en",
@@ -51,6 +54,7 @@ export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
   },
   km: {
     code: "km",
+    flag: "🇰🇭",
     label: "Khmer",
     nativeLabel: "ភាសាខ្មែរ",
     googleTranslateCode: "km",
@@ -61,6 +65,7 @@ export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
   },
   th: {
     code: "th",
+    flag: "🇹🇭",
     label: "Thai",
     nativeLabel: "ไทย",
     googleTranslateCode: "th",
@@ -71,6 +76,7 @@ export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
   },
   vi: {
     code: "vi",
+    flag: "🇻🇳",
     label: "Vietnamese",
     nativeLabel: "Tiếng Việt",
     googleTranslateCode: "vi",
@@ -81,6 +87,7 @@ export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
   },
   id: {
     code: "id",
+    flag: "🇮🇩",
     label: "Indonesian",
     nativeLabel: "Bahasa Indonesia",
     googleTranslateCode: "id",
@@ -91,6 +98,7 @@ export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
   },
   ms: {
     code: "ms",
+    flag: "🇲🇾",
     label: "Malay",
     nativeLabel: "Bahasa Melayu",
     googleTranslateCode: "ms",
@@ -101,6 +109,7 @@ export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
   },
   fil: {
     code: "fil",
+    flag: "🇵🇭",
     label: "Filipino",
     nativeLabel: "Filipino",
     googleTranslateCode: "tl",
@@ -111,6 +120,7 @@ export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
   },
   my: {
     code: "my",
+    flag: "🇲🇲",
     label: "Burmese",
     nativeLabel: "မြန်မာ",
     googleTranslateCode: "my",
@@ -121,6 +131,7 @@ export const LOCALE_CONFIGS: Record<LocaleCode, LocaleConfig> = {
   },
   lo: {
     code: "lo",
+    flag: "🇱🇦",
     label: "Lao",
     nativeLabel: "ລາວ",
     googleTranslateCode: "lo",
