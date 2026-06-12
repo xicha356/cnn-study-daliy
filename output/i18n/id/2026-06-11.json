@@ -1,0 +1,1398 @@
+{
+  "date": "2026-06-11",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-11/segment/01",
+  "summary": "Amerika Serikat dan Iran saling menyerang untuk hari kedua berturut-turut, Trump mengancam akan meningkatkan pemboman jika Iran tidak segera menyetujui perjanjian damai. Menteri Pertahanan Hegseth mengatakan akan bernegosiasi dengan bom. Duta Besar Iran mengatakan tidak akan bernegosiasi di bawah ancaman. Mantan pejabat intelijen pertahanan Mann mengatakan pemboman tidak efektif dan menyebut kemungkinan AS menyerang infrastruktur sipil Iran, yang merupakan kejahatan perang. Selain itu, Knicks melakukan comeback 29 poin, memenangkan Game 4 Final NBA.",
+  "vocabulary": [
+    {
+      "word": "tit-for-tat",
+      "phonetic": "/ˈtɪt fər ˈtæt/",
+      "pos": "adj.",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "固定搭配 · 进阶",
+      "cn": "以牙还牙的，针锋相对的",
+      "en": "characterized by retaliation in kind",
+      "excerpt": "We do begin this hour with the tit-for-tat strikes between the U.S. and Iran",
+      "example_cn": "我们首先关注美国和伊朗之间的针锋相对的打击。",
+      "audio_url": "output/audio/vocab/2026-06-11/tit-for-tat-fefd1ab8.mp3"
+    },
+    {
+      "word": "surveillance",
+      "phonetic": "/sɜːrˈveɪləns/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "监视，监控",
+      "en": "close observation of a person or group, especially one under suspicion",
+      "excerpt": "The U.S. says it targeted Iran's surveillance capabilities",
+      "example_cn": "美国称其打击了伊朗的监视能力。",
+      "audio_url": "output/audio/vocab/2026-06-11/surveillance-124ede6e.mp3"
+    },
+    {
+      "word": "air defense",
+      "phonetic": "/ɛr dɪˈfɛns/",
+      "pos": "n.",
+      "usage": "专业术语",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "专业术语 · 进阶",
+      "cn": "防空",
+      "en": "military actions and systems designed to protect against enemy air attacks",
+      "excerpt": "communication systems and air defense sites",
+      "example_cn": "通信系统和防空站点。",
+      "audio_url": "output/audio/vocab/2026-06-11/air-defense-f4b849f8.mp3"
+    },
+    {
+      "word": "bomb the expletive out of",
+      "phonetic": "/bɑːm ði ˈɛksplətɪv aʊt ʌv/",
+      "pos": "phrase",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "日常表达 · 进阶",
+      "cn": "猛烈轰炸（expletive为脏话替代词）",
+      "en": "to bomb heavily and destructively (with expletive for emphasis)",
+      "excerpt": "he would bomb the expletive out of them",
+      "example_cn": "他会猛烈轰炸他们。",
+      "audio_url": "output/audio/vocab/2026-06-11/bomb-the-expletive-out-of-4bf028dc.mp3"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "基础",
+      "domain": "政治外交",
+      "level": "新闻常用 · 基础",
+      "cn": "停火，停战",
+      "en": "a temporary suspension of fighting",
+      "excerpt": "calling this the most violated ceasefire in history",
+      "example_cn": "称这是历史上被违反最严重的停火。",
+      "audio_url": "output/audio/vocab/2026-06-11/ceasefire-dcd3a293.mp3"
+    },
+    {
+      "word": "tap, tap, tap",
+      "phonetic": "/tæp tæp tæp/",
+      "pos": "phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "政治外交",
+      "level": "日常表达 · 基础",
+      "cn": "（比喻）不断拖延、敷衍",
+      "en": "to delay or string along repeatedly",
+      "excerpt": "You can see when someone's trying to tap, tap, tap on a deal",
+      "example_cn": "你能看到有人试图在协议上不断拖延。",
+      "audio_url": "output/audio/vocab/2026-06-11/tap-tap-tap-0988ea4f.mp3"
+    },
+    {
+      "word": "negotiate with bombs",
+      "phonetic": "/nɪˈɡoʊʃieɪt wɪð bɑːmz/",
+      "pos": "phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "用炸弹谈判（指以武力逼迫对方谈判）",
+      "en": "to use military force as a means of coercion in negotiations",
+      "excerpt": "If we need to negotiate with bombs, we'll negotiate with bombs",
+      "example_cn": "如果我们需要用炸弹谈判，我们就用炸弹谈判。",
+      "audio_url": "output/audio/vocab/2026-06-11/negotiate-with-bombs-605d7416.mp3"
+    },
+    {
+      "word": "intimidation",
+      "phonetic": "/ɪnˌtɪmɪˈdeɪʃən/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "恐吓，威胁",
+      "en": "the act of frightening someone to make them do something",
+      "excerpt": "No sustainable deal can be reached through threats, intimidation, or the use of force",
+      "example_cn": "通过威胁、恐吓或使用武力无法达成可持续的协议。",
+      "audio_url": "output/audio/vocab/2026-06-11/intimidation-3f3a91c8.mp3"
+    },
+    {
+      "word": "refrain from",
+      "phonetic": "/rɪˈfreɪn frʌm/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "克制，避免",
+      "en": "to stop oneself from doing something",
+      "excerpt": "The president of the United States should refrain from his recurring threats against Iran",
+      "example_cn": "美国总统应避免对伊朗反复发出威胁。",
+      "audio_url": "output/audio/vocab/2026-06-11/refrain-from-e51450a5.mp3"
+    },
+    {
+      "word": "coercion",
+      "phonetic": "/koʊˈɜːrʒən/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "强迫，胁迫",
+      "en": "the practice of persuading someone to do something by using force or threats",
+      "excerpt": "Iran has never negotiated under threats and pressure and will never submit to pressure or coercion",
+      "example_cn": "Iran never negotiates under threats and pressure, and will never yield to pressure or coercion.",
+      "audio_url": "output/audio/vocab/2026-06-11/coercion-afb9c866.mp3"
+    },
+    {
+      "word": "blockade",
+      "phonetic": "/blɑːˈkeɪd/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "封锁",
+      "en": "an act of sealing off a place to prevent goods or people from entering or leaving",
+      "excerpt": "Then they tried the blockade for another two months",
+      "example_cn": "Then they tried a blockade for two months.",
+      "audio_url": "output/audio/vocab/2026-06-11/blockade-64f91990.mp3"
+    },
+    {
+      "word": "war crime",
+      "phonetic": "/wɔːr kraɪm/",
+      "pos": "n.",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "法律司法",
+      "level": "专业术语 · 高阶",
+      "cn": "战争罪",
+      "en": "an act carried out during an armed conflict that violates international laws of war",
+      "excerpt": "The other really worrying escalation we saw yesterday was an apparent war crime",
+      "example_cn": "Another really worrying escalation we saw yesterday is the apparent war crime.",
+      "audio_url": "output/audio/vocab/2026-06-11/war-crime-20e7bfc8.mp3"
+    },
+    {
+      "word": "precision strike",
+      "phonetic": "/prɪˈsɪʒən straɪk/",
+      "pos": "n.",
+      "usage": "专业术语",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "专业术语 · 进阶",
+      "cn": "精确打击",
+      "en": "a military attack with high accuracy, often using guided munitions",
+      "excerpt": "a U.S. targeted precision strike on a water reservoir for drinking water in Iran near Hormuz",
+      "example_cn": "The US carried out a precision strike on a drinking water reservoir near Hormuz in Iran.",
+      "audio_url": "output/audio/vocab/2026-06-11/precision-strike-3ba06ee9.mp3"
+    },
+    {
+      "word": "civilian infrastructure",
+      "phonetic": "/sɪˈvɪljən ˈɪnfrəstrʌktʃər/",
+      "pos": "n.",
+      "usage": "专业术语",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "专业术语 · 进阶",
+      "cn": "民用基础设施",
+      "en": "the basic physical systems and structures that serve the civilian population",
+      "excerpt": "targeting of civilian infrastructure, as a deliberate strategy",
+      "example_cn": "Targeting civilian infrastructure as a deliberate strategy.",
+      "audio_url": "output/audio/vocab/2026-06-11/civilian-infrastructure-a95f6bb5.mp3"
+    },
+    {
+      "word": "posturing",
+      "phonetic": "/ˈpɑːstʃərɪŋ/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "故作姿态，装腔作势",
+      "en": "behavior that is intended to impress or mislead others",
+      "excerpt": "There is so much public posturing from this president",
+      "example_cn": "这位总统公开做了很多故作姿态的表演。",
+      "audio_url": "output/audio/vocab/2026-06-11/posturing-6199516b.mp3"
+    },
+    {
+      "word": "undermine",
+      "phonetic": "/ˌʌndərˈmaɪn/",
+      "pos": "v.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "逐渐削弱，损害",
+      "en": "to weaken or damage gradually or insidiously",
+      "excerpt": "has only further undermined that trust",
+      "example_cn": "只会进一步削弱那种信任。",
+      "audio_url": "output/audio/vocab/2026-06-11/undermine-7ecd02fc.mp3"
+    },
+    {
+      "word": "leak",
+      "phonetic": "/liːk/",
+      "pos": "v.",
+      "usage": "新闻常用",
+      "difficulty": "基础",
+      "domain": "政治外交",
+      "level": "新闻常用 · 基础",
+      "cn": "泄露（秘密信息）",
+      "en": "to disclose secret information",
+      "excerpt": "Trump comes out and leaks some of the details",
+      "example_cn": "特朗普出来泄露了一些细节。",
+      "audio_url": "output/audio/vocab/2026-06-11/leak-065c5c29.mp3"
+    },
+    {
+      "word": "negotiating counterpart",
+      "phonetic": "/nɪˈɡoʊʃieɪtɪŋ ˈkaʊntərpɑːrt/",
+      "pos": "n.",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "固定搭配 · 进阶",
+      "cn": "谈判对手",
+      "en": "the person or group with whom one is negotiating",
+      "excerpt": "earn the trust of his negotiating counterpart",
+      "example_cn": "赢得谈判对手的信任。",
+      "audio_url": "output/audio/vocab/2026-06-11/negotiating-counterpart-a6fcbd32.mp3"
+    },
+    {
+      "word": "in good faith",
+      "phonetic": "/ɪn ɡʊd feɪθ/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "法律司法",
+      "level": "固定搭配 · 进阶",
+      "cn": "真诚地，善意地",
+      "en": "with honest intentions",
+      "excerpt": "convince Trump to negotiate in good faith",
+      "example_cn": "说服特朗普真诚地谈判。",
+      "audio_url": "output/audio/vocab/2026-06-11/in-good-faith-50cff707.mp3"
+    },
+    {
+      "word": "on the heels of",
+      "phonetic": "/ɒn ðə hiːlz ʌv/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "固定搭配 · Lanjutan",
+      "cn": "segera setelahnya",
+      "en": "immediately after",
+      "excerpt": "coming on the heels of Iran and Israel trading strikes earlier in the week",
+      "example_cn": "Segera setelah serangan balasan antara Iran dan Israel awal pekan ini.",
+      "audio_url": "output/audio/vocab/2026-06-11/on-the-heels-of-2129407e.mp3"
+    },
+    {
+      "word": "call the shots",
+      "phonetic": "/kɔːl ðə ʃɑːts/",
+      "pos": "phrase",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Ekspresi sehari-hari · Lanjutan",
+      "cn": "memerintah, mengendalikan situasi",
+      "en": "to be in charge; to make the decisions",
+      "excerpt": "Israel doesn't call the shots",
+      "example_cn": "Israel tidak bisa memerintah.",
+      "audio_url": "output/audio/vocab/2026-06-11/call-the-shots-c53400ab.mp3"
+    },
+    {
+      "word": "sway",
+      "phonetic": "/sweɪ/",
+      "pos": "n.",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan diplomasi",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "pengaruh, kekuasaan",
+      "en": "influence or power over someone",
+      "excerpt": "how much sway, how much influence do you think this president actually has",
+      "example_cn": "Menurut Anda, seberapa besar pengaruh presiden ini sebenarnya?",
+      "audio_url": "output/audio/vocab/2026-06-11/sway-60ab5c38.mp3"
+    },
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "pos": "n.",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan diplomasi",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "pengaruh, daya ungkit",
+      "en": "the power to influence a person or situation",
+      "excerpt": "President Trump and any U.S. president has nearly infinite leverage over the Israeli government",
+      "example_cn": "Presiden Trump dan presiden AS mana pun memiliki pengaruh yang hampir tak terbatas terhadap pemerintah Israel.",
+      "audio_url": "output/audio/vocab/2026-06-11/leverage-481725cf.mp3"
+    },
+    {
+      "word": "deter",
+      "phonetic": "/dɪˈtɜːr/",
+      "pos": "v.",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Militer dan keamanan",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "pencegahan, menghalangi",
+      "en": "to discourage someone from doing something",
+      "excerpt": "it's deterred Netanyahu from launching what potentially started this escalation",
+      "example_cn": "Ini mencegah Netanyahu melancarkan tindakan yang dapat memicu eskalasi.",
+      "audio_url": "output/audio/vocab/2026-06-11/deter-9ff612bb.mp3"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "New overnight, the United States and Iran trading attacks for a second straight day as President Trump promises more to come if Tehran does not immediately agree to a peace deal.",
+      "cn": "最新消息，美国与伊朗连续第二天互相攻击，特朗普总统承诺，如果德黑兰不立即同意和平协议，还会有更多打击。",
+      "structure": "主句 + as引导的时间状语从句，从句中包含if引导的条件状语从句",
+      "analysis": "trading attacks 是新闻压缩表达，意为'互相攻击'；for a second straight day 表示'连续第二天'；more to come 是省略结构，完整为 more attacks to come"
+    },
+    {
+      "en": "Plus, new revelations about how the White House handled the Epstein scandal, meeting in the Situation Room to game out a plan without President Trump.",
+      "cn": "此外，关于白宫如何处理爱泼斯坦丑闻的新爆料：他们在战情室开会，在没有特朗普总统的情况下制定计划。",
+      "structure": "主句 + how引导的宾语从句，后接现在分词短语作伴随状语",
+      "analysis": "revelations 意为'爆料'；game out 是动词短语，意为'制定策略'；Situation Room 是白宫战情室"
+    },
+    {
+      "en": "The president suggests, as you just heard, he doesn't mind the high prices right now.",
+      "cn": "正如你刚才听到的，总统暗示他并不介意目前的高物价。",
+      "structure": "主句 + as引导的非限制性定语从句，后接省略that的宾语从句",
+      "analysis": "as you just heard 是插入语，as 指代后面整个句子；suggests 在此意为'暗示'"
+    },
+    {
+      "en": "Could we also see a much-needed vibe shift away from the outrage over ticket prices and immigration issues?",
+      "cn": "我们是否也能看到一种急需的氛围转变，摆脱对票价和移民问题的愤怒？",
+      "structure": "一般疑问句，主语we，谓语see，宾语a much-needed vibe shift，后接away from短语作定语",
+      "analysis": "vibe shift 是口语化表达，意为'氛围转变'；much-needed 是复合形容词，意为'急需的'；outrage over 意为'对……的愤怒'"
+    },
+    {
+      "en": "President Trump choosing military might over diplomacy.",
+      "cn": "特朗普总统选择军事力量而非外交手段。",
+      "structure": "独立主格结构，现在分词短语作伴随状语",
+      "analysis": "choosing...over... 是固定搭配，意为'选择……而不是……'；military might 意为'军事力量'"
+    },
+    {
+      "en": "On a call from the Situation Room, President Trump told FOX News if Iran did not agree to a deal, he would bomb the expletive out of them, calling this the most violated ceasefire in history.",
+      "cn": "在战情室的一次通话中，特朗普总统告诉福克斯新闻，如果伊朗不同意协议，他就会狠狠地轰炸他们，并称这是历史上最被违反的停火协议。",
+      "structure": "介词短语作状语 + 主句 + if引导的条件状语从句 + 现在分词短语作伴随状语",
+      "analysis": "the expletive 是委婉语，指脏话，此处表示强调；calling this... 是现在分词短语，this 指代整个情况"
+    },
+    {
+      "en": "Instead, they're going to have tap, tap, tap bombs dropping on key facilities in Iran from the United States of America.",
+      "cn": "相反，他们将会有来自美国的炸弹不断落在伊朗的关键设施上。",
+      "structure": "主句，have + 宾语 + 现在分词作宾补",
+      "analysis": "tap, tap, tap 是拟声词，模拟连续打击，此处与前面的'tap, tap, tap on a deal'形成对比；have bombs dropping 是使役结构"
+    },
+    {
+      "en": "No sustainable deal can be reached through threats, intimidation, or the use of force.",
+      "cn": "通过威胁、恐吓或使用武力无法达成任何可持续的协议。",
+      "structure": "简单句，主语 + 谓语 + 介词短语作方式状语",
+      "analysis": "sustainable deal 意为'可持续的协议'；through 表示方式；threats, intimidation, the use of force 是并列名词短语"
+    },
+    {
+      "en": "The president of the United States should refrain from his recurring threats against Iran, including his renewed threat of force made today.",
+      "cn": "Presiden AS harus menghindari ancaman berulang terhadap Iran, termasuk ancaman kekerasan yang dilontarkan lagi hari ini.",
+      "structure": "Klausa utama + frase partisip kini 'including...' sebagai keterangan tambahan, di mana 'made today' adalah frase partisip lampau sebagai atribut",
+      "analysis": "'refrain from' berarti 'menghindari'; 'recurring threats' berarti 'ancaman berulang'; 'renewed threat' berarti 'ancaman yang dilontarkan lagi'"
+    },
+    {
+      "en": "Iran has never negotiated under threats and pressure and will never submit to pressure or coercion.",
+      "cn": "Iran tidak pernah bernegosiasi di bawah ancaman dan tekanan, dan tidak akan pernah tunduk pada tekanan atau paksaan.",
+      "structure": "Kalimat majemuk setara, dihubungkan oleh 'and' yang menghubungkan dua bagian predikat",
+      "analysis": "'under threats and pressure' adalah frase preposisi sebagai keterangan; 'submit to' berarti 'tunduk pada'; 'coercion' berarti 'paksaan'"
+    },
+    {
+      "en": "We know for certain from recent history that it is not the way to get Iran to negotiate.",
+      "cn": "Kami tahu pasti dari sejarah terkini bahwa ini bukan cara untuk membuat Iran bernegosiasi.",
+      "structure": "Klausa utama + klausa objek yang dipandu 'that'",
+      "analysis": "'for certain' adalah frase tetap, berarti 'pasti'; 'get sb. to do sth.' berarti 'membuat seseorang melakukan sesuatu'"
+    },
+    {
+      "en": "They tried bombing Iran for 40 days.",
+      "cn": "Mereka pernah mencoba membom Iran selama 40 hari.",
+      "structure": "Kalimat sederhana, 'try' + gerund sebagai objek",
+      "analysis": "'try doing sth.' berarti 'mencoba melakukan sesuatu'; 'for 40 days' adalah keterangan waktu"
+    },
+    {
+      "en": "It's unfortunate, because I think there is still a possibility for peace when the Trump administration gets serious about actually negotiating, which is going to require them making some concessions.",
+      "cn": "Ini sangat disayangkan, karena saya pikir perdamaian masih mungkin ketika pemerintahan Trump serius tentang negosiasi yang sebenarnya, dan itu akan meminta mereka membuat beberapa konsesi.",
+      "structure": "Klausa utama + klausa keterangan sebab yang dipandu 'because', klausa tersebut berisi klausa objek dari 'think', klausa objek berisi klausa keterangan waktu yang dipandu 'when' dan klausa relatif non-restriktif yang dipandu 'which'",
+      "analysis": "'gets serious about' berarti 'serius tentang'; 'require sb. doing sth.' adalah penggunaan 'require', berarti 'meminta seseorang melakukan sesuatu'; 'concessions' berarti 'konsesi'"
+    },
+    {
+      "en": "The other really worrying escalation we saw yesterday was an apparent war crime: a U.S. targeted precision strike on a water reservoir for drinking water in Iran near Hormuz.",
+      "cn": "Eskalasi lain yang benar-benar mengkhawatirkan yang kami lihat kemarin adalah kejahatan perang yang nyata: serangan presisi tepat AS terhadap reservoir air minum di dekat Hormuz, Iran.",
+      "structure": "Klausa utama (berisi klausa relatif yang menghilangkan 'that' 'we saw yesterday') + aposisi (setelah titik dua menjelaskan 'war crime')",
+      "analysis": "'escalation' berarti 'eskalasi'; 'apparent war crime' berarti 'kejahatan perang yang nyata'; 'targeted precision strike' berarti 'serangan presisi tepat'"
+    },
+    {
+      "en": "And that's something Trump has threatened several times over the past eight weeks, you know, when he got frustrated with the ceasefire.",
+      "cn": "Dan ini adalah sesuatu yang telah Trump ancam berkali-kali selama delapan minggu terakhir, Anda tahu, ketika dia frustrasi dengan gencatan senjata.",
+      "structure": "Klausa utama (berisi klausa relatif yang menghilangkan 'that' 'Trump has threatened...') + sisipan 'you know' + klausa keterangan waktu yang dipandu 'when'",
+      "analysis": "'something' setelahnya menghilangkan 'that'; 'over the past eight weeks' berarti 'selama delapan minggu terakhir'; 'got frustrated with' berarti 'frustrasi dengan'"
+    },
+    {
+      "en": "And I'm hoping we don't see more war crimes, targeting of civilian infrastructure, as a deliberate strategy to try and bring Iran to the table.",
+      "cn": "Saya berharap kita tidak akan melihat lebih banyak kejahatan perang, yaitu menargetkan infrastruktur sipil, sebagai strategi yang disengaja untuk mencoba membawa Iran kembali ke meja perundingan.",
+      "structure": "Klausa utama + klausa objek yang menghilangkan 'that', klausa tersebut berisi aposisi ('targeting...' menjelaskan 'war crimes') dan frase 'as' sebagai keterangan",
+      "analysis": "'targeting of civilian infrastructure' adalah frase gerund, sebagai aposisi dari 'war crimes'; 'as a deliberate strategy' berarti 'sebagai strategi yang disengaja'; 'bring sb. to the table' adalah idiom, berarti 'membawa seseorang kembali ke meja perundingan'"
+    },
+    {
+      "en": "What the Iranian side understood at the start of the war -- which, let's remember, began when Trump and Netanyahu bombed in the middle of negotiations -- is that it's very hard to trust Donald Trump.",
+      "cn": "伊朗方面在战争开始时理解的是 --  -- 让我们记住，战争是在特朗普和内塔尼亚胡在谈判中途轰炸时开始的 --  -- 那就是很难信任唐纳德·特朗普。",
+      "structure": "主语从句（What...war）+ 插入的定语从句（which...negotiations）+ 系动词is + 表语从句（that...）",
+      "analysis": "let's remember 是插入语；bombed 在此作动词，意为'轰炸'；in the middle of negotiations 意为'在谈判中途'"
+    },
+    {
+      "en": "And Trump's constant lying, you know, both in public and maybe to the Iranian side, has only further undermined that trust.",
+      "cn": "而特朗普不断的谎言，你知道，无论是在公开场合还是可能对伊朗方面，都进一步破坏了这种信任。",
+      "structure": "主句，主语后接插入语you know和同位语both...side",
+      "analysis": "constant lying 意为'不断的谎言'；undermined 意为'破坏'；both...and... 连接两个介词短语"
+    },
+    {
+      "en": "So, when it looks like maybe they're making progress towards a deal, and then Trump comes out and leaks some of the details, or he just starts making really outrageous threats, that's going to make it even harder for him to earn the trust of his negotiating counterpart and get them to actually agree to something.",
+      "cn": "所以，当看起来他们可能正在朝着协议取得进展时，然后特朗普出来泄露一些细节，或者他开始发出非常离谱的威胁，那就会让他更难赢得谈判对手的信任，并让他们真正同意某些事情。",
+      "structure": "when引导的时间状语从句（含两个并列分句）+ 主句（that's going to make it...）",
+      "analysis": "make progress towards 意为'朝着……取得进展'；leaks 意为'泄露'；outrageous threats 意为'离谱的威胁'；make it + adj. + for sb. to do sth. 是固定结构；negotiating counterpart 意为'谈判对手'"
+    },
+    {
+      "en": "And I think that's why we're seeing an increased willingness from the Iranian government to go back to full-scale war, because they don't really think at this point that there's any other way to convince Trump to negotiate in good faith.",
+      "cn": "我认为这就是为什么我们看到伊朗政府越来越愿意回到全面战争，因为他们目前真的认为没有其他办法可以说服特朗普真诚谈判。",
+      "structure": "主句 + that引导的宾语从句（含why引导的表语从句），后接because引导的原因状语从句（含that引导的宾语从句）",
+      "analysis": "increased willingness 意为'增加的意愿'；full-scale war 意为'全面战争'；at this point 意为'此时'；convince sb. to do sth. 意为'说服某人做某事'；in good faith 是固定短语，意为'真诚地'"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊冲突升级",
+      "content": "2026年6月，美国与伊朗连续两天互相打击。美国总统特朗普威胁如果伊朗不立即同意和平协议，将加大轰炸力度。国防部长赫格塞斯（Pete Hegseth）称将用炸弹谈判。伊朗驻联合国大使伊拉瓦尼（Amir-Saeid Iravani）表示不会在威胁下谈判。前国防情报官员曼恩（Harrison Mann）指出轰炸无效，并提及美国可能对伊朗民用基础设施发动袭击，构成战争罪。",
+      "keywords": "tit-for-tat strikes · negotiate with bombs · war crime"
+    },
+    {
+      "title": "特朗普的谈判策略",
+      "context": "特朗普多次公开表示与伊朗的协议接近达成，但同时又发出威胁。分析认为这种反复无常削弱了美国的谈判地位。伊朗方面认为特朗普不值得信任，导致谈判难以推进。曼恩指出，特朗普的谎言和泄密行为进一步破坏了信任，使伊朗更倾向于全面战争。",
+      "keywords": "posturing · undermine trust · leak"
+    },
+    {
+      "title": "以色列的角色",
+      "context": "以色列总理内塔尼亚胡向黎巴嫩人民发表声明，称以色列与真主党作战，而非黎巴嫩人民。此前伊朗和以色列在周日互相打击。特朗普在接受《金融时报》采访时表示，以色列必须接受美国与伊朗达成的任何协议，以色列不能发号施令。曼恩指出，美国对以色列拥有巨大影响力，但特朗普并未充分使用。",
+      "keywords": "call the shots · leverage · Hezbollah"
+    },
+    {
+      "title": "尼克斯队历史性逆转",
+      "context": "在NBA总决赛第4场比赛中，纽约尼克斯队在落后29分的情况下实现历史性逆转，最终以一分之差获胜，取得3-1的系列赛领先优势，距离总冠军仅一步之遥。",
+      "keywords": "historic comeback · tip-in · NBA championship"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "在原文 'You can see when someone's trying to tap, tap, tap on a deal' 中，'tap, tap, tap' 的含义是什么？",
+      "options": [
+        "A. 轻轻敲击",
+        "B. Terus menunda-nunda, setengah hati",
+        "C. Cepat tercapai",
+        "D. Negosiasi rahasia"
+      ],
+      "answer": 1,
+      "explanation": "在上下文中，赫格塞斯用 'tap, tap, tap' 比喻伊朗在协议上不断拖延、敷衍，而不是真正推进。因此选项B正确。"
+    },
+    {
+      "type": "vocab",
+      "question": "Dalam kalimat asli 'The president of the United States should refrain from his recurring threats against Iran', apa arti 'refrain from'?",
+      "options": [
+        "A. Mengulangi",
+        "B. Menahan diri, menghindari",
+        "C. Merujuk",
+        "D. Membatasi"
+      ],
+      "answer": 1,
+      "explanation": "'Refrain from' adalah frasa tetap yang berarti 'menahan diri, menghindari'. Duta Besar Iran mendesak Presiden AS untuk menghindari ancaman berulang."
+    },
+    {
+      "type": "vocab",
+      "question": "Dalam kalimat asli 'a U.S. targeted precision strike on a water reservoir for drinking water', apa yang dimaksud dengan 'precision strike'?",
+      "options": [
+        "A. Serangan presisi",
+        "B. Pengeboman besar-besaran",
+        "C. Serangan tidak sengaja",
+        "D. Serangan simbolis"
+      ],
+      "answer": 0,
+      "explanation": "'Precision strike' adalah istilah militer yang berarti 'serangan presisi', yaitu serangan dengan akurasi tinggi terhadap target tertentu menggunakan senjata berpemandu presisi."
+    },
+    {
+      "type": "comprehension",
+      "question": "Menurut pandangan mantan pejabat intelijen pertahanan Mann, apakah pemboman AS terhadap Iran dapat mendorong Iran kembali ke meja perundingan?",
+      "options": [
+        "A. Ya, karena kekuatan adalah alat negosiasi yang efektif",
+        "B. Tidak, sejarah membuktikan pemboman tidak efektif",
+        "C. Ya, tetapi perlu pemboman yang lebih dahsyat",
+        "D. Tidak, karena Iran tidak memiliki keinginan untuk bernegosiasi"
+      ],
+      "answer": 1,
+      "explanation": "Mann dengan jelas menyatakan bahwa dari sejarah terkini, membom Iran selama 40 hari dan blokade selama dua bulan tidak membuat Iran bernegosiasi, sehingga pemboman bukanlah cara yang efektif."
+    },
+    {
+      "type": "comprehension",
+      "question": "Bagaimana sikap Duta Besar Iran untuk PBB, Iravani, terhadap ancaman Trump?",
+      "options": [
+        "A. Bersedia bernegosiasi di bawah tekanan",
+        "B. Menolak bernegosiasi di bawah ancaman dan tekanan",
+        "C. Meminta AS menghentikan pemboman terlebih dahulu",
+        "D. Menyatakan bahwa Iran akan melakukan pembalasan"
+      ],
+      "answer": 1,
+      "explanation": "Iravani menyatakan bahwa Iran tidak pernah bernegosiasi di bawah ancaman dan tekanan, dan tidak akan pernah menyerah pada tekanan atau paksaan."
+    },
+    {
+      "type": "comprehension",
+      "question": "Mengenai pengaruh AS terhadap Israel, apakah Mann berpendapat bahwa Presiden Trump telah menggunakan pengaruh tersebut secara penuh?",
+      "options": [
+        "A. Ya, Trump sepenuhnya mengendalikan Israel",
+        "B. Tidak, Trump tidak menggunakannya secara penuh",
+        "C. Ya, tetapi Israel tidak mendengarkan",
+        "D. Tidak, AS tidak memiliki pengaruh terhadap Israel"
+      ],
+      "answer": 1,
+      "explanation": "Mann menunjukkan bahwa AS memiliki pengaruh yang hampir tak terbatas terhadap Israel, tetapi Trump jelas tidak menggunakannya secara penuh, gagal mencegah Netanyahu melancarkan tindakan yang dapat meningkat."
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "Well, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "Baiklah, itu dia CNN Headline News. Saya Brad Smith. Acara CNN This Morning dengan Otie Cornish dimulai sekarang."
+    },
+    {
+      "speaker": "Erica Hill",
+      "text": "New overnight, the United States and Iran trading attacks for a second straight day as President Trump promises more to come if Tehran does not immediately agree to a peace deal.",
+      "cn": "Berita terakhir tadi malam, Amerika Serikat dan Iran saling menyerang untuk hari kedua berturut-turut, dan Presiden Trump berjanji akan ada lebih banyak tindakan jika Teheran tidak segera menyetujui perjanjian damai."
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "We're going to be attacking them and attacking them very hard, and we'll see what happens with the deal.",
+      "cn": "Kami akan menyerang mereka dengan sangat keras, dan lihat apa hasil dari perjanjian itu."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Plus, new revelations about how the White House handled the Epstein scandal, meeting in the Situation Room to game out a plan without President Trump.",
+      "cn": "Selain itu, bocoran baru tentang bagaimana Gedung Putih menangani skandal Epstein: rapat di Situation Room, menyusun rencana tanpa partisipasi Presiden Trump."
+    },
+    {
+      "speaker": "Trump",
+      "text": "You know what I really love? I love the inflation.",
+      "cn": "Tahu apa yang saya suka? Saya suka inflasi."
+    },
+    {
+      "speaker": "Hill",
+      "text": "The president suggests, as you just heard, he doesn't mind the high prices right now. But what about Americans paying more for groceries and gas? A stabbing in Northern Ireland sparking days of unrest. Police under attack. The streets in chaos.",
+      "cn": "Seperti yang baru Anda dengar, presiden mengisyaratkan bahwa dia tidak keberatan dengan harga tinggi saat ini. Tapi bagaimana dengan orang Amerika yang menghabiskan lebih banyak uang untuk sembako dan bensin? Insiden penusukan di Irlandia Utara memicu kerusuhan selama beberapa hari. Polisi diserang. Kekacauan di jalanan."
+    },
+    {
+      "speaker": "Gianni Infantino",
+      "text": "The soul and the heart is the fans in the stadiums. It's the fans in the fan zones.",
+      "cn": "Jiwa dan intinya adalah para penggemar di stadion, para penggemar di zona penggemar."
+    },
+    {
+      "speaker": "Hill",
+      "text": "The World Cup officially kicking off today, finally. Could we also see a much-needed vibe shift away from the outrage over ticket prices and immigration issues?",
+      "cn": "Piala Dunia akhirnya resmi dibuka hari ini. Apakah kita juga akan melihat perubahan suasana yang sangat dibutuhkan, menjauh dari kemarahan tentang harga tiket dan imigrasi?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Shot no good. The tip-up's good. It's good, it's good. With one point.",
+      "cn": "Tembakan meleset. Tembakan kedua masuk. Masuk, masuk. Satu poin."
+    },
+    {
+      "speaker": "Hill",
+      "text": "A historic comeback. Down 29 points. That last-second tip gives the Knicks a 3-1 advantage. Now just one win away from the NBA championship. (CHEERING)",
+      "cn": "Comeback bersejarah. Tertinggal 29 poin. Tembakan kedua di detik terakhir membuat Knicks unggul 3-1. Sekarang hanya tinggal satu kemenangan lagi dari gelar juara NBA. (Sorakan)"
+    },
+    {
+      "speaker": "Trump",
+      "text": "We were really close to a deal, but they keep tapping us along. They keep playing us for suckers.",
+      "cn": "Kami sangat dekat untuk mencapai kesepakatan, tetapi mereka terus menunda-nunda. Mereka terus memperlakukan kami seperti orang bodoh."
+    },
+    {
+      "speaker": "Hill",
+      "text": "President Trump choosing military might over diplomacy. But can he bomb Tehran into a deal? Good morning, everyone. I'm Erica Hill, in on this Thursday for Audie Cornish. Nice to have you with us. We do begin this hour with the tit-for-tat strikes between the U.S. and Iran and the promise for more from the White House. (EXPLOSIONS)",
+      "cn": "Presiden Trump memilih kekuatan militer daripada diplomasi. Tapi bisakah dia memaksa Teheran untuk mencapai kesepakatan dengan pemboman? Selamat pagi semuanya. Saya Erika Hill, menggantikan Otie Cornish pada hari Kamis ini. Senang Anda bersama kami. Kami memulai jam ini dengan serangan timbal balik antara AS dan Iran dan janji Gedung Putih untuk tindakan lebih lanjut. (Ledakan)"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The U.S. says it targeted Iran's surveillance capabilities, communication systems and air defense sites. Iran hitting back with attacks on U.S. bases in the region. On a call from the Situation Room, President Trump told FOX News if Iran did not agree to a deal, he would bomb the expletive out of them, calling this the most violated ceasefire in history.",
+      "cn": "AS mengatakan targetnya adalah kemampuan pengawasan Iran, sistem komunikasi, dan fasilitas pertahanan udara. Iran membalas dengan menyerang pangkalan AS di kawasan itu. Dalam panggilan telepon dari Situation Room, Presiden Trump mengatakan kepada Fox News bahwa jika Iran tidak setuju untuk mencapai kesepakatan, dia akan membom mereka dengan keras, dan menyebutnya sebagai gencatan senjata yang paling sering dilanggar dalam sejarah."
+    },
+    {
+      "speaker": "Pete Hegseth",
+      "text": "You can see when someone's trying to tap, tap, tap on a deal. Instead, they're going to have tap, tap, tap bombs dropping on key facilities in Iran from the United States of America. If we need to negotiate with bombs, we'll negotiate with bombs. And we're very good at it.",
+      "cn": "Anda bisa lihat ketika seseorang mencoba menunda kesepakatan. Sebaliknya, mereka akan melihat bom dari Amerika Serikat terus berjatuhan di fasilitas-fasilitas penting Iran. Jika kami harus bernegosiasi dengan bom, kami akan bernegosiasi dengan bom. Dan kami sangat ahli dalam hal itu."
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, will those threats actually get Tehran to the table?",
+      "cn": "Jadi, apakah ancaman-ancaman ini benar-benar bisa membawa Teheran kembali ke meja perundingan?"
+    },
+    {
+      "speaker": "Amir-Saeid Iravani",
+      "text": "No sustainable deal can be reached through threats, intimidation, or the use of force. The president of the United States should refrain from his recurring threats against Iran, including his renewed threat of force made today. Iran has never negotiated under threats and pressure and will never submit to pressure or coercion.",
+      "cn": "Tidak ada kesepakatan yang berkelanjutan yang dapat dicapai melalui ancaman, intimidasi, atau penggunaan kekuatan. Presiden AS harus menghentikan ancaman berulang terhadap Iran, termasuk ancaman kekuatan hari ini. Iran tidak pernah bernegosiasi di bawah ancaman dan tekanan, dan tidak akan pernah menyerah pada tekanan atau paksaan."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Joining me now, former defense intelligence official, Major Harrison Mann. It's good to have you with us this morning. So, we heard from Secretary Hegseth there saying, you know, we will continue to negotiate with bombs. Is that actually the way to get Iran to the table? It does not seem to be working in this moment.",
+      "cn": "Bergabung dengan kami sekarang adalah mantan pejabat intelijen pertahanan, Mayor Harrison Mann. Senang Anda bersama kami pagi ini. Kami mendengar Menteri Hegseth berkata, kami akan terus bernegosiasi dengan bom. Apakah ini benar-benar cara untuk membawa Iran kembali ke meja perundingan? Tampaknya tidak berhasil sejauh ini."
+    },
+    {
+      "speaker": "Maj. Harrison Mann",
+      "text": "Hi, Erica. We know for certain from recent history that it is not the way to get Iran to negotiate. They tried bombing Iran for 40 days. It didn't work. Then they tried the blockade for another two months. That hasn't worked. And they're out of ideas. So, I guess they're trying to bomb a second time. It's -- it's unfortunate, because I think there is still a possibility for peace when the Trump administration gets serious about actually negotiating, which is going to require them making some concessions.",
+      "cn": "Halo, Erika. Dari sejarah terkini, kami bisa pastikan ini bukan cara untuk membuat Iran bernegosiasi. Mereka pernah mencoba membom Iran selama 40 hari, tidak berhasil. Lalu mereka mencoba blokade selama dua bulan, juga tidak berhasil. Mereka kehabisan akal. Jadi, saya pikir mereka mencoba membom lagi. Ini sangat disayangkan, karena saya pikir ketika pemerintahan Trump serius tentang negosiasi yang sebenarnya, perdamaian masih mungkin, tetapi itu membutuhkan mereka untuk membuat beberapa konsesi."
+    },
+    {
+      "speaker": "Maj. Harrison Mann",
+      "text": "But for now, they're clearly not willing to do that. And so, they're going to start bombing again. The -- the other really worrying escalation we saw yesterday was an apparent war crime: a U.S. targeted precision strike on a water reservoir for drinking water in Iran near Hormuz. And that's something Trump has threatened several times over the past eight weeks, you know, when he got frustrated with the ceasefire.",
+      "cn": "Tapi saat ini, mereka jelas tidak mau melakukannya. Jadi, mereka akan mulai membom lagi. Eskalasi mengkhawatirkan lainnya yang kita lihat kemarin adalah kejahatan perang yang jelas: AS melakukan serangan presisi terhadap reservoir air minum di dekat Hormuz, Iran. Dan ini adalah sesuatu yang telah berulang kali diancam Trump dalam delapan minggu terakhir, ketika dia frustrasi dengan gencatan senjata."
+    },
+    {
+      "speaker": "Maj. Harrison Mann",
+      "text": "And I'm hoping we don't see more war crimes, targeting of civilian infrastructure, as a deliberate strategy to try and bring Iran to the table.",
+      "cn": "Saya harap kita tidak akan melihat lebih banyak kejahatan perang, tidak menargetkan infrastruktur sipil sebagai strategi yang disengaja untuk mencoba memaksa Iran kembali ke meja perundingan."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Certainly, there are a lot of --",
+      "cn": "Tentu, ada banyak --"
+    },
+    {
+      "speaker": "Mann",
+      "text": "It's illegal, and it won't work.",
+      "cn": "Itu ilegal, dan tidak akan berhasil."
+    },
+    {
+      "speaker": "Hill",
+      "text": "There are a lot of questions about that. And questions into CENTCOM for more clarity -- right? -- on what the exact targets were in terms of that, and whether that water plant was one of them. As we look at where things stand this morning, to your point about getting serious about the negotiations, we have heard so much from President Trump publicly.",
+      "cn": "Ada banyak pertanyaan tentang ini. Perlu klarifikasi lebih lanjut dari Central Command -- kan? -- tentang target spesifik, dan apakah pabrik air itu termasuk di dalamnya. Saat kita melihat situasi pagi ini, terkait poin Anda tentang serius dalam bernegosiasi, kami mendengar banyak pernyataan dari Presiden Trump di depan umum."
+    },
+    {
+      "speaker": "Hill",
+      "text": "You know, and CNN did an excellent analysis by our colleague Aaron Blake earlier this week about the number of times that President Trump has said, We're close, close to a deal. We've heard it in the last several days. There is so much public posturing from this president. Are you concerned at all that that could weaken the U.S. position?",
+      "cn": "你知道，CNN本周早些时候由我们的同事Aaron Blake做了一项出色的分析，关于特朗普总统说过多少次\"我们接近达成协议了\"。过去几天我们一直听到这种说法。这位总统有很多公开表态。你是否担心这会削弱美国的立场？"
+    },
+    {
+      "speaker": "Mann",
+      "text": "I think it already has weakened the U.S. position. What the Iranian side understood at the start of the war -- which, let's remember, began when Trump and Netanyahu bombed in the middle of negotiations -- is that it's very hard to trust Donald Trump. And Trump's constant lying. you know, both in public and maybe to the Iranian side, has only further undermined that trust.",
+      "cn": "我认为这已经削弱了美国的立场。伊朗方面在战争开始时 --  -- 让我们记住，战争始于特朗普和内塔尼亚胡在谈判期间进行轰炸 --  -- 就明白很难信任唐纳德·特朗普。而特朗普不断撒谎，无论是在公开场合还是可能对伊朗方面，都进一步破坏了这种信任。"
+    },
+    {
+      "speaker": "Mann",
+      "text": "So, when it looks like maybe they're making progress towards a deal, and then Trump comes out and leaks some of the details, or he just starts making really outrageous threats, that's going to make it even harder for him to earn the trust of his negotiating counterpart and get them to actually agree to something.",
+      "cn": "所以，当看起来他们可能在达成协议方面取得进展时，特朗普却出来泄露一些细节，或者开始发出非常离谱的威胁，这会让他更难赢得谈判对手的信任，并让他们真正同意某些事情。"
+    },
+    {
+      "speaker": "Mann",
+      "text": "And I think that's why we're seeing an increased willingness from the Iranian government to go back to full-scale war, because they don't really think at this point that there's any other way to convince Trump to negotiate in good faith.",
+      "cn": "我认为这就是为什么我们看到伊朗政府越来越愿意回到全面战争，因为他们现在真的认为没有其他办法可以说服特朗普真诚谈判。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "When this war began -- of course, it was the U.S. and Israel when this war began. When it comes to Israel, Prime Minister Benjamin Netanyahu put out this statement yesterday, this message, I should say, for the people of Lebanon. I want to play that for you.",
+      "cn": "当这场战争开始时 --  -- 当然，是美国和以色列发起的。就以色列而言，总理本雅明·内塔尼亚胡昨天发表了一份声明，我应该说，是给黎巴嫩人民的信息。我想为你播放一下。"
+    },
+    {
+      "speaker": "Benjamin Netanyahu",
+      "text": "I have a message for you, the people of Lebanon. Israel is not at war with you. We're at war with Hezbollah that has taken your country hostage, that does Iran's bidding, that uses your territory to launch terrorist attacks against Israel. Do you remember what Lebanon was like before Iran and Hezbollah turned it into a nightmare? Once Hezbollah is dismantled, the possibilities are endless, and they are sky-high.",
+      "cn": "我有一句话要对你们黎巴嫩人民说。以色列不是在和你们作战。我们是在与真主党作战，他们劫持了你们的国家，为伊朗效力，利用你们的领土对以色列发动恐怖袭击。你们还记得在伊朗和真主党把黎巴嫩变成噩梦之前是什么样子吗？一旦真主党被瓦解，可能性是无限的，而且前景光明。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "That's notable, of course, coming on the heels of Iran and Israel trading -- trading strikes earlier in the week, specifically on Sunday. On Sunday, too, in the wake of Iran's missiles, President Trump told \"The Financial Times\" in an interview that Israel is going to have to accept whatever deal the U.S. makes with Iran and that Israel doesn't call the shots.",
+      "cn": "这当然值得注意，因为此前伊朗和以色列在本周早些时候 --  -- 具体是周日 --  -- 互相发动了袭击。同样在周日，伊朗导弹袭击后，特朗普总统在接受《金融时报》采访时表示，以色列将不得不接受美国与伊朗达成的任何协议，以色列说了不算。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Based on what we're seeing, how much sway, how much influence do you think this president actually has when it comes to Prime Minister Netanyahu and the decisions that Israel is making?",
+      "cn": "根据我们目前看到的情况，你认为这位总统对内塔尼亚胡总理以及以色列正在做出的决定实际上有多大影响力？"
+    },
+    {
+      "speaker": "Mann",
+      "text": "So, a reminder that President Trump and any U.S. president has nearly infinite leverage over the Israeli government. Essentially, their air force can't fly without our support. You know, it's not just bombs and aircraft and reply [SIC] parts -- supply parts. You know, we have U.S. troops on Israeli soil, defending the skies of Israel, so those planes can safely land. We supply the fuel that goes into those aircraft.",
+      "cn": "所以，提醒一下，特朗普总统和任何一位美国总统对以色列政府几乎拥有无限的杠杆作用。基本上，没有我们的支持，他们的空军就无法飞行。你知道，这不仅仅是炸弹、飞机和备件 --  -- 供应零件。我们还有美军驻扎在以色列领土上，保卫以色列的领空，这样那些飞机才能安全降落。我们提供这些飞机所需的燃料。"
+    },
+    {
+      "speaker": "Mann",
+      "text": "So, if Trump wanted to use it, I'm pretty confident that he could end any Israeli military aggression that he wanted to. And we can see that he wants to do that a little bit, but clearly, not enough that it's deterred Netanyahu from launching what potentially started this escalation, which was an Israeli strike on Beirut on Sunday. So, Trump is still kind of trying to end the war with half measures. And it's clear that that's not going to work.",
+      "cn": "所以，如果特朗普想利用这一点，我相当确信他可以结束任何他想要结束的以色列军事侵略。我们可以看到他想稍微这样做，但显然，这还不足以阻止内塔尼亚胡发动可能引发这次升级的行动，也就是周日以色列对贝鲁特的袭击。所以，特朗普仍然在试图用半吊子的措施结束战争。很明显，这行不通。"
+    },
+    {
+      "speaker": "Mann",
+      "text": "He's going to have to do some difficult things, including actually putting his foot down with Netanyahu, as well as possibly making some concessions to the Iranian government. And unfortunately, I don't think he feels the urgency to do either of those things, because they can both be politically costly. And he's not going to feel that urgency until maybe we've seen another round of full-scale war that's totally unnecessary.",
+      "cn": "他将不得不做一些困难的事情，包括真正对内塔尼亚胡采取强硬立场，以及可能向伊朗政府做出一些让步。不幸的是，我认为他并不觉得有紧迫感去做这两件事中的任何一件，因为这两件事都可能付出政治代价。他可能要到我们再次看到一轮完全不必要的全面战争时才会感到紧迫。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Major Harrison Mann, really appreciate your insight this morning. Thank you.",
+      "cn": "哈里森·曼少校，非常感谢您今天早上的见解。谢谢。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Coming up here on CNN THIS MORNING, President Trump doubling down on his temporary pick for national intelligence director, a man with questionable qualifications, including a lack of actual intel experience. And Social Security at risk. New estimates on when the funding will run out. And the bleak warning signs for younger workers. Plus, a shot for the ages. Knicks fans celebrating that last-second win in game four.",
+      "cn": "接下来在CNN今晨节目中，特朗普总统坚持他临时选定的国家情报总监人选，此人资质存疑，包括缺乏实际情报经验。社会保障面临风险。关于资金何时耗尽的新估计。以及年轻工人的黯淡警示信号。此外，还有一记历史性的投篮。尼克斯球迷庆祝第四场比赛最后一秒的胜利。"
+    },
+    {
+      "speaker": "O.G. Anunoby",
+      "text": "It feels cool. I mean, everyone's pretty excited. I'm excited, too.",
+      "cn": "感觉很酷。我的意思是，每个人都很兴奋。我也很兴奋。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Thirteen minutes past the hour. Now, here's your morning roundup. Microsoft co-founder Bill Gates telling lawmakers on Wednesday he made a, quote, \"huge mistake\" in meeting with Jeffrey Epstein. He has denied any wrongdoing. Gates testified before the House Oversight Committee in a closed-door meeting, saying he was aware Epstein had been convicted of a horrific crime but continued to interact with him to seek money for his foundation.",
+      "cn": "现在是整点过13分。以下是您的早间新闻摘要。微软联合创始人比尔·盖茨周三向议员们表示，他与杰弗里·爱泼斯坦会面是一个\"巨大的错误\"。他否认有任何不当行为。盖茨在众议院监督委员会的闭门会议上作证，称他知道爱泼斯坦因骇人听闻的罪行被定罪，但为了为其基金会寻求资金而继续与他互动。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "When Gates arrived on Capitol Hill, he told reporters he would cooperate with any investigation.",
+      "cn": "当盖茨抵达国会山时，他告诉记者，他将配合任何调查。"
+    },
+    {
+      "speaker": "Bill Gates",
+      "text": "I'm glad to be here voluntarily to testify. I hope my testimony is helpful to the work, important work of the committee to find justice for the victims. Thank you.",
+      "cn": "我很高兴自愿来这里作证。我希望我的证词有助于委员会为受害者伸张正义的重要工作。谢谢。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Gates has not been accused in connection with Epstein's crimes. If you are counting on Social Security as part of your retirement plan, well, listen up. The latest government projections suggest the fund could run out of money in late 2032. So, that means the agency would no longer be able to pay 100 percent of benefits in the fourth quarter of that year. And in the years after, the monthly benefits will drastically decline. Some new details for you on that upcoming UFC fight at the White House.",
+      "cn": "盖茨并未被指控与爱泼斯坦的罪行有关。如果你指望社会保障作为退休计划的一部分，那么请听好。最新的政府预测显示，该基金可能在2032年底耗尽资金。这意味着，该机构将无法在当年第四季度支付100%的福利。而在之后的几年里，月度福利将大幅下降。关于即将在白宫举行的UFC比赛，有一些新细节要告诉你。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Specifically, the cost: some $60 million. Now, that's according to court documents submitted by the Trump administration, which says the money will cover logistics; things like food and porta-potties. The fight is set for Sunday night, which, of course, is also the president's birthday. Still to come here on CNN THIS MORNING, a record-setting win for the Knicks. Will Leitch is here with more on New York's 29-point comeback and the push on to game five.",
+      "cn": "具体来说，费用约为6000万美元。这是根据特朗普政府提交的法庭文件得出的，文件称这笔钱将用于后勤保障，比如食物和移动厕所。比赛定于周日晚上举行，当然，那天也是总统的生日。接下来在CNN今晨节目中，尼克斯队创纪录的胜利。威尔·莱奇将带来更多关于纽约队29分大逆转以及第五场比赛的报道。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Plus, the World Cup kicking off across America, North America today. Not without controversy. How about a live look for you here in Mexico City, the site of the opening match between Mexico and South Africa. So, can the action on the pitch finally offer a much-needed vibe shift?",
+      "cn": "此外，世界杯今天在北美各地开赛。并非没有争议。让我们在墨西哥城现场看一下，这里是墨西哥队与南非队揭幕战的举办地。那么，球场上的表现能否最终带来急需的氛围转变？"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "I say, \"New York,\" you say, \"Yes!\" New York!",
+      "cn": "我说\"纽约\"，你说\"耶！\"纽约！"
+    },
+    {
+      "speaker": "Hill",
+      "text": "A little excitement there on the subway. Frankly, everywhere in New York after the Knicks pulled off the greatest comeback in NBA finals history, securing a two-game lead over the Spurs.",
+      "cn": "地铁里有点兴奋。坦率地说，在尼克斯队完成NBA总决赛历史上最伟大的逆转、确保对马刺队两场领先优势后，纽约到处都这样。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "At the top, one on one.",
+      "cn": "开场，一对一。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Brunson gets it, fires up a three. No good. The triplet's good! It's good! It's good with 1.20 left.",
+      "cn": "布伦森接球，投三分。没进。三分进了！进了！还剩1.20秒时进了。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It was very good. The stunning end to a 29-point comeback. O.G. Anunoby's tip-in with 1.2 seconds remaining. The Knicks beating the Spurs by just one point, 107 to 106.",
+      "cn": "Sangat spektakuler. Akhir yang mengejutkan dengan comeback 29 poin. OG Anunoby melakukan tip-in saat tersisa 1,2 detik. Knicks mengalahkan Spurs 107-106 hanya dengan selisih satu poin."
+    },
+    {
+      "speaker": "Anunoby",
+      "text": "Feels cool. I mean, everyone's pretty excited. I'm excited, too. I'm excited, too. We're all excited. We're enjoying it right now, but we're just focused on the next game now.",
+      "cn": "Rasanya sangat keren. Maksudku, semua orang sangat bersemangat. Aku juga bersemangat. Aku juga bersemangat. Kita semua bersemangat. Kami sedang menikmati momen ini sekarang, tapi kami hanya fokus pada pertandingan berikutnya."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Knicks fans celebrating, perhaps not surprisingly, into the wee hours of the morning. New York now has the opportunity to clinch its first NBA title since 1973. The next game, game five, Saturday night in San Antonio. Joining us now, Will Leitch. He's a contributing editor at \"New York\" magazine and a columnist with \"The Washington Post.\" He's got his Knicks blue jacket on, his Jalen Brunson bobblehead somewhere. I mean, Knicks in five. There is -- I know we've talked a lot about this.",
+      "cn": "Para penggemar Knicks merayakan, mungkin tidak mengejutkan, hingga larut malam. New York sekarang memiliki kesempatan untuk memenangkan gelar NBA untuk pertama kalinya sejak 1973. Pertandingan berikutnya, Game 5, Sabtu malam di San Antonio. Bergabung dengan kami sekarang adalah Will Leitch. Dia adalah editor kontributor untuk New York Magazine dan kolumnis untuk Washington Post. Dia mengenakan jaket biru Knicks, dan bobblehead Jalen Brunson-nya ada di suatu tempat. Maksudku, Knicks dalam lima pertandingan. Aku tahu kita sudah banyak membahasnya."
+    },
+    {
+      "speaker": "Hill",
+      "text": "I have to say being in New York City. And it's true. You're on the subway. Everywhere you go, the excitement and the camaraderie, and the way this city has come together. It is something. And that was a hell of a game. WILL LEITCH, CONTRIBUTING EDITOR, \"NEW YORK\"",
+      "cn": "Aku harus mengatakan, berada di New York City, ini nyata. Ke mana pun kau pergi, di kereta bawah tanah, di mana-mana ada kegembiraan dan persahabatan, dan cara kota ini bersatu. Ini sungguh luar biasa. Pertandingan itu juga cukup spektakuler. -- -- Will Leitch, editor kontributor New York Magazine"
+    },
+    {
+      "speaker": "Magazine",
+      "text": "It's incredible to watch the streets everywhere. You know, I lived in New York for 13 years. My old street packed with people. And what was amazing about that comeback last night, the vibes had been so off since Monday. This -- the scenes of -- of all those people in the street had been replaced by scowling billionaires courtside. Right? Like -- like scowling celebrities and upset people.",
+      "cn": "Melihat kerumunan orang di setiap jalan, sungguh luar biasa. Aku sudah tinggal di New York selama 13 tahun. Jalan di tempatku dulu penuh sesak. Yang menakjubkan dari comeback tadi malam adalah suasananya sangat buruk sejak Senin. Kerumunan di jalan digantikan oleh miliarder yang cemberut di pinggir lapangan, kan? Seperti selebriti cemberut dan orang-orang frustrasi."
+    },
+    {
+      "speaker": "Hill",
+      "text": "No one wants to see a scowling billionaire.",
+      "cn": "Tidak ada yang ingin melihat miliarder cemberut."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "And that all changed in the course of last night. There's a lot of them. There's a -- there's a lot -- a lot of leaders and a lot of celebrities out there. And they -- everyone looked very sad. I looked very sad. And so, to see -- to see that that comeback was really something incredible. And that O.G. Anunoby tip-in, it's something, frankly, that I place that piece that really not just Knicks fans will remember forever, but really NBA fans. That's an NBA historic play.",
+      "cn": "Dan semua itu berubah tadi malam. Ada banyak dari mereka. Banyak pemimpin dan selebriti. Mereka semua terlihat sedih. Aku juga terlihat sedih. Jadi, melihat comeback itu sungguh luar biasa. Dan tip-in OG Anunoby itu, terus terang, kupikir itu tidak hanya akan diingat oleh penggemar Knicks selamanya, tetapi juga oleh semua penggemar NBA. Itu adalah momen bersejarah NBA."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes. Absolutely. And it was quite a game. I mean, I -- full disclosure, I had to watch the highlights this morning and read about it, because some of us had to go to bed early. But you know, the fact that this was this 29-point comeback. Just -- just set the scene for us. What are you seeing going into game five from both teams?",
+      "cn": "Ya, pasti. Itu benar-benar pertandingan yang hebat. Maksudku, terus terang, aku baru melihat sorotan dan laporannya pagi ini karena beberapa dari kami harus tidur lebih awal. Tapi kau tahu, ini adalah comeback 29 poin. Gambarkan suasananya untuk kami. Menjelang Game 5, apa yang kau lihat dari kedua tim?"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Certainly, you know, they'll go back to San Antonio for game five. And so, the next game won't have the Garden environment. But the Knicks just won two games in San Antonio. And you know, the Spurs are obviously incredibly talented. I think everyone assumes Victor Wembanyama is going to win several championships throughout his career. But they are very, very young. And I think that was kind of revealed last night.",
+      "cn": "Tentu, mereka akan kembali ke San Antonio untuk Game 5. Jadi pertandingan berikutnya tidak akan memiliki atmosfer Madison Square Garden. Tapi Knicks baru saja memenangkan dua pertandingan di San Antonio. Kau tahu, Spurs jelas berbakat. Kupikir semua orang berpikir Victor Wembanyama akan memenangkan banyak gelar juara dalam karirnya. Tapi mereka sangat, sangat muda. Kupikir hal itu terlihat tadi malam."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Wembanyama even talked about that, about how they felt like they'd lost their hunger in the fourth quarter. So, I think that we'll see. That's a lot to overcome. Generally, historically speaking, when you have that kind of loss or just a heart -- rips the heart out of your chest loss --",
+      "cn": "Wembanyama bahkan membicarakan hal itu, mengatakan mereka kehilangan rasa lapar di kuarter keempat. Jadi, kita akan lihat. Itu sulit diatasi. Secara umum, dari perspektif sejarah, ketika kau mengalami kekalahan seperti itu, atau kekalahan yang memilukan -- --"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "-- like the Spurs just had, it's very difficult to recover from, even -- even if you -- you're at home. But even if they lose that game, the Knicks will be back for game six. I can't imagine what the Garden would be like for a game six.",
+      "cn": "-- -- seperti yang baru saja dialami Spurs, sulit untuk pulih, bahkan jika kau bermain di kandang. Tapi bahkan jika mereka kalah di pertandingan itu, Knicks akan kembali untuk Game 6. Aku tidak bisa membayangkan seperti apa Garden di Game 6."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Oh, wow. Yes. Me either. We'll deal with that when, if and when we come to it. Let's talk a little soccer, shall we? Football, depending on where you are, you know, in the rest of the world. This has been tough, heading into this moment: between ticket prices, immigration issues this week. First match today in Mexico City. Are we now getting into the heart of what this tournament is about?",
+      "cn": "Oh, wow. Ya. Aku juga tidak bisa membayangkannya. Kita lihat saja nanti. Mari kita bicara tentang sepak bola, oke? Tergantung di mana kau di dunia, turnamen ini sudah sulit sejak awal: masalah tiket, masalah imigrasi minggu ini. Pertandingan pertama hari ini di Mexico City. Apakah kita sekarang memasuki inti dari turnamen ini?"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "I mean, I think certainly FIFA hopes so, because this has really been a real mess for them. You know. this was -- after Russia eight years ago and Qatar four years ago, this was supposed to be the World Cup that went smoothly. They've been waiting for -- to get back to North America, you know, for -- since 1994. Everything was supposed to be, like, this -- U.S. was a burgeoning soccer market. Everyone was supposed to be working out in that direction.",
+      "cn": "Maksudku, kupikir FIFA tentu berharap demikian, karena ini benar-benar berantakan bagi mereka. Kau tahu, setelah Rusia delapan tahun lalu dan Qatar empat tahun lalu, Piala Dunia ini seharusnya berjalan lancar. Mereka sudah menantikan untuk kembali ke Amerika Utara, sejak 1994. Semuanya seharusnya -- -- Amerika adalah pasar sepak bola yang berkembang. Semua orang seharusnya bekerja ke arah itu."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "And it just -- it's been the opposite of that in every possible way. The hope is -- and frankly, historically, there is some signs that this happens -- once the ball is kicked --",
+      "cn": "Dan kenyataannya, justru sebaliknya. Harapannya adalah -- -- terus terang, secara historis, ada beberapa indikasi bahwa ini akan terjadi -- -- begitu bola ditendang -- --"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "-- and once things get going, and once this incredible experience -- you know, one of the great things about the World Cup is that we'll see. And remember, there's 16 more nations involved in this one. Every game takes on its own unique personality. The personality of the fan bases. And, you know, these games are still going to be -- the stands are still going to be full. As high as the ticket prices have been, these stands are generally.",
+      "cn": "-- -- begitu semuanya berjalan, begitu pengalaman luar biasa ini -- -- kau tahu, salah satu hal hebat tentang Piala Dunia adalah kita akan melihatnya. Ingat, kali ini ada 16 negara lebih banyak yang berpartisipasi. Setiap pertandingan memiliki kepribadian uniknya sendiri. Kepribadian basis penggemar. Dan, kau tahu, pertandingan-pertandingan ini masih akan -- -- tribun masih akan penuh. Meskipun harga tiket tinggi, tribun biasanya penuh."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "And Azteca today with the Mexico game, that's going to be an incredible environment. The opening of the World Cup at the Azteca with the Mexican team. These fans are -- like, every game takes on the personality of these varying fan base. The entire world is looking at this. Maybe the U.S. is not maybe looking at its best right now, hosting this tournament, in a lot of ways.",
+      "cn": "Dan pertandingan Meksiko hari ini di Stadion Azteca, itu akan menjadi atmosfer yang luar biasa. Piala Dunia dibuka di Stadion Azteca, dengan tim Meksiko bermain. Para penggemar ini -- -- seperti setiap pertandingan membawa kepribadian basis penggemar yang berbeda. Seluruh dunia memperhatikan. Mungkin Amerika sekarang tidak dalam kondisi terbaik untuk menjadi tuan rumah turnamen ini dalam banyak hal."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "But once the game gets going, certainly, the hope is among not just FIFA, but I think a lot of soccer fans, that a lot of this will fade away a little bit. But you know, we'll see.",
+      "cn": "Tapi begitu pertandingan dimulai, tentu saja, harapan tidak hanya di internal FIFA, tapi kupikir banyak penggemar sepak bola berharap, banyak masalah ini akan berangsur-angsur memudar. Tapi kau tahu, kita lihat saja."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes, yes. As long as you don't have to, you know, pay for a train ticket into New Jersey.",
+      "cn": "Ya, ya. Selama kau tidak harus, kau tahu, membayar tiket kereta ke New Jersey."
+    },
+    {
+      "speaker": "Hill",
+      "text": "When we -- you talked about the stands -- stands being full, rather. What are the chances that some of those -- there are still tickets available, right? That they start to drop to make sure that the stands are full?",
+      "cn": "Ketika kita -- -- kau bicara tentang tribun -- -- tribun penuh. Jadi, beberapa pertandingan -- -- masih ada tiket yang bisa dibeli, kan? Seberapa besar kemungkinan harga tiket akan turun untuk memastikan tribun penuh?"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "I think they will. You know, I'm -- I'm based outside of Atlanta. There's a game between Uzbekistan and Qatar that takes place at 7:30 on a Wednesday. The get-in price is $400. Now I -- I suppose it's possible there's more Uzbekistan fans outside of Mercedes-Benz stadium in Atlanta than I think, but I suspect that's really because FIFA's kind of controlling the market a little bit on this.",
+      "cn": "Kupikir akan turun. Kau tahu, aku -- -- aku tinggal di pinggiran Atlanta. Ada pertandingan Uzbekistan vs Qatar, yang diadakan Rabu malam pukul 7:30. Harga tiket masuk adalah $400. Sekarang, aku -- -- kupikir mungkin ada lebih banyak penggemar Uzbekistan di luar Stadion Mercedes-Benz Atlanta daripada yang kukira, tapi aku ragu ini sebenarnya karena FIFA mengendalikan pasar sampai batas tertentu."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "So, controlling the resale market, as well. They're not going to want empty stands. I think that once these game gets going, once I think some of the realism that they do not want to see empty stands, I think you're going to see some of these prices go down. Now, I don't want to imply that, all of a sudden, you're going to be getting $5 tickets to these games.",
+      "cn": "Jadi, juga mengendalikan pasar jual kembali. Mereka tidak ingin melihat tribun kosong. Kupikir begitu pertandingan dimulai, begitu mereka menyadari tidak ingin melihat tribun kosong, kau akan melihat beberapa harga tiket turun. Sekarang, aku tidak ingin menyiratkan bahwa kau tiba-tiba akan mendapatkan tiket pertandingan seharga $5."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "But some of these obscene prices, given prices that you're seeing, I do think you'll fall. Now, not for the larger games, right? Like obviously, the finals still going to be. Spain.",
+      "cn": "Tapi beberapa harga yang keterlaluan, mengingat harga yang kau lihat, aku memang berpikir akan turun. Tentu saja, tidak untuk pertandingan besar, kan? Misalnya, final masih akan sangat mahal. Spanyol."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "You know, a lot -- a lot of the larger teams, Brazil, those are all going to be sold out and very expensive. But I think there's 48 teams in this thing. There's a lot of games. If you want to be able to just say, I went to a World Cup game, a lot of these prices are going to fall. I think for -- for a reasonable amount to at least get in and see what's going on.",
+      "cn": "Kau tahu, banyak -- -- banyak tim kuat, seperti Brasil, pertandingan-pertandingan itu akan habis terjual dan sangat mahal. Tapi kupikir kali ini ada 48 tim. Ada banyak pertandingan. Jika kau hanya ingin mengatakan aku pergi ke pertandingan Piala Dunia, banyak harga tiket akan turun. Kupikir setidaknya dengan harga yang wajar untuk masuk dan melihat apa yang terjadi."
+    },
+    {
+      "speaker": "Hill",
+      "text": "That's great. And you know, a watch party is always fun, too, having been to a couple.",
+      "cn": "Itu bagus. Dan kau tahu, pesta nonton juga selalu menyenangkan, aku sudah beberapa kali pergi."
+    },
+    {
+      "speaker": "Hill",
+      "text": "You know, almost 30 years ago when the World Cup was in France.",
+      "cn": "You know, almost 30 years ago, when the World Cup was held in France."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Really good time. Will, appreciate it. Thank you.",
+      "cn": "That time was really enjoyable. Will, thank you. Thanks."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Thanks for having me.",
+      "cn": "Thank you for the invitation."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Straight ahead here on CNN THIS MORNING, President Trump's unique take on rising costs for Americans. Why he loves the latest inflation news. And a stabbing, sparking days of unrest now in Northern Ireland. Why officials are worried this violence could spread. var CNN = CNN || {};",
+      "cn": "Next on CNN This Morning, President Trump's unique view on the rising cost of living for Americans. Why he likes the latest inflation data. Also, a stabbing incident has sparked days of unrest in Northern Ireland. Why officials fear violence could spread."
+    },
+    {
+      "speaker": "Erica Hill",
+      "text": "Good morning. Half past the hour here on CNN THIS MORNING. I'm Erica Hill. Nice to have you with us today. Here's a look at what's happening right now. Violent anti-immigration protests are taking over Belfast. The protests in northern Ireland sparked after a Sudanese man was charged in a stabbing attack. Police now using water cannons against crowds as masked rioters, were told as well, broke into some homes, setting fire to buildings and cars, targeting immigrants.",
+      "cn": "Good morning. It's CNN This Morning, half past the hour. I'm Erica Hill. Glad to have you with us today. Here's what's happening. Anti-immigrant violent protests are taking over Belfast. The protests in Northern Ireland were triggered after a Sudanese man was charged in connection with a stabbing attack. Police are now using water cannons against the crowd, and masked rioters allegedly broke into some homes, set fire to buildings and cars, targeting immigrants."
+    },
+    {
+      "speaker": "Erica Hill",
+      "text": "Northern Ireland's first minister calls the violence \"outright thuggery.\" President Trump is directing Republican lawmakers to deliver a massive $350 billion cash infusion to the Pentagon, and also demanding they push through an election overhaul bill that has stalled now for weeks in the Senate. In a Truth Social post, Trump called on Republicans to act immediately with, quote, \"no games, no delays and no weak promises.\" Another round of U.S. military strikes against targets across Iran now finished, but U.S.",
+      "cn": "Northern Ireland's First Minister called the violence \"an outright atrocity.\" President Trump is directing Republican lawmakers to inject a massive $350 billion into the Pentagon and pushing them to advance an election reform bill that has been stalled in the Senate for weeks. In a post on Truth Social, Trump called on Republicans to act immediately, saying \"No games, no delays, no empty promises.\" Another round of U.S. military strikes on targets inside Iran has now ended, but the U.S."
+    },
+    {
+      "speaker": "Erica Hill",
+      "text": "Central Command says that round of Tomahawk cruise missiles was targeting military sites across Iran. Iran is vowing to retaliate with new attacks against U.S. military targets. Soaring global energy costs, the war with Iran, both putting increased pressure on the U.S. economy. And the newest Consumer Price Index report shows inflation hitting 4.2 percent in May. That is the highest rise for inflation in three years. As for President Trump, he loves it.",
+      "cn": "Central Command said that round of Tomahawk cruise missiles was aimed at military targets inside Iran. Iran has vowed to retaliate with new attacks on U.S. military targets. Surging global energy costs and the war with Iran are putting more pressure on the U.S. economy. The latest Consumer Price Index report shows inflation reached 4.2% in May. That's the highest inflation increase in three years. As for President Trump, he says he likes it."
+    },
+    {
+      "speaker": "",
+      "text": "Are you concerned, Mr. President, about the latest inflation number, which came out this morning. Could that be a negative for Republicans who are trying to hold the House and Senate?",
+      "cn": "Mr. President, are you concerned about the latest inflation data released this morning? Could it be a negative factor for Republicans trying to hold onto their House and Senate seats?"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "No, I love it. The numbers were great. You know what I really love? I love the inflation.",
+      "cn": "No, I like it. The numbers are great. You know what I really like? I like inflation."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Joining me now in the group chat, Aaron Blake, CNN senior reporter, Mike Dubke, former White House -- Trump White House communications director, and Meghan Hays, former Biden White House director of message planning. It's lovely to see all of you this morning. I want to play some of the reaction that we heard to President Trump's comments when he was asked about inflation. Specifically, here's what we heard from Marjorie Taylor Greene on those comments. Take a listen.",
+      "cn": "Joining our group chat now are CNN Senior Reporter Aaron Blake, former White House (Trump White House) Communications Director Mike Dubke, and former Biden White House Information Planning Director Meghan Hays. Great to see you all this morning. I want to play some reactions we've heard to President Trump's comments on inflation. Specifically, here's Marjorie Taylor Greene on those remarks. Listen."
+    },
+    {
+      "speaker": "Marjorie Taylor Greene",
+      "text": "It's pretty hard to take from a billionaire president when he says he loves inflation brought on the American people because of a war that he decided to pursue. And, you know, that one's going to come back and bite him. He basically just handed the Democrats a great big campaign ad for the 2026 midterms.",
+      "cn": "A billionaire president saying he likes inflation, which is caused by the war he decided to start, is hard to swallow for the American people. And, you know, that comment will backfire on him. He's basically handing Democrats a perfect campaign ad for the 2026 midterms."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Mike, is it, in fact, the great big campaign ad for Democrats?",
+      "cn": "Mike, is this really a big campaign ad for Democrats?"
+    },
+    {
+      "speaker": "Mike Dubke",
+      "text": "Oh, it's absolutely going to be a big, fat campaign ad for Democrats. They are going to use it. I think, with the president in context, he was basically quoting blood, sweat and tears. What goes up must come down. I think that's -- he's assuming that once we cease hostilities with Iran and oil prices come down, that the momentum going into the midterm elections is going to create a situation where people feel good about the economy.",
+      "cn": "Oh, it's definitely a big, powerful campaign ad for Democrats. They will use it. I think, in the context of the president, he's basically quoting \"blood, sweat, and tears.\" What goes up must come down. I think -- he assumes that once we stop hostilities with Iran and oil prices drop, then the momentum heading into the midterms will create a situation where people feel good about the economy."
+    },
+    {
+      "speaker": "Mike Dubke",
+      "text": "The unfortunate part, I think, right now is that runway, until we get to the midterms, is shrinking. And so, we really -- we -- if that's going to happen, it's got to happen soon.",
+      "cn": "Unfortunately, I think the window to the midterms is narrowing now. So if it's going to happen, it has to happen soon."
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, as we wait to see for that, you know, whether and when that will happen, it's important to note, and, Aaron, you have a great piece out about this, this is not the first time the president says something that that doesn't land well, right? And perhaps most recently, I'm thinking of comments that he made where, you know, that he doesn't think about Americans when he -- and the economy, which he doubled down on when he was asked to clarify.",
+      "cn": "So, while we wait to see if and when that happens, it's important to note, Aaron, you have a great article on this issue, this isn't the first time the president has said something that doesn't play well, right? Maybe recently, I'm thinking of some of his comments, like he doesn't think about Americans when considering the economy, and when asked to clarify, he doubled down."
+    },
+    {
+      "speaker": "Hill",
+      "text": "The fact that this is not a one off for the president, Aaron, just walk us through where we're at.",
+      "cn": "This isn't a one-off for the president, Aaron, tell us where we are now."
+    },
+    {
+      "speaker": "Aaron Blake",
+      "text": "Yes, this has been a trend with President Trump I would say dating back to last year. We might remember at the time inflation was starting to become a real political problem for him. And he was supposed to go out and give some speeches and rallies in places like Pennsylvania, where he talked about affordability, and what he was going to do about these very real concerns that the American people had. And it just became clear that he didn't really want to talk about this.",
+      "cn": "Yes, I think this is a trend for President Trump dating back to last year. We may remember when inflation started becoming a real political problem for him. He was supposed to go out and give speeches and rallies in places like Pennsylvania, talking about affordability and how he would address the very real concerns of the American people. But clearly, he doesn't really want to talk about it."
+    },
+    {
+      "speaker": "Aaron Blake",
+      "text": "He was talking about affordability was a hoax and things like that. So, this has been a very long running problem for the White House and for Republicans' hopes in the midterms, where the president just treats these issues very flippantly. And the American people, if you look at the polling, have seen that and said that this guy is not taking this issue seriously enough. There are -- a CNN poll showed two-thirds of Americans think that the president is not taking inflation seriously.",
+      "cn": "He said affordability is a scam or something like that. So, this is a long-standing problem for the White House and Republican hopes in the midterms, and the president is handling these issues very flippantly. And the American people, if you look at the polls, have seen this and think this guy isn't taking the issue seriously enough. A CNN poll shows two-thirds of Americans think the president isn't taking inflation seriously."
+    },
+    {
+      "speaker": "Aaron Blake",
+      "text": "It was as high as three quarters in a CBS News poll that I've been watching for a while. So, this is a very real issue. And he does not seem to be changing his tack on this. And I think it's giving Republicans real heartburn right now.",
+      "cn": "In a CBS News poll I've been following, that number is as high as three-quarters. So, this is a very real problem. He doesn't seem to be changing his strategy. I think this is giving Republicans a big headache."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Meghan, all of that is happening. And we're seeing Republicans, right, who are acknowledging the pain that their constituents are feeling. We talked about this being an attack ad. The interesting note is, are you saying that Democrats are effectively harnessing that messaging?",
+      "cn": "Meghan, all this is happening. We see Republicans acknowledging the pain their voters are feeling. We talked about this being an attack ad. Interestingly, are you saying Democrats are effectively using this message?"
+    },
+    {
+      "speaker": "Meghan Hays",
+      "text": "Yes, I think that they are. I also think the American people are just tired of Donald Trump and his flippant, callous remarks that he constantly makes. But they're more tired of Congress, who doesn't act. And they're not acting here. And so that -- they're the ones who are going to be up for re-election. Donald Trump's never going to be on the ballot again. So, he can say whatever he wants.",
+      "cn": "Yes, I think they are. I also think the American people are tired of Donald Trump and his constant flippant, callous remarks. But they are even more tired of a Congress that doesn't act. And Congress is not acting now. So, they are the ones facing reelection. Donald Trump will never be on the ballot again. So, he can say whatever he wants."
+    },
+    {
+      "speaker": "Meghan Hays",
+      "text": "But the fact that Congress isn't acting and these Republicans aren't being a check to Donald Trump, they are the ones who are going to lose. So, I think the more he says and the crazier statements he makes and Republicans stand by and just let it happen are the ones that are going to lose these re-elections. And that's when you're going to see a bigger sweep come in the midterms.",
+      "cn": "But the fact is, Congress is not acting, and these Republicans are not checking Donald Trump, they are the ones who will lose. So, I think the more he talks, the crazier his remarks, and the Republicans stand by and let it happen, these people will lose their reelection. Then you'll see an even bigger sweep in the midterms."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Let's take a look at another story we're following very closely. President Trump refusing to back down from his trip -- his pick, rather, for interim director of national intelligence. You've got Democrats, of course, threatening to allow FISA to lapse if Bill Pulte is appointed. This is a critical surveillance tool, as we know, used by intelligence officials for national security. The president's backers trying to make the case here that Pulte is only interim. REP.",
+      "cn": "Let's look at another story we're closely following. President Trump is refusing to give up his pick -- more precisely, his pick for acting Director of National Intelligence. Of course, Democrats have threatened to let the Foreign Intelligence Surveillance Act expire if Bill Purtle is appointed. We know this is a key surveillance tool used by intelligence officials for national security. The president's supporters try to argue that Purtle is just an interim pick."
+    },
+    {
+      "speaker": "Hill",
+      "text": "MIKE JOHNSON (R-LA): He is in the process of interviewing the persons who would potentially be the next DNI. They're going to be highly qualified. All these potential nominees are. We know that FISA would expire on Friday. We cannot allow that to happen. This should not be a partisan matter.",
+      "cn": "Mike Johnson (R-LA): He is interviewing candidates who could become the next Director of National Intelligence. They will be very qualified. All these potential nominees are qualified. We know FISA expires on Friday. We cannot allow that to happen. This should not be a partisan issue."
+    },
+    {
+      "speaker": "Hill",
+      "text": "On Tuesday, the president announced that Pulte would begin his role as acting DNI on June 19th. So, as we take a look at this one, there is bipartisan concern here, it's important to note, when it comes to Bill Pulte and what we are hearing. Mike, I'll kick this one off to you again to start.",
+      "cn": "周二，总统宣布普尔特将于6月19日开始担任代理国家情报总监。所以，当我们审视这个问题时，值得注意的是，两党对比尔·普尔特都存在担忧，正如我们所听到的。迈克，我将再次由你来开始讨论。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "How do you see this playing out in this moment?",
+      "cn": "你认为这件事目前会如何发展？"
+    },
+    {
+      "speaker": "Hill",
+      "text": "There's a lot at stake.",
+      "cn": "有很多利害关系。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Here's the problem, though, with the setup on this. There is bipartisan concern about Pulte. But there's also bipartisan concern about FISA expiring. So, if there's this level of bipartisan concern, hopefully we would see some bipartisan action on this. Unfortunately, we're now in a game of chicken between the White House and Pulte and Democrats in Congress. So, my guess is, how does this play out? We're going to go through the weekend. We're going to have FISA expire on Friday.",
+      "cn": "但问题在于目前的局面。两党都对普尔特感到担忧。但两党也对《外国情报监视法》到期感到担忧。所以，如果存在这种程度的两党担忧，希望我们会看到一些两党行动。不幸的是，我们现在陷入了白宫、普尔特和国会民主党人之间的懦夫博弈。所以，我的猜测是，这会如何发展？我们将度过这个周末。《外国情报监视法》将在周五到期。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Before Congress leaves for the -- either the June 19th break or the Fourth of July break, we're going to see some movement on this. The president's going to appoint somebody. Something else is going to happen. But we're now in this classic game of Washington chicken, and nobody's winning.",
+      "cn": "在国会休会之前 --  -- 无论是6月19日的休会还是7月4日的休会 --  -- 我们会看到一些进展。总统会任命某人。还会发生其他事情。但我们现在陷入了经典的华盛顿懦夫博弈，没有人获胜。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "In terms of the Washington chicken, Meghan, how much do you think could actually be happening behind the scenes between Democrats and Republicans, given that there is bipartisan concern and, in some cases, outrage?",
+      "cn": "关于华盛顿的鸡，梅根，考虑到两党都有担忧，甚至在某些情况下是愤怒，你认为民主党和共和党之间在幕后可能有多少实际动作？"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Yes, I think that there's a lot happening behind the scenes. People -- members that I've talked to on The Hill have, you know, they're -- everyone is working closely to get either a new nominee or to get this passed. Both things can be true here, right? FISA shouldn't expire and Pulte shouldn't be in DNI at all. I mean, I think Democrats have real concern about election integrity and security here and the way he has weaponized his role already. And then using the intelligence that he'll have access to.",
+      "cn": "是的，我认为幕后有很多动作。我在国会山交谈过的议员们，你知道，他们 --  -- 每个人都在密切合作，要么是为了获得新的提名人，要么是为了让这个通过。这两件事可能同时成立，对吧？FISA不应该过期，而普尔特根本不应该担任国家情报总监。我的意思是，我认为民主党人对选举的完整性和安全性有真正的担忧，以及他已经在利用他的角色。然后利用他将能接触到的情报。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "So, there are some real concerns here, but there are real concerns of letting FISA expire. So, I would imagine that there is significant negotiations going on behind the scenes. And I agree with Mike, that they'll have some sort of solution, whether it expires, and then they name someone very quickly. But this will -- this will resolve itself in Washington fashion, and it'll be very dramatic.",
+      "cn": "所以，这里有一些真正的担忧，但让FISA过期也有真正的担忧。所以，我想象幕后正在进行重要的谈判。我同意迈克的说法，他们会找到某种解决方案，无论是让它过期，然后他们很快任命某人。但这会 --  -- 这会以华盛顿的方式解决，而且会非常戏剧化。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Because it will have -- Washington fashion is dramatic? Did I hear that correctly?",
+      "cn": "因为它会有 --  -- 华盛顿的方式是戏剧化的？我没听错吧？"
+    },
+    {
+      "speaker": "Hill",
+      "text": "A little bit of drama. Aaron, I'll give you one last bit to weigh in on that. As we watch all this, I mean, just, if you could, put it in perspective. You know, people hear this tossed around, right, there are the concerns about the DNI and the fact that he doesn't have the extensive national security experience that is required of that job. And they hear FISA. But the reality for most Americans, why does this matter to them?",
+      "cn": "有点戏剧性。亚伦，我给你最后一点时间来谈谈这个。当我们观察这一切时，我的意思是，如果你能，把它放在背景中。你知道，人们听到这些被抛来抛去，对吧，有关于国家情报总监的担忧，以及他缺乏该职位所需的广泛国家安全经验。他们听到FISA。但对大多数美国人来说，现实是，这为什么对他们重要？"
+    },
+    {
+      "speaker": "Blake",
+      "text": "I mean, this is a very significant spying authority that the United States government uses overseas to prevent, you know, threats that could attack the homeland. So, I think that creates a situation in which, you know, Democrats want to hold the line on this. They want to -- they want to be very firm when it comes to opposing Bill Pulte for the DNI job.",
+      "cn": "我的意思是，这是美国政府用于海外防止可能攻击本土的威胁的非常重要的监视权力。所以，我认为这造成了一种局面，你知道，民主党人想在这件事上坚守立场。他们想 --  -- 他们想在反对比尔·普尔特担任国家情报总监一事上非常坚定。"
+    },
+    {
+      "speaker": "Blake",
+      "text": "But, when you do that, if you're the ones that are going to wind up holding off these spying authorities and letting them lapse, even for a small period of time, that is a risk if something were to happen. This is a very significant thing for the United States government. That's why there's such a big debate about this right now.",
+      "cn": "但是，当你这样做时，如果你是最终导致这些监视权力被搁置甚至短暂失效的人，那么如果发生什么事，这就是一个风险。这对美国政府来说是一件非常重要的事情。这就是为什么现在有这么大的争论。"
+    },
+    {
+      "speaker": "Blake",
+      "text": "And so, it's going to be interesting to see whether those Democrats are actually going to be able to all hold the line, or if we might see some break ranks and say, OK, well, let's allow a short-term extension just while we negotiate this and figure out this whole Bill Pulte situation. I do think it's notable that you're seeing in those comments from Mike Johnson and from the White House, they're telegraphing that this Pulte thing is a very short term thing, that they're looking for a permanent director.",
+      "cn": "所以，看看那些民主党人是否真的能全部坚守立场，或者我们是否会看到一些人打破阵线说，好吧，让我们允许一个短期延期，同时我们谈判并解决整个比尔·普尔特的情况，这将很有趣。我确实认为值得注意的是，你在迈克·约翰逊和白宫的评论中看到，他们在暗示普尔特这件事是非常短期的，他们正在寻找一个永久性的局长。"
+    },
+    {
+      "speaker": "Blake",
+      "text": "Whether that's good enough for Democrats to move forward and support this short term extension, I think that's a really big question right now.",
+      "cn": "这对民主党人来说是否足够好，让他们继续前进并支持这个短期延期，我认为这是目前一个非常大的问题。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes. It is interesting to see those comments as they try to downplay, in many ways, by saying, not a lot to see here, it's just an interim move. That certainly hasn't been enough for some, as we know. One other thing we wanted to get your take on this morning. There has been a lot made about how the president is doing during certain meetings and moments, including this. REP. SYDNEY KAMLAGER-DOVE (D-CA): I rise today to sound the alarm about a grave national security threat, Donald Trump's sleeping habits.",
+      "cn": "是的。看到这些评论很有趣，因为他们试图在很多方面淡化，说没什么可看的，这只是个临时举措。我们知道，这对一些人来说当然还不够。今天早上我们还想听听你的看法。有很多关于总统在某些会议和时刻的表现的讨论，包括这个。众议员悉尼·卡姆拉格-多夫（加州民主党）：我今天站起来对一项严重的国家安全威胁发出警报，那就是唐纳德·特朗普的睡眠习惯。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "I know we have rules about decorum, so I will stick to the facts, because this is, in fact, a serious matter of oversight, transparency and national security. We cannot have a president asleep on the job. Is he sleeping in classified briefings, on calls with foreign leaders? How can we trust a president who is literally asleep at the wheel to make informed decisions about national security?",
+      "cn": "我知道我们有关于礼仪的规定，所以我会坚持事实，因为这实际上是一个涉及监督、透明度和国家安全的严肃问题。我们不能有一个在任上睡觉的总统。他是在机密简报会上睡觉，还是在与外国领导人通话时睡觉？我们怎么能信任一个在方向盘上睡着的总统来做出关于国家安全的明智决定？"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Meghan, you get first crack at this one. Is it a national security threat?",
+      "cn": "梅根，你先来回答这个问题。这是国家安全威胁吗？"
+    },
+    {
+      "speaker": "Hays",
+      "text": "I mean, it's a national security threat that he's not paying attention, yes, but there is a massive apparatus around the president when these decisions are made. Whether or not you trust the people that are around the president is a different story. I just think this is rich coming from a White House that criticized Joe Biden so much in calling him \"Sleepy Joe Biden.\" So, I mean, if I was Donald Trump, I would be embarrassed. Also, you're president of the United States.",
+      "cn": "我的意思是，他不专心确实是一个国家安全威胁，但在做出这些决定时，总统周围有一个庞大的机构。你是否信任总统身边的人则是另一回事。我只是觉得，来自一个曾大肆批评乔·拜登并称其为\"瞌睡乔·拜登\"的白宫，这很讽刺。所以，如果我是唐纳德·特朗普，我会感到尴尬。而且，你是美国总统。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "I don't understand why you can't stay awake during daylight hours to do your job.",
+      "cn": "我不明白你为什么不能在白天保持清醒来工作。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Marco Rubio has said he's awake, not just during the daytime, but also all throughout the night. That he hears from him regularly in the wee hours. We do see the posts in the wee hours. Mike, but they're, you know, legitimate questions, right? There's a lot of criticism about what wasn't said about Joe Biden. Is this a fair game?",
+      "cn": "马可·卢比奥说他不仅白天醒着，而且整晚都醒着。他说他经常在凌晨收到总统的消息。我们确实看到凌晨的帖子。迈克，但这些都是合理的问题，对吧？关于乔·拜登，有很多批评没有被提及。这是公平的游戏吗？"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "This -- this is -- sure, everything's fair game, but this is political theater. And Marco Rubio is absolutely correct. I got calls -- when I was in the White House, I got calls at 2:00 in the morning from the president. The man does not sleep. He does keep odd hours. And I'm not -- I am really not concerned with him closing his eyes and Democrats jumping on a couple of, you know, photographs of his -- of his eyes closed in this setting. This is -- this is theater in this -- in this particular case.",
+      "cn": "这 --  -- 这是 --  -- 当然，一切都是公平的，但这是政治作秀。马可·卢比奥说得完全正确。我在白宫时，凌晨两点接到过总统的电话。这个人不睡觉。他的作息时间确实不规律。我并不担心他闭上眼睛，也不担心民主党抓住几张他在这种场合闭眼的照片。这 --  -- 这在这个特定情况下是作秀。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "My grandfather used to say he was just checking his eyelids for holes. I'm just saying. Maybe, you know --",
+      "cn": "我祖父常说，他只是在检查眼皮上有没有洞。我只是说说而已。也许，你知道 --  --"
+    },
+    {
+      "speaker": "Hill",
+      "text": "There you go. Still to come here on CNN THIS MORNING, Republicans just passed the immigration funding bill after a nearly 80-day partial government shutdown. What does this do? Did Democrats lose their leverage? Plus.",
+      "cn": "就是这样。CNN《今晨》节目接下来，共和党人在政府部分停摆近80天后刚刚通过了移民拨款法案。这意味着什么？民主党是否失去了筹码？另外。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "You had some of Trump's most senior advisors, the top level of the government, gathered in the Situation Room.",
+      "cn": "特朗普的一些最资深顾问，政府最高层，聚集在战情室。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The latest excerpts from a forthcoming book revealing how President Trump's closest advisers reportedly tried to manage the Jeffrey Epstein fallout and the release of the president's name.",
+      "cn": "Sebuah cuplikan terbaru dari buku yang akan segera terbit mengungkapkan bagaimana penasihat terdekat Presiden Trump diduga berusaha menangani dampak kasus Jeffrey Epstein dan terungkapnya nama presiden."
+    },
+    {
+      "speaker": "Hill",
+      "text": "A nearly $70 billion boost to President Trump's immigration and deportation agenda. Trump signing that bill into law yesterday, which ends now a six-month fight over funding for the Department of Homeland Security, which began after the shooting deaths of two U.S. citizens, Alex Pretti and Renee Good. Now that bill provides $38 billion for ICE, $26 billion for Border Patrol and an additional $5 billion for unseen costs. The funding is set to last for the next three years.",
+      "cn": "Agenda imigrasi dan deportasi Presiden Trump mendapat dana hampir $70 miliar. Trump menandatangani RUU tersebut kemarin, mengakhiri pertarungan enam bulan tentang pendanaan Departemen Keamanan Dalam Negeri. Pertarungan ini dimulai setelah dua warga negara AS, Alex Preti dan Renee Good, ditembak mati. RUU ini menyediakan $38 miliar untuk ICE, $26 miliar untuk Patroli Perbatasan, dan $5 miliar untuk biaya tak terduga. Dana ini akan bertahan selama tiga tahun."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Keep in mind here, typically it would only be funded for one year at a time. It was also passed without the support of a single Democrat. REP. MIKE JOHNSON (R-LA): The American people are going to remember it. They're going to remember, too, that it was Republicans and Republicans alone who did the responsible thing and funded these critically important agencies at this critical time.",
+      "cn": "Perlu dicatat, biasanya dana semacam ini hanya dialokasikan setahun sekali. RUU ini juga tidak mendapat dukungan dari Partai Demokrat. Anggota DPR dari Partai Republik Louisiana, Mike Johnson, mengatakan: \"Rakyat Amerika akan mengingat ini. Mereka juga akan ingat bahwa Partai Republik, dan hanya Partai Republik, yang melakukan hal yang bertanggung jawab pada saat kritis ini dengan mendanai lembaga-lembaga vital ini.\""
+    },
+    {
+      "speaker": "Hill",
+      "text": "Democrats, on the other hand, demonstrated to the entire country once again how little they prioritize the security of our borders and the livelihoods of those who put their own lives at risk and on the line to defend our homeland.",
+      "cn": "\"Di sisi lain, Partai Demokrat sekali lagi menunjukkan kepada negara betapa mereka tidak peduli terhadap keamanan perbatasan dan penghidupan mereka yang mempertaruhkan nyawa untuk melindungi tanah air.\""
+    },
+    {
+      "speaker": "Hill",
+      "text": "I want to bring in now Democratic Congressman James Walkinshaw of Virginia, who joins us this morning. Nice to have you with us. When we look at where things stand, in terms of this funding, the fact that it was passed for three years, this essentially shields the agencies from the appropriations process. So, what oversight will Congress have over the course of these next three years? REP.",
+      "cn": "Sekarang mari kita hubungi Anggota DPR dari Partai Demokrat Virginia, James Wokinshaw, yang bergabung dengan kami pagi ini. Selamat datang. Ketika kita melihat status dana ini, yang disetujui selama tiga tahun, ini sebenarnya membuat lembaga-lembaga ini tidak terpengaruh oleh proses alokasi. Jadi, bagaimana Kongres akan melakukan pengawasan dalam tiga tahun ke depan?"
+    },
+    {
+      "speaker": "Hill",
+      "text": "JAMES WALKINSHAW (D-VA): Well, look, I'm certainly hopeful that there'll be a change in control of Congress in January, which would allow us to conduct robust oversight in the form of hearings, subpoenas when necessary, depositions when necessary. But currently, this Republican congress is quite consistent that they're not going to provide real oversight of the reckless, out-of-control mass deportation agenda that we have seen.",
+      "cn": "James Wokinshaw (Anggota DPR dari Partai Demokrat Virginia) mengatakan: \"Ya, saya tentu berharap kendali Kongres akan berubah pada Januari tahun depan sehingga kita dapat melakukan pengawasan yang kuat melalui sidang, panggilan pengadilan, dan pengambilan kesaksian jika perlu. Tapi saat ini, Kongres yang dikuasai Partai Republik sangat kompak, mereka tidak akan melakukan pengawasan nyata terhadap agenda deportasi massal yang ceroboh dan tidak terkendali yang kita lihat.\""
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, I don't know that there will be much oversight for the remainder of this year, but I'm hopeful that in January 2027 we can get some oversight and bring this under control.",
+      "cn": "\"Jadi, saya tidak tahu apakah akan ada banyak pengawasan di sisa tahun ini, tapi saya berharap pada Januari 2027 kita bisa melakukan pengawasan dan mengendalikan situasi.\""
+    },
+    {
+      "speaker": "Hill",
+      "text": "Among the list of demands that Democrats had, we have, of course, limits on face coverings, body camera requirements, clear use of force standards, which led to the record shutdown. Really, none of these demands made it into the final bill. Was it worth it?",
+      "cn": "Dalam daftar tuntutan yang diajukan Partai Demokrat, termasuk pembatasan masker wajah, pemakaian body camera, standar penggunaan kekuatan yang jelas, dll., yang menyebabkan penutupan pemerintahan yang memecahkan rekor. Faktanya, tidak satu pun dari tuntutan ini dimasukkan dalam RUU final. Apakah itu sepadan?"
+    },
+    {
+      "speaker": "Walkinshaw",
+      "text": "Well, look, what Democrats said is federal law enforcement, ICE, CBP, should operate similarly to our local and state law enforcement, right? Have the same expectations of professionalism that we have of our local police. Republicans, led primarily by one man, Stephen Miller in the White House, said, no way, no how. So, from my perspective, it's always worth it to fight to protect the safety of the American people who were being terrorized by their own government, by masked agents surging into communities.",
+      "cn": "\"Ya, Partai Demokrat berpendapat bahwa lembaga penegak hukum federal, seperti ICE dan CBP, harus beroperasi seperti lembaga penegak hukum lokal dan negara bagian, bukan? Dengan standar profesional yang sama seperti polisi setempat. Dan Partai Republik, yang dipimpin terutama oleh Stephen Miller di Gedung Putih, sangat menentangnya. Jadi, menurut saya, berjuang untuk melindungi keselamatan rakyat Amerika selalu sepadan, mereka diteror oleh pemerintah mereka sendiri, oleh petugas penegak hukum yang memakai masker dan masuk ke komunitas mereka.\""
+    },
+    {
+      "speaker": "Walkinshaw",
+      "text": "I think that fight is always worth it. We're going to continue that fight. We're going to have to take it to the ballot box in November. I think the mood and the polling across the country is quite clear that the American people, even those who might have supported the idea of stronger immigration enforcement that Donald Trump ran on, are looking at what they're seeing and saying, this ain't what I voted for. I didn't want to see kids with cancer deported.",
+      "cn": "\"Saya pikir perjuangan ini selalu sepadan. Kami akan terus berjuang. Kami harus menyelesaikan ini di kotak suara pada bulan November. Saya pikir sentimen nasional dan jajak pendapat sangat jelas, rakyat Amerika, bahkan mereka yang mungkin mendukung gagasan penegakan imigrasi yang lebih ketat dari Trump, melihat situasi saat ini dan berkata, ini bukan yang saya pilih. Saya tidak ingin melihat anak-anak penderita kanker dideportasi.\""
+    },
+    {
+      "speaker": "Walkinshaw",
+      "text": "I don't want to see pregnant women dragged through the street. I don't want to see American citizens shot dead and killed. The American people know this is out of control. Democrats are going to keep fighting to bring it under control.",
+      "cn": "\"Saya tidak ingin melihat wanita hamil diseret di jalan. Saya tidak ingin melihat warga negara AS ditembak mati. Rakyat Amerika tahu ini sudah di luar kendali. Partai Demokrat akan terus berusaha mengendalikan situasi.\""
+    },
+    {
+      "speaker": "Hill",
+      "text": "Let's talk Epstein if we could. Bill Gates, of course, on Capitol Hill. You sat in that hearing yesterday, listened to his testimony. Representative Burchett, afterwards, came out and told the cameras that he had, in his view, very good coaching. That he had paid for very good coaching is what he said about Bill Gates. Did you find Bill Gates credible?",
+      "cn": "Mari kita bicara tentang Epstein. Bill Gates tentu saja berada di Capitol Hill. Anda menghadiri sidang itu kemarin dan mendengar kesaksiannya. Anggota DPR Burchett kemudian keluar dan berkata kepada kamera bahwa dia pikir Gates telah menerima pengarahan yang sangat baik. Dia mengatakan Gates membayar untuk pengarahan yang sangat baik. Apakah Anda pikir Bill Gates dapat dipercaya?"
+    },
+    {
+      "speaker": "Walkinshaw",
+      "text": "I did. I did find Bill Gates credible. Everything he said was consistent with what's in the files or in the public record. Look, it is an egregious error in judgment. It's the most charitable way to describe Bill Gates deciding to engage, meet with Jeffrey Epstein even after he knew of Jeffrey Epstein's 2008 guilty plea/conviction for a sex crime. Gates acknowledged that yesterday. He said that was a terrible, terrible mistake, and it certainly was.",
+      "cn": "Ya, saya pikir Bill Gates dapat dipercaya. Semua yang dia katakan konsisten dengan dokumen atau catatan publik. Dengar, ini adalah kesalahan penilaian yang serius. Ini adalah deskripsi yang paling lunak tentang keputusan Bill Gates untuk tetap bertemu dan bergaul dengan Jeffrey Epstein setelah mengetahui bahwa Epstein mengaku bersalah/dihukum karena kejahatan seksual pada tahun 2008. Gates mengakuinya kemarin. Dia mengatakan itu adalah kesalahan yang sangat, sangat serius, dan memang begitu."
+    },
+    {
+      "speaker": "Hill",
+      "text": "When we look at where things stand, Congressman Burchett also calling for transparency, as you know. James Comer, the House Oversight chair, there has been some back and forth on what should be public. But he also talked about who he wanted to call in next. I just want to play that. REP. JAMES COMER (R-KY): I would like for Todd Blanche to come in, in July. Come in and let me -- let me be very clear. Todd Blanche came in a month ago.",
+      "cn": "Ketika kita melihat situasi saat ini, Anggota DPR Burchett juga menyerukan transparansi, seperti yang Anda tahu. Ketua Komite Pengawas DPR James Comer agak berubah-ubah tentang konten apa yang harus dipublikasikan. Tapi dia juga berbicara tentang siapa yang ingin dia panggil selanjutnya. Saya ingin memutarnya. Anggota DPR dari Partai Republik James Comer: Saya ingin Todd Blanch datang pada bulan Juli. Biarkan dia -- biarkan saya perjelas. Todd Blanch datang sebulan yang lalu."
+    },
+    {
+      "speaker": "Hill",
+      "text": "He came in with Pam Bondi to answer questions from the Oversight Committee, and the Democrats stormed out. What a missed opportunity for the Democrats. But Todd Blanche answered questions that Republicans had for several hours.",
+      "cn": "Dia datang bersama Pam Bondi untuk menjawab pertanyaan Komite Pengawas, lalu Partai Demokrat pergi dengan marah. Sungguh kesempatan yang terlewatkan bagi Partai Demokrat. Tapi Todd Blanch menjawab pertanyaan Partai Republik selama berjam-jam."
+    },
+    {
+      "speaker": "Hill",
+      "text": "I'm curious, both your response to that and also what you feel you would get from Todd Blanche.",
+      "cn": "Saya ingin tahu, apa tanggapan Anda terhadap ini, dan apa yang Anda pikir bisa didapat dari Todd Blanch?"
+    },
+    {
+      "speaker": "Walkinshaw",
+      "text": "In an effort to help Pam Bondi avoid having to come in and speak under oath and answer questions under oath, Chairman Comer tried to set up a secret, closed-door briefing with Bondi and Todd Blanche. That briefing would have had no or has no transcript. The media, the public would never know. In fact, he just described it. Do you have any idea what they discussed in that meeting? What questions were asked? You don't. It's part of the cover up.",
+      "cn": "Untuk membantu Pam Bondi menghindari bersaksi di bawah sumpah dan menjawab pertanyaan, Ketua Comer mencoba mengatur pengarahan rahasia tertutup dengan Bondi dan Blanch. Pengarahan itu tidak dicatat. Media dan publik tidak akan pernah tahu. Faktanya, dia baru saja menggambarkannya. Apakah Anda tahu apa yang mereka diskusikan dalam pertemuan itu? Pertanyaan apa yang diajukan? Anda tidak tahu. Ini adalah bagian dari penutupan."
+    },
+    {
+      "speaker": "Walkinshaw",
+      "text": "And Democrats said, look, we're not going to participate in secret behind door -- behind closed doors briefings as part of this coverup. We want Pam Bondi, under oath, in front of camera so the American people can judge it. And we want Todd Blanche, under oath, in front of cameras and let the American people, not the Oversight Committee members, decide whether they think he's telling the truth or not, about this massive cover up that the Trump administration has been engaged in around the Epstein files.",
+      "cn": "Partai Demokrat berkata, dengar, kami tidak akan berpartisipasi dalam pengarahan rahasia tertutup yang merupakan bagian dari penutupan ini. Kami ingin Pam Bondi bersaksi di bawah sumpah, di depan kamera, biarkan rakyat Amerika yang menilai. Kami ingin Todd Blanch bersaksi di bawah sumpah, di depan kamera, biarkan rakyat Amerika -- bukan anggota Komite Pengawas -- yang memutuskan apakah mereka pikir dia mengatakan yang sebenarnya dalam penutupan massal yang dilakukan pemerintahan Trump seputar dokumen Epstein."
+    },
+    {
+      "speaker": "Hill",
+      "text": "We will see if that happens. Certainly a lot of interest and a lot of questions. Congressman Walkinshaw, I appreciate you taking the time this morning. Thank you.",
+      "cn": "Kita lihat saja nanti. Tentu saja ada banyak minat dan banyak pertanyaan. Anggota DPR Wokinshaw, terima kasih telah meluangkan waktu pagi ini. Terima kasih."
+    },
+    {
+      "speaker": "Walkinshaw",
+      "text": "Thanks for having me.",
+      "cn": "Terima kasih atas undangannya."
+    },
+    {
+      "speaker": "Hill",
+      "text": "While some of Jeffrey Epstein's associates are facing questions on Capitol Hill, we're also learning more about how the White House was attempting to deal with the fallout of this crisis last summer. New reporting from \"New York Times\" reporter Jonathan Swan and Maggie Haberman details how Trump's top advisers assembled high-level meetings to talk about the growing crisis without the president.",
+      "cn": "Sementara beberapa rekan Jeffrey Epstein menghadapi interogasi di Capitol Hill, kita juga mengetahui lebih banyak tentang bagaimana Gedung Putih musim panas lalu berusaha menangani dampak krisis ini. Laporan baru dari jurnalis New York Times Jonathan Swan dan Maggie Haberman merinci bagaimana penasihat senior Trump mengadakan pertemuan tingkat tinggi untuk membahas krisis yang semakin memburuk tanpa partisipasi presiden."
+    },
+    {
+      "speaker": "Hill",
+      "text": "JONATHAN SWAN, WHITE HOUSE REPORTER, \"NEW YORK TIMES\": So, over the summer of 2025, you had some of Trump's most senior advisors, at the top level of the government, gathered in the Situation Room.",
+      "cn": "Jurnalis Gedung Putih New York Times Jonathan Swan: Jadi, pada musim panas 2025, beberapa penasihat tingkat tinggi Trump, pejabat tinggi pemerintahan, berkumpul di Situation Room."
+    },
+    {
+      "speaker": "Maggie Haberman",
+      "text": "Which is typically used for national security or responding to national disasters.",
+      "cn": "Situation Room biasanya digunakan untuk menangani keamanan nasional atau menanggapi bencana nasional."
+    },
+    {
+      "speaker": "Swan",
+      "text": "To figure out a way to spin their way out of this.",
+      "cn": "Untuk mencari cara keluar dari masalah."
+    },
+    {
+      "speaker": "Haberman",
+      "text": "Not with the president, but among themselves. The discussion in the Situation Room was not about how to give these women a hearing or a chance to tell their stories. These meetings were about how to handle the political fallout around the White House.",
+      "cn": "Bukan dengan presiden, tetapi di antara mereka sendiri. Diskusi di Situation Room bukan tentang bagaimana memberi kesempatan pada para wanita ini untuk menceritakan kisah mereka. Rapat-rapat ini tentang bagaimana menangani konsekuensi politik di sekitar Gedung Putih."
+    },
+    {
+      "speaker": "Hill",
+      "text": "The group chat is back. Look, it's a fascinating read, an excerpt from their forthcoming book, as we look at the way all of this is playing out. Aaron, one of the many things that stood out to me, it was not only the players that were involved, but how they were responding to these moments in public versus in private. I think Dan Bongino may be the best example. In public, pretty measured. In private, the exact opposite. And had some pretty stark warnings for officials.",
+      "cn": "Group chat kembali. Lihat, ini bacaan yang menarik, cuplikan dari buku baru mereka yang akan segera terbit, kita lihat bagaimana semua ini terjadi. Aaron, salah satu hal yang membuat saya terkesan bukan hanya peserta yang terlibat, tetapi juga reaksi mereka di depan umum versus di belakang layar. Saya pikir Dan Bongino mungkin contoh terbaik. Di depan umum, cukup terkendali. Di belakang layar, sebaliknya. Dan dia memberikan peringatan yang cukup keras kepada para pejabat."
+    },
+    {
+      "speaker": "Blake",
+      "text": "Yes, it was pretty remarkable to see some of the quotes from Dan Bongino talking about his superior, who is Attorney General Pam Bondi, and her handling of this. Basically her botched handling of this. Of course, she was out there on TV in the months before talking about, you know, she was asked about the client list. She said, it's on my desk. She handed out those binders that turned out to be rather old information about this. There was very much concern about the politics of this internally.",
+      "cn": "Ya, melihat beberapa pernyataan Dan Bongino sangat mencolok, dia berbicara tentang atasannya, Jaksa Agung Pam Bondi, dan bagaimana dia menangani masalah ini. Pada dasarnya penanganannya yang buruk. Tentu saja, dia sebelumnya ditanya di TV tentang daftar klien, dan dia berkata, daftarnya ada di meja saya. Dia membagikan map yang ternyata berisi informasi yang sudah usang. Kekhawatiran politik internal tentang hal ini sangat besar."
+    },
+    {
+      "speaker": "Blake",
+      "text": "And clearly these politics were taken very seriously. One of the things I was really struck by was, these meetings included high level officials at the Justice Department. You remember -- might remember back in the Obama administration there was a big controversy about Attorney General Loretta Lynch meeting with Bill Clinton on the tarmac of an airport during the Hillary Clinton email investigation.",
+      "cn": "Jelas, masalah politik ini ditangani dengan sangat serius. Salah satu hal yang sangat mengejutkan saya adalah bahwa rapat-rapat ini termasuk pejabat senior Departemen Kehakiman. Anda mungkin ingat pada masa pemerintahan Obama, pertemuan Jaksa Agung Loretta Lynch dengan Bill Clinton di landasan bandara selama penyelidikan email Hillary Clinton menimbulkan kontroversi besar."
+    },
+    {
+      "speaker": "Blake",
+      "text": "Well, now we have this reporting that basically the Justice Department is strategizing with the White House about how to insulate the president from this budding kind of scandal last year. And it kind of seems par for course for what's been happening in recent years.",
+      "cn": "Sekarang kita memiliki laporan bahwa Departemen Kehakiman pada dasarnya menyusun strategi dengan Gedung Putih untuk melindungi presiden dari skandal yang mulai muncul tahun lalu ini. Ini tampaknya sejalan dengan apa yang terjadi dalam beberapa tahun terakhir."
+    },
+    {
+      "speaker": "Hill",
+      "text": "The other thing that struck me in this moment were the involvement of Todd Blanche, Meghan, especially as we were just talking about, right, what could potentially be learned from Todd Blanche if, in fact, there were more questions from the House Oversight Committee.",
+      "cn": "Hal lain yang membuat saya terkesan adalah keterlibatan Todd Blanche, Megan, terutama yang baru saja kita bicarakan, kan, jika Komite Pengawas DPR benar-benar mengajukan lebih banyak pertanyaan, lalu apa yang mungkin diketahui dari Todd Blanche."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Given his involvement and his suggestions in those meetings and where he is now and the fact that Pam Bondi, right, was saying, just in the last several days, well, Todd Blanche was responsible for everything related to the release here, it's fascinating the way this all sets it up.",
+      "cn": "Mengingat partisipasinya dalam rapat-rapat itu dan sarannya, serta posisinya sekarang, dan Pam Bondi baru beberapa hari lalu mengatakan bahwa Todd Blanche bertanggung jawab atas segala sesuatu yang terkait dengan rilis ini, pengaturan ini sungguh menarik."
+    },
+    {
+      "speaker": "Hays",
+      "text": "Yes, absolutely. I mean, I think that Blanche is going to have a hard time getting out of committee anyways, and he's going to have to answer some questions about the Epstein files if he wants to get confirmed, regardless of this story that just came out. But I also think, I mean, they said that they talked to over 1,000 people I know for the whole book. But this is a lot of people who are no longer with the administration trying to make themselves look better when they were all at fault.",
+      "cn": "Ya, tentu saja. Maksud saya, saya pikir Blanche akan sulit melepaskan diri dari komite, dan apa pun laporan ini, dia harus menjawab beberapa pertanyaan tentang dokumen Epstein jika dia ingin dikonfirmasi. Tapi saya juga berpikir, mereka mengatakan telah mewawancarai lebih dari 1000 orang untuk buku ini. Tapi banyak dari orang-orang ini sudah tidak lagi menjabat di pemerintahan, mereka mencoba membuat diri mereka terlihat lebih baik padahal semua sama-sama bersalah."
+    },
+    {
+      "speaker": "Hays",
+      "text": "This whole handling of this has been disgusting and gross. And I, you know, I've been in the Situation Room for meetings. So has Mike. These are -- that is a sacred place where you have national security conversations. So, the fact that they are talking about how to get Donald Trump out of being in the Epstein files is just gross to me and a complete misuse of those facilities in the White House. But the -- this is a lot of people just trying to make themselves look better in this book that they talk to them.",
+      "cn": "Seluruh prosesnya menjijikkan dan memuakkan. Dan, Anda tahu, saya pernah menghadiri rapat di Situation Room. Mike juga. Itu adalah tempat sakral untuk dialog keamanan nasional. Jadi, mereka membahas bagaimana membuat Donald Trump terbebas dari pengaruh dokumen Epstein, itu membuat saya muak, penyalahgunaan total fasilitas Gedung Putih ini. Tapi banyak orang dalam buku ini hanya ingin terlihat lebih baik dengan memberikan wawancara."
+    },
+    {
+      "speaker": "Hays",
+      "text": "So, the fact that they're even leaking on these meetings that were in the Situation Room is offensive to me.",
+      "cn": "Jadi, fakta bahwa mereka bahkan membocorkan isi rapat Situation Room membuat saya tersinggung."
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, I think the leaking of the meetings is the other thing I wanted to talk about with you. So, Mike, when you -- when you see that, right, and I should point out, CNN has reached out to both the White House and the DOJ, waiting to hear back. But the fact that there is so much detail in this book, so many quotes, what does that tell you about how this White House is working?",
+      "cn": "Jadi, saya pikir membocorkan isi rapat adalah hal lain yang ingin saya diskusikan dengan Anda. Mike, ketika Anda melihat ini -- -- Saya harus menunjukkan, CNN telah menghubungi Gedung Putih dan Departemen Kehakiman, dan sedang menunggu tanggapan. Tapi begitu banyak detail, begitu banyak kutipan dalam buku ini, apa yang ini katakan tentang bagaimana Gedung Putih ini beroperasi?"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Well, I'm not sure it tells you anything about how this White Bouse is working. And I think Meghan was spot on, this is a bunch of individuals who have left the administration who are trying to, you know, salvage their reputations. And that's what happens when you get leakers. I mean, there's really three leaks in Washington, one on public policy, you know, issues, one on going after somebody, your political enemy, and the other is to make yourself look better and more important.",
+      "cn": "Yah, saya tidak yakin ini memberi tahu Anda bagaimana Gedung Putih ini beroperasi. Saya pikir Megan benar, ini adalah sekelompok orang yang sudah meninggalkan pemerintahan, mencoba menyelamatkan reputasi mereka. Itulah yang terjadi dengan pembocor. Ada tiga jenis kebocoran di Washington: satu tentang masalah kebijakan publik, satu untuk menyerang musuh politik, dan satu lagi untuk membuat diri sendiri terlihat lebih baik dan lebih penting."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "And I think this is a classic example of that third instance of leakers talking to Swan and Haberman and that wonderful \"New York Times\" music that they play to make everything seem so serious about what they're revealing in their -- in their things. This is -- this is typical. The White House saw a crisis.",
+      "cn": "Saya pikir ini adalah contoh klasik dari jenis kebocoran ketiga, di mana pembocor memberikan informasi kepada Swan dan Haberman, dan musik indah dari New York Times membuat semuanya tampak serius. Ini tipikal. Gedung Putih sedang menghadapi krisis saat itu."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "They gathered the people together to give their advice to the president, made sure that everyone was on the -- on the same page, or at least aired out what they thought about this, and then went to the president with their decisions. I'm really not seeing anything here that is outstanding or unusual when it comes to the inner workings of a White House.",
+      "cn": "Mereka mengumpulkan orang untuk memberikan saran kepada presiden, memastikan semua orang setuju, atau setidaknya menyampaikan pemikiran mereka, lalu membawa keputusan kepada presiden. Saya benar-benar tidak melihat sesuatu yang menonjol atau tidak biasa, dalam hal operasi internal Gedung Putih."
+    },
+    {
+      "speaker": "Hill",
+      "text": "All right. Let's shift, if we could, to the group chat before I let you all go, let's take a break from the politics, people. Aaron, you kick this off because -- I can say kick and it relates directly to what's in your group chat.",
+      "cn": "Baiklah, sebelum kita selesai, mari kita beralih ke group chat, kesampingkan politik dulu. Aaron, kamu mulai -- -- karena saya bilang \"mulai\" langsung terkait dengan konten group chat-mu."
+    },
+    {
+      "speaker": "Blake",
+      "text": "Yes, it's a big day. I mean the World Cup's starting. I've been excited about this for a long time. I would encourage people, and we've been talking about this with the people in my life, look at this guy Freddy from Germany. His Twitter feed about his travels through the American south. Experiencing true americana. It will -- it will resurrect your love for this country to see somebody experience these things for the first time.",
+      "cn": "Ya, hari ini hari besar. Piala Dunia dimulai. Saya sudah menantikannya. Saya mendorong semua orang, kami terus mendiskusikan dengan orang-orang di sekitar, lihat Freddie dari Jerman ini. Tweet-nya mendokumentasikan perjalanannya melintasi Amerika Selatan. Mengalami budaya Amerika yang sesungguhnya. Melihat seseorang mengalami hal-hal ini untuk pertama kalinya akan membangkitkan kembali kecintaan Anda pada negara ini."
+    },
+    {
+      "speaker": "Blake",
+      "text": "And it will change your perspective about these things that maybe you're starting to take for granted.",
+      "cn": "Dan itu akan mengubah pandangan Anda tentang hal-hal yang mungkin mulai Anda anggap biasa."
+    },
+    {
+      "speaker": "Hill",
+      "text": "You got to go to a Buc-ees that is for sure. Meghan, I'm going to go out on a limb here and I'm going to say \"Summer House\" in your group chat.",
+      "cn": "Kamu harus pergi ke Buc-ees. Megan, saya berani memprediksi, saya akan bilang di group chat-mu \"Summer House\"."
+    },
+    {
+      "speaker": "Hays",
+      "text": "Of course. Of course. It's all that matters in my life is what's on Bravo. The third installment of \"The Reunion\" was this week. It was incredible. I think that there's a lot of -- a lot of thoughts back and forth of how people feel. The emotionlessness of Wes and Amanda was incredibly awkward for everyone involved. But, you know, I'm here for more in our new series of \"In the City.\" I'm here for it.",
+      "cn": "Tentu, tentu. Yang terpenting dalam hidup saya adalah acara Bravo. Episode 3 \"Reunion\" tayang minggu ini, sangat seru. Saya pikir banyak orang berubah pikiran tentang banyak hal. Sikap dingin Wes dan Amanda membuat semua orang malu. Tapi, Anda tahu, saya menantikan lebih banyak dari seri baru kami \"In the City\". Saya siap."
+    },
+    {
+      "speaker": "Hill",
+      "text": "One of these days I'm actually going to watch it, I swear. Mike, you're talking dishwashers. The big debate, to rinse or",
+      "cn": "Suatu hari nanti saya akan menontonnya, saya janji. Mike, kamu bicara tentang mesin pencuci piring. Perdebatan besar, apakah perlu dibilas dulu atau"
+    },
+    {
+      "speaker": "I -- Hill",
+      "text": "No, you're not supposed to rinse.",
+      "cn": "Tidak, kamu tidak perlu membilas."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Yes, it's a -- like -- I -- you're not supposed to rinse. Modern dishwashers get the dishes clean. Found that out. But I love this Freddy story. The modern de Tocqueville, walking across the southeast of the United States, exposing what America is really like for Europe. I love it. I love it.",
+      "cn": "Ya, ini seperti -- -- saya -- -- kamu tidak perlu membilas. Mesin pencuci piring modern bisa membersihkan piring. Saya menemukan itu. Tapi saya suka cerita Freddie. Tocqueville modern, berjalan kaki melintasi Amerika Tenggara, menunjukkan kepada Eropa wajah asli Amerika. Saya suka, sangat suka."
+    },
+    {
+      "speaker": "Hill",
+      "text": "All right, so you're joining in the group chat with Aaron. I love it when we bring people together. Good to see you guys.",
+      "cn": "Oke, jadi kamu bergabung dengan group chat Aaron. Saya suka kita mengumpulkan orang-orang. Senang bertemu kalian."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Thanks for joining us. I'm Erica Hill. The headlines are next. var CNN = CNN || {};",
+      "cn": "Terima kasih atas partisipasinya. Saya Erica Hill. Selanjutnya berita utama."
+    }
+  ]
+}
