@@ -1,0 +1,1203 @@
+{
+  "date": "2026-06-12",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-12/segment/01",
+  "summary": "特朗普宣布与伊朗达成'伟大和解'，声称战争结束，伊朗将放弃核武器，并可能于周末签署协议。但伊朗和以色列均表示惊讶，伊朗否认达成最终协议，以色列总理内塔尼亚胡通过社交媒体才得知消息。分析人士指出，这可能只是停火而非和平协议。此外，节目还涉及加州选举争议、鲁比奥将UFC比作登月、SpaceX IPO等话题。",
+  "vocabulary": [
+    {
+      "word": "tout",
+      "phonetic": "/taʊt/",
+      "pos": "v.",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "mempromosikan, mengkampanyekan (gagasan/rencana)",
+      "en": "to praise or promote something in a persistent or exaggerated way",
+      "excerpt": "Trump Touts 'Great Settlement' with Iran, Calls Off Strikes",
+      "example_cn": "Trump mempromosikan 'rekonsiliasi besar' dengan Iran, membatalkan serangan"
+    },
+    {
+      "word": "jilted",
+      "phonetic": "/ˈdʒɪltɪd/",
+      "pos": "adj.",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Ekspresi sehari-hari · Lanjutan",
+      "cn": "ditinggalkan, diabaikan (terutama dalam hubungan cinta atau politik)",
+      "en": "rejected or abandoned, especially by a lover or ally",
+      "excerpt": "Could Jilted GOP Lawmakers Turn on Trump's Agenda?",
+      "example_cn": "Akankah anggota Kongres Partai Republik yang diabaikan beralih menentang agenda Trump?"
+    },
+    {
+      "word": "strait",
+      "phonetic": "/streɪt/",
+      "pos": "n.",
+      "usage": "Istilah teknis",
+      "difficulty": "Lanjutan",
+      "domain": "Politik & Diplomasi",
+      "level": "Istilah teknis · Lanjutan",
+      "cn": "Selat (biasanya merujuk pada Selat Hormuz)",
+      "en": "a narrow passage of water connecting two seas or two large areas of water",
+      "excerpt": "The strait will officially open as soon as we sign, which could be soon.",
+      "example_cn": "Selat itu akan resmi dibuka setelah kita menandatangani, mungkin segera."
+    },
+    {
+      "word": "pepper-sprayed",
+      "phonetic": "/ˈpepər spreɪd/",
+      "pos": "v.",
+      "usage": "Ekspresi Sehari-hari",
+      "difficulty": "Dasar",
+      "domain": "Sosial & Kehidupan Masyarakat",
+      "level": "Ekspresi Sehari-hari · Dasar",
+      "cn": "Menyemprotkan semprotan merica",
+      "en": "to spray someone with pepper spray, a chemical irritant",
+      "excerpt": "A suspect pepper-sprayed the victim and stole their cards after they met up for the sale.",
+      "example_cn": "Seorang tersangka menyemprotkan semprotan merica ke korban saat pertemuan transaksi dan mencuri kartu mereka."
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "usage": "Istilah Teknis",
+      "difficulty": "Lanjutan",
+      "domain": "Keamanan Militer",
+      "level": "Istilah Teknis · Lanjutan",
+      "cn": "Gencatan senjata (perjanjian)",
+      "en": "a temporary suspension of fighting, typically one during which peace talks take place",
+      "excerpt": "It may be a ceasefire that opens up another negotiation.",
+      "example_cn": "Ini mungkin perjanjian gencatan senjata yang membuka putaran negosiasi lain."
+    },
+    {
+      "word": "sticking point",
+      "phonetic": "/ˈstɪkɪŋ pɔɪnt/",
+      "pos": "n.",
+      "usage": "Kolokasi Tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Politik & Diplomasi",
+      "level": "Kolokasi Tetap · Lanjutan",
+      "cn": "Titik kritis, perbedaan pendapat kunci",
+      "en": "a point on which agreement cannot be reached; a stumbling block",
+      "excerpt": "This has been a key sticking point, as we know, for Iran.",
+      "example_cn": "Seperti yang kita tahu, ini selalu menjadi titik kritis bagi Iran."
+    },
+    {
+      "word": "plunge back into",
+      "phonetic": "/plʌndʒ bæk ˈɪntuː/",
+      "pos": "phr.",
+      "usage": "Kolokasi Tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Keamanan Militer",
+      "level": "Kolokasi Tetap · Lanjutan",
+      "cn": "Kembali terjerumus (ke dalam perang/kekacauan)",
+      "en": "to suddenly return to a difficult or dangerous situation",
+      "excerpt": "if they don't respect that ceasefire, and it plunges everything back in again",
+      "example_cn": "Jika mereka tidak menghormati gencatan senjata, itu akan membuat semuanya kembali terjerumus ke dalam perang."
+    },
+    {
+      "word": "pounding",
+      "phonetic": "/ˈpaʊndɪŋ/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "猛烈打击，连续轰炸",
+      "en": "a heavy or continuous attack, especially with bombs or artillery",
+      "excerpt": "38 days of pounding the Iranians, starting in late February, did not result in the political concessions he was looking for.",
+      "example_cn": "从2月底开始的38天对伊朗的猛烈打击并没有带来他所寻求的政治让步。"
+    },
+    {
+      "word": "concession",
+      "phonetic": "/kənˈseʃn/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "让步，妥协",
+      "en": "something that is granted, especially in response to demands; a compromise",
+      "excerpt": "did not result in the political concessions he was looking for",
+      "example_cn": "没有带来他所寻求的政治让步"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "n.",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "专业术语 · 高阶",
+      "cn": "谅解备忘录（MOU）",
+      "en": "a formal agreement between two or more parties, not legally binding but outlining mutual understanding",
+      "excerpt": "according to a diplomat who's been briefed on this agreement, this memorandum of understanding",
+      "example_cn": "据一位了解该协议的外交官称，这份谅解备忘录"
+    },
+    {
+      "word": "nonproliferation",
+      "phonetic": "/ˌnɑːnprəˌlɪfəˈreɪʃn/",
+      "pos": "n.",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "军事安全",
+      "level": "专业术语 · 高阶",
+      "cn": "不扩散（核武器）",
+      "en": "the prevention of the spread of nuclear weapons and other weapons of mass destruction",
+      "excerpt": "when they signed the nuclear nonproliferation treaty",
+      "example_cn": "当他们签署《核不扩散条约》时"
+    },
+    {
+      "word": "cage fight",
+      "phonetic": "/keɪdʒ faɪt/",
+      "pos": "n.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "文化体育",
+      "level": "日常表达 · 基础",
+      "cn": "笼斗（综合格斗比赛形式）",
+      "en": "a type of mixed martial arts (MMA) fight held in a cage-like enclosure",
+      "excerpt": "Just what do cage fights actually have to do with diplomacy?",
+      "example_cn": "Apa hubungan antara pertarungan kandang dengan diplomasi?"
+    },
+    {
+      "word": "IPO",
+      "phonetic": "/ˌaɪ piː ˈoʊ/",
+      "pos": "n.",
+      "usage": "Istilah teknis",
+      "difficulty": "Lanjutan",
+      "domain": "Ekonomi dan Keuangan",
+      "level": "Istilah teknis · Lanjutan",
+      "cn": "Penawaran umum perdana",
+      "en": "Initial Public Offering; the first sale of stock by a company to the public",
+      "excerpt": "SpaceX launching on the NASDAQ this morning.",
+      "example_cn": "SpaceX listing di Nasdaq pagi ini."
+    },
+    {
+      "word": "trillionaire",
+      "phonetic": "/trɪlˈjəner/",
+      "pos": "n.",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Dasar",
+      "domain": "Ekonomi dan Keuangan",
+      "level": "Ekspresi sehari-hari · Dasar",
+      "cn": "Triliuner",
+      "en": "a person whose wealth is at least one trillion dollars",
+      "excerpt": "Elon Musk now set to become the world's first trillionaire.",
+      "example_cn": "Elon Musk akan segera menjadi triliuner pertama di dunia."
+    },
+    {
+      "word": "cast doubt on",
+      "phonetic": "/kæst daʊt ɒn/",
+      "pos": "phr.",
+      "usage": "Kolokasi tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Kolokasi tetap · Lanjutan",
+      "cn": "Meragukan...",
+      "en": "to make people uncertain about something; to question the truth or validity of",
+      "excerpt": "Republicans continuing to cast doubt on California's voting tactics.",
+      "example_cn": "Partai Republik terus meragukan strategi pemungutan suara California."
+    },
+    {
+      "word": "tornado",
+      "phonetic": "/tɔːrˈneɪdoʊ/",
+      "pos": "n.",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Dasar",
+      "domain": "Bencana dan Lingkungan",
+      "level": "Ekspresi sehari-hari · Dasar",
+      "cn": "Angin puting beliung",
+      "en": "a violent, destructive windstorm characterized by a twisting, funnel-shaped cloud",
+      "excerpt": "Tornadoes touch down, with severe storms heading East today.",
+      "example_cn": "Angin puting beliung mendarat, badai kuat bergerak ke timur hari ini."
+    },
+    {
+      "word": "diplomacy",
+      "phonetic": "/dɪˈploʊməsi/",
+      "pos": "n.",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "diplomasi",
+      "en": "the profession, activity, or skill of managing international relations",
+      "excerpt": "Just what do cage fights actually have to do with diplomacy?",
+      "example_cn": "Apa hubungan antara pertarungan kandang dan diplomasi?"
+    },
+    {
+      "word": "skeptical",
+      "phonetic": "/ˈskeptɪkl/",
+      "pos": "adj.",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Ekspresi sehari-hari · Lanjutan",
+      "cn": "skeptis",
+      "en": "not easily convinced; having doubts",
+      "excerpt": "So, there are some reasons to be skeptical of the president's claim.",
+      "example_cn": "Oleh karena itu, ada beberapa alasan untuk bersikap skeptis terhadap pernyataan presiden."
+    },
+    {
+      "word": "briefed on",
+      "phonetic": "/briːft ɒn/",
+      "pos": "phr.",
+      "usage": "Kolokasi tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan diplomasi",
+      "level": "Kolokasi tetap · Lanjutan",
+      "cn": "diberi pengarahan singkat/diperkenalkan",
+      "en": "given essential information about a situation or plan",
+      "excerpt": "according to a diplomat who's been briefed on this agreement",
+      "example_cn": "Menurut seorang diplomat yang mengetahui perjanjian tersebut"
+    },
+    {
+      "word": "bound by",
+      "phonetic": "/baʊnd baɪ/",
+      "pos": "phr.",
+      "usage": "Kolokasi tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Hukum dan peradilan",
+      "level": "Kolokasi tetap · Lanjutan",
+      "cn": "terikat oleh...",
+      "en": "legally or morally obliged to follow a rule or agreement",
+      "excerpt": "he won't feel bound by a commitment that he didn't sign up to",
+      "example_cn": "Dia tidak akan merasa terikat oleh janji yang tidak dia tandatangani"
+    },
+    {
+      "word": "screaming phone calls",
+      "phonetic": "/ˈskriːmɪŋ foʊn kɔːlz/",
+      "pos": "n.",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Dasar",
+      "domain": "Politik dan diplomasi",
+      "level": "Ekspresi sehari-hari · Dasar",
+      "cn": "panggilan telepon yang penuh pertengkaran sengit (kiasan)",
+      "en": "very angry or heated telephone conversations",
+      "excerpt": "There have been some screaming phone calls we've heard about along the way.",
+      "example_cn": "Kami mendengar beberapa panggilan telepon yang penuh pertengkaran sengit di sepanjang jalan."
+    },
+    {
+      "word": "undermine",
+      "phonetic": "/ˌʌndərˈmaɪn/",
+      "pos": "v.",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "政治外交",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "削弱，破坏（声誉/努力）",
+      "en": "to damage or weaken something, especially gradually or insidiously",
+      "excerpt": "Is Trump undermining his efforts at this point, showing those cards?",
+      "example_cn": "特朗普此时是否在削弱自己的努力，亮出底牌？"
+    },
+    {
+      "word": "haunt",
+      "phonetic": "/hɔːnt/",
+      "pos": "v.",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "日常表达 · 进阶",
+      "cn": "困扰，萦绕",
+      "en": "to cause persistent trouble or distress to someone",
+      "excerpt": "the problem that's been haunting the president here is that 38 days of pounding the Iranians...",
+      "example_cn": "一直困扰总统的问题是，38天对伊朗的打击..."
+    },
+    {
+      "word": "play around with",
+      "phonetic": "/pleɪ əˈraʊnd wɪð/",
+      "pos": "phr.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "政治外交",
+      "level": "日常表达 · 基础",
+      "cn": "玩弄，不认真对待",
+      "en": "to treat something in a casual or unserious manner; to manipulate",
+      "excerpt": "I think California is playing around with us.",
+      "example_cn": "我认为加州在耍我们。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "What started out as somebody trying to sell Pokemon cards ended in a robbery in San Francisco.",
+      "cn": "起初只是有人想卖宝可梦卡，结果却在旧金山演变成了一起抢劫案。",
+      "structure": "主句：What started out as somebody trying to sell Pokemon cards ended in a robbery in San Francisco. 主语从句：What started out as somebody trying to sell Pokemon cards",
+      "analysis": "主语从句作主语，谓语ended in表示'以……告终'。'somebody trying to sell'是动名词短语作宾语。"
+    },
+    {
+      "en": "President Trump announcing a great settlement to end the war.",
+      "cn": "特朗普总统宣布达成一项结束战争的伟大协议。",
+      "structure": "独立主格结构：President Trump announcing a great settlement to end the war",
+      "analysis": "这是新闻标题式表达，省略了系动词is。'a great settlement to end the war'中不定式作定语。"
+    },
+    {
+      "en": "When President Kennedy announced that we were going to put a man on the Moon and return him safely to the Earth, no one thought that was possible.",
+      "cn": "当肯尼迪总统宣布我们要把人送上月球并安全返回地球时，没有人认为这是可能的。",
+      "structure": "时间状语从句：When President Kennedy announced that...；主句：no one thought that was possible；宾语从句：that we were going to put a man on the Moon and return him safely to the Earth",
+      "analysis": "多层从句嵌套。'return him safely to the Earth'与'put a man on the Moon'并列。"
+    },
+    {
+      "en": "Marco Rubio comparing a deal with the UFC to the Moon landing.",
+      "cn": "马可·卢比奥将一项与UFC的协议比作登月。",
+      "structure": "独立主格结构：Marco Rubio comparing a deal with the UFC to the Moon landing",
+      "analysis": "新闻标题式表达，省略系动词。'comparing...to...'表示'把……比作……'。"
+    },
+    {
+      "en": "President Trump calling off new strikes on Iran, saying both sides have now agreed to stop the fighting.",
+      "cn": "特朗普总统取消了对伊朗的新一轮打击，称双方现已同意停止战斗。",
+      "structure": "主句：President Trump calling off new strikes on Iran；伴随状语：saying both sides have now agreed to stop the fighting",
+      "analysis": "现在分词短语作伴随状语。'call off'意为'取消'。"
+    },
+    {
+      "en": "Regardless of the rhetoric, threats and claims of the other side, we are focused on the interests of the Iranian nation.",
+      "cn": "无论对方的言论、威胁和主张如何，我们都专注于伊朗国家的利益。",
+      "structure": "让步状语：Regardless of the rhetoric, threats and claims of the other side；主句：we are focused on the interests of the Iranian nation",
+      "analysis": "'Regardless of'引导让步状语。'be focused on'表示'专注于'。"
+    },
+    {
+      "en": "Regarding the text and the overall understanding, whenever we conclude that it secures the interests of the Iranian nation, we will certainly announce it transparently.",
+      "cn": "关于文本和总体理解，只要我们得出结论认为它保障了伊朗国家的利益，我们一定会透明地宣布。",
+      "structure": "状语：Regarding the text and the overall understanding；时间状语从句：whenever we conclude that it secures the interests of the Iranian nation；主句：we will certainly announce it transparently",
+      "analysis": "'Regarding'表示'关于'。'whenever'引导时间状语从句，从句中包含that引导的宾语从句。"
+    },
+    {
+      "en": "Israel, also seemingly taken by surprise, a source telling CNN Israeli Prime Minister Benjamin Netanyahu wasn't aware of an agreement with Iran; that he actually found out on social media.",
+      "cn": "以色列似乎也感到意外，有消息人士告诉CNN，以色列总理本雅明·内塔尼亚胡并不知晓与伊朗的协议；他实际上是在社交媒体上得知的。",
+      "structure": "主句：Israel, also seemingly taken by surprise；同位语：a source telling CNN...；宾语从句：Israeli Prime Minister Benjamin Netanyahu wasn't aware of an agreement with Iran；并列宾语从句：that he actually found out on social media",
+      "analysis": "'taken by surprise'是过去分词短语作定语。'a source telling CNN'是独立主格结构。'find out'意为'发现、得知'。"
+    },
+    {
+      "en": "So, is this just the latest effort by President Trump to move stalled negotiations forward?",
+      "cn": "那么，这仅仅是特朗普总统推动陷入僵局的谈判向前迈进的最新努力吗？",
+      "structure": "一般疑问句：is this just the latest effort by President Trump to move stalled negotiations forward",
+      "analysis": "'stalled negotiations'意为'陷入僵局的谈判'。'move...forward'表示'推动……前进'。"
+    },
+    {
+      "en": "The reopening of the Strait of Hormuz could actually happen this weekend once this deal is signed.",
+      "cn": "一旦协议签署，霍尔木兹海峡的重新开放实际上可能在本周末实现。",
+      "structure": "主句：The reopening of the Strait of Hormuz could actually happen this weekend；条件状语从句：once this deal is signed",
+      "analysis": "'once'引导条件状语从句，表示'一旦'。'the reopening of...'是名词短语作主语。"
+    },
+    {
+      "en": "Based on everything we know and your sources, David, do signs actually point to an agreement at this point?",
+      "cn": "根据我们所知的一切以及你的消息来源，大卫，目前迹象是否真的指向一项协议？",
+      "structure": "状语：Based on everything we know and your sources；主句：do signs actually point to an agreement at this point",
+      "analysis": "'Based on'是过去分词短语作状语。'point to'表示'指向、表明'。"
+    },
+    {
+      "en": "Well, they certainly point to some agreement coming together on four major pillars of a -- of some restraint on the nuclear program.",
+      "cn": "嗯，它们确实指向在四个主要支柱上达成某种协议 --  -- 对核计划进行某种限制。",
+      "structure": "主句：they certainly point to some agreement coming together on four major pillars of a -- of some restraint on the nuclear program",
+      "analysis": "'point to' diikuti oleh frasa nomina. 'coming together' adalah frasa partisip sekarang yang berfungsi sebagai adjektiva yang menerangkan 'agreement'. Tanda pisah menunjukkan penjelasan."
+    },
+    {
+      "en": "But it's not a peace agreement.",
+      "cn": "Tapi ini bukan perjanjian damai.",
+      "structure": "Kalimat sederhana: But it's not a peace agreement",
+      "analysis": "Konjungsi kontrastif But menghubungkan konteks."
+    },
+    {
+      "en": "It may be a ceasefire that opens up another negotiation.",
+      "cn": "Ini mungkin adalah gencatan senjata yang membuka putaran negosiasi lain.",
+      "structure": "Klausa utama: It may be a ceasefire; klausa relatif: that opens up another negotiation",
+      "analysis": "'that' memulai klausa relatif yang menerangkan 'ceasefire'. 'open up' berarti 'membuka'."
+    },
+    {
+      "en": "I think CNN -- by CNN's count, he has over the past three months declared on about 39 occasions -- not sure if that's exactly right -- that the war was over.",
+      "cn": "Saya pikir CNN -- menurut hitungan CNN, dia dalam tiga bulan terakhir menyatakan sekitar 39 kali -- tidak yakin apakah angka itu tepat -- bahwa perang sudah berakhir.",
+      "structure": "Klausa utama: I think; klausa objek: CNN -- by CNN's count, he has over the past three months declared on about 39 occasions -- not sure if that's exactly right -- that the war was over",
+      "analysis": "Sisipan 'by CNN's count' dan 'not sure if that's exactly right' menginterupsi struktur kalimat. 'declare that' berarti 'menyatakan bahwa...'."
+    },
+    {
+      "en": "The president did say the most important thing was to get them to agree never to build a nuclear weapon.",
+      "cn": "Presiden memang mengatakan bahwa hal terpenting adalah membuat mereka setuju untuk tidak pernah membuat senjata nuklir.",
+      "structure": "Klausa utama: The president did say; klausa objek: the most important thing was to get them to agree never to build a nuclear weapon",
+      "analysis": "'did' menunjukkan penekanan. 'get sb. to do sth.' berarti 'membuat seseorang melakukan sesuatu'. 'agree never to do' berarti 'setuju untuk tidak pernah...'."
+    },
+    {
+      "en": "Well, of course, they've agreed to that many times before: when they signed the nuclear nonproliferation treaty; when they signed the agreement with President Obama 11 years ago.",
+      "cn": "Yah, tentu saja, mereka sudah setuju dengan itu berkali-kali sebelumnya: ketika mereka menandatangani Traktat Nonproliferasi Nuklir; ketika mereka menandatangani perjanjian dengan Presiden Obama 11 tahun lalu.",
+      "structure": "Klausa utama: they've agreed to that many times before; aposisi: when they signed the nuclear nonproliferation treaty; when they signed the agreement with President Obama 11 years ago",
+      "analysis": "Dua klausa waktu yang diawali 'when' setelah titik dua berfungsi sebagai aposisi, memberikan contoh spesifik."
+    },
+    {
+      "en": "Another one that's in there is a 60-day ceasefire, quote, 'on all fronts.'",
+      "cn": "Satu lagi yang ada di dalamnya adalah gencatan senjata 60 hari, kutipan, 'di semua lini.'",
+      "structure": "Klausa utama: Another one that's in there is a 60-day ceasefire; sisipan: quote, 'on all fronts.'",
+      "analysis": "'that's in there' adalah klausa relatif yang menerangkan 'one'. 'quote' menunjukkan kutipan."
+    },
+    {
+      "en": "The fact that Israel's prime minister reportedly found out about this on social media, that really stands out to me, especially when we're talking about the potential ceasefire with Lebanon, with activity in Lebanon -- David.",
+      "cn": "Fakta bahwa Perdana Menteri Israel dilaporkan mengetahui hal ini dari media sosial benar-benar menonjol bagi saya, terutama ketika kita berbicara tentang potensi gencatan senjata dengan Lebanon, dengan aktivitas di Lebanon -- David.",
+      "structure": "Subjek: The fact that Israel's prime minister reportedly found out about this on social media; klausa utama: that really stands out to me; klausa waktu: especially when we're talking about the potential ceasefire with Lebanon, with activity in Lebanon",
+      "analysis": "'The fact that' memulai klausa aposisi. 'stand out' berarti 'menonjol, mencolok'. 'reportedly' adalah adverbia, berarti 'menurut laporan'."
+    },
+    {
+      "en": "The prime minister does not want to be part of this agreement and has made clear that he won't feel bound by a commitment that he didn't sign up to.",
+      "cn": "Perdana Menteri tidak ingin menjadi bagian dari perjanjian ini dan telah menjelaskan bahwa dia tidak akan merasa terikat oleh komitmen yang tidak dia setujui.",
+      "structure": "Predikat paralel: does not want to be part of this agreement and has made clear; klausa objek: that he won't feel bound by a commitment; klausa relatif: that he didn't sign up to",
+      "analysis": "'make clear that'意为'明确表示'。'feel bound by'表示'感到受……约束'。'sign up to'意为'签署、同意'。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "特朗普宣布与伊朗达成'伟大和解'",
+      "content": "特朗普声称与伊朗达成'伟大和解'，伊朗同意永不发展核武器，并可能于周末签署协议，重新开放霍尔木兹海峡。但伊朗外交部发言人表示尚未达成最终结论，以色列总理内塔尼亚胡通过社交媒体才得知消息。分析人士指出，这可能只是停火而非全面和平协议，且以色列不愿受此约束。",
+      "keywords": "great settlement · Strait of Hormuz · ceasefire · nuclear weapon · memorandum of understanding"
+    },
+    {
+      "title": "鲁比奥将UFC比作登月引发争议",
+      "content": "美国国务卿马可·鲁比奥在讲话中将UFC（终极格斗冠军赛）与肯尼迪总统的登月计划相提并论，称两者都看似不可能但最终实现。这一比喻引发争议，主持人质疑笼斗与外交的关系。UFC是综合格斗赛事，登月则是人类航天里程碑，两者性质迥异。",
+      "keywords": "Marco Rubio · UFC · Moon landing · cage fight · diplomacy"
+    },
+    {
+      "title": "SpaceX IPO与马斯克成为万亿富翁",
+      "content": "SpaceX今早在纳斯达克上市，进行首次公开募股（IPO）。埃隆·马斯克有望成为世界首位万亿富翁。SpaceX是私营航天公司，其IPO备受市场关注，被视为'IPO界的超级碗'。",
+      "keywords": "SpaceX · IPO · NASDAQ · Elon Musk · trillionaire"
+    },
+    {
+      "title": "共和党质疑加州选举策略",
+      "content": "共和党议员迈克·约翰逊批评加州选举策略，称其'在耍我们'，并呼吁在选举日当天进行投票。这反映了共和党对加州投票方式的持续不信任，可能引发特朗普试图控制州选举的担忧。",
+      "keywords": "Mike Johnson · California · voting tactics · election day · GOP"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "原文中 'tout' 的含义是？\n'Trump Touts 'Great Settlement' with Iran'",
+      "options": [
+        "A. 吹捧，兜售",
+        "B. 批评，指责",
+        "C. 签署，批准",
+        "D. 隐瞒，掩盖"
+      ],
+      "answer": 0,
+      "explanation": "tout 意为'吹捧、兜售'，常用于新闻标题中表示某人积极宣传自己的观点或成就。这里指特朗普大力宣传与伊朗的'伟大和解'。"
+    },
+    {
+      "type": "vocab",
+      "question": "原文中 'sticking point' 指的是？\n'This has been a key sticking point, as we know, for Iran.'",
+      "options": [
+        "A. 关键分歧点",
+        "B. 重要盟友",
+        "C. 谈判策略",
+        "D. 临时协议"
+      ],
+      "answer": 0,
+      "explanation": "sticking point 是固定搭配，意为'症结、关键分歧点'，指谈判中难以达成一致的问题。这里指伊朗在停火范围上的坚持。"
+    },
+    {
+      "type": "vocab",
+      "question": "原文中 'pounding' 在军事语境中的含义是？\n'38 days of pounding the Iranians'",
+      "options": [
+        "A. 连续轰炸",
+        "B. 外交施压",
+        "C. 经济制裁",
+        "D. 和平谈判"
+      ],
+      "answer": 0,
+      "explanation": "pounding 在此处为名词，意为'猛烈打击、连续轰炸'，指军事上的持续攻击。"
+    },
+    {
+      "type": "comprehension",
+      "question": "根据原文，伊朗和以色列对特朗普宣布的'和解'反应如何？",
+      "options": [
+        "A. 双方都表示欢迎",
+        "B. 伊朗否认达成最终协议，以色列表示惊讶",
+        "C. 伊朗同意但以色列反对",
+        "D. 双方都拒绝评论"
+      ],
+      "answer": 1,
+      "explanation": "伊朗外交部发言人表示尚未达成最终结论，以色列总理内塔尼亚胡通过社交媒体才得知消息，显示双方均感意外。"
+    },
+    {
+      "type": "comprehension",
+      "question": "分析人士大卫·桑格认为特朗普的'和解'声明可能是什么？",
+      "options": [
+        "A. 全面和平协议",
+        "B. 只是停火而非和平协议",
+        "C. 伊朗无条件投降",
+        "D. 美国单方面撤军"
+      ],
+      "answer": 1,
+      "explanation": "桑格指出这可能只是停火，开启另一轮谈判，而非结束战争的和平协议。"
+    },
+    {
+      "type": "comprehension",
+      "question": "关于SpaceX IPO，原文提到什么？",
+      "options": [
+        "A. SpaceX推迟上市",
+        "B. 马斯克将成为万亿富翁",
+        "C. 上市地点在纽约证券交易所",
+        "D. IPO ditolak oleh regulator"
+      ],
+      "answer": 1,
+      "explanation": "原文明确说'Elon Musk now set to become the world's first trillionaire'，且SpaceX在纳斯达克上市。"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "Got to catch them all. The robbers, that is. What started out as somebody trying to sell Pokemon cards ended in a robbery in San Francisco. A suspect pepper-sprayed the victim and stole their cards after they met up for the sale. Police released a video of the moment officers arrested two suspects in the case last month. Officers had identified them the day after the crime. That does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "一定要抓住他们。我是说劫匪。原本是有人想卖宝可梦卡，结果在旧金山演变成了一起抢劫案。一名嫌疑人向受害者喷射胡椒喷雾，并在交易后偷走了卡片。警方公布了一段上月逮捕两名涉案嫌疑人的视频。案发第二天，警方就锁定了他们。CNN头条快讯到此结束。我是布拉德·史密斯。接下来是奥蒂·科尼什主持的《CNN今晨》节目。"
+    },
+    {
+      "speaker": "Erica Hill",
+      "text": "Today in the group chat, President Trump announcing a great settlement to end the war. So, is it real this time?",
+      "cn": "今天在群聊中，特朗普总统宣布达成一项结束战争的伟大协议。那么，这次是真的吗？"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "The strait will officially open as soon as we sign, which could be soon. Very soon. Maybe over the weekend.",
+      "cn": "海峡将在我们签署后正式开放，这可能很快。非常快。也许就在这个周末。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Dangerous weather turns deadly in the Midwest. Tornadoes touch down, with severe storms heading East today.",
+      "cn": "危险天气在中西部造成致命后果。龙卷风来袭，强风暴今日向东移动。"
+    },
+    {
+      "speaker": "Marco Rubio",
+      "text": "When President Kennedy announced that we were going to put a man on the Moon and return him safely to the Earth, no one thought that was possible. And at some level, that's what this whole company, what UFC has been.",
+      "cn": "当肯尼迪总统宣布我们将把人送上月球并安全返回地球时，没有人认为这是可能的。在某种程度上，这正是整个公司、UFC一直以来的写照。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Marco Rubio comparing a deal with the UFC to the Moon landing. Just what do cage fights actually have to do with diplomacy? REP. MIKE JOHNSON (R-LA): Let's have votes on an election the day of the election. That's what many states are able to do. I think California is playing around with us.",
+      "cn": "马可·鲁比奥将UFC的交易比作登月。笼斗到底与外交有什么关系？众议员迈克·约翰逊（路易斯安那州共和党人）：让我们在选举日当天进行投票。许多州都能做到这一点。我认为加利福尼亚在跟我们耍花招。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Republicans continuing to cast doubt on California's voting tactics. So, will President Trump now try to control state elections? The World Cup finally arriving in the U.S. today. Does the U.S. men's national team have a shot at winning this thing?",
+      "cn": "共和党人继续质疑加利福尼亚的投票策略。那么，特朗普总统现在会试图控制州选举吗？世界杯今天终于来到美国。美国男足有机会夺冠吗？"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "-- is the Super Bowl of IPOs SpaceX?",
+      "cn": "--  -- SpaceX是IPO界的超级碗吗？"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "Everybody's talking about the Space",
+      "cn": "每个人都在谈论太空"
+    },
+    {
+      "speaker": "Hill",
+      "text": "SpaceX launching on the NASDAQ this morning. Elon Musk now set to become the world's first trillionaire.",
+      "cn": "SpaceX今早在纳斯达克上市。埃隆·马斯克即将成为世界上第一位万亿富翁。"
+    },
+    {
+      "speaker": "Trump",
+      "text": "We just made a great settlement of the war with Iran. Probably have a signing, maybe in Europe. And it's a great thing.",
+      "cn": "我们刚刚与伊朗达成了战争的伟大和解。可能会签署协议，也许在欧洲。这是一件了不起的事情。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "President Trump says the war is over; a deal is close. So, why do both Iran and Israel seem surprised by the news? Good morning, everyone. I'm Erica Hill, in for Audie Cornish. Very happy Friday morning to you. We begin with the great settlement. President Trump calling off new strikes on Iran, saying both sides have now agreed to stop the fighting. TRUMP (via phone): I don't know if you heard, but we ended the war with Iran today.",
+      "cn": "特朗普总统称战争已经结束，协议即将达成。那么，为什么伊朗和以色列似乎都对这一消息感到惊讶？大家早上好。我是埃里卡·希尔，代替奥迪·科尼什。祝大家周五早上愉快。我们从这场伟大的和解开始。特朗普总统取消了针对伊朗的新一轮打击，称双方现已同意停止战斗。特朗普（通过电话）：我不知道你们是否听说了，但我们今天结束了与伊朗的战争。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "And they have agreed never to have a nuclear weapon, something that we -- we insisted on. That was the whole purpose. That was the -- 95 percent of it.",
+      "cn": "他们已同意永远不拥有核武器，这是我们坚持的要求。这就是全部目的。占了95%。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Apparently, though, no one told Iran. ESMAIL BAGHAEL, IRANIAN FOREIGN MINISTRY SPOKESMAN (through translator) (via phone): Regardless of the rhetoric, threats and claims of the other side, we are focused on the interests of the Iranian nation. We are doing our own work. Regarding the text and the overall understanding, whenever we conclude that it secures the interests of the Iranian nation, we will certainly announce it transparently.",
+      "cn": "然而，显然没有人告诉伊朗。伊朗外交部发言人伊斯梅尔·巴加埃（通过翻译）（通过电话）：无论对方的言论、威胁和主张如何，我们都专注于伊朗民族的利益。我们在做自己的工作。关于文本和整体理解，每当我们得出结论认为它保障了伊朗民族的利益时，我们当然会透明地宣布。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "As I speak to you at this moment, we have not reached a final conclusion on this matter. Israel, also seemingly taken by surprise, a source telling CNN Israeli Prime Minister Benjamin Netanyahu wasn't aware of an agreement with Iran; that he actually found out on social media. So, is this just the latest effort by President Trump to move stalled negotiations -- negotiations forward? Or is there really a deal? Joining me now, CNN political and national security analyst David Sanger.",
+      "cn": "在我此刻与你们交谈时，我们尚未就此问题达成最终结论。以色列似乎也感到意外，一位消息人士告诉CNN，以色列总理本雅明·内塔尼亚胡并不知晓与伊朗的协议；他实际上是通过社交媒体得知的。那么，这仅仅是特朗普总统推动停滞谈判的最新努力吗？还是真的达成了协议？现在加入我们的是CNN政治与国家安全分析师大卫·桑格。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "David, always good to talk to you. So, Trump is claiming right now that the end of the war is at hand. The reopening of the Strait of Hormuz could actually happen this weekend once this deal is signed. And yet, we have this warning from one Iran -- Iranian leader that the -- and I'm quoting here -- \"the probability of deception by Trump is high.\" Based on everything we know and your sources, David, do signs actually point to an agreement at this point?",
+      "cn": "大卫，很高兴与你交谈。那么，特朗普现在声称战争即将结束。一旦协议签署，霍尔木兹海峡可能在本周末重新开放。然而，我们收到了来自一位伊朗领导人的警告 --  -- 我引用一下 --  -- \"特朗普欺骗的可能性很高。\"根据我们所知的一切以及你的消息来源，大卫，目前是否有迹象表明确实达成了协议？"
+    },
+    {
+      "speaker": "David Sanger",
+      "text": "Well, they certainly point to some agreement coming together on four major pillars of a -- of some restraint on the nuclear program. But it's not a peace agreement. It doesn't end the war. It may be a ceasefire that opens up another negotiation. So, there are some reasons to be skeptical of the president's claim. I think CNN -- by CNN's count, he has over the past three months declared on about 39 occasions -- not sure if that's exactly right -- that the war was over. This time, he's gone a little bit differently.",
+      "cn": "嗯，确实有迹象表明在核计划限制的四大支柱上正在达成某种协议。但这并非和平协议。它不会结束战争。可能只是一项停火协议，为另一轮谈判打开大门。因此，有理由对总统的说法持怀疑态度。我认为CNN --  -- 根据CNN的统计，他在过去三个月里大约39次宣布战争结束 --  -- 不确定这个数字是否准确。这次，他的说法略有不同。"
+    },
+    {
+      "speaker": "David Sanger",
+      "text": "He said they've come to an agreement on this. And as you noted, the -- that's certainly not how the Iranians are describing it now. But they may be close.",
+      "cn": "他说他们已经就此达成了协议。正如你所指出的，伊朗人目前显然不是这样描述的。但他们可能接近了。"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "The president -- the president did say the most important thing was to get them to agree never to build a nuclear weapon. Well, of course, they've agreed to that many times before: when they signed the nuclear nonproliferation treaty; when they signed the agreement with President Obama 11 years ago.",
+      "cn": "总统 --  -- 总统确实说过，最重要的是让他们同意永远不制造核武器。当然，他们以前多次同意过：当他们签署《不扩散核武器条约》时；当他们11年前与奥巴马总统签署协议时。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes. Which is -- which is a key point. That is, of course, in some of the key points that we have, according to a diplomat who's been briefed on this agreement, this memorandum of understanding, if you will. Another one that's in there is a 60-day ceasefire, quote, \"on all fronts.\" It would include Lebanon. This has been a key sticking point, as we know, for Iran, which of course, led to some of what we saw over the weekend in terms of both Iran and Israel trading missiles.",
+      "cn": "是的。这是一个关键点。当然，根据一位了解该协议（谅解备忘录）的外交官的说法，这是我们掌握的一些关键点之一。协议中还包括一项为期60天的停火，引用原话是\"在所有战线\"。这将包括黎巴嫩。我们知道，这对伊朗来说一直是一个关键症结，当然，这也导致了我们在上周末看到的一些情况，即伊朗和以色列互相发射导弹。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The fact that Israel's prime minister reportedly found out about this on social media, that really stands out to me, especially when we're talking about the potential ceasefire with Lebanon, with activity in Lebanon -- David.",
+      "cn": "据报道，以色列总理是在社交媒体上得知此事的，这一点让我印象深刻，尤其是当我们谈论与黎巴嫩可能达成的停火协议，以及黎巴嫩境内的活动时 --  -- 大卫。"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "That's right. The prime minister does not want to be part of this agreement and has made clear that he won't feel bound by a commitment that he didn't sign up to. So, the Iranian position is that this has got to be a ceasefire across all of the active areas of combat. And that means Iran itself. But it also means in Lebanon, where Israel is taking on Hezbollah. So, this has been a point of division between the president and Prime Minister Netanyahu.",
+      "cn": "没错。总理不想参与这项协议，并明确表示他不会受自己未签署的承诺约束。因此，伊朗的立场是，这必须是所有活跃战区的停火。这意味着伊朗本身，但也包括黎巴嫩，以色列正在那里与真主党作战。所以，这一直是总统与内塔尼亚胡总理之间的分歧点。"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "There have been some screaming phone calls we've -- we've heard about along the way. And it does pose a real point of tension in the relationship with Israel, because if they don't respect that ceasefire, and it plunges everything back in again, you'll have the president blaming Prime Minister Netanyahu.",
+      "cn": "我们听说过程中有一些激烈的电话争吵。这确实给与以色列的关系带来了一个真正的紧张点，因为如果他们不尊重停火协议，导致一切重新陷入混乱，总统将会指责内塔尼亚胡总理。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Mm-hmm. It's -- it's notable, too, some of what we're hearing from lawmakers. I want to just play some comments from a Republican and a Democrat. I do want to note these comments from Congressman Don Bacon actually came just before we heard from the president about this potential agreement. But there is a very interesting similarity, if you will, in what he and Adam Schiff have to say. Take a listen. REP DON BACON (R-NE): Iran needs to come to us wanting a deal right now.",
+      "cn": "嗯哼。值得注意的是，我们还听到了一些议员的言论。我想播放一位共和党人和一位民主党人的评论。需要指出的是，众议员唐·培根的这些评论实际上是在我们听到总统谈论这项潜在协议之前发表的。但他们的说法有一个非常有趣的相似之处。请听。共和党众议员唐·培根（内布拉斯加州）：伊朗现在需要主动来找我们，想要达成协议。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "We're going to them, and they are abusing the president in these negotiations. They think they have the advantage over President Trump. REP. ADAM SCHIFF (D-CA): Every time the president talks about how eager Iran is for a deal, it's basically a reveal that he's talking about his own eagerness for a deal.",
+      "cn": "我们去找他们，而他们在这些谈判中滥用总统。他们认为自己比特朗普总统更有优势。民主党众议员亚当·希夫（加利福尼亚州）：每次总统谈论伊朗多么渴望达成协议时，基本上就是在暴露他自己对协议的渴望。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, Adam Schiff talking about the eagerness. But -- but, you know, Congressman Bacon --",
+      "cn": "所以，亚当·希夫在谈论渴望。但是，你知道，培根众议员 --  --"
+    },
+    {
+      "speaker": "Hill",
+      "text": "-- also noting there, too, basically, the president needs to stop saying what he wants in public. Is Trump undermining his efforts at this point, showing those cards?",
+      "cn": "--  -- 也指出，基本上，总统需要停止公开说出他想要什么。特朗普此时是否在破坏自己的努力，亮出底牌？"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "Well, certainly, the Iranians think that the president needs this right now more than -- than they do. And I think that was behind the president's decision to renew military activity for a couple of days, to try to show that they could be plunged back into the war. But frankly, the problem that's been haunting the president here is that 38 days of pounding the Iranians, starting in late February, did not result in the political concessions he was looking for.",
+      "cn": "当然，伊朗人认为总统现在比他们更需要这个。我认为这背后是总统决定恢复几天的军事行动，试图表明他们可能重新陷入战争。但坦率地说，困扰总统的问题是，从2月底开始对伊朗进行38天的打击，并没有带来他所寻求的政治让步。"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "And it's not clear that additional days of pounding them will. Now, I reported two days ago that there were there were four pillars of an agreement that are emerging, and they have to do with everything from what to do with Iran's nuclear stockpile to its future enrichment activity, and so forth. And it looks like on those four, they're coming closer.",
+      "cn": "而且不清楚再打击几天是否会奏效。两天前我报道说，一项协议有四个支柱正在形成，涉及从如何处理伊朗的核库存到其未来的浓缩活动等方方面面。看来在这四个问题上，他们正在接近。"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "But all this memorandum of agreement would -- of understanding would do is start a negotiation that would probably run all summer, and many fear could run much longer than that, on the details of the nuclear program.",
+      "cn": "但这份谅解备忘录所要做的只是启动一场谈判，可能会持续整个夏天，许多人担心可能会更长，讨论核计划的细节。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes. David, always good to talk to you. Appreciate it. Thank you.",
+      "cn": "是的，大卫，很高兴和你交谈。谢谢。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Still ahead here on CNN THIS MORNING, the president facing pushback. So, now he's got a new pick to lead the nation's intelligence community. Could it be a rare sign of compromise, or is it caving? What do we really know? Plus, a federal prosecutor making claims about voter fraud in California. Very explicit public claims. But first, perhaps you've heard them called the YOLO Caucus of Congress. Just one of the memes, if you will, for some of the most prominent members now promising revenge. REP.",
+      "cn": "在CNN《今晨》节目中，总统正面临阻力。现在他有了新的情报机构负责人人选。这是罕见的妥协迹象，还是屈服？我们真正了解什么？此外，一名联邦检察官在加州提出选民欺诈指控，非常明确的公开指控。但首先，你可能听说过他们被称为国会\"YOLO党团\"。这只是其中一个梗，如果你愿意，一些最知名的议员现在承诺报复。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "NANCY MACE (R-SC): As a survivor, I chose to stand on principle.",
+      "cn": "南卡罗来纳州共和党众议员南希·梅斯：作为幸存者，我选择坚持原则。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The current Republican lawmakers who lost out on Donald Trump's endorsement in the primaries and are now heading for the exit in about six months, are a little bit more vocal these days: raising questions about whether they could actually be a bit of a thorn in the side of the president in the coming months, with their remaining time in Washington.",
+      "cn": "那些在初选中失去特朗普支持的现任共和党议员，大约六个月后即将离任，如今更加直言不讳：他们质疑在华盛顿剩余的时间里，是否可能成为总统的眼中钉。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Among them is South Carolina Congresswoman Nancy Mace, fresh off her last-place finish for the GOP nomination for governor in her state, joking that she could still come in first, if Mike Pence has the courage. A reference there, of course, a bit of a dig to Trump's infamous message on January 6th.",
+      "cn": "其中包括南卡罗来纳州众议员南希·梅斯，她刚刚在该州共和党州长提名中排名垫底，开玩笑说如果迈克·彭斯有勇气，她仍可能获得第一。这显然是对特朗普1月6日臭名昭著言论的挖苦。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Mace said she will be adding to the unemployment numbers and also promised to be a, quote, \"more of a menace than ever.\" Texas Senator John Cornyn, in his first interview since that loss to a Trump-backed challenger in his primary in Texas, telling \"The New York Times,\" quote, \"It is going to be a pretty bumpy ride for the next seven months,\" saying, \"It does give some of us a little more freedom and certainly leverage.\" Joining me in the group chat, Elliot Williams, CNN legal analyst and former federal",
+      "cn": "梅斯表示她将增加失业人数，并承诺成为\"比以往更麻烦的人\"。得克萨斯州参议员约翰·科宁在初选中输给特朗普支持的挑战者后首次接受《纽约时报》采访，称\"未来七个月将非常颠簸\"，并表示\"这确实给了我们一些人更多自由，当然还有筹码\"。加入我们群聊的有CNN法律分析师、前联邦检察官埃利奥特·威廉姆斯；《每日信号》总裁兼执行主编罗布·布鲁伊；以及CNN政治评论员、民主党策略师玛丽亚·卡多纳。今早见到各位很高兴。所以，你们看到了YOLO党团，也就是\"跛脚鸭叛乱\"。无论你怎么称呼他们。很明显，他们现在似乎真的开始不客气了。而且，我认为这进一步证明了唐纳德·特朗普不仅对政党，而且对议员的控制力。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "prosecutor; Rob Bluey, president and executive editor of \"The Daily Signal\"; and Maria Cardona, CNN political commentator and Democratic strategist. It's good to see all of you this morning. So, you know, you've got there the YOLO Caucus. It's the Lame Duck Rebellion. Whatever you want to call them. What is clear is the gloves really appear to be coming off now. And it's also, I would say, further evidence of the hold that Donald Trump has, not just on the party, but specifically on lawmakers.",
+      "cn": "埃利奥特，你认为这实际上能产生多大影响？"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Elliot, how much of a difference do you think this could actually make?",
+      "cn": "在通过法律或政策方面，有些影响，只是因为会有直言不讳的国会议员公开反对总统。但你知道，埃里卡，你说得对，这关乎唐纳德·特朗普作为政治家和人物的独特性。当然，政客们在翅膀被剪断时 --  -- 我不知道这个比喻是否恰当 --  -- 感到自由，这并不新鲜。"
+    },
+    {
+      "speaker": "Elliot Williams",
+      "text": "In terms of passing laws or policies, somewhat, only because you will have vocal members of Congress speaking out against the president. But you know, Erica, you hit it right on the head with the idea of this being about how singular Donald Trump is as a politician and a figure. Certainly, there's nothing new about politicians feeling, when the wings are clipped, or I guess -- I don't know if that's the right metaphor.",
+      "cn": "你明白我的意思吗？当他们可以在选举后凭良心投票时，他们会有点偏离阵营。这是一个更好的动物比喻。但这以前发生过。不同之处在于，党内有一位独特的人物，私下里 --  -- 有很多报道称，共和党国会议员在私下并不像公开那样与特朗普保持一致。所以，他们只是更自由地表达自己的想法。"
+    },
+    {
+      "speaker": "Elliot Williams",
+      "text": "You know what I mean? When -- when they can vote their conscience after elections, they, you know, sort of stray from the fold a little bit. That's a better animal metaphor there. But this has happened before. The difference is you have a singular figure at the top of the party who, in private, there's -- there's a bunch of reporting that Republican members of Congress do not take the party line with Trump that they do publicly. And so, they're just feeling more free to speak their minds."
+    },
+    {
+      "speaker": "Hill",
+      "text": "And part of that, you know, Cornyn also speaking to part of that, you know, continuing in that interview with \"The Times.\" I was struck by noting that he gave voice, they write that he gave voice \"in starkly candid terms to this growing sentiment among Senate Republicans that Trump is actually hurting his own party with self- serving decisions and his insistence on slavish loyalty, ultimately setting himself up for a midterm disaster that would pave the way for the most miserable two years of his life.",
+      "cn": "科宁也在《泰晤士报》的采访中谈到了这一点。我注意到，他们写道，他\"以极其坦率的措辞表达了参议院共和党人中日益增长的情绪，即特朗普实际上正在用自私自利的决定和对奴性忠诚的坚持伤害自己的政党，最终为自己铺平中期选举灾难的道路，这将导致他人生中最悲惨的两年。\""
+    },
+    {
+      "speaker": "Hill",
+      "text": "You know, when you -- when you look at that, Rob, I mean, calling it out here, about what this has done and sort of the promise there of what is to come. How much do you see that playing out? ROB BLUEY, PRESIDENT/EXECUTIVE EDITOR, \"THE DAILY SIGNAL\": Well, Erica, first of all, I think we need to remember that it was the voters of Texas, and South Carolina, and Kentucky, and some of these other states that ultimately decided to fire these politicians, because they weren't, quite frankly, representing their values",
+      "cn": "罗布，当你看到这一点时，我指的是在这里指出这一点，关于这已经造成的影响以及未来可能发生的事情。你认为这会在多大程度上显现出来？《每日信号》总裁兼执行主编罗布·布鲁伊：嗯，埃里卡，首先，我认为我们需要记住，是得克萨斯州、南卡罗来纳州、肯塔基州和其他一些州的选民最终决定解雇这些政客，因为坦率地说，他们没有代表他们的价值观。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "in the U.S. Congress. In the case of John Cornyn, I would say just take a look. A couple of hours ago, him picking a fight with Senator Mike Lee over the SAVE America Act. Now, John Cornyn is a sponsor of the SAVE America Act, but he doesn't have the backbone to stand on the Senate floor and make the Democrats debate this until they get to the point where it can pass with a simple majority vote. And so, I think that you're right.",
+      "cn": "在美国国会中。以约翰·科宁为例，我只想说，看看几个小时前，他因《拯救美国法案》与参议员迈克·李发生争执。现在，约翰·科宁是《拯救美国法案》的发起人，但他没有勇气站在参议院议事厅上，迫使民主党人进行辩论，直到该法案能以简单多数通过。所以，我认为你是对的。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "This is probably going to be a challenge for President Trump and other conservatives for the months to come. But I would just encourage these lawmakers to remember that the American people are paying attention, and they expect this Republican Congress to actually get some things done, whether it be the SAVE America Act or another reconciliation bill.",
+      "cn": "对于特朗普总统和其他保守派来说，未来几个月这可能是一个挑战。但我只想鼓励这些立法者记住，美国人民正在关注，他们期望这届共和党国会能真正做成一些事情，无论是《拯救美国法案》还是其他和解法案。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "I mean, you know, respectfully, there hasn't been a lot of getting anything done across this Congress --",
+      "cn": "我的意思是，恕我直言，这届国会自宣誓就职以来，并没有做成多少事情。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "-- since they were sworn in. So, it will be interesting to see if this changes anything. Maria, how much more public do you anticipate these lawmakers? I mean, Democrats are probably loving this moment, but words are one thing. Actions are quite another.",
+      "cn": "所以，看看这是否会改变任何事情将会很有趣。玛丽亚，你预计这些立法者会在多大程度上公开表态？我的意思是，民主党人可能很喜欢这一刻，但言语是一回事，行动又是另一回事。"
+    },
+    {
+      "speaker": "Maria Cardona",
+      "text": "That's exactly right, Erica. And what I think a lot of these lawmakers are focused on is exactly what the American people want. Whereas before, they were so beholden to what Trump wanted, because they were scared of him. They didn't have any backbone to stand up against him. Now, I think they feel free to actually focus on what their voters want. And they're seeing what everyone else is seeing across the board, Erica. Donald Trump's poll numbers are in the toilet. Republicans poll numbers are in the toilet.",
+      "cn": "完全正确，埃里卡。我认为许多立法者关注的重点正是美国人民想要的。而之前，他们如此受制于特朗普的意愿，因为他们害怕他。他们没有勇气站出来反对他。现在，我认为他们觉得可以自由地专注于选民想要的东西。而且他们看到了其他人都在看到的情况，埃里卡。唐纳德·特朗普的民调数字跌入谷底。共和党人的民调数字也跌入谷底。"
+    },
+    {
+      "speaker": "Maria Cardona",
+      "text": "Democrats have been winning across the board all of these elections, including in ruby-red places. And so, what Republicans are saying is, look, now is the time for me to stand up against Trump. They even said it. What Trump has been doing, the self-dealing has really put their majority in -- in -- in jeopardy. Because the American people don't see that Republicans are focused on what they want. In fact, it's completely the opposite. They have focused on higher costs. They have focused on corruption.",
+      "cn": "民主党人在所有选举中都取得了胜利，包括在深红地区。所以，共和党人说的是，看，现在是我站出来反对特朗普的时候了。他们甚至这么说了。特朗普一直在做的事情，他的自私自利确实危及了他们的多数地位。因为美国人民看不到共和党人专注于他们想要的东西。事实上，情况完全相反。他们专注于更高的成本。他们专注于腐败。"
+    },
+    {
+      "speaker": "Maria Cardona",
+      "text": "They have focused on chaos. And they've done nothing to go up against Trump to say, Look, you promised the American people to bring down costs, to bring down inflation. And everything that you're doing is doing exactly the opposite of that. So now, maybe they're going to say, let's actually do what the American people want. I think it's too late for them to save their majority in both the House and the Senate. But that's what you're going to see, I think, from here on out.",
+      "cn": "Mereka fokus pada kekacauan. Mereka tidak mengambil tindakan apa pun untuk menentang Trump, dengan mengatakan: lihat, Anda berjanji kepada rakyat Amerika untuk menurunkan harga, menurunkan inflasi. Dan setiap hal yang Anda lakukan justru sebaliknya. Jadi sekarang, mungkin mereka akan berkata, mari kita benar-benar melakukan apa yang diinginkan rakyat Amerika. Saya pikir sudah terlambat bagi mereka untuk menyelamatkan mayoritas DPR dan Senat. Tapi itulah yang akan Anda lihat selanjutnya, saya kira."
+    },
+    {
+      "speaker": "Hill",
+      "text": "All right. We will be watching. A lot more to tackle ahead this hour, including betting big on the space race. Elon Musk's SpaceX making its Wall Street debut, investors rushing to buy a piece of history that will also be historic for Elon Musk. Plus, we've got a live look for you at the White House. There it is. The UFC cage all set for the president's birthday on Sunday. Why officials are calling this -- are now referring to the UFC, by the way -- not this match -- the UFC as the United Nations of fighting.",
+      "cn": "Baik. Kami akan memantau dengan saksama. Masih banyak yang akan dibahas dalam satu jam ke depan, termasuk taruhan besar dalam perlombaan antariksa. SpaceX milik Elon Musk melakukan debut di Wall Street, investor berebut untuk membeli secuil sejarah, yang juga akan bersejarah bagi Elon Musk. Selain itu, kami hadirkan gambar langsung dari Gedung Putih. Lihat, kandang UFC sudah siap untuk ulang tahun presiden pada hari Minggu. Ngomong-ngomong, para pejabat sekarang menyebut UFC sebagai -- -- bukan pertandingan ini -- -- melainkan \"United Nations of Fighting\"."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "So, the UFC arena at the White House for Donald Trump's birthday has been completed. And it looks like total crap.",
+      "cn": "Jadi, arena UFC yang dibangun di Gedung Putih untuk ulang tahun Donald Trump sudah selesai. Kelihatannya sangat buruk."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "If you think for a second that I'm going to watch any of this, then you would be absolutely correct.",
+      "cn": "Jika Anda pikir saya akan melihatnya sedikit pun, Anda salah besar -- -- saya pasti akan melihatnya."
+    },
+    {
+      "speaker": "Hill",
+      "text": "The Trump administration is asking a federal judge to reject the lawsuit which seeks to stop this weekend's UFC fights at the White House. That ruling could come down today. Meantime, that 92-foot-high claw that dwarfs the White House -- you see it there, all lit up. It has been tested and is now operational. On Thursday, Secretary of State Marco Rubio signed a memorandum of understanding with the UFC to create a public-private partnership with the White House.",
+      "cn": "Pemerintahan Trump meminta hakim federal untuk menolak gugatan yang bertujuan menghentikan pertandingan UFC di Gedung Putih akhir pekan ini. Putusan bisa turun hari ini. Sementara itu, cakar setinggi 92 kaki yang membuat Gedung Putih terlihat kecil -- -- Anda melihatnya, terang benderang -- -- telah diuji dan sekarang beroperasi. Pada hari Kamis, Menteri Luar Negeri Marco Rubio menandatangani nota kesepahaman dengan UFC untuk menjalin kemitraan publik-swasta dengan Gedung Putih."
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, the UFC now joins 24 other sports -- from the MLB, the NBA, the WNBA, the U.S. Men's national team -- in the State Department sports envoy program. That also includes big stars like Baseball Hall of Famer Cal Ripken. He was an envoy to Greece.",
+      "cn": "Dengan ini, UFC bergabung dengan 24 olahraga lainnya -- -- dari MLB, NBA, WNBA hingga tim nasional putra AS -- -- sebagai bagian dari program Sports Envoy Departemen Luar Negeri. Program ini juga mencakup bintang besar seperti anggota Hall of Fame bisbol Cal Ripken Jr. Dia pernah menjadi duta untuk Yunani."
+    },
+    {
+      "speaker": "Rubio",
+      "text": "When President Kennedy announced that we were going to put a man on the Moon and return him safely to the Earth, no one thought that was possible. And we did it. We are a nation founded on doing what no one else dared to do, and no one else aspired to do. And at some level, that's what this whole company, what UFC has been. We're excited about what this brand means about America's ability to expand and reach out to different parts of the world.",
+      "cn": "Ketika Presiden Kennedy mengumumkan bahwa kita akan mengirim manusia ke bulan dan mengembalikannya dengan selamat ke Bumi, tidak ada yang mengira itu mungkin. Tapi kami melakukannya. Kami adalah negara yang dibangun di atas hal-hal yang berani dilakukan, yang tidak berani dilakukan orang lain, yang tidak diinginkan orang lain. Dalam beberapa hal, itulah yang diwakili oleh seluruh perusahaan, UFC. Kami bersemangat dengan kemampuan merek ini untuk memperluas jangkauan Amerika dan menjangkau berbagai belahan dunia."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Rubio also described the UFC as the United Nations of fighting. Mixed martial arts analyst Luke Thomas joins us now. Luke, it' s great to have you here. So, as we point out, there's some two dozen sports, right? And envoys, you know -- in many ways, this is sort of like a goodwill ambassador program, right? The -- showing the soft-power tools of the U.S. government. So, how effective do you think, with this new public-private partnership, UFC fighters and the sport could be in that role for the U.S.?",
+      "cn": "Rubio juga menggambarkan UFC sebagai \"United Nations of Fighting\". Analis MMA Luke Thomas bergabung dengan kami sekarang. Luke, senang Anda di sini. Seperti yang kami tunjukkan, ada sekitar dua puluh lebih olahraga, kan? Dan duta -- -- dalam banyak hal, ini semacam program duta besar niat baik, kan? Menunjukkan alat kekuatan lunak pemerintah AS. Jadi, menurut Anda, melalui kemitraan publik-swasta baru ini, seberapa besar peran yang bisa dimainkan petarung UFC dan olahraga ini bagi Amerika?"
+    },
+    {
+      "speaker": "Luke Thomas",
+      "text": "I don't really understand exactly what the return on investment is. I mean, I sort of get the generic arguments that are made about the -- the value of sport in building community. And -- and cultivating good kinds of traits and character. I understand that. But I don't understand what the value is as it ultimately gets back to the shores.",
+      "cn": "Saya benar-benar tidak begitu mengerti apa sebenarnya laba atas investasi itu. Maksud saya, saya secara umum memahami argumen tentang nilai olahraga dalam membangun komunitas dan menumbuhkan kualitas serta karakter yang baik. Saya mengerti itu. Tapi saya tidak mengerti bagaimana nilai-nilai itu pada akhirnya kembali ke Amerika Serikat."
+    },
+    {
+      "speaker": "Luke Thomas",
+      "text": "I mean, if you look at the way in which soft power has been implemented in this country for basically decades, generations across multiple presidencies, both Democratic and Republican, it was some kind of effort at both giving something abroad that created better sympathies and had a material impact on the lives of those we were trying to affect, such that it created better sympathies for us or, you know, better bilateral relations. I don't understand exactly what this does.",
+      "cn": "Maksud saya, jika Anda melihat bagaimana kekuatan lunak diterapkan di negara ini selama beberapa dekade, lintas generasi, lintas masa kepresidenan (baik Demokrat maupun Republik), itu selalu merupakan upaya untuk memberikan sesuatu di luar negeri guna menciptakan citra yang lebih baik dan memberikan dampak nyata pada kehidupan orang-orang yang ingin kita pengaruhi, sehingga menciptakan citra yang lebih baik atau hubungan bilateral yang lebih baik bagi kita. Saya tidak mengerti apa yang secara spesifik bisa dilakukan ini."
+    },
+    {
+      "speaker": "Luke Thomas",
+      "text": "You can make an argument that it is inoffensive. You can make an argument that, to your point, if the NFL is doing it, well, you know, there's no scandal here in that particular sense. But in terms of, like -- I mean, if Donald Trump doesn't believe in soft power, it is very, very difficult for me to understand how this is a different but more enlightened version of it.",
+      "cn": "Anda bisa bilang itu tidak berbahaya. Anda juga bisa bilang, seperti yang Anda katakan, jika NFL juga melakukannya, maka tidak ada skandal dalam arti tertentu. Tapi soal -- -- maksud saya, jika Donald Trump tidak percaya pada kekuatan lunak, sulit bagi saya untuk memahami bagaimana ini bisa menjadi versi kekuatan lunak yang berbeda namun lebih tercerahkan."
+    },
+    {
+      "speaker": "Hill",
+      "text": "It's an interesting point when you look at the cuts that were made to USAID, right, which was a major instrument, in many ways, of soft power. You know, according to his statement, it's going to be used to -- for joint educational content development, using MMA to teach English and leadership skills. What I think is remarkable -- and I think you've noted this -- is the areas where UFC is gaining ground.",
+      "cn": "Ketika Anda melihat pemotongan USAID, itu adalah sudut pandang yang menarik, kan? USAID dalam banyak hal adalah alat utama kekuatan lunak. Menurut pernyataannya, ini akan digunakan untuk pengembangan konten pendidikan bersama, menggunakan MMA untuk mengajar bahasa Inggris dan keterampilan kepemimpinan. Saya pikir perlu dicatat -- -- saya pikir Anda juga memperhatikan -- -- bidang di mana UFC membuat kemajuan."
+    },
+    {
+      "speaker": "Hill",
+      "text": "This is -- or could be, perhaps, used because it's a really popular MMA market, a place like Brazil -- is not really the target of this program.",
+      "cn": "Ini -- -- atau mungkin bisa digunakan -- -- karena ini adalah pasar MMA yang sangat populer, seperti Brasil -- -- bukanlah target sebenarnya dari program ini."
+    },
+    {
+      "speaker": "Thomas",
+      "text": "Yes. I mean, this is -- we'll have to see how it's implemented ultimately, right? We'll have to see how it's implemented. I think, to me, the lesson I take from all of this is, listen, could there be some kind of benefit down the road? I suppose it's at least worth taking seriously on some level. But that's really not how I understand the nature of this relationship. That, if you look at the White House lawn, and if you look at the way in which the parent company for UFC -- it's called TKO. They also own WWE.",
+      "cn": "Ya. Maksud saya, ini -- -- kita harus lihat bagaimana akhirnya diimplementasikan, kan? Kita harus lihat bagaimana pelaksanaannya. Saya pikir, bagi saya, pelajaran yang saya ambil dari semua ini adalah, dengar, akankah ada semacam manfaat di masa depan? Saya pikir setidaknya pada beberapa level perlu dipertimbangkan dengan serius. Tapi ini bukan cara saya memahami esensi hubungan ini. Jika Anda melihat halaman Gedung Putih, lihat perusahaan induk UFC -- -- namanya TKO -- -- mereka juga memiliki WWE."
+    },
+    {
+      "speaker": "Thomas",
+      "text": "If you just look at the way in which they do business, every year seems to greet or bring with it a new level of entanglement in government. Now, not just local municipal government or even state or national government, but just sort of broadly, they do deals internationally with governments all the time. I make this point.",
+      "cn": "Jika Anda melihat cara mereka berbisnis, sepertinya setiap tahun mereka menyambut atau membawa tingkat keterlibatan baru dengan pemerintah. Sekarang, tidak hanya pemerintah daerah, bahkan negara bagian atau nasional, tetapi secara luas, mereka terus-menerus berbisnis dengan pemerintah di tingkat internasional. Saya mengemukakan hal ini."
+    },
+    {
+      "speaker": "Thomas",
+      "text": "You know, why are they going this year to Azerbaijan and Serbia, and they're not going to Brazil, the most important market -- or arguably, one of the most important markets in MMA? It's because they're getting paid by the governments there to go. It's this enmeshing of the business between the public and the private in which they're talking about, but it extends well beyond this memorandum of understanding.",
+      "cn": "Anda tahu, mengapa tahun ini mereka pergi ke Azerbaijan dan Serbia, bukan ke Brasil -- -- pasar terpenting dalam MMA, atau bisa dibilang salah satu yang terpenting? Karena mereka dibayar oleh pemerintah di sana. Ini adalah jalinan bisnis antara publik dan swasta yang mereka bicarakan, tapi ini jauh melampaui nota kesepahaman ini."
+    },
+    {
+      "speaker": "Thomas",
+      "text": "And I know for sports fans out there, you're saying, well, you know, government largesse isn't necessarily a new thing for pro sports owners. Fine. But it's at least worth having a conversation about the role that it plays.",
+      "cn": "Saya tahu bagi penggemar olahraga, Anda akan berkata, pendanaan pemerintah untuk pemilik olahraga profesional bukanlah hal baru. Baiklah. Tapi setidaknya perlu dibahas peran yang dimainkannya."
+    },
+    {
+      "speaker": "Hill",
+      "text": "When we look at what is about to unfold on Sunday. Look, some people are really excited about it. Some people are not. There are very distinct camps, which I think are leading to certain stereotypes that are probably not accurate on both of those sides. What do you think, in your view Sunday's fight has now come to symbolize? And is it what was intended, which we're told is a celebration of the nation's 250th birthday, which happens to fall on this president's 80th birthday?",
+      "cn": "Ketika kita melihat apa yang akan terjadi pada hari Minggu. Lihat, beberapa orang sangat bersemangat tentang ini. Beberapa tidak. Ada kubu yang sangat jelas, saya pikir ini mengarah pada stereotip tertentu yang mungkin tidak akurat. Menurut Anda, apa yang diwakili oleh pertandingan hari Minggu sekarang? Apakah ini yang diharapkan -- -- kami diberitahu ini adalah perayaan ulang tahun ke-250 negara, yang kebetulan juga merupakan ulang tahun presiden yang ke-80?"
+    },
+    {
+      "speaker": "Thomas",
+      "text": "To me, this is something approximating the union of these two identities or brands or, you know, between the UFC and between the Trump administration. You could even argue, maybe, that it's not so much -- var CNN = CNN || {};",
+      "cn": "Bagi saya, ini mendekati penggabungan dua identitas atau merek ini, Anda tahu, antara UFC dan pemerintahan Trump. Anda bahkan bisa mengatakan, mungkin ini bukan hanya -- --"
+    },
+    {
+      "speaker": "Luke Thomas",
+      "text": "-- creating the union of these two identities or brands or, you know, between the UFC and between the Trump administration. You could even argue maybe that it's not so much a one and done kind of an event, although that's what they're suggesting, but that rather it marks a new period of entanglement between them. What was very interesting was the UFC helped launder Donald Trump's reputation following January 6th all the way through into 2024, when they helped boost his candidacy.",
+      "cn": "-- -- menciptakan penggabungan dua identitas atau merek ini, Anda tahu, antara UFC dan pemerintahan Trump. Anda bahkan bisa mengatakan, mungkin ini bukan hanya acara satu kali, meskipun mereka mengisyaratkan demikian, tetapi menandai era baru keterlibatan di antara mereka. Sangat menarik bahwa UFC membantu memulihkan reputasi Donald Trump setelah 6 Januari, berlanjut hingga 2024, ketika mereka membantu meningkatkan pencalonannya."
+    },
+    {
+      "speaker": "Luke Thomas",
+      "text": "And the mainstream media never made them pay for that. I was very, very surprised at the time. So this is a thing that has been in motion for a very, very long time. I get asked all the time, do you think the UFC risks being seen as political? I'm like, risk is being seen. This has been an open thing for years at this point. This weekend, to me is the culmination of all of those kinds of efforts.",
+      "cn": "Dan media arus utama tidak pernah membuat mereka membayar untuk itu. Saya sangat, sangat terkejut saat itu. Jadi ini adalah sesuatu yang sudah berlangsung lama. Saya sering ditanya, apakah Anda pikir UFC berisiko dipolitisasi? Saya bilang, risikonya sudah terlihat. Pada titik ini, ini sudah menjadi rahasia umum selama beberapa tahun. Akhir pekan ini, bagi saya, adalah puncak dari semua upaya ini."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Luke Thomas, really great to have you with your insight. Thank you.",
+      "cn": "Luke Thomas, senang mendengar wawasan Anda. Terima kasih."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Still to come here on CNN THIS MORNING, in honor of the nation's 250th birthday, President Trump is staging a state fair in the nation's capital. But a number of states say they're not going to be able to join the party. We'll tell you why. Plus a round of severe weather, including tornadoes across multiple states, leaving thousands without power and also turning deadly.",
+      "cn": "Dalam acara CNN This Morning, untuk merayakan 250 tahun berdirinya Amerika Serikat, Presiden Trump mengadakan pameran antarnegara bagian di ibu kota. Tapi beberapa negara bagian mengatakan tidak bisa hadir. Kami akan memberi tahu Anda alasannya. Selain itu, cuaca buruk termasuk tornado melanda beberapa negara bagian, menyebabkan ribuan orang kehilangan listrik dan mengakibatkan korban jiwa."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Good Friday morning, I'm Erica Hill. Nice to have you with us here on CNN THIS MORNING. Thirty five minutes past the hour now, here's a look at what's happening. One person is dead amidst severe weather across the Midwest and Iowa. Those storms packing 70 to 90 mile per hour winds, that is what helped to kill, unfortunately, a 54-year-old man after he was struck by a tree in Des Moines. Meantime, a large tornado in Central Illinois caught on camera. Look at the size of this.",
+      "cn": "Selamat pagi, saya Erica Hill. Selamat datang di CNN This Morning. Sekarang pukul 35 menit lewat, berikut ringkasan berita. Cuaca buruk melanda Midwest dan Iowa, satu orang tewas. Badai membawa angin kencang 70 hingga 90 mil per jam, yang menyebabkan seorang pria berusia 54 tahun di Des Moines tewas tertimpa pohon. Sementara itu, kamera menangkap tornado besar di Illinois tengah. Lihatlah ukurannya."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Perhaps not surprisingly, it destroyed homes, leveled businesses. One man was rescued after being trapped under the rubble of his own home. More than 600,000 customers across nine states are waking up without power this morning. Wall Street preparing now for the largest IPO in history as Space X makes its debut on the NASDAQ. Shares of the rocket company being offered at $135 each, that is set to raise some $75 billion and would also make founder, Elon Musk, the world's first billionaire.",
+      "cn": "Unsurprisingly, tornadoes destroyed homes and leveled shops. A man was trapped under the rubble of his own house and later rescued. Over 600,000 users in nine states woke up without power this morning. Wall Street is preparing for the largest IPO in history, as SpaceX will list on Nasdaq. The rocket company's stock is priced at $135 per share, expected to raise about $75 billion and make founder Elon Musk the world's first trillionaire."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Donald Trump offering up a new pick for director of National Intelligence, nominating Jay Clayton, US attorney for the Southern District of New York. And this, of course, follows the intense backlash over Bill Pulte, his initial pick, who has zero intel experience. Though Trump says Pulte will stay in that interim role for the time being.",
+      "cn": "Donald Trump has proposed a new candidate for the Director of National Intelligence, nominating Jay Clayton, the U.S. Attorney for the Southern District of New York. Previously, his initial pick, Bill Pult, faced strong opposition due to a lack of intelligence experience. However, Trump stated that Pult will temporarily remain in an acting role."
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "He's only there for a little while. He's running it for a short while we get a very talented person, Jay Clayton. As you know, Jay Clayton is an incredible talent, head of Sullivan & Cromwell. He was head of the SEC. He was now Southern District. I mean, nobody has better credentials. But Bill will run for sure. Well --",
+      "cn": "\"He will only stay for a short time. He is temporarily in charge until we find a very talented person, Jay Clayton. As you know, Jay Clayton is brilliant, formerly the head of Sullivan & Cromwell, former Chairman of the SEC, and now U.S. Attorney for the Southern District of New York. I mean, no one is more qualified. But Bill will definitely run. Um -- -- \""
+    },
+    {
+      "speaker": "Hill",
+      "text": "The Senate had scheduled a confirmation hearing for Clayton for next week. So just what do we know about Trump's new choice to take over as director of National Intelligence? Well, Jay Clayton is, as I noted, currently the US attorney for the Southern District of New York. He's also spent time over the past weeks joking the administration's baseless claims of fraud when it comes to voting by mail in California's elections. Take a listen.",
+      "cn": "The Senate was originally scheduled to hold a confirmation hearing for Clayton next week. So, what do we know about Trump's new pick for DNI? As I mentioned, Jay Clayton is currently the U.S. Attorney for the Southern District of New York. In recent weeks, he has also echoed the administration's baseless claims about mail-in voting fraud in California. Listen to this."
+    },
+    {
+      "speaker": "Jay Clayton",
+      "text": "It makes the opportunity for fraud so much greater when that is not necessary. It is not necessary for ballot access.",
+      "cn": "\"When it is not necessary to do so, the opportunity for fraud increases significantly. For ballot harvesting, it is unnecessary.\""
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Is mail in voting being used by one group and not another?",
+      "cn": "\"Is mail-in voting used by one group and not others?\""
+    },
+    {
+      "speaker": "Hill",
+      "text": "So he's not the only one here, the US attorney, in Los Angeles is now actually speculating about filing charges.",
+      "cn": "\"So he is not the only one; the federal prosecutor in Los Angeles is now actually considering filing charges.\""
+    },
+    {
+      "speaker": "Bill Essayli",
+      "text": "I will just say it will be election fraud charges in the next, I hate to put timelines on things, but one to two months, I believe. We need some of these results to be certified so we can, you know, prove some of the allegations. But we will be charging some people.",
+      "cn": "\"I can only say that in the next one to two months, there will be election fraud charges -- -- I don't like to set a timeline, but I believe it will happen. We need some results to be certified so we can prove some charges. But we will prosecute some people.\""
+    },
+    {
+      "speaker": "Hill",
+      "text": "Joining me to discuss Devlin Barrett, Justice Department reporter for the New York Times. He's also the author of the new book, \"The Department of Revenge: How Trump Took Control of American Justice.\" I mean, Devlin, can you just put into perspective for us how unorthodox perhaps those comments are that we just heard when it comes to this promise that charges are coming? I mean, that would just never happen, I mean, in the normal operation of the Department of Justice. We are no longer living in those times.",
+      "cn": "Joining me is Devlin Barrett, a Justice Department reporter for The New York Times. He is also the author of the new book \"The Revenge Department: How Trump Controlled American Justice.\" Devlin, can you explain to us how unusual those promises we just heard about upcoming charges are? I mean, in normal Justice Department operations, this kind of thing simply doesn't happen. We are no longer living in that era."
+    },
+    {
+      "speaker": "Devlin Barrett",
+      "text": "Well, that's exactly right. There are Department of Justice regulations specifically designed to prevent those kind of statements and that kind of activity, because the department and lawyers, and election experts, have long viewed that kind of behavior by the Justice Department as dangerous because it might, you know, cast doubt upon the election. But look, this is the Trump administration, and one of their core beliefs is casting doubt upon the election.",
+      "cn": "That's right. The Justice Department has specific rules to prevent such statements and actions, because the DOJ, lawyers, and election experts have long believed that such behavior by the DOJ is dangerous as it can cast doubt on elections. But look, this is the Trump administration, and one of their core beliefs is to question elections."
+    },
+    {
+      "speaker": "Devlin Barrett",
+      "text": "And you see that not just with the comments in Los Angeles, but you see that with the comments by Jay Clayton. And in terms of Jay Clayton, there are those comments that are raising alarm bells. There are also questions about his qualifications for this role of DNI. How does he stack up?",
+      "cn": "You see this not only from the remarks in Los Angeles but also from Jay Clayton's comments. In Jay Clayton's case, these remarks raised alarm bells. People are also questioning his qualifications to serve as DNI. How is he performing?"
+    },
+    {
+      "speaker": "Barrett",
+      "text": "So, Jay Clayton is a very experienced Wall Street lawyer, a very experienced corporate lawyer, and he's been the head of the New York prosecutor's office for about a year or so. But he doesn't come with an intelligence background other than what he encountered in his most recent job. So, you know, this isn't the resume certainly most people would pick to run an intelligence agency. But the most important credential he has is that Donald Trump trusts him. They golf together.",
+      "cn": "Jay Clayton is an experienced Wall Street lawyer, an experienced corporate lawyer, and he has been the head of the New York prosecutor's office for about a year. But he has no intelligence background except for the intelligence context he encountered in his recent work. So, this is certainly not the resume most people would choose to run an intelligence agency. But his most important qualification is that Donald Trump trusts him. They play golf together."
+    },
+    {
+      "speaker": "Barrett",
+      "text": "Jay Clayton was assigned a sensitive part of the whole Epstein fiasco last year when the Justice Department was wrestling with that problem. And like everything that, or many things that the President does, it's based on who he likes and how loyal he believes they are.",
+      "cn": "Last year, when the Justice Department was handling the Epstein scandal, Jay Clayton was assigned a sensitive part. Like everything or many things the president does, it depends on who he likes and who he considers loyal."
+    },
+    {
+      "speaker": "Hill",
+      "text": "In terms of that loyalty, right, elections are key. So those comments that we heard from Jay Clayton are really important here because this president, right, has not given up, despite these baseless claims when it comes to election interference, election fraud. This is something that the President has really zeroed in on, and that we have seen become a focus on for this administration. Based on what we know about Jay Clayton, if he is, in fact, confirmed, how do you see that potentially intensifying?",
+      "cn": "In terms of loyalty, elections are key. So the remarks we heard from Jay Clayton are very important, because this president, despite baseless claims about election interference and election fraud, has not given up. This is something the president truly focuses on, and it is the focus of this administration as we see. Based on what we know about Jay Clayton, if he is confirmed, how do you think this might escalate?"
+    },
+    {
+      "speaker": "Barrett",
+      "text": "Well, so look, it's pretty clear at this point that the President likes to have the DNI pursuing voter fraud claims. We saw that with Tulsi Gabbard when she was the DNI, when she went to personally participate in an FBI search in Atlanta. That's very unusual. And I think it helps to understand what's happening here if you just realize that the DNI in Trump's mind is an election investigating operation, which I think a lot of intelligence officials would say that's only a pretty small part of the DNI's job.",
+      "cn": "Well, it's clear the president likes the DNI to pursue voter fraud allegations. We saw when Tulsi Gabbard was DNI, she personally participated in the FBI raid in Atlanta. That was very unusual. I think if you realize that in Trump's view, the DNI is an election investigation agency, it helps to understand what's happening here, while many intelligence officials would say that is only a small part of the DNI's job."
+    },
+    {
+      "speaker": "Barrett",
+      "text": "But here it's the most important part because here it's what the President wants. And you see in Jay Clayton's public comments, which you showed, you see almost sort of a soft audition for that role. I think the question is, once he takes the job or if he gets confirmed, how far is he willing to go for the President?",
+      "cn": "But here, it is the most important part because that's what the president wants. You see in Jay Clayton's public remarks, you almost see a soft audition for the role. I think the question is, once he takes office or is confirmed, how far is he willing to go for the president?"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes. We Will see, too, what the line of questioning is in some of those hearings. Devlin, Barrett, great to have you with us this morning. Thank you. And just a reminder of Devlin's new book, \"The Department of Revenge: How Trump Took Control of American Justice.\" Well, President Trump's big birthday bash for America hitting another snag. So he had first pitched this idea of the Great American State Fair two years ago, billed as a patriotic world fair, but for states, to unite Americans.",
+      "cn": "Yes. We will also see the direction of questioning in some hearings. Devlin Barrett, glad to have you this morning. Thank you. A reminder, Devlin's new book is \"The Revenge Department: How Trump Controlled American Justice.\" Um, President Trump's grand birthday party for America has hit another obstacle. He first proposed the idea of a \"Great American State Fair\" two years ago, promoted as a patriotic world's fair, but aimed at states, to unite Americans."
+    },
+    {
+      "speaker": "Trump",
+      "text": "I will work with all 50 governors, Republican and Democrat alike, to create the Great American State Fair. The Great American State Fair will showcase the glory of every state in the union.",
+      "cn": "I will work with all 50 governors, both Republicans and Democrats, to create the Great American State Fair. The Great American State Fair will showcase the glory of every state in the Union."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Right? So why not? Sounds like a great idea. It turns out, though, that six states are now bowing out. Now, it's important to note all 50 states will still be represented in some way. But these six states have said it's just too much money for them to spend that total cost, somewhere between $70,000 and $100,000. And for most of those states, that was a major factor in the decision.",
+      "cn": "Right? So why not? Sounds like a good idea. However, six states have now decided to opt out. It should be noted that all 50 states will still participate in some way. But these six states said the total cost, between $70,000 and $100,000, was too expensive for them. For most of these states, that was the main factor in the decision."
+    },
+    {
+      "speaker": "Maura Healey",
+      "text": "Great American Fair, he invited all the states to participate and wants to charge us, charge us to go down and put something on his exhibit, whatever he's creating for Freedom 250. It's just ridiculous.",
+      "cn": "The Great American Exposition, he invites all states to participate, but charges us, makes us spend money to display his exhibits, whatever he creates for the 250th anniversary of freedom. This is ridiculous."
+    },
+    {
+      "speaker": "Hill",
+      "text": "There are also concerns that politics will or have already tainted the celebration. The spokesperson for Oregon's governor saying there are \"growing concerns\" that the event in Washington, DC is shaping up to be a more partisan affair than originally presented. And if that language sounds familiar, perhaps it should. As we remember the concert. The panel is back. Look, there are concerns, and it's important to note this is not the broader America 250, which, you know, we see that logo everywhere.",
+      "cn": "There are also concerns that politics have or will taint the celebration. A spokesperson for the Oregon governor said there are growing concerns that the event in Washington, D.C. is becoming more partisan than originally presented. If that sounds familiar, it might be. We also remember that concert. The panel is back. Look, there are indeed concerns, and importantly, this is not part of the broader America 250 celebration, you know, we see that logo everywhere."
+    },
+    {
+      "speaker": "Hill",
+      "text": "I mean, I see it in my town. There are banners up. That's separate from Freedom 250. Rob, do you have concerns that this has become more partisan? I mean, this should be -- there should be no politics in the celebration of America's 250th birthday.",
+      "cn": "I mean, I saw it in my town. There are banners. That is separate from the 250th anniversary of freedom. Rob, are you worried this is becoming more partisan? I mean, this should be -- -- celebrating America's 250th birthday should not be political."
+    },
+    {
+      "speaker": "Rob Bluey",
+      "text": "That's right, Erica. I agree with you. I don't think that it should be a partisan event, and I don't think that the Great American State Fair was becoming partisan. Unfortunately, some of these Democrat governors seem that they want to pick a fight with Donald Trump and they're using the excuse of budget constraints to do so.",
+      "cn": "Exactly, Erica. I agree with you. I think this should not be a partisan event, and I think the Great American State Fair has not become partisan. Unfortunately, some Democratic governors seem to want to pick a fight with Donald Trump, and they use budget constraints as an excuse to do so."
+    },
+    {
+      "speaker": "Rob Bluey",
+      "text": "I think it goes entirely to their disagreements with the President and wanting to stoke some of these fears in the minds of voters in their states that somehow the President is going to politicize this state fair. Now, you're right, Erica. There have been other concerns that certain aspects of the America 250th anniversary might be taking a more political tone.",
+      "cn": "I think it's entirely because of their disagreement with the president, and they want to stir up fear among voters that the president will politicize this state fair. You're right, Erica. There are other concerns that certain aspects of the America 250 celebration may become more political."
+    },
+    {
+      "speaker": "Rob Bluey",
+      "text": "But I think just by the nature of what you look in the grand scheme of things overall, this is a great celebration of our country's founding, and we should come to Washington and take part in it.",
+      "cn": "Tapi saya pikir, dari gambaran besarnya, ini adalah perayaan besar bagi pendirian negara kita, dan kita harus datang ke Washington untuk berpartisipasi."
+    },
+    {
+      "speaker": "Hill",
+      "text": "You talk about some of those concerns. The President, you know, turning what was supposed to be a concert, a number of artists pulling out because they said they found out after the fact that this was more of a partisan event. He's now turning that into a rally. Flo Rida, Vanilla Ice, they're still going to participate. Vanilla Ice had some really interesting comments right here on CNN, in the wake of all that backlash and other artists canceling. I want to play his take on his decision to be a part of it.",
+      "cn": "Anda menyebutkan beberapa kekhawatiran. Presiden mengubah apa yang seharusnya menjadi konser -- beberapa artis mundur karena mereka bilang baru tahu belakangan ini lebih mirip acara partai -- sekarang menjadi rapat umum. Flo Rida, Vanilla Ice masih akan ikut. Vanilla Ice memberikan komentar yang sangat menarik di CNN tentang semua reaksi balik dan artis lain yang membatalkan penampilan. Saya ingin memutar komentarnya tentang keputusan untuk berpartisipasi."
+    },
+    {
+      "speaker": "Vanilla Ice",
+      "text": "This is a huge honor to play the birthday. It's one in a lifetime, you know, 250. So I'm honored, and I just, you know, I respect everybody else. I know there's a lot of tension everywhere. This whole world is like a snow globe, but it shouldn't be that. And music is here to bring people together, man. And, you know, it shouldn't be that this music is dragged into politics. This is a moment to celebrate our country turning 250 years, no matter who puts it on.",
+      "cn": "Tampil untuk ulang tahun adalah kehormatan besar. Ini kesempatan sekali seumur hidup, 250 tahun. Jadi saya merasa terhormat, saya menghormati orang lain. Saya tahu semuanya tegang. Seluruh dunia seperti bola salju, tapi seharusnya tidak begitu. Musik diciptakan untuk menyatukan orang, bung. Musik seharusnya tidak ditarik ke politik. Ini adalah momen merayakan 250 tahun negara kita, tidak peduli siapa yang menyelenggarakannya."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Maria, is that the answer? Is it really about, you know, individuals celebrating how they want to celebrate and not allowing it to become partisan?",
+      "cn": "Maria, apakah itu jawabannya? Benarkah ini tentang bagaimana individu merayakan, tanpa membuatnya menjadi partisan?"
+    },
+    {
+      "speaker": "Maria Cardona",
+      "text": "It should be that way, Erica. But when you have somebody like Donald Trump who is focused on all of these celebrations and he's the one who's politicizing it. I mean, why did he have to create a Freedom 250 to begin with? Why couldn't he just have worked with the original group, America 250, to focus on making this a celebration for everyone? But he can't do that.",
+      "cn": "Seharusnya begitu, Erica. Tapi ketika ada orang seperti Donald Trump, yang fokus pada semua perayaan ini, dan dialah yang mempolitisasinya. Maksud saya, kenapa dia membuat 'Freedom 250' sejak awal? Kenapa dia tidak bekerja sama dengan organisasi 'America 250' yang asli, fokus membuat perayaan ini menjadi perayaan untuk semua orang? Tapi dia tidak bisa."
+    },
+    {
+      "speaker": "Maria Cardona",
+      "text": "And I think ultimately what Americans see is that, when Donald Trump gets involved with something, especially some kind of celebration, it's not about anything or anyone other than Donald Trump. And so that's why you have these states, I think, very concerned that they didn't want to participate in an event that was going to be exclusively partisan, especially when they were being made to pay for it.",
+      "cn": "Saya pikir pada akhirnya yang dilihat orang Amerika adalah, ketika Donald Trump campur tangan dalam sesuatu, terutama perayaan, hal itu tidak ada hubungannya dengan apa pun atau siapa pun selain Donald Trump sendiri. Jadi saya pikir itulah mengapa negara-negara bagian ini sangat khawatir, mereka tidak ingin berpartisipasi dalam acara yang murni partisan, terutama ketika mereka harus membayarnya."
+    },
+    {
+      "speaker": "Maria Cardona",
+      "text": "And I think the other part of this, Erica, is that there are so many states in this country that have felt attacked by this president because they have been attacked by this president figuratively and literally. And so, to then -- for Donald Trump to say that he wants to bring the country together is kind of laughable. And Americans just don't believe that he has it in him to do anything that is other than partisan and division, and focused on anything or anyone other than himself.",
+      "cn": "Saya pikir sisi lain dari ini, Erica, adalah ada banyak negara bagian di negara ini yang merasa diserang oleh presiden ini, karena mereka benar-benar diserang olehnya, baik secara metaforis maupun harfiah. Jadi, lalu -- Donald Trump bilang dia ingin menyatukan negara, itu agak konyol. Orang Amerika sama sekali tidak percaya dia mampu melakukan apa pun selain partisan dan memecah belah, atau fokus pada apa pun atau siapa pun selain dirinya sendiri."
+    },
+    {
+      "speaker": "Hill",
+      "text": "We're going to have to leave that one there. Elliot, you are first for the next group chat, I promise, because we do have a lot more to come here, including a mystery on the National Mall. Just who etched 8647 into the grass? And is it a dig at President Trump just before his big birthday celebration on Sunday?",
+      "cn": "Kita harus berhenti di sini. Elliott, saya janji, kamu yang pertama di grup chat berikutnya, karena kita masih punya banyak hal untuk dibahas, termasuk misteri di National Mall. Siapa yang mengukir 8647 di rumput? Apakah itu sindiran untuk Presiden Trump menjelang pesta ulang tahun besarnya pada hari Minggu?"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I love all the World cup events going on around the city. Really build a sense of community.",
+      "cn": "Saya suka semua acara Piala Dunia yang diadakan di kota. Benar-benar menciptakan rasa kebersamaan."
+    },
+    {
+      "speaker": "Hill",
+      "text": "The World Cup finally kicking off across North America. The matches, you don't have to have one of those expensive tickets, by the way. Still plenty of ways to enjoy the excitement. Stay with us.",
+      "cn": "Piala Dunia akhirnya dimulai di Amerika Utara. Ngomong-ngomong, Anda tidak perlu membeli tiket mahal itu. Masih banyak cara untuk menikmati semangat pertandingan. Pantau terus kami."
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I love all the World Cup events going on around the city. Really build a sense of community. But I'm super excited to watch my country win, Viva Mexico.",
+      "cn": "Saya suka semua acara Piala Dunia yang diadakan di kota. Benar-benar menciptakan rasa kebersamaan. Tapi saya sangat bersemangat melihat negara saya menang, Viva Mexico."
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I've been in US for a long time, but every time I see my flag that, the music, and today in Estadio Azteca, like I wanted to cry.",
+      "cn": "Saya sudah lama di Amerika, tapi setiap kali saya melihat bendera, mendengar musik, hari ini di Stadion Azteca, saya hampir menangis."
+    },
+    {
+      "speaker": "Hill",
+      "text": "I love it. So there is a lot of hope that the US team is going to bring fans just that same level of joy tonight. The World cup, of course, now officially in full swing. Game 1, Mexico defeating South Africa 2-0 in Mexico City. Tonight, the first games on US soil, Team USA taking on Paraguay. That's 9:00pm Eastern in Los Angeles. Carlos Bocanegra joins us now. He's the former captain of the US Men's National Soccer Team and also played for the team in the 2006 and 2010 World Cups, all right.",
+      "cn": "Saya suka perasaan ini. Jadi ada banyak harapan, Tim AS bisa memberikan kebahagiaan yang sama kepada para penggemar malam ini. Piala Dunia tentu saja sekarang resmi dimulai sepenuhnya. Pertandingan pertama, Meksiko mengalahkan Afrika Selatan 2-0 di Mexico City. Malam ini, pertandingan pertama di tanah AS, Tim AS melawan Paraguay. Jam 9 malam waktu Timur di Los Angeles. Carlos Bocanegra sekarang bergabung dengan kami. Dia adalah mantan kapten tim nasional putra AS, dan juga mewakili tim di Piala Dunia 2006 dan 2010, oke."
+    },
+    {
+      "speaker": "Hill",
+      "text": "First of all, let's call on that World cup experience. What is this moment like, right? The tournament finally kicks off. You're waiting all these years for it, what is the men's national team going through right now as they wait for that first match?",
+      "cn": "Pertama, mari kita bicara tentang pengalaman Piala Dunia. Seperti apa momen ini? Pertandingan akhirnya dimulai. Anda sudah menunggu bertahun-tahun, apa yang dialami tim nasional putra saat menunggu pertandingan pertama?"
+    },
+    {
+      "speaker": "Carlos Bocanegra",
+      "text": "A lot of excitement. I mean, these guys have been building up to it for a couple of years now. And so, you know, just for it to arrive that day, the butterflies, I think it's just going to be a release of emotion. And so, I think you'll see the first 10, 15 minutes, maybe a very hectic game, a very intense getting all their feelings out and getting all that energy out that they've been holding in. And it's on home soil, so it's got an even more special feeling to it.",
+      "cn": "Sangat bersemangat. Maksud saya, para pemain ini sudah mempersiapkan diri selama beberapa tahun. Jadi, ketika hari itu akhirnya tiba, ketegangan itu, saya pikir itu akan menjadi pelepasan emosi. Jadi, saya pikir Anda akan melihat 10-15 menit pertama pertandingan, mungkin pertandingan yang sangat kacau, sangat intens, mereka mengeluarkan semua emosi, melepaskan semua energi yang terkumpul. Dan ini di kandang sendiri, jadi terasa lebih istimewa."
+    },
+    {
+      "speaker": "Carlos Bocanegra",
+      "text": "Their friends, their family, you know, the whole country behind them. So it's going to be a really cool experience.",
+      "cn": "Teman, keluarga, dan seluruh negara mendukung mereka. Jadi ini akan menjadi pengalaman yang sangat keren."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Certainly when you're doing it right on US soil, talk to me about what you've seen in terms of the level of excitement. There was a real hope, right, that with the World Cup being in North America, especially in the. In the US that this would really kind of light a fire under the love of the game here in the United States. What have you seen over the last couple of years building up to this moment?",
+      "cn": "Tentu, ketika pertandingan berlangsung di tanah AS sendiri, ceritakan tentang kegembiraan yang Anda lihat. Orang-orang benar-benar punya harapan, kan? Piala Dunia diadakan di Amerika Utara, terutama di AS, ini benar-benar akan menyalakan kecintaan orang Amerika pada olahraga ini. Dalam beberapa tahun terakhir, apa yang Anda lihat, sebagai persiapan untuk momen ini?"
+    },
+    {
+      "speaker": "Bocanegra",
+      "text": "Yes. I have, I think, we had a runway since about 2018 when it got announced that we would host the World Cup here in 2026. So we've had a bit of a runway, and I think leagues like MLS soccer have really used this platform to kind of generate the buzz, but generate interest, investment, building infrastructure, attracting players to come play in the league. So it's done wonders for that.",
+      "cn": "Ya, saya pikir, sejak pengumuman pada 2018 bahwa kita akan menjadi tuan rumah Piala Dunia pada 2026, kita punya waktu persiapan. Jadi kita punya waktu persiapan, dan saya pikir liga seperti Major League Soccer benar-benar memanfaatkan platform ini untuk menciptakan kegembiraan, tetapi juga merangsang minat, investasi, pembangunan infrastruktur, menarik pemain untuk bermain di liga. Jadi ini efektif untuk liga."
+    },
+    {
+      "speaker": "Bocanegra",
+      "text": "The academy systems in our country have really propelled forward as well, which is super important because that's what ultimately develops the players and puts them into our leagues as well as putting them into the national teams. And I think now you see there's over 40 players that have gone through the MLS academies, and MLS that are playing in the tournament. Over 100 former and current MLS players playing in this tournament. And so, you know, it's there.",
+      "cn": "Sistem pembinaan muda negara kita juga telah membuat kemajuan besar, ini sangat penting karena pada akhirnya pembinaan muda menghasilkan pemain, membawa mereka ke liga kita, dan juga ke tim nasional. Saya pikir sekarang Anda bisa melihat ada lebih dari 40 pemain dari akademi MLS yang berpartisipasi dalam turnamen ini. Lebih dari 100 mantan pemain MLS dan pemain MLS aktif berpartisipasi dalam turnamen ini. Jadi, Anda lihat, inilah hasilnya."
+    },
+    {
+      "speaker": "Bocanegra",
+      "text": "The fandom is there, the excitement is there, and it's really helped propel the game in our country, where, you know, it's not the number one sport in the United States, which is OK. But, you know, for this month it is.",
+      "cn": "Basis penggemar ada di sana, kegembiraan ada di sana, ini benar-benar mendorong perkembangan olahraga ini di negara kita, meskipun ini bukan olahraga nomor satu di AS, tidak apa-apa. Tapi, selama bulan ini, ini adalah olahraga nomor satu."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes, for this month it is. It's interesting, I think, you know, among women, you see such an interest in women's soccer, and that has sort of exploded in a lot of ways when we look at the men. Walk me through what you're seeing in this moment. What do you see as the men's team strengths and weaknesses for Team USA? What are you expecting from these guys?",
+      "cn": "Ya, selama bulan ini. Menariknya, saya pikir, di kalangan wanita, minat pada sepak bola wanita begitu besar, dan dalam banyak hal, ketika kita melihat sepak bola pria, minat itu telah meledak. Ceritakan tentang apa yang Anda lihat saat ini. Menurut Anda, apa kekuatan dan kelemahan tim sepak bola pria AS? Apa yang Anda harapkan dari para pemain ini?"
+    },
+    {
+      "speaker": "Bocanegra",
+      "text": "Yes. The women have done a fantastic job, and that's been a great program. I think, you know, on the men's side, really still trying to win that first World Cup. But, you know, this team is energetic. They're one of the most talented teams we've ever had as a country. Now, that's -- individually, can we do it collectively? You know, we've got players in the attack that can get goals. You know, the midfield seems pretty strong.",
+      "cn": "Ya. Tim wanita melakukannya dengan sangat baik, itu adalah program yang hebat. Saya pikir, di sisi pria, kami masih berusaha memenangkan gelar Piala Dunia pertama. Tapi, tim ini penuh energi. Mereka adalah salah satu tim paling berbakat dalam sejarah AS. Namun, itu adalah kemampuan individu, bisakah kami melakukannya secara kolektif? Kami punya pemain yang bisa mencetak gol di lini depan. Lini tengah juga terlihat cukup kuat."
+    },
+    {
+      "speaker": "Bocanegra",
+      "text": "I think the questions right now are around the defense, and we have a situation with the goalkeeper. Matt Freese is probably going to be the number one. It looks like that was not settled maybe until a couple months ago, which has not been the case traditionally for US goalkeeper has been our strongest position. That doesn't mean Matt can't go out and have a fantastic tournament, but we will need him to have a big tournament. He's someone, I think, is flying under the radar.",
+      "cn": "Saya pikir masalah saat ini ada di pertahanan, dan kami juga punya situasi di posisi kiper. Matt Turner kemungkinan akan menjadi kiper utama. Tampaknya keputusan ini baru ditentukan beberapa bulan yang lalu, padahal secara tradisional kiper AS adalah posisi terkuat kami. Ini tidak berarti Matt tidak bisa tampil baik, tapi kami memang membutuhkannya untuk memainkan peran penting. Saya pikir dia adalah pemain yang diremehkan."
+    },
+    {
+      "speaker": "Bocanegra",
+      "text": "Great kid, great work ethic, and he's a good goalkeeper as well. So I think if he has a great tournament and sort of comes into his own, that's really going to give the backline some confidence and propel the team forward.",
+      "cn": "Dia anak yang baik, etos kerja bagus, dan juga kiper yang baik. Jadi saya pikir jika dia tampil baik, bermain sesuai levelnya, itu akan memberikan kepercayaan diri pada lini belakang dan mendorong tim maju."
+    },
+    {
+      "speaker": "Hill",
+      "text": "A lot of great soccer certainly out there for the next several weeks, and it's great to have it here so close to home. Carlos, thanks so much for coming in this morning.",
+      "cn": "Pasti akan ada banyak pertandingan sepak bola yang menarik dalam beberapa minggu ke depan, dan sangat menyenangkan bisa melihat pertandingan begitu dekat dari rumah. Carlos, terima kasih banyak sudah datang pagi ini."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Well, the National Park Service is now investigating a case of vandalism on the National Mall. So it appears a huge 8647, 8647 has somehow been etched into the grass on the mall just days before crowds, of course, are expected for the UFC fight at the White House. That phrase has been used to signal opposition to Trump. It's at the heart of an indictment of former FBI Director James Comey.",
+      "cn": "National Park Service sedang menyelidiki insiden vandalisme di National Mall. Beberapa hari sebelum kerumunan diperkirakan akan menuju ke Gedung Putih untuk menonton pertandingan UFC, di rumput tampak terukir tulisan besar \"8647\". Frasa ini pernah digunakan untuk menentang Trump dan juga menjadi inti dakwaan terhadap mantan Direktur FBI James Comey."
+    },
+    {
+      "speaker": "Hill",
+      "text": "A spokesman for the Department of the Interior, which actually manages the National Mall, described the markings as deranged vandalism, which will not be tolerated. The group chat is back. Elliot, as promised, I'm going to let you kick this one off.",
+      "cn": "Juru bicara Departemen Dalam Negeri yang sebenarnya mengelola National Mall menyebut tanda-tanda itu sebagai \"tindakan vandalisme gila\" dan tidak akan ditoleransi. Grup obrolan kembali. Elliott, sesuai janji, aku biarkan kamu mulai duluan."
+    },
+    {
+      "speaker": "Hill",
+      "text": "So in that same statement from the Interior Department, it went on to say, \"any threat against the president is taken very seriously by the department and that the US Park Police would investigate.\" Is this on the surface? And this really goes back to, you know, the discussion around James Comey, is this actually a threat against the president or is it just a protest?",
+      "cn": "Pernyataan yang sama dari Departemen Dalam Negeri juga mengatakan, \"Departemen sangat menanggapi serius setiap ancaman terhadap presiden, dan US Park Police akan menyelidiki.\" Ini secara permukaan sebenarnya kembali ke diskusi seputar James Comey, apakah ini ancaman terhadap presiden atau hanya bentuk protes?"
+    },
+    {
+      "speaker": "Elliot Williams",
+      "text": "I don't know. But on its face, it's not a threat against the president. But to be clear, and just the big picture on this is that free speech and free expression are always OK, threats never are. Now, the line between that can be quite blurry. And quite frankly, Erica, depends on context, right? If I'm at a baseball game and say, man, I'm going to kill this hot dog, that same statement has a very different meaning if I'm pointing a firearm at someone saying, man, I'm going to kill this person.",
+      "cn": "Aku tidak tahu. Tapi secara permukaan, ini bukan ancaman terhadap presiden. Namun yang jelas, dari gambaran besar, kebebasan berbicara dan berekspresi selalu diperbolehkan, ancaman tidak pernah. Batas antara keduanya bisa sangat kabur. Terus terang, Erica, itu tergantung konteksnya, kan? Jika aku berkata 'aku akan menghabisi hot dog ini' di pertandingan bisbol, dan jika aku menodongkan pistol ke seseorang dan berkata 'aku akan menghabisi orang ini', kata-kata yang sama memiliki arti yang sangat berbeda."
+    },
+    {
+      "speaker": "Elliot Williams",
+      "text": "And you have to look at, and investigators will have to look at the different circumstances surrounding any work of speech, including etching it into the lawn. It might have been whatever we think of this speech, it might have been just a form of speech by itself, or it actually could have been a threat. And I think that is for investigators and prosecutors to really take a close look at.",
+      "cn": "Kamu harus mempertimbangkan, dan penyidik juga harus mempertimbangkan situasi berbeda seputar setiap pernyataan, termasuk yang terukir di rumput. Bagaimanapun kita memandang pernyataan itu, itu bisa jadi hanya bentuk ekspresi, atau bisa juga benar-benar ancaman. Aku pikir ini perlu diteliti dengan saksama oleh penyidik dan jaksa."
+    },
+    {
+      "speaker": "Hill",
+      "text": "And Could be difficult to determine, Rob, quite honestly, right, because you also have to figure out who did it and when.",
+      "cn": "Dan mungkin sulit untuk memastikannya, Rob, sejujurnya, kan, karena kamu juga harus mencari tahu siapa yang melakukannya dan kapan."
+    },
+    {
+      "speaker": "Bluey",
+      "text": "That's true, Erica. And with all of the cameras that we have around Washington, DC you'd think that it might be relatively easy to figure out how this actually happened. I've seen some of the time lapse video. But, Erica, I'd also say that, you know, I think it's so sad that here we are, as we just talked about during this hour, the 250th anniversary of the United States, that something like this is what people who are visiting our nation's capital will see.",
+      "cn": "Benar, Erica. Mengingat ada begitu banyak kamera di sekitar Washington DC, kamu mungkin berpikir akan relatif mudah untuk mencari tahu bagaimana hal ini terjadi. Aku sudah melihat beberapa video time-lapse. Tapi Erica, aku juga ingin mengatakan, seperti yang kita bahas sejam ini, di peringatan 250 tahun Amerika, pengunjung yang datang ke ibu kota negara kita akan melihat pemandangan seperti ini, menurutku ini sangat menyedihkan."
+    },
+    {
+      "speaker": "Bluey",
+      "text": "But to end on a hopeful note, the US Catholic Bishops did just consecrate the United States to the Sacred Heart of Jesus. So maybe we could all just use a moment to reflect on some of the positive things that are happening in our country as this anniversary approaches.",
+      "cn": "Tapi untuk mengakhiri dengan penuh harapan, para uskup Katolik Amerika baru saja mendedikasikan Amerika kepada Hati Kudus Yesus. Jadi mungkin kita semua bisa meluangkan waktu untuk merenungkan beberapa hal positif yang terjadi di negara kita menjelang peringatan ini."
+    },
+    {
+      "speaker": "Hill",
+      "text": "That was an interesting turn, Rob. Maria, you've got the last 30 seconds.",
+      "cn": "Itu perubahan topik yang menarik, Rob. Maria, kamu punya 30 detik terakhir."
+    },
+    {
+      "speaker": "Cardona",
+      "text": "You know, I think that this is something that people should take a look at and say, let's try to come together. Let's actually try to come together for the country for the 250th anniversary. Let's try to do something that is completely the opposite of Donald Trump, and actually bring people together to celebrate our freedoms, to celebrate this country and the values it was founded on.",
+      "cn": "Aku pikir ini adalah hal yang harus diperhatikan orang dan katakan 'mari kita bersatu'. Mari kita benar-benar bersatu untuk negara, untuk peringatan 250 tahun. Mari kita lakukan sesuatu yang benar-benar berlawanan dengan Donald Trump, benar-benar menyatukan orang, merayakan kebebasan kita, merayakan negara ini dan nilai-nilai yang menjadi fondasinya."
+    },
+    {
+      "speaker": "Hill",
+      "text": "I would like to thank the three of you for coming together on this Friday morning, because it's always a pleasure to see all three of you. I hope you all have a great weekend. We'll see you soon. Cardona: Thanks, Erica.",
+      "cn": "Aku ingin berterima kasih kepada kalian bertiga sudah berkumpul pagi Jumat ini, karena melihat kalian bertiga selalu menyenangkan. Semoga akhir pekanmu menyenangkan. Sampai jumpa lagi. Cardona: Terima kasih, Erica."
+    },
+    {
+      "speaker": "Hill",
+      "text": "Thanks to all of you for joining us this morning, I'm Erica Hill. The headlines are next. var CNN = CNN || {};",
+      "cn": "Terima kasih semuanya sudah berpartisipasi pagi ini, aku Erica Hill. Selanjutnya berita utama."
+    }
+  ]
+}
