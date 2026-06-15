@@ -1,0 +1,960 @@
+{
+  "date": "2026-06-15",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-15/segment/01",
+  "summary": "សហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បានឈានដល់កិច្ចព្រមព្រៀងមួយ ដើម្បីបើកច្រកសមុទ្រហូមូសនៅថ្ងៃសុក្រ ប៉ុន្តែអ៊ីរ៉ង់ទាមទារឲ្យអាមេរិកដកការបិទផ្លូវសមុទ្រ បញ្ឈប់ប្រតិបត្តិការយោធា និងដោះលែងមូលនិធី ដោយភាគីអាមេរិកបដិសេធថាមិនបានផ្តល់ប្រាក់ភ្លាមៗទេ។ អតីតប្រធានាធិបតីអូបាម៉ាបានសួរអំពីប្រសិទ្ធភាពនៃកិច្ចព្រមព្រៀង។ អ៊ីស្រាអែលមិនពេញចិត្តដែលកិច្ចព្រមព្រៀងមិនគ្របដណ្តប់បញ្ហានុយក្លេអ៊ែរ និងកងកម្លាំងប្រូកស៊ី។ លើសពីនេះ យន្តហោះលោតឆ័ត្រយោងមួយបានធ្លាក់សម្លាប់មនុស្សទាំងអស់ សមាជិកព្រឹទ្ធសភាម៉ាក់ខនណែលបានចូលមន្ទីរពេទ្យ ចក្រភពអង់គ្លេសគ្រោងដាក់បម្រាមប្រព័ន្ធផ្សព្វផ្សាយសង្គម UFC ប្រកួតនៅលើស្មៅសេតវិមាន និងក្រុម Carolina Hurricanes ឈ្នះពាន Stanley Cup ។",
+  "vocabulary": [
+    {
+      "word": "Strait of Hormuz",
+      "phonetic": "/streɪt əv hɔːrˈmuːz/",
+      "pos": "专有名词",
+      "usage": "ផ្ទៃខាងក្រោយឈ្មោះឯកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ផ្ទៃខាងក្រោយឈ្មោះឯកទេស · កម្រិតខ្ពស់",
+      "cn": "ច្រកសមុទ្រហូមូស (ផ្លូវទឹកយុទ្ធសាស្ត្រតភ្ជាប់ឈូងសមុទ្រពែរ្ស និងមហាសមុទ្រឥណ្ឌា)",
+      "en": "a narrow strait between the Persian Gulf and the Gulf of Oman, crucial for global oil shipments",
+      "excerpt": "both the U.S. and Iran say there's an agreement to open the Strait of Hormuz on Friday.",
+      "example_cn": "សហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បាននិយាយថាពួកគេបានឈានដល់កិច្ចព្រមព្រៀងមួយដើម្បីបើកច្រកសមុទ្រហូមូសនៅថ្ងៃសុក្រ។",
+      "audio_url": "output/audio/vocab/2026-06-15/strait-of-hormuz-86ad5d19.mp3"
+    },
+    {
+      "word": "negotiator",
+      "phonetic": "/nɪˈɡoʊʃieɪtər/",
+      "pos": "名词",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "អ្នកចរចា",
+      "en": "a person who conducts negotiations",
+      "excerpt": "The Iranians are incredibly difficult negotiators.",
+      "example_cn": "ជនជាតិអ៊ីរ៉ង់គឺជាអ្នកចរចាដ៏ពិបាកបំផុត។",
+      "audio_url": "output/audio/vocab/2026-06-15/negotiator-f7a6194f.mp3"
+    },
+    {
+      "word": "sour grapes",
+      "phonetic": "/saʊər ɡreɪps/",
+      "pos": "习语",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · កម្រិតមធ្យម",
+      "cn": "ចិត្តជូរចត់ដូចទំពាំងបាយជូរ (បន្ទាបតម្លៃព្រោះមិនអាចទទួលបាន)",
+      "en": "an expression meaning to disparage something one cannot have",
+      "excerpt": "True or just sour grapes?",
+      "example_cn": "នេះជាការពិត ឬជាចិត្តជូរចត់ដូចទំពាំងបាយជូរ?",
+      "audio_url": "output/audio/vocab/2026-06-15/sour-grapes-7fc867ec.mp3"
+    },
+    {
+      "word": "skydiver",
+      "phonetic": "/ˈskaɪdaɪvər/",
+      "pos": "名词",
+      "usage": "ការប្រើប្រាស់ប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "សង្គម និងជីវភាពប្រជាជន",
+      "level": "ការប្រើប្រាស់ប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "អ្នកលោតឆ័ត្រយោង",
+      "en": "a person who performs skydiving",
+      "excerpt": "A plane full of skydivers crashes right after takeoff.",
+      "example_cn": "យន្តហោះដឹកអ្នកលោតឆ័ត្រយោងពេញមួយគ្រឿងបានធ្លាក់ភ្លាមៗបន្ទាប់ពីហោះឡើង។",
+      "audio_url": "output/audio/vocab/2026-06-15/skydiver-2c1bd4de.mp3"
+    },
+    {
+      "word": "hospitalized",
+      "phonetic": "/ˈhɑːspɪtəlaɪzd/",
+      "pos": "形容词",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "សង្គម និងជីវភាពប្រជាជន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · មូលដ្ឋាន",
+      "cn": "កំពុងសម្រាកព្យាបាលនៅមន្ទីរពេទ្យ",
+      "en": "admitted to a hospital for treatment",
+      "excerpt": "Senator Mitch McConnell hospitalized.",
+      "example_cn": "សមាជិកព្រឹទ្ធសភា មីឈី ម៉ាក់ខនណែល កំពុងសម្រាកព្យាបាលនៅមន្ទីរពេទ្យ។",
+      "audio_url": "output/audio/vocab/2026-06-15/hospitalized-f0c1bfff.mp3"
+    },
+    {
+      "word": "social media ban",
+      "phonetic": "/ˈsoʊʃl ˈmiːdiə bæn/",
+      "pos": "名词短语",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សង្គម និងជីវភាពប្រជាជន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការហាមឃាត់ប្រព័ន្ធផ្សព្វផ្សាយសង្គម",
+      "en": "a prohibition on the use of social media platforms",
+      "excerpt": "But will a new social media ban actually work?",
+      "example_cn": "ប៉ុន្តែការហាមឃាត់ប្រព័ន្ធផ្សព្វផ្សាយសង្គមថ្មីនេះពិតជាមានប្រសិទ្ធភាពឬទេ?",
+      "audio_url": "output/audio/vocab/2026-06-15/social-media-ban-755b73b7.mp3"
+    },
+    {
+      "word": "UFC",
+      "phonetic": "/juː ef siː/",
+      "pos": "专有名词",
+      "usage": "ព័ត៌មានផ្ទៃខាងក្រោយឈ្មោះឯកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "វប្បធម៌ និងកីឡា",
+      "level": "ព័ត៌មានផ្ទៃខាងក្រោយឈ្មោះឯកទេស · កម្រិតខ្ពស់",
+      "cn": "ការប្រកួតជើងឯកចំបាប់ចុងក្រោយ (Ultimate Fighting Championship)",
+      "en": "a mixed martial arts promotion company",
+      "excerpt": "UFC fight night at the White House lawn.",
+      "example_cn": "រាត្រីប្រយុទ្ធ UFC ត្រូវបានប្រារព្ធឡើងនៅលើស្មៅមុខសេតវិមាន។",
+      "audio_url": "output/audio/vocab/2026-06-15/ufc-994dd593.mp3"
+    },
+    {
+      "word": "Stanley Cup",
+      "phonetic": "/ˈstænli kʌp/",
+      "pos": "专有名词",
+      "usage": "ព័ត៌មានផ្ទៃខាងក្រោយឈ្មោះឯកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "វប្បធម៌ និងកីឡា",
+      "level": "ព័ត៌មានផ្ទៃខាងក្រោយឈ្មោះឯកទេស · កម្រិតខ្ពស់",
+      "cn": "Stanley Cup (ពានរង្វាន់ជើងឯក NHL)",
+      "en": "the championship trophy awarded annually to the National Hockey League (NHL) playoff winner",
+      "excerpt": "the Carolina Hurricanes are Stanley Cup champions.",
+      "example_cn": "ក្រុម Carolina Hurricanes គឺជាជើងឯក Stanley Cup។",
+      "audio_url": "output/audio/vocab/2026-06-15/stanley-cup-323482f2.mp3"
+    },
+    {
+      "word": "shutout",
+      "phonetic": "/ˈʃʌtaʊt/",
+      "pos": "名词",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "វប្បធម៌ និងកីឡា",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "shutout (ក្នុងកីឡា ក្រុមមួយមិនបានពិន្ទុ)",
+      "en": "a game in which the opposing team fails to score",
+      "excerpt": "capping off the season with a shutout over the Las Vegas Golden Knights.",
+      "example_cn": "បញ្ចប់រដូវកាលដោយការឈ្នះ shutout លើក្រុម Vegas Golden Knights។",
+      "audio_url": "output/audio/vocab/2026-06-15/shutout-6d112a1b.mp3"
+    },
+    {
+      "word": "diplomatic breakthrough",
+      "phonetic": "/ˌdɪpləˈmætɪk ˈbreɪkθruː/",
+      "pos": "名词短语",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "diplomatic breakthrough (ការទម្លាយផ្នែកការទូត)",
+      "en": "a significant advance in diplomatic relations",
+      "excerpt": "A diplomatic breakthrough: The U.S. and Iran say they have reached a deal.",
+      "example_cn": "ការទម្លាយផ្នែកការទូត៖ សហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បាននិយាយថាពួកគេបានឈានដល់កិច្ចព្រមព្រៀងមួយ។"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "名词",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "យោធា និងសន្តិសុខ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ceasefire; truce (បទឈប់បាញ់)",
+      "en": "a temporary suspension of fighting",
+      "excerpt": "Sometimes these ceasefires take a little bit of time to take root.",
+      "example_cn": "ពេលខ្លះ បទឈប់បាញ់ទាំងនេះត្រូវការពេលវេលាបន្តិចដើម្បីចាក់ឫស។",
+      "audio_url": "output/audio/vocab/2026-06-15/ceasefire-dcd3a293.mp3"
+    },
+    {
+      "word": "kumbaya",
+      "phonetic": "/ˌkʊmˈbaɪə/",
+      "pos": "名词",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · កម្រិតខ្ពស់",
+      "cn": "Kumbaya (ច្រៀងសរសើរដោយសន្តិភាព ច្រើនតែសំដៅលើសុទិដ្ឋិនិយមមិនប្រាកដនិយម)",
+      "en": "used ironically to refer to a naive or overly optimistic view of harmony",
+      "excerpt": "I'm not going to say that everybody is going to sing kumbaya tomorrow.",
+      "example_cn": "ខ្ញុំមិននិយាយថាថ្ងៃស្អែកអ្នករាល់គ្នានឹងច្រៀង Kumbaya ទេ។"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "名词短语",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់",
+      "cn": "អនុស្សរណៈនៃការយោគយល់គ្នា (MOU, កិច្ចព្រមព្រៀងក្រៅផ្លូវការ)",
+      "en": "a non-binding agreement outlining the terms of a deal",
+      "excerpt": "This memorandum of understanding was reached, despite our complete distrust of our enemies.",
+      "example_cn": "ទោះបីជាយើងមិនទុកចិត្តសត្រូវទាំងស្រុងក៏ដោយ ក៏អនុស្សរណៈនៃការយោគយល់គ្នានេះត្រូវបានសម្រេច។"
+    },
+    {
+      "word": "implementation",
+      "phonetic": "/ˌɪmplɪmenˈteɪʃn/",
+      "pos": "名词",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "អនុវត្ត; ប្រតិបត្តិ",
+      "en": "the process of putting a decision or plan into effect",
+      "excerpt": "We have specific plans in place to monitor the implementation of U.S. commitments.",
+      "example_cn": "យើងមានផែនការជាក់លាក់ដើម្បីត្រួតពិនិត្យការអនុវត្តការសន្យារបស់អាមេរិក។"
+    },
+    {
+      "word": "derail",
+      "phonetic": "/dɪˈreɪl/",
+      "pos": "动词",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ធ្វើឱ្យឃ្លាតចេញពីផ្លូវ; បំផ្លាញ (ផែនការ ដំណើរការ)",
+      "en": "to obstruct or prevent (a process) from continuing",
+      "excerpt": "So, could this derail things?",
+      "example_cn": "ដូច្នេះ តើនេះអាចបំផ្លាញអ្វីៗបានទេ?"
+    },
+    {
+      "word": "hardline",
+      "phonetic": "/ˈhɑːrdlaɪn/",
+      "pos": "形容词",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "តឹងតែង; មិនចុះសម្រុង",
+      "en": "uncompromising; strict",
+      "excerpt": "this regime, in particular, is more hardline than the previous regime.",
+      "example_cn": "របបនេះគឺតឹងតែងជាងរបបមុនៗ។"
+    },
+    {
+      "word": "thorny",
+      "phonetic": "/ˈθɔːrni/",
+      "pos": "形容词",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ពិបាក; មានបញ្ហា",
+      "en": "causing difficulty; problematic",
+      "excerpt": "It does not address the thorniest issues.",
+      "example_cn": "វាមិនបានដោះស្រាយបញ្ហាដែលពិបាកបំផុតនោះទេ។"
+    },
+    {
+      "word": "highly enriched uranium",
+      "phonetic": "/ˈhaɪli ɪnˈrɪtʃt jʊˈreɪniəm/",
+      "pos": "名词短语",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់",
+      "cn": "អ៊ុយរ៉ាញ៉ូមដែលមានកំហាប់ខ្ពស់ (អាចប្រើសម្រាប់អាវុធនុយក្លេអ៊ែរ)",
+      "en": "uranium with a high concentration of the isotope U-235, suitable for nuclear weapons",
+      "excerpt": "the highly enriched uranium that is still sitting in Iran.",
+      "example_cn": "អ៊ុយរ៉ាញ៉ូមដែលមានកំហាប់ខ្ពស់នៅតែមាននៅក្នុងប្រទេសអ៊ីរ៉ង់។"
+    },
+    {
+      "word": "kinetic action",
+      "phonetic": "/kɪˈnetɪk ˈækʃn/",
+      "pos": "名词短语",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់",
+      "cn": "ប្រតិបត្តិការយោធា (ពាក្យសុភាព សំដៅលើការប្រើកម្លាំង)",
+      "en": "military action involving the use of force",
+      "excerpt": "the United States is not going to want to start up kinetic action right before the midterms.",
+      "example_cn": "សហរដ្ឋអាមេរិកមិនចង់ចាប់ផ្តើមប្រតិបត្តិការយោធាមុនការបោះឆ្នោតពាក់កណ្តាលអាណត្តិទេ។"
+    },
+    {
+      "word": "midterms",
+      "phonetic": "/ˈmɪdtɜːrmz/",
+      "pos": "名词",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ (ការបោះឆ្នោតសភាសហរដ្ឋអាមេរិក)",
+      "en": "elections held in the middle of a presidential term",
+      "excerpt": "right before the midterms.",
+      "example_cn": "មុនពេលការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ។"
+    },
+    {
+      "word": "crossfire",
+      "phonetic": "/ˈkrɔːsfaɪər/",
+      "pos": "名词",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ការបាញ់ឆ្លងគ្នា; ការប្រយុទ្ធគ្នា",
+      "en": "gunfire from two or more directions",
+      "excerpt": "if a drone is launched from Iran or there's crossfire between the two sides.",
+      "example_cn": "ប្រសិនបើអ៊ីរ៉ង់បាញ់យន្តហោះគ្មានមនុស្សបើក ឬភាគីទាំងពីរមានការបាញ់ឆ្លងគ្នា។"
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɑːksi/",
+      "pos": "名词",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ភ្នាក់ងារ; តំណាង (ដូចជា សង្គ្រាមភ្នាក់ងារ)",
+      "en": "a person or entity authorized to act on behalf of another",
+      "excerpt": "proxies like Hezbollah.",
+      "example_cn": "ដូចជាភ្នាក់ងាររបស់ Hezbollah ជាដើម។",
+      "audio_url": "output/audio/vocab/2026-06-15/proxy-d799bae6.mp3"
+    },
+    {
+      "word": "ballistic missile",
+      "phonetic": "/bəˈlɪstɪk ˈmɪsaɪl/",
+      "pos": "名词短语",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់",
+      "cn": "មីស៊ីលផ្លោង",
+      "en": "a missile that follows a ballistic trajectory",
+      "excerpt": "It doesn't even talk about ballistic missiles.",
+      "example_cn": "វាមិនបាននិយាយអំពីមីស៊ីលផ្លោងទេ។"
+    },
+    {
+      "word": "JCPOA",
+      "phonetic": "/dʒeɪ siː piː oʊ eɪ/",
+      "pos": "专有名词",
+      "usage": "ព័ត៌មានផ្ទៃខាងក្រោយនៃឈ្មោះ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ព័ត៌មានផ្ទៃខាងក្រោយនៃឈ្មោះ · កម្រិតខ្ពស់",
+      "cn": "ផែនការសកម្មភាពរួមគ្រប់ជ្រុងជ្រោយ (កិច្ចព្រមព្រៀងនុយក្លេអ៊ែរអ៊ីរ៉ង់)",
+      "en": "Joint Comprehensive Plan of Action, the 2015 nuclear deal with Iran",
+      "excerpt": "you might not have agreed with the JCPOA.",
+      "example_cn": "អ្នកប្រហែលជាមិនយល់ស្របនឹងផែនការសកម្មភាពរួមគ្រប់ជ្រុងជ្រោយទេ។"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Today in the group chat, both the U.S. and Iran say there's an agreement to open the Strait of Hormuz on Friday.",
+      "cn": "ថ្ងៃនេះនៅក្នុងការពិភាក្សាជាក្រុម ទាំងសហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បាននិយាយថាពួកគេបានឈានដល់កិច្ចព្រមព្រៀងមួយដើម្បីបើកច្រកសមុទ្រហ៊័រម៉ុសនៅថ្ងៃសុក្រ។",
+      "structure": "ប្រយោគចម្បង (both the U.S. and Iran say) + ប្រយោគបន្ទាប់បន្សំ (there's an agreement to open the Strait of Hormuz on Friday) ដោយមានពេលវេលានៅដើមប្រយោគ។",
+      "analysis": "ការបញ្ចេញមតិបង្រួមក្នុងព័ត៌មាន៖ 'group chat' សំដៅលើផ្នែកពិភាក្សាក្នុងកម្មវិធី; 'there's an agreement to open' ជារចនាសម្ព័ន្ធ there be ដោយ infinitive បង្ហាញគោលបំណង។"
+    },
+    {
+      "en": "A plane full of skydivers crashes right after takeoff, killing everyone on board.",
+      "cn": "យន្តហោះពេញទៅដោយអ្នកលោតឆ័ត្រយោងបានធ្លាក់ភ្លាមៗបន្ទាប់ពីហោះឡើង ដោយបានសម្លាប់មនុស្សទាំងអស់នៅលើយន្តហោះ។",
+      "structure": "ប្រយោគចម្បង (A plane full of skydivers crashes right after takeoff) + កន្សោមអម (killing everyone on board) ដោយ present participle phrase បង្ហាញលទ្ធផល។",
+      "analysis": "កន្សោម participle ជាកន្សោមលទ្ធផល៖ 'killing everyone on board' ពន្យល់បន្ថែមពីផលវិបាកនៃការធ្លាក់; 'full of skydivers' ជា adjective phrase ដាក់ក្រោយគុណនាម។"
+    },
+    {
+      "en": "In the U.K., they want to give their kids their childhood back.",
+      "cn": "នៅចក្រភពអង់គ្លេស ពួកគេចង់ឲ្យកូនៗរបស់ពួកគេមានកុមារភាពវិញ។",
+      "structure": "កន្សោមទីកន្លែង (In the U.K.) + ប្រយោគចម្បង (they want to give their kids their childhood back) ជារចនាសម្ព័ន្ធទ្វេវត្ថុ។",
+      "analysis": "ទ្វេវត្ថុ៖ 'give their kids their childhood back' ក្នុងនោះ 'their kids' ជាវត្ថុប្រយោល 'their childhood back' ជាវត្ថុផ្ទាល់; 'back' ជាគុណកិរិយាបង្ហាញការត្រឡប់មកវិញ។"
+    },
+    {
+      "en": "A diplomatic breakthrough: The U.S. and Iran say they have reached a deal to end the war and to reopen the strait of Hormuz.",
+      "cn": "របកគំហើញការទូត៖ សហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បាននិយាយថាពួកគេបានឈានដល់កិច្ចព្រមព្រៀងមួយដើម្បីបញ្ចប់សង្គ្រាម និងបើកច្រកសមុទ្រហ៊័រម៉ុសឡើងវិញ។",
+      "structure": "រចនាសម្ព័ន្ធសមភាព (A diplomatic breakthrough) + ប្រយោគចម្បង (The U.S. and Iran say) + ប្រយោគបន្ទាប់បន្សំ (they have reached a deal to end the war and to reopen the strait of Hormuz) ដោយ infinitive ភ្ជាប់គ្នាជាគុណនាម។",
+      "analysis": "Infinitive ភ្ជាប់គ្នាជាគុណនាមដាក់ក្រោយ៖ 'to end the war and to reopen the strait of Hormuz' ពន្យល់ 'deal'; សញ្ញាចុចពីរចំណុចបង្ហាញខ្លឹមសារលម្អិត។"
+    },
+    {
+      "en": "Sometimes these ceasefires take a little bit of time to take root.",
+      "cn": "ពេលខ្លះកិច្ចព្រមព្រៀងឈប់បាញ់ទាំងនេះត្រូវការពេលវេលាបន្តិចដើម្បីចាក់ឫស។",
+      "structure": "ប្រយោគសំខាន់ (these ceasefires take a little bit of time) + កន្សោមគ្មានកំណត់ជាកិរិយាវិសេស (to take root)។",
+      "analysis": "ពាក្យផ្សំថេរ៖ 'take time to do sth.' មានន័យថា \"ចំណាយពេលធ្វើអ្វីមួយ\" ; 'take root' ជាពាក្យប្រៀបធៀបមានន័យថា \"ចាក់ឫស, មានប្រសិទ្ធភាព\"។"
+    },
+    {
+      "en": "I'm not going to say that everybody is going to sing kumbaya tomorrow.",
+      "cn": "ខ្ញុំមិននិយាយថាថ្ងៃស្អែកអ្នករាល់គ្នានឹងច្រៀងបទ Kumbaya ទេ។",
+      "structure": "ប្រយោគសំខាន់ (I'm not going to say) + ប្រយោគបន្ទាប់បន្សំធ្វើជាកម្មបទ (that everybody is going to sing kumbaya tomorrow)។",
+      "analysis": "ការយោងវប្បធម៌៖ 'sing kumbaya' មកពីបទចម្រៀងប្រជាប្រិយ តែងតែប្រើដើម្បីនិយាយចំអកពីភាពសុខដុមរមនា ឬការរួបរួមដែលមិនប្រាកដនិយម ; 'be going to' បង្ហាញអនាគតកាល។"
+    },
+    {
+      "en": "But I do think we took a major, major step.",
+      "cn": "ប៉ុន្តែខ្ញុំពិតជាគិតថាយើងបានបោះជំហានដ៏សំខាន់មួយ។",
+      "structure": "ប្រយោគសំខាន់ (I do think) + ប្រយោគបន្ទាប់បន្សំធ្វើជាកម្មបទ (we took a major, major step) 'do' ជាកិរិយាសព្ទជំនួយសម្រាប់បញ្ជាក់។",
+      "analysis": "រចនាសម្ព័ន្ធបញ្ជាក់៖ 'do' ប្រើដើម្បីបញ្ជាក់កិរិយាសព្ទ 'think' ; 'major, major' ធ្វើម្តងទៀតដើម្បីបង្ហាញពីកម្រិតកាន់តែខ្លាំង។"
+    },
+    {
+      "en": "Tehran saying that 60 days of nuclear negotiations will begin once the U.S. meets three commitments.",
+      "cn": "ទីក្រុងតេហេរ៉ង់បាននិយាយថា នៅពេលដែលសហរដ្ឋអាមេរិកបំពេញការសន្យាចំនួនបី ការចរចានុយក្លេអ៊ែររយៈពេល 60 ថ្ងៃនឹងចាប់ផ្តើម។",
+      "structure": "រចនាសម្ព័ន្ធឯករាជ្យ (Tehran saying) + ប្រយោគបន្ទាប់បន្សំធ្វើជាកម្មបទ (that 60 days of nuclear negotiations will begin once the U.S. meets three commitments) 'once' នាំប្រយោគបន្ទាប់បន្សំបង្ហាញពេលវេលា។",
+      "analysis": "រចនាសម្ព័ន្ធឯករាជ្យ៖ 'Tehran saying' ជារចនាសម្ព័ន្ធឯករាជ្យនៃកិរិយាសព្ទបច្ចុប្បន្នកាល ស្មើនឹង 'Tehran says' ; 'once' នាំប្រយោគបន្ទាប់បន្សំបង្ហាញលក្ខខណ្ឌ មានន័យថា \"នៅពេលដែល\"។"
+    },
+    {
+      "en": "This memorandum of understanding was reached, despite our complete distrust of our enemies.",
+      "cn": "អនុស្សរណៈនៃការយោគយល់នេះត្រូវបានឈានដល់ ទោះបីជាយើងមិនទុកចិត្តសត្រូវរបស់យើងទាំងស្រុងក៏ដោយ។",
+      "structure": "ប្រយោគសំខាន់ (This memorandum of understanding was reached) + កន្សោមបង្ហាញការប្រឆាំង (despite our complete distrust of our enemies)។",
+      "analysis": "កន្សោមបុព្វបទបង្ហាញការប្រឆាំង៖ 'despite' តាមដោយកន្សោមនាម ; 'distrust of' ជាពាក្យផ្សំថេរ មានន័យថា \"ការមិនទុកចិត្តចំពោះ\"។"
+    },
+    {
+      "en": "Our trust lies in our military strength, our diplomatic capabilities, and the support and unity of our own people.",
+      "cn": "ការទុកចិត្តរបស់យើងគឺស្ថិតនៅលើកម្លាំងយោធា សមត្ថភាពការទូត និងការគាំទ្រ និងការរួបរួមរបស់ប្រជាជនយើង។",
+      "structure": "ប្រយោគសំខាន់ (Our trust lies in) + កម្មបទផ្សំ (our military strength, our diplomatic capabilities, and the support and unity of our own people)។",
+      "analysis": "រចនាសម្ព័ន្ធផ្សំ៖ កន្សោមនាមបីផ្សំគ្នាធ្វើជាកម្មបទរបស់ 'lies in' ; 'lie in' មានន័យថា \"ស្ថិតនៅលើ\"។"
+    },
+    {
+      "en": "That is why the implementation of this memorandum of understanding is extremely important.",
+      "cn": "នោះហើយជាមូលហេតុដែលការអនុវត្តអនុស្សរណៈនៃការយោគយល់នេះមានសារៈសំខាន់ខ្លាំងណាស់។",
+      "structure": "ប្រយោគសំខាន់ (That is) + ប្រយោគបន្ទាប់បន្សំធ្វើជាផ្នែកកំណត់ (why the implementation of this memorandum of understanding is extremely important)។",
+      "analysis": "ប្រយោគបន្ទាប់បន្សំធ្វើជាផ្នែកកំណត់៖ 'why' នាំប្រយោគបន្ទាប់បន្សំធ្វើជាផ្នែកកំណត់របស់ 'is' ពន្យល់ពីមូលហេតុ ; 'implementation of' ជាកន្សោមនាម។"
+    },
+    {
+      "en": "But a U.S. official is saying that no funds will be released before Iran implements its commitments.",
+      "cn": "ប៉ុន្តែមន្ត្រីអាមេរិកម្នាក់បាននិយាយថា គ្មានមូលនិធិណាមួយនឹងត្រូវបានដោះលែង មុនពេលអ៊ីរ៉ង់អនុវត្តការសន្យារបស់ខ្លួននោះទេ។",
+      "structure": "ប្រយោគសំខាន់ (a U.S. official is saying) + ប្រយោគបន្ទាប់បន្សំធ្វើជាកម្មបទ (that no funds will be released before Iran implements its commitments) 'before' នាំប្រយោគបន្ទាប់បន្សំបង្ហាញពេលវេលា។",
+      "analysis": "ប្រយោគបន្ទាប់បន្សំបង្ហាញពេលវេលា៖ 'before' នាំប្រយោគបន្ទាប់បន្សំមានន័យថា \"មុនពេល\" ; 'release funds' មានន័យថា \"ដោះលែងមូលនិធិ\"។"
+    },
+    {
+      "en": "The Iranians are incredibly difficult negotiators, coupled with the fact that they're having a very hard time getting guidance from their supreme leader.",
+      "cn": "ជនជាតិអ៊ីរ៉ង់គឺជាអ្នកចរចាដ៏ពិបាកខ្លាំង បូករួមទាំងពួកគេពិបាកទទួលបានការណែនាំពីមេដឹកនាំកំពូល។",
+      "structure": "ប្រយោគដើម (The Iranians are incredibly difficult negotiators) + កន្សោមអម (coupled with the fact that...), 'that' ដឹកនាំឃ្លាបន្ទាប់បន្សំពន្យល់នាម។",
+      "analysis": "កន្សោមអតីតកាលបច្ចុប្បន្នជាកន្សោមអម: 'coupled with' មានន័យថា \"បូករួមទាំង\"; ឃ្លាបន្ទាប់បន្សំពន្យល់នាម 'that they're having a very hard time getting guidance' ពន្យល់ 'the fact'។"
+    },
+    {
+      "en": "And they're not always on the same page within their team, between the civilians and military.",
+      "cn": "ហើយនៅក្នុងក្រុមរបស់ពួកគេ រវាងអ្នកស៊ីវិល និងយោធា ក៏មិនតែងតែយល់ស្របគ្នាដែរ។",
+      "structure": "ប្រយោគដើម (they're not always on the same page) + កន្សោមទីកន្លែង (within their team, between the civilians and military)។",
+      "analysis": "ឃ្លាថេរ: 'on the same page' មានន័យថា \"យល់ស្របគ្នា\"; 'between...and...' បង្ហាញពីវិសាលភាព។"
+    },
+    {
+      "en": "I think what's interesting about this memorandum of understanding, or this new agreement, is it's only there to open the straits.",
+      "cn": "ខ្ញុំគិតថាអ្វីដែលគួរឱ្យចាប់អារម្មណ៍អំពីអនុស្សរណៈនៃការយោគយល់នេះ ឬកិច្ចព្រមព្រៀងថ្មីនេះ គឺវាមានត្រឹមតែដើម្បីបើកច្រកសមុទ្រប៉ុណ្ណោះ។",
+      "structure": "ប្រយោគដើម (I think) + ឃ្លាបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុ (what's interesting about this memorandum of understanding, or this new agreement, is it's only there to open the straits) ដែល 'what' ដឹកនាំឃ្លាបន្ទាប់បន្សំធ្វើជាប្រធាន, 'is' បន្ទាប់ជាឃ្លាបន្ទាប់បន្សំធ្វើជាបរិវារ។",
+      "analysis": "ឃ្លាបន្ទាប់បន្សំធ្វើជាប្រធាន: 'what's interesting...' ធ្វើជាប្រធាន; 'or this new agreement' ជាពាក្យបញ្ចូល ពន្យល់ 'memorandum of understanding'; 'only there to' បង្ហាញគោលបំណង។"
+    },
+    {
+      "en": "It does not address the thorniest issues, which we know Iran is really going to drag its feet on, which are the nuclear -- its nuclear program and the highly enriched uranium that is still sitting in Iran.",
+      "cn": "វាមិនដោះស្រាយបញ្ហាដែលពិបាកបំផុត ដែលយើងដឹងថាអ៊ីរ៉ង់នឹងពន្យារពេលដោយចេតនា គឺកម្មវិធីនុយក្លេអ៊ែររបស់ខ្លួន និងសារធាតុអ៊ុយរ៉ាញ៉ូមដែលមានកំហាប់ខ្ពស់ដែលនៅតែរក្សាទុកនៅអ៊ីរ៉ង់។",
+      "structure": "ប្រយោគដើម (It does not address the thorniest issues) + ឃ្លាបន្ទាប់បន្សំពន្យល់នាមមិនកំណត់ (which we know Iran is really going to drag its feet on) + ឃ្លាបន្ទាប់បន្សំពន្យល់នាមមិនកំណត់មួយទៀត (which are the nuclear...) ដែល 'that' ដឹកនាំឃ្លាបន្ទាប់បន្សំពន្យល់ 'uranium'។",
+      "analysis": "ឃ្លាបន្ទាប់បន្សំពន្យល់នាមដាក់ជាប់គ្នា: 'which' ទីមួយសំដៅលើ 'issues', 'which' ទីពីរសំដៅលើ 'thorniest issues'; 'drag one's feet on' មានន័យថា \"ពន្យារពេលដោយចេតនា\"; 'highly enriched uranium' ជាពាក្យបច្ចេកទេស។"
+    },
+    {
+      "en": "And Iran, like -- like Mike Waltz was saying, Iran knows how to play the game to draw the United States out.",
+      "cn": "ហើយអ៊ីរ៉ង់ ដូចដែលលោក Mike Waltz បាននិយាយ អ៊ីរ៉ង់ដឹងពីរបៀបលេងល្បែងនេះដើម្បីទាក់ទាញសហរដ្ឋអាមេរិកឱ្យចេញមក។",
+      "structure": "ពាក្យបញ្ចូល (like Mike Waltz was saying) + ប្រយោគដើម (Iran knows how to play the game to draw the United States out), 'how to' ជារចនាសម្ព័ន្ធពាក្យសួរ + កិរិយាសព្ទគ្មានកំណត់។",
+      "analysis": "ពាក្យបញ្ចូល: 'like Mike Waltz was saying' បង្ហាញការដកស្រង់; 'play the game' ប្រៀបធៀប \"ប្រើយុទ្ធសាស្ត្រ\"; 'draw...out' មានន័យថា \"ទាក់ទាញ, បញ្ចេញ\"។"
+    },
+    {
+      "en": "If we're talking about negotiating, at minimum, within 60 days, that is bringing us up right up to the midterms.",
+      "cn": "ប្រសិនបើយើងកំពុងនិយាយអំពីការចរចា យ៉ាងហោចណាស់ក្នុងរយៈពេល 60 ថ្ងៃ នោះនឹងនាំយើងទៅដល់ការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ។",
+      "structure": "ឃ្លាលក្ខខណ្ឌ (If we're talking about negotiating) + ពាក្យបញ្ចូល (at minimum) + ប្រយោគដើម (that is bringing us up right up to the midterms), 'within 60 days' ជាកន្សោមពេលវេលា។",
+      "analysis": "ប្រយោគលក្ខខណ្ឌ: 'if' ដឹកនាំលក្ខខណ្ឌពិត; 'at minimum' ជាពាក្យបញ្ចូល មានន័យថា \"យ៉ាងហោចណាស់\"; 'bring up to' មានន័យថា \"នាំទៅដល់\"; 'midterms' សំដៅលើការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ។"
+    },
+    {
+      "en": "And I think Iran knows that the United States is not going to want to start up kinetic action right before the midterms, right before voting starts.",
+      "cn": "ហើយខ្ញុំគិតថាអ៊ីរ៉ង់ដឹងថាសហរដ្ឋអាមេរិកនឹងមិនចង់ចាប់ផ្តើមសកម្មភាពយោធាមុនពេលការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ មុនពេលការបោះឆ្នោតចាប់ផ្តើមនោះទេ។",
+      "structure": "ប្រយោគដើម (I think) + ឃ្លាបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុ (Iran knows that...), 'that' ដឹកនាំឃ្លាបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុ ដែល 'right before' ដឹកនាំកន្សោមពេលវេលា។",
+      "analysis": "ឃ្លាបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុច្រើនស្រទាប់: 'Iran knows' បន្ទាប់ដោយ 'that' clause; 'kinetic action' ជាពាក្យយោធា មានន័យថា \"សកម្មភាពយោធា\"; 'right before' សង្កត់ធ្ងន់ \"មុនពេល...\"។"
+    },
+    {
+      "en": "I think both sides could say today that the strait is open and that they're clearing the mines from the strait.",
+      "cn": "ខ្ញុំគិតថាភាគីទាំងពីរអាចនិយាយបាននៅថ្ងៃនេះថាច្រកសមុទ្របើកហើយ ហើយពួកគេកំពុងសម្អាតមីននៅក្នុងច្រកសមុទ្រ។",
+      "structure": "ប្រយោគដើម (I think) + ឃ្លាបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុ (both sides could say today that...and that...), 'that' ពីរដឹកនាំឃ្លាបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុស្របគ្នា។",
+      "analysis": "ឃ្លាបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុស្របគ្នា: 'that' clauses ពីរស្របគ្នាជាកម្មវត្ថុរបស់ 'say'; 'clear the mines' មានន័យថា \"សម្អាតមីន\"។"
+    }
+  ],
+  "topics": [
+    {
+      "title": "កិច្ចព្រមព្រៀងច្រកសមុទ្រហ័រម៉ុសរវាងអាមេរិក និងអ៊ីរ៉ង់",
+      "content": "សហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បានចុះហត្ថលេខាលើអនុស្សរណៈនៃការយោគយល់គ្នា ដោយគ្រោងនឹងបើកច្រកសមុទ្រហ័រម៉ុស (Strait of Hormuz) នៅថ្ងៃសុក្រ ទី១៩ ខែមិថុនា ឆ្នាំ២០២៦។ អ៊ីរ៉ង់បានដាក់លក្ខខណ្ឌចំនួនបី៖ ដកការបិទផ្លូវទឹករបស់កងទ័ពជើងទឹក បញ្ឈប់ប្រតិបត្តិការយោធា និងដោះលែងទឹកប្រាក់រាប់ពាន់លានដុល្លារ។ មន្ត្រីអាមេរិកបដិសេធថាមិនបានផ្តល់ប្រាក់ភ្លាមៗទេ ដោយថាអ៊ីរ៉ង់ត្រូវបំពេញការសន្យាជាមុនសិន។ កិច្ចព្រមព្រៀងនេះមិនពាក់ព័ន្ធនឹងបញ្ហានុយក្លេអ៊ែរ (nuclear program) និងមីស៊ីលផ្លោង (ballistic missiles) ទេ ហើយត្រូវបានចាត់ទុកជាការរៀបចំបណ្តោះអាសន្ន។",
+      "keywords": "Strait of Hormuz · memorandum of understanding · nuclear program · ballistic missiles"
+    },
+    {
+      "title": "ការមិនពេញចិត្តរបស់អ៊ីស្រាអែលចំពោះកិច្ចព្រមព្រៀង",
+      "content": "អ៊ីស្រាអែលបានសម្តែងការមិនពេញចិត្តចំពោះកិច្ចព្រមព្រៀងអាមេរិក-អ៊ីរ៉ង់ ដោយយល់ថាកិច្ចព្រមព្រៀងមិនបានដោះស្រាយបញ្ហាក្រុមប្រូកស៊ី (proxies) របស់អ៊ីរ៉ង់ដូចជា ហេសបូឡា (Hezbollah) និងបញ្ហាមីស៊ីលផ្លោងឡើយ។ អ៊ីស្រាអែលមិនបានចូលរួមក្នុងការចរចាទេ ហើយអាចបន្តប្រតិបត្តិការយោធានៅលីបង់។ ប្រធានាធិបតីអាមេរិក លោក ដូណាល់ ត្រាំ បានរិះគន់ជាសាធារណៈចំពោះនាយករដ្ឋមន្ត្រីអ៊ីស្រាអែល លោក បេនយ៉ាមីន ណេតាន់យ៉ាហ៊ូ (Bibi) ដោយបារម្ភថាសកម្មភាពរបស់អ៊ីស្រាអែលអាចបំផ្លាញកិច្ចព្រមព្រៀង។",
+      "keywords": "proxies · Hezbollah · Benjamin Netanyahu · military operations"
+    },
+    {
+      "title": "ការបោះឆ្នោតពាក់កណ្តាលអាណត្តិអាមេរិក និងយុទ្ធសាស្ត្រចរចារបស់អ៊ីរ៉ង់",
+      "content": "អ្នកវិភាគបានចង្អុលបង្ហាញថា អ៊ីរ៉ង់បានប្រើប្រាស់កាលវិភាគចរចាដើម្បីរុញចំណុចសំខាន់ៗទៅកាន់មុនការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ (midterms) របស់អាមេរិក ដែលធ្វើឱ្យអាមេរិកមិនចង់ចាប់ផ្តើមសកម្មភាពយោធា (kinetic action) មុនការបោះឆ្នោត។ រចនាប័ទ្មចរចារបស់អ៊ីរ៉ង់គឺតឹងតែង (hardline) ដោយមានការបែកបាក់គ្នារវាងមន្ត្រីស៊ីវិល និងយោធា ប៉ុន្តែពួកគេពូកែខាងពន្យារពេល និងដាក់សម្ពាធ។",
+      "keywords": "midterms · kinetic action · hardline · negotiator"
+    },
+    {
+      "title": "ព័ត៌មានផ្សេងទៀត",
+      "content": "កម្មវិធីនេះក៏បានរាយការណ៍អំពី៖ យន្តហោះដឹកអ្នកលោតឆ័ត្រយោង (skydivers) បានធ្លាក់បន្ទាប់ពីហោះឡើង ដោយអ្នកទាំងអស់បានស្លាប់។ សមាជិកព្រឹទ្ធសភា មីឆ ម៉ាក់ខនណែល (Mitch McConnell) បានចូលមន្ទីរពេទ្យ។ ចក្រភពអង់គ្លេសគ្រោងដាក់ចេញការហាមឃាត់បណ្តាញសង្គម (social media ban) ដើម្បីការពារក្មេងជំទង់។ UFC (ការប្រកួតក្បាច់គុនចម្រុះ) បានរៀបចំការប្រកួតនៅលើស្មៅសេតវិមាន។ ក្រុម Carolina Hurricanes បានឈ្នះដោយមិនឱ្យគូប្រកួតរកគ្រាប់ (shutout) ក្រុម Vegas Golden Knights ដើម្បីដណ្តើមពាន Stanley Cup។",
+      "keywords": "skydivers · Mitch McConnell · social media ban · UFC · Stanley Cup · shutout"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "អត្ថបទដើម 'The Iranians are incredibly difficult negotiators.' ពាក្យ 'negotiators' មានន័យដូចម្តេច?",
+      "options": [
+        "A. អ្នកចរចា",
+        "B. អ្នកសម្រុះសម្រួល",
+        "C. អ្នកសង្កេតការណ៍",
+        "D. អ្នកបកប្រែ"
+      ],
+      "answer": 0,
+      "explanation": "negotiator មានន័យថា 'អ្នកចរចា' សំដៅលើអ្នកដែលចូលរួមក្នុងការចរចា។ ក្នុងអត្ថបទដើម ឯកអគ្គរដ្ឋទូតអាមេរិកបានពណ៌នាជនជាតិអ៊ីរ៉ង់ថាជា 'difficult negotiators' (អ្នកចរចាដែលពិបាក)។"
+    },
+    {
+      "type": "vocab",
+      "question": "អត្ថបទដើម 'It does not address the thorniest issues.' ពាក្យ 'thorniest' មានន័យដូចម្តេច?",
+      "options": [
+        "A. ដែលមុតបំផុត",
+        "B. ដែលពិបាកបំផុត",
+        "C. ដែលគ្រោះថ្នាក់បំផុត",
+        "D. ដែលស្មុគស្មាញបំផុត"
+      ],
+      "answer": 1,
+      "explanation": "thorny មានន័យដើមថា 'មានបន្លា' ហើយត្រូវបានពង្រីកអត្ថន័យទៅជា 'ដែលពិបាក ឬស្មុគស្មាញ'។ thorniest ជាទម្រង់ឧត្តមភាព មានន័យថា 'ដែលពិបាកបំផុត'។"
+    },
+    {
+      "type": "vocab",
+      "question": "អត្ថបទដើម 'the United States is not going to want to start up kinetic action right before the midterms.' ពាក្យ 'kinetic action' សំដៅលើអ្វី?",
+      "options": [
+        "A. សកម្មភាពការទូត",
+        "B. ទណ្ឌកម្មសេដ្ឋកិច្ច",
+        "C. សកម្មភាពយោធា",
+        "D. សកម្មភាពច្បាប់"
+      ],
+      "answer": 2,
+      "explanation": "kinetic action គឺជាពាក្យយោធាដែលមានន័យថា 'សកម្មភាពយោធា' សំដៅលើការប្រើប្រាស់កម្លាំង។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តាមរបាយការណ៍ តើគោលបំណងសំខាន់នៃកិច្ចព្រមព្រៀងអាមេរិក-អ៊ីរ៉ង់គឺជាអ្វី?",
+      "options": [
+        "A. ដោះស្រាយបញ្ហានុយក្លេអ៊ែរអ៊ីរ៉ង់ទាំងស្រុង",
+        "B. បើកច្រកសមុទ្រហ៊័រម៉ុស",
+        "C. ដកទណ្ឌកម្មទាំងអស់លើអ៊ីរ៉ង់",
+        "D. បង្កើតទំនាក់ទំនងសន្តិភាពយូរអង្វែង"
+      ],
+      "answer": 1,
+      "explanation": "របាយការណ៍បញ្ជាក់យ៉ាងច្បាស់ថាកិច្ចព្រមព្រៀងគឺដើម្បី 'open the Strait of Hormuz on Friday' ពោលគឺបើកច្រកសមុទ្រហ៊័រម៉ុស។ បញ្ហានុយក្លេអ៊ែរជាដើមដែលពិបាកជាងនេះមិនត្រូវបានរាប់បញ្ចូលទេ។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើលក្ខខណ្ឌចំនួនបីដែលអ៊ីរ៉ង់ដាក់ចេញមិនរាប់បញ្ចូលជម្រើសមួយណា?",
+      "options": [
+        "A. អាមេរិកបញ្ចប់ការបិទផ្លូវទឹកដោយកងទ័ពជើងទឹក",
+        "B. អាមេរិកបញ្ឈប់សកម្មភាពយោធា",
+        "C. អាមេរិកដោះលែងថវិកាកករបស់អ៊ីរ៉ង់",
+        "D. អាមេរិកទទួលស្គាល់សិទ្ធិនុយក្លេអ៊ែររបស់អ៊ីរ៉ង់"
+      ],
+      "answer": 3,
+      "explanation": "របាយការណ៍បានឱ្យដឹងថា អ៊ីរ៉ង់ទាមទារ៖ បញ្ចប់ការបិទផ្លូវទឹកដោយកងទ័ពជើងទឹក បញ្ឈប់សកម្មភាពយោធា និងដោះលែងថវិកាកករាប់ពាន់លានដុល្លារ។ មិនមានការលើកឡើងពីការទទួលស្គាល់សិទ្ធិនុយក្លេអ៊ែរទេ។"
+    },
+    {
+      "type": "comprehension",
+      "question": "ហេតុអ្វីបានជាអ្នកវិភាគយល់ថា អ៊ីរ៉ង់ពន្យារពេលចរចារហូតដល់ ៦០ ថ្ងៃ?",
+      "options": [
+        "A. រង់ចាំអន្តរាគមន៍ពីសហគមន៍អន្តរជាតិ",
+        "B. ទាញយកប្រយោជន៍ពីរយៈពេលរសើបខាងនយោបាយមុនការបោះឆ្នោតពាក់កណ្តាលអាណត្តិរបស់អាមេរិក",
+        "C. រង់ចាំមេដឹកនាំថ្មីឡើងកាន់តំណែង",
+        "D. ទិញពេលរៀបចំផ្នែកយោធា"
+      ],
+      "answer": 1,
+      "explanation": "របាយការណ៍បានចង្អុលបង្ហាញថា រយៈពេលចរចា ៦០ ថ្ងៃនឹង 'bringing us up right up to the midterms' អ៊ីរ៉ង់ដឹងថាអាមេរិកមិនចង់ចាប់ផ្តើមសកម្មភាពយោធាមុនការបោះឆ្នោតពាក់កណ្តាលអាណត្តិទេ ដូច្នេះអ៊ីរ៉ង់ទទួលបានអត្ថប្រយោជន៍ក្នុងការចរចា។"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Audie Cornish",
+      "text": "Today in the group chat, both the U.S. and Iran say there's an agreement to open the Strait of Hormuz on Friday. Why not open it right away?",
+      "cn": "ថ្ងៃនេះនៅក្នុងការជជែកជាក្រុម សហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បាននិយាយថាពួកគេបានឈានដល់កិច្ចព្រមព្រៀងមួយ ដើម្បីបើកច្រកសមុទ្រហូមូសនៅថ្ងៃសុក្រ។ ហេតុអ្វីមិនបើកភ្លាមៗ?"
+    },
+    {
+      "speaker": "Mike Waltz",
+      "text": "The Iranians are incredibly difficult negotiators.",
+      "cn": "ជនជាតិអ៊ីរ៉ង់គឺជាអ្នកចរចាដ៏ពិបាកបំផុត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And former President Obama says he's doubtful Trump's agreement will be much different than his. True or just sour grapes?",
+      "cn": "អតីតប្រធានាធិបតីអូបាម៉ាបាននិយាយថា គាត់សង្ស័យថាកិច្ចព្រមព្រៀងរបស់លោក Trump នឹងខុសគ្នាខ្លាំងពីកិច្ចព្រមព្រៀងរបស់គាត់។ តើនេះជាការពិត ឬជាការច្រណែន?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Just getting to enjoy God's green Earth and then have something like this turn so tragic.",
+      "cn": "ទើបតែរីករាយនឹងផែនដីបៃតងដែលព្រះបានបង្កើត ហើយស្រាប់តែមានរឿងនេះកើតឡើង ក្លាយជារឿងសោកសៅណាស់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "A plane full of skydivers crashes right after takeoff, killing everyone on board. We're going to talk about what happened moments before it went down. And Senator Mitch McConnell hospitalized. What we know about his condition this morning.",
+      "cn": "យន្តហោះដឹកអ្នកលោតឆ័ត្រយោងពេញសមត្ថភាពបានធ្លាក់ភ្លាមៗបន្ទាប់ពីហោះឡើង ហើយអ្នកទាំងអស់នៅលើយន្តហោះបានស្លាប់។ យើងនឹងពិភាក្សាអំពីអ្វីដែលបានកើតឡើងមុនពេលយន្តហោះធ្លាក់។ មេដឹកនាំជនជាតិភាគតិចក្នុងព្រឹទ្ធសភា លោក Mitch McConnell បានចូលមន្ទីរពេទ្យ។ យើងដឹងពីស្ថានភាពរបស់គាត់នៅព្រឹកនេះ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Too much time spent on screens is not good for anyone. Never mind someone's brain is still developing.",
+      "cn": "ការសម្លឹងមើលអេក្រង់យូរពេកមិនល្អសម្រាប់នរណាម្នាក់ឡើយ។ មិននិយាយពីអ្នកដែលខួរក្បាលកំពុងអភិវឌ្ឍន៍ទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In the U.K., they want to give their kids their childhood back. But will a new social media ban actually work?",
+      "cn": "នៅចក្រភពអង់គ្លេស ពួកគេចង់ឲ្យកុមារមានភាពក្មេងវិញ។ ប៉ុន្តែការហាមឃាត់ប្រព័ន្ធផ្សព្វផ្សាយសង្គមថ្មីពិតជាអាចដំណើរការបានទេ?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Our country was built on fighting against -- you know, for independence. UFC fight night at the White House lawn. What could the event's legacy be? And the Carolina Hurricanes are Stanley Cup champions, capping off the season with a shutout over the Las Vegas Golden Knights. A diplomatic breakthrough: The U.S. and Iran say they have reached a deal to end the war and to reopen the strait of Hormuz. It will take effect on Friday. We're going to talk about why they're waiting. J.D. VANCE, U.S.",
+      "cn": "ប្រទេសរបស់យើងត្រូវបានបង្កើតឡើងដោយការបះបោរ -- -- អ្នកដឹងទេ ដើម្បីឯករាជ្យ។ រាត្រីប្រយុទ្ធ UFC នៅលើស្មៅសេតវិមាន។ តើព្រឹត្តិការណ៍នេះនឹងបន្សល់ទុកកេរ្តិ៍អ្វី? ក្រុម Carolina Hurricanes បានឈ្នះពាន Stanley Cup ដោយយកឈ្នះក្រុម Vegas Golden Knights ដោយគ្មានគ្រាប់ បញ្ចប់រដូវកាលនេះ។ របកគំហើញការទូត៖ សហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បាននិយាយថាពួកគេបានឈានដល់កិច្ចព្រមព្រៀងដើម្បីបញ្ចប់សង្គ្រាម និងបើកច្រកសមុទ្រហូមូសឡើងវិញ។ កិច្ចព្រមព្រៀងនឹងចូលជាធរមាននៅថ្ងៃសុក្រ។ យើងនឹងពិភាក្សាអំពីមូលហេតុដែលពួកគេត្រូវរង់ចាំ។ អនុប្រធានាធិបតីសហរដ្ឋអាមេរិក J.D. Vance (តាមទូរស័ព្ទ)៖"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "VICE PRESIDENT (via phone): Sometimes these ceasefires take a little bit of time to take root. People are very good over there at fighting each other. I'm not going to say that everybody is going to sing kumbaya tomorrow. It's going to take a little bit of time to learn the ways of peace. But I do think we took a major, major step.",
+      "cn": "អនុប្រធានាធិបតី (តាមទូរស័ព្ទ)៖ ពេលខ្លះការឈប់បាញ់ទាំងនេះត្រូវការពេលវេលាបន្តិចដើម្បីចាក់ឫស។ មនុស្សនៅទីនោះពូកែវាយគ្នាទៅវិញទៅមក។ ខ្ញុំមិននិយាយថាថ្ងៃស្អែកអ្នករាល់គ្នានឹងច្រៀង 'Kumbaya' ទេ។ ការរៀនផ្លូវសន្តិភាពត្រូវការពេលវេលាបន្តិច។ ប៉ុន្តែខ្ញុំគិតថាយើងបានបោះជំហានដ៏សំខាន់មួយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Good morning, everybody. I'm Audie Cornish. We're going to begin with the commitment from the U.S. and Iran to end the months- long conflict. But already, there's a bit of a snag. Tehran saying that 60 days of nuclear negotiations will begin once the U.S. meets three commitments. They want the U.S. to end the naval blockade; end military operations against Iran; and release billions of dollars in frozen Iranian funds.",
+      "cn": "សួស្តីព្រឹក។ ខ្ញុំគឺ Audie Cornish ។ យើងចាប់ផ្តើមជាមួយសហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់ដែលបានសន្យាបញ្ចប់ជម្លោះដែលមានរយៈពេលជាច្រើនខែ។ ប៉ុន្តែមានបញ្ហាតូចមួយកើតឡើងហើយ។ ទីក្រុងតេហេរ៉ង់បាននិយាយថា ការចរចានុយក្លេអ៊ែររយៈពេល 60 ថ្ងៃនឹងចាប់ផ្តើមនៅពេលដែលសហរដ្ឋអាមេរិកបំពេញការសន្យាចំនួនបី។ ពួកគេទាមទារឲ្យអាមេរិកបញ្ចប់ការបិទផ្លូវសមុទ្រ; បញ្ឈប់ប្រតិបត្តិការយោធាប្រឆាំងនឹងអ៊ីរ៉ង់; និងដោះលែងមូលនិធិរាប់ពាន់លានដុល្លាររបស់អ៊ីរ៉ង់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "KAZEM GHARIBABADI, IRAN DEPUTY FOREIGN MINISTER (through translator): This memorandum of understanding was reached, despite our complete distrust of our enemies. We have no trust in the enemy. Our trust lies in our military strength, our diplomatic capabilities, and the support and unity of our own people. That is why the implementation of this memorandum of understanding is extremely important. We have specific plans in place to monitor the implementation of U.S. commitments under this memorandum.",
+      "cn": "អនុរដ្ឋមន្ត្រីការបរទេសអ៊ីរ៉ង់ Kazem Gharibabadi (តាមរយៈអ្នកបកប្រែ)៖ ទោះបីជាយើងមិនទុកចិត្តសត្រូវទាំងស្រុងក៏ដោយ អនុស្សរណៈនៃការយោគយល់នេះត្រូវបានសម្រេច។ យើងមិនទុកចិត្តសត្រូវទេ។ យើងទុកចិត្តលើអំណាចយោធា សមត្ថភាពការទូត និងការគាំទ្រ និងការរួបរួមរបស់ប្រជាជនយើង។ នោះហើយជាមូលហេតុដែលការអនុវត្តអនុស្សរណៈនេះមានសារៈសំខាន់ខ្លាំងណាស់។ យើងមានផែនការជាក់លាក់ដើម្បីត្រួតពិនិត្យការអនុវត្តការសន្យារបស់អាមេរិកក្រោមអនុស្សរណៈនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But a U.S. official is saying that no funds will be released before Iran implements its commitments. So, could this derail things? I'm going to bring in CNN global affairs commentator and former deputy Pentagon press secretary, Sabrina Singh. So, Sabrina, good morning. Thank you for being here.",
+      "cn": "ប៉ុន្តែមន្ត្រីអាមេរិកម្នាក់បាននិយាយថា គ្មានមូលនិធិណាមួយនឹងត្រូវបានដោះលែងទេ រហូតដល់អ៊ីរ៉ង់បំពេញការសន្យារបស់ខ្លួន។ ដូច្នេះ តើនេះនឹងធ្វើឲ្យខូចដំណើរការដែរឬទេ? ខាងក្រោមនេះជាអ្នកអត្ថាធិប្បាយកិច្ចការសកលរបស់ CNN អតីតអនុលេខាធិការសារព័ត៌មានក្រសួងការពារជាតិ Sabrina Singh ។ Sabrina សួស្តីព្រឹក។ អរគុណសម្រាប់ការចូលរួម។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, first, I want to just talk about the latest Iran saying, Look, we're not doing anything until money is unfrozen. And then the U.S. disputing that. Here's the U.S. ambassador to the U.N., Mike Waltz, speaking on Sunday. We'll talk on the other side of that.",
+      "cn": "ជាដំបូង ខ្ញុំចង់និយាយអំពីសេចក្តីថ្លែងការណ៍ចុងក្រោយរបស់អ៊ីរ៉ង់៖ ពួកគេនិយាយថា យើងនឹងមិនធ្វើអ្វីទេ រហូតដល់មូលនិធិត្រូវបានដោះលែង។ ហើយអាមេរិកជំទាស់នឹងរឿងនេះ។ នេះជាសុន្ទរកថារបស់ឯកអគ្គរដ្ឋទូតអាមេរិកប្រចាំអង្គការសហប្រជាជាតិ Mike Waltz កាលពីថ្ងៃអាទិត្យ។ យើងនឹងពិភាក្សាវានៅពេលក្រោយ។"
+    },
+    {
+      "speaker": "Waltz",
+      "text": "The Iranians are incredibly difficult negotiators, coupled -- coupled with the fact that they're having a very hard time getting guidance from their supreme leader. And they're not always on the same page within their team, between the civilians and military. So, you know, the team has had their hands full dealing with them. But the president has every intent to get this done.",
+      "cn": "ជនជាតិអ៊ីរ៉ង់គឺជាអ្នកចរចាដ៏ពិបាកបំផុត ហើយពួកគេពិបាកទទួលបានការណែនាំពីមេដឹកនាំកំពូល។ ហើយនៅក្នុងក្រុមរបស់ពួកគេ មតិរវាងអ្នកស៊ីវិល និងយោធាមិនតែងតែស្របគ្នាទេ។ ដូច្នេះ អ្នកដឹងទេ ក្រុមអាមេរិកបានរវល់ជាមួយពួកគេយ៉ាងខ្លាំង។ ប៉ុន្តែប្រធានាធិបតីមានចេតនាពេញលេញដើម្បីបញ្ចប់រឿងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He sort of nodded to something, I think, that maybe people don't fully appreciate, which is that Iran's regime is pretty much in place, even as though a tier of leadership was killed in these strikes. So, answer the question that he's raising here of, like, negotiation, the money. What are the complications?",
+      "cn": "គាត់ហាក់ដូចជាកំពុងបញ្ជាក់ពីអ្វីមួយ ខ្ញុំគិតថាប្រហែលជាមនុស្សមិនទាន់ដឹងច្បាស់ទេ គឺថារបបអ៊ីរ៉ង់នៅតែរឹងមាំជាមូលដ្ឋាន ទោះបីជាមានការវាយប្រហារទាំងនេះដែលបានលុបបំបាត់ថ្នាក់ដឹកនាំមួយស្រទាប់ក៏ដោយ។ ដូច្នេះ ឆ្លើយសំណួរដែលគាត់លើកឡើង៖ ការចរចា មូលនិធិ។ តើភាពស្មុគស្មាញនៅឯណា?"
+    },
+    {
+      "speaker": "Singh",
+      "text": "The complications here is that Iran is very skilled at negotiating. And this regime, in particular, is more hardline than the previous regime. I mean, they are willing to incur the costs and the military strikes that the U.S. and Israel have conducted over, we've seen, a significant amount of time. I think what's interesting about this memorandum of understanding, or this new agreement, is it's only there to open the straits.",
+      "cn": "ភាពស្មុគស្មាញគឺអ៊ីរ៉ង់ពូកែចរចាណាស់។ ហើយរបបនេះរឹងរូសជាងរបបមុនៗ។ ខ្ញុំមានន័យថា ពួកគេសុខចិត្តទទួលយកថ្លៃដើមនៃការវាយប្រហារយោធារយៈពេលវែងដោយអាមេរិក និងអ៊ីស្រាអែល។ ខ្ញុំគិតថាអ្វីដែលគួរឱ្យចាប់អារម្មណ៍អំពីអនុស្សរណៈនៃការយោគយល់ ឬកិច្ចព្រមព្រៀងថ្មីនេះគឺថាវាគ្រាន់តែសម្រាប់ការបើកច្រកសមុទ្រប៉ុណ្ណោះ។"
+    },
+    {
+      "speaker": "Singh",
+      "text": "It does not address the thorniest issues, which we know Iran is really going to drag its feet on, which are the nuclear -- its nuclear program and the highly enriched uranium that is still sitting in Iran. And so, while this agreement basically tries to restore the status to pre-war status, it still doesn't address those nuclear agreements. And Iran, like -- like Mike Waltz was saying, Iran knows how to play the game to draw the United States out.",
+      "cn": "វាមិនបានដោះស្រាយបញ្ហាដែលពិបាកបំផុតនោះទេ ដែលយើងដឹងថាអ៊ីរ៉ង់នឹងពន្យារពេល គឺកម្មវិធីនុយក្លេអ៊ែររបស់ខ្លួន និងសារធាតុអ៊ុយរ៉ាញ៉ូមដែលមានកម្រិតខ្ពស់ដែលនៅតែរក្សាទុកនៅអ៊ីរ៉ង់។ ដូច្នេះ ទោះបីជាកិច្ចព្រមព្រៀងនេះព្យាយាមស្តារស្ថានភាពត្រឡប់ទៅមុនសង្គ្រាមក៏ដោយ ក៏វានៅតែមិនបានដោះស្រាយកិច្ចព្រមព្រៀងនុយក្លេអ៊ែរទាំងនោះ។ ហើយអ៊ីរ៉ង់ ដូចដែល Mike Waltz បាននិយាយ ដឹងពីរបៀបលេងល្បែងដើម្បីទាញអាមេរិក។"
+    },
+    {
+      "speaker": "Singh",
+      "text": "If we're talking about negotiating, at minimum, within 60 days, that is bringing us up right up to the midterms. And I think Iran knows that the United States is not going to want to start up kinetic action right before the midterms, right before voting starts in (UNINTELLIGIBLE) --",
+      "cn": "ប្រសិនបើយើងនិយាយអំពីការចរចា យ៉ាងហោចណាស់ 60 ថ្ងៃ នោះត្រូវនឹងការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ។ ខ្ញុំគិតថាអ៊ីរ៉ង់ដឹងថាអាមេរិកនឹងមិនចង់ចាប់ផ្តើមប្រតិបត្តិការយោធាមុនពេលការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ មុនពេលការបោះឆ្នោតចាប់ផ្តើមនោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Two military questions. One, when we say the strait is opening, does that mean that they're going to -- Iran just backs down, the U.S. backs down? Are there mines in the strait? Like, are there still dangers there?",
+      "cn": "សំណួរយោធាពីរ។ ទីមួយ នៅពេលយើងនិយាយថាច្រកសមុទ្របើក តើនេះមានន័យថាអ៊ីរ៉ង់បោះជំហាន អាមេរិកបោះជំហាន? តើមានមីននៅក្នុងច្រកសមុទ្រទេ? តើនៅតែមានគ្រោះថ្នាក់នៅទីនោះទេ?"
+    },
+    {
+      "speaker": "Singh",
+      "text": "I think both sides could say today that the strait is open and that they're clearing the mines from the strait. But the only ones that are going to determine if the strait is open are the shipping companies. Are they willing to allow their ships to start going through the strait and potentially incurring costs if, let's say, a drone is launched from Iran or there's crossfire between the two sides? So, even though Donald Trump is saying on Friday the strait is open, it is still --",
+      "cn": "ខ្ញុំគិតថាភាគីទាំងពីរអាចនិយាយបាននៅថ្ងៃនេះថាច្រកសមុទ្របើកហើយ ហើយកំពុងសម្អាតមីននៅក្នុងច្រកសមុទ្រ។ ប៉ុន្តែរឿងតែមួយគត់ដែលអាចកំណត់ថាតើច្រកសមុទ្របើកឬអត់គឺក្រុមហ៊ុនដឹកជញ្ជូន។ តើពួកគេសុខចិត្តឲ្យកប៉ាល់ចាប់ផ្តើមឆ្លងកាត់ច្រកសមុទ្រ ហើយអាចទទួលយកថ្លៃដើម ដូចជាការបាញ់យន្តហោះគ្មានមនុស្សបើកដោយអ៊ីរ៉ង់ ឬការបាញ់ប្រហាររវាងភាគីទាំងពីរ? ដូច្នេះ ទោះបីជាលោក Donald Trump បាននិយាយកាលពីថ្ងៃសុក្រថាច្រកសមុទ្របើកហើយក៏ដោយ ក៏វានៅតែ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We won't know until ships pass through.",
+      "cn": "យើងត្រូវរង់ចាំមើលកប៉ាល់ឆ្លងកាត់ដើម្បីដឹង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Last thing militarily, Israel.",
+      "cn": "ចុងក្រោយ ផ្នែកយោធា អ៊ីស្រាអែល។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Israel, we're going to talk about in this program, across the political spectrum, unhappy with this deal. And in part because of military reasons. They say it doesn't address their issues around proxies that Iran backs like Hezbollah. It doesn't even talk about ballistic missiles. That's not even in the conversation around the memorandum of understanding, at least so far. This is kind of the same criticism that the Obama deal had.",
+      "cn": "អ៊ីស្រាអែល យើងនឹងពិភាក្សានៅក្នុងកម្មវិធីនេះ គ្រប់ភាគីនយោបាយទាំងអស់មិនពេញចិត្តនឹងកិច្ចព្រមព្រៀងនេះទេ។ មួយផ្នែកដោយសារតែការពិចារណាខាងយោធា។ ពួកគេនិយាយថា កិច្ចព្រមព្រៀងនេះមិនបានដោះស្រាយបញ្ហាកងកម្លាំងប្រូកស៊ីដែលគាំទ្រដោយអ៊ីរ៉ង់ (ដូចជា Hezbollah) ទេ។ សូម្បីតែមិនបាននិយាយអំពីមីស៊ីលផ្លោង។ យ៉ាងហោចណាស់នៅពេលនេះ ការពិភាក្សាអំពីអនុស្សរណៈនៃការយោគយល់មិនទាន់បានប៉ះពាល់ដល់ចំណុចនេះទេ។ នេះគឺស្រដៀងនឹងការរិះគន់ដែលកិច្ចព្រមព្រៀងរបស់អូបាម៉ាបានទទួល។"
+    },
+    {
+      "speaker": "Singh",
+      "text": "I mean, you might not have agreed with the JCPOA, but that was something -- under the Obama administration. But that was something that took almost two years to negotiate. Now, with Israel, what's interesting about this agreement that this administration has negotiated, Israel is not party to the agreement. And they have said -- I mean, I think as early as this morning, that they might continue to conduct operations in Lebanon. So, between now and Friday, things could get derailed very quickly.",
+      "cn": "ខ្ញុំចង់និយាយថា អ្នកប្រហែលជាមិនយល់ស្របនឹង JCPOA ទេ ប៉ុន្តែវាជាកិច្ចព្រមព្រៀងដែលបានធ្វើឡើងក្នុងរដ្ឋាភិបាលលោក Obama ដែលចំណាយពេលជិតពីរឆ្នាំដើម្បីចរចា។ ឥឡូវនេះ អំពីកិច្ចព្រមព្រៀងដែលរដ្ឋាភិបាលបច្ចុប្បន្នកំពុងចរចា អ្វីដែលគួរឱ្យចាប់អារម្មណ៍គឺអ៊ីស្រាអែលមិនមែនជាភាគីកិច្ចព្រមព្រៀងទេ។ ពួកគេបាននិយាយថា -- ខ្ញុំគិតថាដំបូងបំផុតនៅព្រឹកនេះ -- ពួកគេអាចបន្តប្រតិបត្តិការនៅលីបង់។ ដូច្នេះ ចាប់ពីពេលនេះដល់ថ្ងៃសុក្រ ស្ថានការណ៍អាចនឹងផ្ទុះឡើងយ៉ាងឆាប់រហ័ស។"
+    },
+    {
+      "speaker": "Singh",
+      "text": "I think President Trump, he wanted a win on his birthday, which he -- which he got this agreement. And he also wanted to walk into the G-7 with saying, Hey, this war is coming to an end. European partners, now it's time to do your part and help us carry on the strait (ph).",
+      "cn": "ខ្ញុំគិតថាប្រធានាធិបតី Trump ចង់បានជ័យជម្នះនៅថ្ងៃខួបកំណើតរបស់គាត់ ហើយគាត់ពិតជាទទួលបានកិច្ចព្រមព្រៀងនេះ។ គាត់ក៏ចង់ចូលរួមកិច្ចប្រជុំកំពូល G7 ដោយមានឥរិយាបថថា \"ហេ សង្គ្រាមនេះជិតចប់ហើយ\"។ សហការីអឺរ៉ុប ឥឡូវនេះជាពេលដែលអ្នកត្រូវជួយយើងបន្តរក្សាស្ថានភាពច្រកសមុទ្រ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can we do that if Israel has seized an amount of land that's, like, around the size of New York City.",
+      "cn": "ប្រសិនបើអ៊ីស្រាអែលកាន់កាប់ដីទំហំប៉ុនទីក្រុងញូវយ៉ក តើយើងនៅតែអាចធ្វើបានទេ?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And says it's going to continue its -- its battle against Hezbollah?",
+      "cn": "ហើយនិយាយថានឹងបន្តវាយប្រហារ Hezbollah?"
+    },
+    {
+      "speaker": "Singh",
+      "text": "I think it's going to be very difficult if Israel continues to conduct military operations for -- for Iran to agree to terms with the United States when it's going to say to the United States, this is also an aggressor in this war that also struck our country. You need to pull them back. And that's why you saw the president sort of react in some of these interviews that he was giving on Sunday, saying, you know, what is Bibi doing? Because he does not want to see this agreement go off the rails.",
+      "cn": "ខ្ញុំគិតថា ប្រសិនបើអ៊ីស្រាអែលបន្តប្រតិបត្តិការយោធា អ៊ីរ៉ង់ពិបាកនឹងឈានដល់កិច្ចព្រមព្រៀងជាមួយសហរដ្ឋអាមេរិក ពីព្រោះអ៊ីរ៉ង់នឹងនិយាយទៅកាន់សហរដ្ឋអាមេរិកថា អ្នកក៏ជាអ្នកឈ្លានពានក្នុងសង្គ្រាមនេះដែរ ហើយបានវាយប្រហារប្រទេសយើង។ អ្នកត្រូវឱ្យពួកគេដកថយ។ នោះហើយជាមូលហេតុដែលអ្នកឃើញប្រធានាធិបតីមានប្រតិកម្មនៅក្នុងបទសម្ភាសន៍មួយចំនួនកាលពីថ្ងៃអាទិត្យ ដោយនិយាយថា អ្នកដឹងទេ តើប៊ីប៊ីកំពុងធ្វើអ្វី? ពីព្រោះគាត់មិនចង់ឱ្យកិច្ចព្រមព្រៀងនេះខកខានឡើយ។"
+    },
+    {
+      "speaker": "Singh",
+      "text": "OK, Sabrina, thank you so much for giving us some of the update there. Coming up on CNN THIS MORNING, President Trump, as Sabrina just said, has been calling out Benjamin Netanyahu. So, we're going to talk about why Trump would be saying that Netanyahu has, quote, \"no 'F'-ing judgment' after the Israeli P.M. hit Lebanon right after the announcement of an agreement with Iran. Plus, one of the deadliest U.S. skydiving plane crashes in decades.",
+      "cn": "ល្អណាស់ Sabrina អរគុណច្រើនសម្រាប់ព័ត៌មានថ្មីៗ។ បន្ទាប់មកនៅក្នុងកម្មវិធី CNN This Morning ដូចដែល Sabrina បាននិយាយ ប្រធានាធិបតី Trump បានដាក់ឈ្មោះ Benjamin Netanyahu ជាបន្តបន្ទាប់។ ដូច្នេះ យើងនឹងពិភាក្សាអំពីមូលហេតុដែល Trump និយាយថា Netanyahu \"គ្មានការវិនិច្ឆ័យ\" ពីព្រោះនាយករដ្ឋមន្ត្រីអ៊ីស្រាអែលបានវាយប្រហារលីបង់ភ្លាមៗបន្ទាប់ពីការប្រកាសកិច្ចព្រមព្រៀងជាមួយអ៊ីរ៉ង់។ លើសពីនេះ មានឧបទ្ទវហេតុធ្លាក់យន្តហោះលោតឆ័ត្រយោងដ៏សាហាវបំផុតមួយក្នុងរយៈពេលជាច្រើនទសវត្សរ៍របស់សហរដ្ឋអាមេរិក។"
+    },
+    {
+      "speaker": "Singh",
+      "text": "We're going to talk about what one witness had to say right before the plane went down. And will you see ICE at the polling stations for the midterms? The homeland security secretary is not ruling it out.",
+      "cn": "យើងនឹងពិភាក្សាអំពីអ្វីដែលសាក្សីម្នាក់បាននិយាយមុនពេលយន្តហោះធ្លាក់។ លើសពីនេះ តើអ្នកនឹងឃើញ ICE នៅកន្លែងបោះឆ្នោតក្នុងអំឡុងពេលបោះឆ្នោតពាក់កណ្តាលអាណត្តិដែរឬទេ? រដ្ឋមន្ត្រីក្រសួងសន្តិសុខមាតុភូមិមិនបានបដិសេធលទ្ធភាពនេះទេ។"
+    },
+    {
+      "speaker": "Markwayne Mullins",
+      "text": "Why would ICE be there? Because only people who should be voting there is American citizens. There shouldn't be any immigration enforcement.",
+      "cn": "ហេតុអ្វីបានជា ICE នៅទីនោះ? ពីព្រោះមានតែអ្នកដែលគួរបោះឆ្នោតនៅទីនោះទេដែលជាពលរដ្ឋអាមេរិក។ មិនគួរមានការអនុវត្តច្បាប់អន្តោប្រវេសន៍ឡើយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It was important for President Trump to have a deal with Iran before traveling to Europe for a summit with G-7 leaders. That's what sources are telling CNN. The timing is also crucial, because it came on Trump's 80th birthday and his White House UFC fight to celebrate America's 250th anniversary.",
+      "cn": "ការដែលប្រធានាធិបតី Trump ឈានដល់កិច្ចព្រមព្រៀងជាមួយអ៊ីរ៉ង់មុនពេលធ្វើដំណើរទៅអឺរ៉ុបសម្រាប់កិច្ចប្រជុំកំពូល G7 គឺមានសារៈសំខាន់ណាស់។ នេះជាអ្វីដែលប្រភពបានប្រាប់ CNN ។ ពេលវេលាក៏សំខាន់ផងដែរ ពីព្រោះថ្ងៃនេះត្រូវនឹងថ្ងៃខួបកំណើតគម្រប់ 80 ឆ្នាំរបស់ Trump និងការប្រកួត UFC នៅសេតវិមានដើម្បីអបអរខួប 250 ឆ្នាំរបស់អាមេរិក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, we're bringing in the group chat to talk more: Sara Fischer, CNN senior media analyst and senior media reporter at Axios; Elena Schneider, national political reporter, \"NOTUS\"; and Francesca Chambers, White House correspondent at \"USA Today.\" So, to set this up, I want to play the message the administration was sending, not to Iran, not to Israel, but to the American people. Here is J.D. Vance, talking on \"FOX News Sunday\" in the aftermath of the announcement of this memorandum.",
+      "cn": "ដូច្នេះ យើងសូមអញ្ជើញក្រុមពិភាក្សាដើម្បីពិភាក្សាបន្ថែម៖ Sara Fischer អ្នកវិភាគប្រព័ន្ធផ្សព្វផ្សាយជាន់ខ្ពស់របស់ CNN និងអ្នកសារព័ត៌មានប្រព័ន្ធផ្សព្វផ្សាយជាន់ខ្ពស់របស់ Axios; Elena Schneider អ្នកសារព័ត៌មាននយោបាយជាតិរបស់ NOTUS; និង Francesca Chambers អ្នកសារព័ត៌មានសេតវិមានរបស់ USA Today ។ ដើម្បីផ្តើម ខ្ញុំចង់លេងសារដែលរដ្ឋាភិបាលបានផ្ញើ មិនមែនទៅអ៊ីរ៉ង់ មិនមែនទៅអ៊ីស្រាអែល ប៉ុន្តែទៅកាន់ប្រជាជនអាមេរិក។ នេះជាអ្វីដែល J.D. Vance បាននិយាយនៅលើ Fox News Sunday បន្ទាប់ពីការប្រកាសអនុស្សរណៈនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "VANCE (via phone): My primary message to the American people is, thank you. Because of your patience, I think that we've solved the problem that has plagued this country again for -- for well before I was even born. But this is just a great thing for the American people. I know that they suffered from high gas prices. The president has certainly been very concerned about that fact. But what we're going to be able to do is drive down the cost of energy, not just now, but for the long term.",
+      "cn": "Vance (តាមទូរស័ព្ទ)៖ សារសំខាន់របស់ខ្ញុំទៅកាន់ប្រជាជនអាមេរិកគឺ អរគុណ។ ពីព្រោះការអត់ធ្មត់របស់អ្នក ខ្ញុំគិតថាយើងបានដោះស្រាយបញ្ហាដែលបានលងបន្លាចប្រទេសនេះតាំងពីមុនខ្ញុំកើតមក។ ប៉ុន្តែនេះជារឿងល្អណាស់សម្រាប់ប្រជាជនអាមេរិក។ ខ្ញុំដឹងថាពួកគេបានស៊ូទ្រាំនឹងតម្លៃប្រេងខ្ពស់។ ជាការពិតណាស់ ប្រធានាធិបតីយកចិត្តទុកដាក់យ៉ាងខ្លាំងចំពោះការពិតនេះ។ ប៉ុន្តែយើងនឹងអាចកាត់បន្ថយថ្លៃថាមពល មិនត្រឹមតែឥឡូវនេះទេ ប៉ុន្តែក្នុងរយៈពេលវែង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Francesca, this seems like the -- specifically, this kind of sentence is the message they had hoped to deliver on this day, of so many things, when the president wanted good news. FRANCESCA CHAMBERS, WHITE HOUSE CORRESPONDENT, \"USA TODAY\": Well, and there's still a long way to go until we see a final deal. They want that to come in the next 60 days.",
+      "cn": "Francesca នេះហាក់ដូចជា -- ជាពិសេស ប្រយោគបែបនេះគឺជាអ្វីដែលពួកគេចង់បង្ហាញនៅថ្ងៃនេះ ក្នុងចំណោមរឿងជាច្រើនដែលប្រធានាធិបតីចង់បានដំណឹងល្អ។ Francesca Chambers អ្នកសារព័ត៌មានសេតវិមានរបស់ USA Today៖ មែនហើយ វានៅឆ្ងាយណាស់ពីការឃើញកិច្ចព្រមព្រៀងចុងក្រោយ។ ពួកគេសង្ឃឹមថានឹងឈានដល់កិច្ចព្រមព្រៀងក្នុងរយៈពេល 60 ថ្ងៃខាងមុខ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But the experts, critics, even supporters of the administration who have come out, you know, in the last 24 hours are saying that the devil is, essentially, in the details. I mean, Iran may have agreed to give the United States the enriched uranium or down blend it. We still don't know what that looks like. We still don't know whether or not they're going to dismantle their nuclear program. The United States says that they will. But again, that all has to be worked out as part of this final agreement.",
+      "cn": "ប៉ុន្តែអ្នកជំនាញ អ្នករិះគន់ និងសូម្បីតែអ្នកគាំទ្ររដ្ឋាភិបាលក្នុងរយៈពេល 24 ម៉ោងចុងក្រោយបាននិយាយថា ព័ត៌មានលម្អិតគឺសំខាន់។ ខ្ញុំចង់និយាយថា អ៊ីរ៉ង់ប្រហែលជាបានយល់ព្រមផ្តល់សារធាតុអ៊ុយរ៉ាញ៉ូមដែលសំបូរទៅដោយសហរដ្ឋអាមេរិក ឬពនឺវា។ យើងនៅតែមិនដឹងពីព័ត៌មានលម្អិត។ យើងនៅតែមិនដឹងថាតើពួកគេនឹងរុះរើកម្មវិធីនុយក្លេអ៊ែរដែរឬទេ។ សហរដ្ឋអាមេរិកនិយាយថាពួកគេនឹងធ្វើ។ ប៉ុន្តែដូចគ្នាដែរ ទាំងអស់នេះត្រូវតែដោះស្រាយនៅក្នុងកិច្ចព្រមព្រៀងចុងក្រោយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This is just a memorandum of understanding.",
+      "cn": "នេះគ្រាន់តែជាអនុស្សរណៈនៃការយោគយល់គ្នាប៉ុណ្ណោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And yet, Vance comes out and is, like, thanks for being patient. It's been a tough couple of weeks.",
+      "cn": "ទោះយ៉ាងណា Vance ចេញមកនិយាយថា អរគុណសម្រាប់ការអត់ធ្មត់របស់អ្នក។ វាជាសប្តាហ៍ដ៏លំបាកមែន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let's wrap it up. You can feel the hands going like this. (BRUSHES PALMS TOGETHER) Given all the question marks Francesca just raised, what's the danger of telling everyone this? ELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": Well, look, I think that there is a political reality that they are reacting to, which is the pain that voters are feeling every single day when they go fill up their cars, and are looking at high gas prices, and connect that to the ongoing operations and, you know, what's -- what's",
+      "cn": "សូមសង្ខេប។ អ្នកអាចមានអារម្មណ៍ថាដៃកំពុងធ្វើចលនាបែបនេះ។ (ត្រដុសដៃ) ដោយគិតពីសំណួរទាំងអស់ដែល Francesca ទើបតែលើកឡើង តើមានគ្រោះថ្នាក់អ្វីក្នុងការប្រាប់អ្នករាល់គ្នានេះ? Elena Schneider អ្នកសារព័ត៌មាននយោបាយជាតិរបស់ NOTUS៖ មែនហើយ ខ្ញុំគិតថាពួកគេកំពុងដោះស្រាយជាមួយការពិតនយោបាយដែលអ្នកបោះឆ្នោតមានអារម្មណ៍ឈឺចាប់រាល់ពេលដែលពួកគេទៅចាក់សាំង ដោយមើលឃើញតម្លៃប្រេងខ្ពស់ ហើយភ្ជាប់វាទៅនឹងសកម្មភាពដែលកំពុងបន្ត និងអ្វីដែលកំពុងកើតឡើងនៅអ៊ីរ៉ង់។ ពួកគេចង់អបអរជ័យជម្នះឱ្យបានឆាប់ ដោយចង្អុលបង្ហាញថា មិនអីទេ នេះនឹងផ្លាស់ប្តូរ។ យើងអាចមើលឃើញថានេះនឹងផ្លាស់ប្តូរ។ បញ្ហាប្រឈមរបស់ពួកគេគឺ តើវាពិតជានឹងផ្លាស់ប្តូរមែនទេ? ពីព្រោះទោះបីជាពួកគេអាចឈានដល់កិច្ចព្រមព្រៀងខ្លះនៅទីនេះ ការឈប់បាញ់ត្រូវបានរក្សា ពួកគេចាប់ផ្តើមចរចាលើបញ្ហានេះ ទទួលបានខ្សែសង្វាក់ផ្គត់ផ្គង់ទាំងនេះ ឱ្យប្រេងឆ្លងកាត់ច្រកសមុទ្រ Hormuz ទាំងអស់នេះនឹងមិនកើតឡើងភ្លាមៗទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "been happening in Iran. And they want to take a victory lap as soon as possible to point out, say, OK, this is now going to change. We can -- we can see that this is going to change. The challenge for them is, is it actually going to change? Because even if they are able to work out some sort of deal here; the ceasefire holds; they start negotiating on this, getting those supply chains, getting that gas to, you know, through the Strait of Hormuz is not going to happen right away.",
+      "cn": "អ្វីដែលកំពុងកើតឡើងនៅអ៊ីរ៉ង់។ ពួកគេចង់អបអរជ័យជម្នះឱ្យបានឆាប់ ដោយចង្អុលបង្ហាញថា មិនអីទេ នេះនឹងផ្លាស់ប្តូរ។ យើងអាចមើលឃើញថានេះនឹងផ្លាស់ប្តូរ។ បញ្ហាប្រឈមរបស់ពួកគេគឺ តើវាពិតជានឹងផ្លាស់ប្តូរមែនទេ? ពីព្រោះទោះបីជាពួកគេអាចឈានដល់កិច្ចព្រមព្រៀងខ្លះនៅទីនេះ ការឈប់បាញ់ត្រូវបានរក្សា ពួកគេចាប់ផ្តើមចរចាលើបញ្ហានេះ ទទួលបានខ្សែសង្វាក់ផ្គត់ផ្គង់ទាំងនេះ ឱ្យប្រេងឆ្លងកាត់ច្រកសមុទ្រ Hormuz ទាំងអស់នេះនឹងមិនកើតឡើងភ្លាមៗទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And experts have said time and again that -- that -- that gas prices are going to take a little while to come back.",
+      "cn": "អ្នកជំនាញបាននិយាយម្តងហើយម្តងទៀតថា តម្លៃសាំងត្រូវការពេលវេលាដើម្បីធ្លាក់ចុះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. People are looking right now, as you're speaking, at the journey that gas prices will have to take from that peak.",
+      "cn": "បាទ។ ពេលអ្នកកំពុងនិយាយ មនុស្សកំពុងតាមដានដំណើរនៃតម្លៃសាំងពីកំពូលធ្លាក់ចុះ។"
+    },
+    {
+      "speaker": "Schneider",
+      "text": "And it's a long climb back down that peak.",
+      "cn": "ការធ្លាក់ចុះពីកំពូលនោះគឺជាដំណើរដ៏យូរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And it's -- it's a long climb. The thing is, also, once you say something like that, you kind of start a clock. Like, oh, OK, things are going to get better? When? And when you're looking at disapproval ratings that have moved significantly, when you're looking at questions of specifically how have you handled the economy, for example. And seeing independents, 82 percent disapprove. It feels as though it's a bit of a risk to keep saying no, no, no, no, no, no, no, no, no, it's happening, it's happening.",
+      "cn": "ហើយវាជាដំណើរដ៏យូរ។ បញ្ហាគឺ នៅពេលដែលអ្នកនិយាយអ្វីមួយបែបនេះ អ្នកកំពុងចាប់ផ្តើមការរាប់ថយក្រោយ។ ដូចជា អូ មិនអីទេ ស្ថានភាពនឹងប្រសើរឡើង? នៅពេលណា? នៅពេលដែលអ្នកឃើញអត្រាមិនពេញចិត្តកើនឡើងយ៉ាងខ្លាំង នៅពេលដែលអ្នកឃើញបញ្ហាជាក់លាក់ដូចជារបៀបដែលអ្នកដោះស្រាយសេដ្ឋកិច្ច ឃើញអ្នកបោះឆ្នោតឯករាជ្យ 82% បង្ហាញថាមិនពេញចិត្ត។ ការបន្តនិយាយថា \"ទេ ទេ ទេ ទេ ទេ ទេ ទេ ទេ ទេ ស្ថានភាពកំពុងប្រសើរឡើង កំពុងប្រសើរឡើង\" ហាក់ដូចជាប្រថុយបន្តិច។"
+    },
+    {
+      "speaker": "Sara Fischer",
+      "text": "Yes. You have a five-month time clock until the midterms. So, that's the horizon that they're working with. And I think most experts will argue that the supply chain issues are interesting, because there's a lag time between, obviously, when ships can get there or not.",
+      "cn": "បាទ។ នៅសល់ពេលប្រាំខែទៀតដល់ការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ។ ដូច្នេះ នេះជាក្របខ័ណ្ឌពេលវេលាដែលពួកគេត្រូវដោះស្រាយ។ ខ្ញុំគិតថាអ្នកជំនាញភាគច្រើននឹងយល់ថាបញ្ហាខ្សែសង្វាក់ផ្គត់ផ្គង់គួរឱ្យចាប់អារម្មណ៍ ពីព្រោះជាក់ស្តែង មានពេលវេលាយឺតយ៉ាវសម្រាប់កប៉ាល់ទៅដល់ទីនោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But can you speak it into existence? Like, if you just say it's -- it's getting better, will it get better?",
+      "cn": "ប៉ុន្តែតើអ្នកអាចធ្វើឱ្យវាក្លាយជាការពិតដោយគ្រាន់តែនិយាយវាទេ? ដូចជា ប្រសិនបើអ្នកគ្រាន់តែនិយាយថាស្ថានភាពកំពុងប្រសើរឡើង តើវានឹងប្រសើរឡើងទេ?"
+    },
+    {
+      "speaker": "Fischer",
+      "text": "You cannot. You cannot. But so, let's say after the 60 days the strait does open. Then you have three months. And that should be enough time, actually, for us to start seeing an impact on oil. And we did see overnight that some of the crude oil prices have gone down on the index. But if there is any delay at that, there's not a lot of wiggle room. And so that's where they run into some problems.",
+      "cn": "អ្នកមិនអាចទេ។ អ្នកមិនអាចទេ។ ប៉ុន្តែ ឧបមាថា ៦០ថ្ងៃក្រោយ ច្រកសមុទ្រពិតជាបើក។ ដូច្នេះ អ្នកនៅសល់ពេលបីខែទៀត។ តាមពិត នេះគួរតែគ្រប់គ្រាន់សម្រាប់យើងចាប់ផ្តើមឃើញផលប៉ះពាល់លើប្រេង។ យើងពិតជាឃើញសន្ទស្សន៍តម្លៃប្រេងឆៅមួយចំនួនធ្លាក់ចុះកាលពីយប់មិញ។ ប៉ុន្តែប្រសិនបើមានការពន្យារពេលណាមួយ នោះគ្មានកន្លែងសម្រាប់បត់បែនទេ។ នេះជាកន្លែងដែលពួកគេជួបបញ្ហាមួយចំនួន។"
+    },
+    {
+      "speaker": "Fischer",
+      "text": "If oil prices are still, in some places, above five or anywhere in the top, you know, top half of the $4 range, you're going to have a lot of problems leading up to the midterms.",
+      "cn": "ប្រសិនបើតម្លៃប្រេងនៅតែខ្ពស់ជាង 5 ដុល្លារនៅកន្លែងខ្លះ ឬស្ថិតនៅពាក់កណ្តាលខាងលើនៃជួរ 4 ដុល្លារ នោះអ្នកនឹងជួបបញ្ហាជាច្រើនមុនការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Trump has been so bummed about the way Europe has kind of stayed out of this whole thing. He's going to be meeting with G-7 leaders when they made their various announcements today. I could read them all, but they basically all say they welcome the agreement over there. It seems like they agreed on what they would be saying.",
+      "cn": "លោក Trump មានការខកចិត្តយ៉ាងខ្លាំងដែលអឺរ៉ុបភាគច្រើននៅឈរមើល។ គាត់នឹងជួបជាមួយមេដឹកនាំ G7 នៅពេលពួកគេចេញសេចក្តីថ្លែងការណ៍ផ្សេងៗនៅថ្ងៃនេះ។ ខ្ញុំអាចអានវាទាំងអស់ ប៉ុន្តែពួកគេស្វាគមន៍កិច្ចព្រមព្រៀងនៅទីនោះ។ វាហាក់ដូចជាពួកគេយល់ស្របលើអ្វីដែលពួកគេនឹងនិយាយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, Francesca, just heading into today, what is the goal for Trump, who's been kind of dismissive of this group of people? Is he going to say to them, you guys weren't helpful, but it would be helpful if you'd get some ships through.",
+      "cn": "ដូច្នេះ Francesca តើអ្វីជាគោលដៅរបស់ Trump មុនថ្ងៃនេះ? គាត់តែងតែមើលងាយក្រុមនេះ។ តើគាត់នឹងប្រាប់ពួកគេថា អ្នកមិនបានជួយទេ ប៉ុន្តែប្រសិនបើអ្នកអាចឱ្យកប៉ាល់ខ្លះឆ្លងកាត់ តើវាអាចជួយបានទេ?"
+    },
+    {
+      "speaker": "Chambers",
+      "text": "I mean, they welcome their help with demining efforts that would help get the Strait of Hormuz fully reopen. But I did want to just touch on one other thing that you were saying about the vice president for a minute, because he was called by Lindsey Graham, the architect of this agreement, and that was really --",
+      "cn": "ខ្ញុំចង់និយាយថា ពួកគេស្វាគមន៍ជំនួយក្នុងការដកមីន ដែលនឹងជួយបើកច្រកសមុទ្រ Hormuz ឡើងវិញពេញលេញ។ ប៉ុន្តែខ្ញុំចង់លើកឡើងបន្តិចអំពីអ្វីដែលអ្នកទើបតែនិយាយអំពីអនុប្រធានាធិបតី ព្រោះ Lindsey Graham  --  អ្នកបង្កើតកិច្ចព្រមព្រៀងនេះ  --  បានទូរស័ព្ទទៅគាត់ ហើយនោះពិតជា  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He must have been surprised to hear.",
+      "cn": "គាត់ច្បាស់ជាភ្ញាក់ផ្អើលពេលឮដូច្នេះ។"
+    },
+    {
+      "speaker": "Chambers",
+      "text": "Well, that was -- but it was a very interesting comment, because he was really put -- Lindsey Graham, close ally of the administration, really putting this at the vice president's feet at this point. And so, it's not just the comments that he's making publicly, the vice president. It's these other comments coming from allies of the Trump administration putting this, if it doesn't work out, at the vice president's feet.",
+      "cn": "មែនហើយ នោះពិតជា  --  ប៉ុន្តែវាជាការអត្ថាធិប្បាយគួរឱ្យចាប់អារម្មណ៍ខ្លាំងណាស់ ព្រោះគាត់ពិតជាត្រូវបាន  --  Lindsey Graham ដែលជាសម្ព័ន្ធមិត្តជិតស្និទ្ធរបស់រដ្ឋាភិបាល ពិតជាបានស្តីបន្ទោសអនុប្រធានាធិបតី។ ដូច្នេះ មិនត្រឹមតែសេចក្តីថ្លែងការណ៍ជាសាធារណៈរបស់អនុប្រធានាធិបតីប៉ុណ្ណោះទេ ប៉ុន្តែក៏មានសេចក្តីថ្លែងការណ៍ពីសម្ព័ន្ធមិត្តរបស់រដ្ឋាភិបាល Trump ផងដែរ ដែលបន្ទោសអនុប្រធានាធិបតី ប្រសិនបើអ្វីៗមិនដំណើរការល្អ។"
+    },
+    {
+      "speaker": "Chambers",
+      "text": "Last week, I actually talked to the vice president about the Iraq War, and he told me that he doesn't think it's going to become a quagmire, that we're not even going to be talking about this a year from now. So, the one that -- the statement that you laid out isn't the only mile marker that he's putting forward here.",
+      "cn": "កាលពីសប្តាហ៍មុន ខ្ញុំពិតជាបាននិយាយជាមួយអនុប្រធានាធិបតីអំពីសង្គ្រាមអ៊ីរ៉ាក់ ហើយគាត់បានប្រាប់ខ្ញុំថា គាត់គិតថាវានឹងមិនក្លាយជាវាលភក់ទេ ហើយមួយឆ្នាំទៀតយើងនឹងមិននិយាយអំពីវាទៀតទេ។ ដូច្នេះ សេចក្តីថ្លែងការណ៍ដែលអ្នកលើកឡើង មិនមែនជាព្រឹត្តិការណ៍សំខាន់តែមួយគត់ដែលគាត់បានធ្វើនោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But can I translate your statement? Lindsey Graham, the hawk, who's been cheering this on the whole time, is trying to put the actual deal at the feet of J.D. Vance, who's not been cheering this on the whole time, so that if it goes sideways, everyone can say somehow Vance was behind a bad deal?",
+      "cn": "បាទ។ ប៉ុន្តែខ្ញុំអាចបកប្រែពាក្យរបស់អ្នកបានទេ? Lindsey Graham ដែលជាអ្នកគាំទ្រសង្គ្រាមដ៏ខ្លាំងក្លា កំពុងព្យាយាមផ្លាស់ប្តូរការទទួលខុសត្រូវចំពោះកិច្ចព្រមព្រៀងពិតប្រាកដទៅលើ JD Vance ដែលមិនបានគាំទ្រវា ដូច្នេះប្រសិនបើអ្វីៗខុស អ្នករាល់គ្នាអាចនិយាយថា Vance គាំទ្រកិច្ចព្រមព្រៀងអាក្រក់?"
+    },
+    {
+      "speaker": "Chambers",
+      "text": "Well, I'm saying that Lindsey Graham is -- in calling him the architect of this negotiation, this deal that's coming forward -- and the vice president was very, very involved -- is putting the onus on him. If this doesn't work out. I'm not --",
+      "cn": "មែនហើយ ខ្ញុំចង់និយាយថា Lindsey Graham  --  ក្នុងការហៅគាត់ថាជាអ្នកបង្កើតការចរចានេះ កិច្ចព្រមព្រៀងដែលនឹងមកដល់  --  ហើយអនុប្រធានាធិបតីបានចូលរួមយ៉ាងស៊ីជម្រៅ  --  កំពុងផ្លាស់ប្តូរការទទួលខុសត្រូវមកលើគាត់។ ប្រសិនបើអ្វីៗមិនដំណើរការល្អ។ ខ្ញុំមិនមែន  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, yes. So, if it goes bad, everyone can be like, It was Vance.",
+      "cn": "ដូច្នេះ បាទ។ ដូច្នេះ ប្រសិនបើអ្វីៗកាន់តែអាក្រក់ អ្នករាល់គ្នាអាចនិយាយថា វាជាកំហុសរបស់ Vance ។"
+    },
+    {
+      "speaker": "Chambers",
+      "text": "And he's saying that time will tell. I'm saying that politically, it becomes a risk for the vice president --",
+      "cn": "ហើយគាត់និយាយថា ពេលវេលានឹងបង្ហាញ។ ខ្ញុំចង់និយាយថា តាមទស្សនៈនយោបាយ វាក្លាយជាហានិភ័យសម្រាប់អនុប្រធានាធិបតី  --"
+    },
+    {
+      "speaker": "Ok. Chambers",
+      "text": "-- at that point, when you have allies of the administration saying he was the architect.",
+      "cn": "--  នៅពេលនោះ នៅពេលដែលសម្ព័ន្ធមិត្តរបស់រដ្ឋាភិបាលហៅគាត់ថាជាអ្នកបង្កើត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Interesting. OK. We're going to talk more about this as we learn more about this memorandum this week. And then after the break on CNN THIS MORNING, did you know that the U.K. is the latest country to ban kids under the age of 16 from all social media? We'll find out whether these bans actually work. Plus --",
+      "cn": "គួរឱ្យចាប់អារម្មណ៍។ ល្អ។ សប្តាហ៍នេះ នៅពេលយើងដឹងបន្ថែមអំពីខ្លឹមសារនៃអនុស្សរណៈនេះ យើងនឹងពិភាក្សាបន្ថែមទៀត។ ហើយបន្ទាប់ពីការសម្រាកនៅក្នុងកម្មវិធី CNN This Morning តើអ្នកដឹងទេ ចក្រភពអង់គ្លេសគឺជាប្រទេសចុងក្រោយគេដែលហាមឃាត់កុមារអាយុក្រោម 16 ឆ្នាំប្រើប្រាស់ប្រព័ន្ធផ្សព្វផ្សាយសង្គមទាំងអស់? យើងនឹងមើលថាតើការហាមឃាត់ទាំងនេះពិតជាមានប្រសិទ្ធភាពដែរឬទេ។ លើសពីនេះទៀត  --"
+    },
+    {
+      "speaker": "Dana White",
+      "text": "I can't afford it. There's no (EXPLETIVE DELETED) way we can do this again.",
+      "cn": "ខ្ញុំមិនអាចមានលទ្ធភាពទេ។ យើងមិនអាចធ្វើបែបនេះទៀតទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The head of the UFC, Dana White, says he won't be doing the White House fight night again, despite it being what he called an overwhelming success. In the meantime, good morning, very early morning to Seattle, which is hosting a World Cup match today. Belgium and Egypt face off at 3 p.m. Eastern.",
+      "cn": "ប្រធាន UFC Dana White និយាយថា ទោះបីជាគាត់គិតថារាត្រីប្រយុទ្ធនៅសេតវិមានទទួលបានជោគជ័យយ៉ាងខ្លាំងក៏ដោយ ក៏គាត់នឹងមិនរៀបចំព្រឹត្តិការណ៍បែបនេះទៀតទេ។ ទន្ទឹមនឹងនេះ សួស្តីពេលព្រឹក ការស្វាគមន៍ពេលព្រឹកព្រលឹមដល់ទីក្រុង Seattle ដែលថ្ងៃនេះនឹងមានការប្រកួត World Cup ។ បែលហ្ស៊ិក និងអេហ្ស៊ីប នឹងប្រកួតគ្នានៅម៉ោង 3 រសៀល ម៉ោងភាគខាងកើត។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "For the people who said there shouldn't be a cage fight at the White House, what do you say?",
+      "cn": "ចំពោះអ្នកដែលនិយាយថា សេតវិមានមិនគួររៀបចំការប្រកួតទ្រុងទេ តើអ្នកយល់យ៉ាងណា?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "They might be right, but since it's here, we're going to be here.",
+      "cn": "ពួកគេប្រហែលជាត្រឹមត្រូវ ប៉ុន្តែដោយសារវានៅទីនេះហើយ យើងនឹងនៅទីនេះ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "I don't agree with everything Donald Trump has -- has been doing this term, but I'm here, and I'm enjoying the moment.",
+      "cn": "ខ្ញុំមិនយល់ស្របនឹងអ្វីគ្រប់យ៉ាងដែល Donald Trump ធ្វើក្នុងអាណត្តិនេះទេ ប៉ុន្តែខ្ញុំនៅទីនេះ រីករាយនឹងពេលនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, UFC fight on the White House lawn. Whether you agreed with it or not, it happened. It was real. Weather slightly delayed the start as President Trump took his seat ringside alongside UFC CEO Dana White. Officially, the event was held on Flag Day, which just also happened to be Donald Trump's 80th birthday. And at one point, the crowd sang \"Happy Birthday.\" And after several fights, the night wrapped up just after 1 a.m. With President Trump greeting the new champion in the Octagon.",
+      "cn": "មិនអីទេ ការប្រយុទ្ធ UFC ត្រូវបានធ្វើឡើងនៅលើស្មៅសេតវិមាន។ មិនថាអ្នកយល់ព្រមឬអត់ទេ វាពិតជាបានកើតឡើង។ នេះជាការពិត។ អាកាសធាតុបានពន្យារពេលចាប់ផ្តើមបន្តិច ប្រធានាធិបតី Trump អង្គុយក្បែរសង្វៀនជាមួយនាយកប្រតិបត្តិ UFC Dana White ។ ជាផ្លូវការ ព្រឹត្តិការណ៍នេះត្រូវបានធ្វើឡើងនៅថ្ងៃទង់ជាតិ ដែលជាថ្ងៃខួបកំណើតគម្រប់ 80 ឆ្នាំរបស់ Donald Trump ។ នៅពេលមួយ ហ្វូងមនុស្សបានច្រៀង Happy Birthday ។ បន្ទាប់ពីការប្រយុទ្ធជាច្រើនដង ព្រឹត្តិការណ៍បានបញ្ចប់បន្ទាប់ពីម៉ោង 1 ព្រឹក ហើយប្រធានាធិបតី Trump បានស្វាគមន៍ជើងឯកថ្មីនៅក្នុងទ្រុង Octagon ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The event was the first of its kind on the White House grounds. So, we're going to ask, how is it going to be remembered, both for the sport and in U.S. history? Joining me now is Mike Leon. He's the host of the podcast, \"Can We Please Talk?\" Good morning, Mike. How are you? MIKE LEON, HOST, \"CAN WE PLEASE TALK?\": Good to see you, Audie. How's everything?",
+      "cn": "នេះជាព្រឹត្តិការណ៍ដំបូងនៃប្រភេទនេះនៅលើទីតាំងសេតវិមាន។ ដូច្នេះ យើងត្រូវសួរថា តើវានឹងត្រូវបានចងចាំយ៉ាងដូចម្តេច ទាំងសម្រាប់កីឡា និងក្នុងប្រវត្តិសាស្ត្រអាមេរិក? ឥឡូវនេះ ចូលរួមជាមួយខ្ញុំគឺ Mike Leon ។ គាត់ជាអ្នកសម្របសម្រួលផតខាស Can We Talk? ។ សួស្តីពេលព្រឹក Mike ។ អ្នកសុខសប្បាយទេ? Mike Leon អ្នកសម្របសម្រួលផតខាស Can We Talk?: រីករាយដែលបានជួបអ្នក Audie ។ អ្វីៗសុខសប្បាយទេ?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, as a fight, was it good? Like, is the card, the tournament? I know the Polymarket, Kalshi prediction markets did very well with all of these different bouts. But what was it like just as a fan?",
+      "cn": "ដូច្នេះ ក្នុងនាមជាការប្រកួត តើវាល្អទេ? ដូចជា បញ្ជីប្រកួត ការប្រកួតជើងឯក? ខ្ញុំដឹងថា Polymarket, Kalshi ទីផ្សារទស្សន៍ទាយបានដំណើរការល្អណាស់ក្នុងការប្រកួតផ្សេងៗគ្នាទាំងនេះ។ ប៉ុន្តែគ្រាន់តែជាអ្នកគាំទ្រ តើមានអារម្មណ៍យ៉ាងណា?"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Yes, just as a fan, you know, working in the combat sports space and overseeing productions. From a production standpoint, it really was immersive, expansive. I mean, we could talk about you couldn't watch it unless you had a Paramount+ subscription. It wasn't free over the air like on CBS, which I thought the president probably would have done, or at least Dana White would have done.",
+      "cn": "បាទ គ្រាន់តែជាអ្នកគាំទ្រ អ្នកដឹងទេ ខ្ញុំធ្វើការក្នុងវិស័យកីឡាប្រយុទ្ធ និងទទួលបន្ទុកផលិតកម្ម។ តាមទស្សនៈផលិតកម្ម វាពិតជាអស្ចារ្យ និងធំធេង។ ខ្ញុំចង់និយាយថា យើងអាចនិយាយបានថា លើកលែងតែអ្នកមានការជាវ Paramount+ អ្នកមិនអាចមើលឃើញទេ។ វាមិនត្រូវបានចាក់ផ្សាយដោយឥតគិតថ្លៃដូច CBS ទេ ខ្ញុំគិតថាប្រធានាធិបតីអាចធ្វើដូច្នេះ ឬយ៉ាងហោចណាស់ Dana White នឹងធ្វើដូច្នេះ។"
+    },
+    {
+      "speaker": "Leon",
+      "text": "But you've got to recoup those costs of the 60 million that they spent to -- to do all of this and the Claw and everything that they implemented. But just from a TV perspective, watching it, the show, the programing that they did. Chris Weidman is a friend of mine who happened to do some of the pre-fight coverage there. It really was a true event outside of a typical arena or some type of setting that houses combat sports. But there's a bunch of things underlying, in terms of the event with respect to politics.",
+      "cn": "ប៉ុន្តែអ្នកត្រូវតែយកមកវិញនូវថ្លៃដើម 60 លានដុល្លារដែលពួកគេបានចំណាយ និងអ្វីៗទាំងអស់ដែលពួកគេបានអនុវត្តដូចជា \"claws\" ជាដើម។ ប៉ុន្តែគ្រាន់តែតាមទស្សនៈទូរទស្សន៍ ការមើលវា កម្មវិធី និងការរៀបចំដែលពួកគេបានធ្វើ។ Chris Weidman គឺជាមិត្តរបស់ខ្ញុំ ដែលបានធ្វើរបាយការណ៍មុនការប្រកួតខ្លះនៅទីនោះ។ វាពិតជាព្រឹត្តិការណ៍ដែលលើសពីសង្វៀនធម្មតា ឬកន្លែងកីឡាប្រយុទ្ធ។ ប៉ុន្តែផ្នែកនយោបាយ មានកត្តាជាច្រើននៅពីក្រោយព្រឹត្តិការណ៍នេះ។"
+    },
+    {
+      "speaker": "Leon",
+      "text": "But from a fight night perspective, Audie, it actually was a pretty decent sporting event.",
+      "cn": "ប៉ុន្តែតាមទស្សនៈរាត្រីប្រកួត Audie នេះពិតជាព្រឹត្តិការណ៍កីឡាដ៏ល្អមួយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And to your point, Dana White pretty much was, like, I'm not going to do this again just because of the sheer expense.",
+      "cn": "ដូចដែលអ្នកបាននិយាយ Dana White បាននិយាយជាមូលដ្ឋានថា គាត់នឹងមិនធ្វើវាម្តងទៀតទេ ដោយសារតែការចំណាយដ៏ធំ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But I want to get to something which is who was, you know, in the Octagon and who was not. You had UFC middleweight champion Sean Strickland. He was off the card. And he's the reigning champ, right, middleweight champ. And Strickland thinks he knows why. He basically has turned down -- he's been this outspoken, you know, critic of Trump on social media.",
+      "cn": "ប៉ុន្តែខ្ញុំចង់និយាយអំពីអ្នកណានៅក្នុងសង្វៀន និងអ្នកណាមិននៅ។ ជើងឯក UFC ទម្ងន់មធ្យម Sean Strickland មិននៅក្នុងបញ្ជីប្រកួតទេ។ គាត់ជាជើងឯកបច្ចុប្បន្ន មែនទេ? ជើងឯកទម្ងន់មធ្យម។ Strickland គិតថាគាត់ដឹងពីមូលហេតុ។ គាត់បានបដិសេធជាមូលដ្ឋាន -- -- គាត់ធ្លាប់ជាអ្នករិះគន់ Trump ដោយត្រង់ៗនៅលើប្រព័ន្ធផ្សព្វផ្សាយសង្គម។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He says that he stopped supporting Trump after, quote, \"Israel made him bomb Iran the first time.\" Another thing he's posted, saying that he got a call from UFC saying he, quote, \"wasn't cleared\" by the White House. And honestly, he showed up anyway; in an extreme MMA on-brand situation was escorted out by park police. I mean, it actually became like a bit of a thing here. Help me make sense of this. It's a big UFC night. A big UFC star's getting hauled out with all this security. What's the politics?",
+      "cn": "គាត់បាននិយាយថាគាត់លែងគាំទ្រ Trump ទៀតហើយ ដោយសារតែ \"អ៊ីស្រាអែលបានទម្លាក់គ្រាប់បែកលើអ៊ីរ៉ង់ជាលើកដំបូង\"។ គាត់ក៏បានប្រកាសថាគាត់បានទទួលទូរស័ព្ទពី UFC ដោយនិយាយថា សេតវិមានចាត់ទុកគាត់ថា \"មិនត្រូវបានអនុម័ត\"។ និយាយដោយស្មោះត្រង់ គាត់នៅតែបង្ហាញខ្លួន។ ក្នុងស្ថានភាព MMA ដ៏ខ្លាំងក្លា គាត់ត្រូវបានប៉ូលីសឧទ្យាននាំចេញទៅ។ ខ្ញុំចង់និយាយថា វាពិតជាក្លាយជារឿងមួយ។ សូមជួយខ្ញុំឱ្យយល់។ នេះជារាត្រី UFC ដ៏សំខាន់មួយ។ តារា UFC ដ៏ធំម្នាក់ត្រូវបានទាញចេញដោយសន្តិសុខជាច្រើន។ តើកត្តានយោបាយជាអ្វី?"
+    },
+    {
+      "speaker": "Leon",
+      "text": "I mean, remember, there's an element of how UFC is also in partnership with the WWE, right? There's a performative element with some of that, for Strickland doing that. And there's also guys who fought on the card. I don't know if you saw the video, Audie, of the -- the person who said the comments about Michelle Obama in the post-fight interview with Joe Rogan, which was disgusting. There are some things that are, from a performance standpoint, always going to mirror what we kind of see in WWE.",
+      "cn": "ខ្ញុំចង់និយាយថា សូមចាំថា UFC ក៏មានកិច្ចសហការជាមួយ WWE ដែរ មែនទេ? Strickland ធ្វើបែបនេះមានលក្ខណៈសម្តែង។ ក៏មានអ្នកចូលរួមប្រកួតខ្លះដែរ។ ខ្ញុំមិនដឹងថាអ្នកបានឃើញវីដេអូទេ Audie អ្នកដែលបាននិយាយពាក្យអាក្រក់អំពី Michelle Obama ទៅកាន់ Joe Rogan ក្នុងបទសម្ភាសន៍ក្រោយការប្រកួត។ តាមទស្សនៈនៃការសម្តែង តែងតែមានអ្វីដែលឆ្លុះបញ្ចាំងពីអ្វីដែលយើងឃើញនៅក្នុង WWE។"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Strickland is right, to a certain extent. There's a reason why he was left off the card. Non-politics perspective wise. There were a few other fights that actually dropped out from this card. But in terms of the event overall, like I said, it was a pretty solid event. But to make sense of it, Audie, I mean, they get punched in the head; they grapple. Sometimes people say different things, and they have different political leanings. This is what you get in the combat sports space.",
+      "cn": "Strickland ត្រឹមត្រូវក្នុងកម្រិតខ្លះ។ មានហេតុផលដែលគាត់មិននៅក្នុងបញ្ជីប្រកួត។ តាមទស្សនៈមិនមែននយោបាយ មានការប្រកួតផ្សេងទៀតជាច្រើនដែលពិតជាបានដកខ្លួន។ ប៉ុន្តែសម្រាប់ព្រឹត្តិការណ៍ទាំងមូល ដូចដែលខ្ញុំបាននិយាយ វាជាព្រឹត្តិការណ៍ដ៏រឹងមាំមួយ។ ប៉ុន្តែដើម្បីយល់ពីវា Audie ខ្ញុំចង់និយាយថា ពួកគេត្រូវបានវាយក្បាល។ ពួកគេចំបាប់។ ពេលខ្លះមនុស្សនិយាយអ្វីផ្សេង មានទំនោរនយោបាយផ្សេង។ នោះហើយជាអ្វីដែលអ្នកទទួលបានក្នុងកីឡាប្រយុទ្ធ។"
+    },
+    {
+      "speaker": "Leon",
+      "text": "I remember working an event where one of our fighters, before the election in '24, wore Trump trunks. And I remember saying to him in the locker room, \"Could you not?\" Like, again, freedom of speech. You can wear whatever you want, but like, you're going to get more attention doing this. And he's, like, I'm going to do it anyway. And then he went out there and did it anyway. So, that's -- if you want me to make sense of it, Audie, that's the way to make sense of it. There is no sense.",
+      "cn": "ខ្ញុំចាំថាក្នុងព្រឹត្តិការណ៍មួយ អ្នកប្រកួតរបស់យើងម្នាក់បានពាក់ខោខ្លី Trump មុនការបោះឆ្នោតឆ្នាំ 2024។ ខ្ញុំចាំថាបាននិយាយទៅកាន់គាត់ក្នុងបន្ទប់ស្លៀកពាក់ថា \"តើអ្នកមិនអាចឈប់បានទេ?\" ដូចគ្នា សេរីភាពក្នុងការនិយាយ។ អ្នកអាចពាក់អ្វីដែលអ្នកចង់ ប៉ុន្តែអ្នកនឹងទទួលបានការចាប់អារម្មណ៍ច្រើនជាងនេះ។ គាត់បាននិយាយថា ខ្ញុំនៅតែពាក់។ បន្ទាប់មកគាត់ចេញទៅពាក់វា។ ដូច្នេះ ប្រសិនបើអ្នកចង់ឱ្យខ្ញុំពន្យល់ Audie នេះជាការពន្យល់។ គ្មានហេតុផលទេ។"
+    },
+    {
+      "speaker": "Leon",
+      "text": "They get punched in the head for a living.",
+      "cn": "ពួកគេចិញ្ចឹមជីវិតដោយការត្រូវវាយក្បាល។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Does this win over some of the young men that Trump is losing in some of his approval ratings?",
+      "cn": "តើនេះអាចឈ្នះយុវជនមួយចំនួនដែល Trump បាត់បង់ក្នុងការគាំទ្របានទេ?"
+    },
+    {
+      "speaker": "Leon",
+      "text": "Audie, you and I talked about this last week when I was in studio with you. Trump has always used the combat sports space as this outlet and vehicle to talk to voters, whether it be his stuff that he did in the boxing space years ago, his relationship with Dana White, obviously with the Ellison family, with Paramount. He has always been in the combat sports space, because he thinks it makes him seem relatable, that he loves these sports. And these are the type of fans.",
+      "cn": "Audie កាលពីសប្តាហ៍មុនខ្ញុំបានពិភាក្សាជាមួយអ្នកនៅក្នុងស្ទូឌីយោអំពីរឿងនេះ។ Trump តែងតែប្រើកីឡាប្រយុទ្ធជាច្រកចេញ និងឧបករណ៍ដើម្បីទំនាក់ទំនងជាមួយអ្នកបោះឆ្នោត មិនថាជាអ្វីដែលគាត់បានធ្វើក្នុងវិស័យប្រដាល់កាលពីច្រើនឆ្នាំមុន ទំនាក់ទំនងរបស់គាត់ជាមួយ Dana White និងជាក់ស្តែងជាមួយគ្រួសារ Ellison និង Paramount។ គាត់តែងតែសកម្មក្នុងវិស័យកីឡាប្រយុទ្ធ ដោយសារតែគាត់គិតថាវាធ្វើឱ្យគាត់មើលទៅងាយស្រួលចូលទៅជិត ហើយគាត់ស្រឡាញ់កីឡាទាំងនេះ។ ហើយទាំងនេះគឺជាអ្នកគាំទ្រប្រភេទនេះ។"
+    },
+    {
+      "speaker": "Leon",
+      "text": "And again, speaking with conservative voters over years in different cities, they've talked about his attendance at these events. And Democrats don't go to these type of things, whereas Trump does. I told you last week, Ruben Gallego and I've had this conversation about Democrats potentially leaning into, like, boxing events, to the relationships that I have in the combat sports space. And it's just -- there's voters there that I feel are being left out. And they feel they're being left out of the conversation.",
+      "cn": "ម្តងទៀត អស់រយៈពេលជាច្រើនឆ្នាំ ពេលនិយាយជាមួយអ្នកបោះឆ្នោតអភិរក្សនិយមនៅទីក្រុងផ្សេងៗ ពួកគេបានលើកឡើងពីការចូលរួមព្រឹត្តិការណ៍ទាំងនេះរបស់គាត់។ ប្រជាធិបតេយ្យមិនចូលរួមព្រឹត្តិការណ៍បែបនេះទេ ប៉ុន្តែ Trump នឹងទៅ។ កាលពីសប្តាហ៍មុនខ្ញុំបានប្រាប់អ្នកថា Ruben Gallego និងខ្ញុំបានពិភាក្សាអំពីលទ្ធភាពដែលប្រជាធិបតេយ្យអាចមានទំនោរចូលរួមក្នុងព្រឹត្តិការណ៍ប្រដាល់ និងបណ្តាញទំនាក់ទំនងរបស់ខ្ញុំក្នុងវិស័យកីឡាប្រយុទ្ធ។ គ្រាន់តែ -- -- មានអ្នកបោះឆ្នោតខ្លះនៅទីនោះ ដែលខ្ញុំមានអារម្មណ៍ថាត្រូវបានគេមើលរំលង។ ហើយពួកគេផ្ទាល់ក៏មានអារម្មណ៍ថាត្រូវបានដកចេញពីការសន្ទនាដែរ។"
+    },
+    {
+      "speaker": "Leon",
+      "text": "var CNN = CNN || {};",
+      "cn": "var CNN = CNN || {};"
+    }
+  ]
+}
