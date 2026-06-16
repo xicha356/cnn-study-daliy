@@ -1,0 +1,1709 @@
+{
+  "date": "2026-06-16",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-16/segment/01",
+  "summary": "Trump在G7峰会上就伊朗问题发表讲话，声称他终止了奥巴马核协议并摧毁了伊朗核设施，阻止了伊朗拥有核武器。他批评奥巴马政府支付巨额资金，强调新协议将防止伊朗拥核。CNN专家分析Trump言论与现实差距，指出伊朗领导层未变，协议细节未公开，引发共和党内部质疑。讨论还涉及以色列安全、霍尔木兹海峡通行费及美国民众对战争与油价焦虑。",
+  "vocabulary": [
+    {
+      "word": "terminate",
+      "phonetic": "/ˈtɜːrmɪneɪt/",
+      "pos": "v.",
+      "usage": "Umum di berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Umum di berita · Lanjutan",
+      "cn": "mengakhiri (perjanjian, kontrak, dll.)",
+      "en": "to bring to an end",
+      "excerpt": "if I didn't terminate that deal, I believe that they would have -- Israel wouldn't be here right now.",
+      "example_cn": "Jika saya tidak mengakhiri perjanjian itu, saya yakin mereka -- -- Israel tidak akan ada sekarang."
+    },
+    {
+      "word": "nuclear dust",
+      "phonetic": "/ˈnuːkliər dʌst/",
+      "pos": "n.",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "军事安全",
+      "level": "专业术语 · 高阶",
+      "cn": "核尘埃（特朗普对核设施被摧毁后的比喻）",
+      "en": "a term used by Trump to describe the remnants of a destroyed nuclear facility",
+      "excerpt": "the second one was what we did with respect to the nuclear dust, as I call it.",
+      "example_cn": "第二件事就是我们针对核尘埃所做的，我这么称呼它。"
+    },
+    {
+      "word": "blow up",
+      "phonetic": "/bloʊ ʌp/",
+      "pos": "phr. v.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "军事安全",
+      "level": "日常表达 · 基础",
+      "cn": "炸毁",
+      "en": "to destroy something by explosion",
+      "excerpt": "We blew it up. The mountain collapsed on top.",
+      "example_cn": "我们把它炸毁了。山体塌陷压在上面。"
+    },
+    {
+      "word": "aim at",
+      "phonetic": "/eɪm æt/",
+      "pos": "phr. v.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "军事安全",
+      "level": "日常表达 · 基础",
+      "cn": "瞄准；针对",
+      "en": "to point a weapon at; to direct something towards",
+      "excerpt": "he had all those missiles aimed at the emir, at Saudi Arabia, at UAE, at Kuwait, at Bahrain.",
+      "example_cn": "他把所有导弹都瞄准了埃米尔、沙特阿拉伯、阿联酋、科威特、巴林。"
+    },
+    {
+      "word": "irrational",
+      "phonetic": "/ɪˈræʃənl/",
+      "pos": "adj.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "社会民生",
+      "level": "新闻常用 · 进阶",
+      "cn": "不理性的；失去理智的",
+      "en": "not logical or reasonable",
+      "excerpt": "They're totally irrational people.",
+      "example_cn": "他们完全是些不理性的人。"
+    },
+    {
+      "word": "blow off the face of the Earth",
+      "phonetic": "/bloʊ ɔːf ðə feɪs əv ði ɜːrθ/",
+      "pos": "phr.",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "固定搭配 · 进阶",
+      "cn": "从地球上抹去（彻底摧毁）",
+      "en": "to destroy completely",
+      "excerpt": "Israel would have been blown off the face of the Earth, 100 percent.",
+      "example_cn": "Israel sudah lama dihapus dari muka bumi, seratus persen."
+    },
+    {
+      "word": "memorandum of agreement",
+      "phonetic": "/ˌmeməˈrændəm əv əˈɡriːmənt/",
+      "pos": "n.",
+      "usage": "Istilah teknis",
+      "difficulty": "Tingkat lanjut",
+      "domain": "Politik dan diplomasi",
+      "level": "Istilah teknis · Tingkat lanjut",
+      "cn": "Nota Kesepahaman (MOA)",
+      "en": "a document outlining the terms of an agreement between parties",
+      "excerpt": "the president speak about this proposed memorandum of agreement with Iran.",
+      "example_cn": "Presiden berbicara tentang nota kesepahaman yang diusulkan dengan Iran."
+    },
+    {
+      "word": "first tier of leadership",
+      "phonetic": "/fɜːrst tɪr əv ˈliːdərʃɪp/",
+      "pos": "n.",
+      "usage": "Umum dalam berita",
+      "difficulty": "Menengah",
+      "domain": "Politik dan diplomasi",
+      "level": "Umum dalam berita · Menengah",
+      "cn": "Kepemimpinan eselon pertama",
+      "en": "the top level of leadership",
+      "excerpt": "the first tier of leadership was gone after strikes",
+      "example_cn": "Kepemimpinan eselon pertama menghilang setelah serangan."
+    },
+    {
+      "word": "second tier of leadership",
+      "phonetic": "/ˈsekənd tɪr əv ˈliːdərʃɪp/",
+      "pos": "n.",
+      "usage": "Umum dalam berita",
+      "difficulty": "Menengah",
+      "domain": "Politik dan diplomasi",
+      "level": "Umum dalam berita · Menengah",
+      "cn": "Kepemimpinan eselon kedua",
+      "en": "the second level of leadership",
+      "excerpt": "the second tier of leadership was gone after U.S. strikes.",
+      "example_cn": "Kepemimpinan eselon kedua menghilang setelah serangan AS."
+    },
+    {
+      "word": "haunted by the shadow",
+      "phonetic": "/ˈhɔːntɪd baɪ ðə ˈʃædoʊ/",
+      "pos": "phr.",
+      "usage": "Kolokasi tetap",
+      "difficulty": "Menengah",
+      "domain": "Kehidupan sosial",
+      "level": "Kolokasi tetap · Menengah",
+      "cn": "Dihantui bayang-bayang...",
+      "en": "to be persistently troubled by something from the past",
+      "excerpt": "the president is still haunted by the shadow of Barack Obama's nuclear deal.",
+      "example_cn": "Presiden masih dihantui bayang-bayang kesepakatan nuklir Barack Obama."
+    },
+    {
+      "word": "obsess over",
+      "phonetic": "/əbˈses ˈoʊvər/",
+      "pos": "phr. v.",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Dasar",
+      "domain": "Kehidupan sosial",
+      "level": "Ekspresi sehari-hari · Dasar",
+      "cn": "terobsesi dengan; terlalu fokus pada",
+      "en": "to think about something constantly",
+      "excerpt": "he spent most of the time obsessing over how he did a better deal than Obama",
+      "example_cn": "Dia menghabiskan sebagian besar waktunya terobsesi dengan bagaimana dia bisa lebih baik dari Obama."
+    },
+    {
+      "word": "supreme leader",
+      "phonetic": "/suːˈpriːm ˈliːdər/",
+      "pos": "n.",
+      "usage": "Latar Belakang Nama Khusus",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Latar Belakang Nama Khusus · Lanjutan",
+      "cn": "Pemimpin Tertinggi (pemimpin politik dan agama tertinggi Iran)",
+      "en": "the highest-ranking political and religious leader in Iran",
+      "excerpt": "He says that the supreme leader and those around him",
+      "example_cn": "Dia mengatakan Pemimpin Tertinggi dan orang-orang di sekitarnya"
+    },
+    {
+      "word": "IRGC",
+      "phonetic": "/aɪ ɑːr dʒiː siː/",
+      "pos": "abbr.",
+      "usage": "Latar Belakang Nama Khusus",
+      "difficulty": "Tingkat Tinggi",
+      "domain": "Militer dan Keamanan",
+      "level": "Latar Belakang Nama Khusus · Tingkat Tinggi",
+      "cn": "Korps Garda Revolusi Islam Iran",
+      "en": "Islamic Revolutionary Guard Corps",
+      "excerpt": "the IRGC, the -- the paramilitary Revolutionary Guard.",
+      "example_cn": "Korps Garda Revolusi Islam Iran -- Garda Revolusi semi-militer."
+    },
+    {
+      "word": "clear-eyed",
+      "phonetic": "/klɪr aɪd/",
+      "pos": "adj.",
+      "usage": "Umum dalam Berita",
+      "difficulty": "Lanjutan",
+      "domain": "Masyarakat dan Kehidupan Sosial",
+      "level": "Umum dalam Berita · Lanjutan",
+      "cn": "berpikiran jernih; berwawasan",
+      "en": "able to see things clearly; realistic",
+      "excerpt": "he needs to be a little more clear-eyed and a little more patient.",
+      "example_cn": "Dia perlu lebih berpikiran jernih dan lebih sabar."
+    },
+    {
+      "word": "get so far ahead of",
+      "phonetic": "/ɡet soʊ fɑːr əˈhɛd əv/",
+      "pos": "phr.",
+      "usage": "Kolokasi Tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Masyarakat dan Kehidupan Sosial",
+      "level": "Kolokasi Tetap · Lanjutan",
+      "cn": "jauh di depan (sering berarti tidak realistis)",
+      "en": "to be far in advance of something, often unrealistically",
+      "excerpt": "his rhetoric right now is getting so far ahead of where the paper is",
+      "example_cn": "Retorikanya sekarang jauh di depan konten dokumen yang sebenarnya."
+    },
+    {
+      "word": "humiliate",
+      "phonetic": "/hjuːˈmɪlieɪt/",
+      "pos": "v.",
+      "usage": "Umum dalam Berita",
+      "difficulty": "Lanjutan",
+      "domain": "Sosial dan Kesejahteraan Masyarakat",
+      "level": "Umum dalam Berita · Lanjutan",
+      "cn": "mempermalukan; membuat malu",
+      "en": "to make someone feel ashamed or foolish",
+      "excerpt": "he runs the risk of not just humiliating the United States",
+      "example_cn": "Dia mengambil risiko tidak hanya mempermalukan Amerika"
+    },
+    {
+      "word": "undermine",
+      "phonetic": "/ˌʌndərˈmaɪn/",
+      "pos": "v.",
+      "usage": "Umum dalam Berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Umum dalam Berita · Lanjutan",
+      "cn": "melemahkan; merusak",
+      "en": "to weaken or damage gradually",
+      "excerpt": "undermining our relationships across the region.",
+      "example_cn": "Merusak hubungan kita di seluruh wilayah."
+    },
+    {
+      "word": "wall",
+      "phonetic": "/wɔːl/",
+      "pos": "n.",
+      "usage": "Frasa Tetap",
+      "difficulty": "Dasar",
+      "domain": "Politik dan Diplomasi",
+      "level": "Frasa Tetap · Dasar",
+      "cn": "tembok (metafora Trump untuk penghalang senjata nuklir)",
+      "en": "a barrier; metaphor for preventing nuclear weapons",
+      "excerpt": "what he is producing is going to be a wall preventing a nuclear weapon",
+      "example_cn": "Apa yang dia bangun akan menjadi tembok untuk mencegah senjata nuklir."
+    },
+    {
+      "word": "road to a nuclear weapon",
+      "phonetic": "/roʊd tuː ə ˈnuːkliər ˈwepən/",
+      "pos": "phr.",
+      "usage": "Frasa Tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Keamanan Militer",
+      "level": "Frasa Tetap · Lanjutan",
+      "cn": "jalan menuju senjata nuklir (merujuk pada perjanjian yang justru menyebabkan senjata nuklir)",
+      "en": "a path that leads to acquiring nuclear weapons",
+      "excerpt": "what he calls a road to a nuclear weapon",
+      "example_cn": "Apa yang dia sebut sebagai jalan menuju senjata nuklir"
+    },
+    {
+      "word": "desperate",
+      "phonetic": "/ˈdespərət/",
+      "pos": "adj.",
+      "usage": "Ekspresi Sehari-hari",
+      "difficulty": "Dasar",
+      "domain": "Sosial dan Kesejahteraan Masyarakat",
+      "level": "Ekspresi Sehari-hari · Dasar",
+      "cn": "putus asa; sangat menginginkan",
+      "en": "feeling a sense of hopelessness; extremely eager",
+      "excerpt": "He's desperate to get this thing over",
+      "example_cn": "Dia sangat menginginkan untuk mengakhiri ini."
+    },
+    {
+      "word": "anxious",
+      "phonetic": "/ˈæŋkʃəs/",
+      "pos": "adj.",
+      "usage": "Ekspresi Sehari-hari",
+      "difficulty": "Dasar",
+      "domain": "Sosial dan Kehidupan Masyarakat",
+      "level": "Ekspresi Sehari-hari · Dasar",
+      "cn": "cemas; gelisah",
+      "en": "feeling worried or nervous",
+      "excerpt": "the American people are anxious about this war.",
+      "example_cn": "Rakyat Amerika merasa cemas terhadap perang ini."
+    },
+    {
+      "word": "Strait of Hormuz",
+      "phonetic": "/streɪt əv ˈhɔːrmʌz/",
+      "pos": "n.",
+      "usage": "Latar Belakang Nama Khusus",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Latar Belakang Nama Khusus · Lanjutan",
+      "cn": "Selat Hormuz (jalur transportasi minyak penting)",
+      "en": "a strait between the Persian Gulf and the Gulf of Oman",
+      "excerpt": "It's hard to have a wall in the Strait of Hormuz",
+      "example_cn": "Sulit membangun tembok di Selat Hormuz."
+    },
+    {
+      "word": "toll",
+      "phonetic": "/toʊl/",
+      "pos": "n.",
+      "usage": "Umum dalam Berita",
+      "difficulty": "Lanjutan",
+      "domain": "Ekonomi dan Keuangan",
+      "level": "Umum dalam Berita · Lanjutan",
+      "cn": "biaya tol; biaya jalan",
+      "en": "a fee for using a road or waterway",
+      "excerpt": "Trump is saying there will not be a toll on the Strait of Hormuz.",
+      "example_cn": "Trump mengatakan tidak akan ada biaya tol di Selat Hormuz."
+    },
+    {
+      "word": "green cash",
+      "phonetic": "/ɡriːn kæʃ/",
+      "pos": "n.",
+      "usage": "Kolokasi Tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Ekonomi dan Keuangan",
+      "level": "Kolokasi Tetap · Lanjutan",
+      "cn": "uang tunai (khususnya dolar AS)",
+      "en": "U.S. dollar bills (green in color)",
+      "excerpt": "He paid 1.7 billion from an airplane, all green cash.",
+      "example_cn": "Dia membayar 1,7 miliar dolar dari pesawat, semuanya tunai."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "And if I didn't do that -- Howard knows better than anybody -- if I didn't terminate that deal, I believe that they would have -- Israel wouldn't be here right now.",
+      "cn": "Jika saya tidak melakukan itu -- Howard tahu lebih baik dari siapa pun -- jika saya tidak menghentikan perjanjian itu, saya yakin mereka sudah -- Israel sekarang tidak akan ada.",
+      "structure": "Kalimat utama adalah I believe that..., mengandung dua klausa if bersyarat yang paralel, diselingi dengan Howard knows better than anybody, dan klausa objek dari kalimat utama mengandung ekspresi elipsis yang disisipkan dengan tanda pisah.",
+      "analysis": "1. Sisipan: Howard knows better than anybody memotong klausa bersyarat, meningkatkan daya persuasi. 2. Elipsis: they would have diikuti dengan penghilangan done something, umum dalam bahasa lisan. 3. Suasana tidak nyata: if I didn't...would have...menunjukkan kebalikan dari fakta masa lalu."
+    },
+    {
+      "en": "And the second one was what we did with respect to the nuclear dust, as I call it.",
+      "cn": "Hal kedua adalah tindakan yang kami ambil terhadap apa yang disebut 'debu nuklir'.",
+      "structure": "Struktur subjek-kata kerja-pelengkap, pelengkap adalah klausa nominal yang diawali what, dan as I call it adalah sisipan.",
+      "analysis": "1. with respect to：关于，新闻常用。2. as I call it：插入语，表示自创术语。3. nuclear dust：比喻说法，指核材料残留。"
+    },
+    {
+      "en": "And if they had a nuclear weapon, they would have used it on Israel.",
+      "cn": "如果他们当时拥有核武器，他们就会对以色列使用。",
+      "structure": "if引导的虚拟条件句，主句为would have used。",
+      "analysis": "1. 虚拟语气：与过去事实相反，表示假设。2. used it on：对……使用，介词on表示目标。"
+    },
+    {
+      "en": "And actually, that was a mistake for them, because it brought us these countries, in particular, the five countries -- it brought us.",
+      "cn": "实际上，这对他们来说是个错误，因为这让我们得到了这些国家，特别是那五个国家 --  -- 让我们得到了。",
+      "structure": "主句为that was a mistake，because引导原因状语从句，in particular为插入语，破折号后重复强调。",
+      "analysis": "1. in particular：特别是，用于列举。2. 破折号重复：it brought us 重复强调结果。3. 口语化表达：逻辑跳跃，需结合上下文理解。"
+    },
+    {
+      "en": "But you wouldn't have -- if it weren't for the United States of America -- with me, because Obama was the opposite -- Israel would not exist right now.",
+      "cn": "但是你们就不会 --  -- 如果没有美利坚合众国 --  -- 有我，因为奥巴马正好相反 --  -- 以色列现在就不会存在。",
+      "structure": "主句为you wouldn't have...，中间插入if it weren't for...和because从句，破折号分隔。",
+      "analysis": "1. if it weren't for：要不是，虚拟语气。2. 插入语：with me 补充说明。3. 口语省略：you wouldn't have 后省略了宾语。"
+    },
+    {
+      "en": "Israel would have been blown off the face of the Earth, 100 percent.",
+      "cn": "以色列早就被从地球上抹去了，百分之百。",
+      "structure": "简单句，would have been blown 为被动语态的虚拟语气。",
+      "analysis": "1. blown off the face of the Earth：夸张表达，意为彻底摧毁。2. 100 percent：口语强调，相当于absolutely。"
+    },
+    {
+      "en": "He spent the bulk of his time talking about Israel, reacting to Bibi Netanyahu and his approach to the region, especially with his handling of the war in -- in Southern Lebanon.",
+      "cn": "他把大部分时间花在谈论以色列上，回应内塔尼亚胡及其对该地区的做法，特别是他处理 --  -- 处理南黎巴嫩战争的方式。",
+      "structure": "主句为He spent the bulk of his time talking about...，reacting to...为伴随状语，especially with...进一步说明。",
+      "analysis": "1. the bulk of：大部分，新闻常用。2. reacting to：回应，表示评论。3. handling of：处理方式。4. 重复in：口语修正。"
+    },
+    {
+      "en": "There was a moment where he spoke quite a bit about Iran itself, talking about how the first tier of leadership was gone after strikes, and then the second tier of leadership was gone after U.S. strikes.",
+      "cn": "有一个时刻他相当多地谈论伊朗本身，谈到第一层领导层在打击后消失，然后第二层领导层在美国打击后消失。",
+      "structure": "主句为There was a moment where...，where引导定语从句，talking about...为伴随状语，how引导宾语从句。",
+      "analysis": "1. a moment where：……的时刻。2. quite a bit：相当多。3. first/second tier of leadership：第一/二层领导层，新闻术语。4. gone after：在……之后消失。"
+    },
+    {
+      "en": "Clearly, he spent most of the time obsessing over how he did a better deal than Obama, when we don't even have a deal right now on the nuclear program.",
+      "cn": "显然，他大部分时间都在纠结他如何比奥巴马做得更好，而我们现在甚至还没有一个关于核计划的协议。",
+      "structure": "主句为he spent most of the time obsessing over...，how引导宾语从句，when引导对比状语从句。",
+      "analysis": "1. obsessing over：纠结于，沉迷于。2. do a better deal than：比……做得更好。3. when：此处表对比，意为\"而\"。"
+    },
+    {
+      "en": "And I think that's the key thing to understand, is that where President Trump is thinking things are is not actually where they are when it comes to the Iranian leadership.",
+      "cn": "我认为关键要理解的是，特朗普总统认为的情况实际上并非伊朗领导层的真实情况。",
+      "structure": "主句为I think that's the key thing to understand，后接is that表语从句，其中包含where引导的主语从句和表语从句。",
+      "analysis": "1. the key thing to understand：关键要理解的事。2. where...is not where...：……的地方不是……的地方。3. when it comes to：当谈到，关于。"
+    },
+    {
+      "en": "And his rhetoric right now is getting so far ahead of where the paper is that he runs the risk of not just humiliating the United States but also undermining our relationships across the region.",
+      "cn": "他现在的言论远远超出了文件的实际内容，以至于他不仅冒着羞辱美国的风险，还冒着破坏我们与整个地区关系的风险。",
+      "structure": "主句为his rhetoric...is getting so far ahead of...that...，so...that...结果状语从句，not just...but also...并列结构。",
+      "analysis": "1. get ahead of：超前于。2. where the paper is：文件的实际状态。3. run the risk of：冒……风险。4. humiliating/undermining：羞辱/破坏，动词并列。"
+    },
+    {
+      "en": "We may very well find ourselves with no new agreement.",
+      "cn": "我们很可能发现自己没有新协议。",
+      "structure": "简单句，may very well表示可能性很大。",
+      "analysis": "1. may very well：很可能，加强语气。2. find ourselves with：发现自己处于……状态。"
+    },
+    {
+      "en": "But the president saying he has an agreement, and then the region, of course, ends up in this sort of uncertainty.",
+      "cn": "但总统说他有一个协议，然后该地区当然最终陷入这种不确定性。",
+      "structure": "并列句，前半句为the president saying...（独立主格或口语省略），后半句为the region ends up...。",
+      "analysis": "1. saying：现在分词作伴随，口语中常见。2. of course：插入语。3. end up in：最终陷入。"
+    },
+    {
+      "en": "One of the things we heard him say today and has said in the past is that what he is producing is going to be a wall preventing a nuclear weapon versus what he calls a road to a nuclear weapon, which is how he characterizes the Obama administration agreements.",
+      "cn": "我们今天听到他说的以及他过去说过的一件事是，他正在打造的将是一堵防止核武器的墙，而他称之为通往核武器的路，这是他形容奥巴马政府协议的方式。",
+      "structure": "主句为One of the things...is that...，that引导表语从句，其中包含what主语从句和which非限制性定语从句。",
+      "analysis": "1. we heard him say：省略that的定语从句。2. a wall preventing...versus a road to...：对比结构。3. characterize...as：将……描述为。"
+    },
+    {
+      "en": "No American wants Iran to have a nuclear weapon, but they also don't want $4 a gallon of gas.",
+      "cn": "没有美国人希望伊朗拥有核武器，但他们也不想要每加仑4美元的汽油。",
+      "structure": "并列句，but连接两个否定句。",
+      "analysis": "1. No American：全部否定。2. $4 a gallon of gas：每加仑4美元汽油，新闻常用价格表达。"
+    },
+    {
+      "en": "And we all know Donald Trump, and I even give Donald Trump some credit on his politics, like he was to come out and say, I got this done, I fixed it.",
+      "cn": "我们都了解唐纳德·特朗普，我甚至在他的政治上给他一些肯定，比如他会站出来说，我搞定了，我解决了。",
+      "structure": "并列句，and连接两个分句，like引导举例。",
+      "analysis": "1. give credit on：在……方面给予肯定。2. come out and say：公开说。3. got this done/fixed it：口语化表达，意为完成/解决。"
+    },
+    {
+      "en": "And y'all know I'm the wall guy.",
+      "cn": "你们都知道我是那个筑墙的人。",
+      "structure": "简单句，y'all为you all缩写。",
+      "analysis": "1. y'all：美国南方口语，你们。2. the wall guy：指特朗普标志性的边境墙政策。"
+    },
+    {
+      "en": "We appreciate the relationship we've had over this short period of time with Iran.",
+      "cn": "我们感谢在这短暂时间内与伊朗建立的关系。",
+      "structure": "主句为We appreciate the relationship，后接省略that的定语从句。",
+      "analysis": "1. appreciate：menghargai, sering digunakan dalam berita. 2. over this short period of time：dalam waktu singkat ini."
+    },
+    {
+      "en": "But the one thing that's happening that's of note, frankly, the only thing that really matters in it, is Iran will never have a nuclear weapon.",
+      "cn": "Tetapi satu hal yang patut diperhatikan yang sedang terjadi, dan terus terang satu-satunya hal yang benar-benar penting, adalah bahwa Iran tidak akan pernah memiliki senjata nuklir.",
+      "structure": "Kalimat utama adalah the one thing...is..., that's happening dan that's of note adalah klausa relatif, frankly adalah sisipan, the only thing... adalah aposisi.",
+      "analysis": "1. of note：patut diperhatikan. 2. frankly：terus terang, sisipan. 3. that really matters：yang benar-benar penting."
+    },
+    {
+      "en": "We want to know that we are actually standing in the gap and making sure that we are not going to be -- be abused and traumatized by the Iranian patriarchy.",
+      "cn": "Kami ingin tahu bahwa kami benar-benar mengisi kekosongan, memastikan bahwa kami tidak -- -- tidak dianiaya dan trauma oleh patriarki Iran.",
+      "structure": "Kalimat utama adalah We want to know that..., that memimpin klausa objek, dalam klausa tersebut and menghubungkan dua predikat sejajar, setelah tanda pisah diulang be.",
+      "analysis": "1. stand in the gap：mengisi kekosongan, metafora perlindungan. 2. making sure that：memastikan bahwa. 3. be abused and traumatized：kalimat pasif, dianiaya dan trauma. 4. patriarchy：patriarki."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Perbandingan Perjanjian Nuklir Iran Trump vs Obama",
+      "content": "Pada KTT G7, Trump berulang kali mengkritik Perjanjian Nuklir Iran (JCPOA) yang ditandatangani pemerintah Obama pada 2015, menyebutnya membayar uang tunai besar (1,7 miliar dolar) kepada Iran, dan menuduh perjanjian itu memberi Iran jalan menuju senjata nuklir. Ia mengklaim bahwa ia mengakhiri perjanjian dan menghancurkan fasilitas nuklir, mencegah Iran memiliki nuklir. Namun, para ahli menunjukkan bahwa Trump saat ini belum mencapai kesepakatan baru, dan pernyataannya tidak sesuai dengan kenyataan.",
+      "keywords": "JCPOA · nuclear deal · terminate · green cash"
+    },
+    {
+      "title": "Situasi Kepemimpinan Iran Saat Ini dan Peran IRGC",
+      "content": "Trump mengklaim bahwa eselon pertama dan kedua kepemimpinan Iran telah dieliminasi, dan kepemimpinan saat ini rasional. Namun, pakar Joel Rubin menunjukkan bahwa Pemimpin Tertinggi Iran (Supreme Leader) dan Garda Revolusi Islam (IRGC) masih memegang kekuasaan nyata, dan kepemimpinan tidak berubah secara fundamental. IRGC adalah pasukan paramiliter Iran yang memiliki pengaruh besar terhadap program nuklir dan masalah keamanan.",
+      "keywords": "Supreme Leader · IRGC · first tier · second tier"
+    },
+    {
+      "title": "Kontroversi Biaya Lintas Selat Hormuz",
+      "content": "Trump mengatakan tidak akan mengizinkan Iran memungut biaya lintas (toll) di Selat Hormuz (Strait of Hormuz), sementara pihak Iran mengisyaratkan kemungkinan mengenakan biaya. Selat Hormuz adalah jalur transportasi minyak terpenting di dunia, sekitar 20% minyak diangkut melaluinya. Kontroversi ini menyangkut kebebasan navigasi, keamanan energi, dan ketegangan regional.",
+      "keywords": "Strait of Hormuz · toll · oil transit · freedom of navigation"
+    },
+    {
+      "title": "Keraguan Internal Partai Republik terhadap Nota Kesepahaman Iran",
+      "content": "Meskipun Trump mengumumkan telah mencapai Nota Kesepahaman (Memorandum of Agreement, MOA) dengan Iran, Senator Republik James Lankford dan Lindsey Graham meminta agar rincian perjanjian dipublikasikan. Komentator konservatif Mark Levin juga mengkritik ketidaktransparanan perjanjian. Para ahli menunjukkan bahwa kurangnya rincian dapat merusak kredibilitas AS dan hubungan dengan sekutu regional.",
+      "keywords": "Memorandum of Agreement · transparency · Republican · Mark Levin"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "Dalam kalimat asli 'if I didn't terminate that deal', 'terminate' paling mendekati arti?",
+      "options": [
+        "A. Memulai",
+        "B. Mengakhiri",
+        "C. Memodifikasi",
+        "D. 延长"
+      ],
+      "answer": 1,
+      "explanation": "terminate berarti 'mengakhiri', Trump merujuk pada penghentian perjanjian nuklir Iran era Obama."
+    },
+    {
+      "type": "vocab",
+      "question": "原文 'the IRGC, the -- the paramilitary Revolutionary Guard' 中，'IRGC' 指什么？",
+      "options": [
+        "A. 伊朗情报机构",
+        "B. 伊朗伊斯兰革命卫队",
+        "C. 伊朗外交部",
+        "D. 伊朗原子能组织"
+      ],
+      "answer": 1,
+      "explanation": "IRGC 是 Islamic Revolutionary Guard Corps 的缩写，即伊朗伊斯兰革命卫队，是伊朗重要的军事力量。"
+    },
+    {
+      "type": "vocab",
+      "question": "原文 'Trump is saying there will not be a toll on the Strait of Hormuz' 中，'toll' 的意思是？",
+      "options": [
+        "A. 损失",
+        "B. 通行费",
+        "C. 钟声",
+        "D. 数量"
+      ],
+      "answer": 1,
+      "explanation": "toll 在此处指 '通行费'，特朗普反对伊朗在霍尔木兹海峡收取费用。"
+    },
+    {
+      "type": "comprehension",
+      "question": "根据对话，特朗普对伊朗核协议的主要批评是什么？",
+      "options": [
+        "A. 协议太严格",
+        "B. 美国支付了太多现金",
+        "C. 协议没有涉及导弹",
+        "D. 协议期限太短"
+      ],
+      "answer": 1,
+      "explanation": "特朗普批评奥巴马政府支付了17亿美元现金（green cash），并称该协议是通往核武器之路。"
+    },
+    {
+      "type": "comprehension",
+      "question": "专家Joel Rubin认为特朗普对伊朗领导层的看法存在什么问题？",
+      "options": [
+        "A. 特朗普高估了伊朗的威胁",
+        "B. 特朗普低估了IRGC的持续控制",
+        "C. 特朗普忽略了以色列的角色",
+        "D. Trump melebih-lebihkan kemajuan kesepakatan"
+      ],
+      "answer": 1,
+      "explanation": "Rubin指出，尽管特朗普声称领导层已改变，但IRGC仍控制伊朗，实际领导层未变。"
+    },
+    {
+      "type": "comprehension",
+      "question": "Apa kekhawatiran utama Partai Republik terhadap nota kesepakatan Iran?",
+      "options": [
+        "A. Kesepakatan terlalu lemah",
+        "B. Kesepakatan kurang transparan",
+        "C. Kesepakatan merugikan Israel",
+        "D. Biaya kesepakatan terlalu tinggi"
+      ],
+      "answer": 1,
+      "explanation": "Beberapa anggota Partai Republik seperti Lankford, Graham, dan Levin meminta agar rincian kesepakatan dipublikasikan, mengkritik ketidaktransparannya."
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "U.S. President",
+      "text": "And if I didn't do that -- Howard knows better than anybody -- if I didn't terminate that deal, I believe that they would have -- Israel wouldn't be here right now. And the second one was what we did with respect to the nuclear dust, as I call it. Right? We blew it up. The mountain collapsed on top. It was -- you can't get to it. And they were two weeks away from having a nuclear weapon. And if they had a nuclear weapon, they would have used it on Israel.",
+      "cn": "如果我没有那样做 --  -- Howard比任何人都清楚 --  -- 如果我没有终止那笔交易，我相信他们早就 --  -- 以色列现在就不会存在了。第二件事就是我们所谓的核尘埃处理。对吧？我们把它炸了。山体坍塌压在上面。你根本进不去。他们当时距离拥有核武器只差两周。如果他们有了核武器，他们就会用来对付以色列。"
+    },
+    {
+      "speaker": "U.S. President",
+      "text": "And I hate to say it, and probably the rest of the Middle East, because they had all those missiles aimed at the emir, at Saudi Arabia, at UAE, at Kuwait, at Bahrain. I mean, the biggest surprise in this whole thing -- I didn't think you guys would. I thought he would aim at Israel, but he didn't aim at Israel, much less. He aimed at your countries. And actually, that was a mistake for them, because it brought us these countries, in particular, the five countries -- it brought us. I mean, he even hit Turkey once.",
+      "cn": "我不想这么说，可能还有中东其他地区，因为他们所有的导弹都瞄准了Emir、沙特阿拉伯、UAE、科威特、巴林。我的意思是，整件事中最大的意外是 --  -- 我没想到你们会这样。我以为他会瞄准以色列，但他没有，甚至更少。他瞄准了你们的国家。实际上，这对他们来说是个错误，因为这让我们和这些国家，特别是那五个国家 --  -- 走到了一起。我的意思是，他甚至有一次还打中了土耳其。"
+    },
+    {
+      "speaker": "U.S. President",
+      "text": "I never understood it. Nobody's going to understand it. That's the problem. They're totally irrational people. And those people are now gone. And I think Iran has rational leadership now.",
+      "cn": "我从来都不理解。没人能理解。这就是问题所在。他们完全是些不理性的人。那些人现在已经不在了。我认为伊朗现在有了理性的领导层。"
+    },
+    {
+      "speaker": "Trump",
+      "text": "But you wouldn't have -- if it weren't for the United States of America -- with me, because Obama was the opposite -- Israel would not exist right now. Israel would have been blown off the face of the Earth, 100 percent. And every smart person in Israel knows that. OK. Thank you very much, everybody. Thank you. Thank you.",
+      "cn": "但如果没有美利坚合众国 --  -- 和我一起，因为Obama是相反的 --  -- 以色列现在就不会存在。以色列早就从地球上被抹去了，百分之百。以色列每个聪明人都知道这一点。好了，非常感谢大家。谢谢。谢谢。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "Thank you. Thank you, you guys.",
+      "cn": "谢谢。谢谢你们。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "We're just hearing President Trump. He's at that G-7 summit in France. He was sitting across from an emir from the regional countries. And they were talking, taking questions about Iran, even taking questions about Ukraine and Russia. But he spent the bulk of his time talking about Israel, reacting to Bibi Netanyahu and his approach to the region, especially with his handling of the war in -- in Southern Lebanon. So, I'm going to bring in the group chat this morning. Welcome to the show.",
+      "cn": "我们刚刚听到Trump总统的讲话。他正在法国参加七国集团峰会。他当时坐在一位地区国家Emir的对面。他们正在谈论并回答关于伊朗的问题，甚至还有关于乌克兰和俄罗斯的问题。但他大部分时间都在谈论以色列，回应Bibi Netanyahu及其对地区的做法，特别是他处理南黎巴嫩战争的方式。所以，我要引入今天的群聊。欢迎来到节目。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "We've got Sabrina Rodriguez, politics reporter at \"The Wall Street Journal.\" We've got Joel Rubin, former deputy assistant secretary of state. He's also the author of \"The Briefing Book\" on Substack. And then Chuck Rocha, Democratic strategist and former senior adviser to Bernie Sanders presidential campaigns. And Penny Nance, CEO of Concerned Women for America. We were going to start the show with all the reaction to everything we heard yesterday.",
+      "cn": "我们有《华尔街日报》政治记者Sabrina Rodriguez。还有前副助理国务卿Joel Rubin，他也是Substack上《简报》的作者。还有民主党策略师、Bernie Sanders总统竞选活动前高级顾问Chuck Rocha。以及美国关心妇女组织首席执行官Penny Nance。我们本来要以对昨天听到的一切的反应来开始节目。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "And now, just moments ago, we heard the president speak about this proposed memorandum of agreement with Iran. There was a moment where he spoke quite a bit about Iran itself, talking about how the first tier of leadership was gone after strikes, and then the second tier of leadership was gone after U.S. strikes. And then he started talking about who he's dealing with now in a positive way.",
+      "cn": "而现在，就在刚才，我们听到总统谈到了这个拟议中的与伊朗的协议备忘录。有一个时刻他谈了很多关于伊朗本身，谈到第一层领导层在打击后消失了，然后第二层领导层在美国打击后也消失了。然后他开始以积极的方式谈论他现在正在打交道的人。"
+    },
+    {
+      "speaker": "Joel Rubin",
+      "text": "Yes, Audie. Look, the president is still haunted by the shadow of Barack Obama's nuclear deal. Clearly, he spent most of the time obsessing over how he did a better deal than Obama, when we don't even have a deal right now on the nuclear program. So, with whom he's speaking, I don't know exactly. He says that the supreme leader and those around him -- we're going to see the foreign minister, potentially, on Friday, signing the agreement with the vice president.",
+      "cn": "是的，Audi。看，总统仍然被Barack Obama的核协议阴影所困扰。显然，他大部分时间都在纠结于他如何比Obama做得更好，而我们现在甚至还没有一个关于核计划的协议。所以，他在跟谁说话，我不太确定。他说最高领袖和他周围的人 --  -- 我们可能会在周五看到外长与副总统签署协议。"
+    },
+    {
+      "speaker": "Joel Rubin",
+      "text": "And, of course, the IRGC, the -- the paramilitary Revolutionary Guard. They're the ones really controlling Iran right now. It's basically the same people. And I think that's the key thing to understand, is that where President Trump is thinking things are is not actually where they are when it comes to the Iranian leadership. And he needs to be a little more clear-eyed and a little more patient.",
+      "cn": "当然，还有伊斯兰革命卫队，准军事革命卫队。他们才是现在真正控制伊朗的人。基本上还是同一批人。我认为关键是要理解，Trump总统认为的情况与伊朗领导层的实际情况并不相符。他需要更清醒一点，更有耐心一点。"
+    },
+    {
+      "speaker": "Joel Rubin",
+      "text": "And his rhetoric right now is getting so far ahead of where the paper is that he runs the risk of not just humiliating the United States but also undermining our relationships across the region. We may very well find ourselves with no new agreement. But the president saying he has an agreement, and then the region, of course, ends up in this sort of uncertainty. And that's why you see the Israelis reacting so cautiously, as they are.",
+      "cn": "他现在的言论远远超出了文件本身的内容，他不仅冒着羞辱美国的风险，还可能破坏我们与整个地区的关系。我们很可能最终无法达成新协议。但总统声称他已达成协议，而该地区当然会陷入这种不确定性。这就是为什么你会看到以色列人如此谨慎地做出反应。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, we're going to talk about that more in the program. But I want to come to your point of the language that he's using. One of the things we heard him say today and has said in the past is that what he is producing is going to be a wall preventing a nuclear weapon versus what he calls a road to a nuclear weapon, which is how he characterizes the Obama administration agreements. It's interesting to see the term \"wall\" come back here, which was helpful to him in an immigration context.",
+      "cn": "是的，我们将在节目中进一步讨论这一点。但我想谈谈你提到的他使用的语言。我们今天听到他说的以及他过去说过的一件事是，他正在打造的是防止核武器的\"墙\"，而他称之为通往核武器的\"路\"，这是他用来形容Obama政府协议的说法。有趣的是，\"墙\"这个词再次出现，这在移民问题上对他很有帮助。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But how does that fall on your ear in this context?",
+      "cn": "但在这种情况下，你听到这个词感觉如何？"
+    },
+    {
+      "speaker": "Chuck Rocha",
+      "text": "He's desperate to get this thing over, because the American people are anxious about this war. No American wants Iran to have a nuclear weapon, but they also don't want $4 a gallon of gas. So, I think that's the pressure he's under. And we all know Donald Trump. And I even give Donald Trump some credit on his politics, like he was to come out and say, I got this done, I fixed it. Gas is coming down, midterms are coming, and I've got a wall against this thing. And y'all know I'm the wall guy.",
+      "cn": "他急于了结此事，因为美国人民对这场战争感到焦虑。没有美国人希望伊朗拥有核武器，但他们也不希望汽油每加仑4美元。所以，我认为这就是他面临的压力。我们都了解Donald Trump。我甚至对他的政治手腕给予一些肯定，比如他会站出来说，我搞定了，我解决了。油价在下降，中期选举即将到来，我建了一堵墙来阻止这件事。你们都知道我是建墙的人。"
+    },
+    {
+      "speaker": "Chuck Rocha",
+      "text": "That's the reason this is happening.",
+      "cn": "这就是事情发生的原因。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. It's hard to have a wall in the Strait of Hormuz, which is one of the problems.",
+      "cn": "是的。在霍尔木兹海峡很难建一堵墙，这是问题之一。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I don't mean that in a joking way.",
+      "cn": "我不是在开玩笑。"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "The wall is controlled by the Iranians.",
+      "cn": "这堵墙由伊朗人控制。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The Iranians are pushing back.",
+      "cn": "伊朗人正在反击。"
+    },
+    {
+      "speaker": "Rocha",
+      "text": "No, no, no. But his people know that language.",
+      "cn": "不，不，不。但他的人知道那种语言。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The Iranians are specific. Trump is saying there will not be a toll on the Strait of Hormuz. Iranians are saying there may be some fees. I want to play for the audience some of what we just heard out of France at this summit.",
+      "cn": "伊朗人很明确。Trump说霍尔木兹海峡不会收费。伊朗人说可能会收取一些费用。我想让观众听听我们刚刚在峰会上从法国听到的一些消息。"
+    },
+    {
+      "speaker": "Trump",
+      "text": "We appreciate the relationship we've had over this short period of time with Iran. And the primary thing is, you know, we can talk about the Iran deal all day long, and we're not investing any money. We've got the right to if we want, but we're not investing any money. We didn't pay for it like Obama did. He paid billions of dollars. He paid 1.7 billion from an airplane, all green cash. It was crazy. I watched that; I couldn't believe it.",
+      "cn": "我们很感激与伊朗在这段短暂时间内建立的关系。最重要的是，我们可以整天谈论伊朗核协议，但我们没有投入任何资金。如果我们想，我们有权投入，但我们没有投入任何资金。我们没有像Obama那样为此买单。他支付了数十亿美元。他从一架飞机上支付了17亿美元，全是现金。这太疯狂了。我看到了，简直不敢相信。"
+    },
+    {
+      "speaker": "Trump",
+      "text": "But the one thing that's happening that's of note, frankly, the only thing that really matters in it, is Iran will never have a nuclear weapon.",
+      "cn": "但正在发生的一件值得注意的事情，坦率地说，唯一真正重要的事情是，伊朗永远不会拥有核武器。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I want to talk about this, because it gets at goals and sort of goals from what he first announced, versus where he is now. Penny, what did you hear in how we talked about this?",
+      "cn": "I want to talk about this because it relates to his initial stated goals and his current goals. Penny, what did you hear from our discussion just now?"
+    },
+    {
+      "speaker": "Penny Nance",
+      "text": "Well, you know, the American people are terrified of the idea of a -- of Iran having a nuke. And Chris Wright told us that they were about eight weeks away from actually having that. We hate war. But you know what we hate worse, is not having a decisive victory. And so, I think the president, what he's saying now goes exactly to what the American people want to hear.",
+      "cn": "Well, you know, the American people are afraid of Iran having nuclear weapons. Chris Wright told us they are about eight weeks away from actually having one. We hate war. But you know what we hate even more? Not having a decisive victory. So, I think what the president is saying now is exactly what the American people want to hear."
+    },
+    {
+      "speaker": "Penny Nance",
+      "text": "We want to know that we are actually standing in the gap and making sure that we are not going to be -- be abused and traumatized by the Iranian patriarchy.",
+      "cn": "We want to know that we are indeed stepping up to ensure we are not abused and traumatized by Iran's patriarchy."
+    },
+    {
+      "speaker": "Nance",
+      "text": "That it takes women, holds them captive, does -- does marriages as a 9-year-old. I mean, it is a traumatic, abusive regime.",
+      "cn": "It imprisons women, forces marriage at age 9. I mean, this is a traumatic, abusive regime."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But can I underline the word you just said, \"decisive\"?",
+      "cn": "But can I emphasize that word you just said? \"Decisive\"?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I think that's really important, especially when you hear the Republican voices that are speaking out. Senator James Lankford: \"We're all going to have questions. No one's even seen it.\" This is a thing we're talking about. People want to see specifics. We haven't seen the details. Lindsey Graham, who, you know, was very much a cheerleader in this process for the reasons you talked about --",
+      "cn": "I think this is very important, especially when you hear from Republicans. Senator James Lankford said: \"We all have questions. No one has even seen it.\" That's what we're discussing. People want to see the specifics. We haven't seen the details. Lindsey Graham, you know, for the reasons you mentioned, has been very supportive in this process --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- now saying, \"The way Iran describes it is awful. The way we describe it makes sense to me. Let's look at it and see what it is.\" And then finally, a person who was doing sort of X-slash-Twitter combat for him, Mark Levin, was saying, \"I have asked for days. Why can't we, the people, see the MOU? Not through an anonymous person. I've never seen anything like this.",
+      "cn": "-- now says: \"The way Iran describes it is terrible. The way we describe it makes sense to me. Let's see what it actually is.\" Finally, a man who fights his X/Twitter battles for him, Mark Levin, said: \"I've been asking for days. Why can't we the people see the memorandum of understanding? Not through anonymous sources. I've never seen anything like this.\""
+    },
+    {
+      "speaker": "Cornish",
+      "text": "If it is a great outcome for peace, then release it.\" SABRINA RODRIGUEZ, POLITICS REPORTER, \"THE WALL STREET JOURNAL\": I mean, I'm looking at the cover of \"The New York Post,\" and it's \"Trump Mystery Deal.\"",
+      "cn": "If this is a great result for peace, then release it.\" Wall Street Journal political reporter Sabrina Rodriguez: \"I mean, I'm looking at the New York Post cover that says 'Trump's Mystery Deal'.\""
+    },
+    {
+      "speaker": "Cornish",
+      "text": "\"Mystery Deal.\" Yes.",
+      "cn": "\"Mystery deal.\" Yes."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "I think there's so many questions about this going into this. I mean, we're only on Tuesday.",
+      "cn": "I think there are a lot of questions about this. I mean, we're only just Tuesday."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "We're talking about we might not get details until Friday. I mean, there's not --",
+      "cn": "We're saying we might not know the details until Friday. I mean, there's no --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But are there also questions, because people are not having -- people are losing faith?",
+      "cn": "But are people also questioning because people are losing confidence?"
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "Yes. I think there's skepticism. I mean, we have from the start of this war, the president saying it will get done in a couple of weeks. It will get done in a couple of weeks. Oh, we have a victory. I mean, we've been, by the president's standard, by what's coming out of the White House --we've been very close for a very long time since day one of this.",
+      "cn": "Yes. I think there is skepticism. I mean, from the beginning of this war, the president said it would end in weeks. It will end in weeks. Oh, we've won. I mean, by the president's standards, by the White House's releases -- we've been very close since day one, and it's been a long time."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "So, I think there is an open question of, really, how close are we? And when we're talking about this memorandum, you know, when we're talking about a framework here, there's still so much to be ironed out, so many of the technical details. So, I think it is an open question for many people. Like, nobody wants to get overexcited about something that doesn't ever happen.",
+      "cn": "So, I think there is an open question of how close we really are? When we talk about this memorandum, you know, when we talk about a framework, there are many details to be worked out, many technical details. So, I think it's an open question for many people. No one wants to get too excited about something that never happened."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We're not at overexcited. Erick Erickson tweeting, \"Trump has surrendered to Iran. Those who kill Americans love this deal.\" I just want to read --",
+      "cn": "We are not too excited. Erick Erickson tweeted: \"Trump surrendered to Iran. Those who killed Americans love this deal.\" I just want to read --"
+    },
+    {
+      "speaker": "Nance",
+      "text": "Now one's read it yet, by the way.",
+      "cn": "By the way, no one has read it yet."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, exactly. (CROSSTALK)",
+      "cn": "Yes, exactly. (Cross talk)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But then why aren't I reading those responses from Democrats?",
+      "cn": "Yes. But why am I not seeing these responses from Democrats?"
+    },
+    {
+      "speaker": "I -- Rubin",
+      "text": "There's a reason why this matters. Because if -- under law, if the president gets a nuclear deal, he must submit it to Congress.",
+      "cn": "There is a reason this matters. Because under the law, if the president reaches a nuclear deal, he must submit it to Congress."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We're going to show that on the screen while you're talking.",
+      "cn": "We'll show that on screen while you speak."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "And so, Congress says, We have a role in this, and you've got to be transparent. Why are you hiding it?",
+      "cn": "So, Congress says we have a say in this, you must be transparent. Why are you hiding it?"
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "That was Lindsey Graham's point, is that --",
+      "cn": "Lindsey Graham's point is --"
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "-- Congress didn't take a look at it.",
+      "cn": "-- Congress hasn't reviewed it."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "And there's no deal being provided to Congress.",
+      "cn": "And no deal has been submitted to Congress."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Just giving people an update. We have to hear about this deal beyond this memorandum, right? We actually have to see a draft of this thing. In 2015, there is a law passed specifically on Iran's nuclear stockpile, not on other random stockpiles on Iran's. And it says that you've got to send it to Congress within five days. Congress gets 60 days to review. Not coincidentally, the 60-day amount of time that this deal could or could not go through. And you can't lift or waive sanctions while this review is happening.",
+      "cn": "Just to update everyone. We must understand the content of the agreement beyond this memo, right? We actually need to see the draft of the agreement. In 2015, there was a law specifically targeting Iran's nuclear stockpile, not other random stockpiles of Iran. The law requires that it be submitted to Congress within five days. Congress has 60 days to review it. Coincidentally, these 60 days are exactly the time for the agreement to pass. During the review period, you cannot lift or waive sanctions."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I notice they call it a memorandum, because if you do, it doesn't trigger the law.",
+      "cn": "I noticed they call it a memo, because if they do that, it won't trigger the law."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Well, you know, Audie, I had the pleasure of working on this when I was deputy assistant secretary for legislative affairs to the House of Representatives during the -- the INARED (ph) debates in the Iran nuclear deal. And I'll tell you, I remember many a day when Republicans in Congress would be screaming about the Obama administration hiding the deal. Side deals. What is it that they're going to do? Pallets of cash, all these sort of falsehoods.",
+      "cn": "Well, you know, Audi, I was honored to participate as Deputy Assistant Secretary for Legislative Affairs in the House during the INARED debate on the Iran nuclear deal. I tell you, I remember many days when Republicans in Congress were screaming that the Obama administration was hiding the deal, secret deals. What were they going to do? Piles of cash, all these lies."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "And then the big one: getting legislation passed to require severe oversight. So now, like in the law of unintended consequences, now the Republicans have to eat their own and, frankly, respond in the exact same way they demanded of President Obama. And they better hold President Trump to the same level of accountability that they expected.",
+      "cn": "Then the big problem: passing legislation to require strict oversight. So now, like the law of unintended consequences, Republicans have to eat their own words, and frankly, they have to respond in the same way they demanded of President Obama. And they better hold President Trump to the same level of accountability they expected."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, there's certainly a wing that is. I'm reading a lot of tweets that I have to double check the partisan affiliation, because I'm surprised at how vicious they are. But we're going to take a break. When we come back, we're going to bring you up to speed on what the president has been saying at that G- 7 summit about this potential agreement with Iran. Stay with us.",
+      "cn": "Well, there is indeed a portion of people like that. I read many tweets and had to double-check the party affiliation because I was surprised by their venom. But let's take a break. When we come back, we'll bring you the latest from the president at the G7 summit about a potential deal with Iran. Stay tuned."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, we're going to continue to follow breaking news out of France, where President Trump is at the G-7 summit. He is touting the proposed agreement with Iran. The next phase is the 60 days of nuclear talks. We're going to take a listen to the president, who spoke just moments ago.",
+      "cn": "So, we will continue to follow breaking news from France, where President Trump is attending the G7 summit. He is touting a proposed agreement with Iran. The next phase is 60 days of nuclear talks. We'll hear what the president just said."
+    },
+    {
+      "speaker": "Trump",
+      "text": "It goes to a second stage, which I think will be actually easier. I didn't want to attack them last week, but we had no choice; and we did it twice, actually. We were doing it a third time, and we were able to not have to do that. But we have a deal that's a fair deal. It's a good deal.",
+      "cn": "It goes to phase two, and I think it will actually be easier. I didn't want to attack them last week, but we had no choice; actually we did it twice. We were preparing to do it a third time, but we managed to avoid that. But we reached a fair deal. It's a good deal."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Group chat is back. Let's talk about what we know. Just now, the president was saying, I think it goes to a second stage. We should be clear. We're not -- we don't know what it looks like. So, we're not at the first stage. But once we do, he's saying that he feels like he's going to be able to move forward with this. Some of the sticking points I have heard about: financial relief for Iran. Trump and his allies say there's not going to be money going to Iran.",
+      "cn": "The group chat is back. Let's talk about what we know. Just now, the president said, I think it goes to phase two. We should be clear. We don't know what it looks like. So we're not at phase one yet. But once we get there, he said he feels he can move forward with this. Some sticking points I've heard: financial relief for Iran. Trump and his allies say no money will flow to Iran."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Well, that's incredibly unclear right now. There's also a discussion about $300 billion of investment coming from the region to Iran. Now there are --",
+      "cn": "Well, that is very unclear at this point. There is also discussion about a $300 billion investment in Iran from the region. Now there is --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And that would be a reconstruction fund.",
+      "cn": "That would be a reconstruction fund."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Reconstruction fund.",
+      "cn": "Reconstruction fund."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "They claim that would be funded by Gulf nations.",
+      "cn": "They claim it will be funded by Gulf states."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Right. So, Gulf nations are going to fund the reconstruction of a country that just bombed them. I think you're going to see a lot of hesitance. There's a lot of commitments historically in the Middle East towards reconstruction that never realized.",
+      "cn": "Right. So, Gulf states will fund the reconstruction of a country that just bombed them. I think you'll see a lot of hesitation. Historically, there have been many reconstruction promises in the Middle East that never materialized."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And we should say he was sitting next to the emir of Qatar when he was saying this at the G-7. Does -- do you think, for Republicans, that is better than the pallets of cash they say?",
+      "cn": "Yes. And we should point out that he said this at the G7 while sitting next to the Emir of Qatar. Do you think, for Republicans, this is better than the piles of cash they talked about?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But why, if it's money to the regime?",
+      "cn": "But why, if this is money for the regime?"
+    },
+    {
+      "speaker": "Nance",
+      "text": "Well, in -- well, let me just say. Well, listen, I -- I have met with several members of the GCC. I've talked specifically from the ambassador of Saudi Arabia. They believe that Iran is the biggest bully in the region. They have no love lost. And so, it gives me confidence, if they are going to be investing, it's only going to be because Iran has come to heel and is actually being a good neighbor in the region.",
+      "cn": "Well, let me put it this way. Look, I've met several members of the Gulf Cooperation Council. I specifically spoke with the Saudi ambassador. They consider Iran the biggest bully in the region. They have no love lost. So, if they are going to invest, it will only be because Iran has capitulated and actually become a good neighbor in the region, which gives me confidence."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, you think, under that circumstance, they would feel comfortable giving money to a country that bombed them?",
+      "cn": "So, do you think in this scenario they would be willing to give money to a country that bombed them?"
+    },
+    {
+      "speaker": "Nance",
+      "text": "I think they -- I think I'd rather them have control and be able to parse out money if they behave. Don't get me wrong, I don't trust Iran. I think they are tyrannical, and they're liars. And we all have to watch them completely. Over the next 60 days, they can easily blow up this deal if they want to do it.",
+      "cn": "I think they -- I would rather they be in control and be able to disburse funds based on performance. Don't get me wrong, I don't trust Iran. I think they are tyrannical and liars. We all have to fully monitor them. In the next 60 days, if they want to, they could easily sabotage this deal."
+    },
+    {
+      "speaker": "Nance",
+      "text": "And they tend to do it.",
+      "cn": "And they tend to do that."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "The question I have is for Joel.",
+      "cn": "My question is for Joel."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Is we talk about money and money getting spent, money from other nations. What about frozen assets? Is this different money?",
+      "cn": "We talked about money and spending, money from other countries. What about frozen assets? Is that different money?"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Yes, Chuck. Look, I'm glad you brought that up. Their frozen assets are billions of dollars, about 12 billion in accounts in Qatar that are frozen. That is Iranian money that the Qataris held. Why? Because of American sanctions and our request to the Qataris to not move that money. So, this goes to a bigger question about sanctions relief. Sanctions are statutory. Congress has a role in this. Now, if the president chooses to waive sanctions, he has to justify it.",
+      "cn": "Yes, Chuck. Glad you brought that up. They have billions in frozen assets, about $12 billion frozen in accounts in Qatar. That is Iranian money held by Qataris. Why? Because of U.S. sanctions and our demand that Qatar not transfer that money. So, this ties into the larger issue of sanctions relief. Sanctions are statutory. Congress has a role. Now, if the president chooses to waive sanctions, he must justify it."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "But the sanctions on Iran are integrated between nuclear, and the terrorism issue, and their ballistic missile defense.",
+      "cn": "But sanctions on Iran are comprehensive, covering nuclear issues, terrorism issues, and their ballistic missile defense."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, you're saying --",
+      "cn": "So, you mean --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- this skirts that entire issue by making it a reconstruction fund.",
+      "cn": "--  -- Ini menghindari seluruh masalah dengan menjadikannya dana rekonstruksi."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Right. And so, getting rid of sanctions is incredibly complicated, technically and diplomatically, politically. So, the easiest one is to do this, to tell the Qataris, say, unfreeze those assets, let them have it, which of course would do exactly what he is criticizing President Obama --",
+      "cn": "Benar. Dan, mencabut sanksi sangat rumit secara teknis, diplomatik, dan politik. Jadi, cara termudah adalah memberi tahu orang Qatar, bebaskan aset itu, biarkan mereka memilikinya, yang tentu akan mencapai efek yang ia kritik saat mengkritik Presiden Obama --"
+    },
+    {
+      "speaker": "Nance",
+      "text": "Those are two pots of money, though.",
+      "cn": "Tapi, itu dua dana yang berbeda."
+    },
+    {
+      "speaker": "Nance",
+      "text": "The GCC funds are -- are one pot of money. The other pot of money is stolen money from the Iranian people that has been sent over --",
+      "cn": "Dana Dewan Kerjasama Teluk adalah satu. Yang lain adalah uang yang dicuri dari rakyat Iran, yang dipindahkan ke --"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "But that would go back to the",
+      "cn": "Tapi itu akan kembali ke"
+    },
+    {
+      "speaker": "Irgc. Cornish",
+      "text": "But let me let Sabrina get a word in here, because I think the other thing is when we're talking about the different goals, there was also regime change. And during this meeting, we heard the president saying, Regime change. You know, I've never really seen that work. I don't really think that's -- sort of was possible here. And I was sort of surprised to hear him dial that back from when he first came out in that social media video, saying to the audience, Iran, people of Iran, this is your time to rise up.",
+      "cn": "Tapi biarkan saya minta Sabrina berbicara, karena saya pikir hal lain adalah, ketika kita berbicara tentang tujuan yang berbeda, ada juga pergantian rezim. Dalam pertemuan ini, kami mendengar presiden mengatakan, pergantian rezim. Anda tahu, saya tidak pernah benar-benar melihat itu berhasil. Saya tidak berpikir itu mungkin di sini. Saya agak terkejut mendengar dia menarik pernyataan itu, karena awalnya dalam video media sosial dia berkata kepada penonton, rakyat Iran, inilah saatnya Anda bangkit."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "One hundred percent. I mean, I was at the CPAC conference earlier this year, just a couple of months ago. And there was a huge outpouring. I mean, we're talking about at least a few thousand Iranian exiles who were there celebrating, chanting, you know, thanking Trump for doing this, thanking Trump for taking this action. And were really calling for him to, like, really follow through on bringing regime change.",
+      "cn": "Seratus persen. Maksud saya, awal tahun ini, hanya beberapa bulan lalu, saya menghadiri konferensi CPAC. Ada banyak orang. Kami berbicara tentang setidaknya ribuan eksil Iran di sana merayakan, berteriak, terima kasih kepada Trump karena melakukan ini, terima kasih kepada Trump karena mengambil tindakan ini. Mereka benar-benar mendesaknya untuk benar-benar mendorong pergantian rezim."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "So, I think there will be a lot of disappointed people, particularly in the Iranian diaspora, who are going to say, wait a minute.",
+      "cn": "Jadi, saya pikir akan ada banyak orang yang kecewa, terutama diaspora Iran, yang akan berkata, tunggu."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "This was a stated goal. We don't see a change when it comes to the leadership. And, I mean, they know the leadership of their country more than anyone.",
+      "cn": "Itu adalah tujuan yang jelas. Kami tidak melihat adanya perubahan dalam kepemimpinan. Dan, mereka lebih dari siapa pun memahami kepemimpinan negara mereka sendiri."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And that's just the diaspora. The thing we're going to talk about next is Israel, because this is another area where the Israeli government is upset with the thought of money flowing to the regime. So, Joel, don't worry, you're going to get to that. I could see you jumping in on that part, but we're absolutely going to take some time to talk about that. We're talking about President Trump's recent comments just a few minutes ago at the G-7 summit in France. Stay with us.",
+      "cn": "Ya. Dan itu hanya orang Yahudi di luar negeri. Selanjutnya kita akan membahas Israel, karena ini adalah area lain yang membuat pemerintah Israel gelisah, mereka khawatir dana akan mengalir ke rezim itu. Jadi, Joel, jangan khawatir, Anda akan membahasnya. Saya lihat Anda ingin menyela, tapi kami pasti akan meluangkan waktu untuk membahas masalah ini. Kami sedang membicarakan pernyataan terbaru Presiden Trump beberapa menit yang lalu di KTT G7 di Prancis. Tetap ikuti."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, fighting between Hezbollah and Israel continues in Lebanon. This is despite the U.S. and Iran striking this agreement. Now, moments ago, the president weighed in on the impact of Israel.",
+      "cn": "Jadi, pertempuran antara Hizbullah dan Israel di Lebanon masih berlanjut. Meskipun AS dan Iran mencapai kesepakatan ini. Sekarang, barusan, presiden menyampaikan pandangannya tentang dampak terhadap Israel."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Can this deal survive if Israel attacks Lebanon?",
+      "cn": "Jika Israel menyerang Lebanon, bisakah kesepakatan ini bertahan?"
+    },
+    {
+      "speaker": "Trump",
+      "text": "It can. And, you know, I consider that the minor war. Iran's a big one. But we have that a little pinprick out there that constantly rears its head. And that's Hezbollah. I'll tell you what. Israel is fighting Hezbollah too long, and too many people are being killed. And you don't have to knock down an apartment house every time you're looking for somebody, because there are a lot of people in those apartment houses, and they're not all Hezbollah. That I can tell you.",
+      "cn": "Bisa. Dan, Anda tahu, saya pikir itu perang kecil. Iran adalah masalah besar. Tapi ada masalah kecil yang terus muncul. Itu adalah Hizbullah. Saya beri tahu, Israel sudah terlalu lama berperang dengan Hizbullah, terlalu banyak orang tewas. Anda tidak perlu merobohkan gedung apartemen setiap kali mencari seseorang, karena di gedung apartemen itu ada banyak orang, dan tidak semuanya Hizbullah. Itu bisa saya katakan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Group chat is back. It's one thing for the White House to sort of, you know, talk about how Trump is talking to Netanyahu and say, Oh, it's a sibling thing. It's another thing for him to get up on the world stage and say, this attack was bad. This was too much. What do you think it says about where Trump is now, that he'd be speaking like this?",
+      "cn": "Grup chat kembali. Gedung Putih berbicara tentang bagaimana Trump berkomunikasi dengan Netanyahu, mengatakan itu seperti urusan antar saudara, itu satu hal. Dan dia naik ke panggung dunia dan mengatakan serangan ini buruk, keterlaluan, itu hal lain. Menurut Anda, apa artinya Trump berbicara seperti ini sekarang?"
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "I mean, it shows the tenuous nature of the relationship at the moment, too, because we are seeing on the other side of it, Netanyahu come out and say, I don't think this is a good deal. I don't -- you know, we're going to do what we have to do to protect ourselves. And it's sort of, again, showing this -- again, we don't know what's in the deal at the end of the day. But we're showing -- and Joel was saying it before, you know -- what he is saying versus what will ultimately be in a deal are two different things.",
+      "cn": "Maksud saya, ini juga menunjukkan kerapuhan hubungan saat ini, karena di sisi lain kita melihat Netanyahu keluar dan berkata, saya pikir ini bukan kesepakatan yang baik. Anda tahu, kami akan melakukan apa yang harus kami lakukan untuk melindungi diri kami sendiri. Ini sekali lagi menunjukkan -- kami akhirnya tidak tahu apa yang ada dalam kesepakatan. Tapi kami melihat -- Joel juga mengatakan sebelumnya -- apa yang dia katakan mungkin berbeda dengan apa yang akhirnya ada dalam kesepakatan."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "And whether there will be a deal are two different things. But clearly, Netanyahu is in a position of having a lot of skepticism around what they have agreed to and is very openly talking about it.",
+      "cn": "Dan apakah akan ada kesepakatan juga dua hal yang berbeda. Tapi jelas, Netanyahu sangat skeptis terhadap kesepakatan yang mereka capai, dan membicarakannya dengan sangat terbuka."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, just the context for this. Israel wants the conversation to be not just about Iran's nukes, which they want eradicated. They also don't want Iran to have the ability to fund proxy figures in the region like Hezbollah. But you have the president not exactly backing them up here in criticizing how they've been conducting this operation and then saying, look, this throws a negative light on the big deal. He called it.",
+      "cn": "Ya, itu latar belakangnya. Israel ingin dialog tidak hanya seputar senjata nuklir Iran -- mereka ingin menghilangkannya sepenuhnya. Mereka juga tidak ingin Iran mampu mendanai kekuatan proksi di kawasan, seperti Hizbullah. Tapi presiden tidak sepenuhnya mendukung mereka, malah mengkritik cara mereka melaksanakan operasi ini, lalu berkata, lihat, ini membayangi kesepakatan besar. Itu yang dia katakan."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Yes. Look, well, the president has it backwards on what's happening in Lebanon. And he's really throwing our ally out to drift alone and sticking the knife in Netanyahu. I can't say it enough. What he is doing now is crushing Netanyahu politically inside of Israel. But across the board, Israelis are very concerned. And Hezbollah is not a private concern of the Israelis, either. We, the United States, for decades have designated Hezbollah as a terrorist organization. Remember the Marine barracks bombing --",
+      "cn": "Ya. Dengar, pandangan presiden tentang situasi Lebanon benar-benar terbalik. Dia sebenarnya meninggalkan sekutu kita, menusuk Netanyahu dari belakang. Saya tidak bisa cukup menekankannya. Apa yang dia lakukan sekarang adalah menekan Netanyahu secara politik dalam negeri Israel. Tapi secara umum, orang Israel sangat khawatir. Dan Hizbullah bukan hanya urusan pribadi Israel. Kami AS selama puluhan tahun telah menetapkan Hizbullah sebagai organisasi teroris. Ingat ledakan barak Marinir di Beirut tahun 1983 --"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "-- in Beirut in 1983?",
+      "cn": "-- pada tahun 1983?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me follow up on that.",
+      "cn": "Biarkan saya melanjutkan topik itu."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "This is not a sideshow.",
+      "cn": "Ini bukan masalah sekunder."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Here's what -- here's what I want you guys all to hear, because he's not just talking about Israel and Iran. Now he's drawing in another actor entirely. This was said just moments ago.",
+      "cn": "Ini -- ini yang saya ingin kalian semua dengar, karena dia tidak hanya berbicara tentang Israel dan Iran. Sekarang dia melibatkan aktor lain sepenuhnya. Ini yang baru saja dikatakan."
+    },
+    {
+      "speaker": "Trump",
+      "text": "I was very responsible for Syria. And the man that's running Syria now is a person that I put there, along with President Erdogan and some others. He's done an amazing job of pulling it together. He's not a Boy Scout, but he's done an amazing job of pulling it together. And he is very good with Hezbollah; does not like them. And I'll tell you what: Israel is fighting Hezbollah too long, and too many people are being killed.",
+      "cn": "Saya sangat bertanggung jawab terhadap Suriah. Orang yang sekarang mengelola Suriah, saya bersama Presiden Erdogan dan beberapa lainnya yang membantunya. Dia melakukan pekerjaan yang sangat baik dalam mengintegrasikan Suriah. Dia bukan pramuka, tapi dia melakukan pekerjaan yang sangat baik dalam integrasi. Dan dia memiliki hubungan baik dengan Hizbullah; dia tidak suka mereka. Saya beri tahu: Israel sudah terlalu lama berperang dengan Hizbullah, terlalu banyak orang yang kehilangan nyawa."
+    },
+    {
+      "speaker": "Trump",
+      "text": "And you don't have to knock down an apartment house every time you're looking for somebody, because there are a lot of people in those apartment houses, and they're not all Hezbollah. That I can tell you. And I suggested to Israel to let Syria take care of Hezbollah, because to be honest with you, I think they'll do a better job of doing it.",
+      "cn": "Dan Anda tidak perlu merobohkan gedung apartemen setiap kali mencari seseorang, karena di gedung apartemen itu ada banyak orang, dan tidak semuanya Hizbullah. Itu bisa saya katakan. Saya menyarankan Israel untuk membiarkan Suriah menangani Hizbullah, karena sejujurnya, saya pikir mereka akan melakukannya lebih baik."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "OK. First of all, al-Sharaa of Syria took power during President Biden's term. So, let's just make that clear.",
+      "cn": "Oke. Pertama, Syara berkuasa di Suriah pada masa kepresidenan Biden. Jadi, mari kita perjelas itu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And after a lengthy civil war. Yes.",
+      "cn": "Dan itu setelah perang saudara yang panjang. Ya."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "A civil war where Hezbollah fought against al-Sharaa's forces inside of Syria when Hezbollah was backed by Iran and Russia. So, the president's logic on this issue is very concerning. It's very circuitous. It is not accurate. And if he's calling for Syria to somehow now invade Lebanon to defeat Hezbollah, he's only calling for further regional war and escalation, not de-escalation. But it makes no sense. And so, I really think he needs to stop talking about this fast.",
+      "cn": "Dalam perang saudara itu, Hizbullah bertempur melawan pasukan Syara di Suriah, dan Hizbullah didukung oleh Iran dan Rusia. Jadi, logika presiden tentang masalah ini sangat mengkhawatirkan. Sangat berbelit-belit. Tidak akurat. Jika dia menyerukan Suriah untuk menyerang Lebanon dengan cara tertentu untuk mengalahkan Hizbullah, dia hanya menyerukan perang regional lebih lanjut dan eskalasi, bukan de-eskalasi. Tapi ini tidak masuk akal. Jadi, saya benar-benar berpikir dia harus segera berhenti membicarakan ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, it's not that -- he's -- like I said, he's introducing new ideas into this. What did you guys -- I'm just getting reactions to this right now. I don't know,, Sabrina, if you've covered it, as well. Obviously, Trump does have a good relationship with the new leader of Syria. I didn't know it was this good. Drag you into war good.",
+      "cn": "Yah, bukan berarti -- -- dia -- -- seperti yang saya katakan, dia memperkenalkan ide-ide baru. Kalian -- -- saya hanya bereaksi terhadap ini sekarang. Saya tidak tahu, Sabrina, apakah Anda juga meliput ini. Jelas, Trump memang memiliki hubungan baik dengan pemimpin baru Suriah. Saya tidak tahu sebaik itu. Sebaik itu sampai menyeret Anda ke dalam perang."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "I mean, it is unusual to hear what is coming out of the president's mouth. Granted, we know he speaks extremely off-the-cuff, and the way he'll speak about world leaders today could be different from how he speaks about them a week from today. But again, I think when we're talking about something as serious as a war, when we're talking as serious of what's going on in the Middle East right now, of course, you want to see the president moderate what he says and be measured in what he says.",
+      "cn": "Maksud saya, tidak biasa mendengar kata-kata itu keluar dari mulut presiden. Memang, kita tahu dia berbicara sangat spontan, cara dia berbicara tentang para pemimpin dunia hari ini mungkin berbeda seminggu kemudian. Tapi sekali lagi, saya pikir ketika kita berbicara tentang hal-hal serius seperti perang, ketika kita berbicara tentang situasi serius yang sedang terjadi di Timur Tengah, tentu saja, Anda ingin melihat presiden menahan diri dalam retorika dan berhati-hati dalam kata-kata."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "And this certainly raises concerns and questions about where we're at.",
+      "cn": "Ini pasti menimbulkan kekhawatiran dan pertanyaan tentang situasi saat ini."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "For the first time in a long time, probably in my 35 years of running political campaigns, most folks, most voters -- and I know we'll talk about independents later -- is they don't know or understand all the things that are coming out of this, or understand wars. They understand large things. They understand nuclear bombs, bad. They understand genocide. They understand those things. var CNN = CNN || {};",
+      "cn": "Untuk pertama kalinya dalam waktu yang lama, mungkin dalam 35 tahun karir kampanye politik saya, kebanyakan orang, kebanyakan pemilih -- -- saya tahu kita akan membahas pemilih independen nanti -- -- mereka tidak tahu atau tidak mengerti semua hal yang dihasilkan dari ini, atau tidak mengerti perang. Mereka mengerti hal-hal besar. Mereka mengerti bom nuklir itu buruk. Mereka mengerti genosida. Mereka mengerti hal-hal ini."
+    },
+    {
+      "speaker": "Chuck Rocha",
+      "text": "All the things that are coming out of this. Or understand wars. They understand large things. They understand nuclear bombs, bad. They understand genocide. They understand those things. But in American politics, for the first time in a long time, AIPAC, Palestine, things that are happening with Iran, gas prices, they're becoming a bigger part of issue sets that people care about. Affordability is still number one, let me be clear.",
+      "cn": "Semua hal yang dihasilkan dari ini. Atau mengerti perang. Mereka mengerti hal-hal besar. Mereka mengerti bom nuklir itu buruk. Mereka mengerti genosida. Mereka mengerti hal-hal ini. Tapi dalam politik Amerika, untuk pertama kalinya dalam waktu yang lama, AIPAC, Palestina, apa yang terjadi di Iran, harga minyak, ini menjadi bagian yang lebih penting dari agenda yang menjadi perhatian orang. Keterjangkauan masih menjadi masalah utama, biarkan saya perjelas."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "But it's still in the periphery.",
+      "cn": "Tapi itu masih di pinggiran."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You know, things being talked about here.",
+      "cn": "Anda tahu, hal-hal yang dibahas di sini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You see there, this is the G7. They're actually sitting down to lunch, the world leaders here.",
+      "cn": "Lihat di sini, ini adalah G7. Mereka benar-benar sedang duduk untuk makan siang, para pemimpin dunia di sini."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "And this will be on clips today in social media --",
+      "cn": "Ini akan muncul di klip media sosial hari ini -- --"
+    },
+    {
+      "speaker": "Rocha",
+      "text": "That folks will see who are independents, who aren't following this every day, that it will just pop up in their algorithm.",
+      "cn": "Para pemilih independen itu, mereka yang tidak mengikuti ini setiap hari akan melihatnya, itu akan muncul di algoritma mereka."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Should Syria be involved now?",
+      "cn": "Haruskah Suriah terlibat sekarang?"
+    },
+    {
+      "speaker": "Penny Nance",
+      "text": "Audie -- well, I don't know that. Audie, we are only three years past October 7th, and you have an entire country that's traumatized, 1,200 people died, over 400 people kidnaped around that, 12 Americans. The last one finally came home because of Donald Trump, who is the Neutra family, Omer Neutra. And so this, to your point, became top of mind to the American people because it doesn't feel so far away when we know Americans were kidnaped, raped, murdered, and the horrific things that happened October 7th.",
+      "cn": "Ode -- -- yah, saya tidak tahu. Ode, kita baru tiga tahun dari 7 Oktober, seluruh negara trauma, 1200 orang tewas, lebih dari 400 diculik, termasuk 12 orang Amerika. Yang terakhir akhirnya pulang karena Donald Trump, dia dari keluarga Neutra, Omer Neutra. Jadi, seperti yang Anda katakan, ini menjadi perhatian utama rakyat Amerika, karena ketika kita tahu orang Amerika diculik, diperkosa, dibunuh pada 7 Oktober dan hal-hal mengerikan yang terjadi, itu terasa tidak jauh."
+    },
+    {
+      "speaker": "Penny Nance",
+      "text": "And so --",
+      "cn": "Maka -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But just to bring the focus around, just because October 7th --",
+      "cn": "Tapi untuk fokus pada topik, hanya karena 7 Oktober -- --"
+    },
+    {
+      "speaker": "Nance",
+      "text": "If -- if I could just finish.",
+      "cn": "Jika -- -- jika saya bisa menyelesaikan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, no, but it was about Hamas. And right now I have -- we are listening to the president speak just moments ago saying that Israel has gone too far and where it's done with Hezbollah, not Hamas, in southern Lebanon.",
+      "cn": "Ya, tidak, tapi itu tentang Hamas. Dan sekarang saya -- -- kita baru saja mendengar presiden berbicara bahwa tindakan Israel di Lebanon selatan terhadap Hizbullah (bukan Hamas) sudah berlebihan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And now asking another country to support. I just want to keep it focused on where we are right now.",
+      "cn": "Sekarang meminta dukungan negara lain. Saya hanya ingin fokus pada situasi kita saat ini."
+    },
+    {
+      "speaker": "Nance",
+      "text": "Well, OK. So, the point is that they are surrounded -- Israel is surrounded by people who hate them. If the president could be successful in getting Syria to fight their battles for them, to come to their defense, that would be great. I mean, we have -- they have peace with Egypt. They get along with the Jordanians. Like, things are better for them. But the people in Israel, they're a sovereign nation. They have to protect themselves. Bibi Netanyahu is up for reelection before October 27th.",
+      "cn": "Baiklah. Jadi, intinya mereka dikepung -- -- Israel dikelilingi oleh mereka yang membenci mereka. Jika presiden bisa berhasil membuat Suriah berperang untuk mereka, untuk membela mereka, itu akan bagus. Maksud saya, kita -- -- mereka memiliki perdamaian dengan Mesir. Mereka rukun dengan orang Yordania. Bagi mereka, situasinya membaik. Tapi rakyat Israel, mereka adalah negara berdaulat. Mereka harus melindungi diri mereka sendiri. Netanyahu menghadapi pemilihan ulang sebelum 27 Oktober."
+    },
+    {
+      "speaker": "Nance",
+      "text": "There's a lot happening in that country. Listen, if he can do it, if he can bring Syria to the table to help out, that would be great. And I bet you Israel would be thankful for that.",
+      "cn": "Banyak hal terjadi di negara itu. Dengar, jika dia bisa melakukannya, jika dia bisa membuat Suriah terlibat untuk membantu, itu akan bagus. Saya yakin Israel akan berterima kasih untuk itu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can I let my diplomatic person weigh in. Joel. JOEL RUBIN,",
+      "cn": "Bisakah saya meminta staf diplomatik saya berpendapat? Joel. Joel Rubin,"
+    },
+    {
+      "speaker": "",
+      "text": "Well, I mean, what this shows is that the president really doesn't have a strategy for how to deal with the regional issues that are dogging this whole conflict. And I agree with you on October 7th, the calamity. But, you know, the hope at the beginning of this fight was that there would be, not just the nuclear issue resolved, but also these other issues related to Hezbollah, regional proxy terror groups, the missile issue, that's all to the side now.",
+      "cn": "Yah, maksud saya, ini menunjukkan bahwa presiden sebenarnya tidak memiliki strategi untuk mengatasi masalah regional yang mengganggu seluruh konflik. Saya setuju dengan Anda tentang bencana 7 Oktober. Tapi, Anda tahu, harapan di awal perjuangan ini adalah bahwa tidak hanya masalah nuklir yang diselesaikan, tetapi juga masalah lain terkait Hizbullah, organisasi teroris proksi regional, rudal, sekarang semua itu ditunda."
+    },
+    {
+      "speaker": "",
+      "text": "That should be part of a diplomatic program to really hold Iran's feet to the fire. But he's left the heat -- he's taken the heat off. And so now he's flailing. And I fear that the Israelis are only going to read this as a sign they are on their own, which increases the likelihood of more fighting inside of Lebanon rather than less.",
+      "cn": "Ini seharusnya menjadi bagian dari rencana diplomatik, benar-benar memberikan tekanan pada Iran. Tapi dia malah mengurangi tekanan -- dia menghilangkan tekanan. Jadi sekarang dia tidak punya pilihan. Saya khawatir Israel hanya akan menafsirkan ini sebagai sinyal bahwa mereka hanya bisa mengandalkan diri sendiri, yang meningkatkan kemungkinan lebih banyak pertempuran di Lebanon, bukan lebih sedikit."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Here's what he had to say about his role and support for Israel. This was just moments ago.",
+      "cn": "Berikut adalah apa yang baru saja dia katakan tentang perannya dan dukungannya terhadap Israel."
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "Without me, there would be no Israel, because no other president was willing to do what I did. I've had a great relationship with Bibi, but now Bibi has to be more responsible with respect to Lebanon.",
+      "cn": "Tanpa saya, tidak akan ada Israel, karena tidak ada presiden lain yang mau melakukan apa yang saya lakukan. Hubungan saya dengan Bibi sangat baik, tapi sekarang Bibi harus lebih bertanggung jawab dalam masalah Lebanon."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Well, that is -- that is crazy.",
+      "cn": "Yah, itu -- itu gila."
+    },
+    {
+      "speaker": "Nance",
+      "text": "I -- listen, I had 40 young Women for America leaders that were in Israel last week and had to go underground because of bombing and shelling.",
+      "cn": "Saya -- dengar, minggu lalu saya memiliki 40 pemimpin wanita muda Amerika di Israel, dan mereka harus berlindung di bawah tanah karena pemboman dan tembakan."
+    },
+    {
+      "speaker": "Nance",
+      "text": "So, they are actively in the middle of a war zone in Israel.",
+      "cn": "Jadi, mereka benar-benar berada di zona perang Israel."
+    },
+    {
+      "speaker": "Nance",
+      "text": "And Lebanon is a key issue. They --",
+      "cn": "Lebanon adalah masalah kunci. Mereka --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But did they say, thank God for Trump, or what happened there?",
+      "cn": "Tapi apakah mereka berkata, 'Syukurlah Trump ada,' atau apa yang terjadi di sana?"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Yes, but what -- Donald Trump is not responsible for the state of Israel's existence.",
+      "cn": "Ya, tapi -- Donald Trump tidak bertanggung jawab atas keberadaan negara Israel."
+    },
+    {
+      "speaker": "Nance",
+      "text": "No, but I'm just saying that it is absolute -- I'm just saying that I think that Israel has every right to protect themselves.",
+      "cn": "Tidak, saya hanya mengatakan itu benar-benar -- saya hanya berpikir Israel berhak sepenuhnya untuk membela diri."
+    },
+    {
+      "speaker": "Nance",
+      "text": "And I would say that we have to be very clear-eyed about the fact that what's happening in that entire region. And if we can bring other partners like Syria to help, why's that a problem.",
+      "cn": "Saya ingin mengatakan, kita harus sangat sadar akan apa yang terjadi di seluruh kawasan. Jika kita bisa membawa mitra lain seperti Suriah untuk membantu, apa masalahnya?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Do you think that's what Trump just said. Trump just said, if it wasn't for me.",
+      "cn": "Apakah menurut Anda Trump baru saja mengatakan itu? Dia baru saja berkata, 'Kalau bukan karena saya...'"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "There'd be no Israel is what he just said, which I think that is --",
+      "cn": "Dia baru saja berkata, tidak akan ada Israel. Saya pikir itu --"
+    },
+    {
+      "speaker": "Nance",
+      "text": "Well, and he has protected Israel. He brought the hostages home and --",
+      "cn": "Yah, dia melindungi Israel. Dia membawa pulang para sandera, dan --"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "That is absolutely counterfactual. There is no truth to that. Donald Trump did not create the state of Israel. He --",
+      "cn": "Itu sama sekali tidak benar. Tidak ada hal seperti itu. Donald Trump tidak menciptakan negara Israel. Dia --"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "He joined in a military action alongside Israel against Iran, clearly. But the state of Israel's existence is not dependent upon the president of the United States. We have a relationship, but the Israelis created their own -- the Israelis created their own country.",
+      "cn": "Dia memang berpartisipasi dalam operasi militer bersama Israel melawan Iran. Tapi keberadaan negara Israel tidak bergantung pada presiden AS. Kami memiliki hubungan bilateral, tapi rakyat Israel sendiri yang mendirikan negara mereka."
+    },
+    {
+      "speaker": "Nance",
+      "text": "It's dependent upon the United States.",
+      "cn": "Itu bergantung pada AS."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But is the state of -- hold on one second, is the state of Trump's deal dependent on Israel?",
+      "cn": "Tapi, apakah negara Israel bergantung pada kesepakatan Trump?"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Yes. Absolutely integrated. And this is the core -- this is an Achilles heel problem that we had in the Obama administration. When the Israelis were outside of that deal, that meant that there could always be problems that would have to be dealt with that weren't integrated. The same thing is happening again. President Trump did not include the Israelis in this deal. He's not talking about the hot issues, like Hezbollah, until some later date.",
+      "cn": "Ya, sepenuhnya terintegrasi. Itulah masalah fatal selama pemerintahan Obama. Ketika Israel dikecualikan dari kesepakatan itu, itu berarti akan selalu ada masalah yang perlu ditangani, dan masalah-masalah itu tidak dapat diintegrasikan. Sekarang hal yang sama terjadi lagi. Presiden Trump tidak melibatkan Israel dalam kesepakatan ini. Dia tidak membicarakan isu-isu panas seperti Hizbullah, tapi menundanya untuk nanti."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "And so, it creates mischief and it create -- a potential for mischief and spoilers. And I think he's going to see that be very problematic for executing the next phase of negotiations.",
+      "cn": "Jadi, ini menciptakan masalah, dan juga potensi masalah dan pengacau. Saya pikir dia akan menemukan ini sangat bermasalah untuk pelaksanaan negosiasi tahap selanjutnya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Which could happen as soon as Friday. Basically, the status quo is people are waiting to see the draft of this multi-point memorandum of understanding potentially between Iran and the U.S. And on Friday there could be a meeting about that which J.D. Vance and others will be in attendance. Joel Rubin, we put you to work this morning. Thank you so much.",
+      "cn": "Kemungkinan paling cepat pada hari Jumat. Pada dasarnya, situasinya adalah orang-orang menunggu draf nota kesepahaman multi-poin yang mungkin antara Iran dan AS. Mungkin akan ada pertemuan tentang hal ini pada hari Jumat, dengan J.D. Vance dan lainnya hadir. Joel Rubin, terima kasih atas kerja kerasmu pagi ini. Terima kasih banyak."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Right. Thanks, Audie.",
+      "cn": "Baik, terima kasih, Audie."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Appreciate it. And straight ahead on CNN, this just in, we've got new polling and it's showing that half of Americans now consider themselves independents. So, who benefits most in the midterms coming up? And then there's Gavin Newsom of California claiming he's under investigation by the Trump administration. So, we're going to ask whether he is, whether this could somehow help him politically if he wants to run for president.",
+      "cn": "Terima kasih banyak. Selanjutnya di CNN, kami baru saja menerima jajak pendapat terbaru yang menunjukkan bahwa sekarang setengah dari orang Amerika menganggap diri mereka pemilih independen. Jadi, dalam pemilihan paruh waktu yang akan datang, siapa yang paling diuntungkan? Juga, Gavin Newsom dari California mengklaim bahwa dia sedang diselidiki oleh pemerintahan Trump. Jadi, kami akan bertanya, apakah dia benar-benar diselidiki, dan apakah ini akan membantunya secara politik jika dia ingin mencalonkan diri sebagai presiden."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right, we want to talk about this. A brand-new CNN poll just out this morning. It finds more Americans are identifying as politically independent. So, this poll is finding nearly half of you, 47 percent, do not consider yourselves a part of either major political party. Here's the thing, that is up 11 points in just the last five years. Now, the remaining population, it's split pretty evenly, coming in at 27 percent for Democrats, 26 percent for Republicans.",
+      "cn": "Baik, mari kita bicarakan ini. CNN pagi ini merilis jajak pendapat baru. Hasilnya menunjukkan bahwa semakin banyak orang Amerika yang menganggap diri mereka independen secara politik. Jajak pendapat ini menemukan bahwa hampir setengahnya, yaitu 47%, tidak menganggap diri mereka bagian dari partai besar mana pun. Perlu dicatat, angka ini naik 11 poin persentase dalam lima tahun terakhir. Sisanya terbagi cukup merata, Demokrat 27%, Republik 26%."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, what could these numbers mean for the midterms? Joining the group chat, Sara Fischer, CNN's senior media analyst and senior media reporter at \"Axios.\" So, on this show I often talk about independents. But my secret take is, they aren't real. That there's basically people who stay home, people who turn in --",
+      "cn": "So, what do these numbers mean for the midterm elections? Joining the chat is Sara Fischer, CNN senior media analyst and Axios senior media reporter. On this show, I often talk about independent voters. But my secret view is that they are not real. Basically, some people stay home, some people go vote --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, but they're actually all partisan. They actually do have a side. They're not just totally, I don't know, up for grabs. But you're the consultant. Tell me I'm wrong.",
+      "cn": "Well, actually they all have partisan leanings. They do have their own positions. They are not completely unaffiliated. But you are a consultant, tell me I'm wrong."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "You're partly right. In an off-year election, it's much different than an on-year election. And what I mean, for those of you at home, we're coming up on a midterm election. The president's not on the ballot. And normally about 40 percent of the electorate stays home. The independents, when you ask folks, are you independent, they want to say, yes, I'm independent.",
+      "cn": "You are partly right. In non-presidential election years, it's very different from presidential election years. I mean, for viewers at home, we are approaching the midterm elections. The president is not on the ballot. Usually about 40% of voters stay home. When you ask people if they are independent, they want to say yes, I am independent."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "But to your point, Audie, you're right, they run into a polling booth and they go, yes, I'm leaning a little more Democrat, oh I lean a little more Republican, and they follow kind of a wave or a shift or a vibe. But the independent movement is bigly, bigly, on the rise because folks out there --",
+      "cn": "But as you said, Audie, you are right, when they walk into the voting booth they say, yes, I lean slightly Democratic, oh, I lean slightly Republican, and then they follow some wave or shift or vibe. But the independent movement is rising sharply because people --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Especially among men. I want to show male voters 18 to 44.",
+      "cn": "Yes. Especially among men. I want to show male voters aged 18 to 44."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "Let the non-college educated, cowboy hat wearing Mexican talk about this, which is, there's a frustration with folks out there right now because they don't feel either party is doing anything, even though they lean one way or the other.",
+      "cn": "Let this Mexican without a college degree, wearing a cowboy hat, talk about this: that now people are disappointed with both parties because they feel that no matter which side they lean, both parties have done nothing."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Well, I'm looking at my notes. It says nothing about hats. But what it says is that these folks are younger than partisans. Sixty-three percent are younger than 50. They're more likely to live in a city than Republicans, but less likely than Democrats to live in a city. And then their incomes are a bit lower. Their annual household income falling below $50,000.",
+      "cn": "Yes. Well, I'm looking at my notes. It doesn't mention the hat. But it says these people are younger than partisans. 63% are under 50. They are more likely to live in cities than Republicans, but less likely than Democrats. Their income is also slightly lower, with household income under $50,000 a year."
+    },
+    {
+      "speaker": "Sara Fischer",
+      "text": "I think there are two trends at play. One is that, for younger generations they've lived through now a very inflation heavy economy where it's been hard to, for example, buy a home, make long term investments, both in the Biden administration and now in the Trump administration. So, you become disenfranchised with your economic opportunity with either party. And then, two, the University of Pennsylvania, their Annenberg School, puts out this incredible study every year on civic engagement.",
+      "cn": "I think there are two trends at play. One is that for the younger generation, they have experienced periods of very high inflation, for example, under the Biden administration and now the Trump administration, making it difficult to buy a house or make long-term investments. So no matter which party is in power, you feel disappointed about your economic opportunities. The other is that the Annenberg School at the University of Pennsylvania releases an excellent study on civic engagement every year."
+    },
+    {
+      "speaker": "Sara Fischer",
+      "text": "And what they found is just that year over year the broad trend line, sometimes there are anomalies, are that younger generations are just less civically engaged, meaning they can't name the three branches of government, they don't understand how government works. When you --",
+      "cn": "They find that year after year, the overall trend line (sometimes with anomalies) shows that younger generations have lower civic engagement, meaning they cannot name the three branches of government, they don't understand how government works. When you --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, we're going to put up numbers of how frequently each group seeks out political news. Democrats, 42 percent. Republicans, 39. Independents, just 25 percent even looking for that news.",
+      "cn": "Yes, we will show data on how often each group actively seeks political news. Democrats 42%, Republicans 39%, and independents only 25% actively seek such news."
+    },
+    {
+      "speaker": "Fischer",
+      "text": "Yes, I think, well they have a lot of options. We talk about this all the time on this show. You know, when you have social media algorithms that are catering to your every want and desire, oftentimes that's not going to be political news. And if you're not somebody, like I said, that's already predisposed to civic engagement, news and information around how the government works and why you should care, then you're not going to be seeking that information out.",
+      "cn": "Yes, I think they have many choices. We often discuss this on the show. You know, when social media algorithms cater to your every need and desire, that content is often not political news. If you are not already inclined, as I said, toward civic engagement, understanding how government works and why you should care, then you won't actively seek that information."
+    },
+    {
+      "speaker": "Fischer",
+      "text": "I think that is very reflective in these numbers as well.",
+      "cn": "I think these numbers also reflect that well."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "It's very important to mention that the groups that y'all are talking about have the -- both the least.",
+      "cn": "It is very important to mention that the groups you are discussing have the least --"
+    },
+    {
+      "speaker": "Rocha",
+      "text": "The younger you are, the poorer you are, wherever you live. They vote -- they just don't vote at the same level old folks vote. That's why we -- all of our politics is geared towards old folks because they show up reliably, even in an off year.",
+      "cn": "The younger and poorer, no matter where you live. They vote -- they just don't vote as often as older people. That's why all our politics are geared toward older people, because they reliably show up, even in non-presidential election years."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But I think people cared because when you look at party identification, for instance, men under the age of 44, the number who are saying they're independents is up 11 percent, but it's down 12 percent for Republicans, meaning, Trump won those people. Those people are -- he's hemorrhaging those folks. SABRINA RODRIGUEZ, POLITICS REPORTER, \"THE WALL STREET JOURNAL\": But we saw the president, I mean, in 2024, he made a very concerted effort to try and court these people.",
+      "cn": "Yes. But I think people care because when you look at party identification, for example, among men under 44, the share calling themselves independent has risen 11 points, while Republicans have dropped 12 points, meaning Trump is losing these people. These people -- he is losing them. Wall Street Journal political reporter Sabrina Rodriguez: But we see the president, I mean, in 2024, he is working very hard to win these people."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And part of the magic of Donald Trump throughout his rise in politics has been him bringing in people into politics who were not traditional voters, were not the people in the consultant models of who they send mail to and all those things. And, I mean, Chuck can talk about this all day.",
+      "cn": "One of the magical things about Donald Trump's political rise is that he brought into politics people who are not traditional voters, not the ones consultants would mail letters to. And Chuck can talk about this all day."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "Easy. Easy on the consultants.",
+      "cn": "Don't get excited. Don't be too harsh on the consultants."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "But the point is that Donald Trump brought into the process people who were not traditionally engaged in politics. And for some of those people who voted for him in 2024, and what this gets at, it wasn't like, oh, and now suddenly I identify as a Republican and I have a loyalty to a party. It was an, OK, the vibes are right, I'm going to vote for him, and we'll see what happens. And we're seeing for some of those people, and we see it in his approval numbers, the disappointment.",
+      "cn": "But the key point is that Donald Trump brought some people who traditionally were not involved in politics into the process. For some of those who voted for him in 2024, it's not 'Oh, I suddenly identify as a Republican and am loyal to the party,' but 'Okay, it feels right, I'll vote for him and see what happens.' We see that some of them -- this also shows in his approval ratings -- feel disappointed."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. It's weird to see these numbers right after the UFC thing.",
+      "cn": "Yes. It feels strange to see these numbers after the UFC event."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "I just was going to bring that up. Yes.",
+      "cn": "I was about to mention that. Yes."
+    },
+    {
+      "speaker": "Fischer",
+      "text": "Well, I think one thing to note, when it comes to that sort of populist outreach, which is part of Donald Trump having the UFC at the White House, there is a misconception that those types of podcasters and those types of activities, the UFC, what have you, are Republican.",
+      "cn": "Well, I think there is a point to note: in that kind of populist outreach -- like Trump hosting a UFC event at the White House -- there is a misconception that those podcast hosts and events like UFC are all Republican."
+    },
+    {
+      "speaker": "Fischer",
+      "text": "In reality, those hosts don't view themselves as political. They view themselves as populist. And I think that we are sort of recognizing where we got that wrong in terms of our analysis with these numbers. The people that we thought Trump was reaching were not diehard MAGAs. They were actually sort of disenfranchised populists who like the Joe Rogana.",
+      "cn": "Actually, these hosts do not consider themselves part of a political faction; they see themselves as populists. I think we are realizing where we went wrong in our analysis based on these numbers. We thought Trump was reaching hardcore MAGA supporters, but actually they are some disenfranchised populists who like people like Joe Rogan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Which we could have played tape of them disliking the Iran War as well.",
+      "cn": "Yes. We could have played the recording of them not liking the Iran war."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Like that's another aspect to this. I want to turn to something else. California Governor Gavin Newsom saying he is being targeted by the Department of Justice. GOV. GAVIN NEWSOM (D-CA): In recent days, federal agents have knocked on the doors of family, friends and former employees, not because they found a crime, because they're simply trying to find one. They're demanding records. They're abusing the grand jury process, digging through years and years of random documents.",
+      "cn": "That's another aspect. I want to turn to another topic. California Governor Gavin Newsom says he is being targeted by the Department of Justice. California Governor Gavin Newsom (Democrat) said: 'In recent days, federal agents have knocked on the doors of family, friends, and former employees, not because they found a crime, but because they just want to find a charge. They have demanded records, abused grand jury procedures, and rifled through years of random documents.'"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Donald Trump isn't just coming after me because of my mean tweets. He's coming after me because I'm considering running for president.",
+      "cn": "Donald Trump is targeting me, not just because of my mean tweets. He's targeting me because I'm considering running for president."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, weird. Sources tell CNN that Newsom is not the subject of an investigation, but that his wife, Jennifer Newsom, is part of a greater investigation into tax crimes. So, the group chat is back. I wish I could show you, you know, an indictment or some investigatory question, but I will show you the number of people the administration has investigated that various people in the cabinet have deemed kind of enemies. Whether that is Jim Comey or Lisa Cook or whoever. So, clearly, Newsom is trying to say, hey --",
+      "cn": "Okay, that's weird. CNN has learned from sources that Newsom is not the subject of the investigation, but his wife Jennifer Newsom is part of a larger tax crime investigation. So, the group chat is back. I wish I could show you an indictment or investigation questions, but I'll tell you how many people this administration has investigated who are considered some kind of enemy by cabinet members -- whether it's Jim Comey, Lisa Cook, or others. So, obviously Newsom is trying to say, hey --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "My friends and family, my wife could end up on this list as well.",
+      "cn": "My friends and family, my wife might also be on this list."
+    },
+    {
+      "speaker": "Nance",
+      "text": "He is loving this, by the way. It makes him more interesting. It brings him back into the news. He's having a great day today. But the truth is what -- this started under Joe Biden. This whole investigation started. But the timing is really good for Gavin Newsom to announce it right now. And the issue is $3.7 million that went into the coffers of The Rep Project, which is a Jennifer Newsom project. By the way, I --full disclosure, served on a -- on a board with her.",
+      "cn": "By the way, he's enjoying this. It makes him more interesting, brings him back into the news. He's having a good day today. But the fact is -- this started under Joe Biden. The whole investigation began then. However, Gavin Newsom announcing this now is perfect timing. The issue is that $3.7 million flowed into the coffers of the 'Republic Project,' a project of Jennifer Newsom. By the way, I -- full disclosure, I served on a board with her."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But do you mind pausing because we don't have confirmation, and I do not know if this is true right now because we literally are not hearing anything. I don't want to be talking about Newsom's wife as though she has committed crimes when we have not heard this.",
+      "cn": "Yes. But can you pause? Because we haven't confirmed, and I don't know if this is true now, since we really haven't heard anything. I don't want to talk about Newsom's wife as if she committed a crime without hearing anything."
+    },
+    {
+      "speaker": "Ok. Cornish",
+      "text": "And I want to understand, though, why Newsom would come out ahead of an actual investigation to talk about it.",
+      "cn": "But what I want to understand is why Newsom would come out and talk about this before the actual investigation."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "Presidential politics are about two things. It's about money and votes. And he's working on both right now. He wants to get out and try to make himself be a victim. We've seen politicians, some of which may be in the White House, always want to be the victim of press or whatever investigation may be happening. And Newsom is positioning himself politically to do that. And as, Sabrina, a consultant, it's a chef's kiss is what this is.",
+      "cn": "Presidential politics is about two things: money and votes. He's working on both now. He wants to step forward and try to portray himself as a victim. We've seen some politicians, possibly including the one in the White House, always want to be victims of the media or any investigation. Newsom is positioning himself politically. As an advisor, Sabrina, this is a perfect move."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "A chef's kiss of getting ahead of it on camera with the flags behind him. I'm surprised he hasn't run away to another country saying, I'm going to go into exile until Donald Trump leaves me alone and tweet it out.",
+      "cn": "Getting ahead of the cameras with flags behind him, this is a perfect move. I'm surprised he didn't run to another country and say, I'm going into exile until Donald Trump stops bothering me, and then tweet."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, let's -- let's let people know, back in May, Emerson College actually did do a poll looking at people's potential choices, Democratic nominee for president. And Newsom was not the first name on it.",
+      "cn": "Okay, let's tell everyone that back in May, Emerson College did a poll asking about potential presidential candidates, Democratic nomination. Newsom wasn't the first name on the list."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "I mean, there's no question that Newsom is amongst the top contenders. He does come up as one of the --",
+      "cn": "I mean, no doubt Newsom is one of the top contenders. He really is one of them --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. I mean, I'm amongst the top contenders. Like, that list is so long at this point.",
+      "cn": "Yes. I mean, I'm also one of the top contenders. Like, the list is too long now."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "But, no. But he is certainly one of -- he has -- he has established himself under Trump's second term as like one of the leading people trying to take him on.",
+      "cn": "But, no. He really is one of them -- he has already established himself as one of the main figures trying to challenge Trump in his second term."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. We'll post a sample tweet so people can see.",
+      "cn": "Yes. We'll post a sample tweet so everyone can see."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "So, this furthers -- so this furthers that national profile that he's tried to build. I mean he has specifically, strategically, over the last year and a half, tried to take on President Trump consistently.",
+      "cn": "So, this further -- this further raises his national profile, which he has been working on. I mean, over the past year and a half, he has been strategically and consistently trying to challenge President Trump."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "Prop 50 (ph). Prop 50 (ph).",
+      "cn": "Proposition 50. Proposition 50."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, redistricting. Yes.",
+      "cn": "Yes, redistricting. Yes."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "Whether it's with redistricting, whether it was last year with the National Guard deployment in Los Angeles, he has, at every turn, tried to take on President Trump. And this does further that.",
+      "cn": "Whether it's redistricting or deploying the National Guard in Los Angeles last year, he has tried to challenge President Trump at every turn. And this furthers that."
+    },
+    {
+      "speaker": "Rodriguez",
+      "text": "And we do see it. I mean, he is already fundraising off of it and sending emails. So, it's clearly a position.",
+      "cn": "We did see that. I mean, he has already started fundraising and sending emails from this. So, this is clearly a stance."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Right. And we just showed that tweet, not because we think it's funny, but because, to your point, Newsom likes to, quote/unquote, do online battle with the Trump administration in the language that they, quote/unquote, understand, so to speak, the language of memes and jokes and he's been at the forefront of that.",
+      "cn": "Exactly. We show that tweet, not because we find it funny, but because, as you said, Newsom likes to use what they call 'the language of the know' -- that is, the language of memes and jokes -- to engage in 'online battles' with the Trump administration, and he has been at the forefront of this."
+    },
+    {
+      "speaker": "Fischer",
+      "text": "And all of those contenders that you just put up on that list, they're all following in his footsteps and launching podcasts and doing their own direct to consumer media and messaging. That's what this is all a big part of. Gavin Newsom doesn't want anyone to be reaching his potential voters except for him.",
+      "cn": "And the contenders you just listed are all following his lead, launching podcasts and doing direct-to-consumer media and messaging. That's a big part of this. Gavin Newsom doesn't want anyone else to reach his potential voters."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, Sara Fischer, thank you so much for being here.",
+      "cn": "Okay, Sara Fischer, thank you so much for coming."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can't wait to have you back. Next on CNN THIS MORNING, we're going to talk more, a little bit, about 2028. We've got J.D. Vance reflecting as he sets up a potential bid. J.D. VANCE, VICE PRESIDENT OF THE UNITED STATES (July 2021): We're effectively run in this country via the Democrats, via our corporate oligarchs, by a bunch of childless cat ladies.",
+      "cn": "Looking forward to having you again. Next on CNN This Morning, we'll discuss the 2028 election further. J.D. Vance reflected as he prepares for a possible campaign. U.S. Vice President J.D. Vance (July 2021): 'Our country is actually run by Democrats, by our corporate oligarchs, by a bunch of childless cat ladies.'"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, that was back in 2021. We're going to talk about why Vance is now saying that that moment was one of the dumbest things he's ever said. J.D. VANCE, VICE PRESIDENT OF THE UNITED STATES (February 28, 2025): I recognize very much that I am a baby Catholic. That there are things about the faith that I don't know. If you ever hear me pontificating about the Catholic faith, please recognize, it comes from a place of deep belief, but it also comes from a place of not always knowing everything all the time.",
+      "cn": "That was 2021. We'll discuss why Vance now says that was one of the dumbest things he ever said. U.S. Vice President J.D. Vance (February 28, 2025): 'I am very aware that I am a Catholic novice. There are many things I don't know about faith. If you hear me pontificating about the Catholic faith, remember that it comes from deep faith, but also from not always knowing everything.'"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that was just in 2025, I think, at the National Prayer Breakfast. Vice President J.D. Vance admitting, look, he's new to the Catholic Church. At the same time, he has also made it a central part of his political identity. It's the main topic of his new book. And CNN obtained an early copy. It's out today. It's called \"Communion: Finding My Way Back to Faith.\" In it Vance talks about his conversion to Catholicism, but also his conversion from Trump critic to Trump's vice president.",
+      "cn": "Okay, that was in 2025, I think, at the National Prayer Breakfast. Vice President J.D. Vance acknowledged, you see, he is a new member of the Catholic Church. At the same time, he makes it a core part of his political identity. This is a major topic of his new book. CNN obtained an early copy. Published today. The title is 'Communion: Finding the Way Back to Faith.' In the book, Vance talks about his conversion to Catholicism and his journey from Trump critic to Trump's vice president."
+    },
+    {
+      "speaker": "J.D. Vance",
+      "text": "There's this sense that God was always looking out for me. Even when I strayed from the path, even when I called myself an atheist, that faith that my grandmother had sort of imbued me with was always there in the background and, of course, is an important part of the way that I go about my duties today. But it's just an important part of who I am. It fundamentally illuminates everything else about me.",
+      "cn": "Ada perasaan bahwa Tuhan selalu memberkati saya. Bahkan ketika saya menyimpang dari jalan, bahkan ketika saya menyebut diri saya ateis, keyakinan yang ditanamkan nenek saya selalu ada di latar belakang, dan tentu saja, itu adalah bagian penting dari cara saya menjalankan tugas hari ini. Tapi itu hanya bagian penting dari identitas saya. Itu pada dasarnya menerangi segalanya tentang diri saya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joining us now in the group chat, Christopher Hale, publisher of \"The Letters from Leo\" Substack. We've been talking to you a lot because every time Vance or the Trump administration has gotten sideways with Pope Leo, we call you up and we're like, what's -- what gives? What about this book strikes you about how he talks about his Catholicism and how it informs how he thinks about governing? CHRISTOPHER HALE, PUBLISHER, \"ETTERS FROM LEO\"",
+      "cn": "Sekarang bergabung dengan kami dalam obrolan grup adalah Christopher Hale, penerbit Substack 'Letters from Leo'. Kami sering berbicara dengan Anda karena setiap kali pemerintahan Vance atau Trump bentrok dengan Paus Leo, kami menelepon Anda dan bertanya: Ada apa? Dalam buku ini, dia berbicara tentang iman Katoliknya dan bagaimana hal itu memengaruhi filosofi pemerintahannya. Apa yang paling berkesan bagi Anda? Christopher Hale, penerbit 'Letters from Leo'."
+    },
+    {
+      "speaker": "Substack",
+      "text": "You know, I think the first thing that I think is remarkable is not -- what's not in the book. I mean, so that speech he talked about where he said he had made some mistakes. Really, the first week of his administration, he said two things about the Catholic Church. He accused the Catholic bishops of getting rich off migrants' resettlement in the United States and he --",
+      "cn": "Anda tahu, saya pikir hal pertama yang mencolok adalah -- -- bukan apa yang tertulis di buku. Maksud saya, dalam pidato yang dia sebutkan, dia mengatakan dia membuat beberapa kesalahan. Sebenarnya, pada minggu pertama menjabat, dia mengatakan dua hal tentang Gereja Katolik. Dia menuduh para uskup Katolik menjadi kaya dengan memukimkan kembali imigran di Amerika, dan dia -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Which I think he actually ended up apologizing for.",
+      "cn": "Saya pikir dia kemudian meminta maaf untuk itu."
+    },
+    {
+      "speaker": "Hale",
+      "text": "He apologized the Cardinal Dolan for it. And then he said that he gave his theological expose on ordo amoris, a good Latin phrase from Saint Augustine about the order of love. And he got smacked down. One of the last acts that Pope Francis did was write this letter to the bishops of the United States talking about what it means to have an order of love. That letter was actually ghostwritten by an American cardinal named Robert Prvost, who became Pope Leo XIV. These weren't in the book.",
+      "cn": "Dia meminta maaf kepada Kardinal Dolan. Lalu dia mengatakan dia memberikan penjelasan teologis tentang ordo amoris, sebuah frase Latin yang bagus dari St. Agustinus tentang tatanan cinta. Ternyata dia mendapat sanggahan. Salah satu tindakan terakhir Paus Fransiskus adalah menulis surat kepada para uskup Amerika tentang apa arti tatanan cinta. Surat itu sebenarnya ditulis oleh seorang kardinal Amerika bernama Robert Prevost, yang kemudian menjadi Paus Leo XIV. Semua ini tidak ada di buku."
+    },
+    {
+      "speaker": "Hale",
+      "text": "And I think that's -- I think that speaks a lot that he would --",
+      "cn": "Saya pikir itu sangat jelas, dia -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Meaning, he didn't do a story of, like, here's what I learned when I actually dealt with popes and when I talked publicly. It's about his personal, past journey.",
+      "cn": "Artinya, dia tidak menceritakan kisah seperti \"Apa yang saya pelajari ketika benar-benar berurusan dengan Paus dan berbicara di depan umum.\" Buku ini tentang perjalanan pribadinya di masa lalu."
+    },
+    {
+      "speaker": "Hale",
+      "text": "Absolutely. And I think that for Catholics who he -- of course, he converted to Catholicism in 2019. He's the only Catholic I know who's gotten rebuked by two popes in one year.",
+      "cn": "Tentu. Dan saya pikir, baginya -- -- tentu saja, dia masuk Katolik pada tahun 2019. Dia satu-satunya Katolik yang saya kenal yang ditegur oleh dua Paus dalam satu tahun."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, he's just the most high profile. There's also the zeal of the convert, right?",
+      "cn": "Yah, dia hanya yang paling menonjol. Dan ada semangat seorang mualaf, kan?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He brings that energy.",
+      "cn": "Dia membawa energi itu."
+    },
+    {
+      "speaker": "Hale",
+      "text": "And, you know, the church loves converts. We have -- we have places for converts. But like any, any tradition, when the new guy comes in and tells you you're doing things wrong, there can be issues there.",
+      "cn": "Dan, Anda tahu, gereja menyukai mualaf. Kami memiliki -- -- kami memiliki tempat untuk mualaf. Tapi seperti tradisi lainnya, ketika pendatang baru memberi tahu Anda bahwa Anda melakukan sesuatu yang salah, itu bisa menimbulkan masalah."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. One thing about getting things wrong, because I doubled checked this three different ways. Like, I'm not sure this is true. That the church on the cover of this book is not a Catholic Church. And it's worth mentioning. The publisher actually issued a statement to \"USA Today\" saying that this church comes from the part of the country where Vice President Vance grew up.",
+      "cn": "Oke. Tentang poin melakukan kesalahan, karena saya sudah memverifikasinya dengan tiga cara berbeda. Saya tidak yakin itu benar. Gereja di sampul buku ini bukan gereja Katolik. Ini perlu disebutkan. Penerbit sebenarnya mengeluarkan pernyataan kepada USA Today bahwa gereja ini berasal dari daerah tempat Wakil Presiden Vance dibesarkan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "\"He was raised protestant and in evangelical churches, and he talks about Christianity in an ecumenical sense throughout the book.\" Penny, I think you said you're familiar with this area.",
+      "cn": "\"Dia dibesarkan di gereja Protestan dan Evangelikal, dan dia berbicara tentang Kekristenan dari sudut pandang gereja universal di seluruh buku.\" Penny, saya pikir Anda mengatakan Anda akrab dengan daerah itu."
+    },
+    {
+      "speaker": "Nance",
+      "text": "Yes. Yes, I actually grew up --",
+      "cn": "Ya. Ya, saya sebenarnya dibesarkan di sana -- --"
+    },
+    {
+      "speaker": "I -- Cornish",
+      "text": "But would it -- I may -- I'm from Massachusetts. I feel like you kick a rock, you hit a Catholic Church. Was there not one?",
+      "cn": "Tapi -- -- saya mungkin -- -- saya dari Massachusetts. Saya rasa Anda bisa menendang batu dan menemukan gereja Katolik. Tidak ada di sana?"
+    },
+    {
+      "speaker": "Ok. Nance",
+      "text": "No. I mean, you know, I'm proud -- I'm a proud hillbilly. And I'm not actually at all surprised that he wrote this book. And if you understand where he grew up, you understand that he was very impacted by the faith of his grandmother.",
+      "cn": "Tidak. Maksud saya, Anda tahu, saya bangga -- -- saya bangga menjadi orang gunung. Saya sama sekali tidak terkejut dia menulis buku ini. Jika Anda tahu tempat dia dibesarkan, Anda akan mengerti bahwa dia sangat dipengaruhi oleh iman neneknya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, this was in \"Hillbilly Elegy\" as well.",
+      "cn": "Ya, itu juga disebutkan di 'Hillbilly Elegy'."
+    },
+    {
+      "speaker": "Nance",
+      "text": "Who was a Evangelical Christian. And there's not many Catholics in Kentucky in the area he grew up. In Ohio, it tends to be a much more evangelical area. But people of deep faith. And despite what he went through in college and all the trials that he lived through as a child, his mother's drug use, faith was always there. He departed for it briefly -- from it briefly, but came back.",
+      "cn": "Dia adalah seorang Kristen Evangelikal. Di daerah Kentucky tempat dia dibesarkan, tidak banyak Katolik. Di Ohio, itu lebih merupakan daerah Evangelikal. Tapi orang-orang di sana memiliki iman yang dalam. Terlepas dari semua yang dia alami di perguruan tinggi, dan kesulitan masa kecilnya, masalah narkoba ibunya, iman selalu ada. Dia sempat pergi -- -- sempat pergi, tapi kembali."
+    },
+    {
+      "speaker": "Nance",
+      "text": "And what this book is about, I think is about how he got back to his faith.",
+      "cn": "Saya pikir buku ini tentang bagaimana dia kembali pada iman."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And that story feels familiar for those of us who grew up in the George Bush era as well, of kind of like church can bring you. I want to talk about one other thing, though, in this book about communion. He talks about a comment he made on Fox News five years ago. Let me play it for you.",
+      "cn": "Ya. Dan cerita ini juga akrab bagi kita yang tumbuh di era George W. Bush, seperti apa yang bisa diberikan gereja. Tapi, saya ingin membicarakan hal lain dalam buku ini tentang Ekaristi. Dia menyebutkan sebuah pernyataan yang dia buat di Fox News lima tahun lalu. Biarkan saya memutarnya untuk Anda."
+    },
+    {
+      "speaker": "J.D. Vance",
+      "text": "We're effectively run in this country via the Democrats, via our corporate oligarchs, by a bunch of childless cat ladies who are miserable at their own lives and the choices that they've made, and so they want to make the rest of the country miserable too.",
+      "cn": "Negara ini sebenarnya dijalankan oleh Demokrat, oligarki perusahaan, dan sekelompok wanita kucing tanpa anak yang menderita karena hidup dan pilihan mereka, jadi mereka ingin orang lain di negara ini juga menderita."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He doesn't need to, in this very personal book called \"Communion,\" go to a political fumble. Why do you think he did?",
+      "cn": "Dalam buku yang sangat pribadi berjudul 'Ekaristi' ini, dia tidak perlu melakukan kesalahan politik. Menurut Anda mengapa dia melakukannya?"
+    },
+    {
+      "speaker": "Rocha",
+      "text": "Because he wants to run for president, that's why.",
+      "cn": "Karena dia ingin mencalonkan diri sebagai presiden, itu alasannya."
+    },
+    {
+      "speaker": "B -- Cornish",
+      "text": "Because he -- no, but he called it one of the dumbest things I ever said, boneheaded.",
+      "cn": "Karena dia -- -- tidak, tapi dia menyebut itu salah satu hal paling bodoh yang pernah saya katakan, sangat bodoh."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "But he's also -- he's also, look, I'm not going to sit here and defend J.D. Vance. The only thing we got in common is we both had a mamaw (ph). But the reason he wrote the book, he wants to run for president, and he's trying to get in touch with a very important part of the electorate. I'm not saying that he's not Christian or not theological or all the things out there, but he's trying to become a real person and have a little bit of a redemption story.",
+      "cn": "Tapi dia juga -- -- dia juga, dengar, saya tidak akan duduk di sini membela J.D. Vance. Satu-satunya kesamaan kami adalah kami sama-sama punya nenek. Tapi alasan dia menulis buku ini adalah karena dia ingin mencalonkan diri sebagai presiden, dan dia mencoba terhubung dengan kelompok pemilih yang sangat penting. Saya tidak mengatakan dia tidak percaya Kristen atau tidak punya konsep teologi, tapi dia berusaha menjadi orang yang autentik dan memiliki kisah penebusan."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "And as somebody who loves a redemption story, because I am a redemption story, I can respect that. And the church is in Tennessee, just",
+      "cn": "Sebagai seseorang yang mencintai kisah penebusan, karena saya sendiri adalah kisah penebusan, saya bisa menghargai itu. Dan gerejanya di Tennessee, hanya"
+    },
+    {
+      "speaker": "Fyi. Cornish",
+      "text": "Wait, which, the picture of the church? .",
+      "cn": "Tunggu, yang mana, foto gerejanya?"
+    },
+    {
+      "speaker": "Rocha",
+      "text": "Not -- Virginia. The one on the -- on the book was in -- it's in -- yes, it's in Virginia.",
+      "cn": "Bukan -- -- Virginia. Yang di buku itu di -- -- di -- -- ya, di Virginia."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "On the cover. No, no, we've got to -- we've got to verify. Oh, yes, Elk Creek, Virginia. There you go. Mount Zion UMC, shout out to y'all because you got a bunch of attention you didn't think you were going to get.",
+      "cn": "Di sampulnya. Tidak, tidak, kita harus -- -- kita harus memeriksanya. Oh, ya, Elk Creek, Virginia. Itu dia. Gereja Methodist United Mount Zion, salut untuk kalian karena kalian mendapat banyak perhatian yang tidak kalian duga."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "Yes. And it's lovely.",
+      "cn": "Ya, dan itu lucu."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "Absolutely. It's a beautiful backdrop.",
+      "cn": "Tentu, latar belakangnya indah."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We do group chats, and you're new, so what's in your group chat?",
+      "cn": "Kami punya grup chat, kamu baru, apa yang ada di grup chatmu?"
+    },
+    {
+      "speaker": "Hale",
+      "text": "So, keep me on the same beat with the pope. Spike Lee, last November, saw Pope Leo XIV and he asked for a miracle. He wanted the Knicks to win their first NBA championship since 1973. And he did.",
+      "cn": "Jadi, biarkan saya mengikuti ritme Paus. November lalu, Spike Lee bertemu Paus Leo XIV, dan dia meminta sebuah keajaiban. Dia berharap Knicks memenangkan kejuaraan NBA untuk pertama kalinya sejak 1973. Dan dia melakukannya."
+    },
+    {
+      "speaker": "Hale",
+      "text": "And so he was paraded through Fort Greene, Spike Lee, on -- after game four. They were down 29 points and they came back in victory. And if you look at him on his little vehicle, he kind of looks like the pope at Fort Greene.",
+      "cn": "Maka, setelah pertandingan keempat, Spike Lee diarak dalam perayaan di Fort Greene. Mereka sempat tertinggal 29 poin, tapi akhirnya berbalik menang. Jika kamu melihat dia duduk di mobil kecil itu, dia terlihat sedikit seperti Paus dari Fort Greene."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I was about to say, why is Spike Lee in a Popemobile? Like, what happened? There's like a Knicks pope. He's -- his little head's popping out of the car.",
+      "cn": "Saya baru saja mau bilang, kenapa Spike Lee duduk di mobil Paus? Apa yang terjadi? Seperti ada Paus Knicks. Kepala kecilnya menjulur dari mobil."
+    },
+    {
+      "speaker": "Hale",
+      "text": "I -- he saw Leo's Popemobile and he wanted the same thing.",
+      "cn": "Saya -- -- dia melihat mobil Paus Leo, dan dia menginginkan hal yang sama."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, that's another spike in popularity for the pope if he's responsible for this. He's going to have both Chicago and New York in his corner. Can I ask you, Penny, because you haven't been here for a while, what's in your group chat?",
+      "cn": "Baiklah, jika Paus yang mewujudkannya, popularitasnya naik lagi. Chicago dan New York akan mendukungnya. Boleh saya tanya, Penny, karena kamu sudah lama tidak datang, apa yang ada di grup chatmu?"
+    },
+    {
+      "speaker": "Nance",
+      "text": "I would like to remind everybody about HHS' new program, moms.gov. It's a great place for women who are needing help to find out where the local pregnancy care centers are, what services are available for them, and just -- it's called moms.gov. It's all indexed by your zip code. So, we'll just say, if you know someone who needs help, that's a great place to go.",
+      "cn": "Saya ingin mengingatkan semua orang tentang proyek baru dari Departemen Kesehatan dan Layanan Masyarakat, moms.gov. Ini situs yang bagus, wanita yang membutuhkan bantuan bisa menemukan pusat perawatan kehamilan lokal, dan mengetahui layanan apa yang tersedia. Namanya moms.gov, diindeks berdasarkan kode pos. Jadi, jika kamu kenal seseorang yang butuh bantuan, itu tempat yang bagus."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And thy holy political consultant, what say you?",
+      "cn": "Jadi, penasihat politik yang suci, bagaimana menurutmu?"
+    },
+    {
+      "speaker": "Rocha",
+      "text": "Today in Washington D.C., is election day.",
+      "cn": "Hari ini adalah hari pemilihan di Washington, D.C."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "Go vote if you can get out and go vote in election day today in",
+      "cn": "Jika kamu bisa keluar, pergilah memilih, hari ini adalah hari pemilihan."
+    },
+    {
+      "speaker": "Rocha",
+      "text": "And stop sending me mail. Today is -- the election day is over. I don't need any more mail. I voted four weeks ago.",
+      "cn": "Berhenti mengirimi saya surat. Hari ini -- -- hari pemilihan sudah selesai. Saya tidak perlu surat lagi. Saya sudah memilih empat minggu lalu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. The good reminder, there are still these elections going on, and we'll soon be talking about a new mayor of D.C. In the meantime, thank you for being here. Thanks for waking up with us. We're going to have the headlines coming up next. var CNN = CNN || {};",
+      "cn": "Baiklah, sebagai pengingat, pemilihan masih berlangsung, dan kami akan segera membahas walikota baru Washington, D.C. Sementara itu, terima kasih telah menonton, terima kasih sudah bangun pagi bersama kami. Selanjutnya, berita utama."
+    }
+  ]
+}
