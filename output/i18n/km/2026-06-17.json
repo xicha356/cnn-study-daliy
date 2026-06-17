@@ -1,0 +1,954 @@
+{
+  "date": "2026-06-17",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-17/segment/01",
+  "summary": "CNN《ព្រឹកនេះ» រាយការណ៍ថា អត្ថបទកិច្ចព្រមព្រៀងអាមេរិក-អ៊ីរ៉ង់មិនត្រូវបានប្រកាសជាសាធារណៈ បង្កឱ្យមានការជជែកវែកញែក។ អនុប្រធានាធិបតី វ៉ាន់ស៍ ថា ដោយសារហេតុផលការទូត មិនទាន់ប្រកាសនៅឡើយទេ ការស្នើសុំរបស់អ៊ីស្រាអែលត្រូវបានបដិសេធ។ នាយករដ្ឋមន្ត្រីកាណាដា ខានី បានលាតត្រដាងថា បានអានកិច្ចព្រមព្រៀងរួចហើយ ហើយសរសើរ។ អ្នកវិភាគចង្អុលបង្ហាញថា កិច្ចព្រមព្រៀងមានពីរដំណាក់កាល ដំបូងដោះសោពាណិជ្ជកម្មប្រេង បញ្ហានុយក្លេអ៊ែរទុកសម្រាប់ការចរចាបន្ត។ លើសពីនេះ បេក្ខជនដែលគាំទ្រដោយ Trump មានលទ្ធផលខុសៗគ្នាក្នុងការបោះឆ្នោតបឋម យន្តហោះតូចធ្លាក់នៅរដ្ឋតិចសាស់ត្រូវបានអ្នកដំណើរជួយសង្គ្រោះ មនុស្សប្រាំនាក់ត្រូវបានចាប់ខ្លួនពីបទរៀបចំផែនការវាយប្រហារការប្រកួតប្រដាល់នៅសេតវិមាន។",
+  "vocabulary": [
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់",
+      "cn": "អនុស្សរណៈនៃការយោគយល់គ្នា (MOU, កិច្ចព្រមព្រៀងក្រៅផ្លូវការ)",
+      "en": "a non-binding agreement outlining the terms and details of an understanding between parties",
+      "excerpt": "This memorandum of understanding, it smacks of appeasement.",
+      "example_cn": "អនុស្សរណៈនៃការយោគយល់គ្នានេះមានអត្ថន័យនៃការផ្សះផ្សា។"
+    },
+    {
+      "word": "appeasement",
+      "phonetic": "/əˈpiːzmənt/",
+      "pos": "noun",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "គោលនយោបាយផ្សះផ្សា; ការបន្ធូរបន្ថយ",
+      "en": "the policy of giving in to demands in order to avoid conflict, often with negative connotation",
+      "excerpt": "This memorandum of understanding, it smacks of appeasement.",
+      "example_cn": "អនុស្សរណៈនៃការយោគយល់គ្នានេះមានអត្ថន័យនៃការផ្សះផ្សា។"
+    },
+    {
+      "word": "smack of",
+      "phonetic": "/smæk ʌv/",
+      "pos": "phrasal verb",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតមធ្យម",
+      "cn": "មានន័យថា...; បញ្ជាក់",
+      "en": "to suggest or indicate something, especially something unpleasant",
+      "excerpt": "This memorandum of understanding, it smacks of appeasement.",
+      "example_cn": "អនុស្សរណៈនៃការយោគយល់នេះមានន័យថាការផ្សះផ្សា។"
+    },
+    {
+      "word": "bystander",
+      "phonetic": "/ˈbaɪstændər/",
+      "pos": "noun",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "សង្គម និងជីវភាពរស់នៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "អ្នកឈរមើល; អ្នកដំណើរឆ្លងកាត់",
+      "en": "a person who is present at an event but does not take part",
+      "excerpt": "Bystanders race to save passengers after a fiery plane crash.",
+      "example_cn": "បន្ទាប់ពីយន្តហោះឆេះធ្លាក់ អ្នកដំណើរឆ្លងកាត់បានប្រញាប់ប្រញាល់ជួយសង្គ្រោះអ្នកដំណើរ។"
+    },
+    {
+      "word": "fiery",
+      "phonetic": "/ˈfaɪəri/",
+      "pos": "adjective",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "គ្រោះមហន្តរាយ និងបរិស្ថាន",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "កំពុងឆេះ; ក្ដៅខ្លាំង",
+      "en": "burning or containing fire; very hot",
+      "excerpt": "Bystanders race to save passengers after a fiery plane crash.",
+      "example_cn": "បន្ទាប់ពីយន្តហោះឆេះធ្លាក់ អ្នកដំណើរឆ្លងកាត់បានប្រញាប់ប្រញាល់ជួយសង្គ្រោះអ្នកដំណើរ។"
+    },
+    {
+      "word": "chilling",
+      "phonetic": "/ˈtʃɪlɪŋ/",
+      "pos": "adjective",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "គួរឱ្យរន្ធត់; គួរឱ្យភ័យខ្លាច",
+      "en": "frightening or disturbing, especially because of the possibility of violence or harm",
+      "excerpt": "Five people accused in a chilling plot to attack fight night on the White House lawn.",
+      "example_cn": "មនុស្សប្រាំនាក់ត្រូវបានចោទប្រកាន់ពីបទរៀបចំផែនការវាយប្រហាររាត្រីប្រដាល់នៅលើស្មៅសេតវិមាន ដែលគួរឱ្យរន្ធត់។"
+    },
+    {
+      "word": "pull off",
+      "phonetic": "/pʊl ɔːf/",
+      "pos": "phrasal verb",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "បំពេញដោយជោគជ័យ (រឿងពិបាក)",
+      "en": "to succeed in doing something difficult or unexpected",
+      "excerpt": "How close were the suspects to actually pulling it off?",
+      "example_cn": "តើជនសង្ស័យជិតប៉ុណ្ណាទៅនឹងការអនុវត្តផែនការពិតប្រាកដ?"
+    },
+    {
+      "word": "midterms",
+      "phonetic": "/ˈmɪdtɜːrmz/",
+      "pos": "noun plural",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "中期选举",
+      "en": "elections held in the middle of a president's term, for Congress and other offices",
+      "excerpt": "I have no question or doubt that we will win the midterms.",
+      "example_cn": "我毫不怀疑我们将赢得中期选举。"
+    },
+    {
+      "word": "culture wars",
+      "phonetic": "/ˈkʌltʃər wɔːrz/",
+      "pos": "noun phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "文化战争（社会价值观冲突）",
+      "en": "conflicts between groups with different cultural values, often in politics",
+      "excerpt": "a new CNN poll suggests culture wars could play an even bigger role this time around.",
+      "example_cn": "CNN最新民调显示，文化战争这次可能扮演更重要的角色。"
+    },
+    {
+      "word": "algae bloom",
+      "phonetic": "/ˈældʒiː bluːm/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "វិទ្យាសាស្ត្របរិស្ថាន",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់",
+      "cn": "藻华；水华",
+      "en": "a rapid increase in the population of algae in water, often causing discoloration",
+      "excerpt": "Was a blue paint job no match for an algae bloom?",
+      "example_cn": "蓝色油漆涂层是否敌不过藻华？"
+    },
+    {
+      "word": "keep someone in the dark",
+      "phonetic": "/kiːp ˈsʌmwʌn ɪn ðə dɑːrk/",
+      "pos": "idiom",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "对某人隐瞒；不让某人知情",
+      "en": "to keep someone uninformed or unaware of something",
+      "excerpt": "He needs to stop keeping America in the dark.",
+      "example_cn": "他需要停止对美国人民隐瞒。"
+    },
+    {
+      "word": "shape the narrative",
+      "phonetic": "/ʃeɪp ðə ˈnærətɪv/",
+      "pos": "verb phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "塑造叙事；引导舆论",
+      "en": "to control or influence the way a story is presented and understood",
+      "excerpt": "President Trump and his administration are attempting to shape the narrative around their proposal with Iran.",
+      "example_cn": "特朗普总统及其政府正试图围绕与伊朗的提案塑造叙事。"
+    },
+    {
+      "word": "blame game",
+      "phonetic": "/bleɪm ɡeɪm/",
+      "pos": "noun phrase",
+      "usage": "固定搭配",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "固定搭配 · កម្រិតខ្ពស់",
+      "cn": "បន្ទោសគ្នាទៅវិញទៅមក; បោះបន្ទុក",
+      "en": "a situation in which people blame each other for a problem",
+      "excerpt": "We're going to start with the blame game this morning.",
+      "example_cn": "ព្រឹកនេះយើងចាប់ផ្តើមដោយការបន្ទោសគ្នាទៅវិញទៅមក។"
+    },
+    {
+      "word": "delicate",
+      "phonetic": "/ˈdelɪkət/",
+      "pos": "adjective",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ឆ្ងាញ់; ត្រូវការការប្រុងប្រយ័ត្ន",
+      "en": "requiring careful handling, especially because of potential consequences",
+      "excerpt": "There are some delicate diplomatic things going on.",
+      "example_cn": "មានកិច្ចការការទូតដ៏ឆ្ងាញ់មួយចំនួនកំពុងដំណើរការ។"
+    },
+    {
+      "word": "sequence",
+      "phonetic": "/ˈsiːkwəns/",
+      "pos": "verb",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "រៀបចំតាមលំដាប់; កំណត់លំដាប់",
+      "en": "to arrange things in a particular order",
+      "excerpt": "have asked us to sequence this in the right way.",
+      "example_cn": "តម្រូវឱ្យយើងរៀបចំលំដាប់តាមវិធីត្រឹមត្រូវ។"
+    },
+    {
+      "word": "exceed expectations",
+      "phonetic": "/ɪkˈsiːd ˌekspekˈteɪʃənz/",
+      "pos": "verb phrase",
+      "usage": "固定搭配",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "固定搭配 · កម្រិតខ្ពស់",
+      "cn": "លើសពីការរំពឹងទុក",
+      "en": "to be better than what was expected",
+      "excerpt": "I have to say, it's exceeded my expectations.",
+      "example_cn": "ខ្ញុំត្រូវតែនិយាយថា វាលើសពីការរំពឹងទុករបស់ខ្ញុំ។"
+    },
+    {
+      "word": "game changer",
+      "phonetic": "/ɡeɪm ˈtʃeɪndʒər/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "អ្វីដែលផ្លាស់ប្តូរច្បាប់នៃល្បែង; កត្តារំខាន",
+      "en": "something that significantly alters the current situation or outcome",
+      "excerpt": "I think it's a game changer.",
+      "example_cn": "ខ្ញុំគិតថានេះជាកត្តាផ្លាស់ប្តូរហ្គេម។"
+    },
+    {
+      "word": "relieve the crisis",
+      "phonetic": "/rɪˈliːv ðə ˈkraɪsɪs/",
+      "pos": "verb phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "បន្ធូរបន្ថយវិបត្តិ",
+      "en": "to reduce the severity or urgency of a crisis",
+      "excerpt": "there is something that has relieved the immediate crisis.",
+      "example_cn": "មានអ្វីមួយបានបន្ធូរបន្ថយវិបត្តិភ្លាមៗ។"
+    },
+    {
+      "word": "long slog",
+      "phonetic": "/lɔːŋ slɒɡ/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "ដំណើរការដ៏យូរអង្វែង និងលំបាក",
+      "en": "a long, difficult, and tiring effort",
+      "excerpt": "that's going to look a lot more like the kind of long slog you saw the Obama administration go through.",
+      "example_cn": "នោះនឹងក្លាយជាដំណើរការដ៏យូរអង្វែង និងលំបាកដូចដែលរដ្ឋបាលអូបាម៉ាធ្លាប់ជួបប្រទះ។"
+    },
+    {
+      "word": "rent-free in someone's head",
+      "phonetic": "/rent friː ɪn ˈsʌmwʌnz hed/",
+      "pos": "idiom",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់បំផុត",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់បំផុត",
+      "cn": "(នរណាម្នាក់) គង់នៅក្នុងគំនិតរបស់នរណាម្នាក់ជានិច្ច (អវិជ្ជមាន មានន័យថាយកចិត្តទុកដាក់ហួសហេតុ)",
+      "en": "to be constantly on someone's mind, often used to criticize someone for being obsessed with another person",
+      "excerpt": "why does he, Obama, live like rent-free in the heads of those working at the White House?",
+      "example_cn": "ហេតុអ្វីបានជាអូបាម៉ាគង់នៅក្នុងគំនិតរបស់បុគ្គលិកសេតវិមានដោយឥតគិតថ្លៃ?"
+    },
+    {
+      "word": "shortfall",
+      "phonetic": "/ˈʃɔːrtfɔːl/",
+      "pos": "noun",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "កង្វះខាត; ចំណុចខ្វះខាត",
+      "en": "a deficiency or failure to meet a requirement or expectation",
+      "excerpt": "specifically spoke to shortfalls that it had.",
+      "example_cn": "បានចង្អុលបង្ហាញជាពិសេសពីចំណុចខ្វះខាតរបស់វា។"
+    },
+    {
+      "word": "precooked",
+      "phonetic": "/priːˈkʊkt/",
+      "pos": "adjective",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "រៀបចំទុកជាមុន; បានរៀបចំទុកជាមុន",
+      "en": "prepared in advance; already decided or arranged",
+      "excerpt": "he argued that, in fact, that was sort of precooked, and it was on the way.",
+      "example_cn": "គាត់បានប្រកែកថា តាមពិតវាត្រូវបានរៀបចំទុកជាមុន ហើយកំពុងដំណើរការ។"
+    },
+    {
+      "word": "warhawk",
+      "phonetic": "/ˈwɔːrhɔːk/",
+      "pos": "noun",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "អ្នកកាន់ជំហរឈ្លានពាន; អ្នកគាំទ្រសង្គ្រាម",
+      "en": "a person who advocates for war or aggressive military action",
+      "excerpt": "You have so many warhawks.",
+      "example_cn": "អ្នកមានអ្នកកាន់ជំហរឈ្លានពានច្រើនណាស់។"
+    },
+    {
+      "word": "ceremonial signing",
+      "phonetic": "/ˌserɪˈmoʊniəl ˈsaɪnɪŋ/",
+      "pos": "noun phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ពិធីចុះហត្ថលេខា",
+      "en": "a formal event where an agreement is signed, often for symbolic purposes",
+      "excerpt": "Vice President Vance is supposed to go and actually do a ceremonial signing.",
+      "example_cn": "អនុប្រធានាធិបតី Vance នឹងទៅ ហើយពិតជារៀបចំពិធីចុះហត្ថលេខា។"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "This memorandum of understanding, it smacks of appeasement.",
+      "cn": "អនុស្សរណៈនៃការយោគយល់នេះ មានរសជាតិនៃការផ្សះផ្សា។",
+      "structure": "ប្រយោគចម្បងជារចនាសម្ព័ន្ធប្រធាន-កិរិយា-បំពេញ ប្រធានតាមដោយពាក្យសមមូលដដែលៗ កិរិយា smacks of មានន័យថា \"មានរសជាតិនៃ...\"។",
+      "analysis": "smacks of ជាពាក្យផ្សំថេរ មានន័យថា \"មានសញ្ញានៃ...\" ប្រើសម្រាប់ការវាយតម្លៃអវិជ្ជមាន។ ប្រយោគនេះជារចនាសម្ព័ន្ធសង្កត់ធ្ងន់បែបវោហារស័ព្ទ it សំដៅលើ memorandum មុន។"
+    },
+    {
+      "en": "Bystanders race to save passengers after a fiery plane crash.",
+      "cn": "អ្នកឈរមើលប្រញាប់ប្រញាល់ជួយសង្គ្រោះអ្នកដំណើរ បន្ទាប់ពីយន្តហោះធ្លាក់យ៉ាងសន្ធោសន្ធៅ។",
+      "structure": "ប្រយោគសាមញ្ញ ប្រធាន bystanders កិរិយា race to save បំពេញ passengers កន្សោមពេលវេលា after a fiery plane crash។",
+      "analysis": "race to do sth. មានន័យថា \"ប្រញាប់ប្រញាល់ធ្វើអ្វីមួយ\" fiery មានន័យថា \"កំពុងឆេះ, សន្ធោសន្ធៅ\" ជាគុណនាមដែលគេប្រើក្នុងព័ត៌មានដើម្បីបង្កើនរូបភាព។"
+    },
+    {
+      "en": "They were planning to attack the Freedom 250.",
+      "cn": "ពួកគេកំពុងរៀបចំផែនការវាយប្រហារព្រឹត្តិការណ៍ \"Freedom 250\"។",
+      "structure": "អតីតកាលកំពុងបន្ត ប្រធាន they កិរិយា were planning to attack បំពេញ the Freedom 250។",
+      "analysis": "Freedom 250 ជានាមផ្ទាល់ខ្លួន សំដៅលើព្រឹត្តិការណ៍អ្វីមួយ ក្នុងព័ត៌មានគេតែងប្រើពាក្យកាត់ ឬលេខកូដ។"
+    },
+    {
+      "en": "I have no question or doubt that we will win the midterms.",
+      "cn": "ខ្ញុំគ្មានការសង្ស័យទេថាយើងនឹងឈ្នះការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ។",
+      "structure": "ប្រយោគចម្បង I have no question or doubt តាមដោយប្រយោគបន្ទាប់បន្សំដែលចាប់ផ្តើមដោយ that។",
+      "analysis": "no question or doubt ជាការបដិសេធពីរដងដើម្បីបញ្ជាក់ midterms សំដៅលើការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ ជាពាក្យប្រើក្នុងនយោបាយអាមេរិក។"
+    },
+    {
+      "en": "Democrats have high hopes for the midterms, but a new CNN poll suggests culture wars could play an even bigger role this time around.",
+      "cn": "គណបក្សប្រជាធិបតេយ្យសង្ឃឹមខ្ពស់លើការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ ប៉ុន្តែការស្ទង់មតិថ្មីរបស់ CNN បង្ហាញថា សង្គ្រាមវប្បធម៌អាចដើរតួនាទីធំជាងនៅពេលនេះ។",
+      "structure": "ប្រយោគសមាស, ភ្ជាប់ដោយ but។ ពាក់កណ្តាលទីមួយ: ប្រធាន + កិរិយា + កម្ម; ពាក់កណ្តាលទីពីរ: ប្រធាន + កិរិយា + ប្រយោគបន្ទាប់បន្សំជាកម្ម (ខ្វះ that)។",
+      "analysis": "culture wars សំដៅលើសង្គ្រាមវប្បធម៌ ជាពាក្យនយោបាយសង្គមអាមេរិក; this time around មានន័យថា \"លើកនេះ\"។"
+    },
+    {
+      "en": "And workers armed with bleach and tiny bubbles fight nature at the National Mall's reflecting pool.",
+      "cn": "កម្មករកាន់សារធាតុ bleach និងពពុះតូចៗ ប្រយុទ្ធជាមួយធម្មជាតិនៅអាងទឹកឆ្លុះបញ្ចាំងនៃ National Mall។",
+      "structure": "ប្រយោគសាមញ្ញ: ប្រធាន workers, តាមដោយឃ្លាកិរិយាស័ព្ទអតីតកាល armed with... ជាគុណនាម, កិរិយា fight, កម្ម nature, ទីកន្លែង at...។",
+      "analysis": "armed with មានន័យថា \"បំពាក់ដោយ\" នៅទីនេះប្រើបែបកំប្លែងសំដៅលើឧបករណ៍សម្អាត; National Mall's reflecting pool ជាសញ្ញាសម្គាល់នៅវ៉ាស៊ីនតោន។"
+    },
+    {
+      "en": "Was a blue paint job no match for an algae bloom?",
+      "cn": "តើថ្នាំលាបពណ៌ខៀវមិនអាចទប់ទល់នឹងការរីកដុះដាលនៃសារាយបានទេឬ?",
+      "structure": "ប្រយោគសួរទូទៅ: ប្រធាន a blue paint job, កិរិយា was, បំពេញ no match for...។",
+      "analysis": "no match for មានន័យថា \"មិនមែនជាគូប្រជែងរបស់...\"; algae bloom សំដៅលើការរីកដុះដាលនៃសារាយ ជាពាក្យបរិស្ថាន។"
+    },
+    {
+      "en": "I'm calling on Trump to immediately tell the American people on whatever is in his so-called deal.",
+      "cn": "ខ្ញុំសូមអំពាវនាវដល់លោក Trump ឱ្យប្រាប់ប្រជាជនអាមេរិកភ្លាមៗនូវអ្វីដែលមាននៅក្នុងកិច្ចព្រមព្រៀងដែលគេហៅថារបស់គាត់។",
+      "structure": "ប្រយោគចម្បង I'm calling on Trump to tell..., តាមដោយប្រយោគបន្ទាប់បន្សំជាកម្ម whatever is in his so-called deal។",
+      "analysis": "call on sb. to do sth. មានន័យថា \"អំពាវនាវឱ្យនរណាម្នាក់ធ្វើអ្វីមួយ\"; so-called មានន័យថា \"ដែលគេហៅថា\" មានន័យអវិជ្ជមាន។"
+    },
+    {
+      "en": "He needs to stop keeping America in the dark.",
+      "cn": "គាត់ត្រូវការបញ្ឈប់ការលាក់បាំងព័ត៌មានពីអាមេរិក។",
+      "structure": "ប្រយោគសាមញ្ញ: ប្រធាន he, កិរិយា needs to stop, ឃ្លាកិរិយាស័ព្ទ keeping America in the dark ជាកម្ម។",
+      "analysis": "keep sb. in the dark ជាពាក្យស្លោក មានន័យថា \"លាក់បាំងព័ត៌មានពីនរណាម្នាក់\"។"
+    },
+    {
+      "en": "Right now, President Trump and his administration are attempting to shape the narrative around their proposal with Iran, as the world eagerly awaits the text of this memorandum of understanding.",
+      "cn": "បច្ចុប្បន្ននេះ ប្រធានាធិបតី Trump និងរដ្ឋបាលរបស់គាត់កំពុងព្យាយាមបង្កើតនិទានកថាជុំវិញសំណើរបស់ពួកគេជាមួយអ៊ីរ៉ង់ ខណៈដែលពិភពលោកកំពុងរង់ចាំអត្ថបទនៃអនុស្សរណៈនៃការយោគយល់គ្នានេះដោយអន្ទះសារ។",
+      "structure": "ប្រយោគចម្បងនៅក្នុងកាលបច្ចុប្បន្នកំពុងបន្ត: ប្រធាន President Trump and his administration, កិរិយា are attempting to shape, កម្ម the narrative, តាមដោយ as ឃ្លាកិរិយាវិសេសន៍បង្ហាញពេលវេលា។",
+      "analysis": "shape the narrative ជាកន្សោមប្រើក្នុងសារព័ត៌មាន មានន័យថា \"បង្កើតមតិសាធារណៈ/និទានកថា\"; memorandum of understanding (MOU) ជាពាក្យការទូត។"
+    },
+    {
+      "en": "There are some delicate diplomatic things going on where the Iranians -- and not just the Iranians, but some of our mediators, the Pakistanis and the Qataris -- have asked us to sequence this in the right way.",
+      "cn": "មានបញ្ហាការទូតដ៏ឆ្ងាញ់ពិសាកំពុងកើតឡើង ដែលជនជាតិអ៊ីរ៉ង់ -- មិនត្រឹមតែជនជាតិអ៊ីរ៉ង់ទេ ថែមទាំងអ្នកសម្របសម្រួលខ្លះរបស់យើង ជនជាតិប៉ាគីស្ថាន និងកាតា -- កំពុងទាមទារឱ្យយើងរៀបចំលំដាប់លំដោយតាមវិធីត្រឹមត្រូវ។",
+      "structure": "ប្រយោគ There be: ប្រធាន some delicate diplomatic things, តាមដោយឃ្លាកិរិយាស័ព្ទបច្ចុប្បន្ន going on, តាមដោយ where ឃ្លាគុណនាមពន្យល់ things, ក្នុងឃ្លានោះមានសញ្ញាដកឃ្លាបន្ថែមព័ត៌មាន។",
+      "analysis": "delicate មានន័យថា \"ឆ្ងាញ់ពិសា\"; sequence ជាកិរិយាមានន័យថា \"រៀបចំតាមលំដាប់\"; សញ្ញាដកឃ្លាបន្ថែមព័ត៌មាន។"
+    },
+    {
+      "en": "It sets the groundwork for to ensure Iran doesn't have a nuclear weapon.",
+      "cn": "វាបានដាក់មូលដ្ឋានគ្រឹះដើម្បីធានាថាអ៊ីរ៉ង់មិនមានអាវុធនុយក្លេអ៊ែរ។",
+      "structure": "ប្រយោគចម្បង It sets the groundwork for, តាមដោយឃ្លាកិរិយាស័ព្ទ to ensure..., ដែល ensure តាមដោយប្រយោគបន្ទាប់បន្សំជាកម្ម (ខ្វះ that)។",
+      "analysis": "set the groundwork for មានន័យថា \"ដាក់មូលដ្ឋានគ្រឹះសម្រាប់...\"; សូមកត់សម្គាល់ថា for to ក្នុងអត្ថបទដើមជាភាសានិយាយ ស្តង់ដារគួរជា for ensuring ឬ to ensure។"
+    },
+    {
+      "en": "It sets the groundwork for a reintegration over time of the economies in the region.",
+      "cn": "វាបានដាក់មូលដ្ឋានគ្រឹះសម្រាប់ការបញ្ចូលសេដ្ឋកិច្ចក្នុងតំបន់ឡើងវិញបន្តិចម្តងៗ។",
+      "structure": "ប្រយោគចម្បង It sets the groundwork for, កម្មវត្ថុ a reintegration, តាមដោយឃ្លាធ្នាក់ over time និង of the economies in the region ជាគុណនាម។",
+      "analysis": "reintegration មានន័យថា \"ការបញ្ចូលឡើងវិញ\"; over time មានន័យថា \"តាមពេលវេលា\"។"
+    },
+    {
+      "en": "I was surprised to see Carney, who has not been the most sort of positive relationship with Trump, speak highly of it.",
+      "cn": "ខ្ញុំភ្ញាក់ផ្អើលដែលឃើញ Carney  --  ដែលទំនាក់ទំនងរបស់គាត់ជាមួយ Trump មិនមែនជាវិជ្ជមានបំផុត  --  សរសើរវាខ្លាំង។",
+      "structure": "ប្រយោគចម្បង I was surprised to see Carney...speak highly of it, បញ្ចូលឃ្លាគុណនាមដែលគ្មានកំណត់ who កែប្រែ Carney។",
+      "analysis": "speak highly of មានន័យថា \"សរសើរខ្លាំង\"; not the most sort of ជាកន្សោមពាក្យនិយាយ មានន័យថា \"មិនមែនជា...បំផុត\"។"
+    },
+    {
+      "en": "What wouldn't happen immediately, though, is any actual resolution of the nuclear issues.",
+      "cn": "ទោះយ៉ាងណា អ្វីដែលនឹងមិនកើតឡើងភ្លាមៗនោះគឺដំណោះស្រាយពិតប្រាកដណាមួយនៃបញ្ហានុយក្លេអ៊ែរ។",
+      "structure": "ប្រយោគប្រធាន What wouldn't happen immediately, កិរិយាសព្ទភ្ជាប់ is, កន្សោម any actual resolution...។",
+      "analysis": "though ជាពាក្យបញ្ចូលបង្ហាញការផ្ទុយ; resolution of the nuclear issues មានន័យថា \"ដំណោះស្រាយនៃបញ្ហានុយក្លេអ៊ែរ\"។"
+    },
+    {
+      "en": "That all goes to a second negotiation, one that I think is going to be a lot more difficult, though the president said yesterday he thought it would be relatively easy.",
+      "cn": "ទាំងអស់នោះចូលទៅក្នុងការចរចាជុំទីពីរ ដែលខ្ញុំគិតថានឹងពិបាកជាង ទោះបីជាប្រធានាធិបតីបាននិយាយកាលពីម្សិលមិញថាគាត់គិតថាវានឹងងាយស្រួលក៏ដោយ។",
+      "structure": "ប្រយោគចម្បង That all goes to a second negotiation, តាមដោយពាក្យសមមូល one, បន្ទាប់មកឃ្លាគុណនាមដែលដឹកនាំដោយ that, ក្នុងឃ្លារងមានឃ្លាបន្ទាប់បន្សំដែលដឹកនាំដោយ though។",
+      "analysis": "go to មានន័យថា \"ចូលទៅក្នុង\"; one that... ជារចនាសម្ព័ន្ធពាក្យសមមូល; though ដឹកនាំឃ្លាបន្ទាប់បន្សំបង្ហាញការផ្ទុយ។"
+    },
+    {
+      "en": "And that's going to look a lot more like the kind of long slog you saw the Obama administration go through in 2015.",
+      "cn": "នោះនឹងមើលទៅដូចជាដំណើរការដ៏វែងឆ្ងាយ និងលំបាកដែលអ្នកបានឃើញរដ្ឋាភិបាល Obama ឆ្លងកាត់ក្នុងឆ្នាំ 2015។",
+      "structure": "ប្រយោគចម្បង that's going to look like..., កម្មវត្ថុ the kind of long slog, តាមដោយឃ្លាគុណនាមដែលលុបសព្វនាមទំនាក់ទំនង you saw..., ដែលមានកម្មវត្ថុបំពេញបន្ថែម go through។",
+      "analysis": "long slog មានន័យថា \"ការខិតខំប្រឹងប្រែងដ៏វែងឆ្ងាយ និងលំបាក\"; go through មានន័យថា \"ឆ្លងកាត់\"។"
+    },
+    {
+      "en": "The problem he's got now is he has to go strike an agreement in this second negotiation that exceeds the Obama agreement in all of its elements.",
+      "cn": "បញ្ហាដែលគាត់ប្រឈមមុខឥឡូវនេះគឺថា គាត់ត្រូវតែចរចារកិច្ចព្រមព្រៀងមួយនៅក្នុងការចរចាជុំទីពីរ ដែលលើសពីកិច្ចព្រមព្រៀង Obama នៅគ្រប់ទិដ្ឋភាពទាំងអស់។",
+      "structure": "ប្រយោគចម្បង The problem...is, តាមដោយឃ្លាកន្សោម he has to go strike..., ដែលមានឃ្លាគុណនាមដែលដឹកនាំដោយ that កែប្រែ agreement។",
+      "analysis": "go strike ជាកន្សោមពាក្យនិយាយ ស្មើនឹង go and strike; exceed មានន័យថា \"លើស\"; in all of its elements មានន័យថា \"នៅគ្រប់ទិដ្ឋភាព\"។"
+    },
+    {
+      "en": "He called me on -- on Sunday evening to argue that, in fact, that was sort of precooked, and it was on the way.",
+      "cn": "គាត់បានទូរស័ព្ទមកខ្ញុំនៅយប់ថ្ងៃអាទិត្យ ដើម្បីប្រកែកថា តាមពិតរឿងនោះត្រូវបានរៀបចំទុកជាមុន ហើយកំពុងដំណើរការ។",
+      "structure": "ប្រយោគចម្បង He called me...to argue, តាមដោយឃ្លាកម្មវត្ថុដែលដឹកនាំដោយ that, ឃ្លារងជាប្រយោគផ្សំដោយ and។",
+      "analysis": "precooked ដើមឡើយមានន័យថា \"ចម្អិនរួច\" នៅទីនេះប្រៀបធៀបថា \"រៀបចំទុកជាមុន\"; on the way មានន័យថា \"កំពុងដំណើរការ\"។"
+    },
+    {
+      "en": "Already, there are various versions of this agreement, some of which look pretty close to right to me, based on my own reporting, that are floating around on the Internet.",
+      "cn": "មានកំណែផ្សេងៗនៃកិច្ចព្រមព្រៀងនេះរួចហើយ ដែលខ្លះមើលទៅត្រឹមត្រូវណាស់ ដោយផ្អែកលើការរាយការណ៍ផ្ទាល់ខ្លួនរបស់ខ្ញុំ កំណែទាំងនោះកំពុងផ្សព្វផ្សាយនៅលើអ៊ីនធឺណិត។",
+      "structure": "ប្រយោគ There be, ប្រធាន various versions, តាមដោយ some of which ដឹកនាំឃ្លាគុណនាមដែលគ្មានកំណត់, ក្នុងឃ្លារងមានពាក្យបញ្ចូល based on my own reporting និងឃ្លាគុណនាមដែលដឹកនាំដោយ that។",
+      "analysis": "floating around មានន័យថា \"ផ្សព្វផ្សាយ\"; based on មានន័យថា \"ផ្អែកលើ\"។"
+    }
+  ],
+  "topics": [
+    {
+      "title": "ការជជែកវែកញែកអំពីអនុស្សរណៈនៃការយោគយល់គ្នា (MOU) រវាងអាមេរិក និងអ៊ីរ៉ង់",
+      "content": "សហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បានឈានដល់អនុស្សរណៈនៃការយោគយល់គ្នា (Memorandum of Understanding, MOU) ប៉ុន្តែអត្ថបទមិនត្រូវបានបោះពុម្ពផ្សាយទេ។ អនុប្រធានាធិបតី វ៉ាន់ស៍ បាននិយាយថា ដោយសារហេតុផលការទូត មិនទាន់ប្រកាសផ្សាយនៅឡើយទេ។ អ៊ីស្រាអែលបានស្នើសុំមើល ប៉ុន្តែត្រូវបានបដិសេធ។ នាយករដ្ឋមន្ត្រីកាណាដា ខានី បានបង្ហើបថាបានអានរួចហើយ ហើយសរសើរ។ អ្នកវិភាគចង្អុលបង្ហាញថា កិច្ចព្រមព្រៀងមានពីរដំណាក់កាល៖ ដំបូងដោះស្រាយវិបត្តិពាណិជ្ជកម្មប្រេង ហើយបញ្ហានុយក្លេអ៊ែរទុកសម្រាប់ការចរចានៅពេលក្រោយ ស្រដៀងនឹងការចរចាកិច្ចព្រមព្រៀងនុយក្លេអ៊ែរអ៊ីរ៉ង់ឆ្នាំ 2015 (JCPOA)។",
+      "keywords": "memorandum of understanding · appeasement · JCPOA"
+    },
+    {
+      "title": "ប្រសិទ្ធភាពនៃការគាំទ្ររបស់លោក Trump ត្រូវបានចោទសួរ",
+      "content": "លោក Trump អះអាងថា ការគាំទ្រ (endorsement) របស់គាត់គឺជា \"ស្តង់ដារមាស\" (gold standard) ប៉ុន្តែនៅក្នុងការបោះឆ្នោតបឋមឆ្នាំ 2026 លទ្ធផលមានភាពខុសគ្នា។ បេក្ខជនព្រឹទ្ធសភារដ្ឋហ្សកហ្ស៊ី លោក Mike Collins បានឈ្នះ ប៉ុន្តែបេក្ខជនផ្សេងទៀតបានបរាជ័យ ដែលនាំឱ្យមានការពិភាក្សាអំពីឥទ្ធិពលនយោបាយរបស់គាត់។",
+      "keywords": "endorsement · gold standard · primary"
+    },
+    {
+      "title": "ការធ្លាក់យន្តហោះតូចនៅរដ្ឋតិចសាស់ និងការជួយសង្គ្រោះដោយអ្នកដំណើរឆ្លងកាត់",
+      "content": "នៅរដ្ឋតិចសាស់ មានគ្រោះថ្នាក់យន្តហោះតូចមួយធ្លាក់ ហើយយន្តហោះបានឆេះ (fiery crash) អ្នកដំណើរឆ្លងកាត់ (bystanders) បានធ្វើសកម្មភាពយ៉ាងរហ័សដើម្បីជួយសង្គ្រោះអ្នកដំណើរ បង្ហាញពីភាពក្លាហាន។",
+      "keywords": "fiery crash · bystander · rescue"
+    },
+    {
+      "title": "ផែនការវាយប្រហារក្នុងព្រឹត្តិការណ៍ប្រដាល់នៅសេតវិមាន",
+      "content": "មនុស្សប្រាំនាក់ត្រូវបានចោទប្រកាន់ពីបទរៀបចំផែនការវាយប្រហារលើការប្រកួតប្រដាល់ \"Freedom 250\" នៅលើស្មៅសេតវិមាន។ អនុប្រធានរបស់ទីភ្នាក់ងារសន្តិសុខសហរដ្ឋអាមេរិកបាននិយាយថា ជនសង្ស័យមានគម្រោងវាយប្រហារ ប៉ុន្តែមិនបានបញ្ជាក់ព័ត៌មានលម្អិតទេ។",
+      "keywords": "chilling plot · fight night · Secret Service"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "នៅក្នុងអត្ថបទដើម 'This memorandum of understanding, it smacks of appeasement.' ពាក្យ 'smacks of' មានន័យជិតបំផុតអ្វី?",
+      "options": [
+        "A. បង្ហាញពីអត្ថន័យ",
+        "B. វាយ",
+        "C. ភ្លក់",
+        "D. ទះ"
+      ],
+      "answer": 0,
+      "explanation": "'smack of' គឺជាពាក្យផ្សំថេរ មានន័យថា \"បង្ហាញពីអត្ថន័យ\" ជាញឹកញាប់មានអត្ថន័យអវិជ្ជមាន។ នៅទីនេះមានន័យថា អនុស្សរណៈនេះបង្ហាញពីការសម្របសម្រួល។"
+    },
+    {
+      "type": "vocab",
+      "question": "នៅក្នុងអត្ថបទដើម 'How close were the suspects to actually pulling it off?' ពាក្យ 'pull off' មានន័យដូចម្តេច?",
+      "options": [
+        "A. ទាញចេញ",
+        "B. ធ្វើឱ្យសម្រេចបានដោយជោគជ័យ",
+        "C. ដោះចេញ",
+        "D. ឈប់"
+      ],
+      "answer": 1,
+      "explanation": "'pull off' គឺជាកិរិយាសព្ទឃ្លា មានន័យថា \"ធ្វើឱ្យសម្រេចបានដោយជោគជ័យ (រឿងពិបាក)\"។ នៅទីនេះសួរថា តើជនសង្ស័យជិតប៉ុណ្ណាក្នុងការធ្វើឱ្យផែនការសម្រេចបានដោយជោគជ័យ។"
+    },
+    {
+      "type": "vocab",
+      "question": "ប្រយោគដើម 'He needs to stop keeping America in the dark.' តើ 'keep someone in the dark' មានន័យដូចម្តេច?",
+      "options": [
+        "A. ទុកឱ្យនរណាម្នាក់នៅកន្លែងងងឹត",
+        "B. លាក់បាំងព័ត៌មានពីនរណាម្នាក់",
+        "C. ធ្វើឱ្យនរណាម្នាក់យល់ច្រឡំ",
+        "D. ទុកឱ្យនរណាម្នាក់រង់ចាំ"
+      ],
+      "answer": 1,
+      "explanation": "'keep someone in the dark' គឺជាពាក្យស្លោក មានន័យថា \"លាក់បាំងព័ត៌មានពីនរណាម្នាក់ មិនឱ្យដឹង\"។ នៅទីនេះសំដៅលើលោក Trump មិនគួរលាក់បាំងខ្លឹមសារកិច្ចព្រមព្រៀងនោះទេ។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តាមរបាយការណ៍ តើអនុស្សរណៈយោគយល់ (MOU) រវាងអាមេរិក និងអ៊ីរ៉ង់បច្ចុប្បន្នស្ថិតក្នុងស្ថានភាពបែបណា?",
+      "options": [
+        "A. បានផ្សព្វផ្សាយជាសាធារណៈពេញលេញ",
+        "B. អត្ថបទមិនទាន់ផ្សព្វផ្សាយទេ ប៉ុន្តែមេដឹកនាំមួយចំនួនបានអាន",
+        "C. អ៊ីស្រាអែលបានទទួលច្បាប់ចម្លងរួចហើយ",
+        "D. ត្រូវបានសភាបដិសេធ"
+      ],
+      "answer": 1,
+      "explanation": "របាយការណ៍បញ្ជាក់ថាអត្ថបទ MOU មិនទាន់ត្រូវបានផ្សព្វផ្សាយជាសាធារណៈទេ ប៉ុន្តែនាយករដ្ឋមន្ត្រីកាណាដា Carney បាននិយាយថាបានឃើញតាមរយៈប្រភពព័ត៌មាន រីឯការស្នើសុំរបស់អ៊ីស្រាអែលត្រូវបានបដិសេធ។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើអ្នកវិភាគយល់ថាគោលដៅចម្បងនៃដំណាក់កាលទីមួយនៃកិច្ចព្រមព្រៀងអាមេរិក-អ៊ីរ៉ង់គឺជាអ្វី?",
+      "options": [
+        "A. ដោះស្រាយបញ្ហានុយក្លេអ៊ែរទាំងស្រុង",
+        "B. សម្រាលវិបត្តិប្រេង",
+        "C. បង្កើតសម្ព័ន្ធភាពយោធា",
+        "D. ដោះលែងអ្នកទោស"
+      ],
+      "answer": 1,
+      "explanation": "David Sanger បានចង្អុលបង្ហាញថាដំណាក់កាលទីមួយគឺធ្វើឱ្យប្រេងនៅច្រកសមុទ្រហ័រម៉ុសហូរមកវិញ ដើម្បីសម្រាលវិបត្តិបន្ទាន់ រីឯបញ្ហានុយក្លេអ៊ែរទុកសម្រាប់ដំណាក់កាលទីពីរ។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើរបាយការណ៍បានបញ្ជាក់អ្វីខ្លះអំពីការគាំទ្ររបស់លោក Trump?",
+      "options": [
+        "A. បេក្ខជនទាំងអស់បានឈ្នះ",
+        "B. បានឈ្នះការបោះឆ្នោតបឋមសមាជិកព្រឹទ្ធសភានៅរដ្ឋ Georgia",
+        "C. បាត់បង់ឥទ្ធិពលទាំងស្រុង",
+        "D. ត្រូវបានបេក្ខជនគណបក្សប្រជាធិបតេយ្យយកឈ្នះ"
+      ],
+      "answer": 1,
+      "explanation": "របាយការណ៍បានឱ្យដឹងថាលោក Trump បានគាំទ្រលោក Mike Collins នៅរដ្ឋ Georgia ហើយគាត់បានឈ្នះការបោះឆ្នោតបឋមរបស់គណបក្សសាធារណរដ្ឋ ប៉ុន្តែលទ្ធផលរួមមានភាពខុសគ្នា មិនមែនឈ្នះទាំងអស់នោះទេ។"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "Her Facebook page has reached nearly 400,000 followers. And fans like to watch the bubbly bovine just hanging out on the front porch of her family's home. And life is about to get even more interesting for Daisy. Guess what? She's expected to deliver her first calf soon. Congratulations to the growing family. Well, that does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "ទំព័រ Facebook របស់នាងមានអ្នកតាមដានជិត 400,000 នាក់ហើយ។ អ្នកគាំទ្រចូលចិត្តមើលគោដ៏រស់រវើកនេះដើរលេងនៅមុខផ្ទះរបស់នាង។ ហើយសម្រាប់ Daisy ជីវិតនឹងកាន់តែគួរឱ្យចាប់អារម្មណ៍។ ទាយមើលថាម៉េច? នាងនឹងសម្រាលកូនគោដំបូងរបស់នាងឆាប់ៗនេះ។ សូមអបអរសាទរដល់គ្រួសារដែលកំពុងរីកចម្រើននេះ។ មិនអីទេ នេះជាការបញ្ចប់ព័ត៌មាន CNN ។ ខ្ញុំគឺ Brad Smith ។ កម្មវិធី «CNN This Morning» ដែលដឹកនាំដោយ Audie Cornish ចាប់ផ្តើមឥឡូវនេះ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "It's the elephant in the room at the G-7 right now. What's in the text of Trump's agreement with Iran, and why hasn't the world seen it yet?",
+      "cn": "នេះជាដំរីនៅក្នុងបន្ទប់នៃកិច្ចប្រជុំកំពូល G7 ។ តើអត្ថបទកិច្ចព្រមព្រៀងរវាង Trump និងអ៊ីរ៉ង់មានអ្វីខ្លះ? ហើយហេតុអ្វីបានជាពិភពលោកមិនទាន់ឃើញ?"
+    },
+    {
+      "speaker": "Mike Pence",
+      "text": "This memorandum of understanding, it smacks of appeasement.",
+      "cn": "អនុស្សរណៈនៃការយោគយល់គ្នានេះមានរសជាតិនៃការផ្សះផ្សា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Dramatic moments on a Texas highway. Bystanders race to save passengers after a fiery plane crash.",
+      "cn": "ឈុតឆាកគួរឱ្យភ្ញាក់ផ្អើលនៅលើផ្លូវហាយវ៉េក្នុងរដ្ឋតិចសាស់។ បន្ទាប់ពីយន្តហោះឆេះធ្លាក់ អ្នកឈរមើលបានខំប្រឹងជួយសង្គ្រោះអ្នកដំណើរ។"
+    },
+    {
+      "speaker": "Matthew Quinn",
+      "text": "They were planning to attack the Freedom 250.",
+      "cn": "ពួកគេគ្រោងនឹងវាយប្រហារព្រឹត្តិការណ៍ «Liberty 250»។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Five people accused in a chilling plot to attack fight night on the White House lawn. How close were the suspects to actually pulling it off?",
+      "cn": "មនុស្សប្រាំនាក់ត្រូវបានចោទប្រកាន់ពីបទរៀបចំផែនការវាយប្រហារដ៏គួរឱ្យរន្ធត់លើការប្រកួតប្រដាល់នៅលើស្មៅសេតវិមាន។ តើជនសង្ស័យជិតដល់ការអនុវត្តផែនការកម្រិតណា?"
+    },
+    {
+      "speaker": "Kamala Harris",
+      "text": "I have no question or doubt that we will win the midterms.",
+      "cn": "ខ្ញុំមិនសង្ស័យទេថាយើងនឹងឈ្នះក្នុងការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Democrats have high hopes for the midterms, but a new CNN poll suggests culture wars could play an even bigger role this time around. And workers armed with bleach and tiny bubbles fight nature at the National Mall's reflecting pool. Was a blue paint job no match for an algae bloom?",
+      "cn": "គណបក្សប្រជាធិបតេយ្យមានសង្ឃឹមខ្ពស់ចំពោះការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ ប៉ុន្តែការស្ទង់មតិថ្មីរបស់ CNN បង្ហាញថា សង្គ្រាមវប្បធម៌អាចដើរតួនាទីធំជាងនេះនៅពេលនេះ។ កម្មករកាន់សារធាតុ bleach និងពពុះតូចៗនៅក្នុងអាងទឹក Reflection Pool នៅ National Mall ដើម្បីប្រយុទ្ធជាមួយធម្មជាតិ។ តើថ្នាំលាបពណ៌ខៀវអាចទប់ទល់នឹងការផ្ទុះសារាយបានទេ?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Wait, I need that line from \"Wicked.\" You're green. Oh, it's green. SEN. CHUCK SCHUMER (D-NY): I'm calling on Trump to immediately tell the American people on whatever is in his so-called deal. He needs to stop keeping America in the dark.",
+      "cn": "ចាំបន្តិច ខ្ញុំត្រូវការបន្ទាត់ពី «Wicked»។ អ្នកមានពណ៌បៃតង។ អូ វាពណ៌បៃតង។ សមាជិកព្រឹទ្ធសភា Chuck Schumer (D-NY)៖ ខ្ញុំស្នើសុំឱ្យ Trump ប្រាប់ប្រជាជនអាមេរិកភ្លាមៗថា តើមានអ្វីនៅក្នុងកិច្ចព្រមព្រៀងដែលគេហៅថារបស់គាត់។ គាត់ត្រូវតែឈប់ទុកឱ្យអាមេរិកនៅក្នុងទីងងឹត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Right now, President Trump and his administration are attempting to shape the narrative around their proposal with Iran, as the world eagerly awaits the text of this memorandum of understanding. Good morning, everybody. I'm Audie Cornish. We're going to start with the blame game this morning. Vice President J.D. Vance says, we want to tell you what's in the agreement, but we can't, at least not yet, he says.",
+      "cn": "បច្ចុប្បន្ននេះ ប្រធានាធិបតី Trump និងរដ្ឋាភិបាលរបស់គាត់កំពុងព្យាយាមរៀបចំមតិសាធារណៈជុំវិញសំណើរបស់ពួកគេជាមួយអ៊ីរ៉ង់ ខណៈដែលពិភពលោកកំពុងរង់ចាំអត្ថបទនៃអនុស្សរណៈនៃការយោគយល់គ្នានេះដោយអន្ទះសារ។ សួស្តីព្រឹក។ ខ្ញុំគឺ Audie Cornish ។ ព្រឹកនេះយើងចាប់ផ្តើមជាមួយការចោទប្រកាន់គ្នាទៅវិញទៅមក។ អនុប្រធានាធិបតី J.D. Vance បាននិយាយថា យើងចង់ប្រាប់អ្នកពីអ្វីដែលនៅក្នុងកិច្ចព្រមព្រៀង ប៉ុន្តែយើងមិនអាចទេ យ៉ាងហោចណាស់ក៏មិនទាន់ដែរ គាត់និយាយ។"
+    },
+    {
+      "speaker": "J.D. Vance",
+      "text": "There are some delicate diplomatic things going on where the Iranians -- and not just the Iranians, but some of our mediators, the Pakistanis and the Qataris -- have asked us to sequence this in the right way.",
+      "cn": "មានកិច្ចការការទូតដ៏ឆ្ងាញ់ពិសាមួយចំនួនដែលកំពុងដំណើរការ ហើយភាគីអ៊ីរ៉ង់ -- -- មិនត្រឹមតែអ៊ីរ៉ង់ទេ ប៉ុន្តែអ្នកសម្រុះសម្រួលរបស់យើងមួយចំនួន ប៉ាគីស្ថាន និងកាតា -- -- បានស្នើសុំឱ្យយើងរៀបចំលំដាប់លំដោយតាមរបៀបត្រឹមត្រូវ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But it turns out Israel doesn't even know. A source telling CNN Israel requested to see the agreement, and that request was rejected. One person who has seen the MOU, Canadian Prime Minister Mark Carney, and he spoke to CNN while at the G-7 summit.",
+      "cn": "ប៉ុន្តែលទ្ធផលគឺអ៊ីស្រាអែលមិនទាំងដឹងផង។ ប្រភពមួយបានប្រាប់ CNN ថា អ៊ីស្រាអែលបានស្នើសុំមើលកិច្ចព្រមព្រៀងនេះ ប៉ុន្តែត្រូវបានបដិសេធ។ ម្នាក់ក្នុងចំណោមអ្នកដែលបានឃើញអនុស្សរណៈនេះគឺនាយករដ្ឋមន្ត្រីកាណាដា Mark Carney ដែលបានផ្តល់បទសម្ភាសន៍ជាមួយ CNN ក្នុងអំឡុងពេលកិច្ចប្រជុំកំពូល G7 ។"
+    },
+    {
+      "speaker": "Mark Carney",
+      "text": "I have to say, it's exceeded my expectations. We're very pleased with the deal that's been struck. It sets the groundwork for to ensure Iran doesn't have a nuclear weapon. It sets the groundwork for a reintegration over time of the economies in the region. It sets the groundwork for a solution in Lebanon.",
+      "cn": "ខ្ញុំត្រូវតែនិយាយថា នេះលើសពីការរំពឹងទុករបស់ខ្ញុំ។ យើងពេញចិត្តយ៉ាងខ្លាំងចំពោះកិច្ចព្រមព្រៀងដែលបានឈានដល់។ វាបានដាក់មូលដ្ឋានគ្រឹះសម្រាប់ការធានាថាអ៊ីរ៉ង់មិនមានអាវុធនុយក្លេអ៊ែរ សម្រាប់ការបញ្ចូលសេដ្ឋកិច្ចក្នុងតំបន់ឡើងវិញជាបណ្តើរៗ និងសម្រាប់ការដោះស្រាយបញ្ហាលីបង់។"
+    },
+    {
+      "speaker": "Kaitlan Collins",
+      "text": "Did you actually see the agreement itself?",
+      "cn": "តើអ្នកពិតជាបានឃើញកិច្ចព្រមព្រៀងដោយខ្លួនឯងទេ?"
+    },
+    {
+      "speaker": "Carney",
+      "text": "I've seen the agreement, yes.",
+      "cn": "បាទ ខ្ញុំបានឃើញកិច្ចព្រមព្រៀង។"
+    },
+    {
+      "speaker": "Collins",
+      "text": "Oh, so the president showed it to you?",
+      "cn": "អូ ដូច្នេះប្រធានាធិបតីបានបង្ហាញអ្នក?"
+    },
+    {
+      "speaker": "Carney",
+      "text": "Well, I've seen the agreement. We have -- we have -- we have our sources. I think it's a game changer.",
+      "cn": "អញ្ចឹង ខ្ញុំបានឃើញកិច្ចព្រមព្រៀង។ យើងមាន -- -- យើងមាន -- -- យើងមានប្រភពរបស់យើង។ ខ្ញុំគិតថានេះជារឿងដែលផ្លាស់ប្តូរហ្គេម។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joining me now, CNN political and national security analyst David Sanger. Good morning, David. So, we have --",
+      "cn": "ឥឡូវនេះចូលរួមជាមួយយើងគឺអ្នកវិភាគនយោបាយ និងសន្តិសុខជាតិរបស់ CNN គឺ David Sanger ។ សួស្តីព្រឹក David ។ ដូច្នេះយើង -- --"
+    },
+    {
+      "speaker": "David Sanger",
+      "text": "Good morning, Audie.",
+      "cn": "សួស្តីព្រឹក Audie ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, we have -- good morning. There's no text publicly. But clearly, someone's got it. I was surprised to see Carney, who has not been the most sort of positive relationship with Trump, speak highly of it. Is that the sort of word out of the G-7 in terms of how European leaders are responding?",
+      "cn": "ដូច្នេះយើង -- -- សួស្តីព្រឹក។ បច្ចុប្បន្នមិនមានអត្ថបទសាធារណៈទេ។ ប៉ុន្តែជាក់ស្តែងមានមនុស្សមួយចំនួនបានទទួលវា។ ខ្ញុំភ្ញាក់ផ្អើលដែលឃើញ Carney -- -- ទំនាក់ទំនងរបស់គាត់ជាមួយ Trump មិនសូវវិជ្ជមានទេ -- -- វាយតម្លៃខ្ពស់បែបនេះ។ តើនេះជាសញ្ញាពីភាគី G7 អំពីរបៀបដែលមេដឹកនាំអឺរ៉ុបឆ្លើយតបទេ?"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "Well, I think the European leaders are just delighted at this point that there is something that has relieved the immediate crisis, which is getting the oil flowing again across the Strait of Hormuz. And that would happen almost immediately under the text of -- of this agreement. What wouldn't happen immediately, though, is any actual resolution of the nuclear issues.",
+      "cn": "អញ្ចឹង ខ្ញុំគិតថាមេដឹកនាំអឺរ៉ុបនៅពេលនេះសប្បាយចិត្ត ព្រោះទីបំផុតមានវិធីដើម្បីបន្ធូរបន្ថយវិបត្តិភ្លាមៗ ពោលគឺការស្តារការដឹកជញ្ជូនប្រេងតាមច្រកសមុទ្រហ៊័រម៉ុស។ យោងតាមអត្ថបទនៃកិច្ចព្រមព្រៀងនេះ វានឹងកើតឡើងស្ទើរតែភ្លាមៗ។ ទោះយ៉ាងណា អ្វីដែលមិនកើតឡើងភ្លាមៗនោះគឺដំណោះស្រាយជាក់ស្តែងណាមួយចំពោះបញ្ហានុយក្លេអ៊ែរ។"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "That all goes to a second negotiation, one that I think is going to be a lot more difficult, though the president said yesterday he thought it would be relatively easy. And that's going to look a lot more like the kind of long slog you saw the Obama administration go through in 2015. And they ultimately got an accord, but it took them 18 months.",
+      "cn": "អ្វីៗទាំងអស់នេះចូលទៅក្នុងជុំទីពីរនៃការចរចា ដែលខ្ញុំគិតថានឹងពិបាកជាងនេះទៅទៀត ទោះបីជាប្រធានាធិបតីកាលពីម្សិលមិញបាននិយាយថាគាត់គិតថាវានឹងងាយស្រួលក៏ដោយ។ នេះមើលទៅដូចជាការតស៊ូអូសបន្លាយដែលរដ្ឋបាល Obama បានជួបប្រទះក្នុងឆ្នាំ 2015 ។ ពួកគេទីបំផុតបានឈានដល់កិច្ចព្រមព្រៀង ប៉ុន្តែវាចំណាយពេល 18 ខែ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's interesting. You were writing about the way that the White House has been thinking about that Obama-era agreement. And I've noticed even in the president's Truth Social accounts, he's posting cartoons, sort of comparing Obama-era policy on Iran with his Arab policy on Iran. And, you know, I -- why does he, Obama, live like rent-free in the heads of those working at the White House? Like, what is the deal with constantly framing it this way?",
+      "cn": "គួរឱ្យចាប់អារម្មណ៍ អ្នកធ្លាប់សរសេរពីមុនអំពីទស្សនៈរបស់សេតវិមានចំពោះកិច្ចព្រមព្រៀងសម័យ Obama ។ ខ្ញុំសង្កេតឃើញថា សូម្បីតែនៅលើគណនី Truth Social របស់ប្រធានាធិបតី គាត់កំពុងបង្ហោះរូបថ្លុកប្រៀបធៀបគោលនយោបាយរបស់ Obama ចំពោះអ៊ីរ៉ង់ជាមួយនឹងគោលនយោបាយអារ៉ាប់របស់គាត់។ អ្នកដឹងទេ ហេតុអ្វីបានជា Obama អាចកាន់កាប់គំនិតរបស់បុគ្គលិកសេតវិមានបានយ៉ាងងាយស្រួល? ហេតុអ្វីបានជាតែងតែដាក់ស៊ុមបញ្ហាបែបនេះ?"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "Yes, it's real -- No, it's really fascinating. I mean, obviously, the president is defensive about this, because he ended up killing the Obama-era agreement in 2018 and said it was the worst agreement ever. And specifically spoke to shortfalls that it had: that it didn't deal with missiles; that it expired after 15 years; that it allowed the Iranians to continue to do some low-level nuclear work.",
+      "cn": "បាទ/នាងខ្ញុំ នេះពិតជាគួរឱ្យចាប់អារម្មណ៍ណាស់។ ជាក់ស្តែង ប្រធានាធិបតីមានអាកប្បកិរិយាការពារ ដោយសារតែគាត់បានបញ្ចប់កិច្ចព្រមព្រៀងសម័យអូបាម៉ាក្នុងឆ្នាំ 2018 ហើយហៅវាថាជាកិច្ចព្រមព្រៀងដ៏អាក្រក់បំផុតមិនធ្លាប់មាន។ គាត់បានចង្អុលបង្ហាញពីចំណុចខ្វះខាតនៃកិច្ចព្រមព្រៀង៖ មិនបាននិយាយអំពីបញ្ហាមីស៊ីល; ផុតកំណត់បន្ទាប់ពី 15 ឆ្នាំ; អនុញ្ញាតឱ្យអ៊ីរ៉ង់បន្តសកម្មភាពនុយក្លេអ៊ែរកម្រិតទាបមួយចំនួន។"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "The problem he's got now is he has to go strike an agreement in this second negotiation that exceeds the Obama agreement in all of its elements. And maybe he'll be able to do that. He called me on -- on Sunday evening to argue that, in fact, that was sort of precooked, and it was on the way. And that -- that he would manage to go get a much broader agreement than Obama did.",
+      "cn": "បញ្ហាដែលគាត់ប្រឈមមុខឥឡូវនេះគឺថា គាត់ត្រូវតែឈានដល់កិច្ចព្រមព្រៀងមួយក្នុងជុំទីពីរនៃការចរចា ដែលល្អជាងកិច្ចព្រមព្រៀងអូបាម៉ាក្នុងគ្រប់ទិដ្ឋភាព។ ប្រហែលជាគាត់អាចធ្វើបាន។ គាត់បានទូរស័ព្ទមកខ្ញុំនៅយប់ថ្ងៃអាទិត្យ ហើយប្រកែកថា តាមពិតនេះត្រូវបានរៀបចំទុកជាមុនរួចហើយ ហើយកំពុងដំណើរការ។ គាត់នឹងព្យាយាមឈានដល់កិច្ចព្រមព្រៀងដែលទូលំទូលាយជាងអូបាម៉ា។"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "But we won't know until we've seen that next -- that next agreement.",
+      "cn": "ប៉ុន្តែយើងមិនអាចដឹងបានទេ រហូតដល់យើងឃើញកិច្ចព្រមព្រៀងបន្ទាប់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I think the pressure is also coming. You know, the call's from inside the house. You have so many warhawks. You have Israel, a lot of people critiquing this. And in our introduction, we played this clip of Mike Pence calling it a kind of appeasement. I see J.D. Vance on the tour, on the media tour, going on \"Megyn Kelly,\" trying to quiet these voices. Is the White House worried about it?",
+      "cn": "ខ្ញុំគិតថាសម្ពាធក៏កំពុងកើនឡើងដែរ។ អ្នកដឹងទេ សម្ពាធពីខាងក្នុង។ មានមនុស្សដែលមានទស្សនៈតឹងតែងច្រើន។ ហើយអ៊ីស្រាអែល មនុស្សជាច្រើនរិះគន់ចំណុចនេះ។ នៅក្នុងការបើករបស់យើង យើងបានលេងឈុតដែលលោក Mike Pence ហៅវាថាជាគោលនយោបាយផ្សះផ្សា។ ខ្ញុំឃើញ J.D. Vance កំពុងធ្វើទស្សនកិច្ចតាមប្រព័ន្ធផ្សព្វផ្សាយ ទៅកម្មវិធី The Megyn Kelly Show ព្យាយាមបន្ធូរបន្ថយសំឡេងទាំងនេះ។ តើសេតវិមានព្រួយបារម្ភទេ?"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "Well, they are worried about it. And look, I think we're going to see a copy of this. Already, there are various versions of this agreement, some of which look pretty close to right to me, based on my own reporting, that are floating around on the Internet. So, they're going to have to sort this out, probably by Friday when Vice President Vance is supposed to go and actually do a ceremonial signing and then start up this next round of negotiations. But there's something in here for everybody to dislike.",
+      "cn": "ពួកគេពិតជាព្រួយបារម្ភ។ ហើយខ្ញុំគិតថាយើងនឹងឃើញច្បាប់ចម្លងនៃកិច្ចព្រមព្រៀង។ មានកំណែផ្សេងៗនៃកិច្ចព្រមព្រៀងដែលកំពុងផ្សព្វផ្សាយតាមអ៊ីនធឺណិតរួចហើយ ដែលខ្លះមើលទៅជិតស្និទ្ធណាស់តាមការរាយការណ៍របស់ខ្ញុំ។ ដូច្នេះ ពួកគេត្រូវតែដោះស្រាយបញ្ហានេះមុនថ្ងៃសុក្រ នៅពេលដែលអនុប្រធានាធិបតី Vance នឹងចូលរួមក្នុងពិធីចុះហត្ថលេខា ហើយបន្ទាប់មកចាប់ផ្តើមជុំបន្ទាប់នៃការចរចា។ ប៉ុន្តែតែងតែមានអ្វីមួយនៅក្នុងកិច្ចព្រមព្រៀងនេះដែលធ្វើឱ្យភាគីនីមួយៗមិនពេញចិត្ត។"
+    },
+    {
+      "speaker": "Sanger",
+      "text": "The Israelis are not going to like the fact that it does not -- this agreement does not speak to Iran's support for proxies: Hezbollah and Hamas. The Iranians aren't going to like the fact that it does have a reference to them giving up their most highly enriched uranium. And many in the U.S. are going to say, well, what? Why are we rewarding the Iranians by lifting sanctions and giving them -- unfreezing their money, which is essentially the critique President Trump was making in 2016 when he ran for president.",
+      "cn": "អ៊ីស្រាអែលនឹងមិនចូលចិត្តថាកិច្ចព្រមព្រៀងនេះមិនបាននិយាយអំពីការគាំទ្ររបស់អ៊ីរ៉ង់ចំពោះប្រូកស៊ី (Hezbollah និង Hamas)។ អ៊ីរ៉ង់នឹងមិនចូលចិត្តថាកិច្ចព្រមព្រៀងនិយាយអំពីការបោះបង់ចោលសារធាតុអ៊ុយរ៉ាញ៉ូមដែលបានពង្រឹងខ្ពស់បំផុតរបស់ខ្លួន។ ហើយជនជាតិអាមេរិកជាច្រើននឹងនិយាយថា ហេតុអ្វី? ហេតុអ្វីបានជាយើងផ្តល់រង្វាន់ដល់អ៊ីរ៉ង់ដោយការដកទណ្ឌកម្ម និងដោះលែងមូលនិធិ? នេះជាមូលដ្ឋាននៃការរិះគន់ដែលប្រធានាធិបតី Trump បានលើកឡើងក្នុងអំឡុងពេលយុទ្ធនាការឆ្នាំ 2016។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's David Sanger. Thank you so much. Coming up on CNN THIS MORNING, we're report on the small plane crash in Texas. And seconds later, a daring rescue from brave bystanders. Plus, Messi opens his final World Cup run with a history-making hat trick. And a mixed night for President Trump's candidates. Is his endorsement still the gold standard? REP. MIKE COLLINS (R-GA),",
+      "cn": "ល្អ នោះគឺ David Sanger។ សូមអរគុណច្រើន។ បន្ទាប់នៅក្នុង CNN This Morning យើងនឹងរាយការណ៍អំពីការធ្លាក់យន្តហោះតូចមួយនៅរដ្ឋ Texas។ ប៉ុន្មានវិនាទីក្រោយមក អ្នកឈរមើលដ៏ក្លាហានបានធ្វើការជួយសង្គ្រោះយ៉ាងក្លាហាន។ លើសពីនេះទៀត Messi បានចាប់ផ្តើម World Cup ចុងក្រោយរបស់គាត់ជាមួយនឹង hat-trick ប្រវត្តិសាស្ត្រ។ ហើយបេក្ខជនរបស់ប្រធានាធិបតី Trump មានរាត្រីចម្រុះ។ តើការគាំទ្ររបស់គាត់នៅតែជាស្តង់ដារមាសដែរឬទេ? តំណាងរាស្ត្រមកពីរដ្ឋ Georgia លោក Mike Collins"
+    },
+    {
+      "speaker": "Georgia Senatorial Candidate",
+      "text": "Sometimes, we've got some strong disagreements. But I can tell you one thing: Now we stand united around one mission.",
+      "cn": "ពេលខ្លះ យើងមានការខ្វែងគំនិតគ្នាយ៉ាងខ្លាំង។ ប៉ុន្តែខ្ញុំអាចប្រាប់អ្នករឿងមួយ៖ ឥឡូវនេះយើងរួបរួមគ្នាជុំវិញបេសកកម្មមួយ។"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "Every time I endorse, they win. It's been a pretty amazing track record,",
+      "cn": "រាល់ពេលដែលខ្ញុំគាំទ្រ ពួកគេឈ្នះ។ នេះពិតជាកំណត់ត្រាគួរឱ្យភ្ញាក់ផ្អើលមួយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Actually, it was a mixed bag last night for the power of President Trump's endorsement. For instance, in Georgia, his pick for the Senate, Congressman Mike Collins, will win the GOP primary. That sets the stage for a high- stakes race in November against rising Democratic Party star Senator Jon Ossoff.",
+      "cn": "តាមពិត យប់មិញសម្រាប់អំណាចនៃការគាំទ្ររបស់ប្រធានាធិបតី Trump គឺចម្រុះ។ ឧទាហរណ៍ នៅរដ្ឋ Georgia បេក្ខជនព្រឹទ្ធសភាដែលគាត់គាំទ្រ តំណាងរាស្ត្រ Mike Collins នឹងឈ្នះការបោះឆ្នោតបឋមរបស់គណបក្សសាធារណរដ្ឋ។ នេះរៀបចំសម្រាប់ការប្រកួតដ៏ខ្ពស់ហានិភ័យនៅខែវិច្ឆិកាជាមួយតារាកំពុងឡើងនៃគណបក្សប្រជាធិបតេយ្យ សមាជិកព្រឹទ្ធសភា Jon Ossoff។"
+    },
+    {
+      "speaker": "Collins",
+      "text": "You know, we're Republicans, now. We're going to have some robust primaries out there. Sometimes then, we've got some strong disagreements. But I can tell you one thing: now we stand united around one mission. It's to put a Republican in that seat and get rid of that Jon Ossoff in November, return this seat to the people of Georgia.",
+      "cn": "អ្នកដឹងទេ ឥឡូវនេះយើងជាគណបក្សសាធារណរដ្ឋ។ យើងនឹងមានការបោះឆ្នោតបឋមដ៏ខ្លាំងក្លាមួយចំនួន។ ពេលខ្លះ យើងមានការខ្វែងគំនិតគ្នាយ៉ាងខ្លាំង។ ប៉ុន្តែខ្ញុំអាចប្រាប់អ្នករឿងមួយ៖ ឥឡូវនេះយើងរួបរួមគ្នាជុំវិញបេសកកម្មមួយ។ នោះគឺធ្វើឱ្យគណបក្សសាធារណរដ្ឋកាន់កាប់កៅអីនោះនៅខែវិច្ឆិកា កម្ចាត់ Jon Ossoff ហើយប្រគល់កៅអីនោះឱ្យប្រជាជនរដ្ឋ Georgia វិញ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But the people of Georgia also rejected Trump's -- Trump- backed Lieutenant Governor Burt Jones, in the Republican runoff for governor, favoring billionaire Rick Jackson. RICK JACKSON (R),",
+      "cn": "ប៉ុន្តែប្រជាជនរដ្ឋ Georgia ក៏បានបដិសេធអភិបាលរង Burt Jones ដែល Trump គាំទ្រ ហើយនៅក្នុងការបោះឆ្នោតជ្រើសរើសអភិបាលរបស់គណបក្សសាធារណរដ្ឋ ពួកគេពេញចិត្តមហាសេដ្ឋី Rick Jackson។"
+    },
+    {
+      "speaker": "Georgia Gubernatorial Candidate",
+      "text": "I'm the only candidate who doesn't owe a thing to the political establishment. I don't care what special interests want, how much they beg, how much they give me. I can't be bought. And I won't back down.",
+      "cn": "ខ្ញុំជាបេក្ខជនតែមួយគត់ដែលមិនជំពាក់អ្វីដល់ប្រព័ន្ធនយោបាយ។ ខ្ញុំមិនខ្វល់ពីអ្វីដែលផលប្រយោជន៍ពិសេសចង់បានទេ មិនថាពួកគេអង្វរយ៉ាងណា ឬផ្តល់លុយឱ្យខ្ញុំប៉ុន្មានទេ។ ខ្ញុំមិនអាចទិញបានទេ។ ហើយខ្ញុំក៏មិនដកថយដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, Jackson will face former Atlanta Mayor Keisha Lance Bottoms in the November governor's race. So, joining me now in the group chat, Eleanor Mueller, White House economic policy reporter for \"Semafor\"; Terry Schilling, president of the American Principles Project; and Antjuan Seawright, Democratic strategist. Eleanor, can I turn to you to start? Just because there's so many races, frankly. I mean, we mentioned Georgia, but there was also the Alabama Senate.",
+      "cn": "ដូច្នេះ Jackson នឹងប្រឈមមុខនឹងអតីតអភិបាលក្រុង Atlanta Keisha Lance Bottoms ក្នុងការប្រកួតអភិបាលខែវិច្ឆិកា។ ឥឡូវនេះ ចូលរួមជាមួយយើងក្នុងការជជែកជាក្រុមមាន Eleanor Miller អ្នកសារព័ត៌មានគោលនយោបាយសេដ្ឋកិច្ចសេតវិមានរបស់ Semafor, Terry Schilling ប្រធានគម្រោងគោលការណ៍អាមេរិក, និង Antwan Siraight អ្នកយុទ្ធសាស្ត្រគណបក្សប្រជាធិបតេយ្យ។ Eleanor តើខ្ញុំអាចចាប់ផ្តើមជាមួយអ្នកបានទេ? ពីព្រោះដោយស្មោះត្រង់ មានការបោះឆ្នោតច្រើនពេក។ ខ្ញុំចង់និយាយថា យើងបាននិយាយអំពីរដ្ឋ Georgia ប៉ុន្តែក៏មានការបោះឆ្នោតព្រឹទ្ធសភានៅរដ្ឋ Alabama ដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "ELEANOR MUELLER, WHITE HOUSE ECONOMIC POLICY REPORTER, \"SEMAFOR\": Yes.",
+      "cn": "Eleanor Miller អ្នកសារព័ត៌មានគោលនយោបាយសេដ្ឋកិច្ចសេតវិមានរបស់ Semafor៖ បាទ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Where you had a GOP Senate runoff. A Trump-backed candidate, Barry Moore, is the winner. Then in Oklahoma, there was a governor's race. The Trump-endorsed Mike Mazzei finished second, headed for a runoff. Are voters -- are we looking at just local politics versus Trump, or is there something going on with a Trump-backed endorsement?",
+      "cn": "នៅទីនោះមានការបោះឆ្នោតជ្រើសរើសព្រឹទ្ធសភារបស់គណបក្សសាធារណរដ្ឋ។ បេក្ខជនដែល Trump គាំទ្រ Barry Moore បានឈ្នះ។ បន្ទាប់មកនៅរដ្ឋ Oklahoma មានការប្រកួតអភិបាល។ បេក្ខជនដែល Trump គាំទ្រ Mike Mazzei បានទទួលចំណាត់ថ្នាក់ទីពីរ ហើយនឹងចូលទៅក្នុងការបោះឆ្នោតជ្រើសរើស។ អ្នកបោះឆ្នោត -- -- តើយើងកំពុងមើលនយោបាយមូលដ្ឋានធៀបនឹង Trump ឬតើការគាំទ្ររបស់ Trump មានបញ្ហាអ្វី?"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "It's a great question. I think in Georgia, you know, the results showed us that if there's one thing that can beat Trump in a Republican primary, it is money, right? The gubernatorial candidate, who is not Trump-endorsed, who won out, had spent $100 million of his own funds in this race. Clearly, that was effective. But I think it also echoes a dynamic we're seeing in places like the Texas Senate race, where, you know, the Trump-backed candidate may not be the most competitive against the Democratic candidate.",
+      "cn": "នេះជាសំណួរល្អ។ ខ្ញុំគិតថានៅរដ្ឋ Georgia លទ្ធផលប្រាប់យើងថា ប្រសិនបើមានអ្វីដែលអាចយកឈ្នះ Trump ក្នុងការបោះឆ្នោតបឋមរបស់គណបក្សសាធារណរដ្ឋ នោះគឺលុយ មែនទេ? បេក្ខជនអភិបាលដែលមិនបានទទួលការគាំទ្រពី Trump បានចំណាយប្រាក់ផ្ទាល់ខ្លួន 100 លានដុល្លារក្នុងការប្រកួតនេះ។ ជាក់ស្តែង វាមានប្រសិទ្ធភាព។ ប៉ុន្តែខ្ញុំគិតថាវាក៏បន្លឺឡើងនូវសក្ដានុពលដែលយើងបានឃើញនៅកន្លែងផ្សេងទៀតដូចជាការបោះឆ្នោតព្រឹទ្ធសភារដ្ឋ Texas ដែលបេក្ខជនដែល Trump គាំទ្រប្រហែលជាមិនមែនជាជម្រើសល្អបំផុតដើម្បីប្រកួតប្រជែងជាមួយបេក្ខជនគណបក្សប្រជាធិបតេយ្យនោះទេ។"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "And so, we will see, come November, whether or not a candidate that can invigorate the Republican base --",
+      "cn": "ដូច្នេះ យើងនឹងឃើញនៅខែវិច្ឆិកាថា តើបេក្ខជនដែលអាចជំរុញមូលដ្ឋានគណបក្សសាធារណរដ្ឋ -- --"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "-- with the Trump endorsement is better than a candidate that can appeal to independents and a more traditional type of conservative.",
+      "cn": "-- -- បន្ទាប់ពីទទួលបានការគាំទ្រពី Trump តើពូកែជាងបេក្ខជនដែលអាចទាក់ទាញអ្នកបោះឆ្នោតឯករាជ្យ និងអ្នកអភិរក្សនិយមប្រពៃណីដែរឬទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "When we're talking about Oklahoma and Alabama, that's one thing. Georgia to me is a special case because of its role in the 2020 election and the role Republicans there faced in rejecting the Trump administration at a time in its attempts to overturn the election. And between that and the Marjorie Taylor Greene of it all, it feels like the Republican politics there are a little more scrambled. So, is it the money? Is it also the local?",
+      "cn": "នៅពេលយើងនិយាយអំពីរដ្ឋ Oklahoma និង Alabama នោះជារឿងមួយ។ ប៉ុន្តែសម្រាប់ខ្ញុំ រដ្ឋ Georgia គឺជាករណីពិសេស ដោយសារតែតួនាទីរបស់វាក្នុងការបោះឆ្នោតឆ្នាំ 2020 និងការពិតដែលថាគណបក្សសាធារណរដ្ឋនៅទីនោះធ្លាប់ប្រឈមមុខនឹងការបដិសេធមិនគាំទ្រការប៉ុនប៉ងរបស់រដ្ឋបាល Trump ដើម្បីក្រឡាប់លទ្ធផលបោះឆ្នោត។ បន្ថែមពីលើកត្តា Marjorie Taylor Greene វាមានអារម្មណ៍ថានយោបាយគណបក្សសាធារណរដ្ឋនៅទីនោះកាន់តែវឹកវរ។ ដូច្នេះ តើវាជាបញ្ហាលុយ? ឬកត្តាមូលដ្ឋាន?"
+    },
+    {
+      "speaker": "Terry Schilling",
+      "text": "I think it's a little bit of everything. Obviously, I think we're seeing now that the -- what the value of a Trump endorsement is, and it's $100 million. But one thing I will point out is that Mike Collins is a solid MAGA candidate. He is \"America first\" all the way. And you could actually make the argument that, while in the gubernatorial race, the Trump- endorsed candidate didn't win, the Trump candidate won.",
+      "cn": "ខ្ញុំគិតថាមានកត្តាផ្សេងៗ។ ជាក់ស្តែង ឥឡូវនេះយើងឃើញតម្លៃនៃការគាំទ្ររបស់ Trump -- -- រហូតដល់ 100 លានដុល្លារ។ ប៉ុន្តែខ្ញុំចង់ចង្អុលបង្ហាញចំណុចមួយ គឺ Mike Collins គឺជាបេក្ខជន MAGA ដ៏រឹងមាំ។ គាត់ប្រកាន់យក \"America First\" ទាំងស្រុង។ តាមពិត អ្នកអាចប្រកែកបានថា ទោះបីជាបេក្ខជនដែល Trump គាំទ្រមិនបានឈ្នះក្នុងការប្រកួតអភិបាលក៏ដោយ ក៏បេក្ខជនរបស់ Trump បានឈ្នះដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, why wouldn't Trump back him?",
+      "cn": "ដូច្នេះ ហេតុអ្វីបានជា Trump មិនគាំទ្រគាត់?"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "I -- well, look, there are all different types of reasons to endorse people. But Rick Jackson, if you listen to his comments last night, he's the outsider. He's the guy running on pro-family, family-centered economics. He wants to have the state income tax, like, for everyone.",
+      "cn": "ខ្ញុំ -- -- អញ្ចឹង អ្នកដឹងទេ មូលហេតុនៃការគាំទ្រមានច្រើន។ ប៉ុន្តែ Rick Jackson ប្រសិនបើអ្នកបានស្តាប់ការអត្ថាធិប្បាយរបស់គាត់កាលពីយប់មិញ គាត់ជាមនុស្សក្រៅប្រព័ន្ធ។ គាត់តស៊ូមតិគោលនយោបាយសេដ្ឋកិច្ចគាំទ្រគ្រួសារ ផ្តោតលើគ្រួសារ។ គាត់ចង់ឱ្យមនុស្សគ្រប់គ្នាបង់ពន្ធលើប្រាក់ចំណូលរដ្ឋ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Here's the thing. He's not -- you're talking about Rick Jackson.",
+      "cn": "បញ្ហាគឺថាគាត់មិនមែន -- -- អ្នកកំពុងនិយាយអំពី Rick Jackson។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right. Here's what he's running on, though. I want to play an ad, because what you're saying is very interesting. But this is what he told the voters.",
+      "cn": "យល់ព្រម។ ប៉ុន្តែនេះជាយុទ្ធនាការរបស់គាត់។ ខ្ញុំចង់លេងការផ្សាយពាណិជ្ជកម្មមួយ ព្រោះអ្នកនិយាយអ្វីដែលគួរឱ្យចាប់អារម្មណ៍។ ប៉ុន្តែនេះជាអ្វីដែលគាត់ប្រាប់អ្នកបោះឆ្នោត។"
+    },
+    {
+      "speaker": "Jackson",
+      "text": "I don't care if you're Muslim or Mongolian, you don't have the right to force your culture on our country.",
+      "cn": "ខ្ញុំមិនខ្វល់ថាអ្នកជាមូស្លីម ឬម៉ុងហ្គោលីទេ អ្នកគ្មានសិទ្ធិដាក់វប្បធម៌របស់អ្នកលើប្រទេសយើងទេ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Conservative Rick Jackson.",
+      "cn": "លោក Rick Jackson អ្នកអភិរក្សនិយម។"
+    },
+    {
+      "speaker": "Jackson",
+      "text": "Too often, criminal illegals commit sick, violent crimes, victimize our children, and get away with murder. So, here's my guarantee to them: do that when I'm governor, and you'll end up deported or departed.",
+      "cn": "ជាញឹកញាប់ ឧក្រិដ្ឋជនអន្តោប្រវេសន៍ខុសច្បាប់ប្រព្រឹត្តបទឧក្រិដ្ឋហឹង្សាដ៏គួរឱ្យរន្ធត់ ធ្វើបាបកូនៗរបស់យើង ហើយរួចខ្លួន។ ដូច្នេះ ខ្ញុំសន្យាជាមួយពួកគេថា៖ បើខ្ញុំក្លាយជាអភិបាលរដ្ឋ អ្នកធ្វើបែបនេះទៀត នឹងត្រូវនិរទេស ឬក៏ស្លាប់។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Rick Jackson for Georgia.",
+      "cn": "លោក Rick Jackson តំណាងរដ្ឋ Georgia។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Set aside the death threat at the end of that? I don't know if there's a Mongolian human trafficking ring going on, but what I hear is culture war, culture war. It was not gas prices. It was not affordability. It wasn't any of those things. Antjuan, is the return of a culture war argument a weakness for Democrats?",
+      "cn": "មិនថាការគំរាមកំហែងស្លាប់នៅចុងបញ្ចប់? ខ្ញុំមិនដឹងថាមានក្រុមជួញដូរមនុស្សម៉ុងហ្គោលីទេ ប៉ុន្តែខ្ញុំឮអំពីសង្គ្រាមវប្បធម៌ សង្គ្រាមវប្បធម៌។ មិនមែនតម្លៃប្រេង មិនមែនសមត្ថភាពទិញ ឬបញ្ហាអ្វីផ្សេងទៀតទេ។ លោក Antwan ការវិលត្រឡប់នៃសង្គ្រាមវប្បធម៌ជាចំណុចខ្សោយសម្រាប់គណបក្សប្រជាធិបតេយ្យទេ?"
+    },
+    {
+      "speaker": "Antjuan Seawright",
+      "text": "I don't know. Look, I can summarize these primaries.",
+      "cn": "ខ្ញុំមិនដឹងទេ។ ស្តាប់ ខ្ញុំអាចសង្ខេបការបោះឆ្នោតបឋមទាំងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You never say, \"I don't know.\" Do you know that? Like, that is -- that's a telling thing.",
+      "cn": "អ្នកមិនដែលនិយាយថា \"ខ្ញុំមិនដឹង\" ទេ។ អ្នកដឹងទេ? នេះបង្ហាញច្រើនណាស់។"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Well, you know, it's hard to say, because -- and this is why it's hard to say. No. 1, I think the Republican primary contests have been about who can be most loyal or who can wrap their arms most around Donald Trump. I think on the Democratic side, it has been the generational divide and the ideological conversation. And I think both of those things will look different in a general election. What I will tell you is I think the ice is melting in the Donald Trump cup.",
+      "cn": "មែនហើយ អ្នកដឹងទេ វាពិបាកនិយាយណាស់ -- -- នេះជាមូលហេតុដែលពិបាកនិយាយ។ ទីមួយ ខ្ញុំគិតថាការបោះឆ្នោតបឋមរបស់គណបក្សសាធារណរដ្ឋប្រកួតប្រជែងគ្នាថាអ្នកណាស្មោះត្រង់បំផុត ឬអ្នកណាអាចទទួលយកលោក Donald Trump បានល្អបំផុត។ ខ្ញុំគិតថានៅខាងគណបក្សប្រជាធិបតេយ្យ គឺការពិភាក្សាអំពីគម្លាតជំនាន់ និងមនោគមវិជ្ជា។ ខ្ញុំគិតថារឿងទាំងពីរនេះនឹងខុសគ្នានៅក្នុងការបោះឆ្នោតសាកល។ ខ្ញុំនឹងប្រាប់អ្នកថា ខ្ញុំគិតថាទឹកកករបស់លោក Donald Trump កំពុងរលាយ។"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "I think he's had a chilling effect on the Republican primaries. But we saw in Iowa, we saw in Georgia, and we've seen with some --",
+      "cn": "ខ្ញុំគិតថាគាត់មានឥទ្ធិពលត្រជាក់លើការបោះឆ្នោតបឋមរបស់គណបក្សសាធារណរដ្ឋ។ ប៉ុន្តែយើងឃើញនៅ Iowa, Georgia ហើយក៏ឃើញខ្លះ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But is that, then, why, then, their candidates would turn to those kinds of messages that do resonate instead of focusing on, here's what Trump did. This is a referendum on him. Let's have a fight about the Iran War. What they're saying is, hey, remember how you hate those people and that people, and these people shouldn't come over the border? We should go back to that conversation.",
+      "cn": "ប៉ុន្តែតើនេះជាមូលហេតុដែលបេក្ខជនរបស់ពួកគេងាកទៅរកសារដែលពិតជាមានឥទ្ធិពល ជាជាងផ្តោតលើអ្វីដែល Trump ធ្វើ? នេះជាការបោះឆ្នោតប្រឆាំងនឹងគាត់។ សូមឱ្យយើងជជែកអំពីសង្គ្រាម Iran។ ពួកគេនិយាយថា ហេ ចាំថាអ្នកស្អប់មនុស្សទាំងនោះ មនុស្សទាំងនោះ មនុស្សទាំងនេះមិនគួរឆ្លងព្រំដែនទេ? យើងគួរតែត្រឡប់ទៅរឿងនោះវិញ។"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Well, I think that they cannot run away from the reality that Donald Trump's economy has been a failure for them. Voters are going to vote on affordability and fuel and economics you and I can feel. And I think they failed on that. If you look at Georgia, you look at Oklahoma, you look at what is likely going to happen in South Carolina. You look at what happened in Iowa just last week or the week before last.",
+      "cn": "មែនហើយ ខ្ញុំគិតថាពួកគេមិនអាចគេចផុតពីការពិតដែលថាសេដ្ឋកិច្ចរបស់ Trump បរាជ័យសម្រាប់ពួកគេទេ។ អ្នកបោះឆ្នោតនឹងបោះឆ្នោតដោយផ្អែកលើសមត្ថភាពទិញ ប្រេងឥន្ធនៈ និងសេដ្ឋកិច្ចដែលយើងទាំងអស់គ្នាអាចមានអារម្មណ៍។ ខ្ញុំគិតថាពួកគេបរាជ័យលើរឿងទាំងនេះ។ បើអ្នកមើល Georgia, Oklahoma មើលអ្វីដែលអាចកើតឡើងនៅ South Carolina និងអ្វីដែលបានកើតឡើងនៅ Iowa កាលពីសប្តាហ៍មុន ឬពីរសប្តាហ៍មុន។"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "The narrative has been the same: farmers, rural voters, those who voted for Trump are feeling the effect of a Donald Trump failing economy.",
+      "cn": "សារគឺដូចគ្នា៖ កសិករ អ្នកបោះឆ្នោតនៅជនបទ អ្នកដែលបោះឆ្នោតឱ្យ Trump កំពុងទទួលអារម្មណ៍ពីផលប៉ះពាល់នៃសេដ្ឋកិច្ចបរាជ័យរបស់លោក Donald Trump។"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "And here's where it gets challenging for -- for your party, Antjuan, is you guys are going to have a really hard time arguing about affordability when you can't get a single Democrat in the House or the Senate to vote against taxpayer-funded sex-change procedures, sex-rejection procedures. So, these --",
+      "cn": "ហើយនេះជាបញ្ហាប្រឈមសម្រាប់គណបក្សរបស់អ្នក លោក Antwan នៅពេលដែលអ្នកមិនអាចរកឃើញសមាជិកគណបក្សប្រជាធិបតេយ្យម្នាក់នៅក្នុងសភាតំណាងរាស្ត្រ ឬព្រឹទ្ធសភាដែលបោះឆ្នោតប្រឆាំងនឹងការវះកាត់ប្តូរភេទដែលផ្តល់មូលនិធិដោយអ្នកជាប់ពន្ធ ការវះកាត់ប្តូរភេទ អ្នកនឹងពិបាកក្នុងការជជែកអំពីបញ្ហាសមត្ថភាពទិញ។ ដូច្នេះ ទាំងនេះ -- --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "These procedures are hundreds of thousands of dollars, and you're going to spend taxpayers -- you're going to tax us over that?",
+      "cn": "ការវះកាត់ទាំងនេះចំណាយរាប់រយពាន់ដុល្លារ ហើយអ្នកប្រើប្រាស់លុយអ្នកជាប់ពន្ធ -- -- តើអ្នកនឹងយកពន្ធយើងសម្រាប់រឿងនេះទេ?"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "We're not -- We're not going to distract from the reality that everyday Americans --",
+      "cn": "យើងនឹងមិន -- -- យើងនឹងមិនងាកចេញពីការពិតដែលថាជនជាតិអាមេរិកធម្មតា -- --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "That is reality. Affordability.",
+      "cn": "នេះជាការពិត។ សមត្ថភាពទិញ។"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "You all come on programs like this, and you want to distract on these issues that Americans are not talking about.",
+      "cn": "អ្នកចូលរួមកម្មវិធីបែបនេះ ដើម្បីបង្វែរការយកចិត្តទុកដាក់ទៅរឿងដែលជនជាតិអាមេរិកមិនខ្វល់ទាល់តែសោះ។"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "You're talking tax dollars.",
+      "cn": "អ្នកកំពុងនិយាយអំពីលុយអ្នកជាប់ពន្ធ។"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "You cannot find one American in this country who's not screaming and yelling about the prices of gas, goods, and services. That's --",
+      "cn": "នៅក្នុងប្រទេសនេះ អ្នកមិនអាចរកឃើញជនជាតិអាមេរិកណាដែលមិនស្រែក និងត្អូញត្អែរអំពីតម្លៃសាំង ទំនិញ និងសេវាកម្មទេ។ នោះជា -- --"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "That's what the American people are focused on.",
+      "cn": "នេះជាអ្វីដែលប្រជាជនអាមេរិកផ្តោតអារម្មណ៍។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me let you guys --",
+      "cn": "សូមឱ្យខ្ញុំ -- --"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "And that's why you all have failed. That's why you all have failed --",
+      "cn": "នេះជាមូលហេតុដែលអ្នកបរាជ័យ។ នេះជាមូលហេតុដែលអ្នកបរាជ័យ -- --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "We haven't failed anything.",
+      "cn": "យើងមិនបរាជ័យអ្វីទេ។"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "-- at the ballot box since Donald Trump has taken off.",
+      "cn": "--  -- ចាប់តាំងពីលោក Donald Trump ឡើងកាន់តំណែងមក នៅមុខកន្លែងបោះឆ្នោត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me just pause for a second, because we weren't talking about trans health care. And I feel like that -- we're going on a journey here, Terry.",
+      "cn": "សូមឲ្យខ្ញុំផ្អាកបន្តិច ព្រោះយើងមិនបាននិយាយអំពីការព្យាបាលអ្នកប្តូរភេទនោះទេ។ ខ្ញុំគិតថាយើងកំពុងចាប់ផ្តើមដំណើរមួយ Terry។"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "It's just a distraction.",
+      "cn": "នេះគ្រាន់តែជាការរំខានមួយប៉ុណ្ណោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, let's -- let's journey back to the news today. After the break on CNN THIS MORNING, the votes are being counted in Washington, D.C.'s mayoral primary. Why Trump's influence is looming over that race, too. And he's been off-air for nearly a month. And we're now learning how much Colbert's final gag is costing CBS. In the meantime, good morning to New Yorkers. Live look at the city skyline.",
+      "cn": "ដូច្នេះ សូមត្រឡប់ទៅព័ត៌មានថ្ងៃនេះវិញ។ បន្ទាប់ពីការសម្រាកនៅក្នុងកម្មវិធី CNN This Morning ការរាប់សន្លឹកឆ្នោតសម្រាប់ការបោះឆ្នោតបឋមអភិបាលក្រុង Washington DC កំពុងដំណើរការ។ ហេតុអ្វីបានជាឥទ្ធិពលរបស់លោក Trump ក៏គ្របដណ្តប់លើការប្រកួតប្រជែងនេះដែរ? គាត់បានចាកចេញពីអេក្រង់ជិតមួយខែហើយ។ ឥឡូវនេះយើងដឹងថាតើវគ្គកំប្លែងចុងក្រោយរបស់ Colbert បានធ្វើឲ្យ CBS ខាតប៉ុន្មាន។ ក្នុងពេលនេះ អរុណសួស្តីអ្នកក្រុងញូវយ៉ក។ នេះជាទិដ្ឋភាពផ្ទាល់នៃជើងមេឃទីក្រុង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Hey, it's now 24 minutes past the hour. This is your morning roundup. The officer involved in the fatal shooting of a 1-year-old boy outside a Mississippi Walmart is now on administrative leave. At least, that's according to reporting from our affiliate in Jackson, Mississippi. Protesters gathering outside the store were hit with tear gas last night. The shooting happened on Sunday.",
+      "cn": "ហេ ឥឡូវនេះម៉ោង 24 នាទីក្រោយម៉ោង។ នេះជាសេចក្តីសង្ខេបព័ត៌មានពេលព្រឹករបស់អ្នក។ មន្ត្រីប៉ូលីសដែលពាក់ព័ន្ធនឹងការសម្លាប់ក្មេងប្រុសអាយុមួយឆ្នាំនៅខាងក្រៅហាង Walmart ក្នុងរដ្ឋ Mississippi ត្រូវបានផ្អាកពីការងារជាបណ្តោះអាសន្ន។ យ៉ាងហោចណាស់ នេះបើយោងតាមសាខារបស់យើងនៅ Jackson រដ្ឋ Mississippi។ កាលពីយប់មិញ ក្រុមអ្នកតវ៉ាដែលប្រមូលផ្តុំគ្នានៅខាងក្រៅហាងត្រូវបានបាញ់ឧស្ម័នបង្ហូរទឹកភ្នែក។ ការបាញ់ប្រហារបានកើតឡើងកាលពីថ្ងៃអាទិត្យ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Officials say the officer was responding to a shoplifting call when two adults ran off with the child into a vehicle, and police claim they then drove towards officers. And that's when an officer opened fire. Now, the people in the car were driven to the hospital, where the baby, Kohen Wiley, was pronounced dead. Officials say they have not publicly identified the officer involved just yet.",
+      "cn": "មន្ត្រីបាននិយាយថា នៅពេលនោះមន្ត្រីប៉ូលីសកំពុងឆ្លើយតបនឹងការហៅទូរស័ព្ទអំពីការលួចទំនិញក្នុងហាង មនុស្សពេញវ័យពីរនាក់បាននាំក្មេងម្នាក់រត់ចូលឡាន ហើយប៉ូលីសអះអាងថាពួកគេបានបើកឡានសំដៅទៅរកមន្ត្រីនោះ។ ពេលនោះហើយដែលមន្ត្រីម្នាក់បានបាញ់។ ឥឡូវនេះ អ្នកនៅក្នុងឡានត្រូវបានបញ្ជូនទៅមន្ទីរពេទ្យ ហើយទារក Koehn Wiley ត្រូវបានប្រកាសថាស្លាប់។ មន្ត្រីបាននិយាយថា ពួកគេមិនទាន់បានបង្ហើបអត្តសញ្ញាណមន្ត្រីដែលពាក់ព័ន្ធនៅឡើយទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And Democratic state lawmaker Aisha Wahab will advance to a special general election in August in California to fill the House seat vacated by Eric Swalwell. Now, she defeated Melissa Hernandez by more than a 2-to-1 margin. And in Washington, D.C., council member and Democratic socialist Janeese Lewis George leads former council member Kenyan McDuffie by 16 points, with 64 percent of the vote counted. And a dramatic rescue caught on camera after a plane crashes into a moving car on a highway in Texas.",
+      "cn": "សមាជិកសភារដ្ឋប្រជាធិបតេយ្យ Aisha Wahab នឹងចូលរួមក្នុងការបោះឆ្នោតពិសេសទូទាំងរដ្ឋ California ក្នុងខែសីហា ដើម្បីបំពេញតំណែងសមាជិកសភាដែលទំនេរដោយសារលោក Eric Swalwell។ នាងបានយកឈ្នះ Melissa Hernandez ក្នុងសមាមាត្រជាង 2 ទៅ 1។ នៅ Washington DC សមាជិកក្រុមប្រឹក្សាក្រុង និងជាអ្នកសង្គមនិយមប្រជាធិបតេយ្យ Janeese Lewis George កំពុងនាំមុខអតីតសមាជិកក្រុមប្រឹក្សា Kenyan McDuffie ដោយ 16 ភាគរយ ខណៈដែល 64% នៃសន្លឹកឆ្នោតត្រូវបានរាប់។ ហើយមានការជួយសង្គ្រោះដ៏គួរឲ្យចាប់អារម្មណ៍មួយដែលត្រូវបានថតដោយកាមេរ៉ា៖ យន្តហោះមួយបានបុករថយន្តដែលកំពុងបើកបរនៅលើផ្លូវហាយវេក្នុងរដ្ឋ Texas។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "At least one person has been killed. Witnesses were seen trying to break a window to get passengers out of the burning aircraft, and police say they received an emergency call from a flight tower last night after the small jet reported mechanical issues. A flight-tracking website shows the plane's signal cut out about two miles from Laredo Airport. And the GOAT makes history again on the world stage. Argentina's Lionel Messi scoring his first World Cup hat trick in the team's tournament opener last night.",
+      "cn": "យ៉ាងហោចណាស់មនុស្សម្នាក់បានស្លាប់។ អ្នកឃើញហេតុការណ៍បានព្យាយាមបំបែកបង្អួចដើម្បីឲ្យអ្នកដំណើរចេញពីយន្តហោះដែលកំពុងឆេះ ប៉ូលីសបាននិយាយថាពួកគេបានទទួលទូរស័ព្ទបន្ទាន់ពីប៉មត្រួតពិនិត្យយន្តហោះកាលពីយប់មិញ បន្ទាប់ពីយន្តហោះយន្តហោះតូចនេះបានរាយការណ៍ពីបញ្ហាមេកានិច។ គេហទំព័រតាមដានជើងហោះហើរមួយបានបង្ហាញថាសញ្ញាយន្តហោះបានបាត់នៅចម្ងាយប្រហែលពីរម៉ាយពីអាកាសយានដ្ឋាន Laredo។ GOAT បានបង្កើតប្រវត្តិសាស្ត្រម្តងទៀតនៅលើឆាកពិភពលោក។ Lionel Messi របស់អាហ្សង់ទីនបានស៊ុតបញ្ចូលទី hat-trick ដំបូងរបស់គាត់ក្នុង World Cup នៅក្នុងការប្រកួតដំបូងរបស់ក្រុមកាលពីយប់មិញ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He led the defending World Cup champs to a three-zero victory over Algeria. This was in Kansas City. Now, with those goals last night, Messi is now tied for the all-time World Cup scoring record with 16 total goals.",
+      "cn": "គាត់បានដឹកនាំម្ចាស់ជើងឯក World Cup ការពារតំណែងឲ្យឈ្នះអាល់ហ្សេរី 3-0។ នេះគឺនៅ Kansas City។ ជាមួយនឹងគ្រាប់បាល់កាលពីយប់មិញ ឥឡូវនេះ Messi មាន 16 គ្រាប់សរុប ស្មើនឹងកំណត់ត្រាគ្រាប់បាល់ច្រើនជាងគេក្នុងប្រវត្តិសាស្ត្រ World Cup។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Looking for Julian Alvarez. Clearance only as far as -- STEPHEN COLBERT, FORMER HOST, CBS'S \"THE LATE SHOW WITH STEPHEN COLBERT\": The owner of the music of \"A Charlie Brown Christmas\" and other Peanuts television specials has filed four lawsuits yesterday against those illegally using the famous song \"Linus and Lucy.\"",
+      "cn": "កំពុងស្វែងរក Julián Álvarez។ ការបោសសម្អាតបានទៅដល់តែ --  -- Stephen Colbert អតីតពិធីករកម្មវិធី The Late Show with Stephen Colbert របស់ CBS៖ ម្ចាស់កម្មសិទ្ធិតន្ត្រីនៃ A Charlie Brown Christmas និងរឿងពិសេសផ្សេងទៀតរបស់ Peanuts បានដាក់ពាក្យបណ្តឹងចំនួនបួនកាលពីម្សិលមិញ ទាក់ទងនឹងការប្រើប្រាស់ខុសច្បាប់នូវបទចម្រៀងដ៏ល្បី Linus and Lucy។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Looks like Colbert got the last word the last night on his show. His final dig to CBS was having his band play that song, and he joked, of course, that he hoped it wouldn't cost the company any money. And of course it did. CBS, now reaching a licensing agreement with the production company behind the song for an undisclosed amount. And the company is saying that money will be donated to the World Central Kitchen. It's an organization Colbert has donated millions to. And straight ahead on CNN THIS MORNING, as U.S.",
+      "cn": "វាហាក់ដូចជា Colbert បាននិយាយពាក្យចុងក្រោយរបស់គាត់នៅក្នុងកម្មវិធីកាលពីយប់មិញ។ ការចំអកចុងក្រោយរបស់គាត់ចំពោះ CBS គឺឲ្យក្រុមតន្ត្រីរបស់គាត់លេងបទចម្រៀងនោះ ហើយជាការពិតណាស់ គាត់និយាយលេងថាសង្ឃឹមថាវាមិនធ្វើឲ្យក្រុមហ៊ុនខាតលុយទេ។ ជាការពិតណាស់ វាបានខាត។ ឥឡូវនេះ CBS បានឈានដល់កិច្ចព្រមព្រៀងអាជ្ញាប័ណ្ណជាមួយក្រុមហ៊ុនផលិតបទចម្រៀងនេះ ក្នុងចំនួនទឹកប្រាក់មិនបានបង្ហាញ។ ក្រុមហ៊ុនបាននិយាយថាលុយនេះនឹងត្រូវបរិច្ចាគទៅ World Central Kitchen។ Colbert បានបរិច្ចាគប្រាក់រាប់លានដុល្លារដល់អង្គការនេះ។ បន្ទាប់មកនៅក្នុងកម្មវិធី CNN This Morning នៅពេលដែលសហរដ្ឋអាមេរិក"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "and Iranian officials try to negotiate an end to this war, U.S. intelligence is warning that Iran still has options. And one of them could send oil prices soaring again. Plus, investigators say arrests were made after a foiled attack plot on the White House fight night. var CNN = CNN || {};",
+      "cn": "និងមន្ត្រីអ៊ីរ៉ង់កំពុងព្យាយាមចរចាបញ្ចប់សង្គ្រាមនេះ ចារកម្មសហរដ្ឋអាមេរិកបានព្រមានថា អ៊ីរ៉ង់នៅតែមានជម្រើសជាច្រើន។ មួយក្នុងចំណោមនោះអាចជំរុញតម្លៃប្រេងឡើងថ្លៃម្តងទៀត។ លើសពីនេះ អ្នកស៊ើបអង្កេតបាននិយាយថា មនុស្សជាច្រើនត្រូវបានចាប់ខ្លួន បន្ទាប់ពីការឃុបឃិតវាយប្រហារមួយត្រូវបានរារាំងនៅក្នុងរាត្រីប្រយុទ្ធនៅសេតវិមាន។"
+    }
+  ]
+}
