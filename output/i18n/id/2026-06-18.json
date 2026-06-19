@@ -1,0 +1,1771 @@
+{
+  "date": "2026-06-18",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-18/segment/01",
+  "summary": "CNN《今晨》节目讨论特朗普与伊朗签署的结束战争协议。共和党人批评该协议是\"美国投降\"和\"外交政策失误\"，认为伊朗更强而盟友更弱。协议允许伊朗保留60%浓缩铀并在当地降级至3.67%，而非像2015年协议那样运出。以色列要求零浓缩，但协议未实现。特朗普在Truth Social上反击批评者。节目还涉及纽约市长确认泰勒和特拉维斯婚礼日期、华盛顿特区市长初选社会主义者领先等话题。",
+  "vocabulary": [
+    {
+      "word": "blunder",
+      "phonetic": "/ˈblʌndər/",
+      "pos": "n.",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "blunder (kebijakan luar negeri)",
+      "en": "a stupid or careless mistake",
+      "excerpt": "This will go down as a tremendous foreign policy blunder.",
+      "example_cn": "Ini akan dianggap sebagai blunder kebijakan luar negeri yang besar."
+    },
+    {
+      "word": "surrender",
+      "phonetic": "/səˈrendər/",
+      "pos": "n.",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "penyerahan diri, menyerah",
+      "en": "the act of giving up or yielding to another",
+      "excerpt": "some calling it an American surrender",
+      "example_cn": "Beberapa orang menyebutnya sebagai penyerahan diri Amerika."
+    },
+    {
+      "word": "down-blend",
+      "phonetic": "/daʊn blend/",
+      "pos": "v.",
+      "usage": "Istilah teknis",
+      "difficulty": "Tingkat tinggi",
+      "domain": "Teknologi dan Kesehatan",
+      "level": "Istilah teknis · Tingkat tinggi",
+      "cn": "downblending (pengurangan tingkat pengayaan bahan nuklir)",
+      "en": "to reduce the enrichment level of uranium by mixing with lower-enriched material",
+      "excerpt": "will be down-blended locally",
+      "example_cn": "Akan dilakukan downblending di tempat."
+    },
+    {
+      "word": "stockpile",
+      "phonetic": "/ˈstɑːkpaɪl/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "（武器、核材料等）储备，库存",
+      "en": "a large store of goods or materials kept for future use",
+      "excerpt": "the stockpile, which at this point is at 60 percent",
+      "example_cn": "目前浓缩度达60%的库存。"
+    },
+    {
+      "word": "enriched uranium",
+      "phonetic": "/ɪnˈrɪtʃt jʊˈreɪniəm/",
+      "pos": "n.",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "科技医疗",
+      "level": "专业术语 · 高阶",
+      "cn": "浓缩铀",
+      "en": "uranium with a higher concentration of the isotope U-235, used for nuclear power or weapons",
+      "excerpt": "Iran had about, it says, 20 percent enriched.",
+      "example_cn": "伊朗拥有约20%的浓缩铀。"
+    },
+    {
+      "word": "proliferation",
+      "phonetic": "/prəˌlɪfəˈreɪʃn/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "（核武器）扩散",
+      "en": "the rapid increase or spread of something, especially nuclear weapons",
+      "excerpt": "mitigate the concerns for proliferation",
+      "example_cn": "缓解对核扩散的担忧。"
+    },
+    {
+      "word": "NPT",
+      "phonetic": "/en piː tiː/",
+      "pos": "abbr.",
+      "usage": "专名背景",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "专名背景 · 高阶",
+      "cn": "《不扩散核武器条约》（Nuclear Non-Proliferation Treaty）",
+      "en": "Treaty on the Non-Proliferation of Nuclear Weapons",
+      "excerpt": "the legal interpretation of the NPT",
+      "example_cn": "对《不扩散核武器条约》的法律解释。"
+    },
+    {
+      "word": "JCPOA",
+      "phonetic": "/dʒeɪ siː piː oʊ eɪ/",
+      "pos": "abbr.",
+      "usage": "专名背景",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "专名背景 · 高阶",
+      "cn": "《联合全面行动计划》（Joint Comprehensive Plan of Action），即2015年伊朗核协议",
+      "en": "Joint Comprehensive Plan of Action",
+      "excerpt": "what the JCPOA stipulated was that Iran would ship out 98 percent of its enriched uranium",
+      "example_cn": "JCPOA规定伊朗将运出98%的浓缩铀。"
+    },
+    {
+      "word": "MOU",
+      "phonetic": "/em oʊ juː/",
+      "pos": "abbr.",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "专业术语 · 高阶",
+      "cn": "谅解备忘录（Memorandum of Understanding）",
+      "en": "a document describing a formal agreement between parties",
+      "excerpt": "this particular framework, this particular MOU",
+      "example_cn": "这一特定框架，这一谅解备忘录。"
+    },
+    {
+      "word": "degrade",
+      "phonetic": "/dɪˈɡreɪd/",
+      "pos": "v.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "削弱，降低（军事能力）",
+      "en": "to reduce the effectiveness or strength of something",
+      "excerpt": "The military in Iran has been degraded",
+      "example_cn": "伊朗的军事力量已被削弱。"
+    },
+    {
+      "word": "ballistic missile",
+      "phonetic": "/bəˈlɪstɪk ˈmɪsaɪl/",
+      "pos": "n.",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "军事安全",
+      "level": "专业术语 · 高阶",
+      "cn": "弹道导弹",
+      "en": "a missile that follows a ballistic trajectory",
+      "excerpt": "The ballistic missile stockpile has been degraded",
+      "example_cn": "弹道导弹库存已被削弱。"
+    },
+    {
+      "word": "squawk",
+      "phonetic": "/skwɔːk/",
+      "pos": "v.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "社会民生",
+      "level": "日常表达 · 基础",
+      "cn": "大声抱怨，抗议",
+      "en": "to complain or protest loudly",
+      "excerpt": "why would all these conservative voices be squawking about this?",
+      "example_cn": "为什么所有这些保守派声音都在大声抱怨？"
+    },
+    {
+      "word": "strike at the heart of",
+      "phonetic": "/straɪk æt ðə hɑːrt ʌv/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "触及核心，直击要害",
+      "en": "to affect the most important part of something",
+      "excerpt": "this strikes at the very heart of the issue for them",
+      "example_cn": "这触及了他们问题的核心。"
+    },
+    {
+      "word": "come to a head",
+      "phonetic": "/kʌm tuː ə hed/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "达到紧要关头，到了必须解决的地步",
+      "en": "to reach a critical point where a decision or action is needed",
+      "excerpt": "This all kind of comes to a head now",
+      "example_cn": "这一切现在到了紧要关头。"
+    },
+    {
+      "word": "outlast",
+      "phonetic": "/aʊtˈlæst/",
+      "pos": "v.",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "日常表达 · 进阶",
+      "cn": "比……持久，比……活得长",
+      "en": "to last longer than someone or something",
+      "excerpt": "know that they will outlast President Trump",
+      "example_cn": "知道他们会比特朗普总统更持久。"
+    },
+    {
+      "word": "Truth Social",
+      "phonetic": "/truːθ ˈsoʊʃl/",
+      "pos": "n.",
+      "usage": "专名背景",
+      "difficulty": "基础",
+      "domain": "社会民生",
+      "level": "专名背景 · 基础",
+      "cn": "特朗普创立的社交媒体平台",
+      "en": "a social media platform founded by Donald Trump",
+      "excerpt": "your favorite person just posted to Truth Social",
+      "example_cn": "你最喜欢的人刚刚在Truth Social上发帖。"
+    },
+    {
+      "word": "tumble",
+      "phonetic": "/ˈtʌmbl/",
+      "pos": "v.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "经济金融",
+      "level": "新闻常用 · 进阶",
+      "cn": "（价格）暴跌，骤降",
+      "en": "to fall rapidly in value or amount",
+      "excerpt": "Oil prices are 'tumbling' down",
+      "example_cn": "油价正在暴跌。"
+    },
+    {
+      "word": "framework",
+      "phonetic": "/ˈfreɪmwɜːrk/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "框架，协议框架",
+      "en": "a basic structure underlying a system or concept",
+      "excerpt": "this is just a framework. This isn't the total deal.",
+      "example_cn": "这只是一个框架，不是完整的协议。"
+    },
+    {
+      "word": "vibe killer",
+      "phonetic": "/vaɪb ˈkɪlər/",
+      "pos": "n.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "社会民生",
+      "level": "日常表达 · 基础",
+      "cn": "扫兴的人或事，破坏气氛者",
+      "en": "something that spoils the mood or atmosphere",
+      "excerpt": "World Cup fans are booing water breaks as a vibe killer",
+      "example_cn": "世界杯球迷嘘补水暂停，认为它破坏气氛。"
+    },
+    {
+      "word": "all wet",
+      "phonetic": "/ɔːl wet/",
+      "pos": "phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "完全错误，大错特错",
+      "en": "completely wrong",
+      "excerpt": "So, is FIFA all wet?",
+      "example_cn": "那么，国际足联完全错了吗？"
+    },
+    {
+      "word": "sign on the dotted line",
+      "phonetic": "/saɪn ɒn ðə ˈdɑːtɪd laɪn/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "在虚线上签字，正式签署协议",
+      "en": "to formally agree to something by signing a contract",
+      "excerpt": "So, signed on the dotted line.",
+      "example_cn": "所以，正式签署了协议。"
+    },
+    {
+      "word": "go down as",
+      "phonetic": "/ɡoʊ daʊn æz/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "被记录为，被视为",
+      "en": "to be remembered or recorded as something",
+      "excerpt": "This will go down as a tremendous foreign policy blunder.",
+      "example_cn": "这将被视为一次巨大的外交政策失误。"
+    },
+    {
+      "word": "choke off",
+      "phonetic": "/tʃoʊk ɔːf/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "Lanjutan",
+      "domain": "Politik & Diplomasi",
+      "level": "固定搭配 · Lanjutan",
+      "cn": "mencekik, memblokir (jalur)",
+      "en": "to block or restrict something, especially a route",
+      "excerpt": "if they're willing to grab that Strait of Hormuz and choke it off",
+      "example_cn": "Jika mereka mau mengambil Selat Hormuz dan memblokirnya."
+    },
+    {
+      "word": "dance to their tune",
+      "phonetic": "/dæns tuː ðeər tuːn/",
+      "pos": "phrase",
+      "usage": "Kolokasi tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Kolokasi tetap · Lanjutan",
+      "cn": "menuruti perintah seseorang, bertindak sesuai kehendak seseorang",
+      "en": "to do what someone wants you to do",
+      "excerpt": "they can get the Western world to dance to their tune",
+      "example_cn": "Mereka bisa membuat dunia Barat menuruti perintah mereka."
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Now that we've all seen the agreement President Trump signed with Iran, you have to ask, was it worth going to war over?",
+      "cn": "Karena kita semua telah melihat kesepakatan yang ditandatangani Presiden Trump dengan Iran, Anda harus bertanya, apakah itu layak untuk diperangi?",
+      "structure": "Klausa utama adalah 'you have to ask', sebelumnya adalah klausa keterangan sebab yang diawali 'now that', dan setelahnya adalah kalimat tanya langsung sebagai objek.",
+      "analysis": "'now that' mengawali klausa keterangan sebab, berarti 'karena'; 'was it worth going to war over' adalah klausa objek tanpa 'that', dengan 'over' di akhir kalimat."
+    },
+    {
+      "en": "This will go down as a tremendous foreign policy blunder.",
+      "cn": "Ini akan dianggap sebagai kesalahan besar dalam kebijakan luar negeri.",
+      "structure": "Struktur subjek-predikat-objek sederhana, 'go down as' adalah frasa tetap sebagai predikat.",
+      "analysis": "'go down as' berarti 'dicatat sebagai/dianggap sebagai', sering digunakan dalam komentar berita; 'blunder' berarti 'kesalahan bodoh'."
+    },
+    {
+      "en": "Conservative voices online, not pleased about what's in the text of this agreement, some calling it an American surrender, saying it's even worse than the Obama deal of 2015.",
+      "cn": "Suara-suara konservatif di internet, tidak puas dengan isi teks kesepakatan, beberapa menyebutnya sebagai penyerahan Amerika, mengatakan bahwa itu bahkan lebih buruk daripada kesepakatan Obama tahun 2015.",
+      "structure": "Klausa utama adalah 'Conservative voices online', diikuti dua frasa partisip sekarang yang sejajar 'not pleased about...' dan 'some calling...' sebagai keterangan penyerta, 'saying...' adalah penjelasan lebih lanjut dalam frasa partisip kedua.",
+      "analysis": "'not pleased about' adalah frasa adjektiva sebagai keterangan; 'calling it...' dan 'saying...' adalah frasa partisip sekarang, menunjukkan tindakan penyerta; 'deal' di sini berarti 'kesepakatan'."
+    },
+    {
+      "en": "Senator Ted Cruz told 'The Daily Wire' he felt like Trump was getting very poor advice and called it ill-advised.",
+      "cn": "Senator Ted Cruz mengatakan kepada The Daily Telegraph bahwa dia merasa Trump mendapat nasihat yang sangat buruk, dan menyebutnya tidak bijaksana.",
+      "structure": "Klausa utama adalah 'Senator Ted Cruz told...', diikuti klausa objek tanpa 'that' 'he felt like...', yang berisi predikat sejajar 'felt like' dan 'called'.",
+      "analysis": "'felt like' diikuti klausa, berarti 'merasa seolah-olah'; 'ill-advised' adalah adjektiva, berarti 'tidak bijaksana'."
+    },
+    {
+      "en": "Iran ends up stronger, our allies in the region are weaker, and Iran has learned that, if they're willing to grab that Strait of Hormuz and choke it off, they can get the Western world to dance to their tune.",
+      "cn": "Iran akhirnya menjadi lebih kuat, sekutu kita di kawasan menjadi lebih lemah, dan Iran telah belajar bahwa jika mereka mau mengambil Selat Hormuz dan memblokirnya, mereka bisa membuat dunia Barat menuruti perintah mereka.",
+      "structure": "Tiga klausa sejajar: pertama subjek-kopula-pelengkap, kedua subjek-kopula-pelengkap, ketiga subjek-predikat-objek, klausa objek berisi klausa syarat 'if'.",
+      "analysis": "'ends up' berarti 'akhirnya menjadi'; 'choke off' berarti 'mencekik/memblokir'; 'dance to their tune' adalah idiom, berarti 'menuruti kemauan mereka'."
+    },
+    {
+      "en": "In the Obama deal, basically, the plan was you ship out all your enriched uranium, right?",
+      "cn": "Dalam kesepakatan Obama, pada dasarnya, rencananya adalah Anda mengirim semua uranium yang diperkaya ke luar, kan?",
+      "structure": "Kalimat utama adalah 'the plan was', diikuti oleh klausa predikat 'you ship out...', 'basically' adalah kata sisipan.",
+      "analysis": "ship out berarti 'mengirim ke luar'; enriched uranium berarti 'uranium yang diperkaya'; right adalah pertanyaan konfirmasi dalam bahasa lisan."
+    },
+    {
+      "en": "But in this deal, it's a little different: basically, the stockpile, which at this point is at 60 percent, is kept inside Iran, and then will be down-blended locally.",
+      "cn": "Tetapi dalam kesepakatan ini, situasinya sedikit berbeda: pada dasarnya, stok -- yang saat ini mencapai 60% -- disimpan di dalam Iran, dan kemudian akan dicampur turun secara lokal.",
+      "structure": "Kalimat utama adalah 'it's a little different', setelah titik dua adalah penjelasan, subjek 'the stockpile' diikuti oleh klausa relatif non-restriktif 'which...', predikatnya adalah 'is kept' dan 'will be down-blended' yang paralel.",
+      "analysis": "stockpile berarti 'stok'; down-blended adalah istilah teknis, berarti 'dicampur turun' (menurunkan tingkat pengayaan); locally berarti 'secara lokal'."
+    },
+    {
+      "en": "What the JCPOA stipulated was that Iran would ship out 98 percent of its enriched uranium to Russia.",
+      "cn": "Apa yang ditetapkan oleh JCPOA adalah bahwa Iran akan mengirim 98% uranium yang diperkaya ke Rusia.",
+      "structure": "Klausa subjek 'What the JCPOA stipulated' sebagai subjek, kata kerja penghubung was, diikuti oleh klausa predikat 'that Iran would ship out...'.",
+      "analysis": "JCPOA adalah singkatan dari Joint Comprehensive Plan of Action, yaitu 'Rencana Aksi Komprehensif Bersama'; stipulated berarti 'ditetapkan'; ship out berarti 'mengirim ke luar'."
+    },
+    {
+      "en": "Iran's interpretation, or the legal interpretation of the NPT, the article four of the NPT, their interpretation is that that right to use peaceful energy includes enrichment.",
+      "cn": "Interpretasi Iran, atau interpretasi hukum terhadap Perjanjian Non-Proliferasi Nuklir, pasal empat, interpretasi mereka adalah bahwa hak untuk menggunakan energi damai termasuk pengayaan.",
+      "structure": "Kalimat utama adalah 'their interpretation is that...', sebelumnya adalah aposisi 'Iran's interpretation, or the legal interpretation...', dalam klausa predikat 'that right...' sebagai subjek.",
+      "analysis": "NPT adalah singkatan dari Nuclear Non-Proliferation Treaty; article four berarti 'pasal empat'; enrichment berarti 'pengayaan uranium'."
+    },
+    {
+      "en": "What President Obama did was that he said the enrichment in Iran is a fact on the ground.",
+      "cn": "Apa yang dilakukan Presiden Obama adalah, dia mengatakan bahwa pengayaan Iran adalah fakta di lapangan.",
+      "structure": "Klausa subjek 'What President Obama did' sebagai subjek, kata kerja penghubung was, diikuti oleh klausa predikat 'that he said...', di mana 'said' diikuti oleh klausa objek yang menghilangkan that.",
+      "analysis": "a fact on the ground adalah ungkapan tetap, berarti 'fakta di lapangan/kenyataan yang ada'."
+    },
+    {
+      "en": "So, the reason why I wanted to set the table with all that is, like, why would all these conservative voices be squawking about this?",
+      "cn": "Jadi, alasan mengapa saya menggunakan semua ini untuk mempersiapkan adalah, mengapa semua suara konservatif ini berteriak tentang ini?",
+      "structure": "Kalimat utama adalah 'the reason why...is', diikuti oleh klausa predikat 'why would...', 'like' adalah kata sisipan.",
+      "analysis": "set the table arti aslinya 'menata meja', di sini kiasan 'mempersiapkan'; squawking about adalah bahasa lisan, berarti 'berteriak/mengeluh keras'."
+    },
+    {
+      "en": "Why would the Lindsey Grahams of the world, who were all too happy to be a part of these strikes and have these demands on Iran, be so frustrated with what was signed?",
+      "cn": "Mengapa Lindsey Grahams di dunia ini, yang sangat bersedia berpartisipasi dalam serangan ini dan membuat tuntutan ini terhadap Iran, begitu frustrasi dengan apa yang ditandatangani?",
+      "structure": "Kalimat utama adalah 'Why would the Lindsey Grahams...be so frustrated...', di antaranya disisipkan klausa relatif non-restriktif 'who were all too happy...', preposisi 'with' diikuti oleh klausa objek 'what was signed'.",
+      "analysis": "the Lindsey Grahams of the world adalah penggunaan metonimi, merujuk pada orang-orang seperti Lindsey Graham; all too happy berarti 'sangat bersedia'; frustrated with berarti 'frustrasi dengan'."
+    },
+    {
+      "en": "This all kind of comes to a head now, because this deal and what's emerging, by all accounts, in the view of these Republicans, didn't accomplish that goal.",
+      "cn": "Semua ini sekarang mencapai puncaknya, karena menurut semua laporan, dalam pandangan para Republikan ini, kesepakatan ini dan apa yang muncul tidak mencapai tujuan itu.",
+      "structure": "Kalimat utama adalah 'This all kind of comes to a head now', diikuti oleh klausa sebab karena, subjek klausa adalah 'this deal and what's emerging', di antaranya disisipkan 'by all accounts' dan 'in the view of these Republicans'.",
+      "analysis": "comes to a head adalah idiom, berarti 'mencapai puncak/krisis'; by all accounts berarti 'menurut semua laporan'; in the view of berarti 'menurut pandangan'."
+    },
+    {
+      "en": "And so, for these Republicans who, you know, see this as a deeply held principle for them and know that they will outlast President Trump, they're willing to speak up about it now.",
+      "cn": "因此，对于这些共和党人来说，他们视此为根深蒂固的原则，并且知道他们会比特朗普总统更长久，他们现在愿意大声说出来。",
+      "structure": "主句为'they're willing to speak up about it now'，前面是介词短语'for these Republicans'，后接定语从句'who...see...and know...'，其中'know'后接宾语从句。",
+      "analysis": "deeply held principle 意为'根深蒂固的原则'；outlast 意为'比...活得长/比...持久'；speak up 意为'大声说出/直言不讳'。"
+    },
+    {
+      "en": "President Trump says, look, 'These fools who think I haven't been tough enough on Iran when the Stock Market Just Hit a RECORD HIGH, and Oil prices are 'tumbling' down, are either jealous, bad people or stupid.'",
+      "cn": "特朗普总统说，看，'这些傻瓜，他们认为我对伊朗不够强硬，而股市刚刚创下历史新高，油价正在暴跌，他们要么是嫉妒，要么是坏人，要么是愚蠢。'",
+      "structure": "主句为'President Trump says'，后接直接引语，引语中主句为'These fools...are either jealous, bad people or stupid'，中间插入定语从句'who think...'，定语从句中包含 when 时间状语从句。",
+      "analysis": "tough enough on 意为'对...足够强硬'；RECORD HIGH 全大写表示强调；tumbling down 意为'暴跌'；either...or... 连接并列表语。"
+    },
+    {
+      "en": "The military in Iran has been degraded, whether or not it's been blasted to the Stone Age.",
+      "cn": "伊朗的军事力量已被削弱，无论是否被炸回石器时代。",
+      "structure": "主句为'The military...has been degraded'，后接 whether or not 引导的让步状语从句。",
+      "analysis": "degraded 意为'削弱/降级'；blasted to the Stone Age 是夸张说法，意为'炸回石器时代'。"
+    },
+    {
+      "en": "We spent $1 billion a day fighting a war that no one wanted to go to.",
+      "cn": "我们每天花费10亿美元打一场没人想打的战争。",
+      "structure": "主句为'We spent $1 billion a day'，后接现在分词短语'fighting a war'作状语，其中包含定语从句'that no one wanted to go to'修饰'war'。",
+      "analysis": "spend...doing 结构；go to war 是固定短语，意为'参战'，定语从句中 to 置于句末。"
+    },
+    {
+      "en": "But a lot of people say, why should Iran have almost immediate access to investments in the world economy if it's still sitting on its enriched uranium and so much of this is not worked out yet?",
+      "cn": "但很多人说，如果伊朗仍然持有其浓缩铀，而且这么多问题尚未解决，为什么它应该几乎立即获得世界经济的投资？",
+      "structure": "主句为'a lot of people say'，后接直接引语疑问句，疑问句中包含 if 条件状语从句，从句中并列两个分句。",
+      "analysis": "have access to 意为'获得/使用'；sitting on 意为'持有/拥有'；work out 意为'解决/制定出'。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊新协议与2015年JCPOA对比",
+      "content": "2026年美伊协议允许伊朗保留60%浓缩铀并在当地降级至3.67%，而2015年JCPOA要求伊朗将98%浓缩铀运往俄罗斯。新协议被批评为\"美国投降\"，共和党人认为伊朗更强而盟友更弱。以色列要求零浓缩，但协议未实现。",
+      "keywords": "JCPOA · 浓缩铀 · 降级混合 · 零浓缩"
+    },
+    {
+      "title": "共和党内部对特朗普伊朗政策的批评",
+      "content": "共和党参议员Bill Cassidy称协议为\"外交政策失误\"，Nikki Haley称其为\"巨大错误\"，Ted Cruz批评特朗普接受糟糕建议。特朗普在Truth Social上反击，称批评者\"嫉妒、坏人或愚蠢\"。",
+      "keywords": "外交政策失误 · 美国投降 · Truth Social · 共和党"
+    },
+    {
+      "title": "伊朗核问题中的法律争议：NPT与浓缩权",
+      "content": "伊朗依据《不扩散核武器条约》（NPT）第四条主张和平利用核能包括浓缩权，美国否认。这一法律解释分歧持续20多年，导致协议难以达成零浓缩目标。",
+      "keywords": "NPT · 浓缩权 · 和平利用核能 · 法律解释"
+    },
+    {
+      "title": "Perjanjian: Dampak Ekonomi dan Keamanan",
+      "content": "Perjanjian tersebut membentuk dana investasi sebesar 300 miliar dolar untuk menstabilkan ekonomi Iran. Para kritikus berpendapat bahwa Iran tidak seharusnya menerima dana sambil tetap mempertahankan uranium yang diperkaya. Para pendukung berpendapat bahwa menstabilkan Iran sangat penting untuk keamanan regional.",
+      "keywords": "dana investasi · stabilitas ekonomi · keamanan regional · 300 miliar dolar"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "Dalam teks asli, 'This will go down as a tremendous foreign policy blunder.' Kata 'blunder' paling mendekati arti?",
+      "options": [
+        "A. Kemenangan",
+        "B. Kesalahan",
+        "C. Kompromi",
+        "D. Prestasi"
+      ],
+      "answer": 1,
+      "explanation": "blunder berarti kesalahan besar atau kekeliruan, sesuai dengan konteks kritik terhadap perjanjian."
+    },
+    {
+      "type": "vocab",
+      "question": "Dalam teks asli, 'will be down-blended locally', apa yang dimaksud dengan 'down-blend'?",
+      "options": [
+        "A. Mencampur untuk meningkatkan",
+        "B. Mengurangi tingkat pengayaan",
+        "C. Mengangkut ke luar negeri",
+        "D. Menghancurkan bahan nuklir"
+      ],
+      "answer": 1,
+      "explanation": "down-blend berarti mencampur uranium yang sangat diperkaya dengan uranium yang kurang diperkaya untuk mengurangi tingkat pengayaannya, mengurangi risiko senjata."
+    },
+    {
+      "type": "vocab",
+      "question": "Dalam teks asli, 'Iran ends up stronger. Our allies in the region are weaker', apa arti 'ends up'?",
+      "options": [
+        "A. Berakhir",
+        "B. Hasil akhir",
+        "C. Mulai",
+        "D. Menghentikan"
+      ],
+      "answer": 1,
+      "explanation": "ends up berarti akhirnya berada dalam suatu keadaan, di sini berarti Iran akhirnya menjadi lebih kuat."
+    },
+    {
+      "type": "comprehension",
+      "question": "Menurut teks asli, apa alasan utama Partai Republik mengkritik perjanjian baru?",
+      "options": [
+        "A. Perjanjian tidak mengakhiri perang",
+        "B. Perjanjian memungkinkan Iran mempertahankan uranium yang diperkaya dan sekutu menjadi lemah",
+        "C. Perjanjian menghabiskan terlalu banyak dana AS",
+        "D. Perjanjian tidak mendapat persetujuan Kongres"
+      ],
+      "answer": 1,
+      "explanation": "Dalam teks asli, Cassidy mengatakan 'Iran lebih kuat, sekutu lebih lemah', dan perjanjian mengizinkan Iran mempertahankan uranium yang diperkaya, itulah inti kritik."
+    },
+    {
+      "type": "comprehension",
+      "question": "Bagaimana tanggapan Trump di Truth Social terhadap kritik?",
+      "options": [
+        "A. Mengakui kesalahan dan meminta maaf",
+        "B. Menuduh pengkritik iri hati, orang jahat, atau bodoh",
+        "C. Mengumumkan keluar dari perjanjian",
+        "D. Menyerukan kerja sama bipartisan"
+      ],
+      "answer": 1,
+      "explanation": "Dalam teks asli, Trump menyebut pengkritik sebagai 'iri hati, orang jahat, atau bodoh', dan menekankan rekor tertinggi pasar saham serta penurunan harga minyak."
+    },
+    {
+      "type": "comprehension",
+      "question": "Manakah pernyataan berikut yang benar tentang perbedaan antara perjanjian baru dan JCPOA 2015?",
+      "options": [
+        "A. Perjanjian baru mewajibkan Iran mengirim semua uranium yang diperkaya",
+        "B. Perjanjian baru mengizinkan Iran mempertahankan uranium yang diperkaya dan menurunkan kadar di tempat",
+        "C. Perjanjian baru melarang semua aktivitas pengayaan Iran",
+        "D. Perjanjian baru sama persis dengan JCPOA"
+      ],
+      "answer": 1,
+      "explanation": "Teks asli menyatakan bahwa JCPOA mewajibkan pengiriman 98% uranium yang diperkaya, sedangkan perjanjian baru mengizinkan penyimpanan dan penurunan kadar di tempat menjadi 3,67%."
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "Now that we've all seen the agreement President Trump signed with Iran, you have to ask, was it worth going to war over? SEN. BILL CASSIDY (R-LA): This will go down as a tremendous foreign policy blunder.",
+      "cn": "既然我们都看到了特朗普总统与伊朗签署的协议，你不得不问，这值得为此开战吗？参议员比尔·卡西迪（路易斯安那州共和党人）：这将被视为一个巨大的外交政策失误。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And Vice President Vance better look out. The bus could be coming around the corner.",
+      "cn": "万斯副总统最好小心点。巴士可能正从拐角处驶来。"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "This way, if it works out, I'm going to take the credit. If it doesn't work out, I'm blaming J.D. You better be careful,",
+      "cn": "这样一来，如果成功了，我会居功。如果失败了，我就怪J.D.。你最好小心点。"
+    },
+    {
+      "speaker": "J.D. Cornish",
+      "text": "And the world champion New York Knicks get an invite to the White House. But will any of the players boycott? In the meantime, World Cup fans are booing water breaks as a vibe killer that makes the games too -- I don't know -- American. So, is FIFA all wet?",
+      "cn": "世界冠军纽约尼克斯队受邀前往白宫。但会有球员抵制吗？与此同时，世界杯球迷们对补水暂停发出嘘声，认为这破坏了比赛节奏，让比赛变得太 --  -- 怎么说呢 --  -- 美国化。那么，国际足联是不是全湿了？"
+    },
+    {
+      "speaker": "Trump",
+      "text": "This was not easy, I can tell you.",
+      "cn": "我可以告诉你，这并不容易。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, signed on the dotted line. The U.S. and Iran have both signed an agreement to end the war on all fronts, for better or worse, at least for the U.S. Good morning, everybody. I'm Audie Cornish. We're going to start with the details of that agreement, but also the Republican response. Conservative voices online, not pleased about what's in the text of this agreement, some calling it an American surrender, saying it's even worse than the Obama deal of 2015.",
+      "cn": "所以，在虚线上签了字。美国和伊朗都签署了一项协议，以结束所有战线上的战争，无论好坏，至少对美国来说是这样。大家早上好。我是奥蒂·科尼什。我们将从该协议的细节开始，但也会关注共和党的反应。网上的保守派声音对协议文本的内容并不满意，有些人称其为美国的投降，甚至比2015年的奥巴马协议还要糟糕。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, Nikki Haley called it a, quote, \"huge mistake to pay to rebuild the threat we just destroyed.\" Senator Ted Cruz told \"The Daily Wire\" he felt like Trump was getting very poor advice and called it ill-advised. In the meantime, Senator Bill Cassidy took it one step further.",
+      "cn": "妮基·黑利称其为\"花钱重建我们刚刚摧毁的威胁的巨大错误\"。参议员特德·克鲁兹告诉《每日电讯报》，他觉得特朗普得到了非常糟糕的建议，并称其不明智。与此同时，参议员比尔·卡西迪更进一步。"
+    },
+    {
+      "speaker": "Cassidy",
+      "text": "This will go down as a tremendous foreign policy blunder. Iran ends up stronger. Our allies in the region are weaker, and Iran has learned that, if they're willing to grab that Strait of Hormuz and choke it off, they can get the Western world to dance to their tune. I think it's a deep mistake.",
+      "cn": "这将被视为一个巨大的外交政策失误。伊朗最终变得更强大。我们在该地区的盟友更弱了，而伊朗已经学到，如果他们愿意抓住霍尔木兹海峡并扼住它，他们就能让西方世界跟着他们的节奏跳舞。我认为这是一个严重的错误。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Today in the group chat, Nicholas Wu, congressional reporter at \"Semafor\"; Sina Azodi, director of Middle East studies programs at George Washington University; Mike Dubke, former Trump White House communications director; and Meghan Hays, former Biden White House director of message planning. So, I want to start with you, Sina, because you've been watching this very closely. And one point interested me.",
+      "cn": "今天在群聊中，有《Semafor》的国会记者尼古拉斯·吴；乔治华盛顿大学中东研究项目主任西纳·阿佐迪；前特朗普白宫通讯主任迈克·杜布克；以及前拜登白宫信息规划主任梅根·海斯。所以，我想先问你，西纳，因为你一直在密切关注此事。有一点让我很感兴趣。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In the Obama deal, basically, the plan was you ship out all your enriched uranium, right? Iran had about, it says, 20 percent enriched. And they would send that somewhere. It ended up being Russia. But in this deal -- in this deal, it's a little different. Basically, the stockpile, which at this point is at 60 percent, is kept inside Iran, and then will be down-blended locally. But it means they keep it on their soil. Is this one of the aspects of the deal that has people really upset?",
+      "cn": "在奥巴马协议中，基本上计划是你把所有浓缩铀运出去，对吧？伊朗当时有大约20%的浓缩铀。他们会将其送到某个地方，最终是俄罗斯。但在这个协议中 --  -- 在这个协议中，情况有点不同。基本上，目前达到60%的库存留在伊朗境内，然后在当地进行降级混合。但这意味着他们将其保留在自己的土地上。这是协议中让人们非常不满的方面之一吗？"
+    },
+    {
+      "speaker": "Sina Azodi",
+      "text": "Well, what the JCPOA stipulated was that Iran would ship out 98 percent of its enriched uranium to Russia. Right.",
+      "cn": "《联合全面行动计划》规定，伊朗将把其98%的浓缩铀运往俄罗斯。没错。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It leaves the country.",
+      "cn": "这些浓缩铀将离开伊朗。"
+    },
+    {
+      "speaker": "Azodi",
+      "text": "Leaves the country. In this case, I think for whatever reason -- it's distrust, the possibility of the U.S. leaving the deal again -- Iranians have insisted that it has to stay on their soil. But to, let's say, mitigate the concerns for proliferation, they're going to down-blend it to 3.67 percent, which is low enriched uranium. And you use that for a nuclear power plant.",
+      "cn": "离开伊朗。但在目前情况下，我认为出于某种原因 --  -- 不信任、美国可能再次退出协议 --  -- 伊朗坚持这些浓缩铀必须留在其境内。但为了缓解对核扩散的担忧，他们将把浓缩铀的丰度降低到3.67%，即低浓缩铀，用于核电站。"
+    },
+    {
+      "speaker": "Azodi",
+      "text": "Doesn't have any weaponization concerns.",
+      "cn": "这不存在武器化的问题。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, but different from one leaves. One stays, basically.",
+      "cn": "是的，但这与离开伊朗不同。基本上，这些浓缩铀留在了伊朗。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And the administration is saying, look, this -- this is a good solution, because it's going to get us to zero. But it leads to my other point. It's not -- it's non-zero, not zero.",
+      "cn": "而美国政府表示，这是一个好的解决方案，因为它将使我们达到零。但这引出了我的另一个观点。这不是零，而是非零。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I know Israel said, look, there should be zero. No enrichment whatsoever. Nothing enriched anywhere. But that is not what this deal does.",
+      "cn": "我知道以色列说过，应该是零。不允许任何浓缩活动。任何地方都不能有浓缩铀。但这项协议并没有做到这一点。"
+    },
+    {
+      "speaker": "Azodi",
+      "text": "No. And the problem -- and we've been dealing with this issue of the principal of enrichment in Iran for more than 20 years now. Iran's interpretation, or the legal interpretation of the NPT, the article four of the NPT, their interpretation is that that right to use peaceful energy includes enrichment. The U.S. side says, no, absolutely not. The text of the NPT doesn't say enrichment. So, they've been fighting over this on this legal interpretation.",
+      "cn": "没错。问题在于 --  -- 我们处理伊朗浓缩铀原则问题已经超过20年了。伊朗对《不扩散核武器条约》第四条的解释是，和平利用核能的权利包括浓缩铀。而美方则坚决反对，因为条约文本并未提及浓缩铀。因此，双方一直就这一法律解释争论不休。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And that fight hasn't changed? Yes.",
+      "cn": "这场争论没有改变？是的。"
+    },
+    {
+      "speaker": "Azodi",
+      "text": "Hasn't changed -- changed. What President Obama did was that he said the enrichment in Iran is a fact on the ground. We can't change it. President Trump said, no, it's a bad deal. Withdrew. And we are back to 2018 now.",
+      "cn": "没有改变。奥巴马总统的做法是承认伊朗的浓缩铀是既成事实，我们无法改变。特朗普总统则认为这是一项糟糕的协议，并退出了。现在我们又回到了2018年的状态。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. So, the reason why I wanted to set the table with all that is, like, why would all these conservative voices be squawking about this? Right? Why would the Lindsey Grahams of the world, who were all too happy to be a part of these strikes and have these demands on Iran, be so frustrated with what was signed? Nicholas, what's your sense in Congress about, A, why they feel comfortable saying it out loud and why they're saying what they're saying? NICHOLAS WU, CONGRESSIONAL REPORTER, \"SEMAFOR\": Well, for",
+      "cn": "是的。所以，我想摆出所有这些事实的原因是，为什么这些保守派声音会对此大惊小怪？对吧？为什么像林赛·格雷厄姆这样的人，他们曾非常乐意参与这些打击行动并对伊朗提出这些要求，现在却对签署的协议如此不满？尼古拉斯，你在国会的感觉如何？第一，为什么他们觉得可以公开说出来；第二，他们为什么这么说？《Semafor》国会记者尼古拉斯·吴：嗯，对于"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Republicans on Capitol Hill that I've talked to, I mean, this strikes at the very heart of the issue for them; like, the issue of Iran's nuclear program, the reasons they went to war. This all kind of comes to a head now, because this deal and what's emerging, by all accounts, in the view of these Republicans, didn't accomplish that goal.",
+      "cn": "我交谈过的国会山共和党人来说，这触及了他们问题的核心；比如，伊朗核计划问题，他们发动战争的原因。现在这一切都到了紧要关头，因为根据所有说法，在这群共和党人看来，这项协议及其产生的结果并没有实现那个目标。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And so, for these Republicans who, you know, see this as a deeply held principle for them and know that they will outlast President Trump, they're willing to speak up about it now.",
+      "cn": "因此，对于这些共和党人来说，他们视此为一项根深蒂固的原则，并且知道他们会比特朗普总统更长久，所以他们现在愿意直言不讳。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. It's interesting. As we are speaking, Mike Dubke --",
+      "cn": "Ya. Ini menarik. Saat kita bicara, Mike Dubke -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- your favorite person just posted to Truth Social. President Trump says, look, \"These fools who think I haven't been tough enough on Iran when the Stock Market Just Hit a RECORD HIGH, and Oil prices are 'tumbling' down, are either jealous, bad people or stupid.\" So, let's talk messaging.",
+      "cn": "-- -- orang favoritmu baru saja memposting di Truth Social. Presiden Trump berkata, lihat, \"Orang-orang bodoh ini pikir saya tidak cukup keras terhadap Iran, dan pasar saham baru saja mencapai rekor tertinggi, harga minyak sedang 'jatuh', mereka iri, jahat, atau bodoh.\" Jadi, mari kita bicara tentang penyampaian pesan."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Well, first of all, this is just a framework. This isn't the total deal. So, we need to keep that in mind. I mean, we keep -- all the rhetoric I keep hearing is, you know, this deal, this deal, that. It's a framework to get to a deal.",
+      "cn": "Yah, pertama, ini hanya kerangka kerja. Bukan kesepakatan penuh. Jadi, kita perlu ingat itu. Maksudku, kita terus -- -- yang selalu saya dengar adalah, Anda tahu, kesepakatan ini, kesepakatan itu. Ini hanya kerangka kerja untuk mencapai kesepakatan."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "So, we can argue whether or not that's great or not. And I appreciate the -- the laughter on my left. The other thing is when you're in a hole, what's the first rule? Stop digging. And I think that's where we are with this particular framework, this particular MOU, is that we are at a point. The military in Iran has been degraded, whether or not it's been blasted to the Stone Age. Again, we can debate that. The ballistic missile stockpile has been degraded. Their ability to fund Hamas, Hezbollah and the Houthis --",
+      "cn": "Jadi, kita bisa berdebat apakah ini baik atau buruk. Saya hargai tawa di sebelah kiri saya. Hal lain adalah, ketika Anda dalam masalah, aturan pertama apa? Berhenti menggali. Saya pikir itulah posisi kita dalam kerangka kerja khusus ini, nota kesepahaman khusus ini, kita berada di titik tertentu. Kekuatan militer Iran telah dilemahkan, apakah dibom kembali ke Zaman Batu atau tidak. Sekali lagi, kita bisa berdebat. Persediaan rudal balistik telah dilemahkan. Kemampuan mereka mendanai Hamas, Hizbullah, dan Houthi -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And we should say --",
+      "cn": "Ya, kita harus mengatakan -- --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "-- has been degraded.",
+      "cn": "-- -- telah dilemahkan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- Europe, NATO. Marc Rich (ph) was speaking earlier. I don't know if that was sound. But they're not saying, Oh, God, this is really bad. Right? We heard Carney yesterday say, I like what I saw.",
+      "cn": "-- -- Eropa, NATO. Mark Rich berbicara lebih awal. Saya tidak tahu apakah itu suaranya. Tapi mereka tidak berkata, oh astaga, ini benar-benar buruk. Kan? Kemarin kami dengar Carney berkata, saya suka apa yang saya lihat."
+    },
+    {
+      "speaker": "Meghan Hays",
+      "text": "Well, what are they supposed to do? They're standing with him. They're not going to say anything in front of him. First of all, we spent $1 billion a day fighting a war that no one wanted to go to. So, we spent over $100 billion there. We spent $300 billion in this deal. So, now we're $400 billion when Americans don't have healthcare.",
+      "cn": "Jadi, apa yang harus mereka lakukan? Mereka mendukungnya. Mereka tidak akan berkata apa-apa di depannya. Pertama, kita menghabiskan $1 miliar sehari untuk perang yang tidak ingin dimenangkan siapa pun. Kita menghabiskan lebih dari $100 miliar di sana. Kita menghabiskan $300 miliar dalam kesepakatan ini. Jadi, sekarang kita telah menghabiskan $400 miliar, dan rakyat Amerika tidak punya jaminan kesehatan."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "We did not spend $300 billion in this deal. If --",
+      "cn": "Kita tidak menghabiskan $300 miliar dalam kesepakatan ini. Jika -- --"
+    },
+    {
+      "speaker": "Hays",
+      "text": "You tell me, then --",
+      "cn": "Maka katakan padaku -- --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I just can't lay that. I just can't let you just get away with that.",
+      "cn": "Saya tidak bisa membiarkanmu lolos begitu saja. Saya tidak bisa membiarkanmu melenggang begitu saja."
+    },
+    {
+      "speaker": "Ok. Cornish",
+      "text": "Yes. Let me give the fact check. There will be a $300 billion --",
+      "cn": "Baik. Biarkan saya periksa faktanya. Akan ada $300 miliar -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- investment fund. But a lot of people say, why should Iran have almost immediate access to investments in the world economy if it's still sitting on its enriched uranium and so much of this is not worked out yet?",
+      "cn": "-- -- dana investasi. Tapi banyak orang berkata, jika Iran masih memiliki uranium yang diperkaya, dan banyak masalah belum terselesaikan, mengapa Iran harus segera mendapatkan investasi ke ekonomi dunia?"
+    },
+    {
+      "speaker": "Azodi",
+      "text": "I would say that a possibility of instability in Iran is a danger to everybody, the entire region.",
+      "cn": "Saya pikir ketidakstabilan Iran bisa berbahaya bagi semua orang, seluruh kawasan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, you think the money is necessary to restabilize?",
+      "cn": "Jadi, Anda pikir uang ini diperlukan untuk menstabilkan kembali?"
+    },
+    {
+      "speaker": "Azodi",
+      "text": "To restabilize the country. And I think that it -- you know, just looking at President Trump's approach, investment, it could work for the Americans, too. A lot of jobs. Think of it: in 2015, Iran signed an agreement with Boeing to buy passenger planes, which never happened, because President Trump decided to leave.",
+      "cn": "Untuk menstabilkan kembali negara itu. Dan saya pikir, Anda tahu, lihat apa yang dilakukan Presiden Trump, investasi juga bisa menguntungkan AS. Banyak lapangan kerja. Pikirkan: tahun 2015, Iran menandatangani kesepakatan dengan Boeing untuk membeli pesawat, tapi tidak pernah terwujud karena Presiden Trump memutuskan untuk keluar."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But you can hear why critics would say, Well, wait a second. Now were talking about investment with Iran, with a regime that fundamentally is not changed.",
+      "cn": "Tapi Anda bisa mengerti mengapa para kritikus berkata, tunggu, sekarang kita bicara tentang investasi dengan Iran, dengan rezim yang tidak berubah sama sekali."
+    },
+    {
+      "speaker": "Hays",
+      "text": "Exactly my point. So now, Americans are using -- the American taxpayers are paying for something that we never -- a war we didn't want to go to. Gas prices shot up, and got a huge mess to our global economy, not to mention our own economy here. And Trump doesn't seem to care. He just is like, Oh, if you're stupid, you don't like this. Well, they still have -- they still have the capability for nuclear power -- or nuclear war capabilities.",
+      "cn": "Itulah poin saya. Jadi sekarang, rakyat Amerika menggunakan -- -- pembayar pajak Amerika membiayai perang yang tidak pernah ingin kami ikuti. Harga minyak melonjak, menyebabkan kekacauan besar bagi ekonomi global, apalagi ekonomi kita sendiri. Dan Trump sepertinya tidak peduli. Dia seperti berkata, oh, jika Anda bodoh, Anda tidak akan suka ini. Yah, mereka masih memiliki nuklir -- -- atau kemampuan perang nuklir."
+    },
+    {
+      "speaker": "Hays",
+      "text": "This is an agreement to -- to a deal, which this is the 39th time he said that we almost have a deal. So, at least we're one step closer there. But I just don't understand how we are in this position that -- in a war that no one wanted to go to, and the American people are the ones suffering.",
+      "cn": "Ini adalah kesepakatan -- -- sebuah transaksi, ini adalah ke-39 kalinya dia bilang kita hampir mencapai kesepakatan. Jadi, setidaknya kita selangkah lebih dekat. Tapi saya tidak mengerti, bagaimana kita bisa terlibat dalam perang yang tidak ingin dimenangkan siapa pun, dan yang menderita adalah rakyat Amerika."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me give Sina the last word, because he's here. And this was signed at Versailles. Lots of things have been signed at Versailles.",
+      "cn": "Biarkan saya memberi Sena kesempatan terakhir untuk bicara, karena dia di sini. Ini ditandatangani di Versailles. Banyak kesepakatan ditandatangani di Versailles."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But usually, when you call something a Versailles treaty, it's in foreign language policy land. Kind of an insult, right? It's a self-defeating agreement. What's your response to the critics out there who are making those analogies?",
+      "cn": "Tapi biasanya, ketika Anda menyebut sesuatu sebagai Perjanjian Versailles, itu dalam kebijakan luar negeri. Agak menghina, kan? Itu adalah kesepakatan yang merugikan diri sendiri. Apa tanggapan Anda terhadap kritikus yang membuat analogi itu?"
+    },
+    {
+      "speaker": "Azodi",
+      "text": "Look, I mean, absolutely what Meghan said, I mean, this was the -- President Trump didn't have to sign that peace deal at Versailles today. He could have had an agreement in February before he decided to go to war. He was dragged into a war of choice that he didn't have to. Thirteen Americans died. Billions of dollars spent. He could have taken the deal that the Iranians had offered, and it was a pretty good deal compared to the JCPOA. And I know that President Trump is --",
+      "cn": "Dengar, saya sepenuhnya setuju dengan Megan. Presiden Trump tidak harus menandatangani perjanjian damai itu di Versailles hari ini. Dia bisa saja mencapai kesepakatan sebelum memutuskan perang pada bulan Februari. Dia terseret ke dalam perang pilihan yang tidak perlu. 13 orang Amerika tewas, menghabiskan miliaran dolar. Dia bisa saja menerima tawaran Iran, dan itu adalah kesepakatan yang cukup bagus dibandingkan dengan JCPOA. Saya tahu Presiden Trump -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Did not believe that.",
+      "cn": "Tidak percaya itu."
+    },
+    {
+      "speaker": "Azodi",
+      "text": "-- very sensitive to the word \"JCPOA\" and Obama.",
+      "cn": "-- -- sangat sensitif terhadap kata \"JCPOA\" dan Obama."
+    },
+    {
+      "speaker": "Azodi",
+      "text": "But that was a very good deal that he had on February 26 in Geneva.",
+      "cn": "But that was a very good deal he got in Geneva on February 26."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, the hope is -- from the White House that 60 days from now, whatever they have will be much better --",
+      "cn": "Well, the White House hopes that after 60 days, whatever they get will be much better than what happened in 2015 -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- than happened in 2015. Thank you so much for your expertise. I hope you can come back.",
+      "cn": "-- -- better than what happened in 2015. Thank you very much for your expert insights. Hope you can come again."
+    },
+    {
+      "speaker": "Azodi",
+      "text": "Thank you for having me.",
+      "cn": "Thank you for the invitation."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Coming up on CNN THIS MORNING, there's a new release date for Sean \"Diddy\" Combs. What this means for his time behind bars. And Swifties, did New York's mayor just let a secret slip?",
+      "cn": "On CNN This Morning, Sean \"Diddy\" Combs has a new release date. What that means for his prison time. And, Swifties, did the New York mayor accidentally leak a secret?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Taylor Swift wedding confirmed by Mamdani, you guys.",
+      "cn": "Mamdani confirmed Taylor Swift's wedding, folks."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's now 14 minutes past the hour. This is your morning roundup. A tornado threat looming over the Midwest today. This morning, more than 65,000 people are actually still without power in the region after severe storms last night. The National Weather Service reported several tornadoes and issued some of its highest-level tornado alerts. And Luigi Mangione's team will present a psychiatric defense in his state murder trial.",
+      "cn": "It's 14 minutes past the hour. Here is your morning news summary. Today, the Midwest faces a tornado threat. This morning, over 65,000 people in the region are still without power due to last night's severe storms. The National Weather Service reported multiple tornadoes and issued the highest-level tornado warning. Additionally, Luigi Mangione's team will present an insanity defense in his state murder trial."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "They're expected to admit he killed the UnitedHealthcare CEO, but under an extreme emotional disturbance. Mangione's sentence can be reduced from murder to manslaughter if this defense succeeds. That's the difference between life in prison and 25 years. The state trial is set to begin this fall. And Sean \"Diddy\" Combs' federal release date changed again. It's now moved up from April 2028 to February 2028. And the reason is unclear. Combs is currently convicted on charges related to prostitution.",
+      "cn": "They are expected to admit he killed the UnitedHealthcare CEO, but was under extreme emotional distress. If the defense succeeds, Mangione's charge could be reduced from murder to manslaughter. That's the difference between life in prison and a 25-year sentence. The state trial is set to begin this fall. Sean \"Diddy\" Combs' federal release date has changed again, moved up from April 2028 to February 2028 for unknown reasons. Combs is currently convicted on prostitution-related charges."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He still faces dozens of lawsuits nationwide. His attorneys are appealing his formal conviction. Now, did New York City's mayor, Zohran Mamdani, just spill the beans on Taylor Swift and Travis Kelce's wedding? He appeared to confirm that the two would be getting married in the city this summer. MAYOR ZOHRAN MAMDANI (D),",
+      "cn": "He still faces dozens of lawsuits nationwide. His lawyers are appealing the formal conviction. Now, did New York City Mayor Zohran Mamdani just leak Taylor Swift and Travis Kelce's wedding? He seems to confirm the two will marry in New York City this summer. Mayor Zohran Mamdani (Democrat) said:"
+    },
+    {
+      "speaker": "New York City",
+      "text": "We are used to big events, and we are incredibly excited for this one. We know it coincides with the Knicks finals run. We know it coincides with July 4th. America 250, Taylor Swift's wedding all happening at the same time.",
+      "cn": "We are used to big events and are very excited about this one. We know it coincides with the Knicks' Finals run, with July 4th. America's 250th anniversary celebration, Taylor Swift's wedding will all happen at the same time."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "You did mention Taylor Swift's wedding. Have you been invited? Are you going? Do you, like -- Is there anything we need to know about that, sir? Thank you.",
+      "cn": "You did mention Taylor Swift's wedding. Were you invited? Will you go? You -- -- Is there anything we need to know about this, sir? Thank you."
+    },
+    {
+      "speaker": "Mamdani",
+      "text": "No and no. I -- I wish them a lovely wedding.",
+      "cn": "No, and no. I -- -- I wish them a happy wedding."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "TMZ reported the two are getting married at Madison Square Garden on July 4th weekend, but that has not been confirmed. Meghan, I'm sure you have thoughts.",
+      "cn": "TMZ reports the two will marry on the July 4th weekend at Madison Square Garden, but it's unconfirmed. Megan, I'm sure you have thoughts."
+    },
+    {
+      "speaker": "Hays",
+      "text": "Well, I don't understand why Mamdani would know about it if he's not been invited, so I just -- I mean, maybe --",
+      "cn": "Well, I don't understand how Mamdani would know about it if he wasn't invited, so I think -- -- maybe -- --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Well, they have to have security for this small, intimate affair at Madison Square Garden.",
+      "cn": "Well, they have to handle security for this small, intimate event at Madison Square Garden."
+    },
+    {
+      "speaker": "Hays",
+      "text": "I thought that's why they were getting married there.",
+      "cn": "I thought they chose to get married there because of that."
+    },
+    {
+      "speaker": "Hays",
+      "text": "Because there's a lot of security.",
+      "cn": "Because security is very tight there."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I think we've had a recent example of what it's like to secure the area. That's not ideal.",
+      "cn": "We recently had an example of what a security zone looks like. It wasn't ideal."
+    },
+    {
+      "speaker": "Hays",
+      "text": "Maybe it's all part of the ruse that they're not actually getting married there. And he's throwing everyone off and, like, part of it. Maybe that's it.",
+      "cn": "Maybe this is all a setup, and they're not actually getting married there. He's confusing everyone, and it's part of the plan. Maybe that's it."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I mean, I guess the Bezos wedding in Venice --",
+      "cn": "I think Bezos' wedding in Venice -- --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "-- was a small affair compared to Madison Square Garden.",
+      "cn": "-- -- is small compared to Madison Square Garden."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Is she giving a concert?",
+      "cn": "Is she going to perform a concert?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Were just going to -- we're going to wait for the puzzle pieces to be dropped via Instagram, the way most wedding invites happen these days.",
+      "cn": "We'll just have to wait for clues on Instagram, which is how most wedding invitations are sent these days."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, after the break on CNN THIS MORNING, the Obama Presidential Center opens today. Will his star-studded grand opening dwarf President Trump's 250th celebrations? Plus, the World Cup's most controversial time-out. Are hydration breaks helping the players or the networks? And good morning to our viewers in Chicago. We're taking a live look at the sunrise there over the skyline.",
+      "cn": "Now, after a break on CNN This Morning, the Obama Presidential Center opens today. Will its star-studded grand opening overshadow President Trump's 250th anniversary celebration? Also, the most controversial timeouts in the World Cup. Are water breaks helping players or TV stations? Good morning, Chicago viewers. We are live with the sunrise over your skyline."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, we're going to ask whether Washington, D.C., is taking a page out of New York City's political playbook after the win of Zohran Mamdani. Now, ballots are still being counted here, but in the Democratic mayoral primary, holding a commanding lead is Democratic socialist Janeese Lewis George. And here's how she described what Democratic socialism means to her. JANEESE LEWIS GEORGE (D),",
+      "cn": "So, we have to ask, after Zoran Mamdani's victory, is Washington D.C. following New York City's political strategy? Now, votes are still being counted, but in the Democratic mayoral primary, the leading candidate is democratic socialist Janice Lewis George. Here's how she describes what democratic socialism means to her. Janice Lewis George (Democrat):"
+    },
+    {
+      "speaker": "Washington D.C. Mayoral Candidate",
+      "text": "I think this moment calls for that level of moral clarity and courage. It calls for this level of ingenuity. And it calls for a leader who is focused on putting people first and delivering on the small things, right? So, our (ph) socialism is talking about just making sure your 911 system works, your 311 works, your trash gets picked up, your snow gets plowed. Those basic things that make a difference in everyone's lives.",
+      "cn": "I think this moment requires that level of moral clarity and courage. It requires that level of creativity. It requires a leader who focuses on people and gets the small things done, right? So, our socialism is about making sure your 911 system works, your 311 system works, trash is picked up, snow is removed. These basic things affect everyone's lives."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Group chat is back. I wanted to talk about this, because this follows so many other cities where you have seen someone who identifies as a Democratic socialist advance. Now, unlike Mamdani, she's not promising government-run supermarkets. Right? Which I don't think anyone is holding their breath for that. But she wants to build 72,000 new housing units, expand rent control, and promise a universal childcare subsidy.",
+      "cn": "Okay. The group chat is back. I want to talk about this because, following many other cities, you see someone calling themselves a democratic socialist and making progress. Now, unlike Mamdani, she hasn't promised government-run supermarkets. Right? I don't think anyone expects that. But she wants to build 72,000 new homes, expand rent control, and promise universal childcare subsidies."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And Meghan, I wanted to ask you, does any of this kind of language, does it redefine for people that term, socialism?",
+      "cn": "Megan, I want to ask you, is this language redefining people's understanding of the word \"socialism\"?"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Socialism? Well, socialists are not Democrats. So, I'm confused why Democrats are still thinking that the DSA members are Democrats, because they are not. I think that the problem I have with this is she's against a lot of the public safety issues that we face in D.C. and doesn't want to have curfews for teens. And there's a huge public safety problem.",
+      "cn": "Socialism? Well, socialists are not Democrats. So, I'm confused why Democrats still think members of Democratic Socialists of America are Democrats, because they're not. I think my issue with her is that she opposes many of the public safety problems we face in Washington D.C. and doesn't want a curfew for teenagers. And there's a huge public safety problem here."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We should say, she's a former prosecutor, right? So --",
+      "cn": "We should say, she was a prosecutor, right? So -- --"
+    },
+    {
+      "speaker": "Hays",
+      "text": "But she does not believe in the curfew.",
+      "cn": "But she doesn't believe in curfews."
+    },
+    {
+      "speaker": "Hays",
+      "text": "There's a lot of things going on here. So, I don't necessarily know that it defines it. I think that, just like people in New York. And if you live in Cincinnati or Sacramento, you want your mayor to do the very basic things. We want the rats gone. You want public safety.",
+      "cn": "There's a lot here. I don't necessarily know that this defines it. I think, like New Yorkers. If you live in Cincinnati or Sacramento, you want your mayor to do the most basic things. We want the rats gone. You want public safety."
+    },
+    {
+      "speaker": "Hay",
+      "text": "You want 311 to work, and --",
+      "cn": "You want 311 to work, and -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But can I charge something? Two things on her plank. While they may fall under Democratic socialism, they actually sound very much like things the modern Democratic Party is talking about: housing. The abundance Democrats, all they talk about is housing and zoning. All right. When you talk about what you're saying is lenient crime policies, to me, this threads back to very kind of common language from 2020 and beyond, around how to fight crime without leaning on violence from police.",
+      "cn": "But can I say something? There are two points in her platform. While they may fall under democratic socialism, they actually sound a lot like what modern Democrats are talking about: housing. Abundance Democrats, they talk about housing and zoning all day. Okay. When you talk about what you call lenient crime policies, to me, that goes back to the very common language of 2020 and beyond about how to fight crime without relying on police violence."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Like, they're saying things that are not disconnected from what average Democrats think.",
+      "cn": "Like, what they say isn't completely disconnected from what ordinary Democrats think."
+    },
+    {
+      "speaker": "Hays",
+      "text": "I mean, sure. I mean, I don't disagree. I don't agree with the abolish ICE and all the things that -- some of the rhetoric she has said. But also, we need -- there are a ton of places to live here that are not affordable. I don't -- I don't know enough about her housing policy to comment. I just am not -- I am not a fan of the Democratic Party sliding so far to the left. And it is going to impact these cities. It's going to impact places.",
+      "cn": "I mean, of course. I don't disagree. I disagree with abolishing ICE and some things she's said. But besides that, we need -- -- there are many places where housing isn't cheap. I don't know enough about her housing policy to comment. I just don't like Democrats leaning so far left. It affects these cities, it affects a lot of places."
+    },
+    {
+      "speaker": "Hays",
+      "text": "It's already impacting places like New York, and it's going to impact places like D.C. We need actual governance, and I need people to pick up trash, remove snow, which we clearly didn't do this year. But this is a lot about anti-incumbency.",
+      "cn": "It's already affected places like New York, and it will affect places like Washington D.C. We need real governance, someone to pick up trash, remove snow, which we clearly didn't do well this year. But this is largely about anti-incumbency."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, it sounds like this messaging, you're excited about this messaging. Meghan's going to be in the ads.",
+      "cn": "So, it sounds like the message, you're excited about the message. Megan will be in the ad."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "First of all -- first of all, I feel like we're in California, because they're still counting the votes. Secondly --",
+      "cn": "First -- -- first, I feel like we're in California because they're still counting votes. Second -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Wait, it's been a day.",
+      "cn": "Wait, it's only been a day."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "They're still counting the votes. Secondly -- we don't even have to talk about ranked choice voting. Secondly, I -- I listened to that clip, and she sounds like a small- town establishment Republican in -- in the answers. We need to do the small things right. I mean, she really doesn't --",
+      "cn": "They're still counting votes. Second -- -- we don't even need to discuss ranked-choice voting. Second, I listened to that clip, and in her answer she sounded like a small-town establishment Republican. We need to get the small things right. I mean, she really doesn't -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Megahan says she sounds like a left-wing --",
+      "cn": "Megan says she sounds like a left-wing -- --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Well, because that -- because that answer, that answer was just --",
+      "cn": "Well, because that -- -- because that answer, that answer just -- --"
+    },
+    {
+      "speaker": "Hays",
+      "text": "The answer -- first of all, the answer was incredible.",
+      "cn": "The answer -- -- first, the answer is incredible."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But isn't that the point?",
+      "cn": "But isn't that the point?"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "To Meghan's point --",
+      "cn": "As for Megan's point -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Are they not making progress? These -- these people who have won. Right? Not in this case, but like Mamdani. They have said the things that people want to hear. And it hasn't been giant social safety net. Let's turn it into Sweden. They talk about the small things.",
+      "cn": "Aren't they making progress? These -- -- these people who win. Right? Not in this case, but people like Mamdani. They say what people want to hear. And it's not a huge social safety net. Let's turn it into Sweden. They talk about small things."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I -- it sounds, when I listen to Meghan --",
+      "cn": "I -- -- it sounds, when I hear Megan say -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. She sounds concerned.",
+      "cn": "Yes. She sounds very worried."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "-- who has paid a lot more attention to this than I probably have in terms of --",
+      "cn": "-- -- She's probably much more concerned about it than I am, because -- --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "-- this, because I don't live in D.C. I live in Virginia. Yes, they say the small things. But again, I think that's a lot of rhetoric rather than what they are going to do on the ground. The third part of this is, this is where the Trump endorsement works in reverse. He came after her, and now she is leading in the polls.",
+      "cn": "-- -- regarding this, since I don't live in Washington, D.C. I live in Virginia. Yes, they talk about small things. But again, I think this is more talk than what they actually plan to do. The third point is, this is where Trump's support backfires. He attacked her, and now she's leading in the polls."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It raised her profile.",
+      "cn": "This has boosted her visibility."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "It totally raised her profile.",
+      "cn": "It has completely boosted her visibility."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "One last thing, Nicholas. I also noticed she's pushing a tax that would potentially tax the people more who live outside of the district --",
+      "cn": "And one more thing, Nicholas. I also noticed she's pushing a tax that might impose higher taxes on people who live outside D.C. but own businesses in D.C. -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- but own businesses in the district. What's the name of your business?",
+      "cn": "-- -- What's the name of your business?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But the point is more taxing is a huge part of these planks in these cities. Billionaire taxes, and Mamdani with his pied a terre tax. Is that something that you think, over time, we're going to see more of? Is that messaging that makes Democrats vulnerable? WU: Something that I heard across the board from most elected Democrats over the last year, when they've looked at Mamdani's election and other Democrats who've won primaries, is that having some sort of, like, concrete plan, regardless of how it comes into",
+      "cn": "But the key is, in these cities' platforms, tax increases are a big part. The billionaire tax, and Mandani's 'landing tax.' Do you think we'll see more of these taxes over time? Does this message make Democrats vulnerable? Wu: Over the past year, what I've heard from most elected Democrats, when they look at Mandani's election and other Democrats who won primaries, is that having a specific plan, no matter how it's achieved, is something they can learn from and something they think other Democrats should campaign on. Now, for someone who might become the mayor of Washington, D.C., the problem is that Congress has veto power over everything they do."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "being, like, is something that they can learn from and something that they think other Democrats should run on. Now, the question for someone like, you know, the perhaps incoming mayor of D.C. is the fact that Congress has veto power over whatever they do.",
+      "cn": "Yes. Trump has already threatened that, hey, maybe we need to take more action. Wu: Exactly. And, you know, Republicans on Capitol Hill, we've seen in the past, they use their power to overturn D.C. decisions. So, if she crosses the line, there's that risk."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And Trump has already threatened like, hey, maybe we need to take more action somehow. WU: Exactly. And, you know, Hill Republicans, you know, we've seen in the past have -- have, you know, taken their power to overturn what D.C. does. And so, if she does overstep, there is a risk of that.",
+      "cn": "Yes. And it's a good reminder: the struggle here isn't just ordinary city politics. It's city versus federal. Now, on CNN This Morning, we'll discuss J.D. Vance. Why the vice president has become the face of this administration's Iran deal. Also, is it all about money? Or do players really need a break? We'll discuss the controversy over water breaks in World Cup matches."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And there's -- and that's a good layer to remind people: that the fight here is not just regular city politics. It's city versus federal. Now, straight ahead on CNN THIS MORNING, we're going to talk about J.D. Vance. Why the vice president has become the face of the Iran deal for this White House. Plus, is it all about the money? Or do players really need a break? We're going to talk about this controversy over water breaks during the World Cup games. var CNN = CNN || {};",
+      "cn": "Okay, here's something strange. World Cup fans say FIFA's addition of three-minute water breaks in each half of every match is driving them crazy. These breaks are meant to help players cope with extreme heat. Critics say they disrupt the flow of the game."
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "OK, here's an odd one. World Cup fans saying give me a break when it comes to FIFA's new three-minute hydration breaks in each half of every game. Now they were introduced to help players deal with the extreme heat. Critics feel that they're ruining the flow of the game.",
+      "cn": "In stadiums with roofs, it's completely unnecessary. I know it's something we have to get used to, because it will happen in all 104 matches of this World Cup."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "It's completely needless in a stadium that has a roof over it. And I know that this is something that we're going to have to get used to because it's going to happen in 104 games of this World Cup.",
+      "cn": "But honestly, when it happens, it's ridiculous."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "But I have to be honest, it's ridiculous when it happens.",
+      "cn": "These breaks just create more commercial time during live soccer matches. Let's dive deeper. But first, gotta hydrate."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Those breaks have conveniently created more commercial time during live soccer. Let's get into it. But first, gotta hydrate."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right, when it comes to capitalizing on the capital, the two networks airing the World Cup, Fox and Telemundo, are taking different approaches during these breaks. Fox is airing full screen commercials and Telemundo is not. UNIDENTIFIED MALE (through translator): We are staying. We are not going to break. The World Cup is ours, and we're enjoying every moment so you don't miss a thing.",
+      "cn": "Alright, speaking of capitalizing, the two networks broadcasting the World Cup -- Fox and Telemundo -- have taken different approaches to ad breaks. Fox runs full-screen ads, while Telemundo does not. An unidentified male (via translation): We continue live, without commercial breaks. The World Cup is ours, we enjoy every moment, so you don't miss any action."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Crowd not sounding happy there. Telemundo says they want to create an authentic World Cup experience without cutting away from the action. So, joining me now to discuss, a retired professional soccer player, Alecko Eskandarian. Thank you so much for being here.",
+      "cn": "The audience doesn't sound too happy. Telemundo says they want to create an authentic World Cup experience without interrupting the game footage. Now, let's bring in retired professional soccer player Alecko Eskandarian to discuss. Thank you so much for coming."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, first, I want to talk about this being a new rule. And I gather it was to help deal with the heat. But I was listening to an after game press conference and I think it was the coach for the English national team, he said, look, this completely flattened our tempo and it gives the opposition a free tactical time-out to completely neutralize our press. Do water breaks kill momentum?",
+      "cn": "First, I want to talk about this new rule. I guess it's to deal with the heat. But I listened to the post-match press conference, and it seemed like the head coach of the England national team said it completely disrupted our rhythm, gave the opponent a free tactical timeout, and completely suppressed our pressing. So, do water breaks kill momentum?"
+    },
+    {
+      "speaker": "Eskandarian",
+      "text": "I don't think so. I mean, to be honest with you, yes, they are different and I think they were implemented, like you said, for player safety. I'd imagine for FIFA's -- from FIFA's purview, they established this to put in some consistency because there are going to be some games that will have it just because of the temperature and some that wouldn't. So, this was something that evens the playing field when it's involved in every game.",
+      "cn": "I don't think so. Honestly, yes, they are different, and I think they were implemented for player safety. From FIFA's perspective, I think they set this up for consistency, because some matches have breaks due to temperature and some don't. So, when every match involves breaks, it levels the playing conditions."
+    },
+    {
+      "speaker": "Eskandarian",
+      "text": "And as long as every team knows that they're going to have that benefit, I think it evens it out.",
+      "cn": "As long as every team knows they'll benefit, I think it balances out."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, fans are booing. I assume players adapt. But I'm also thinking of some of those European tennis players, right, who were faced with the heat and people thought, why are they out there doing all this in the heat? Is there something the fans maybe aren't acknowledging about this experience?",
+      "cn": "So, fans are booing. I guess players will adapt. But I also think of some European tennis players who compete in high heat, and people wonder, why do they play in such heat? Are fans not aware of certain aspects of the experience?"
+    },
+    {
+      "speaker": "Eskandarian",
+      "text": "Yes, player health and safety, I would say. It's hot out there for sure. Definitely in some of the cities that the World Cup is taking place, it can definitely wear on you. So, I think player safety is at the -- at the forefront of this. And, yes, I don't think a 60 second break is really going to change tactics or player physicality that much that it's going to have any impact on the outcome of the game.",
+      "cn": "Yes, I think it's player health and safety. It's really hot there. Especially in some of the World Cup host cities, the heat can really wear you down. So, I think player safety is the top priority. And I don't think a 60-second break will really change tactics or player stamina to the point of affecting the match outcome."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What top two games are you watching next?",
+      "cn": "Which two matches are you most looking forward to next?"
+    },
+    {
+      "speaker": "Eskandarian",
+      "text": "Oh, I'm going to be going out to L.A. for Belgium-Iran and USA-Turkey. So, I'm looking forward to watching those games in person. But to be honest with you, the tournament's been full of upsets, so every game is must watch.",
+      "cn": "Oh, I'm going to Los Angeles to watch Belgium vs. Iran and USA vs. Turkey. So, I'm looking forward to watching those live. But honestly, this tournament has had so many upsets, so every match is worth watching."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. That's Alecko Eskandarian. Thank you so much for being here.",
+      "cn": "Alright. That's Alecko Eskandarian. Thank you so much for coming."
+    },
+    {
+      "speaker": "Eskandarian",
+      "text": "Thanks for having me.",
+      "cn": "Terima kasih atas undangannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And in the meantime, this Sunday, you can get an inside look at Team USA. Do they have what it takes to win the game's ultimate prize? We've got a flash doc \"Chasing Soccer Glory: America's Long Game.\" That's airing Sunday night at 8 p.m. on CNN. You can also watch it on the CNN app. In Chicago today, the Obama Presidential Center is opening. It's been an emotional week leading up to it.",
+      "cn": "Sementara itu, hari Minggu ini, Anda bisa mengenal tim AS lebih dalam. Apakah mereka mampu memenangkan hadiah utama turnamen? Kami punya film dokumenter 'Chasing Football Glory: America's Enduring Fight'. Film ini akan tayang di CNN Minggu pukul 8 malam. Anda juga bisa menontonnya di aplikasi CNN. Hari ini di Chicago, Pusat Kepresidenan Obama dibuka. Pekan sebelumnya penuh emosi."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Former First Lady Michelle Obama surprised her husband at the reception ahead of the grand opening because she brought the former president to tears in this custom skirt, which bears the image honoring her late mother.",
+      "cn": "Mantan Ibu Negara Michelle Obama memberi kejutan kepada suaminya dalam resepsi sebelum pembukaan besar, dengan gaun khusus yang membuat mantan presiden menangis, gaun itu dihiasi gambar untuk mengenang ibunya yang telah meninggal."
+    },
+    {
+      "speaker": "Michelle Obama",
+      "text": "She was so proud of her son-in-law and the man that he is and has been to our family.",
+      "cn": "Dia sangat bangga dengan menantunya, dan dirinya sebagai pribadi, serta artinya bagi keluarga kami."
+    },
+    {
+      "speaker": "Barack Obama",
+      "text": "I am a little shaken up by this because I loved my mother-in-law.",
+      "cn": "Saya sedikit terharu, karena saya mencintai ibu mertua saya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, Obama has always been ingrained in pop culture. The event today is going to reflect that. The lineup of performers includes Stevie Wonder, U2's Bono, The Edge, Bruce Springsteen, Jennifer Hudson, The Roots, among others. And former presidents, Biden, Bush and Clinton are changing up their usual meeting spot, funerals, to be there for Obama. So, the group chat is back. I wanted to talk about this because all week President Trump has been referencing Obama.",
+      "cn": "Kini, Obama telah berakar kuat dalam budaya populer. Acara hari ini akan mencerminkan hal itu. Deretan penampil termasuk Stevie Wonder, Bono dari U2, The Edge, Bruce Springsteen, Jennifer Hudson, The Roots, dan lainnya. Mantan Presiden Biden, Bush, dan Clinton mengubah tempat pertemuan biasa mereka -- pemakaman -- untuk mendukung Obama. Jadi, grup chat kembali lagi. Saya ingin membahas ini, karena sepanjang minggu Presiden Trump menyebut Obama."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He can't seem to stop no matter where this Iran deal is. And it occurred to me, between it being Juneteenth and this library opening, it is a week for people to be reminded of both Obama and his legacy. NICHOLAS WU, CONGRESSIONAL REPORTER, \"SEMAFOR\": That's for sure. And, I mean, I think what this library is doing is it, you know, this is a president's own telling of his legacy. And Obama is very much putting that out there.",
+      "cn": "Dia sepertinya tidak bisa berhenti, apa pun perkembangan kesepakatan Iran. Terlintas di benak saya, antara Juneteenth dan pembukaan perpustakaan ini, minggu ini mengingatkan orang pada Obama dan warisannya. Koresponden Kongres Nicholas Wu (dari Semafor): Benar sekali. Dan, saya pikir yang dilakukan perpustakaan ini adalah, Anda tahu, ini adalah penuturan presiden tentang warisannya sendiri. Obama sangat mempromosikannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You know, we can debate as much as we want on how exactly -- what the legacy of the JCPOA was, and many other let's say his --",
+      "cn": "Anda tahu, kita bisa berdebat tentang apa sebenarnya warisan Joint Comprehensive Plan of Action, dan banyak hal lain -- seperti -- nya --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, but his broader legacy, whether it be art that they're presenting there, basketball courts, community centers, this is Obama telling his story. WU: Exactly. And to me, the most interesting thing with this library is, you know, what do you do when all these records are not necessarily paper and, you know, like a traditional library.",
+      "cn": "Ya, tapi warisannya yang lebih luas, baik seni yang mereka pamerkan, lapangan basket, pusat komunitas, ini adalah Obama yang menceritakan kisahnya. Wu: Tepat. Menurut saya, yang paling menarik dari perpustakaan ini adalah, Anda tahu, apa yang Anda lakukan ketika semua catatan ini belum tentu berupa kertas, seperti perpustakaan tradisional."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, right. WU: Like, how do you immortalize -- you know, when Obama was the cool president with a Blackberry and sending tweets, you know, how do you -- how do you do something like that? And so, I'm curious to see what they do with that.",
+      "cn": "Oh, ya. Wu: Misalnya, bagaimana Anda membuatnya abadi -- Anda tahu -- ketika Obama adalah presiden keren yang memegang Blackberry dan men-tweet? Jadi, saya sangat ingin melihat bagaimana mereka menangani masalah ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I also want to mention this event. It's very Obama era in terms of all the celebrities being there. And we made a list of, like, who's going to be -- who's going to be at this Obama event and their global record sales. And then what's going on with the Trump-backed Freedom 250, which prey much kicked off a few weeks ago in terms of who was leaving it. And in the end, it's Lee Greenwood, a president -- the president's favorite, and a handful of other artists.",
+      "cn": "Saya juga ingin menyebutkan acara ini. Banyak selebriti hadir, ini sangat khas era Obama. Kami membuat daftar, misalnya siapa yang akan hadir di acara Obama ini, dan penjualan rekaman global mereka. Lalu ada acara 'Freedom 250' yang didukung Trump, baru diluncurkan beberapa minggu lalu, lihat siapa yang mundur. Terakhir, ada Lee Greenwood, penyanyi favorit presiden, dan beberapa artis lainnya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Is this a reminder of like kind of where Hollywood's heart lies or the complication that Trump has his relationship with pop culture.",
+      "cn": "Apakah ini mengingatkan kita di mana posisi Hollywood, atau kompleksitas hubungan Trump dengan budaya populer?"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I don't know that it's a fair comparison to the -- I -- look, I love --",
+      "cn": "Saya tidak yakin apakah ini perbandingan yang adil -- saya -- Anda lihat, saya suka --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Because, here's the thing.",
+      "cn": "Karena, begini."
+    },
+    {
+      "speaker": "I -- Cornish",
+      "text": "They're two massive events.",
+      "cn": "Ini dua acara besar."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I love presidential libraries. I think they are, and especially to the point that they tell the story of the president in their own words. So, I've been to a few. I've been to Bill Clinton's down in Little Rock. I've been to Ronald Reagan's out in California. I think it's incredibly interesting to walk through each of these libraries. And I -- if I'm in Chicago, I will probably go to Obama's presidential library because I think they're fantastic things.",
+      "cn": "Saya suka perpustakaan kepresidenan. Saya pikir itu bagus, terutama karena mereka menceritakan kisah presiden dengan kata-kata presiden sendiri. Saya sudah mengunjungi beberapa. Saya mengunjungi Perpustakaan Bill Clinton di Little Rock, dan Perpustakaan Ronald Reagan di California. Saya merasa mengunjungi perpustakaan-perpustakaan itu sangat menarik. Jika saya pergi ke Chicago, saya mungkin akan mengunjungi Perpustakaan Kepresidenan Obama, karena saya pikir itu sangat bagus."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You would. Trump is not invited, just so we're clear.",
+      "cn": "Anda akan pergi. Trump tidak diundang, kami harus menjelaskannya."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I -- no, no, no, that's fine.",
+      "cn": "Saya -- tidak, tidak, tidak, tidak apa-apa."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "But I don't -- I will take a little issue on this pop culture thing because I don't know that comparing America's 250 and all the politics that are surrounding this with what should be a celebration this week for Obama.",
+      "cn": "Tapi saya agak keberatan dengan soal budaya populer ini, karena saya tidak yakin apakah tepat menyamakan peringatan 250 tahun AS dan semua aktivitas politik di sekitarnya dengan acara yang seharusnya menjadi perayaan Obama minggu ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Well, Meghan, I'm going to --",
+      "cn": "Ya. Baiklah, Meghan, saya akan --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I'm not -- I'm not sure on that.",
+      "cn": "Saya -- saya tidak terlalu yakin tentang itu."
+    },
+    {
+      "speaker": "Meghan Hays",
+      "text": "So, Americans, we're not supposed to celebrate America's 250? I thought that was the whole point of this.",
+      "cn": "Jadi, orang Amerika, kita tidak boleh merayakan 250 tahun AS? Saya pikir itu intinya."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "No, no, I think we should be celebrating America's 250. But look, this is -- this is a celebration for Obama and the folks that really enjoyed his presidency. And, you know, good on them for having a good group.",
+      "cn": "Tidak, tidak, saya pikir kita harus merayakan 250 tahun AS. Tapi Anda lihat, ini -- ini adalah perayaan untuk Obama dan mereka yang benar-benar menikmati masa kepresidenannya. Dan, mereka bisa memiliki grup yang bagus, itu bagus."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can I add -- no, no, can I add another bit of context that's related to 250?",
+      "cn": "Bisakah saya menambahkan -- tidak, tidak, bisakah saya menambahkan sedikit konteks terkait peringatan 250 tahun?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In an era where DEI has been completely, not just DEI. When black American history has been carved out of the halls of the federal government with a -- with like a butcher knife, them doing this library on Juneteenth week is on purpose and is significant.",
+      "cn": "Di era ketika DEI telah sepenuhnya -- -- bukan hanya DEI -- -- dihapuskan, ketika sejarah orang Amerika keturunan Afrika dipotong seperti dengan pisau dari ruang pemerintahan federal, mereka membangun perpustakaan ini pada minggu Juneteenth dengan sengaja dan penuh makna."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Because maybe for black Americans --",
+      "cn": "Karena mungkin bagi orang Amerika keturunan Afrika -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That is a historic moment.",
+      "cn": "Itu adalah momen bersejarah."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That this nation will no longer celebrate under the Trump administration. They are not interested in talking about the history of slavery. So, it feels like the Obamas are doing something very purposeful. They're creating an alternative, historical celebration for people who feel like part of their history is forgotten.",
+      "cn": "Negara ini di bawah pemerintahan Trump tidak akan lagi merayakannya. Mereka tidak tertarik untuk membicarakan sejarah perbudakan. Jadi, rasanya Obama dan istrinya melakukan sesuatu yang sangat berarti. Mereka menciptakan perayaan sejarah alternatif bagi mereka yang merasa sejarah mereka dilupakan."
+    },
+    {
+      "speaker": "Hays",
+      "text": "I heard an interview with Valerie Jarrett last night where she said that this is a place for hope to live on. And I think that that sentiment rings true, probably not only to black Americans, but all Americans who believe that we are living in chaos and just don't agree with the way that Trump goes about with the slashing of DEI and just the complete disregard for the majority of the American people who are not in his billionaire class.",
+      "cn": "Tadi malam saya mendengar wawancara dengan Valerie Jarrett, dan dia mengatakan ini adalah tempat untuk melanjutkan harapan. Saya pikir sentimen itu nyata, dan mungkin tidak hanya bagi orang Amerika keturunan Afrika, tetapi juga bagi semua orang yang percaya bahwa kita hidup dalam kekacauan, tidak setuju dengan pemotongan DEI oleh Trump, dan ketidakpeduliannya terhadap mayoritas orang Amerika yang bukan dari kelas miliardernya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But I'm just adding, it's also historical.",
+      "cn": "Tapi saya hanya menambahkan, ini juga bersejarah."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Like, this is also a historical week.",
+      "cn": "Misalnya, ini juga minggu yang bersejarah."
+    },
+    {
+      "speaker": "Hays",
+      "text": "But I think that this is why you have so many people who are doing these wonderful documentaries and all these artists coming out.",
+      "cn": "Tapi saya pikir, itulah mengapa begitu banyak orang membuat film dokumenter yang luar biasa ini, dan semua seniman ini bermunculan."
+    },
+    {
+      "speaker": "Hays",
+      "text": "So, I think it's more than just the pop culture aspect. I do think that we are in a place where a lot of people do not want to celebrate where we are at in our country's history. And I think that that's unfortunate. And I'm glad that a lot of people can go celebrate the Obamas, which is well deserved. He was a president for eight years. Everyone should go celebrate that. And they have -- it's a -- I worked in the Obama administration (INAUDIBLE).",
+      "cn": "Jadi, saya pikir ini bukan hanya masalah budaya pop. Saya benar-benar berpikir kita berada dalam periode di mana banyak orang tidak ingin merayakan keadaan sejarah negara kita saat ini. Saya pikir itu disayangkan. Saya senang banyak orang bisa merayakan Obama dan istrinya, itu sudah pantas. Dia menjabat sebagai presiden selama delapan tahun. Setiap orang harus merayakannya. Dan mereka -- -- Saya bekerja di pemerintahan Obama (tidak terdengar)."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. It's also a weird week because we're coming off that UFC fight on Sunday, where that fighter made essentially a cruel --",
+      "cn": "Ya. Ini juga minggu yang aneh, karena kita baru saja melewati pertandingan UFC hari Minggu, di mana petarung itu pada dasarnya melontarkan komentar kejam -- --"
+    },
+    {
+      "speaker": "Hays",
+      "text": "But it just goes to show you, priority.",
+      "cn": "Tapi ini menunjukkan prioritas."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, no, a cruel remark about Michelle Obama, our first lady.",
+      "cn": "Tidak, tidak, ini tentang komentar kejam terhadap Ibu Negara kita, Michelle Obama."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, for her to be able to stand up on stage --",
+      "cn": "Jadi, dia bisa berdiri di atas panggung -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Undiminished, I think, is also a significant moment.",
+      "cn": "Saya pikir, tanpa cedera, juga merupakan momen penting."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Look, I would love for us to be celebrating both the opening of the Obama library and the historic 250th anniversary of our democracy. I would -- I think that would be wonderful. And I would love for the artists that canceled on the America 250 not to have done that and to see beyond whatever partisan politics are happening now in this -- in this time.",
+      "cn": "Dengar, saya sangat berharap kita bisa merayakan pembukaan Perpustakaan Obama dan juga momen bersejarah peringatan 250 tahun berdirinya demokrasi kita. Saya berharap -- -- saya pikir itu akan luar biasa. Saya juga berharap para seniman yang membatalkan partisipasi dalam acara 'America 250' tidak melakukannya, dan bisa melampaui perselisihan politik partisan saat ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Do you think they would have done that if it was the America 250 bipartisan organization that had been approved by Congress versus Freedom 250, the Trump administration's secondary organization that people have accused of politicizing the 250 event?",
+      "cn": "Apakah Anda pikir, jika 'America 250' adalah organisasi bipartisan yang disetujui Kongres, bukan sub-organisasi 'Freedom 250' yang dituduh mempolitisasi perayaan 250 tahun oleh pemerintahan Trump, mereka akan tetap melakukannya?"
+    },
+    {
+      "speaker": "Hays",
+      "text": "So, I'm not exactly sure people know the difference and the nuances.",
+      "cn": "Jadi, saya tidak terlalu yakin orang-orang memahami perbedaan dan nuansanya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But the artists knew because they could back out.",
+      "cn": "Tapi para seniman tahu, karena mereka bisa mundur."
+    },
+    {
+      "speaker": "Hays",
+      "text": "But I feel that's like a very like D.C. bubble, nuanced conversation. But I do think that people don't want to be up on stage with Donald Trump, who you never know what he's going to say, you don't know what his cabinet is going to say, you don't know what the people who support him are going to say, and they run the risk.",
+      "cn": "Tapi saya pikir ini sangat mirip dengan percakapan rumit di lingkaran Washington. Namun, saya benar-benar berpikir orang tidak ingin berada di panggung yang sama dengan Donald Trump, karena Anda tidak pernah tahu apa yang akan dia katakan, apa yang akan dikatakan kabinetnya, apa yang akan dikatakan para pendukungnya, mereka mengambil risiko."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But, I mean, Martina McBride said, this is more political than we thought it would be.",
+      "cn": "Ya. Tapi maksud saya, Martina McBride mengatakan ini lebih politis dari yang kita kira."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, that was very clear.",
+      "cn": "Jadi, itu sangat jelas."
+    },
+    {
+      "speaker": "Hays",
+      "text": "And they don't know what he's going to say. And they don't believe in what he's saying. And I -- just like with most of the country doesn't believe in what he has to say. So, they don't want to be there supporting it.",
+      "cn": "Dan mereka tidak tahu apa yang akan dia katakan. Mereka juga tidak percaya apa yang dia katakan. Saya -- -- seperti kebanyakan orang Amerika tidak percaya apa yang dia katakan. Jadi, mereka tidak ingin berada di sana untuk mendukungnya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Well, in the meantime, for the people who might want to watch the opening of this library, CNN is doing massive, special live coverage of the event. It's going to start at 11 a.m. Eastern. You can watch that here. 11:30 Eastern. And you can watch that here or on the CNN app. Next on CNN THIS MORNING, Vice President Vance has become the face of the Iran deal. So, is Vance becoming the closer or the fall guy? Plus.",
+      "cn": "Baik. Sementara itu, bagi Anda yang mungkin ingin menonton upacara pembukaan perpustakaan ini, CNN melakukan liputan langsung besar-besaran. Mulai pukul 11:00 Waktu Timur. Anda bisa menontonnya di sini. Pukul 11:30 Waktu Timur. Anda bisa menontonnya di sini atau di aplikasi CNN. Selanjutnya di CNN This Morning, Wakil Presiden Vance telah menjadi tokoh dalam kesepakatan Iran. Jadi, apakah Vance menjadi pemutus atau kambing hitam? Selain itu."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "And I've known him for 30 -- for 30 years, and I'm very proud to bring the team to the White House.",
+      "cn": "Saya mengenalnya selama 30 tahun, dan saya bangga memimpin tim ke Gedung Putih."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, Knicks owner James Dolan says he is going to the White House. The big question is whether the team will follow.",
+      "cn": "Jadi, pemilik New York Knicks, James Dolan, mengatakan dia akan pergi ke Gedung Putih. Pertanyaan besarnya adalah apakah tim akan mengikutinya."
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "If it works, then I'm going to take the credit. If it doesn't work out, I'm blaming J.D. You better be careful, J.D. He's going to turn his plane around and get the hell out of here. Yes, I like that idea.",
+      "cn": "Jika berhasil, saya akan mengambil pujian. Jika tidak, saya akan menyalahkan J.D. Kamu sebaiknya berhati-hati, J.D. Dia akan memutar balik pesawat dan segera pergi dari sini. Ya, saya suka ide ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that is President Trump saying essentially that J.D. Vance is the one to blame for whatever comes next after the proposed Iran deal. And conservative voices online agree. Erick Erickson writing this, quote, \"I see some people screaming about impeachment of the president over this deal. All that would do would be to put the architect of the deal into the Oval Office.\" Now, Vance, as we said, has become the face of at least selling this deal to the American people.",
+      "cn": "Baik, Presiden Trump pada dasarnya mengatakan bahwa jika sesuatu terjadi setelah kesepakatan Iran diajukan, J.D. Vance yang harus disalahkan. Suara-suara konservatif di internet juga setuju dengan ini. Eric Erickson menulis: \"Saya melihat beberapa orang menyerukan pemakzulan presiden karena kesepakatan ini. Melakukan itu hanya akan mengirim arsitek kesepakatan ke Oval Office.\" Seperti yang kami katakan, Vance setidaknya telah menjadi tokoh yang mewakili penjualan kesepakatan ini kepada rakyat Amerika."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He's been everywhere this week, countless shows, podcasts. He's talking about his new book, \"Communion,\" but also talking a lot about the proposal with Iran. Now, the person we haven't heard from quite as much, Marco Rubio, but he's been by the president's side in France for the G7 Summit. He even handed Trump the document to sign. So, how does this factor into, you know, a race for a potential MAGA successor? Group chat is back. I wanted to talk about this because there was so much made of J.D.",
+      "cn": "Dia muncul di mana-mana minggu ini, mengikuti banyak acara dan podcast. Dia berbicara tentang buku barunya \"Perjamuan Kudus\", tetapi juga banyak berbicara tentang proposal dengan Iran. Sekarang, kita tidak sering mendengar kabar Marco Rubio, tetapi dia selalu mendampingi presiden di Perancis untuk menghadiri KTT G7. Dia bahkan menyerahkan dokumen yang ditandatangani Trump. Jadi, bagaimana ini mempengaruhi persaingan calon penerus MAGA? Grup chat kembali lagi. Saya ingin membicarakan ini, karena ada banyak diskusi tentang peran J.D. Vance sebagai suara faksi isolasionis di partai."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Vance's role representing the voice of the isolationist wing of the party. And so, I guess the White House solution has been to make him not. To make him the face of something else. Here is J.D. Vance with Megyn Kelly. Go into the belly of the beast, right, to have a conversation about this. And she really put to him a lot of questions. But here's an example of something he talked about with her.",
+      "cn": "Jadi, saya pikir solusi Gedung Putih adalah membuatnya tidak lagi mewakili peran itu. Biarkan dia mewakili hal lain. Ini adalah percakapan J.D. Vance dengan Megyn Kelly. Masuk ke sarang harimau, kan, untuk membahas masalah ini. Dia memang menanyakan banyak pertanyaan padanya. Tapi ini adalah contoh yang dia bicarakan dengannya."
+    },
+    {
+      "speaker": "J.D. Vance",
+      "text": "I just don't think that people who are criticizing this, one, they're not actually dealing with the reality of what's in it. And number two, they don't have an alternative. The benefits of the bargain only accrue again if Iran actually complies. We're not talking about rewarding words, we're talking about changing the way that we deal with Iran based on their actions. We've cut what is fundamentally a good deal for the American people, assuming the Iranians follow through.",
+      "cn": "Saya hanya berpikir bahwa mereka yang mengkritik kesepakatan ini, pertama, mereka sebenarnya tidak menangani realitas dalam kesepakatan. Kedua, mereka tidak punya alternatif. Hanya jika Iran benar-benar mematuhi kesepakatan, manfaat kesepakatan akan terakumulasi lagi. Kami tidak berbicara tentang memberi penghargaan pada retorika, kami berbicara tentang mengubah cara kami berurusan dengan Iran berdasarkan tindakan mereka. Kami mencapai kesepakatan yang pada dasarnya baik bagi rakyat Amerika, asalkan Iran menepati janji."
+    },
+    {
+      "speaker": "J.D. Vance",
+      "text": "And if they don't follow through, there's no skin off our back. Nothing changes from where we are right now.",
+      "cn": "Jika mereka tidak menepati, kami tidak rugi apa-apa. Status quo tidak berubah sama sekali."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Sorry about that. That was him on a bunch of different shows. But what's interesting is, usually the interviewer is saying, this person is responding badly, this person is responding badly, and they're talking about Republicans. I'm not seeing Vance spending a lot of time beating back Democratic criticism.",
+      "cn": "Maaf. Itu adalah pernyataannya di beberapa acara berbeda. Tapi yang menarik adalah, biasanya pewawancara akan mengatakan, orang ini bereaksi buruk, orang itu bereaksi buruk, mereka berbicara tentang Partai Republik. Saya tidak melihat Vance banyak menghabiskan waktu untuk membalas kritik dari Demokrat."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "So, timing is everything in politics. And the vice president had the unfortunate timing issue of releasing a book and booking -- pre-booking all of these shows prior to the memorandum of understanding that got signed or didn't get signed on Sunday. I can't remember where we are with that one right now. So, that's part of the problem for him. He was set up for these.",
+      "cn": "Jadi, dalam politik, waktu adalah segalanya. Wakil presiden mengalami masalah waktu yang tidak menguntungkan: sebelum nota kesepahaman ditandatangani atau tidak pada hari Minggu, dia merilis buku dan memesan semua acara ini terlebih dahulu. Saya tidak ingat bagaimana perkembangan kesepakatan itu sekarang. Jadi, ini adalah sebagian masalah yang dia hadapi. Dia sudah menjadwalkan acara-acara ini jauh-jauh hari."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But he is talking about -- you know, he's the czar of fraud. I didn't hear about that.",
+      "cn": "Tapi dia sedang membicarakan --  -- Anda tahu, dia adalah tsar penipuan. Saya belum pernah mendengar itu."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "He could have been, except that he's probably responding to the questions that he's getting from responsible reporters who have the vice president of the United States on their stage, pre-booked for his book tour and asking him questions --",
+      "cn": "Dia bisa saja, tapi dia mungkin hanya menjawab pertanyaan dari wartawan bertanggung jawab yang menaikkan wakil presiden AS ke panggung mereka, yang telah menjadwalkan tur promosi buku barunya, dan mengajukan pertanyaan kepadanya --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And because the administration has said he helped make the deal.",
+      "cn": "Karena pemerintah mengatakan dia membantu mencapai kesepakatan."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Yes. It was very interesting yesterday. And I watched the full press conference with the president as Peter Doocy was the one that asked that question about J.D. Vance.",
+      "cn": "Ya. Kemarin sangat menarik. Saya menonton konferensi pers presiden dari awal hingga akhir, Peter Doocy menanyakan pertanyaan tentang J.D. Vance."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "That was his second question. And I felt like there was a little bit of a setup there.",
+      "cn": "Itu pertanyaan keduanya. Saya merasa ini agak seperti sudah diatur sebelumnya."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Like, why did the president go back to Peter --",
+      "cn": "Misalnya, mengapa presiden kembali kepada Peter --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "At the very end of the press conference to get that question? That was --",
+      "cn": "Baru menanyakan pertanyaan itu di akhir konferensi pers? Ini --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, you're not beating the allegations here of saying that the White House is setting him up. Meghan, am I hearing something in this messaging?",
+      "cn": "Yah, dengan mengatakan itu kamu tidak bisa membersihkan tuduhan bahwa Gedung Putih menjebaknya. Megyn, apakah saya mendengar nada tertentu?"
+    },
+    {
+      "speaker": "I -- Hays",
+      "text": "I mean, is anyone really going to think that J.D. Vance was really in charge of this? I mean, I think that --",
+      "cn": "Maksud saya, apakah benar-benar ada yang berpikir J.D. Vance yang bertanggung jawab atas semua ini? Saya rasa --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, well, by the time this week is done, maybe.",
+      "cn": "Oh, tunggu sampai akhir minggu ini, mungkin."
+    },
+    {
+      "speaker": "Hays",
+      "text": "I mean, I think that this is like --",
+      "cn": "Maksud saya, ini seperti --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Well, that's the -- maybe the point.",
+      "cn": "Hmm, mungkin itu intinya."
+    },
+    {
+      "speaker": "Hays",
+      "text": "Are we just trying to hide that Jared Kushner was actually the one negotiating this deal, who does not work for the United States government? But, I mean, I just think that maybe Marco Rubio will end up better when he's trying to run for president. But I don't -- I don't think that Donald Trump cares who gets blamed as long as it's not him. But I don't think the American people are that stupid to realize their gas prices went up because we went into a war of choice by Donald Trump.",
+      "cn": "Apakah kita mencoba menutupi fakta bahwa sebenarnya Jared Kushner yang menegosiasikan kesepakatan ini, dan dia tidak bekerja untuk pemerintah AS? Tapi saya rasa, mungkin Marco Rubio akan lebih baik jika mencalonkan diri sebagai presiden. Namun saya tidak berpikir Donald Trump peduli siapa yang disalahkan, asalkan bukan dia. Tapi saya tidak berpikir rakyat Amerika cukup bodoh untuk tidak menyadari bahwa harga minyak mereka naik karena kita terlibat dalam perang yang tidak perlu yang dimulai oleh Donald Trump."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Does that make a difference? As she said, we didn't see anyone connected to Trump. The people he really trusts. I'm just saying that in the way that, like, Rubio is not the one going out defending this over and over again. Jared Kushner, as you mentioned, not a paid government employee, happily sent all over the world to negotiate on behalf of the U.S., also not out talking about this. Is it just happenstance because J.D. Vance has a book? WU: Yes, it is kind of remarkable.",
+      "cn": "Apakah ada perbedaan? Seperti yang dia katakan, kami tidak melihat siapa pun yang terkait dengan Trump. Mereka yang benar-benar dia percayai. Saya hanya ingin mengatakan, seperti Rubio tidak berulang kali tampil membela ini. Jared Kushner yang Anda sebutkan, meskipun bukan pegawai pemerintah yang digaji, dengan senang hati dikirim ke seluruh dunia untuk mewakili AS dalam negosiasi, dia juga tidak muncul untuk membicarakan ini. Hanya karena J.D. Vance punya buku? Wu: Ya, ini memang agak mencolok."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I mean the vice president, in many ways it would be deputized to carry out the presidents message, right? This is, you know, the president's agenda.",
+      "cn": "Maksud saya, wakil presiden dalam banyak hal akan diberi wewenang untuk menyampaikan pesan presiden, kan? Itu adalah agenda presiden."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So you're saying, this is the gig? WU: This is the gig.",
+      "cn": "Jadi maksudmu, ini tugasnya? Wu: Ini tugasnya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. WU: This is the, you know, the job you get handed, whether you want it or not. We see this with vice presidents all the time. And for Vance it's extremely high risk.",
+      "cn": "Ya. Wu: Ini tugas yang kamu terima, mau tidak mau. Kita sering melihat ini pada Wakil Presiden. Bagi Vance, risikonya sangat tinggi."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Right. Kamala being border czar. WU: Exactly.",
+      "cn": "Betul. Seperti Harris yang menjabat sebagai kepala urusan perbatasan. Wu: Tepat."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. WU: Like she got, you know, she famously talked about how she didn't really want that. And yet, you know, she got that name. And so, with Vance, it's very high risk, high reward here. If they manage to actually pull this off, you know, he can settle a lot of the critics on the right who, you know, see him as maybe not as much in Trump's mold. And if he fails, you know, that that could also very much harm his chances in the future.",
+      "cn": "Ya. Wu: Seperti dia, kamu tahu, dia pernah terkenal karena mengatakan bahwa dia sebenarnya tidak menginginkan posisi itu. Namun, dia tetap mendapatkan gelar itu. Jadi bagi Vance, ini adalah risiko tinggi dengan imbalan tinggi. Jika mereka benar-benar berhasil, dia bisa meredam banyak kritikus sayap kanan yang mungkin menganggapnya kurang sesuai dengan pola Trump. Dan jika dia gagal, itu juga bisa merusak peluang masa depannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. I want to talk about something else now because basically the Knicks were invited to be at the White House, ticker tape parade today. We're going to be talking about all the fans jamming the city streets. But after that, that trip to the White House, it's kind of a question mark. Now, Knicks owner, James Dolan, he's a longtime Trump supporter. He's confirmed that the president has issued a formal invitation.",
+      "cn": "Baik. Sekarang saya ingin membicarakan hal lain, karena hari ini Knicks diundang ke Gedung Putih untuk parade pita. Kita akan membahas semua penggemar yang memadati jalan-jalan kota. Tapi setelah itu, perjalanan ke Gedung Putih masih tanda tanya. Sekarang, pemilik Knicks James Dolan, dia adalah pendukung lama Trump. Dia mengonfirmasi bahwa presiden telah mengirimkan undangan resmi."
+    },
+    {
+      "speaker": "James Dolan",
+      "text": "We just did receive an invitation from --",
+      "cn": "Kami baru saja menerima undangan -- --"
+    },
+    {
+      "speaker": "Dolan",
+      "text": "From the White House, which we accepted. We still have to figure out the details, et cetera, but, you know -- yes, of course. I mean, you know, look, I invited the president to come --",
+      "cn": "Dari Gedung Putih, dan kami menerimanya. Kami masih perlu menentukan detailnya dan sebagainya, tapi, kamu tahu -- -- ya, tentu. Maksudku, lihat, saya mengundang presiden untuk -- --"
+    },
+    {
+      "speaker": "Dolan",
+      "text": "To come down for the game, right? He is a friend. I've known him for 30 -- for 30 years. And I'm very proud to bring the team to the White House.",
+      "cn": "Menonton pertandingan, kan? Dia adalah teman saya. Saya mengenalnya selama 30 tahun. Saya bangga bisa membawa tim ke Gedung Putih."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, it's not clear whether all the Knicks players are going to be there, and it's not unusual for NBA players to boycott the White House. The Golden State Warriors did it following their 2017 and 2018 NBA championships. The group chat is back. This is such a week for politics and sports, you know what I mean? We started with this like octagon on the front lawn.",
+      "cn": "Belum jelas apakah semua pemain Knicks akan hadir, boikot pemain NBA terhadap kunjungan ke Gedung Putih bukanlah hal yang aneh. Golden State Warriors melakukannya setelah memenangkan gelar NBA pada 2017 dan 2018. Group chat kembali. Minggu ini benar-benar minggu di mana politik dan olahraga saling terkait, kamu tahu maksudku? Kita mulai dari segi delapan di halaman Gedung Putih."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We're -- and now, so here's the thing. You can do this kind of thing. It depends on where your fans are, right? It's not Kansas City, more red base NFL. It's not NHL, players from other countries, cool to go to the White House. It's the NBA, which basically Trump has had an antagonistic relationship with black athletes for a long time. So, do you think the Knicks are going to show to this?",
+      "cn": "Sekarang, begini. Kamu bisa melakukan hal seperti ini, tergantung di mana penggemarmu, kan? Ini bukan Kansas City, yang merupakan basis merah NFL. Ini bukan NHL, di mana pemainnya berasal dari negara lain, pergi ke Gedung Putih itu keren. Ini NBA, Trump pada dasarnya memiliki hubungan permusuhan jangka panjang dengan atlet kulit hitam. Jadi, menurutmu Knicks akan hadir?"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I hope so. I mean, this, for me, this goes back to what I was saying about the presidential libraries. I think they're a great celebration for all Americans. I think going to the White House as a champion of your league is a great tradition that we have in this country. And so, I'm hopeful that everyone looks beyond whatever their partisan politics may be at the time and they go to the White House for that celebration.",
+      "cn": "Saya harap begitu. Maksudku, bagi saya, ini kembali ke apa yang saya katakan sebelumnya tentang perpustakaan kepresidenan. Saya pikir itu adalah perayaan yang luar biasa bagi semua orang Amerika. Saya pikir pergi ke Gedung Putih sebagai juara liga adalah tradisi besar negara kita. Jadi, saya berharap semua orang bisa melampaui politik partisan saat itu dan pergi ke Gedung Putih untuk merayakannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Meghan, I want you to jump in. But, Mike, can you just answer one extra question I have to ask, just because you've worked in this White House. No, you've worked in this White House.",
+      "cn": "Megan, saya ingin kamu bergabung dalam diskusi. Tapi, Mike, bisakah kamu menjawab satu pertanyaan tambahan? Karena kamu bekerja di Gedung Putih ini. Tidak, kamu bekerja di Gedung Putih ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Is any Trump event a nonpolitical event? That has not proven to be the case, to my mind, just covering --",
+      "cn": "Apakah setiap acara Trump bersifat non-politis? Sejauh yang saya tahu, tidak demikian, hanya melaporkan -- --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "You're asking this question of a Bills' fan who protested the Patriots coming to the White House when I was there. I took as many tickets as I could so that there were empty seats for the celebration of that team.",
+      "cn": "Kamu bertanya pada penggemar Bills yang pernah memprotes kunjungan Patriots saat saya di Gedung Putih. Saya mengambil tiket sebanyak mungkin sehingga akan ada kursi kosong saat merayakan tim itu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Yes. Not the (INAUDIBLE) you think it is.",
+      "cn": "Ya. Ya. Bukan seperti yang kamu pikirkan (tidak jelas)."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "So, I also have been playing partisan politics with teams coming to the White House.",
+      "cn": "Jadi, saya juga telah bermain politik partisan dengan tim yang mengunjungi Gedung Putih."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Actually terrifying. And I will have the Boston fans -- let's just zoom in on Mike's face for a second there. Let's just be absolutely clear. This is Mike.",
+      "cn": "Ya. Sebenarnya menakutkan. Saya akan membiarkan penggemar Boston -- -- Mari kita perbesar wajah Mike. Mari kita perjelas. Ini Mike."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "You can send me all the hate mail you want, Boston. Go for it because --",
+      "cn": "Kamu bisa mengirimiku semua surat kebencian yang kamu mau, Boston. Ayo, karena -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. The other thing, Donald Trump and James Dolan, who's the owner of Madison Square Garden, they are collaborating on an $8 billion redevelopment deal of Penn Station. As always, there's a financial relationship.",
+      "cn": "Baik. Hal lainnya adalah, Donald Trump dan pemilik Madison Square Garden James Dolan sedang bekerja sama dalam proyek rekonstruksi Stasiun Pennsylvania senilai $8 miliar. Seperti biasa, ada hubungan finansial di dalamnya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, yes, Dolan says they are friends. And I'm not saying Penn Station doesn't need the overhaul. But this design, of course, includes a presidential seal and Trump's name etched on an interior wall.",
+      "cn": "Jadi, ya, Dolan bilang mereka berteman. Saya tidak mengatakan Stasiun Pennsylvania tidak perlu renovasi total. Tapi desainnya tentu saja menyertakan cap presiden dan nama Trump yang terukir di dinding interior."
+    },
+    {
+      "speaker": "Hays",
+      "text": "Yes, of course. I mean this is always going to -- there's always some sort of side hustle going on with the Trumps. But I also think what the Knicks players are going to do is look at what happened with the Giants when the quarterback came and introduced Trump and the backlash that he got and the controversy it caused within the team.",
+      "cn": "Ya, tentu. Maksudku, ini selalu -- -- Keluarga Trump akan selalu pun semacam bisnis sampingan. Tapi saya juga berpikir pemain Knicks akan melihat apa yang terjadi sebelumnya dengan Giants, ketika quarterback memperkenalkan Trump, dia mendapat reaksi keras dan menimbulkan kontroversi di dalam tim."
+    },
+    {
+      "speaker": "Hays",
+      "text": "And I think they're going to look long and hard whether or not they want to be placed in that situation because of whatever Donald Trump could or could not say at their celebration and think if they want to be made the puppets. I don't know that -- I don't know what their political views are. I have no idea. But I do think that we just saw this with the Giants in New York, and the Knicks are going to look long and hard if they want to be a part of it.",
+      "cn": "Saya pikir mereka akan mempertimbangkan dengan hati-hati apakah mereka ingin ditempatkan dalam situasi itu, karena apa yang mungkin atau tidak mungkin dikatakan Donald Trump pada perayaan mereka, dan memikirkan apakah mereka ingin menjadi boneka. Saya tidak tahu -- -- Saya tidak tahu pandangan politik mereka. Saya sama sekali tidak tahu. Tapi saya rasa kita baru saja melihat ini pada New York Giants, dan Knicks akan mempertimbangkan dengan hati-hati apakah mereka ingin terlibat."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And it's also complicated by Trump showing up at that game.",
+      "cn": "Ya. Dan kehadiran Trump di pertandingan itu juga mempersulit keadaan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And incensing the entire Knicks nation all at once. So, it's almost not a typical conversation.",
+      "cn": "Dan langsung membuat marah seluruh Knicks Nation. Jadi, ini hampir bukan percakapan biasa."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You have a president who has a deep relationship with New York, who has actually legitimately pissed off the entire city. And so, the Knicks, I don't know if they'll -- would really pay a price for not showing up. WU: Probably not. I mean the -- look at the celebrations that we're going to see today with the parade.",
+      "cn": "Anda memiliki seorang presiden yang memiliki hubungan dekat dengan New York, yang sebenarnya telah membuat marah seluruh kota. Jadi, Knicks, saya tidak tahu apakah mereka akan -- -- benar-benar membayar harga karena tidak hadir. Wu: Mungkin tidak. Maksud saya, lihatlah perayaan yang akan kita lihat dalam pawai hari ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me show -- let me show. WU: Yes.",
+      "cn": "Biarkan saya menunjukkan -- -- biarkan saya menunjukkan. Wu: Oke."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Even \"The New York Post\" has managed to say something nice. It's the \"Knick York Post.\" I see what you did there. It feels like people are loving them too much. Can they do no wrong, though? WU: Yes. I mean, I think, you know, your average sports fan probably doesn't pay that much attention to exactly which player shows up at the White House and, you know, how that all goes down. So, you know, this might not be (INAUDIBLE) for them.",
+      "cn": "Bahkan New York Post berhasil mengatakan sesuatu yang baik. Ini \"Nicks Post\". Saya mengerti maksud Anda. Rasanya orang-orang terlalu mencintai mereka. Tapi, bisakah mereka tidak melakukan kesalahan? Wu: Ya. Maksud saya, saya pikir, Anda tahu, penggemar olahraga biasa mungkin tidak terlalu memperhatikan pemain mana yang muncul di Gedung Putih, dan bagaimana semuanya berjalan. Jadi, Anda tahu, itu mungkin tidak penting bagi mereka."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, look at how many people are showing up for the parade. I mean, they're into it. Well, one thing I want to say before we get to group chats is, thanks to the players union, they are not required, nor can they be compelled, to go to events that are political in nature. So, they do have a choice and Dolan cannot force them.",
+      "cn": "Ya, lihat berapa banyak orang yang ikut pawai. Maksud saya, mereka sangat antusias. Oke, sebelum kita masuk ke obrolan grup, saya ingin mengatakan satu hal, terima kasih kepada serikat pemain, mereka tidak perlu, dan tidak bisa dipaksa untuk berpartisipasi dalam kegiatan yang bersifat politis. Jadi, mereka memang punya pilihan, Dolan tidak bisa memaksa mereka."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Nic, since you are new here, you want to tell me what's in your group chat? What's in your phone? WU: My group chats this week, we're very concerned about what's going on with all the flight delays here with America 250. Like, my friends were trying to move around what they're going to do.",
+      "cn": "Nick, karena Anda baru, maukah Anda memberi tahu saya apa yang sedang dibicarakan di obrolan grup Anda? Apa yang ada di ponsel Anda? Wu: Minggu ini obrolan grup kami sangat fokus pada penundaan penerbangan akibat perayaan 250 tahun Amerika Serikat. Misalnya, teman-teman saya sedang menyesuaikan rencana mereka."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh. And apparently July 3rd and 4th, there may be a shutdown of some airspace, is that correct? WU: Yes, DCA is going to be closed for a part of July 4th because of all the flyovers. And, you know, many other -- DCA announced that many other days over the next few months will be affected. And so --",
+      "cn": "Oh. Rupanya pada 3 dan 4 Juli mungkin ada penutupan sebagian wilayah udara, benarkah? Wu: Ya, karena pertunjukan udara, Bandara Reagan National akan ditutup sebagian pada 4 Juli. Dan bandara itu mengumumkan hari-hari lain dalam beberapa bulan ke depan juga akan terpengaruh. Jadi -- --"
+    },
+    {
+      "speaker": "Hays",
+      "text": "At least they gave us a warning this time.",
+      "cn": "Setidaknya kali ini mereka memberi kita peringatan sebelumnya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, so they -- enter (ph) nice.",
+      "cn": "Ya, jadi mereka -- -- tidak buruk."
+    },
+    {
+      "speaker": "Hays",
+      "text": "They didn't -- they didn't -- they did not Saturday, last weekend. So, that's at least nice.",
+      "cn": "Mereka tidak melakukan itu pada hari Sabtu lalu. Jadi setidaknya kali ini tidak buruk."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Well, last Saturday was -- yes.",
+      "cn": "Hmm, hari Sabtu lalu memang -- -- ya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. What about you guys?",
+      "cn": "Oke. Kalian bagaimana?"
+    },
+    {
+      "speaker": "Hays",
+      "text": "My group chat is obviously \"Summer House.\" We are -- we got to the aftermath of the episode.",
+      "cn": "Obrolan grup saya jelas sedang membicarakan Summer House. Kami -- -- kami baru saja selesai menonton episode lanjutannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "How are you still talking about \"Summer House.\"",
+      "cn": "Kenapa kalian masih membicarakan Summer House?"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Because there was an epihouse (ph) -- an episode on Tuesday and they've released that West (ph) is not coming back to the -- to the Summer House\" for filming.",
+      "cn": "Karena ada episode pada hari Selasa, dan mereka mengumumkan bahwa West tidak akan kembali untuk syuting Summer House."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, yes. So, for the people who don't know, this is the man at the heart of a love triangle that you don't want to know about but do.",
+      "cn": "Oh, ya. Jadi, bagi yang belum tahu, ini adalah inti dari segitiga cinta yang tidak ingin Anda ketahui tetapi tidak bisa menahan diri untuk tidak mengetahuinya."
+    },
+    {
+      "speaker": "Hays",
+      "text": "It's -- I mean, it's incredible but it is now over so we can move on to another Bravo show next week.",
+      "cn": "Ini -- -- maksud saya, ini luar biasa, tapi sekarang sudah berakhir, jadi minggu depan kita bisa melanjutkan menonton acara Bravo lainnya."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Is there -- is there a full house and a winter house?",
+      "cn": "Apakah ada -- -- apakah ada Full House dan Winter House?"
+    },
+    {
+      "speaker": "Hays",
+      "text": "So, there used to be a winter house where they (INAUDIBLE).",
+      "cn": "Jadi, dulu ada Winter House, mereka (tidak terdengar)."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, my God. Winter house.",
+      "cn": "Ya ampun. Winter House."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "There was a winter house.",
+      "cn": "Dulu ada Winter House."
+    },
+    {
+      "speaker": "Hays",
+      "text": "There was a winter house and they like combined some of the different shows.",
+      "cn": "Dulu ada Winter House, mereka sepertinya menggabungkan beberapa acara yang berbeda."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That was called \"The Shining.\"",
+      "cn": "Itu namanya The Shining."
+    },
+    {
+      "speaker": "Ok. Ok. Dubke",
+      "text": "No, I think so. Look, I was trying to -- and Meghan says I've already talked about this before, but I -- live events seem to be where people are coming back together.",
+      "cn": "Tidak, saya pikir begitu. Dengar, saya mencoba -- -- Megan bilang saya sudah membicarakan ini sebelumnya, tapi saya -- -- acara langsung sepertinya menjadi tempat orang berkumpul kembali."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Big, you know --",
+      "cn": "Ya. Besar, Anda tahu -- --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "From the New York Knicks celebration --",
+      "cn": "Dimulai dari perayaan New York Knicks --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "To, I will give the Carolina Hurricanes their kudos for winning the Stanley Cup.",
+      "cn": "hingga saya harus memuji Carolina Hurricanes yang memenangkan Piala Stanley."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. It was amazing.",
+      "cn": "Ya, itu luar biasa."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I mean, and the World Cup in this massive -- the world is now looking at America because of the World Cup and these -- and these live events. And from concerts to everything else. This seems to be what is finally bringing people together. Now, it may be the ubiquitousness of cameras everywhere, but even news. Everything is live and we're reacting to everything in real time.",
+      "cn": "Maksud saya, ada juga Piala Dunia, di dunia yang besar ini -- sekarang dunia sedang memperhatikan Amerika karena Piala Dunia dan acara-acara langsung ini. Dari konser hingga segalanya. Ini sepertinya akhirnya menyatukan orang-orang. Sekarang, mungkin karena kamera di mana-mana, tetapi bahkan berita. Semuanya langsung, kita bereaksi terhadap semuanya secara real-time."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "But now we're in that golden -- kind of golden age of that and I'm -- I think it's -- I think it's somehow bringing America closer together, regardless of what we've just talked about for the last hour.",
+      "cn": "Tapi sekarang kita berada di era keemasan itu, saya pikir ini -- saya pikir ini entah bagaimana membuat Amerika lebih bersatu, terlepas dari apa yang kita bicarakan selama satu jam ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. I thought the same thing about the Knicks after a very divisive mayor's race, seeing New Yorkers --",
+      "cn": "Ya. Setelah pemilihan walikota yang sangat memecah belah, saya juga merasakan hal yang sama tentang Knicks, melihat warga New York --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Instead of talking about who was leaving, who was left out, they actually really are, as we can see from the images, lining up together. And that was really amazing and a nice thing to say on a week like this.",
+      "cn": "bukannya membicarakan siapa yang pergi, siapa yang dikecualikan, mereka benar-benar, seperti yang kita lihat dari gambar, antre bersama. Ini sungguh luar biasa, mengatakan hal seperti itu di minggu seperti ini."
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Absolutely. WU: Yes.",
+      "cn": "Tentu. Wu: Ya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right, you guys, thank you so much for being here. Nic, thank you for joining the chat. We're still following all the news about the signing of the Iran deal. What's in the proposal and how the White House is talking about it. So, stay with us for these headlines. I'm Audie Cornish. You've got more news next. var CNN = CNN || {};",
+      "cn": "Baiklah, semuanya, terima kasih banyak telah datang. Nick, terima kasih telah bergabung dalam obrolan. Kami masih memantau semua berita tentang penandatanganan kesepakatan Iran. Isi proposal dan bagaimana Gedung Putih membicarakannya. Jadi, pantau terus berita utama ini. Saya Audie Cornish. Masih ada berita lainnya."
+    }
+  ]
+}
