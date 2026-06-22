@@ -1,0 +1,1404 @@
+{
+  "date": "2026-06-22",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-22/segment/01",
+  "summary": "នាយករដ្ឋមន្ត្រីអង់គ្លេស Keir Starmer ប្រកាសលាឈប់ពីតំណែង បន្ទាប់ពីគណបក្សពលករបរាជ័យយ៉ាងធ្ងន់ធ្ងរក្នុងការបោះឆ្នោតមូលដ្ឋាន សម្ពាធក្នុងគណបក្សបង្ខំឱ្យលាឈប់ អភិបាលក្រុង Manchester ឈ្មោះ Andy Burnham ត្រូវបានគេចាត់ទុកជាអ្នកស្នងតំណែងដ៏មានសក្តានុពល។ លោក Trump អះអាងថា អាងទឹក Lincoln Memorial ត្រូវបានបំផ្លាញដោយចេតនា មនុស្សជាច្រើនត្រូវបានចាប់ខ្លួន ប៉ុន្តែមិនមានភស្តុតាងទេ អ្នករិះគន់យល់ថាបញ្ហាកើតពីការជួសជុលបរាជ័យ។ ចំណុចលេចធ្លោនៃ World Cup៖ ប្រទេសតូចៗដូចជា Curaçao ធ្វើឱ្យភ្ញាក់ផ្អើល ការរួមបញ្ចូលវប្បធម៌ក្លាយជាចំណុចសំខាន់។",
+  "vocabulary": [
+    {
+      "word": "resignation",
+      "phonetic": "/ˌrezɪɡˈneɪʃən/",
+      "pos": "n.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការលាលែងពីតំណែង; លិខិតលាលែង",
+      "en": "an act of giving up a job or position",
+      "excerpt": "Keir Starmer says he is resigning.",
+      "example_cn": "Keir Starmer បាននិយាយថាគាត់នឹងលាលែងពីតំណែង។"
+    },
+    {
+      "word": "mounting pressure",
+      "phonetic": "/ˈmaʊntɪŋ ˈpreʃər/",
+      "pos": "n. phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "សម្ពាធកើនឡើង",
+      "en": "increasing or growing pressure",
+      "excerpt": "The British prime minister announcing his resignation in the last hour after mounting pressure to step aside.",
+      "example_cn": "នាយករដ្ឋមន្ត្រីអង់គ្លេសបានប្រកាសលាលែងនៅម៉ោងចុងក្រោយ បន្ទាប់ពីប្រឈមមុខនឹងសម្ពាធកើនឡើងឱ្យលាលែង។"
+    },
+    {
+      "word": "step aside",
+      "phonetic": "/step əˈsaɪd/",
+      "pos": "v. phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "ចុះចេញ; លាលែងពីតំណែង",
+      "en": "to resign from a position or allow someone else to take over",
+      "excerpt": "mounting pressure to step aside.",
+      "example_cn": "សម្ពាធកើនឡើងឱ្យលាលែង។"
+    },
+    {
+      "word": "clinching factor",
+      "phonetic": "/ˈklɪntʃɪŋ ˈfæktər/",
+      "pos": "n. phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "កត្តាសម្រេចចិត្ត",
+      "en": "the decisive or conclusive factor",
+      "excerpt": "the clinching factor for this, Audie, after months of difficulties",
+      "example_cn": "Audie បន្ទាប់ពីខែនៃការលំបាក កត្តាសម្រេចចិត្តគឺ..."
+    },
+    {
+      "word": "local elections",
+      "phonetic": "/ˈloʊkəl ɪˈlekʃənz/",
+      "pos": "n. phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · មូលដ្ឋាន",
+      "cn": "ការបោះឆ្នោតក្នុងតំបន់",
+      "en": "elections for local government positions",
+      "excerpt": "we had local elections across the U.K. in various parts in May",
+      "example_cn": "យើងបានធ្វើការបោះឆ្នោតក្នុងតំបន់នៅទូទាំងចក្រភពអង់គ្លេសក្នុងខែឧសភា។"
+    },
+    {
+      "word": "surge",
+      "phonetic": "/sɜːrdʒ/",
+      "pos": "v.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "កើនឡើងយ៉ាងខ្លាំង; កើនឡើងភ្លាមៗ",
+      "en": "to increase suddenly and strongly",
+      "excerpt": "the right-wing populist Reform Party, led by Nigel Farage, surge.",
+      "example_cn": "ការគាំទ្រសម្រាប់គណបក្សកំណែទម្រង់ស្តាំនិយមប្រជានិយមរបស់លោក Nigel Farage បានកើនឡើងយ៉ាងខ្លាំង។"
+    },
+    {
+      "word": "wake-up call",
+      "phonetic": "/ˈweɪk ʌp kɔːl/",
+      "pos": "n. phrase",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "កណ្តឹងរោទិ៍; ការព្រមាន",
+      "en": "an event that warns someone to take action",
+      "excerpt": "That was a real wake-up call.",
+      "example_cn": "នោះជាកណ្តឹងរោទិ៍ពិតប្រាកដ។"
+    },
+    {
+      "word": "on the flip side",
+      "phonetic": "/ɒn ðə flɪp saɪd/",
+      "pos": "adv. phrase",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · កម្រិតខ្ពស់",
+      "cn": "ម្យ៉ាងវិញទៀត",
+      "en": "on the other hand; conversely",
+      "excerpt": "But on the flip side, we also have this issue where Andy Burnham...",
+      "example_cn": "ប៉ុន្តែម្យ៉ាងវិញទៀត យើងមានបញ្ហារបស់លោក Andy Burnham..."
+    },
+    {
+      "word": "special election",
+      "phonetic": "/ˈspeʃəl ɪˈlekʃən/",
+      "pos": "n. phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការបោះឆ្នោតពិសេស",
+      "en": "an election held to fill a vacancy that occurs between regular elections",
+      "excerpt": "There was a special election that was held in the Northwest of England last week",
+      "example_cn": "កាលពីសប្តាហ៍មុន មានការបោះឆ្នោតពិសេសមួយនៅភាគពាយ័ព្យនៃប្រទេសអង់គ្លេស។"
+    },
+    {
+      "word": "coalesce",
+      "phonetic": "/ˌkoʊəˈles/",
+      "pos": "v.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "រួមគ្នា; បញ្ចូលគ្នា",
+      "en": "to come together to form one group or mass",
+      "excerpt": "it all coalesced around this point.",
+      "example_cn": "កត្តាទាំងអស់ប្រមូលផ្តុំជុំវិញចំណុចនេះ។"
+    },
+    {
+      "word": "orderly handover",
+      "phonetic": "/ˈɔːrdərli ˈhændoʊvər/",
+      "pos": "n. phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតមធ្យម",
+      "cn": "ការផ្ទេរអំណាចដោយរលូន",
+      "en": "a smooth and organized transfer of power or responsibility",
+      "excerpt": "I will do everything I can to ensure an orderly handover of power.",
+      "example_cn": "ខ្ញុំនឹងខិតខំប្រឹងប្រែងអស់ពីសមត្ថភាពដើម្បីធានាការផ្ទេរអំណាចដោយរលូន។"
+    },
+    {
+      "word": "unequivocal support",
+      "phonetic": "/ˌʌnɪˈkwɪvəkəl səˈpɔːrt/",
+      "pos": "n. phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "ការគាំទ្រយ៉ាងច្បាស់លាស់",
+      "en": "clear and unambiguous support",
+      "excerpt": "I will also give my successor my full and unequivocal support",
+      "example_cn": "ខ្ញុំក៏នឹងផ្តល់ការគាំទ្រយ៉ាងពេញលេញ និងច្បាស់លាស់ដល់អ្នកស្នងតំណែងរបស់ខ្ញុំផងដែរ។"
+    },
+    {
+      "word": "third time's the charm",
+      "phonetic": "/θɜːrd taɪmz ðə tʃɑːrm/",
+      "pos": "idiom",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · កម្រិតមធ្យម",
+      "cn": "សំណាងលើកទីបី; មិនលើសពីបីដង",
+      "en": "the third attempt is likely to succeed",
+      "excerpt": "Burnham, this will be basically third time's the charm",
+      "example_cn": "Burnham នេះជាលើកទីបីហើយដែលជាសំណាង។"
+    },
+    {
+      "word": "come out swinging",
+      "phonetic": "/kʌm aʊt ˈswɪŋɪŋ/",
+      "pos": "v. phrase",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · កម្រិតខ្ពស់",
+      "cn": "វាយប្រហារយ៉ាងខ្លាំង; វាយប្រហារដោយឥទ្ធិពល",
+      "en": "to attack or criticize aggressively",
+      "excerpt": "Farage has come out swinging today",
+      "example_cn": "Farage បានវាយប្រហារយ៉ាងខ្លាំងនៅថ្ងៃនេះ។"
+    },
+    {
+      "word": "mandate",
+      "phonetic": "/ˈmændeɪt/",
+      "pos": "n.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "អំណាច; អាណត្តិ",
+      "en": "the authority to act granted by voters",
+      "excerpt": "Andy Burnham doesn't ... have a mandate to lead.",
+      "example_cn": "Andy Burnham មិនមានអំណាចដឹកនាំទេ។"
+    },
+    {
+      "word": "vandalism",
+      "phonetic": "/ˈvændəlɪzəm/",
+      "pos": "n.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការបំផ្លាញទ្រព្យសម្បត្តិសាធារណៈដោយចេតនា",
+      "en": "the deliberate destruction of property",
+      "excerpt": "President Trump blames vandals for his Reflecting Pool problems.",
+      "example_cn": "ប្រធានាធិបតី Trump បានស្តីបន្ទោសបញ្ហាអាងទឹក Reflection Pool ទៅលើអ្នកបំផ្លាញ។"
+    },
+    {
+      "word": "citation",
+      "phonetic": "/saɪˈteɪʃən/",
+      "pos": "n.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ដីកាកោះហៅ; សំបុត្រពិន័យ",
+      "en": "an official summons or ticket for a minor offense",
+      "excerpt": "they issued citations to five others.",
+      "example_cn": "ពួកគេបានចេញដីកាកោះហៅទៅកាន់មនុស្សប្រាំនាក់ផ្សេងទៀត។"
+    },
+    {
+      "word": "rehabilitation project",
+      "phonetic": "/ˌriːhəˌbɪlɪˈteɪʃən ˈprɒdʒekt/",
+      "pos": "n. phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សង្គម និងជីវភាពប្រជាជន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "គម្រោងជួសជុល",
+      "en": "a project to restore something to good condition",
+      "excerpt": "his $14 million rehabilitation project has failed",
+      "example_cn": "គម្រោងជួសជុលរបស់គាត់ដែលមានតម្លៃ 14 លានដុល្លារបានបរាជ័យ។"
+    },
+    {
+      "word": "riddled with",
+      "phonetic": "/ˈrɪdld wɪð/",
+      "pos": "adj. phrase",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · កម្រិតមធ្យម",
+      "cn": "ពោរពេញទៅដោយ (បញ្ហា ចន្លោះប្រហោង ។ល។)",
+      "en": "full of (something unpleasant)",
+      "excerpt": "the water riddled with algae",
+      "example_cn": "ទឹកពោរពេញទៅដោយសារាយ។"
+    },
+    {
+      "word": "algae",
+      "phonetic": "/ˈældʒiː/",
+      "pos": "n.",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "បរិស្ថានគ្រោះមហន្តរាយ",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតមធ្យម",
+      "cn": "សារាយ",
+      "en": "simple plants that grow in water",
+      "excerpt": "the water riddled with algae",
+      "example_cn": "ទឹកពោរពេញទៅដោយសារាយ។"
+    },
+    {
+      "word": "prosecute to the full extent",
+      "phonetic": "/ˈprɒsɪkjuːt tuː ðə fʊl ɪkˈstent/",
+      "pos": "v. phrase",
+      "usage": "កន្សោមថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "កន្សោមថេរ · កម្រិតខ្ពស់",
+      "cn": "ដាក់ទណ្ឌកម្មយ៉ាងតឹងរ៉ឹងតាមច្បាប់",
+      "en": "to pursue legal action to the maximum degree allowed",
+      "excerpt": "These are cases that will be prosecuted to the full extent.",
+      "example_cn": "ករណីទាំងនេះនឹងត្រូវដាក់ទណ្ឌកម្មយ៉ាងតឹងរ៉ឹងតាមច្បាប់។"
+    },
+    {
+      "word": "spectacle",
+      "phonetic": "/ˈspektəkəl/",
+      "pos": "n.",
+      "usage": "ពាក្យប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "វប្បធម៌ និងកីឡា",
+      "level": "ពាក្យប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ទិដ្ឋភាពដ៏អស្ចារ្យ; ភាពអស្ចារ្យ",
+      "en": "a visually striking performance or display",
+      "excerpt": "the World Cup now a must-see spectacle both on and off the field.",
+      "example_cn": "ឥឡូវនេះ World Cup ក្លាយជាភាពអស្ចារ្យដែលត្រូវមើលទាំងក្នុងទីលាន និងក្រៅទីលាន។"
+    },
+    {
+      "word": "counterintuitive",
+      "phonetic": "/ˌkaʊntərɪnˈtjuːɪtɪv/",
+      "pos": "adj.",
+      "usage": "ពាក្យប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ផ្ទុយពីវិចារណញាណ",
+      "en": "contrary to what common sense would suggest",
+      "excerpt": "Is that smart or a counterintuitive strategy?",
+      "example_cn": "តើនេះជាការសម្រេចចិត្តដ៏ឈ្លាសវៃ ឬជាយុទ្ធសាស្ត្រដែលផ្ទុយពីសភាវគតិ?"
+    },
+    {
+      "word": "assert themselves",
+      "phonetic": "/əˈsɜːrt ðəmˈselvz/",
+      "pos": "v. phrase",
+      "usage": "កន្សោមថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "កន្សោមថេរ · កម្រិតខ្ពស់",
+      "cn": "បង្ហាញពីអំណាចខ្លួនឯង; រក្សាសិទ្ធិអំណាច",
+      "en": "to behave confidently and make others recognize their importance",
+      "excerpt": "it is a moment for reform to try to assert themselves.",
+      "example_cn": "នេះជាពេលវេលាដែលគណបក្សកំណែទម្រង់ព្យាយាមបង្ហាញពីអំណាចខ្លួនឯង។"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The British prime minister announcing his resignation in the last hour after mounting pressure to step aside.",
+      "cn": "នាយករដ្ឋមន្ត្រីអង់គ្លេសបានប្រកាសលាលែងពីតំណែងក្នុងរយៈពេលមួយម៉ោងចុងក្រោយ បន្ទាប់ពីប្រឈមមុខនឹងសម្ពាធកាន់តែខ្លាំងឲ្យដកខ្លួនចេញ។",
+      "structure": "ប្រយោគចម្បង៖ The British prime minister announcing his resignation in the last hour; កន្សោមពេលវេលា៖ after mounting pressure to step aside។",
+      "analysis": "ឃ្លាកិរិយាស័ព្ទបច្ចុប្បន្នកាលធ្វើជាទស្សន៍ទាយ បង្ហាញពីការកំពុងបន្ត; 'mounting pressure' ជាកន្សោមព័ត៌មានធម្មតា មានន័យថា 'សម្ពាធកើនឡើង'; 'step aside' ជាពាក្យសុភាពសម្រាប់ 'លាលែង'។"
+    },
+    {
+      "en": "The question my party is asking now is whether I am best placed to lead us into the next general election.",
+      "cn": "សំណួរដែលគណបក្សខ្ញុំកំពុងសួរឥឡូវនេះគឺថា តើខ្ញុំជាអ្នកដែលស្ថិតក្នុងទីតាំងល្អបំផុតដើម្បីដឹកនាំយើងចូលទៅកាន់ការបោះឆ្នោតសកលលើកក្រោយឬទេ?",
+      "structure": "ប្រយោគចម្បង៖ The question...is...; ប្រយោគគុណនាម៖ my party is asking now; ប្រយោគនាមជាតារាង៖ whether I am best placed to lead us into the next general election។",
+      "analysis": "'best placed' ជាកន្សោមថេរ មានន័យថា 'ស្ថិតក្នុងទីតាំងល្អបំផុត'; 'lead into' មានន័យថា 'ដឹកនាំចូលទៅ'។"
+    },
+    {
+      "en": "Every decision I've taken has been about putting the country I love first.",
+      "cn": "រាល់ការសម្រេចចិត្តដែលខ្ញុំបានធ្វើ គឺសុទ្ធតែអំពីការដាក់ប្រទេសដែលខ្ញុំស្រឡាញ់ជាអាទិភាព។",
+      "structure": "ប្រយោគចម្បង៖ Every decision...has been about...; ប្រយោគគុណនាម៖ I've taken; កម្មវត្ថុ៖ putting the country I love first។",
+      "analysis": "'putting...first' ជាឃ្លាថេរ មានន័យថា 'ដាក់...ជាអាទិភាព'; 'I love' ជាប្រយោគគុណនាមដែលលុបសព្វនាមទំនាក់ទំនង ពន្យល់ 'the country'។"
+    },
+    {
+      "en": "That is why I will resign as leader of the Labour Party.",
+      "cn": "នេះហើយជាមូលហេតុដែលខ្ញុំនឹងលាលែងពីតំណែងជាមេដឹកនាំគណបក្សពលករ។",
+      "structure": "ប្រយោគចម្បង៖ That is; ប្រយោគនាមជាតារាង៖ why I will resign as leader of the Labour Party។",
+      "analysis": "'That is why...' ជារចនាសម្ព័ន្ធទូទៅ មានន័យថា 'នេះហើយជាមូលហេតុដែល...'; 'resign as' មានន័យថា 'លាលែងពីតំណែងជា'។"
+    },
+    {
+      "en": "The real clinching factor was that we had local elections across the U.K. in various parts in May, and the Labour Party suffered a massive defeat, losing more than 1,400 local council seats, even as we saw the right-wing populist Reform Party, led by Nigel Farage, surge.",
+      "cn": "កត្តាសម្រេចចិត្តពិតប្រាកដគឺថា កាលពីខែឧសភា យើងមានការបោះឆ្នោតមូលដ្ឋានទូទាំងចក្រភពអង់គ្លេស ហើយគណបក្សពលករបានទទួលបរាជ័យយ៉ាងធំ ដោយបាត់បង់អាសនៈក្រុមប្រឹក្សាមូលដ្ឋានជាង 1,400 ក្នុងពេលដំណាលគ្នាដែលយើងឃើញគណបក្សកំណែទម្រង់ដែលដឹកនាំដោយលោក Nigel Farage កើនឡើងយ៉ាងខ្លាំង។",
+      "structure": "ប្រយោគចម្បង៖ The real clinching factor was that...; ប្រយោគនាមជាតារាង៖ we had local elections...and the Labour Party suffered...; កន្សោមអម៖ losing more than 1,400 local council seats; ប្រយោគពេលវេលា៖ even as we saw...surge; ពាក្យបញ្ចូល៖ led by Nigel Farage។",
+      "analysis": "'clinching factor' ជាពាក្យព័ត៌មាន មានន័យថា 'កត្តាសម្រេចចិត្ត'; 'massive defeat' មានន័យថា 'បរាជ័យយ៉ាងធំ'; 'surge' ជាកិរិយាស័ព្ទមានន័យថា 'កើនឡើងយ៉ាងខ្លាំង'; 'led by' ជាឃ្លាគុណនាមអតីតកាលធ្វើជាគុណនាម។"
+    },
+    {
+      "en": "That seemed to suggest to certain parts of the Labour Party that they were going to struggle to defeat Reform in any general election.",
+      "cn": "នេះហាក់ដូចជាបង្ហាញដល់ផ្នែកខ្លះនៃគណបក្សពលករថា ពួកគេនឹងពិបាកក្នុងការយកឈ្នះគណបក្សកំណែទម្រង់ក្នុងការបោះឆ្នោតសកលណាមួយ។",
+      "structure": "ប្រយោគចម្បង៖ That seemed to suggest...; កម្មវត្ថុដោយប្រយោល៖ to certain parts of the Labour Party; ប្រយោគនាមជាកម្មវត្ថុ៖ that they were going to struggle to defeat Reform in any general election។",
+      "analysis": "'struggle to do' មានន័យថា 'ព្យាយាមធ្វើអ្វីមួយ' នៅទីនេះមានន័យថា 'ពិបាកនឹងធ្វើ'; 'defeat' មានន័យថា 'យកឈ្នះ'។"
+    },
+    {
+      "en": "There was a special election that was held in the Northwest of England last week, which he won so convincingly that it really strengthened the argument that he might be the man to defeat this right-wing populist party, Reform, in any upcoming election, since he had done it so decisively in this one constituency.",
+      "cn": "កាលពីសប្តាហ៍មុន មានការបោះឆ្នោតពិសេសមួយនៅភាគពាយ័ព្យនៃប្រទេសអង់គ្លេស ហើយគាត់បានឈ្នះដោយគួរឱ្យជឿជាក់ ដែលពិតជាពង្រឹងអំណះអំណាងដែលថាគាត់អាចជាអ្នកដែលអាចយកឈ្នះគណបក្សប្រជានិយមស្តាំនិយម Reform ក្នុងការបោះឆ្នោតនាពេលខាងមុខ ព្រោះគាត់បានធ្វើដូច្នេះយ៉ាងដាច់ខាតនៅក្នុងមណ្ឌលបោះឆ្នោតនេះ។",
+      "structure": "ប្រយោគចម្បង៖ There was a special election; ប្រយោគគុណនាម៖ that was held...; ប្រយោគគុណនាមមិនកំណត់៖ which he won...; ប្រយោគលទ្ធផល៖ so...that...; ប្រយោគពន្យល់នាម៖ the argument that...; ប្រយោគមូលហេតុ៖ since he had done it...។",
+      "analysis": "'convincingly' ជាគុណកិរិយា មានន័យថា 'ដោយគួរឱ្យជឿជាក់'; 'strengthen the argument' មានន័យថា 'ពង្រឹងអំណះអំណាង'; 'decisively' មានន័យថា 'ដោយដាច់ខាត'; 'constituency' មានន័យថា 'មណ្ឌលបោះឆ្នោត'។"
+    },
+    {
+      "en": "So, then, we sort of -- it all coalesced around this point.",
+      "cn": "ដូច្នេះ ហើយ យើងប្រហែលជា -- -- វាទាំងអស់បានប្រមូលផ្តុំជុំវិញចំណុចនេះ។",
+      "structure": "ប្រយោគចម្បង៖ it all coalesced around this point; ពាក្យបញ្ចូល៖ we sort of។",
+      "analysis": "'sort of' ជាកន្សោមពាក្យសាមញ្ញ មានន័យថា 'ប្រហែលជា, អាចនិយាយបាន'; 'coalesce around' ជាឃ្លាថេរ មានន័យថា 'ប្រមូលផ្តុំជុំវិញ'។"
+    },
+    {
+      "en": "Keir Starmer spent the weekend thinking about it, addressing the sort of political realities as they stood, and made this extremely difficult decision for him to step down.",
+      "cn": "Keir Starmer បានចំណាយពេលពេញមួយចុងសប្តាហ៍គិតអំពីរឿងនេះ ដោះស្រាយជាមួយការពិតនយោបាយផ្សេងៗដែលមាននៅពេលនោះ ហើយបានធ្វើការសម្រេចចិត្តដកខ្លួនដែលពិបាកខ្លាំងសម្រាប់គាត់។",
+      "structure": "ប្រយោគចម្បង៖ Keir Starmer spent...thinking...addressing...and made...; ប្រយោគពេលវេលា៖ as they stood។",
+      "analysis": "'spend time doing' ជាឃ្លាថេរ; 'address' នៅទីនេះមានន័យថា 'ដោះស្រាយ, ឆ្លើយតប'; 'as they stood' ជាឃ្លាថេរ មានន័យថា 'តាមស្ថានភាពនៅពេលនោះ'; 'step down' មានន័យថា 'លាឈប់'។"
+    },
+    {
+      "en": "I will remain in post as prime minister until the contest is complete, and I will do everything I can to ensure an orderly handover of power.",
+      "cn": "ខ្ញុំនឹងបន្តកាន់តំណែងនាយករដ្ឋមន្ត្រីរហូតដល់ការប្រកួតប្រជែងបញ្ចប់ ហើយខ្ញុំនឹងធ្វើអ្វីគ្រប់យ៉ាងដែលខ្ញុំអាចធ្វើបាន ដើម្បីធានាការផ្ទេរអំណាចប្រកបដោយសណ្តាប់ធ្នាប់។",
+      "structure": "ប្រយោគសមានៈ៖ I will remain...until...and I will do...; ប្រយោគគុណនាម៖ I can; ប្រយោគគោលបំណង៖ to ensure an orderly handover of power។",
+      "analysis": "'remain in post' មានន័យថា 'បន្តកាន់តំណែង'; 'contest' នៅទីនេះសំដៅលើ 'ការប្រកួតប្រជែងថ្នាក់ដឹកនាំ'; 'handover of power' មានន័យថា 'ការផ្ទេរអំណាច'។"
+    },
+    {
+      "en": "I will also give my successor my full and unequivocal support, knowing that they will inherit a Britain that is far stronger and fairer than the one I inherited two years ago; better prepared for the challenges ahead; and better able to ensure the Labour Party secures a second term in office.",
+      "cn": "ខ្ញុំក៏នឹងផ្តល់ការគាំទ្រពេញលេញ និងច្បាស់លាស់ដល់អ្នកស្នងតំណែងរបស់ខ្ញុំ ដោយដឹងថាពួកគេនឹងទទួលមរតកចក្រភពអង់គ្លេសដែលរឹងមាំ និងយុត្តិធម៌ជាងអ្វីដែលខ្ញុំបានទទួលមរតកកាលពីពីរឆ្នាំមុន។ ត្រៀមខ្លួនបានល្អជាងមុនសម្រាប់បញ្ហាប្រឈមនាពេលអនាគត និងមានសមត្ថភាពជាងមុនក្នុងការធានាឱ្យគណបក្សពលករឈ្នះអាណត្តិទីពីរ។",
+      "structure": "ប្រយោគចម្បង៖ I will also give...; ប្រយោគមូលហេតុ៖ knowing that...; ប្រយោគពន្យល់នាម៖ they will inherit a Britain...; ប្រយោគគុណនាម៖ that is far stronger...; រចនាសម្ព័ន្ធប្រៀបធៀប៖ than the one I inherited...; រចនាសម្ព័ន្ធសមានៈ៖ better prepared...and better able...។",
+      "analysis": "'unequivocal' មានន័យថា 'ច្បាស់លាស់, មិនច្បាស់លាស់'; 'inherit' មានន័យថា 'ទទួលមរតក'; 'secure a second term' មានន័យថា 'ធានាឱ្យឈ្នះអាណត្តិទីពីរ'។"
+    },
+    {
+      "en": "If they do, it could take a bit longer.",
+      "cn": "ប្រសិនបើពួកគេធ្វើដូច្នេះ វាអាចចំណាយពេលយូរបន្តិច។",
+      "structure": "ប្រយោគលក្ខខណ្ឌ៖ If they do; ប្រយោគចម្បង៖ it could take a bit longer។",
+      "analysis": "'do' សំដៅលើ 'ឈរប្រឆាំងនឹង Andy Burnham' ដែលបានរៀបរាប់ពីមុន; 'a bit' ជាគុណកិរិយាបង្ហាញកម្រិត មានន័យថា 'បន្តិច'។"
+    },
+    {
+      "en": "And pointing back to those local elections at the beginning of May, where Reform did so well.",
+      "cn": "ហើយត្រលប់ទៅការបោះឆ្នោតក្នុងតំបន់នៅដើមខែឧសភា ដែលគណបក្ស Reform បានធ្វើបានល្អណាស់។",
+      "structure": "ឃ្លាកិរិយាបច្ចុប្បន្នកាល៖ pointing back to...; ប្រយោគគុណនាម៖ where Reform did so well។",
+      "analysis": "'point back to' មានន័យថា 'ត្រលប់ទៅ, សំដៅទៅ'; 'do well' មានន័យថា 'ធ្វើបានល្អ'។"
+    },
+    {
+      "en": "There are questions about whether they've peaked after Burnham's defeat of the reform candidate in that special election.",
+      "cn": "មានសំណួរអំពីថាតើពួកគេបានឈានដល់កំពូលហើយឬនៅ បន្ទាប់ពី Burnham បានយកឈ្នះបេក្ខជនគណបក្ស Reform ក្នុងការបោះឆ្នោតពិសេសនោះ។",
+      "structure": "ប្រយោគចម្បង៖ There are questions about...; ប្រយោគពន្យល់នាម៖ whether they've peaked after...។",
+      "analysis": "'peak' ជាកិរិយាសព្ទ មានន័យថា 'ឈានដល់កំពូល'; 'defeat of' មានន័យថា 'ការយកឈ្នះ'។"
+    },
+    {
+      "en": "And the chance now for Labour under a new leader is to try to stabilize their grip on power so they can see off Reform in a general election when it happens.",
+      "cn": "ឥឡូវនេះ ឱកាសរបស់គណបក្សពលករក្រោមការដឹកនាំរបស់មេដឹកនាំថ្មីគឺព្យាយាមធ្វើឲ្យការគ្រប់គ្រងអំណាចរបស់ពួកគេមានស្ថិរភាព ដើម្បីឲ្យពួកគេអាចយកឈ្នះគណបក្សកំណែទម្រង់ក្នុងការបោះឆ្នោតសកលខាងមុខ។",
+      "structure": "ប្រយោគចម្បង៖ the chance...is to try to...; ឃ្លាគោលបំណង៖ so they can see off...; ឃ្លាសព្វបទនៃពេលវេលា៖ when it happens។",
+      "analysis": "'stabilize their grip on power' មានន័យថា 'ធ្វើឲ្យការគ្រប់គ្រងអំណាចមានស្ថិរភាព'; 'see off' ជាឃ្លាថេរ មានន័យថា 'យកឈ្នះ, បណ្តេញចេញ'។"
+    },
+    {
+      "en": "Vandalizing or attempting to vandalize the Reflecting Pool will face the criminal justice system in D.C.",
+      "cn": "អ្នកដែលបំផ្លាញ ឬព្យាយាមបំផ្លាញអាងទឹកឆ្លុះបញ្ចាំងនឹងប្រឈមមុខនឹងប្រព័ន្ធយុត្តិធម៌ព្រហ្មទណ្ឌនៃទីក្រុងវ៉ាស៊ីនតោនឌីស៊ី។",
+      "structure": "ប្រយោគចម្បង៖ Vandalizing or attempting to vandalize...will face...។",
+      "analysis": "ឃ្លាកិរិយាស័ព្ទជាប្រធាន; 'face' មានន័យថា 'ប្រឈមមុខ'; 'criminal justice system' គឺ 'ប្រព័ន្ធយុត្តិធម៌ព្រហ្មទណ្ឌ'។"
+    },
+    {
+      "en": "The president now claiming that multiple people have been arrested, accused of vandalizing the Lincoln Memorial Reflecting Pool.",
+      "cn": "ឥឡូវនេះ ប្រធានាធិបតីអះអាងថា មនុស្សជាច្រើនត្រូវបានចាប់ខ្លួន និងចោទប្រកាន់ពីបទបំផ្លាញអាងទឹកឆ្លុះបញ្ចាំងនៃវិមានរំលឹកលីនខុន។",
+      "structure": "ប្រយោគចម្បង៖ The president now claiming...; ឃ្លាបន្ទាប់បន្សំជាកម្មវត្ថុ៖ that multiple people have been arrested; ឃ្លាកិរិយាស័ព្ទអតីតកាល៖ accused of...។",
+      "analysis": "ឃ្លាកិរិយាស័ព្ទបច្ចុប្បន្នកាលជាកិរិយាសព្ទ; 'accused of' គឺ 'ត្រូវបានចោទប្រកាន់'។"
+    },
+    {
+      "en": "Now, this comes after his $14 million rehabilitation project has failed: the water riddled with algae, the lining ripped.",
+      "cn": "ឥឡូវនេះ រឿងនេះកើតឡើងបន្ទាប់ពីគម្រោងជួសជុលថ្លៃ ១៤ លានដុល្លាររបស់គាត់បរាជ័យ៖ ទឹកពេញទៅដោយសារាយ ហើយស្រទាប់ការពារទឹករហែក។",
+      "structure": "ប្រយោគចម្បង៖ this comes after...; ឃ្លាសព្វបទនៃពេលវេលា៖ his $14 million rehabilitation project has failed; បន្ទាប់ពីសញ្ញាចុចពីរគឺជាឃ្លានាមផ្សំគ្នាជាការពន្យល់បន្ថែម។",
+      "analysis": "'comes after' គឺ 'កើតឡើងបន្ទាប់ពី'; 'rehabilitation project' គឺ 'គម្រោងជួសជុល'; 'riddled with' គឺ 'ពេញទៅដោយ'; 'lining' គឺ 'ស្រទាប់ការពារទឹក'។"
+    },
+    {
+      "en": "Visitors say they noticed an increased law enforcement presence following the president's post.",
+      "cn": "ភ្ញៀវទេសចរនិយាយថា ពួកគេសង្កេតឃើញមានការកើនឡើងនៃវត្តមានរបស់កម្លាំងអនុវត្តច្បាប់ បន្ទាប់ពីការបង្ហោះរបស់ប្រធានាធិបតី។",
+      "structure": "ប្រយោគចម្បង៖ Visitors say; ឃ្លាបន្ទាប់បន្សំជាកម្មវត្ថុ៖ they noticed an increased law enforcement presence; ឃ្លាសព្វបទនៃពេលវេលា៖ following the president's post។",
+      "analysis": "'law enforcement presence' គឺ 'វត្តមានរបស់កម្លាំងអនុវត្តច្បាប់'; 'following' ជាធ្នាក់ មានន័យថា 'បន្ទាប់ពី'។"
+    },
+    {
+      "en": "They came up to me and two other women, asking if -- if we touched it and then just promoting us not to, that we would get arrested or charged with vandalism if we did.",
+      "cn": "ពួកគេបានមករកខ្ញុំ និងស្ត្រីពីរនាក់ផ្សេងទៀត ហើយសួរថាតើយើងបានប៉ះវាឬអត់ បន្ទាប់មកគ្រាន់តែណែនាំកុំឲ្យប៉ះ ដោយនិយាយថាប្រសិនបើយើងប៉ះ យើងនឹងត្រូវចាប់ខ្លួន ឬត្រូវចោទប្រកាន់ពីបទបំផ្លាញទ្រព្យសម្បត្តិសាធារណៈ។",
+      "structure": "ប្រយោគចម្បង៖ They came up to me and two other women; ឃ្លាបន្ទាប់បន្សំជាការរួមដំណើរ៖ asking...and then promoting...; ឃ្លាបន្ទាប់បន្សំជាកម្មវត្ថុ៖ if we touched it; សម្រង់ដោយផ្ទាល់៖ that we would get arrested...if we did។",
+      "analysis": "'come up to' គឺ 'ចូលទៅជិត'; 'promote' នៅទីនេះមានន័យថា 'ណែនាំ'; 'charge with' គឺ 'ចោទប្រកាន់'។"
+    }
+  ],
+  "topics": [
+    {
+      "title": "នាយករដ្ឋមន្ត្រីអង់គ្លេសលាឈប់ និងការផ្លាស់ប្តូរថ្នាក់ដឹកនាំគណបក្សពលករ",
+      "content": "នាយករដ្ឋមន្ត្រីអង់គ្លេស Keir Starmer ត្រូវបានបង្ខំឲ្យលាឈប់ បន្ទាប់ពីគណបក្សពលករបាត់បង់អាសនៈជាង ១៤០០ ក្នុងការបោះឆ្នោតមូលដ្ឋាន ហើយគណបក្សកំណែទម្រង់ (Reform Party) ស្តាំនិយមកំពុងងើបឡើង។ អភិបាលក្រុង Manchester លោក Andy Burnham បានឈ្នះក្នុងការបោះឆ្នោតពិសេស ហើយក្លាយជាអ្នកស្នងតំណែងដ៏មានសក្តានុពល។ Starmer នឹងបន្តកាន់តំណែងរហូតដល់មេដឹកនាំថ្មីត្រូវបានជ្រើសរើស ដោយសង្កត់ធ្ងន់លើការផ្ទេរអំណាចដោយសណ្តាប់ធ្នាប់។ មេដឹកនាំគណបក្សកំណែទម្រង់លោក Nigel Farage អំពាវនាវឲ្យមានការបោះឆ្នោតសកលមុនកាលកំណត់ ដោយនិយាយថា Burnham ខ្វះអាណត្តិ។",
+      "keywords": "ការលាឈប់ · ការបោះឆ្នោតមូលដ្ឋាន · គណបក្សកំណែទម្រង់ · ការបោះឆ្នោតពិសេស · អាណត្តិ"
+    },
+    {
+      "title": "លោក Trump ចោទប្រកាន់ពីការបំផ្លាញអាងទឹកឆ្លុះបញ្ចាំង និងជម្លោះជួសជុល",
+      "content": "លោក Trump អះអាងថា អាងទឹកឆ្លុះបញ្ចាំង (Reflecting Pool) នៃវិមានរំលឹកលីនខុនត្រូវបានបំផ្លាញដោយចេតនា ដោយនិយាយថាមនុស្សជាច្រើនត្រូវបានចាប់ខ្លួន ប៉ុន្តែមិនបានផ្តល់ភស្តុតាងទេ។ ពីមុននេះ គម្រោងជួសជុលថ្លៃ ១៤ លានដុល្លារបានបរាជ័យ ដោយទឹកក្នុងអាងពេញទៅដោយសារាយ ហើយស្រទាប់ការពារទឹកបែក។ ព្រះរាជអាជ្ញាស្រុក Washington DC លោកស្រី Jeanine Pirro បាននិយាយថានឹងដាក់ទោសអ្នកបំផ្លាញយ៉ាងធ្ងន់ធ្ងរ។ អ្នករិះគន់យល់ថាបញ្ហានេះកើតចេញពីការបរាជ័យនៃគម្រោង មិនមែនការបំផ្លាញដោយមនុស្សទេ។",
+      "keywords": "ការបំផ្លាញ · អាងទឹកឆ្លុះបញ្ចាំង · គម្រោងជួសជុល · សារាយ · ការចេញដីកា"
+    },
+    {
+      "title": "ពានរង្វាន់ World Cup ប្រទេសតូចៗភ្ញាក់ផ្អើល និងការរួមបញ្ចូលវប្បធម៌",
+      "content": "នៅក្នុងពានរង្វាន់ World Cup ឆ្នាំ 2026 ក្រុមបាល់ទាត់មកពីប្រទេសតូចៗដូចជា Curacao បានបង្ហាញសមត្ថភាពល្អ ក្លាយជាចំណុចលេចធ្លោនៃព្រឹត្តិការណ៍។ អ្នកអត្ថាធិប្បាយបានចង្អុលបង្ហាញថា អ្នករិះគន់មុនការប្រកួតបានប៉ាន់ស្មានសមត្ថភាពក្រុមទាំងនេះទាបពេក ហើយទិដ្ឋភាពនៃការរួមបញ្ចូលវប្បធម៌ទាំងក្នុង និងក្រៅទីលានក៏ទទួលបានការចាប់អារម្មណ៍ផងដែរ។",
+      "keywords": "World Cup · Curacao · spectacle · cultural embrace"
+    },
+    {
+      "title": "សកម្មភាពនយោបាយអាមេរិក៖ អន្តរកម្មរវាង Newsom និងគ្រួសារ Biden",
+      "content": "អភិបាលរដ្ឋកាលីហ្វ័រញ៉ា Gavin Newsom កំពុងពិចារណាឈរឈ្មោះប្រកួតប្រជែងតំណែងប្រធានាធិបតី ហើយមានអន្តរកម្មញឹកញាប់ជាមួយគ្រួសារ Biden។ Hunter Biden បានបង្ហាញឆន្ទៈចង់ជួយយុទ្ធនាការរបស់ Newsom ឬប្រឆាំងគូប្រជែងរបស់គាត់។ ការវិភាគយល់ថា យុទ្ធសាស្ត្រនេះអាចផ្ទុយពីវិចារណញាណ ប៉ុន្តែអាចជួយ Newsom ទទួលបានការគាំទ្រពីគណបក្សប្រជាធិបតេយ្យ។",
+      "keywords": "Gavin Newsom · Hunter Biden · counterintuitive strategy · presidential campaign"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "នៅក្នុង 'mounting pressure to step aside' ពាក្យ 'mounting' មានន័យជិតបំផុតនឹងអ្វី?",
+      "options": [
+        "A. ដែលបានដំឡើង",
+        "B. កើនឡើងជាលំដាប់",
+        "C. ដែលកំពុងជិះ",
+        "D. ដែលបានកំណត់"
+      ],
+      "answer": 1,
+      "explanation": "mounting នៅទីនេះមានន័យថា 'កើនឡើងជាលំដាប់' ដូចគ្នានឹង increasing។ ជម្រើសផ្សេងទៀតគឺជាជម្រើសបំភាន់។"
+    },
+    {
+      "type": "vocab",
+      "question": "ឃ្លា 'come out swinging' ក្នុងបរិបទនយោបាយជាធម្មតាមានន័យថា?",
+      "options": [
+        "A. ចាប់ផ្តើមការប្រកួតប្រដាល់",
+        "B. វាយប្រហារយ៉ាងខ្លាំង",
+        "C. វិលវល់មិនច្បាស់លាស់",
+        "D. ដកខ្លួនចេញពីការប្រកួត"
+      ],
+      "answer": 1,
+      "explanation": "come out swinging គឺជាពាក្យស្លោក មានន័យថា 'វាយប្រហារយ៉ាងខ្លាំង' ជាញឹកញាប់ប្រើដើម្បីពណ៌នាពីសុន្ទរកថាដ៏ខ្លាំងក្លារបស់អ្នកនយោបាយ។"
+    },
+    {
+      "type": "vocab",
+      "question": "តើពាក្យមួយណាខាងក្រោមពណ៌នាបានល្អបំផុតអំពីអត្ថន័យនៃ 'riddled with' ក្នុង 'the water riddled with algae'?",
+      "options": [
+        "A. ពេញទៅដោយ",
+        "B. សម្អាត",
+        "C. តុបតែង",
+        "D. ជៀសវាង"
+      ],
+      "answer": 0,
+      "explanation": "riddled with មានន័យថា 'ពេញទៅដោយ (បញ្ហា ឬសារធាតុមិនល្អ)' នៅទីនេះសំដៅលើទឹកដែលពេញទៅដោយសារាយ។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើអ្វីជាមូលហេតុផ្ទាល់ដែលនាំឱ្យលោក Keir Starmer លាឈប់ពីតំណែង តាមរបាយការណ៍?",
+      "options": [
+        "A. បញ្ហាសុខភាពផ្ទាល់ខ្លួន",
+        "B. គណបក្សពលករបរាជ័យយ៉ាងដំណំក្នុងការបោះឆ្នោតថ្នាក់មូលដ្ឋាន",
+        "C. ជម្លោះជាមួយប្រធានាធិបតីអាមេរិកលោក Trump",
+        "D. រឿងអាស្រូវអំពើពុករលួយក្នុងគណបក្ស"
+      ],
+      "answer": 1,
+      "explanation": "របាយការណ៍បញ្ជាក់យ៉ាងច្បាស់ថា គណបក្សពលករបានបាត់បង់អាសនៈជាង 1400 ក្នុងការបោះឆ្នោតថ្នាក់មូលដ្ឋានកាលពីខែឧសភា ហើយគណបក្សកំណែទម្រង់បានងើបឡើង ដែលនាំឱ្យមានសម្ពាធក្នុងគណបក្សឱ្យលោក Starmer លាឈប់។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើអ្វីជាការអះអាងសំខាន់របស់រដ្ឋាភិបាលលោក Trump ទាក់ទងនឹងបញ្ហាអាងទឹក Reflection Pool?",
+      "options": [
+        "A. ការជួសជុលទទួលបានជោគជ័យ ប៉ុន្តែត្រូវបានគេបំផ្លាញ",
+        "B. មូលហេតុធម្មជាតិនាំឱ្យមានសារាយ",
+        "C. ខ្វះថវិកានាំឱ្យគម្រោងជួសជុលជាប់គាំង",
+        "D. ការគ្រប់គ្រងមិនបានល្អរបស់ National Park Service"
+      ],
+      "answer": 0,
+      "explanation": "លោក Trump អះអាងថា អាងទឹក Reflection Pool ត្រូវបានគេបំផ្លាញដោយចេតនា ហើយបានចាប់ខ្លួនមនុស្សជាច្រើននាក់ ប៉ុន្តែមិនបានផ្តល់ភស្តុតាងទេ។ របាយការណ៍ក៏បានលើកឡើងពីការបរាជ័យនៃការជួសជុល ប៉ុន្តែរដ្ឋាភិបាលបានសង្កត់ធ្ងន់លើទង្វើបំផ្លាញ។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើអ្វីជាមូលហេតុដែលលោក Andy Burnham ត្រូវបានគេចាត់ទុកជាអ្នកឈរឈ្មោះដឹកនាំគណបក្សពលករថ្មី?",
+      "options": [
+        "A. គាត់ជានាយករដ្ឋមន្ត្រីបច្ចុប្បន្ន",
+        "B. គាត់បានឈ្នះយ៉ាងដាច់ខាតក្នុងការបោះឆ្នោតពិសេស",
+        "C. គាត់ទទួលបានការគាំទ្រពីគណបក្សកំណែទម្រង់",
+        "D. គាត់មានបទពិសោធន៍ក្នុងគណៈរដ្ឋមន្ត្រីច្រើន"
+      ],
+      "answer": 1,
+      "explanation": "របាយការណ៍បានបញ្ជាក់ថា លោក Burnham បានឈ្នះយ៉ាងដាច់ខាតក្នុងការបោះឆ្នោតពិសេសនៅភាគពាយ័ព្យនៃប្រទេសអង់គ្លេស ដែលបង្ហាញថាគាត់អាចយកឈ្នះបេក្ខជនគណបក្សកំណែទម្រង់ ដូច្នេះហើយបានក្លាយជាអ្នកឈរឈ្មោះដ៏ពេញនិយម។"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "And it happened right before a fire tore through her home on Friday. She escaped safely with the dog, but as you can see, their house was destroyed in that fire. These are just some of the images, but excellent work, Squilliam, to make sure that you got your owners up and out. That does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "ហើយរឿងទាំងអស់នេះកើតឡើងមុនពេលភ្លើងឆេះផ្ទះរបស់គាត់កាលពីថ្ងៃសុក្រ។ គាត់បានរត់ចេញដោយសុវត្ថិភាពជាមួយឆ្កែរបស់គាត់ ប៉ុន្តែដូចដែលអ្នកឃើញ ផ្ទះរបស់ពួកគេត្រូវបានឆេះអស់ក្នុងភ្លើងនោះ។ ទាំងនេះគ្រាន់តែជារូបភាពខ្លះប៉ុណ្ណោះ ប៉ុន្តែធ្វើបានល្អ Squilliam ដែលបានធ្វើឱ្យម្ចាស់របស់អ្នកក្រោកពីដំណេកទាន់ពេល ហើយរត់ចេញមក។ CNN Headline News បញ្ចប់ត្រឹមនេះ។ ខ្ញុំ Brad Smith ។ CNN This Morning ជាមួយ Audie Cornish ចាប់ផ្តើមឥឡូវនេះ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Breaking news this morning. A political shakeup in the U.K. Keir Starmer says he is resigning.",
+      "cn": "ព័ត៌មានបន្ទាន់នៅព្រឹកនេះ។ ភាពចលាចលនយោបាយនៅអង់គ្លេស។ Keir Starmer និយាយថាគាត់នឹងលាឈប់។"
+    },
+    {
+      "speaker": "Keir Starmer",
+      "text": "That is why I will resign as leader of the Labour Party.",
+      "cn": "នេះជាមូលហេតុដែលខ្ញុំនឹងលាឈប់ពីតំណែងជាមេដឹកនាំគណបក្សពលករ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "President Trump blames vandals for his Reflecting Pool problems. How can he be sure?",
+      "cn": "ប្រធានាធិបតី Trump សន្មតថាបញ្ហាអាងទឹកទៅលើពួកអ្នកបំផ្លាញ។ តើគាត់អាចដឹងច្បាស់យ៉ាងដូចម្តេច?"
+    },
+    {
+      "speaker": "Hunter Biden",
+      "text": "I'll come campaign for you or against you. Whatever -- whatever helps most.",
+      "cn": "ខ្ញុំនឹងជួយយុទ្ធនាការរបស់អ្នក ឬប្រឆាំងអ្នក។ មិនថាយ៉ាងណា -- -- អ្វីដែលមានប្រយោជន៍បំផុត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Gavin Newsom embracing the Bidens as he considers running for president. Is that smart or a counterintuitive strategy? And the World Cup now a must-see spectacle both on and off the field. How did all the critics get it wrong? Good morning, everybody. I'm Audie Cornish. We're going to start with this breaking news. Keir Starmer out. The British prime minister announcing his resignation in the last hour after mounting pressure to step aside.",
+      "cn": "Gavin Newsom ឱបក្រសោបគ្រួសារ Biden ខណៈពេលដែលគាត់កំពុងពិចារណាឈរឈ្មោះជាប្រធានាធិបតី។ តើនេះជាយុទ្ធសាស្ត្រឆ្លាតវៃ ឬផ្ទុយពីសភាវគតិ? World Cup ឥឡូវក្លាយជាព្រឹត្តិការណ៍ដែលត្រូវមើលទាំងក្នុងទីលាន និងក្រៅទីលាន។ តើអ្នករិះគន់ទាំងអស់ខុសយ៉ាងដូចម្តេច? អរុណសួស្តីអ្នកទាំងអស់គ្នា។ ខ្ញុំ Audie Cornish ។ យើងនឹងចាប់ផ្តើមជាមួយព័ត៌មានបន្ទាន់នេះ។ Keir Starmer ចេញ។ នាយករដ្ឋមន្ត្រីអង់គ្លេសប្រកាសលាឈប់ក្នុងរយៈពេលមួយម៉ោងកន្លងទៅ បន្ទាប់ពីប្រឈមមុខនឹងសម្ពាធកាន់តែខ្លាំងឱ្យលាឈប់។"
+    },
+    {
+      "speaker": "Starmer",
+      "text": "The question my party is asking now is whether I am best placed to lead us into the next general election. I have heard the answer of my Parliamentary party to that question, and I accept that answer with good grace. Every decision I've taken has been about putting the country I love first. That is why I will resign as leader of the Labour Party.",
+      "cn": "សំណួរដែលគណបក្សខ្ញុំលើកឡើងឥឡូវនេះគឺថា តើខ្ញុំជាមនុស្សសមស្របបំផុតដើម្បីដឹកនាំយើងចូលទៅក្នុងការបោះឆ្នោតសកលលើកក្រោយដែរឬទេ? ខ្ញុំបានឮចម្លើយរបស់ក្រុមសមាជិកសភាចំពោះសំណួរនេះ ហើយខ្ញុំទទួលយកចម្លើយនោះដោយរីករាយ។ រាល់ការសម្រេចចិត្តដែលខ្ញុំបានធ្វើគឺដើម្បីដាក់ប្រទេសដែលខ្ញុំស្រឡាញ់ជាអាទិភាព។ នេះជាមូលហេតុដែលខ្ញុំនឹងលាឈប់ពីតំណែងជាមេដឹកនាំគណបក្សពលករ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We're going to go now to CNN's Clare Sebastian in London. Clare, very busy day there. Can you start by talking about why now? I know it seems inevitable, but what's the sense of why Keir Starmer stepped down?",
+      "cn": "ឥឡូវនេះយើងភ្ជាប់ទៅកាន់ Claire Sebastian នៅទីក្រុងឡុងដ៍។ Claire ថ្ងៃនេះរវល់ណាស់នៅទីនោះ។ តើអ្នកអាចប្រាប់យើងពីមូលហេតុដែលវាកើតឡើងឥឡូវនេះបានទេ? ខ្ញុំដឹងថាវាហាក់ដូចជាជៀសមិនរួច ប៉ុន្តែតើអ្វីជាមូលហេតុដែល Keir Starmer លាឈប់?"
+    },
+    {
+      "speaker": "Clare Sebastian",
+      "text": "So, look, the clinching factor for this, Audie, after months of difficulties that the prime minister has faced for a number of different reasons. But the real clinching factor was that we had local elections across the U.K. in various parts in May, and the Labour Party suffered a massive defeat, losing more than 1,400 local council seats, even as we saw the right-wing populist Reform Party, led by Nigel Farage, surge. So, that was a real wake-up call.",
+      "cn": "អញ្ចឹង Audie កត្តាសម្រេចចិត្តគឺថា នាយករដ្ឋមន្ត្រីបានប្រឈមមុខនឹងបញ្ហាអស់រយៈពេលជាច្រើនខែដោយសារហេតុផលផ្សេងៗ។ ប៉ុន្តែកត្តាសម្រេចចិត្តពិតប្រាកដគឺថា យើងមានការបោះឆ្នោតមូលដ្ឋាននៅទូទាំងអង់គ្លេសក្នុងខែឧសភា ហើយគណបក្សពលករបានបរាជ័យយ៉ាងធ្ងន់ធ្ងរ ដោយបាត់បង់អាសនៈក្រុមប្រឹក្សាមូលដ្ឋានជាង 1400 ខណៈពេលដែលគណបក្សប្រជានិយមស្តាំនិយម Reform របស់ Nigel Farage បានលេចធ្លោឡើង។ ដូច្នេះ វាពិតជាកណ្តឹងរោទិ៍មួយ។"
+    },
+    {
+      "speaker": "Clare Sebastian",
+      "text": "That seemed to suggest to certain parts of the Labour Party that they were going to struggle to defeat Reform in any general election. We have to have a general election in this country by around the middle of 2029. So, that is when the calls for Prime Minister Starmer to go grew even louder.",
+      "cn": "វាហាក់ដូចជាបង្ហាញដល់ផ្នែកខ្លះនៃគណបក្សពលករថា ពួកគេនឹងពិបាកក្នុងការយកឈ្នះគណបក្ស Reform ក្នុងការបោះឆ្នោតសកលណាមួយ។ អង់គ្លេសត្រូវតែមានការបោះឆ្នោតសកលនៅប្រហែលពាក់កណ្តាលឆ្នាំ 2029។ ដូច្នេះ ការអំពាវនាវឱ្យនាយករដ្ឋមន្ត្រី Starmer លាឈប់កាន់តែខ្លាំងឡើង។"
+    },
+    {
+      "speaker": "Clare Sebastian",
+      "text": "But on the flip side, we also have this issue where Andy Burnham, who was then the mayor of Manchester, was seen as the most popular politician within that party, but he was not a member of Parliament, so couldn't officially challenge the prime minister. So, then this process started to try and get him back into Parliament.",
+      "cn": "ប៉ុន្តែម្យ៉ាងវិញទៀត យើងមានបញ្ហាមួយទៀត៖ អភិបាលក្រុង Manchester លោក Andy Burnham ត្រូវបានគេចាត់ទុកជាអ្នកនយោបាយដ៏ពេញនិយមបំផុតក្នុងគណបក្ស ប៉ុន្តែគាត់មិនមែនជាសមាជិកសភាទេ ដូច្នេះគាត់មិនអាចប្រជែងយកតំណែងនាយករដ្ឋមន្ត្រីជាផ្លូវការបានទេ។ ដូច្នេះ ពួកគេចាប់ផ្តើមរកវិធីឱ្យគាត់ត្រឡប់ចូលសភាវិញ។"
+    },
+    {
+      "speaker": "Clare Sebastian",
+      "text": "There was a special election that was held in the Northwest of England last week, which he won so convincingly that it really strengthened the argument that he might be the man to defeat this right-wing populist party, Reform, in any upcoming election, since he had done it so decisively in this one constituency. So, then, we sort of -- it all coalesced around this point.",
+      "cn": "កាលពីសប្តាហ៍មុន មានការបោះឆ្នោតពិសេសមួយនៅភាគពាយ័ព្យនៃប្រទេសអង់គ្លេស ហើយគាត់បានឈ្នះដោយសំឡេងច្រើនលើសលប់ ដែលពង្រឹងអំណះអំណាងថា គាត់អាចជាមនុស្សដែលអាចយកឈ្នះគណបក្សប្រជានិយមស្តាំនិយម Reform ក្នុងការបោះឆ្នោតណាមួយដែលនឹងមកដល់ ពីព្រោះគាត់បានធ្វើវារួចហើយនៅក្នុងមណ្ឌលនេះ។ ដូច្នេះ ការយកចិត្តទុកដាក់ទាំងអស់បានផ្តោតលើចំណុចនេះ។"
+    },
+    {
+      "speaker": "Clare Sebastian",
+      "text": "Keir Starmer spent the weekend thinking about it, addressing the sort of political realities as they stood, and made this extremely difficult decision for him to step down. So, now we have a transition. Take a listen to the prime minister talking about how that will play out.",
+      "cn": "Keir Starmer បានចំណាយពេលចុងសប្តាហ៍ទាំងមូលគិតអំពីបញ្ហានេះ ហើយប្រឈមមុខនឹងការពិតនយោបាយនាពេលបច្ចុប្បន្ន បានធ្វើការសម្រេចចិត្តដ៏លំបាកបំផុត -- -- លាឈប់។ ដូច្នេះ ឥឡូវនេះយើងស្ថិតក្នុងដំណាក់កាលអន្តរកាល។ ស្តាប់នាយករដ្ឋមន្ត្រីនិយាយអំពីរបៀបដែលរឿងនេះនឹងដំណើរការ។"
+    },
+    {
+      "speaker": "Starmer",
+      "text": "I will remain in post as prime minister until the contest is complete, and I will do everything I can to ensure an orderly handover of power. I will also give my successor my full and unequivocal support, knowing that they will inherit a Britain that is far stronger and fairer than the one I inherited two years ago; better prepared for the challenges ahead; and better able to ensure the Labour Party secures a second term in office.",
+      "cn": "ខ្ញុំនឹងបន្តបម្រើការជានាយករដ្ឋមន្ត្រីរហូតដល់ការប្រកួតប្រជែងបញ្ចប់ ហើយខ្ញុំនឹងធ្វើអ្វីគ្រប់យ៉ាងដើម្បីធានាការផ្ទេរអំណាចប្រកបដោយសណ្តាប់ធ្នាប់។ ខ្ញុំក៏នឹងគាំទ្រយ៉ាងពេញទំហឹង និងច្បាស់លាស់ចំពោះអ្នកស្នងតំណែងរបស់ខ្ញុំ ពីព្រោះពួកគេនឹងទទួលមរតកប្រទេសអង់គ្លេសដែលរឹងមាំ និងយុត្តិធម៌ជាងពេលដែលខ្ញុំបានទទួលកាលពីពីរឆ្នាំមុន។ ប្រទេសដែលត្រៀមខ្លួនប្រឈមមុខនឹងបញ្ហាប្រឈមនាពេលអនាគត និងមានសមត្ថភាពជាងមុនក្នុងការធានាឱ្យគណបក្សពលករឈ្នះអាណត្តិទីពីរ។"
+    },
+    {
+      "speaker": "Sebastian",
+      "text": "So, the question now is, will there be a contest? Will anyone else stand against Andy Burnham? If they do, it could take a bit longer. If they don't, this could all be over in a couple of weeks -- Audie.",
+      "cn": "ដូច្នេះ សំណួរឥឡូវនេះគឺ៖ តើនឹងមានការប្រកួតប្រជែងទេ? តើមាននរណាម្នាក់នឹងប្រជែងជាមួយ Andy Burnham ទេ? ប្រសិនបើមាននរណាម្នាក់ឈរឈ្មោះ ដំណើរការអាចយូរជាងនេះ។ ប្រសិនបើគ្មាន អ្វីៗអាចបញ្ចប់ក្នុងរយៈពេលពីរបីសប្តាហ៍ -- -- Audie ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Right. And Burnham, this will be basically third time's the charm, because he has tried to be Labour leader before. Trump ally Nigel Farage actually speaking out after the news of this resignation. Do they feel like this is an opportunity for the Reform Party?",
+      "cn": "ត្រឹមត្រូវ។ សម្រាប់ Burnham នេះជាលើកទីបីដែលគាត់ព្យាយាមជោគជ័យ ពីព្រោះគាត់ធ្លាប់ឈរឈ្មោះជាមេដឹកនាំគណបក្សពលករពីរដងពីមុន។ សម្ព័ន្ធមិត្តរបស់ Trump គឺ Nigel Farage បានចេញមតិបន្ទាប់ពីដំណឹងលាឈប់។ តើពួកគេគិតថានេះជាឱកាសសម្រាប់គណបក្ស Reform ទេ?"
+    },
+    {
+      "speaker": "Sebastian",
+      "text": "Look, they suffered a really big defeat in this special election last week. So, Farage has come out swinging today, calling in a post on X, for a general election and making the point in an essay that Andy Burnham doesn't -- having not been officially elected in a general election -- have a mandate to lead. And pointing back to those local elections at the beginning of May, where Reform did so well. I think look, it is a moment for reform to try to assert themselves.",
+      "cn": "ស្តាប់ទៅ ពួកគេបានបរាជ័យយ៉ាងធំក្នុងការបោះឆ្នោតពិសេសកាលពីសប្តាហ៍មុន។ ដូច្នេះ Farage បានវាយបកយ៉ាងខ្លាំងនៅថ្ងៃនេះ ដោយបង្ហោះនៅលើ X អំពាវនាវឱ្យមានការបោះឆ្នោតសកល ហើយនៅក្នុងអត្ថបទមួយ គាត់ចង្អុលបង្ហាញថា Andy Burnham -- -- ដោយសារគាត់មិនទាន់ត្រូវបានជ្រើសរើសជាផ្លូវការក្នុងការបោះឆ្នោតសកល -- -- គ្មានអាណត្តិដឹកនាំទេ។ គាត់ក៏បានលើកឡើងពីការបោះឆ្នោតមូលដ្ឋាននៅដើមខែឧសភា ដែលគណបក្ស Reform ដំណើរការបានល្អ។ ខ្ញុំគិតថា នេះជាពេលដែលគណបក្ស Reform ព្យាយាមបង្ហាញពីអត្ថិភាពរបស់ខ្លួន។"
+    },
+    {
+      "speaker": "Sebastian",
+      "text": "There are questions about whether they've peaked after Burnham's defeat of the reform candidate in that special election. But as of now, in, you know, opinion polls based on voter intentions for right now, they are leading in the country. So, they are going to be doing everything they can to keep up the momentum. And, of course, the chance now for Labour under a new leader is to try to stabilize their grip on power so they can see off Reform in a general election when it happens -- Audie.",
+      "cn": "មានអ្នកខ្លះសួរថា តើគណបក្ស Reform ឈានដល់កំពូលហើយឬនៅ បន្ទាប់ពី Burnham យកឈ្នះបេក្ខជន Reform ក្នុងការបោះឆ្នោតពិសេស។ ប៉ុន្តែបច្ចុប្បន្ននេះ យោងតាមការស្ទង់មតិចំណង់ចំណូលចិត្តអ្នកបោះឆ្នោត ពួកគេនាំមុខនៅទូទាំងប្រទេស។ ដូច្នេះ ពួកគេនឹងខិតខំប្រឹងប្រែងអស់ពីសមត្ថភាពដើម្បីរក្សាសន្ទុះ។ ជាការពិតណាស់ ឥឡូវនេះឱកាសរបស់គណបក្សពលករក្រោមការដឹកនាំថ្មីគឺ ព្យាយាមរក្សាការគ្រប់គ្រងអំណាចឱ្យមានស្ថិរភាព ដើម្បីអាចយកឈ្នះគណបក្ស Reform នៅពេលការបោះឆ្នោតសកលមកដល់ -- -- Audie ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's Clare Sebastian in London, where U.K. Prime Minister Keir Starmer has stepped down. And coming up on CNN THIS MORNING from: reflection to outrage. Arrests over the algae-plagued Reflecting Pool and the rising costs. Critics are calling it all money down the drain. Plus, are world leaders losing patience with President Trump? Italy's prime minister is the latest. And little countries doing big things at the FIFA World Cup.",
+      "cn": "នេះជារបាយការណ៍របស់ Claire Sebastian នៅទីក្រុងឡុងដ៍ នាយករដ្ឋមន្ត្រីអង់គ្លេស Keir Starmer បានលាឈប់។ បន្ទាប់មកនៅក្នុង CNN This Morning៖ ពីការឆ្លុះបញ្ចាំងទៅការខឹងសម្បារ។ ការចាប់ខ្លួននៅអាងទឹក Reflection Pool ដោយសារសារាយ និងការកើនឡើងថ្លៃ។ អ្នករិះគន់ថាទាំងអស់នេះគ្មានប្រយោជន៍។ លើសពីនេះ តើមេដឹកនាំពិភពលោកបាត់បង់ការអត់ធ្មត់ចំពោះប្រធានាធិបតី Trump ដែរឬទេ? នាយករដ្ឋមន្ត្រីអ៊ីតាលីជាឧទាហរណ៍ថ្មីបំផុត។ ហើយប្រទេសតូចៗបង្ហាញសមត្ថភាពនៅ World Cup ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Curacao came to conquer, guys. I'm telling you this once. I'm telling you this twice. Curacao came to show up. Let's go.",
+      "cn": "Curaçao មកដណ្តើមយកហើយ បងប្អូន។ ខ្ញុំប្រាប់អ្នកម្តង ខ្ញុំប្រាប់អ្នកពីរដង។ Curaçao មកបង្ហាញហើយ។ ចេញដំណើរ។"
+    },
+    {
+      "speaker": "Jeanine Pirro",
+      "text": "Vandalizing or attempting to vandalize the Reflecting Pool will face the criminal justice system in",
+      "cn": "ការបំផ្លាញ ឬព្យាយាមបំផ្លាញអាងទឹក Reflection Pool នឹងត្រូវប្រឈមមុខនឹងប្រព័ន្ធយុត្តិធម៌ព្រហ្មទណ្ឌ។"
+    },
+    {
+      "speaker": "D.C. Cornish",
+      "text": "Vandalism or something else? President Trump says he knows what is causing the problems at the Reflecting Pool. The president now claiming that multiple people have been arrested, accused of vandalizing the Lincoln Memorial Reflecting Pool. He has not provided evidence to back up that claim. A senior administration official is saying that police arrested five people for vandalism, that they issued citations to five others. Now, Trump did say work will begin immediately to fix it.",
+      "cn": "ការបំផ្លាញ ឬមូលហេតុផ្សេងទៀត? ប្រធានាធិបតី Trump និយាយថាគាត់ដឹងពីមូលហេតុនៃបញ្ហាអាងទឹក។ ប្រធានាធិបតីឥឡូវអះអាងថា មនុស្សជាច្រើនត្រូវបានចាប់ខ្លួនពីបទសង្ស័យបំផ្លាញអាងទឹក Lincoln Memorial ។ គាត់មិនបានផ្តល់ភស្តុតាងគាំទ្រការអះអាងនេះទេ។ មន្ត្រីរដ្ឋបាលជាន់ខ្ពស់ម្នាក់បាននិយាយថា ប៉ូលីសបានចាប់ខ្លួនមនុស្សប្រាំនាក់ពីបទបំផ្លាញ និងចេញដីកាកោះហៅមនុស្សប្រាំនាក់ផ្សេងទៀត។ Trump និយាយថាការជួសជុលនឹងចាប់ផ្តើមភ្លាមៗ។"
+    },
+    {
+      "speaker": "D.C. Cornish",
+      "text": "Now, this comes after his $14 million rehabilitation project has failed: the water riddled with algae, the lining ripped. Visitors say they noticed an increased law enforcement presence following the president's post.",
+      "cn": "ពីមុននេះ គម្រោងជួសជុលថ្លៃ 14 លានដុល្លាររបស់គាត់បានបរាជ័យ៖ ទឹកពេញដោយសារាយ ស្រទាប់ការពាររហែក។ អ្នកទស្សនានិយាយថា បន្ទាប់ពីប្រធានាធិបតីបង្ហោះ ពួកគេសង្កេតឃើញមានការកើនឡើងនៃកម្លាំងអនុវត្តច្បាប់។"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I've never seen this many National Guards in the National Park area. They came up to me and two other women, asking if -- if we touched it and then just promoting us not to, that we would get arrested or charged with vandalism if we did.",
+      "cn": "ខ្ញុំមិនដែលឃើញឆ្មាំជាតិច្រើនបែបនេះនៅក្នុងតំបន់ឧទ្យានជាតិទេ។ ពួកគេបានដើរមករកខ្ញុំ និងស្ត្រីពីរនាក់ផ្សេងទៀត សួរថាតើយើងបានប៉ះទឹកក្នុងស្រះឬអត់ ហើយព្រមានយើងកុំឱ្យធ្វើដូច្នេះ បើមិនដូច្នេះទេនឹងត្រូវចាប់ខ្លួន ឬត្រូវចោទប្រកាន់ពីបទបំផ្លាញទ្រព្យសម្បត្តិសាធារណៈ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Today in the group chat, Eleanor Mueller, White House economic policy reporter with \"Semafor\"; Julia Manchester, national political reporter for \"The Hill\"; and Elena Schneider, national political reporter at \"NOTUS.\" Where to begin? Where to begin? Is vandalism the problem, or the green water we just showed you coming out of a hose? I want to play -- the reason why I'm talking about this is Jeanine Pirro, U.S. attorney for D.C., jumped in on this vandalization thing. I don't know if we have that clip.",
+      "cn": "អ្នកចូលរួមក្នុងការសន្ទនាជាក្រុមថ្ងៃនេះ៖ អេលីណរ មូល័រ អ្នកយកព័ត៌មានគោលនយោបាយសេដ្ឋកិច្ចសេតវិមានពី \"Semafor\" ជូលីយ៉ា មែនឆេស្ទឺ អ្នកយកព័ត៌មាននយោបាយជាតិពី \"The Hill\" និង អេលីណា ស្នាយដឺ អ្នកយកព័ត៌មាននយោបាយជាតិពី \"NOTUS\"។ តើត្រូវចាប់ផ្តើមពីណា? តើការបំផ្លាញជាបញ្ហា ឬក៏ទឹកពណ៌បៃតងដែលយើងទើបតែឃើញចេញពីបំពង់? ខ្ញុំចង់ចាក់ -- -- ខ្ញុំនិយាយអំពីរឿងនេះ ព្រោះព្រះរាជអាជ្ញាសហព័ន្ធប្រចាំតំបន់វ៉ាស៊ីនតោនឌីស៊ី ជេន ភីរ៉ូ ក៏បានចូលរួមក្នុងហេតុការណ៍បំផ្លាញនេះដែរ។ ខ្ញុំមិនដឹងថាយើងមានវីដេអូនោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But she was asked about this, and I want to play for you what she had to say.",
+      "cn": "ប៉ុន្តែនាងត្រូវបានគេសួរអំពីរឿងនេះ ហើយខ្ញុំចង់ចាក់ការឆ្លើយតបរបស់នាង។"
+    },
+    {
+      "speaker": "Pirro",
+      "text": "There are several citations that have been handed out to individuals. And these are cases that will be prosecuted to the full extent. If there are more serious products that are put into the Reflecting Pool to create more algae or a bigger problem, then we'll consider more serious charges.",
+      "cn": "ដីកាកោះហៅត្រូវបានចេញទៅកាន់មនុស្សជាច្រើនរួចហើយ។ ករណីទាំងនេះនឹងត្រូវប្តឹងពេញលេញ។ ប្រសិនបើនរណាម្នាក់ដាក់សារធាតុធ្ងន់ធ្ងរជាងនេះទៅក្នុងស្រះទឹកដើម្បីបង្កើតសារាយបន្ថែម ឬបញ្ហាធំជាងនេះ យើងនឹងពិចារណាលើការចោទប្រកាន់ធ្ងន់ធ្ងរជាងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Help. JULIA MANCHESTER, NATIONAL POLITICAL REPORTER, \"THE HILL\": You know, it's interesting that this came after we saw a video of hydrogen peroxide being poured into the Reflecting Pool. I'm not a scientist. However. you know, I think it's just interesting to see the sequence of events. Certainly frustrating for the president.",
+      "cn": "ជួយផង។ ជូលីយ៉ា មែនឆេស្ទឺ (អ្នកយកព័ត៌មាននយោបាយជាតិ \"The Hill\")៖ គួរឱ្យចាប់អារម្មណ៍ រឿងនេះកើតឡើងបន្ទាប់ពីយើងឃើញវីដេអូអ្នកខ្លះចាក់អ៊ីដ្រូសែន peroxide ចូលក្នុងស្រះ។ ខ្ញុំមិនមែនជាអ្នកវិទ្យាសាស្ត្រទេ។ ប៉ុន្តែខ្ញុំគិតថាលំដាប់នៃព្រឹត្តិការណ៍គួរឱ្យចាប់អារម្មណ៍ណាស់។ ប្រធានាធិបតីប្រាកដជាខកចិត្ត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We should say, the people pouring those jugs of hydrogen peroxide --",
+      "cn": "ត្រូវបញ្ជាក់ថា អ្នកដែលចាក់អ៊ីដ្រូសែន peroxide ចូល -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- were government workers trying to --",
+      "cn": "-- -- គឺជាបុគ្គលិករដ្ឋាភិបាលដែលព្យាយាមជួសជុលបញ្ហា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- repair the work of these contractors that the president invited through no insistence of Congress. Literally, no one asked for this.",
+      "cn": "-- -- ជួសជុលការងាររបស់អ្នកម៉ៅការទាំងនេះ ដែលប្រធានាធិបតីបានអញ្ជើញដោយគ្មានការទាមទារពីសភា។ និយាយឱ្យត្រង់ទៅ គ្មាននរណាសុំឱ្យធ្វើបែបនេះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And now here we are.",
+      "cn": "ហើយឥឡូវនេះយើងនៅទីនេះ។"
+    },
+    {
+      "speaker": "Manchester",
+      "text": "And it's frustrating, I think, for the president, because he's put so much stock, I think, publicly, politically --",
+      "cn": "ខ្ញុំគិតថា រឿងនេះធ្វើឱ្យប្រធានាធិបតីខកចិត្ត ព្រោះគាត់បានវិនិយោគច្រើន ទាំងជាសាធារណៈ និងផ្នែកនយោបាយ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Frustrating for him.",
+      "cn": "រឿងនេះធ្វើឱ្យគាត់ខកចិត្ត។"
+    },
+    {
+      "speaker": "Manchester",
+      "text": "And yes, for everyone.",
+      "cn": "បាទ ហើយធ្វើឱ្យអ្នករាល់គ្នាខកចិត្តផងដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me play for you one of these tourists. OK? People are walking by, not vandalizing things, though clearly threatened if they are. And here's an example of just someone by the Reflecting Pool, kind of what they see.",
+      "cn": "សូមឱ្យខ្ញុំចាក់ការថតសំឡេងអ្នកទេសចរម្នាក់។ មិនអីទេ? មនុស្សដើរកាត់ ដោយមិនបំផ្លាញអ្វីឡើយ ទោះបីជាពួកគេនឹងត្រូវគេគំរាមកំហែងយ៉ាងច្បាស់ប្រសិនបើធ្វើក៏ដោយ។ នេះជាឧទាហរណ៍ មាននរណាម្នាក់នៅក្បែរស្រះទឹក មើលអ្វីដែលពួកគេឃើញ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "So, what do you think?",
+      "cn": "ដូច្នេះ តើអ្នកយល់យ៉ាងណាដែរ?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Oh, it's embarrassing. Yes, that's --",
+      "cn": "អូ នេះគួរឱ្យខ្មាស់ណាស់។ បាទ នោះគឺ -- --"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Yes. Money well spent.",
+      "cn": "បាទ។ លុយចំណាយមានតម្លៃ។"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "Well, it's a little dirty. So, yes. Just a little.",
+      "cn": "ហ៊ឺម កខ្វក់បន្តិច។ ដូច្នេះ បាទ។ គ្រាន់តែកខ្វក់បន្តិច។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Can you even see the blue?",
+      "cn": "តើអ្នកអាចឃើញពណ៌ខៀវទេ?"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "No, all I see is greens.",
+      "cn": "ទេ ខ្ញុំឃើញតែពណ៌បៃតងប៉ុណ្ណោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Out of the mouths of babes. The cost of the Reflecting Pool so far. Originally, we were told it would be 1.5 million. That's not what it is now. Now it is upwards of 14.8 million of green water. ELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": And it was also supposed to be done within two weeks. It's obviously not done within two weeks. So, look, I mean, this was a no-bid contract that was given to a pool company that had connections to the Trump administration.",
+      "cn": "កូនក្មេងនិយាយតាមត្រង់។ តម្លៃបច្ចុប្បន្ននៃស្រះទឹក។ ដំបូង គេប្រាប់យើងថា ១,៥ លានដុល្លារ។ ប៉ុន្តែឥឡូវនេះមិនមែនទេ។ ឥឡូវនេះវាឡើងដល់ ១៤,៨ លានដុល្លារសម្រាប់ទឹកពណ៌បៃតង។ អេលីណា ស្នាយដឺ អ្នកយកព័ត៌មាននយោបាយជាតិ \"NOTUS\"៖ ហើយវាគួរតែរួចរាល់ក្នុងរយៈពេលពីរសប្តាហ៍។ ជាក់ស្តែងមិនបានរួចរាល់ក្នុងរយៈពេលពីរសប្តាហ៍ទេ។ ដូច្នេះ អ្នកឃើញទេ នេះជាកិច្ចសន្យាគ្មានការដេញថ្លៃ ដែលផ្តល់ឱ្យក្រុមហ៊ុនអាងហែលទឹកមួយដែលមានទំនាក់ទំនងជាមួយរដ្ឋបាល Trump។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "\"The New York Times\" has done some great reporting on -- on sort of the questions surrounding who they hired and brought on to do this kind of work. But look, we know what's at the heart of this, which is that Donald Trump cares a lot about the way that Washington, D.C., looks in this moment, particularly as it comes to the 250th anniversary just a couple of weeks away. There is something that he really cares is something that he really cares about, the way that the city looks.",
+      "cn": "កាសែត New York Times បានធ្វើរបាយការណ៍ល្អៗខ្លះ អំពីការសង្ស័យថាតើពួកគេជួលអ្នកណាឱ្យធ្វើការងារប្រភេទនេះ។ ប៉ុន្តែអ្នកឃើញទេ យើងដឹងថាស្នូលនៃបញ្ហាគឺអ្វី នោះគឺថា ដូណាល់ ត្រាំ យកចិត្តទុកដាក់យ៉ាងខ្លាំងចំពោះរូបរាងរបស់ទីក្រុងវ៉ាស៊ីនតោនឌីស៊ីនៅពេលនេះ ជាពិសេសដោយសារតែនៅសល់តែប៉ុន្មានសប្តាហ៍ទៀតប៉ុណ្ណោះមុនពិធីរំលឹកខួប ២៥០ ឆ្នាំ។ គាត់យកចិត្តទុកដាក់យ៉ាងខ្លាំងចំពោះរូបរាងទីក្រុងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And one can argue that there are some fountains that are now running in places like Malcolm X Park or outside Union Station, which it is nice to have fountains.",
+      "cn": "អ្នកខ្លះអាចនិយាយថា ឥឡូវនេះមានប្រភពទឹកខ្លះនៅឧទ្យាន Malcolm X ឬនៅមុខស្ថានីយ៍ Union Station ដែលកំពុងដំណើរការ ហើយការមានប្រភពទឹកគឺជារឿងល្អ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I know, but this is six acres.",
+      "cn": "ខ្ញុំដឹង ប៉ុន្តែនេះគឺ ៦ ហិចតា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And telling people that this public property, which belongs to us, the American people, we can't touch it now, because we are the ones who have vandalized it, I feel like is delusional. ELEANOR MUELLER, WHITE HOUSE ECONOMIC POLICY REPORTER, \"SEMAFOR\": One of those arrested was a three-time Olympian canoeist who actually gave interviews afterwards, saying that he just bent down. He'd reached into the water. He touched the bottom of the pool.",
+      "cn": "ប្រាប់មនុស្សថា ទ្រព្យសម្បត្តិសាធារណៈនេះជារបស់ប្រជាជនអាមេរិក ឥឡូវនេះយើងមិនអាចប៉ះវាបានទេ ព្រោះយើងជាអ្នកបំផ្លាញវា ខ្ញុំគិតថានេះគួរឱ្យអស់សំណើចណាស់។ អេលីណរ មីល័រ អ្នកយកព័ត៌មានគោលនយោបាយសេដ្ឋកិច្ចសេតវិមាន \"SEMAFOR\"៖ អ្នកដែលត្រូវបានចាប់ខ្លួនម្នាក់គឺជាអតីតកីឡាករជិះទូកកាយ៉ាក់អូឡាំពិកបីសម័យកាល ដែលក្រោយពីកើតហេតុបានផ្តល់បទសម្ភាសន៍ថា គាត់គ្រាន់តែអោនចុះ ហើយដាក់ដៃចូលក្នុងទឹក ប៉ះបាតស្រះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And then when he walked away is when National Park Service federal officers had approached him and said that they were arresting him for vandalism. And so, I'm --",
+      "cn": "បន្ទាប់មក ពេលគាត់ដើរចេញ មន្ត្រីសហព័ន្ធពី National Park Service បានចូលទៅជិតគាត់ ហើយនិយាយថា ពួកគេចាប់ខ្លួនគាត់ពីបទបំផ្លាញទ្រព្យសម្បត្តិសាធារណៈ។ ដូច្នេះ ខ្ញុំ --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Like, do you have gold medals? Don't care.",
+      "cn": "ឧទាហរណ៍ តើអ្នកមានមេដាយមាសទេ? មិនខ្វល់ទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now's the time for your criminal origin story to begin.",
+      "cn": "ឥឡូវនេះ ជាពេលដែលរឿងដើមកំណើតនៃឧក្រិដ្ឋកម្មរបស់អ្នកចាប់ផ្តើម។"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "And I think it says a lot that Jeanine Pirro is the one leading the charge because she's shown herself, again and again, to be the person who's willing to take on Trump's sometimes more political, not to say vendettas, but certainly, agendas against people. She was the -- obviously, same prosecutor who led the investigation into Federal Reserve Chair Jerome Powell over the --",
+      "cn": "ខ្ញុំគិតថា ការដែល Jeanine Pirro ដឹកនាំការវាយប្រហារនេះ បង្ហាញយ៉ាងច្បាស់ ព្រោះនាងបានបង្ហាញម្តងហើយម្តងទៀតថា នាងសុខចិត្តទទួលយករបៀបវារៈរបស់ Trump ដែលពេលខ្លះមានលក្ខណៈនយោបាយច្រើនជាង -- មិននិយាយពីការសងសឹក -- ប៉ុន្តែច្បាស់ជាសំដៅលើអ្នកដទៃ។ នាងច្បាស់ជាព្រះរាជអាជ្ញាដដែល ដែលធ្លាប់ដឹកនាំការស៊ើបអង្កេតលើប្រធាន Federal Reserve គឺ Jerome Powell អំពី --"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "-- renovation of the Fed's headquarters.",
+      "cn": "-- ការជួសជុលទីស្នាក់ការកណ្តាលរបស់ Federal Reserve ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, we're bringing to bear the power of the state, the legal law enforcement arm --",
+      "cn": "ដូច្នេះ យើងកំពុងប្រើអំណាចរដ្ឋ ពោលគឺការអនុវត្តច្បាប់ --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- of the district to solve a public relations problem. That's what it looks like on its surface.",
+      "cn": "-- ដើម្បីដោះស្រាយបញ្ហាទំនាក់ទំនងសាធារណៈ។ នោះហើយជាអ្វីដែលវាមើលទៅលើផ្ទៃ។"
+    },
+    {
+      "speaker": "Schneider",
+      "text": "Yes. I mean, look, I think anyone who lives in Washington, D.C., agrees that, probably, this is not the biggest issue that this city faces right now is, you know, quote, vandalism of people touching the Reflecting Pool. But Jeanine Pirro, like many people in Trump's cabinet, understands that they have an audience of one, and they're going to serve that audience.",
+      "cn": "បាទ។ ខ្ញុំគិតថា អ្នកណាដែលរស់នៅ Washington D.C. នឹងយល់ស្របថា នេះប្រហែលជាមិនមែនជាបញ្ហាធំបំផុតដែលទីក្រុងនេះកំពុងប្រឈមមុខនោះទេ គឺអ្វីដែលគេហៅថា \"ការបំផ្លាញទ្រព្យសម្បត្តិសាធារណៈ\" -- មនុស្សប៉ះអាងទឹក Reflection Pool ។ ប៉ុន្តែ Jeanine Pirro ដូចជាមនុស្សជាច្រើននៅក្នុងគណៈរដ្ឋមន្ត្រី Trump យល់ថា ពួកគេមានទស្សនិកជនតែមួយ ហើយពួកគេនឹងបម្រើទស្សនិកជននោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. You guys, thank you so much. I want you to stay with us as we talk to you. Said more interesting things today. More important things today, like this. Game, set, Serena. Biggest thing in my group chats: the tennis icon will return to singles play at Wimbledon. Plus, the World Cup isn't just about soccer. It's about the vibes, and the cultures coming together are vibing. Good morning to everyone, in the meantime, from the Philadelphia Stadium, where France and Iraq will face off in a game today.",
+      "cn": "អរគុណច្រើន។ ខ្ញុំសង្ឃឹមថាអ្នកនឹងបន្តនៅជាមួយយើង ហើយយើងកំពុងនិយាយជាមួយអ្នក។ ថ្ងៃនេះមានរឿងគួរឱ្យចាប់អារម្មណ៍ជាច្រើនទៀត។ រឿងសំខាន់ជាងនេះនៅថ្ងៃនេះ ដូចជារឿងនេះ។ ការប្រកួតចប់ហើយ Serena ។ ដំណឹងធំបំផុតនៅក្នុងក្រុមជជែករបស់ខ្ញុំ៖ តារាកីឡាវាយកូនបាល់រូបនេះនឹងត្រលប់មកប្រកួតឯកត្តជន Wimbledon វិញ។ លើសពីនេះ World Cup មិនមែនគ្រាន់តែជាបាល់ទាត់ទេ។ វាគឺអំពីបរិយាកាស វប្បធម៌រួមគ្នាបង្កើតភាពស៊ីសង្វាក់គ្នា។ ក្នុងពេលជាមួយគ្នានេះ សួស្តីព្រឹកពីពហុកីឡដ្ឋាន Philadelphia ជាកន្លែងដែលបារាំង និងអ៊ីរ៉ាក់នឹងប្រកួតគ្នានៅថ្ងៃនេះ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Many people probably wrote us off or didn't know much about us, and that was sort of our motivation, as well. Let's show the world that we -- we deserve to compete.",
+      "cn": "មនុស្សជាច្រើនប្រហែលជាគិតថាយើងមិនអាច ឬមិនស្គាល់យើងច្រើនទេ ដែលជាកម្លាំងចិត្តមួយរបស់យើង។ សូមបង្ហាញដល់ពិភពលោកថាយើង -- យើងសមនឹងប្រកួតប្រជែង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Cape Verde and their fairy tale continues. The tiny island nation stunned Spain last week, and they just did it again, ending in a 2-2 draw against Uruguay on Sunday. And they got their first goal in the World Cup, one step closer to a legitimate chance of getting into the knockout stage. So, you've got dreams coming true. That's what the World Cup is all about. And the worries about filling stadiums and selling tickets at this point are gone because of moments like these.",
+      "cn": "Cape Verde រឿងនិទានរបស់ពួកគេនៅតែបន្ត។ កោះតូចនេះបានធ្វើឱ្យអេស្ប៉ាញភ្ញាក់ផ្អើលកាលពីសប្តាហ៍មុន ហើយពួកគេទើបតែធ្វើវាម្តងទៀត ដោយស្មើ 2-2 ជាមួយអ៊ុយរូហ្គាយកាលពីថ្ងៃអាទិត្យ។ ពួកគេបានស៊ុតបញ្ចូលទី World Cup ដំបូងរបស់ពួកគេ ហើយខិតទៅជិតឱកាសពិតប្រាកដក្នុងការឈានទៅវគ្គចែកពូល។ ដូច្នេះ សុបិនក្លាយជាការពិត។ នេះហើយជាអត្ថន័យរបស់ World Cup ។ ហើយការព្រួយបារម្ភអំពីការបំពេញកីឡដ្ឋាន និងការលក់សំបុត្របានរសាត់បាត់ទៅក្នុងពេលបែបនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Whether we're watching the next greats score their first World Cup goal or -- of what should be many to come, or seeing a team claim a World Cup victory for the first time in their history. Perhaps one of the most uniting things: seeing different cultures embracing.",
+      "cn": "មិនថាយើងកំពុងមើលកីឡាករឆ្នើមបន្ទាប់ស៊ុតបញ្ចូលទី World Cup ដំបូងរបស់ពួកគេ -- ដែលគួរតែជាគ្រាប់ទីមួយក្នុងចំណោមគ្រាប់ជាច្រើន ឬឃើញក្រុមមួយឈ្នះ World Cup ជាលើកដំបូងក្នុងប្រវត្តិសាស្ត្រ។ ប្រហែលជារឿងមួយដែលបង្រួបបង្រួមមនុស្សបំផុត៖ ការឃើញវប្បធម៌ផ្សេងៗគ្នារួមបញ្ចូលគ្នា។"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "As you pass statues in Boston, you're seeing the Tartan Army puts traffic cones on statues over in Scotland, and they brought that tradition back to Massachusetts.",
+      "cn": "ពេលអ្នកដើរកាត់រូបសំណាកនៅ Boston អ្នកនឹងឃើញ \"Tartan Army\" របស់ស្កុតឡែនដាក់កោណចរាចរណ៍លើរូបសំណាក ហើយពួកគេបាននាំប្រពៃណីនេះត្រឡប់ទៅ Massachusetts វិញ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "That's your first ever bite of Texas barbecue. What do you think?",
+      "cn": "នេះជាលើកទីមួយដែលអ្នកភ្លក់សាច់អាំងបែប Texas ។ តើអ្នកគិតយ៉ាងណាដែរ?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "I don't necessarily know if the United States was the best place for the World Cup, but I do feel like it is a very important place for this to be happening because of the amount of healing that is probably happening to our society.",
+      "cn": "ខ្ញុំមិនប្រាកដថាអាមេរិកជាកន្លែងល្អបំផុតសម្រាប់រៀបចំ World Cup ទេ ប៉ុន្តែខ្ញុំពិតជាគិតថាវាជាកន្លែងសំខាន់ណាស់ ព្រោះវាអាចជួយព្យាបាលសង្គមរបស់យើងបានច្រើន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Joining me now, Will Leitch, contributing editor for \"New York Magazine\" sports. Nature is healing is what I'm hearing. Why do you think all of this, like, culture clash is such a big deal? And I especially hear it coming out of the South, I should say: the fans from abroad who are visiting there. WILL LEITCH, CONTRIBUTING EDITOR, \"NEW YORK MAGAZINE\": Yes, to hear the people from the Netherlands talk about their Kansas City barbecue has really been kind of a wonderful aspect of this, too. Yes.",
+      "cn": "ឥឡូវនេះ សូមស្វាគមន៍ Will Leitch អ្នកនិពន្ធពិសេសផ្នែកកីឡារបស់ New York Magazine ។ ខ្ញុំឮថា \"ធម្មជាតិកំពុងព្យាបាល\"។ ហេតុអ្វីបានជាអ្នកគិតថាជម្លោះវប្បធម៌ទាំងអស់នេះសំខាន់ម្ល៉េះ? ខ្ញុំកត់សម្គាល់ជាពិសេសសំឡេងពីភាគខាងត្បូង៖ អ្នកគាំទ្រមកពីបរទេសកំពុងទៅលេងនៅទីនោះ។ Will Leitch អ្នកនិពន្ធពិសេស New York Magazine៖ បាទ ការឮជនជាតិហូឡង់និយាយអំពីសាច់អាំង Kansas City របស់ពួកគេ ពិតជាទិដ្ឋភាពដ៏អស្ចារ្យមួយនៃព្រឹត្តិការណ៍នេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You know, remember this was a -- we've talked about this. People were very concerned about coming in -- coming to the United States for a variety of reasons, from immigration to ICE to -- and there have been issues. The Iranian team, in particular, has been treated pretty shabbily by the U.S. government in this. But generally speaking, this tournament has gone off kind of magnificently in a way that has felt pretty healing for the United States at a certain level. You know, it's been a good reminder.",
+      "cn": "អ្នកដឹងទេ ចាំថាយើងបានពិភាក្សាពីមុន។ មនុស្សព្រួយបារម្ភយ៉ាងខ្លាំងអំពីការមកអាមេរិកដោយសារហេតុផលផ្សេងៗ ចាប់ពីអន្តោប្រវេសន៍ រហូតដល់ ICE -- ហើយពិតជាមានបញ្ហា។ ជាពិសេសក្រុមអ៊ីរ៉ង់ ត្រូវបានរដ្ឋាភិបាលអាមេរិកប្រព្រឹត្តយ៉ាងអាក្រក់។ ប៉ុន្តែជារួម ព្រឹត្តិការណ៍នេះបានដំណើរការយ៉ាងអស្ចារ្យ ហើយក្នុងកម្រិតខ្លះបានជួយព្យាបាលអាមេរិក។ អ្នកដឹងទេ វាជាការរំលឹកដ៏ល្អមួយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You know, we're kind of so caught up in the morass of everything that we do have a lot to show people, a lot of things to be proud of. I think you've seen that this is what the World Cup does, right? All of those worries about the World Cup, what's going to happen with this? What's going to happen with that? Once the game gets started, the games themselves are wonderful, but also all of these different cultures. I was fortunate to be at the Spain-Cabo Verde game, that first game in Atlanta.",
+      "cn": "អ្នកដឹងទេ យើងជាប់គាំងក្នុងរឿងផ្សេងៗ ប៉ុន្តែយើងពិតជាមានរឿងជាច្រើនដែលត្រូវបង្ហាញដល់មនុស្ស និងមានមោទនភាព។ ខ្ញុំគិតថាអ្នកបានឃើញហើយថានេះជាអ្វីដែល World Cup ធ្វើ មែនទេ? ការព្រួយបារម្ភទាំងអស់អំពី World Cup តើរឿងនេះនឹងកើតឡើងអ្វី? រឿងនោះនឹងកើតឡើងអ្វី? ពេលការប្រកួតចាប់ផ្តើម ការប្រកួតខ្លួនឯងគឺអស្ចារ្យ ហើយមានវប្បធម៌ផ្សេងៗគ្នាទាំងអស់នេះ។ ខ្ញុំមានសំណាងបានចូលរួមការប្រកួតអេស្ប៉ាញទល់នឹង Cape Verde ដែលជាការប្រកួតដំបូងនៅ Atlanta ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And just to -- to celebrate with Cabo Verde fans after. Cabo Verde has fewer people than Mesa, Arizona. I mean, this is a very, very small country. And the joy that they have, that you see this at every single one of these places. These venues have been full. The tickets have been very, very expensive. But the seats are full; the stands are full. So, people are going out to these games and really kind of having a pretty wonderful time.",
+      "cn": "បន្ទាប់មកបានអបអរជាមួយអ្នកគាំទ្រ Cape Verde ។ ចំនួនប្រជាជន Cape Verde តិចជាង Mesa រដ្ឋ Arizona ។ ខ្ញុំចង់និយាយថា វាជាប្រទេសតូចណាស់។ សេចក្តីរីករាយរបស់ពួកគេ អ្នកឃើញវានៅគ្រប់ទីកន្លែង។ កីឡដ្ឋានទាំងនេះពេញហើយ។ សំបុត្រថ្លៃណាស់។ ប៉ុន្តែកៅអីពេញ; កន្លែងឈរពេញ។ ដូច្នេះ មនុស្សទៅមើលការប្រកួតទាំងនេះ ហើយពិតជាមានភាពសប្បាយរីករាយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We talked about Cape Verde, as you mentioned, but we've got to talk about the U.S. Elmo weighed in online. He didn't want to step in it again, as he did with the Knicks. So, he actually, I think, tweeted, \"Just to be clear, USA to win. OK? Elmo loves everybody. Just to be clear, don't make this a thing.\" Honestly, evergreen tweet. But can you talk about how the U.S. is doing?",
+      "cn": "យើងបាននិយាយអំពី Cape Verde ដូចដែលអ្នកបានលើកឡើង ប៉ុន្តែយើងក៏ត្រូវនិយាយអំពីអាមេរិកដែរ។ Elmo បានបញ្ចេញមតិតាមអ៊ីនធឺណិត។ គាត់មិនចង់ជាន់ឈ្លីដូចគាត់ធ្វើជាមួយក្រុម Knicks ទេ។ ដូច្នេះ តាមពិតគាត់បានធ្វីតថា៖ \"ដើម្បីឱ្យច្បាស់ ក្រុមអាមេរិកឈ្នះ។ យល់ព្រម? Elmo ស្រឡាញ់អ្នកទាំងអស់គ្នា។ សូមកុំបង្ករឿង។\" និយាយដោយស្មោះត្រង់ នេះជាធ្វីតដ៏អស់កល្ប។ ប៉ុន្តែតើអ្នកអាចនិយាយអំពីរបៀបដែលក្រុមអាមេរិកលេងបានទេ?"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "We live in an age of Elmo having to say, \"Don't make this a thing.\"",
+      "cn": "យើងរស់នៅក្នុងសម័យដែល Elmo ត្រូវនិយាយថា \"កុំបង្ករឿង\"។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "As a general rule. But yet, the U.S. team has really -- this is the best team they've ever had in the World Cup. They finished third in 1930. It was a much smaller field and a much different game. The U.S. have looked terrific in a lot of ways, especially Pochettino, their coach, is a big -- He's coached Tottenham Hotspurs to the -- to the Champions League final. He was brought in to kind of fix this team. It has worked. They have played terrific.",
+      "cn": "ប៉ុន្តែជារួម ក្រុមអាមេរិកពិតជា -- នេះជាក្រុមល្អបំផុតរបស់ពួកគេនៅ World Cup ។ ពួកគេបានជាប់លេខ 3 ក្នុងឆ្នាំ 1930 ។ ពេលនោះមានក្រុមចូលរួមតិចជាង ហើយការប្រកួតខុសគ្នាឆ្ងាយ។ ក្រុមអាមេរិកមើលទៅអស្ចារ្យក្នុងទិដ្ឋភាពជាច្រើន ជាពិសេសគ្រូបង្វឹករបស់ពួកគេ Pochettino ដែលសំខាន់ -- គាត់ធ្លាប់នាំ Tottenham Hotspur ទៅវគ្គផ្តាច់ព្រាត់ Champions League ។ គាត់ត្រូវបានគេជួលឱ្យជួសជុលក្រុមនេះ។ វាបានដំណើរការ។ ពួកគេលេងបានយ៉ាងអស្ចារ្យ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "They haven't played any fantastic teams yet, but they've looked organized. They've played great. They've already won their group. We already know when their first game in the knockout round is going to be. It's going to be July 1, and -- it's going to be July 1. And so, it should set up very, very well for them. They have looked exciting. Generally speaking, the U.S., because their talent level has been lower, they've always played kind of a defensive game. They've always kind of quiet, good.",
+      "cn": "ពួកគេមិនទាន់ជួបក្រុមខ្លាំងណាមួយទេ ប៉ុន្តែពួកគេមើលទៅមានសណ្តាប់ធ្នាប់។ ពួកគេលេងបានល្អ។ ពួកគេបានឈ្នះវគ្គចែកពូលរួចហើយ។ យើងដឹងហើយថាការប្រកួតវគ្គចែកពូលដំបូងរបស់ពួកគេនឹងធ្វើឡើងនៅថ្ងៃទី 1 ខែកក្កដា។ ដូច្នេះ វាអំណោយផលណាស់សម្រាប់ពួកគេ។ ពួកគេមើលទៅគួរឱ្យរំភើប។ ជារួម ក្រុមអាមេរិកធ្លាប់លេងការពារដោយសារកម្រិតទេពកោសល្យទាប។ ពួកគេធ្លាប់ស្ងប់ស្ងាត់ និងលេងបានល្អ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "They've had good keepers and, like, tried to kind of just like fend off attacks. That's not what this team is doing. This team is playing hard. This team is playing fast, and it's scoring a lot of goals. It is very inspiring. You talk about the ticket prices. Initially, they were worries that the U.S. game against Paraguay was not going to sell out.",
+      "cn": "ពួកគេធ្លាប់មានអ្នកចាំទីល្អ ហើយព្យាយាមទប់ទល់ការវាយប្រហារ។ ប៉ុន្តែក្រុមនេះមិនធ្វើបែបនោះទេ។ ក្រុមនេះប្រយុទ្ធយ៉ាងខ្លាំង លេងលឿន ហើយស៊ុតបានច្រើន។ នេះពិតជាលើកទឹកចិត្តណាស់។ និយាយពីតម្លៃសំបុត្រ ដំបូងមនុស្សព្រួយបារម្ភថាការប្រកួតអាមេរិកទល់នឹងប៉ារ៉ាហ្គាយនឹងមិនលក់អស់ទេ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "That's not an issue for any of the rest of these games. There are tickets going for -- the given price for the -- for their first knockout game is now, I think, up to $4,000. They're -- people are very excited about this team in a way that is very new for the U.S. team. Usually, it's just a -- don't embarrass us. Don't -- don't make us look bad on a stage. They're not to the women's level yet, to be very clear.",
+      "cn": "ប៉ុន្តែការប្រកួតផ្សេងទៀតមិនមានបញ្ហានេះទេ។ តម្លៃសំបុត្រ - - តម្លៃសំបុត្រសម្រាប់ការប្រកួតចាញ់ចេញដំបូងរបស់ពួកគេឥឡូវនេះ ខ្ញុំគិតថា បានកើនឡើងដល់ 4000 ដុល្លារ។ មនុស្សមានការរំភើបចំពោះក្រុមនេះ ដែលជារឿងថ្មីសម្រាប់ក្រុមសហរដ្ឋអាមេរិក។ ជាធម្មតា គ្រាន់តែកុំធ្វើឱ្យយើងអាម៉ាស់។ កុំធ្វើឱ្យយើងខ្មាស់អៀននៅលើឆាក។ ប៉ុន្តែដោយច្បាស់លាស់ ពួកគេមិនទាន់ឈានដល់កម្រិតនៃក្រុមបាល់ទាត់នារីនៅឡើយទេ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "The women's are a world power. The U.S. is not there yet, but this is certainly the best men's team they've had in a very, very long time.",
+      "cn": "ក្រុមបាល់ទាត់នារីគឺជាក្រុមខ្លាំងនៅលើពិភពលោក។ ក្រុមបាល់ទាត់បុរសអាមេរិកមិនទាន់ដល់កម្រិតនោះទេ ប៉ុន្តែនេះពិតជាក្រុមបាល់ទាត់បុរសដ៏ល្អបំផុតរបស់ពួកគេក្នុងរយៈពេលដ៏យូរណាស់មកហើយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, that's a great reminder. You know, I want to mention this. Iran's team actually left a note in the locker room in L.A. I just want to show people on this little notebook here. It says, \"From the ancient Persia of thousands of years ago to the civilized Iran of today, the spirit of Iran remains alive and steadfast. We came to Los Angeles with pride, competed with honor, and leave with dignity. Thank you, Los Angeles, for your hospitality.\" We weren't sure they'd be able to be here or leave a note like that.",
+      "cn": "ទេ នេះជាការរំលឹកដ៏ល្អ។ ខ្ញុំចង់លើកឡើង។ ក្រុមអ៊ីរ៉ង់ពិតជាបានទុកក្រដាសមួយសន្លឹកនៅក្នុងបន្ទប់ស្លៀកពាក់នៅទីក្រុងឡូសអេនជឺលេស។ ខ្ញុំចង់បង្ហាញអ្នកនូវសៀវភៅកត់ត្រាតូចនេះ។ វាសរសេរថា៖ \"ពីពែរ្សបុរាណរាប់ពាន់ឆ្នាំមុន រហូតដល់អ៊ីរ៉ង់សម័យទំនើប ស្មារតីរបស់អ៊ីរ៉ង់នៅតែមានជីវិត និងរឹងមាំ។ យើងមកទីក្រុងឡូសអេនជឺលេសដោយមោទនភាព ប្រកួតប្រជែងដោយកិត្តិយស និងចាកចេញដោយសេចក្តីថ្លៃថ្នូរ។ សូមអរគុណចំពោះការស្វាគមន៍ដ៏កក់ក្តៅពីទីក្រុងឡូសអេនជឺលេស។\" យើងមិនប្រាកដពីមុនថាតើពួកគេអាចមកទីនេះ ឬទុកក្រដាសបែបនេះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And it reminds us of what's going on politically. Is there another shoe to drop? Is Trump going to make an appear after FIFA gave him a very special peace adjacent prize?",
+      "cn": "នេះរំលឹកយើងពីស្ថានភាពនយោបាយ។ តើមានអ្វីបន្តទៀតទេ? តើលោក Trump នឹងបង្ហាញខ្លួនបន្ទាប់ពី FIFA ប្រគល់ពានរង្វាន់ពិសេសទាក់ទងនឹងសន្តិភាពដល់គាត់ដែរឬទេ?"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Yes, very special prize. Yes. So, I think that the -- the final is in MetLife Stadium -- or sorry, New York-New Jersey Stadium in -- in East Rutherford. So, it's very possible there could be a Knicks-level-esque appearance for him. Certainly, he's been a big -- he's been a big part. He's been distracted by the pool lately. But generally speaking, he'd been a big part of what was going on with -- with this World Cup. He was at the draw, famously got his -- got his peace prize.",
+      "cn": "បាទ ពានរង្វាន់ពិសេសណាស់។ បាទ។ ដូច្នេះ ខ្ញុំគិតថាការប្រកួតវគ្គផ្តាច់ព្រ័ត្រនឹងធ្វើឡើងនៅ MetLife Stadium - - ឬសុំទោស នៅ New York-New Jersey Stadium ក្នុង East Rutherford។ ដូច្នេះ គាត់ទំនងជាអាចបង្ហាញខ្លួនដូចក្រុម Knicks ដែរ។ ពិតណាស់ គាត់តែងតែជាតួអង្គសំខាន់។ ថ្មីៗនេះគាត់មានការរំខានដោយអាងហែលទឹក។ ប៉ុន្តែជារួម គាត់គឺជាអ្នកចូលរួមដ៏សំខាន់ក្នុង World Cup នេះ។ គាត់បានចូលរួមក្នុងពិធីចាប់ឆ្នោត ហើយថែមទាំងទទួលបានពានរង្វាន់សន្តិភាពរបស់គាត់ដ៏ល្បីល្បាញផងដែរ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "And I feel like, for all the worries that like, listen, ICE has not been a major presence in this tournament, like a lot of people worried about. The Iranian team, in particular, has been treated incredibly shabbily in this tournament. They've had to fly out after their games; have not been allowed to stay in the country. They've had to leave, actually, the night of the game to go back to Mexico. Just -- just this weekend U.S.",
+      "cn": "ខ្ញុំគិតថា ទោះបីជាមនុស្សព្រួយបារម្ភថា ICE នឹងមិនមែនជាវត្តមានសំខាន់ក្នុងព្រឹត្តិការណ៍នេះដូចដែលមនុស្សជាច្រើនព្រួយបារម្ភក៏ដោយ ក៏ក្រុមអ៊ីរ៉ង់ជាពិសេសត្រូវបានគេប្រព្រឹត្តយ៉ាងអាក្រក់។ ពួកគេត្រូវហោះហើរចេញបន្ទាប់ពីការប្រកួតនីមួយៗ។ មិនត្រូវបានអនុញ្ញាតឱ្យស្នាក់នៅសហរដ្ឋអាមេរិកទេ។ តាមពិត ពួកគេត្រូវចាកចេញនៅយប់នៃការប្រកួត ហើយត្រឡប់ទៅម៉ិកស៊ិកវិញ។ នៅចុងសប្តាហ៍នេះ សហរដ្ឋអាមេរិក"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Homeland Secretary Markwayne Mullin claimed that a member of the Islamic Revolutionary Guard Corps was about to get on their plane. The team denies this, says this is in no way true. It -- this -- of all the teams in this, the one team that I think is actually a pretty inspiring story is Iran, in addition to the U.S. team, for the conditions that they've had to play under and have generally succeeded. They've played very well in this tournament.",
+      "cn": "រដ្ឋមន្ត្រីក្រសួងសន្តិសុខមាតុភូមិ Markwayne Mullin បានអះអាងថា សមាជិកកងពលយាមអ៊ីស្លាមម្នាក់ហៀបនឹងឡើងយន្តហោះរបស់ពួកគេ។ ក្រុមអ៊ីរ៉ង់បដិសេធរឿងនេះ ដោយនិយាយថាវាមិនមែនជាការពិតទាល់តែសោះ។ ក្នុងចំណោមក្រុមទាំងអស់ដែលចូលរួម ខ្ញុំគិតថាក្រុមអ៊ីរ៉ង់ ក្រៅពីក្រុមសហរដ្ឋអាមេរិក ពិតជារឿងរ៉ាវដែលផ្តល់ការបំផុសគំនិត ដោយគិតពីលក្ខខណ្ឌដែលពួកគេត្រូវប្រកួត ហើយជារួមទទួលបានជោគជ័យ។ ពួកគេបានសម្តែងបានយ៉ាងល្អក្នុងព្រឹត្តិការណ៍នេះ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "There is a non-zero possibility Iran certainly looks like they could advance to the knockout round and keep going. We -- this has been a very -- generally, other than the Iranian team, most of the major fears that people have worried about have not happened. But we still have a long way to go in this tournament. And eventually, the pool may be blue, and there may be something for -- for Trump to -- to turn his attention back to this.",
+      "cn": "ក្រុមអ៊ីរ៉ង់មើលទៅទំនងជាអាចឆ្លងផុតវគ្គចាញ់ចេញ និងបន្តទៅមុខទៀត។ ក្រៅពីក្រុមអ៊ីរ៉ង់ បញ្ហាធំៗភាគច្រើនដែលមនុស្សព្រួយបារម្ភមិនបានកើតឡើងទេ។ ប៉ុន្តែការប្រកួតនៅមានផ្លូវវែងឆ្ងាយទៀត។ នៅទីបំផុត អាងហែលទឹកអាចប្រែជាពណ៌ខៀវ ហើយ Trump អាចបង្វែរការយកចិត្តទុកដាក់ត្រឡប់មកទីនេះវិញ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "But so far, it's really been -- the focus has remained with the games and on the international spirit that the U.S. has been able to welcome here, making the Iranian team, even if the government isn't making them feel welcome, the fans are. And I think that speaks to kind of the really wonderful thing about this tournament so far, and really kind of every four years.",
+      "cn": "ប៉ុន្តែរហូតមកដល់ពេលនេះ ការផ្តោតអារម្មណ៍នៅតែស្ថិតលើការប្រកួត និងស្មារតីអន្តរជាតិដែលសហរដ្ឋអាមេរិកអាចស្វាគមន៍បាន ទោះបីជារដ្ឋាភិបាលមិនបានធ្វើឱ្យក្រុមអ៊ីរ៉ង់មានអារម្មណ៍ស្វាគមន៍ក៏ដោយ ប៉ុន្តែអ្នកគាំទ្របានធ្វើ។ ខ្ញុំគិតថានេះបង្ហាញពីភាពស្រស់ស្អាតនៃព្រឹត្តិការណ៍នេះ និងអ្វីដែលកើតឡើងរៀងរាល់បួនឆ្នាំម្តង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, Will Leitch, I know you're in Georgia, and there's like eight games that are going to be there. So, I'm sure you're going to be having a blast. Will Leitch, contributing writer at \"New York Magazine.\" Thank you.",
+      "cn": "Will Leitch ខ្ញុំដឹងថាអ្នកនៅរដ្ឋ Georgia ដែលមានការប្រកួតប្រហែលប្រាំបី។ ដូច្នេះ ខ្ញុំជឿថាអ្នកនឹងមានភាពសប្បាយរីករាយ។ Will Leitch អ្នកនិពន្ធទស្សនាវដ្តី New York Magazine។ សូមអរគុណ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now straight ahead on CNN THIS MORNING, we're going to get back to this breaking news. British Prime Minister Keir Starmer announcing his resignation. Plus, this here at home: a rash of tornadoes tear through the Midwest. var CNN = CNN || {};",
+      "cn": "ឥឡូវនេះ នៅក្នុងកម្មវិធី CNN This Morning យើងនឹងត្រឡប់ទៅកាន់ព័ត៌មានបន្ទាន់នេះ។ នាយករដ្ឋមន្ត្រីអង់គ្លេស Keir Starmer បានប្រកាសលាលែងពីតំណែង។ លើសពីនេះ ព័ត៌មានក្នុងស្រុក៖ ខ្យល់ព្យុះកំបុតត្បូងជាបន្តបន្ទាប់បានវាយប្រហារតំបន់ Midwest។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Good morning, everybody. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING. It is now half past the hour. And here's what's happening right now. At least two people are dead after a tornado outbreak in the Mideast. More -- in the Midwest. More than three dozen tornado reports were logged in the region by the storm prediction center. The deaths happened at two separate mobile homes in rural Illinois yesterday. Now that storm system is moving into the mid-Atlantic.",
+      "cn": "សួស្តីព្រឹក។ ខ្ញុំគឺ Oti Cornish។ សូមអរគុណដែលបានទស្សនា CNN This Morning។ ឥឡូវនេះម៉ោងកន្លះហួសបន្តិច។ នេះជាអ្វីដែលកំពុងកើតឡើង។ ខ្យល់ព្យុះកំបុតត្បូងបានផ្ទុះឡើងនៅតំបន់ Midwest ដែលបណ្តាលឱ្យមនុស្សយ៉ាងហោចណាស់ពីរនាក់ស្លាប់។ មជ្ឈមណ្ឌលព្យាករណ៍ព្យុះបានកត់ត្រារបាយការណ៍ខ្យល់ព្យុះកំបុតត្បូងជាង 36 នៅក្នុងតំបន់នោះ។ ការស្លាប់បានកើតឡើងកាលពីម្សិលមិញនៅក្នុងផ្ទះចល័តពីរនៅជនបទរដ្ឋ Illinois។ ឥឡូវនេះ ប្រព័ន្ធព្យុះកំពុងធ្វើដំណើរឆ្ពោះទៅកាន់តំបន់ Mid-Atlantic។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "And the DEA reportedly allowed hundreds of thousands of fentanyl pills to circulate in New Mexico between 2023 and 2025. That's according to three current and former DEA agents who spoke with the \"Associated Press.\" It was a controversial tactic aimed at building larger criminal cases against drug traffickers. They claim, quote, \"we 100 percent got people killed. And this morning, Vice President J.D. Vance is in Switzerland for high-level diplomatic talks with Iranian officials.",
+      "cn": "តាមរបាយការណ៍ DEA បានអនុញ្ញាតឱ្យថ្នាំគ្រាប់ fentanyl រាប់រយពាន់គ្រាប់ចរាចរនៅក្នុងរដ្ឋ New Mexico ចន្លោះឆ្នាំ 2023 ដល់ 2025។ នេះបើយោងតាមភ្នាក់ងារ DEA បច្ចុប្បន្ន និងអតីតចំនួនបីនាក់ដែលបានផ្តល់ព័ត៌មានដល់ Associated Press។ នេះជាយុទ្ធសាស្ត្រដ៏ចម្រូងចម្រាសដែលមានគោលបំណងកសាងករណីព្រហ្មទណ្ឌធំជាងនេះប្រឆាំងនឹងអ្នកជួញដូរគ្រឿងញៀន។ ពួកគេបានអះអាងថា \"យើងបណ្តាលឱ្យមនុស្សស្លាប់ 100%\"។ ព្រឹកនេះ អនុប្រធានាធិបតី JD Vance កំពុងចរចាកម្រិតខ្ពស់ជាមួយមន្ត្រីអ៊ីរ៉ង់នៅប្រទេសស្វីស។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Sunday the two sides held marathon talks to try to establish a long term peace agreement with Iran. But the talks so far have been described as positive and constructive according to mediators from Pakistan and Qatar. And this morning, British Prime Minister Keir Starmer, resigning.",
+      "cn": "កាលពីថ្ងៃអាទិត្យ ភាគីទាំងពីរបានធ្វើការចរចាដ៏យូរអង្វែង ដើម្បីព្យាយាមឈានដល់កិច្ចព្រមព្រៀងសន្តិភាពរយៈពេលវែងជាមួយអ៊ីរ៉ង់។ ប៉ុន្តែបើយោងតាមអ្នកសម្រុះសម្រួលមកពីប៉ាគីស្ថាន និងកាតា រហូតមកដល់ពេលនេះ ការចរចាត្រូវបានពណ៌នាថាមានភាពវិជ្ជមាន និងស្ថាបនា។ ព្រឹកនេះ នាយករដ្ឋមន្ត្រីអង់គ្លេស Keir Starmer បានលាលែងពីតំណែង។"
+    },
+    {
+      "speaker": "Keir Starmer",
+      "text": "The question my party is asking now is whether I am best placed to lead us into the next general election. I have heard the answer of my parliamentary party to that question. And I accept that answer with good grace.",
+      "cn": "សំណួរដែលគណបក្សរបស់ខ្ញុំកំពុងសួរឥឡូវនេះគឺថា តើខ្ញុំជាមនុស្សដែលស័ក្តិសមបំផុតដើម្បីដឹកនាំយើងចូលទៅក្នុងការបោះឆ្នោតសកលលើកក្រោយដែរឬទេ? ខ្ញុំបានឮចម្លើយរបស់ក្រុមសភារបស់ខ្ញុំចំពោះសំណួរនេះ។ ខ្ញុំទទួលយកចម្លើយនោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, nominations to select a new Labour Party leader are set to open early next month. Starmer says he hopes a new prime minister will be in place when parliament returns from summer recess. That's in September. Starmer's resignation comes just shy of two years into his tenure. Joining me now to discuss, Patrick Baker, host of \"Politico's\" \"Westminster Insider\" podcast. Good morning. Thank you so much for being here. PATRICK BAKER, HOST, \"POLITICO'S\" \"WESTMINSTER INSIDER\"",
+      "cn": "ឥឡូវនេះ ការតែងតាំងសម្រាប់ការជ្រើសរើសមេដឹកនាំគណបក្សពលករថ្មីនឹងចាប់ផ្តើមនៅដើមខែក្រោយ។ Starmer បាននិយាយថាគាត់សង្ឃឹមថានឹងមាននាយករដ្ឋមន្ត្រីថ្មីម្នាក់នៅក្នុងតំណែងបន្ទាប់ពីវិស្សមកាលរដូវក្តៅរបស់សភា ពោលគឺនៅខែកញ្ញា។ Starmer លាលែងនៅពេលដែលអាណត្តិរបស់គាត់ទើបតែពេញពីរឆ្នាំបន្តិច។ ឥឡូវនេះចូលរួមជាមួយខ្ញុំគឺ Patrick Baker ម្ចាស់ផតខាស់ \"Westminster Insider\" នៃ Politico។ សួស្តីព្រឹក។ សូមអរគុណច្រើនដែលបានមក។"
+    },
+    {
+      "speaker": "Podcast",
+      "text": "Hi. Great to be with you.",
+      "cn": "សួស្តី។ រីករាយដែលបាននៅទីនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, I just want to remind people, there's been almost half a dozen prime ministers since Brexit, and it's been a decade since Brexit. So, I think, to the American public, we see a lot of churn. What was it that took Starmer down in the end?",
+      "cn": "ឥឡូវនេះ ខ្ញុំចង់រំលឹកអ្នកថា ចាប់តាំងពី Brexit មក យើងមាននាយករដ្ឋមន្ត្រីជិតប្រាំមួយរូប ហើយ Brexit បានកន្លងផុតទៅដប់ឆ្នាំហើយ។ ដូច្នេះ ខ្ញុំគិតថា សម្រាប់សាធារណជនអាមេរិក យើងឃើញមានការផ្លាស់ប្តូរច្រើន។ តើអ្វីទៅដែលនាំឱ្យ Starmer ដួលរលំ?"
+    },
+    {
+      "speaker": "Baker",
+      "text": "I think when Starmer got elected two years ago on this mandate of change, that was the Labour Party's slogan into the last election almost exactly two years ago, there was a real desire and a real hope that they would be different to the conservative party that had gone before, who had, as you say, had run through a whole host of different prime ministers.",
+      "cn": "ខ្ញុំគិតថា នៅពេលដែល Starmer ត្រូវបានជ្រើសរើសកាលពីពីរឆ្នាំមុនជាមួយនឹងបេសកកម្មនៃការផ្លាស់ប្តូរ - - នេះគឺស្ទើរតែពីរឆ្នាំមុនដែលគណបក្សពលករមានពាក្យស្លោកក្នុងការបោះឆ្នោតសកលលើកមុន - - មនុស្សពិតជាចង់បាន និងសង្ឃឹមថាពួកគេនឹងខុសពីគណបក្សអភិរក្សនិយមមុន ដូចដែលអ្នកបាននិយាយ ដែលបានឆ្លងកាត់នាយករដ្ឋមន្ត្រីផ្សេងៗគ្នាជាបន្តបន្ទាប់។"
+    },
+    {
+      "speaker": "Baker",
+      "text": "Keir Starmer's pitch was, I'm the man to bring stability and order to British politics, but they basically made a series of what felt like unforced errors right at the start, which really set the tone. They decided to cut winter fuel allowance for elderly people in a move that was kind of seen as really typically un- Labour. And also there was a scandal over Keir Starmer accepting free gifts as prime minister, like a suit, glasses, those kind of things.",
+      "cn": "ពាក្យស្លោកយុទ្ធនាការរបស់ Keir Starmer គឺ ខ្ញុំជាអ្នកដែលអាចនាំមកនូវស្ថិរភាព និងសណ្តាប់ធ្នាប់ដល់នយោបាយអង់គ្លេស ប៉ុន្តែពួកគេបានធ្វើកំហុសដែលមើលទៅដូចជាមិនចាំបាច់ជាបន្តបន្ទាប់តាំងពីដំបូង ដែលពិតជាបានកំណត់សម្លេង។ ពួកគេបានសម្រេចចិត្តកាត់បន្ថយប្រាក់ឧបត្ថម្ភឥន្ធនៈរដូវរងាសម្រាប់មនុស្សចាស់ ដែលជាសកម្មភាពដែលត្រូវបានគេមើលឃើញថាមិនស្របតាមប្រពៃណីរបស់គណបក្សពលករ។ លើសពីនេះ មានរឿងអាស្រូវមួយទាក់ទងនឹង Keir Starmer ទទួលអំណោយឥតគិតថ្លៃជានាយករដ្ឋមន្ត្រី ដូចជាឈុត វ៉ែនតាជាដើម។"
+    },
+    {
+      "speaker": "Baker",
+      "text": "Kind of sounds like small things, but this really at the start of those two years, set the framing, set the tone for people to kind of start to wonder, actually, is this government very different to what we've seen before? Now, obviously, as it's developed, we've seen more recently there's been a real scandal over the appointment of Peter Mandelson, the ambassador to the United States.",
+      "cn": "ស្តាប់ទៅដូចជារឿងតូចតាច ប៉ុន្តែវាពិតជាបានកំណត់ក្របខ័ណ្ឌ និងសម្លេងក្នុងរយៈពេលពីរឆ្នាំដំបូង ដែលធ្វើឱ្យមនុស្សចាប់ផ្តើមសង្ស័យថា តើរដ្ឋាភិបាលនេះពិតជាខុសពីអ្វីដែលយើងធ្លាប់ឃើញពីមុនមែនទេ? ឥឡូវនេះ ជាក់ស្តែង នៅពេលដែលព្រឹត្តិការណ៍បានវិវត្ត យើងទើបតែឃើញការតែងតាំង Peter Mandelson ជាឯកអគ្គរដ្ឋទូតប្រចាំសហរដ្ឋអាមេរិក ដែលបណ្តាលឱ្យមានរឿងអាស្រូវពិតប្រាកដមួយ។"
+    },
+    {
+      "speaker": "Baker",
+      "text": "And his judgment has really been called into question over that, as we found out more and more through the constant release of the Jeffrey Epstein files, that I know viewers on your side of the pond will be familiar with this story --",
+      "cn": "ជាមួយនឹងការបង្ហាញឯកសាររបស់ Jeffrey Epstein ជាបន្តបន្ទាប់ យើងទទួលបានព័ត៌មានបន្ថែម ដែលធ្វើឲ្យការវិនិច្ឆ័យរបស់គាត់ត្រូវបានចោទសួរ។ ខ្ញុំដឹងថាទស្សនិកជននៅទីនោះស្គាល់រឿងនេះច្បាស់ហើយ --"
+    },
+    {
+      "speaker": "Baker",
+      "text": "As one of those that just seem to go away. And I think that is really what's thrown it more recently into a kind of state of crisis. So, yes, it's been a wild ride.",
+      "cn": "ដូចជារឿងដែលហាក់ដូចជាមិនដែលបាត់ទៅណាទេ។ ខ្ញុំគិតថានេះជាមូលហេតុដែលធ្វើឲ្យស្ថានភាពចូលដល់វិបត្តិនាពេលថ្មីៗនេះ។ ដូច្នេះ បាទ នេះពិតជាដំណើរដ៏ឆ្កួតមួយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I want to -- as he was speaking this morning at Downing Street, I was like, is that music? There was like this music playing behind him. And it turned out it was protesters who were blasting the anthem for the E.U., because it has been almost ten years since the Brexit vote. But since Brexit, there's been the pandemic, the Ukrainian war, I didn't realize this, but an immigration surge as U.K. tried to mitigate some of the concerns of Brexit.",
+      "cn": "ខ្ញុំគិតថា -- ព្រឹកនេះពេលគាត់និយាយនៅផ្លូវ Downing Street ខ្ញុំគិតថា តើនោះជាតន្ត្រីទេ? មានតន្ត្រីលេងនៅពីក្រោយគាត់។ បែរជាដឹងថាអ្នកតវ៉ាកំពុងលេងភ្លេងសហភាពអឺរ៉ុប ព្រោះជិតដល់១០ឆ្នាំហើយចាប់តាំងពីការធ្វើប្រជាមតិ Brexit។ ប៉ុន្តែចាប់តាំងពី Brexit មក ក៏មានជំងឺរាតត្បាត សង្គ្រាមអ៊ុយក្រែន ហើយអ្វីដែលខ្ញុំមិននឹកស្មានដល់ គឺរលកជនអន្តោប្រវេសន៍ ពេលដែលចក្រភពអង់គ្លេសព្យាយាមបន្ធូរបន្ថយកង្វល់មួយចំនួនពី Brexit។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, does this put reform in a stronger position? Are we looking at another Labour leader? You know, people have been talking about Andy Burnham because he won -- this is the greater Manchester mayor. Is this still a battle of Labour versus reform? And if so, what does Starmer leaving say about that race?",
+      "cn": "ដូច្នេះ តើនេះធ្វើឱ្យគណបក្សកំណែទម្រង់ស្ថិតក្នុងទីតាំងល្អជាងឬ? តើយើងកំពុងផ្តោតលើមេដឹកនាំគណបក្សពលករម្នាក់ទៀតឬ? អ្នកដឹងទេ មនុស្សកំពុងនិយាយអំពី Andy Burnham ព្រោះគាត់បានឈ្នះ -- គាត់ជាអភិបាលក្រុង Greater Manchester។ តើនេះនៅតែជាការប្រកួតរវាងគណបក្សពលករ និងគណបក្សកំណែទម្រង់ឬ? បើដូច្នេះ តើការចាកចេញរបស់ Starmer មានន័យយ៉ាងណាចំពោះការប្រកួតនេះ?"
+    },
+    {
+      "speaker": "Baker",
+      "text": "I think the first thing to say is, your point about Brexit is right. Essentially, what we've seen over the past decade is British voters trying to, in various ways, push a button marked change, whether that was for Brexit, whether that was for Boris Johnson, who was saying, I'm going to get Brexit done. Then the Tories had a whole host of different scandals. So, then they wanted change again with Keir Starmer. And they feel like they haven't got it.",
+      "cn": "ខ្ញុំគិតថាដំបូងត្រូវនិយាយថា អ្នកនិយាយត្រូវអំពី Brexit។ ជាទូទៅ អ្វីដែលយើងឃើញក្នុងរយៈពេលដប់ឆ្នាំចុងក្រោយគឺអ្នកបោះឆ្នោតអង់គ្លេសព្យាយាមគ្រប់មធ្យោបាយដើម្បីចុចប៊ូតុង 'ផ្លាស់ប្តូរ' មិនថាសម្រាប់ Brexit ឬសម្រាប់ Boris Johnson -- ដែលនិយាយថា 'ខ្ញុំនឹងបញ្ចប់ Brexit'។ បន្ទាប់មកគណបក្សអភិរក្សនិយមមានរឿងអាស្រូវផ្សេងៗ។ ដូច្នេះ ពួកគេសង្ឃឹមថានឹងមានការផ្លាស់ប្តូរតាមរយៈ Keir Starmer។ ប៉ុន្តែពួកគេមានអារម្មណ៍ថាមិនទទួលបានការផ្លាស់ប្តូរនោះទេ។"
+    },
+    {
+      "speaker": "Baker",
+      "text": "So, now, two years in, Andy Burnham is presenting himself as the Labour person who can deliver that longed for change. But I think you're right. I think the real battle that is scaring a lot of Labour MPs is the threat of Nigel Farage and reform. And that's really what led to the most recent crisis was the reform party doing very well in the local elections, a.k.a. the mid-term elections here.",
+      "cn": "ដូច្នេះ ឥឡូវពីរឆ្នាំក្រោយមក Andy Burnham បង្ហាញខ្លួនជាឥស្សរជនគណបក្សពលករដែលអាចសម្រេចបាននូវការផ្លាស់ប្តូរដែលមនុស្សចង់បាន។ ប៉ុន្តែខ្ញុំគិតថាអ្នកនិយាយត្រូវ។ ខ្ញុំគិតថាការគំរាមកំហែងដែលធ្វើឱ្យសមាជិកសភាគណបក្សពលករជាច្រើនភ័យខ្លាចគឺ Nigel Farage និងគណបក្សកំណែទម្រង់។ ហើយនេះជាមូលហេតុនៃវិបត្តិថ្មីៗនេះ -- គណបក្សកំណែទម្រង់ធ្វើបានល្អណាស់ក្នុងការបោះឆ្នោតមូលដ្ឋាន (ពោលគឺការបោះឆ្នោតពាក់កណ្តាលអាណត្តិនៅទីនេះ)។"
+    },
+    {
+      "speaker": "Baker",
+      "text": "And so I think, unless Andy Burnham can -- who looks like he's going to take over for -- as prime minister, the very popular mayor of Manchester here, unless he can really deliver quickly in the next two to three years, there will be people again looking at reform going, well, we've tried everything now. We haven't got the change we wanted. We voted Brexit. That didn't work. We voted for a whole host of different prime ministers. Nothing is working.",
+      "cn": "ដូច្នេះ ខ្ញុំគិតថា លើកលែងតែ Andy Burnham -- ដែលមើលទៅនឹងក្លាយជានាយករដ្ឋមន្ត្រី គាត់ជាអភិបាលក្រុង Manchester ដ៏ពេញនិយមនៅទីនេះ -- លើកលែងតែគាត់អាចទទួលបានលទ្ធផលរហ័សក្នុងរយៈពេលពីរទៅបីឆ្នាំខាងមុខ បើមិនដូច្នេះទេ មនុស្សនឹងងាកទៅរកគណបក្សកំណែទម្រង់ម្តងទៀត ដោយគិតថា៖ យើងបានសាកល្បងអ្វីៗទាំងអស់ហើយ។ យើងមិនទទួលបានការផ្លាស់ប្តូរដែលយើងចង់បានទេ។ យើងបោះឆ្នោតគាំទ្រ Brexit តែមិនបានសម្រេច។ យើងបោះឆ្នោតជ្រើសរើសនាយករដ្ឋមន្ត្រីផ្សេងៗគ្នា។ គ្មានអ្វីដំណើរការទេ។"
+    },
+    {
+      "speaker": "Baker",
+      "text": "And so, reforms pitch is very much, we are the insurgent populist party that can actually smash up the status quo, smash up the establishment and finally deliver change. But it's kind of a -- a bit of a Houdini act, really, because, obviously, Nigel Farage was one of the main architects of Brexit in the first place and many feel that Brexit hasn't been a success.",
+      "cn": "ដូច្នេះ ពាក្យស្លោករបស់គណបក្សកំណែទម្រង់គឺច្បាស់ណាស់៖ យើងជាគណបក្សប្រជានិយមបះបោរ ដែលអាចបំបែកស្ថានភាពបច្ចុប្បន្ន បំបែកប្រព័ន្ធ និងទីបំផុតសម្រេចបានការផ្លាស់ប្តូរ។ ប៉ុន្តែនេះប្រៀបដូចជាល្បិចគេចខ្លួនរបស់ Houdini ព្រោះជាក់ស្តែង Nigel Farage ខ្លួនឯងគឺជាអ្នករៀបចំដ៏សំខាន់ម្នាក់នៃ Brexit ហើយមនុស្សជាច្រើនយល់ថា Brexit មិនបានជោគជ័យទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Well, Patrick Baker, thank you so much. You're going to have a busy day ahead. Appreciate it.",
+      "cn": "បាទ។ ល្អណាស់ Patrick Baker អរគុណច្រើន។ ថ្ងៃនេះអ្នកនឹងរវល់។ អរគុណ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now I want to turn to Italy because the president has doubled down on his feud with the prime minister there. And it's basically over this photo. Trump posted on Truth Social that Giorgia Meloni is, quote, \"doing poorly in Italy with her level of popularity.\" So Meloni responded saying, quote, \"my popularity is none of your concern, and I suggest you focus on yours.\" Now, this back and forth basically started when the U.S.",
+      "cn": "ឥឡូវខ្ញុំចង់ងាកទៅរកអ៊ីតាលី ព្រោះប្រធានាធិបតីបានបង្កើនជម្លោះរបស់គាត់ជាមួយនាយករដ្ឋមន្ត្រីអ៊ីតាលី។ ហើយនេះជាមូលដ្ឋានមកពីរូបថតនេះ។ Trump បានបង្ហោះនៅលើ Truth Social ថា Giorgia Meloni 'មានប្រជាប្រិយភាពទាបនៅអ៊ីតាលី'។ Meloni ឆ្លើយតបថា 'ប្រជាប្រិយភាពរបស់ខ្ញុំមិនមែនជារឿងរបស់អ្នកទេ ខ្ញុំស្នើឱ្យអ្នកផ្តោតលើប្រជាប្រិយភាពរបស់អ្នកវិញ'។ ការដេញដោលគ្នានេះជាមូលដ្ឋានចាប់ផ្តើមពីសហរដ្ឋអាមេរិក"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "president accused the Italian prime minister of begging for a photo with him during the G7 Summit last week, which is not how she remembers it. GIORGIA MELONI, ITALIAN PRIME MINISTER (through translator): Donald Trump's statements are completely made up. I am frankly astonished. I don't know why the president of the United States behaves like this toward his allies. There is one thing he should remember, neither I nor Italy ever beg.",
+      "cn": "ប្រធានាធិបតីកាលពីសប្តាហ៍មុនក្នុងអំឡុងពេលកិច្ចប្រជុំកំពូល G7 បានចោទប្រកាន់នាយករដ្ឋមន្ត្រីអ៊ីតាលីថាបានអង្វរសុំថតរូបជាមួយគាត់ ប៉ុន្តែការចងចាំរបស់នាងមិនដូច្នេះទេ។ នាយករដ្ឋមន្ត្រីអ៊ីតាលី Giorgia Meloni (តាមរយៈអ្នកបកប្រែ) បាននិយាយថា៖ សេចក្តីថ្លែងការណ៍របស់ Trump គឺជាការប្រឌិតទាំងស្រុង។ ខ្ញុំមានការតក់ស្លុត។ ខ្ញុំមិនដឹងថាហេតុអ្វីប្រធានាធិបតីអាមេរិកប្រព្រឹត្តបែបនេះចំពោះសម្ព័ន្ធមិត្តរបស់គាត់។ គាត់គួរតែចងចាំរឿងមួយ ខ្ញុំ និងអ៊ីតាលីមិនដែលអង្វរសុំអ្វីទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Group chat is back. With friends like these, as we say. I don't know who wants to go first, but why do you think this is persisting the way it is? ELENA SCHNEIDER, NATIONAL POLITICAL REPORTER, \"NOTUS\": Well, look, Giorgia Meloni is somebody who is seen as a staunch ally of the president. She was one of the only -- I think the only foreign dignitary who attended his inauguration in 2025.",
+      "cn": "ការជជែកជាក្រុមបានត្រលប់មកវិញហើយ។ ដូចដែលយើងបាននិយាយ មានមិត្តបែបនេះ។ ខ្ញុំមិនដឹងថាអ្នកណាចង់និយាយមុនទេ ប៉ុន្តែតើអ្នកគិតថាហេតុអ្វីរឿងនេះបន្តកើតមាន? Elena Schneider អ្នកយកព័ត៌មាននយោបាយជាតិ NOTUS៖ មែនហើយ Giorgia Meloni ត្រូវបានគេមើលឃើញថាជាសម្ព័ន្ធមិត្តរឹងមាំរបស់ប្រធានាធិបតី។ នាងគឺជាមនុស្សតែម្នាក់គត់ -- ខ្ញុំគិតថាជាឥស្សរជនបរទេសតែម្នាក់គត់ដែលបានចូលរួមក្នុងពិធីសម្ពោធឆ្នាំ 2025 របស់គាត់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This has been a really warm, strong relationship where she was sort of seen as the leader amongst NATO leaders who could really reach the president. And I think it is really notable that this spat has continued because I think it reflects his larger frustration with NATO allies over this U.S.-Iran conflict. And let's not forget that this spat sort of started a couple of weeks ago when he -- when Donald Trump attacked the pope and then Giorgia Meloni, you know, defended the pope in light of the U.S.-Iran War.",
+      "cn": "ទំនាក់ទំនងនេះតែងតែមានភាពកក់ក្តៅ និងរឹងមាំ ហើយនាងត្រូវបានគេមើលឃើញថាជាមេដឹកនាំណាតូដែលអាចទំនាក់ទំនងជាមួយប្រធានាធិបតីបានពិតប្រាកដ។ ខ្ញុំគិតថាការដែលជម្លោះនេះបន្តកើតមានគឺគួរឱ្យកត់សម្គាល់ ព្រោះវាឆ្លុះបញ្ចាំងពីការមិនពេញចិត្តរបស់គាត់ចំពោះសម្ព័ន្ធមិត្តណាតូលើបញ្ហាជម្លោះអាមេរិក-អ៊ីរ៉ង់។ កុំភ្លេចថា ជម្លោះនេះបានចាប់ផ្តើមប្រហែលពីរបីសប្តាហ៍មុន នៅពេលដែល Donald Trump វាយប្រហារសម្តេចប៉ាប ហើយបន្ទាប់មក Giorgia Meloni បានការពារសម្តេចប៉ាបក្នុងបរិបទនៃសង្គ្រាមអាមេរិក-អ៊ីរ៉ង់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There is -- let's go back to the offense. The offense is not backing up Trump when the pope stood up to him. JULIA MANCHESTER, NATIONAL POLITICAL REPORTER, \"THE HILL\": Absolutely. And we know that Giorgia Meloni has been, like you said. Elena, an ally of the president. She spoke at things like CPAC, for example. She's been a popular figure even within the American conservative movement.",
+      "cn": "សូមត្រលប់ទៅរកការប្រមាថវិញ។ ការប្រមាថគឺថា នៅពេលដែលសម្តេចប៉ាបប្រឆាំងនឹង Trump នាងមិនបានគាំទ្រ Trump ទេ។ Julia Manchester អ្នកយកព័ត៌មាននយោបាយជាតិ The Hill៖ ត្រឹមត្រូវណាស់។ យើងដឹងថា Giorgia Meloni តែងតែជាសម្ព័ន្ធមិត្តរបស់ប្រធានាធិបតី ដូចដែលអ្នកបាននិយាយ។ នាងធ្លាប់ថ្លែងនៅក្នុងព្រឹត្តិការណ៍ដូចជា CPAC ជាដើម។ នាងថែមទាំងជាឥស្សរជនដ៏ពេញនិយមនៅក្នុងចលនាអភិរក្សនិយមអាមេរិកទៀតផង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Because they've backed a lot of right-wing parties in Europe.",
+      "cn": "បាទ។ ព្រោះពួកគេគាំទ្រគណបក្សស្តាំនិយមជាច្រើននៅអឺរ៉ុប។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's their whole thing.",
+      "cn": "នោះហើយជាអ្វីដែលពួកគេមានទាំងអស់។"
+    },
+    {
+      "speaker": "Manchester",
+      "text": "But, you know, taking a step back from that, it's fascinating to see sort of, you know, I guess, I don't want to say the decline, but maybe the tensions that are rising between Trump and many European leaders, like Meloni, at this time during NATO -- because of the Iraq war, NATO tensions, et cetera.",
+      "cn": "ប៉ុន្តែ បើមើលពីទស្សនៈធំ ការឃើញភាពតានតឹងរវាង Trump និងមេដឹកនាំអឺរ៉ុបជាច្រើន (ដូចជា Meloni) នៅពេលនេះ ដោយសារសង្គ្រាមអ៊ីរ៉ាក់ ភាពតានតឹងណាតូជាដើម គឺគួរឱ្យចាប់អារម្មណ៍ សូម្បីតែអាចនិយាយថាកាន់តែអាក្រក់ទៅៗ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. So, humiliates Meloni.",
+      "cn": "បាទ។ ដូច្នេះ បានធ្វើឱ្យ Meloni អាម៉ាស់មុខ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Starmer steps down. He kicks dirt over it by pre-announcing it.",
+      "cn": "Starmer បានលាលែងពីតំណែង។ គាត់ប្រកាសរឿងនេះមុនកាលកំណត់ ដើម្បីព្យាយាមបិទបាំងរឿងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I don't really know who's left.",
+      "cn": "ខ្ញុំពិតជាមិនដឹងថាមានអ្នកណានៅសល់ទៀតទេ។"
+    },
+    {
+      "speaker": "Manchester",
+      "text": "Yes, but at the same time though, in terms of who's left, we see --",
+      "cn": "បាទ ប៉ុន្តែក្នុងពេលតែមួយ ទាក់ទងនឹងអ្នកដែលនៅសល់ យើងឃើញ --"
+    },
+    {
+      "speaker": "Manchester",
+      "text": "Yes. The administration is turning their direction towards Latin America. And yesterday we did see the right wing, Trump-backed conservative leader in Colombia's election win.",
+      "cn": "បាទ។ រដ្ឋាភិបាលកំពុងបង្វែរការយកចិត្តទុកដាក់ទៅអាមេរិកឡាទីន។ កាលពីម្សិលមិញយើងពិតជាបានឃើញថា នៅក្នុងការបោះឆ្នោតកូឡុំប៊ី មេដឹកនាំអភិរក្សនិយមស្តាំនិយមដែលគាំទ្រដោយ Trump បានឈ្នះ។"
+    },
+    {
+      "speaker": "Manchester",
+      "text": "So, you're seeing, I think, more of this support from the Trump administration in Latin America as they maybe turn away from Europe.",
+      "cn": "ដូច្នេះ ខ្ញុំគិតថាអ្នកនឹងឃើញរដ្ឋាភិបាល Trump ផ្តល់ការគាំទ្របន្ថែមទៀតនៅអាមេរិកឡាទីន ព្រោះពួកគេអាចនឹងកំពុងឃ្លាតឆ្ងាយពីអឺរ៉ុប។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, just in terms of this battle with Italy, the foreign minister actually just canceled a trip to the U.S. where they were going to have a business investment and science forum in Miami. Marco Rubio was supposed to be there. I mean, I don't know how big the business is with Italy, but they're trying to make a point here by saying, we're not showing up to this thing.",
+      "cn": "មែនហើយ ទាក់ទងនឹងជម្លោះជាមួយអ៊ីតាលីនេះ រដ្ឋមន្ត្រីការបរទេសពិតជាទើបតែលុបចោលដំណើរទៅកាន់សហរដ្ឋអាមេរិក ដែលពួកគេគ្រោងនឹងរៀបចំវេទិកាវិនិយោគពាណិជ្ជកម្ម និងវិទ្យាសាស្ត្រនៅ Miami។ Marco Rubio គួរតែចូលរួម។ ខ្ញុំចង់និយាយថា ខ្ញុំមិនដឹងថាអាជីវកម្មជាមួយអ៊ីតាលីមានទំហំប៉ុនណាទេ ប៉ុន្តែពួកគេព្យាយាមបង្ហាញជំហរដោយនិយាយថា 'យើងនឹងមិនចូលរួមទេ'។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And when I looked at the papers this morning there, just a quote here from somebody, this is in, I think, \"Libero.\" This person says, \"I hate to say it, but I can't find, and perhaps there isn't, another way to say it: Donald Trump is an idiot. Period.\" ELEANOR MUELLER, WHITE HOUSE ECONOMY POLICY REPORTER, \"SEMAFOR\": It's worth reiterating. I mean these are people who agree with Trump ideologically. And we've seen similar splits with folks who, again, think similarly to him in France and Germany.",
+      "cn": "ពេលខ្ញុំអានកាសែតព្រឹកនេះ ខ្ញុំឃើញសម្រង់សម្តីមួយ ខ្ញុំគិតថាមកពី La Libera។ អ្នកនោះនិយាយថា៖ 'ខ្ញុំមិនចង់និយាយបែបនេះទេ ប៉ុន្តែខ្ញុំរកមិនឃើញ ប្រហែលជាគ្មានពាក្យផ្សេងទៀតទេ៖ Donald Trump គឺជាមនុស្សល្ងីល្ងើ។ សញ្ញាពេញ។' Eleanor Miller អ្នកយកព័ត៌មានគោលនយោបាយសេដ្ឋកិច្ចសេតវិមាន (មកពី Semafor) បាននិយាយថា៖ គួរនិយាយម្តងទៀត។ ខ្ញុំចង់និយាយថា មនុស្សទាំងនេះគឺជាអ្នកដែលយល់ស្របតាមមនោគមវិជ្ជាជាមួយ Trump។ យើងក៏ឃើញការបែកបាក់ស្រដៀងគ្នានៅបារាំង និងអាល្លឺម៉ង់ ដែលមនុស្សទាំងនោះក៏មានគំនិតដូច Trump ដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's not just Carney in Canada who is not on the same page as Trump on many of these things to begin with. It's people who should be his strongest allies abroad. And because --",
+      "cn": "មិនត្រឹមតែ Carney នៃកាណាដាដែលមិនយល់ស្របជាមួយ Trump លើរឿងជាច្រើននោះទេ។ មនុស្សទាំងនេះគួរតែជាសម្ព័ន្ធមិត្តដ៏រឹងមាំបំផុតរបស់គាត់នៅបរទេស។ ហើយដោយសារ --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But she also has wiggle room. Like, when I look at the approval ratings between Trump and Meloni and the pope, like, she's got room -- if you're going to back somebody, are you going to back the guy with 78 percent approval rating or 36?",
+      "cn": "បាទ។ ប៉ុន្តែនាងក៏មានកន្លែងសម្រាប់បត់បែនដែរ។ ឧទាហរណ៍ ពេលខ្ញុំមើលអត្រាគាំទ្រ Trump, Meloni និងសម្តេចប៉ាប នាងមានកន្លែង -- បើអ្នកត្រូវគាំទ្រនរណាម្នាក់ តើអ្នកនឹងគាំទ្រអ្នកដែលមានអត្រាគាំទ្រ 78% ឬ 36%?"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "It's a political calculation. They know that Trump is not only polling well in the United States, but he's not polling well in their countries. And so, if you've -- you're looking to pull yourself up a little bit, this is maybe an excuse to do it by leaning into these clashes that Trump seems so willing to start unprompted.",
+      "cn": "នេះជាការគណនានយោបាយ។ ពួកគេដឹងថា Trump មិនត្រឹមតែមានការស្ទង់មតិល្អនៅអាមេរិកប៉ុណ្ណោះទេ ប៉ុន្តែការស្ទង់មតិនៅក្នុងប្រទេសរបស់ពួកគេវិញមិនល្អទេ។ ដូច្នេះ ប្រសិនបើអ្នកចង់លើកកម្ពស់ខ្លួនឯងបន្តិច នេះប្រហែលជាលេសមួយ តាមរយៈការចូលរួមក្នុងជម្លោះដែល Trump ហាក់ដូចជាគ្មានហេតុផលចង់ផ្តួចផ្តើម។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "One more thing. Is it also maybe because, like, they're not -- they didn't fare so well in the tariff conversations. Like, it's not clear to me what the benefit is to be a friend of Trump in this scenario.",
+      "cn": "រឿងមួយទៀត។ តើវាអាចទៅរួចទេដែលថា ពួកគេធ្វើមិនបានល្អក្នុងការចរចាពន្ធគយ? ឧទាហរណ៍ ខ្ញុំមិនដឹងថាការក្លាយជាមិត្តរបស់ Trump ក្នុងស្ថានភាពនេះមានអត្ថប្រយោជន៍អ្វីទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Like slightly less tariffs or?",
+      "cn": "ឧទាហរណ៍ កាត់បន្ថយពន្ធគយបន្តិច?"
+    },
+    {
+      "speaker": "Schneider",
+      "text": "I think that's a totally fair point. I mean, look, he has not only obviously gone after just Italy, but a whole host of European countries. Let's not forget where a lot of this also started, which was his attempt to take over Greenland, where he refused to rule out military force in an attempt to go after a NATO ally. So, look, this is -- this has been many years now in this second Trump term where we have seen him really go after allies in addition to who he sees as adversaries.",
+      "cn": "ខ្ញុំគិតថានេះសមហេតុផលទាំងស្រុង។ ខ្ញុំចង់និយាយថា អ្នកឃើញទេ គាត់មិនត្រឹមតែកំណត់គោលដៅអ៊ីតាលីទេ ប៉ុន្តែក៏ប្រទេសអឺរ៉ុបជាច្រើនទៀតផង។ កុំភ្លេចថា រឿងជាច្រើនក៏ចាប់ផ្តើមពីទីនោះដែរ ដូចជាការប៉ុនប៉ងដណ្តើមយក Greenland នៅពេលដែលគាត់បដិសេធមិនបដិសេធការប្រើកម្លាំងប្រឆាំងនឹងសម្ព័ន្ធមិត្តណាតូ។ ដូច្នេះ អ្នកឃើញទេ ក្នុងអាណត្តិទីពីររបស់ Trump យើងបានឃើញគាត់កំណត់គោលដៅទាំងគូប្រជែង និងសម្ព័ន្ធមិត្ត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But oddly self-inflicted. OK, you guys, stay with me. It's now 45 minutes past the hour. This is our morning roundup. Republican Senator Lindsey Graham warning President Trump not to let a critical foreign surveillance tool lapse any longer. Trump stalled his DNI pick, Jay Clayton's confirmation after learning that Democrats were going to let the FISA rule laps, something that Graham argues is playing with fire. SEN.",
+      "cn": "បាទ ប៉ុន្តែចម្លែកដែលវាជារឿងដែលខ្លួនឯងបង្កើត។ មិនអីទេ សូមបន្តតាមដាន។ ឥឡូវនេះម៉ោង 45 នាទីហួសម៉ោង។ នេះជាសេចក្តីសង្ខេបពេលព្រឹករបស់យើង។ សមាជិកព្រឹទ្ធសភាគណបក្សសាធារណរដ្ឋ Lindsey Graham ព្រមានប្រធានាធិបតី Trump កុំឱ្យទុកឧបករណ៍ស៊ើបការណ៍បរទេសដ៏សំខាន់មួយឱ្យផុតកំណត់ទៀត។ Trump បានពន្យារពេលការបញ្ជាក់តំណែង Jay Clayton ជានាយកស៊ើបការណ៍ជាតិថ្មីរបស់គាត់ បន្ទាប់ពីដឹងថាគណបក្សប្រជាធិបតេយ្យនឹងទុកឱ្យច្បាប់ FISA ផុតកំណត់ Graham ចាត់ទុកថានេះជាការលេងជាមួយភ្លើង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "LINDSEY GRAHAM (R-SC): And I would urge President Trump to let Clayton testify and that we nominate Clayton and get him affirmed as the new DNI. We don't want FISA to go dark. There's too many threats to our country for 702 to go down. Anybody who owns the shutting down of 702 under FISA will own a future attack against the United States.",
+      "cn": "សមាជិកព្រឹទ្ធសភា Lindsey Graham (សាធារណរដ្ឋ South Carolina)៖ ខ្ញុំសូមអំពាវនាវដល់ប្រធានាធិបតី Trump ឱ្យឱ្យ Clayton ធ្វើសក្ខីកម្ម យើងតែងតាំង Clayton និងបញ្ជាក់គាត់ជានាយកស៊ើបការណ៍ជាតិថ្មី។ យើងមិនចង់ឱ្យ FISA ផុតកំណត់ទេ។ ប្រសិនបើផ្នែក 702 ផុតកំណត់ វាគំរាមកំហែងដល់សន្តិសុខជាតិយើងខ្លាំងណាស់។ អ្នកណាដែលបណ្តាលឱ្យផ្នែក 702 នៃ FISA ផុតកំណត់ នឹងត្រូវទទួលខុសត្រូវចំពោះការវាយប្រហារនាពេលអនាគតមកលើអាមេរិក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Graham also says that the top Democrat on the intelligence committee tells him there are enough Democratic votes to reauthorize FISA if Clayton's nomination is confirmed. And dozens of residents in Louisiana displaced this morning after flood waters from Tropical Storm Arthur. This is reportedly the most flooding the area has seen in decades.",
+      "cn": "Graham ក៏បាននិយាយថា សមាជិកកំពូលនៃគណៈកម្មាធិការស៊ើបការណ៍សម្ងាត់មកពីគណបក្សប្រជាធិបតេយ្យបានប្រាប់គាត់ថា ប្រសិនបើការតែងតាំង Clayton ត្រូវបានបញ្ជាក់ នឹងមានសម្លេងគ្រប់គ្រាន់ពីគណបក្សប្រជាធិបតេយ្យដើម្បីអនុម័ត FISA ឡើងវិញ។ ព្រឹកនេះ អ្នកស្រុករាប់សិបនាក់នៅរដ្ឋ Louisiana ត្រូវបានជម្លៀសចេញដោយសារទឹកជំនន់ពីព្យុះត្រូពិច Arthur។ ត្រូវបានគេរាយការណ៍ថា នេះជាទឹកជំនន់ធ្ងន់ធ្ងរបំផុតក្នុងតំបន់ក្នុងរយៈពេលរាប់ទសវត្សរ៍។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "We're blessed to not have any fatalities.",
+      "cn": "យើងមានសំណាងដែលគ្មានអ្នកស្លាប់ទេ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "We just decided to come in today and see what we could do to help.",
+      "cn": "យើងសម្រេចចិត្តមកទីនេះថ្ងៃនេះដើម្បីមើលថាតើអាចជួយអ្វីបានខ្លះ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "What are you going to do?",
+      "cn": "តើអ្នកមានគម្រោងធ្វើអ្វី?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "A flood warning for the area is in effect through tonight. And Serena Williams set to make another big return at Wimbledon. Williams accepted a wild card invitation to play singles. The 44-year- old recently returned to competition after announcing her retirement four years back. Williams had already planned to play at Wimbledon, competing in doubles with her sister Venus. And Wimbledon starts next week. Next on CNN THIS MORNING, is Gavin Newsom betting on Biden.",
+      "cn": "ការព្រមានទឹកជំនន់នៅតំបន់នេះនឹងបន្តរហូតដល់យប់នេះ។ Serena Williams ត្រៀមខ្លួនត្រឡប់មក Wimbledon ម្តងទៀត។ Williams បានទទួលការអញ្ជើញពិសេសសម្រាប់ការប្រកួតទោល។ កីឡាការិនីអាយុ 44 ឆ្នាំរូបនេះទើបតែត្រឡប់មកប្រកួតវិញថ្មីៗនេះ បន្ទាប់ពីប្រកាសចូលនិវត្តន៍កាលពីបួនឆ្នាំមុន។ Williams គ្រោងនឹងចូលរួមការប្រកួតគូរនៅ Wimbledon ជាមួយបងស្រី Venus។ Wimbledon ចាប់ផ្តើមនៅសប្តាហ៍ក្រោយ។ បន្ទាប់មកនៅក្នុងកម្មវិធី CNN This Morning ថ្ងៃនេះ Gavin Newsom ភ្នាល់លើ Biden។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The group chat will be back to discuss the new reporting on why he might be leaning in on the former president's legacy ahead of 2028.",
+      "cn": "ក្រុមជជែកនឹងពិភាក្សាម្តងទៀតអំពីរបាយការណ៍ថ្មីអំពីមូលហេតុដែលគាត់អាចមានទំនោរទៅរកការទទួលមរតកនយោបាយរបស់អតីតប្រធានាធិបតីមុនឆ្នាំ 2028។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, there's a new report in \"Axios\" providing some insight into a possible Gavin Newsom presidential run. Newsom is reportedly gambling on embracing former President Joe Biden, thinking that will be a popular position among Democrats. Even after Biden had to drop out of his re-election bid, Newsom has still spoken favorably of Biden's presidency. GOV. GAVIN NEWSOM (D-CA): His experiences mirror so many of my fathers. And I see my father in so many ways, the way I see President Biden.",
+      "cn": "គេហទំព័រ Axios បានចេញផ្សាយរបាយការណ៍ថ្មីមួយដែលបង្ហាញពីព័ត៌មានផ្ទៃក្នុងមួយចំនួនអំពីលទ្ធភាពដែល Gavin Newsom អាចឈរឈ្មោះប្រកួតប្រជែងតំណែងប្រធានាធិបតី។ ត្រូវបានគេរាយការណ៍ថា Newsom កំពុងភ្នាល់លើការគាំទ្រអតីតប្រធានាធិបតី Joe Biden ដោយជឿថានេះនឹងមានប្រជាប្រិយភាពក្នុងចំណោមគណបក្សប្រជាធិបតេយ្យ។ សូម្បីតែបន្ទាប់ពី Biden ត្រូវដកខ្លួនចេញពីការបោះឆ្នោតឡើងវិញក៏ដោយ Newsom នៅតែសរសើរអាណត្តិប្រធានាធិបតីរបស់ Biden។ អភិបាលរដ្ឋ California Gavin Newsom៖ បទពិសោធន៍របស់គាត់ស្រដៀងនឹងឪពុកខ្ញុំខ្លាំងណាស់។ ខ្ញុំឃើញឪពុកខ្ញុំក្នុងទិដ្ឋភាពជាច្រើន ដូចដែលខ្ញុំឃើញប្រធានាធិបតី Biden។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's one of the reasons I was so loyal to the end and I happily will take the arrows on that and defend that. And we'll continue to build on the legacy, I would argue, of our former president, who I think was one of the most successful presidents in the last century, and that is Joe Biden. And I will defend that to my grave.",
+      "cn": "នេះជាមូលហេតុមួយដែលខ្ញុំស្មោះត្រង់រហូតដល់ទីបញ្ចប់ ខ្ញុំសុខចិត្តទទួលការរិះគន់ និងការពារវា។ យើងនឹងបន្តកេរ្តិ៍ដំណែលរបស់អតីតប្រធានាធិបតីយើង ដែលខ្ញុំចាត់ទុកថាជាប្រធានាធិបតីជោគជ័យបំផុតមួយនៃសតវត្សរ៍ទី 20 គឺ Joe Biden។ ខ្ញុំនឹងការពារវារហូតដល់ស្លាប់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Group chat is back. So, I don't know how you split the Biden presidency and whatever it's legislative achievements were, or economic achievements were, with the decision to run again and the meltdown that happened in the process.",
+      "cn": "ក្រុមជជែកបានត្រឡប់មកវិញហើយ។ ខ្ញុំមិនដឹងពីរបៀបបំបែកអាណត្តិប្រធានាធិបតីរបស់ Biden និងសមិទ្ធផលនីតិប្បញ្ញត្តិ ឬសមិទ្ធផលសេដ្ឋកិច្ចរបស់គាត់ ពីការសម្រេចចិត្តឈរឈ្មោះឡើងវិញ និងការដួលរលំដែលកើតឡើងនៅក្នុងដំណើរការនោះទេ។"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "Very difficult calculus to do that I think a lot of Democratic hopefuls have decided is not possible. We've seen folks like Brian Schatz (ph) happily critique Biden for his performance across the (INAUDIBLE), not just at the end.",
+      "cn": "នេះជាការថ្លឹងថ្លែងដ៏លំបាកមួយ ហើយខ្ញុំគិតថាបេក្ខជនសក្តានុពលគណបក្សប្រជាធិបតេយ្យជាច្រើនចាត់ទុកថាវាមិនអាចទៅរួចទេ។ យើងឃើញមនុស្សដូចជា Brian Schatz ដែលមិនត្រឹមតែនៅទីបញ្ចប់ប៉ុណ្ណោះទេ ប៉ុន្តែពេញមួយដំណើរការសុខចិត្តរិះគន់ការសម្តែងរបស់ Biden។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, everyone coming out with their books and, yes, either --",
+      "cn": "បាទ អ្នករាល់គ្នាកំពុងសរសេរសៀវភៅ ទាំង -- --"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "Exactly. But I don't think anyone can accuse Gavin Newsom of not being a very calculating politician. And so, clearly, he thinks that there is benefit to be found here. Whether that's, you know, Biden's support with black and Latinx voters or what.",
+      "cn": "ត្រឹមត្រូវ។ ប៉ុន្តែខ្ញុំគិតថាគ្មាននរណាអាចចោទប្រកាន់ Gavin Newsom ថាមិនមែនជាអ្នកនយោបាយដែលចេះគណនានោះទេ។ ដូច្នេះ ជាក់ស្តែងគាត់គិតថាមានផលប្រយោជន៍នៅទីនេះ។ មិនថាជាការគាំទ្ររបស់ Biden ក្នុងចំណោមអ្នកបោះឆ្នោតស្បែកខ្មៅ និងឡាទីន ឬអ្វីផ្សេងទៀតនោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, let's show that. His favorability with black voters right now, 53 percent for Biden remaining and with Latino voters, 40 percent. We know that, especially after black and Latino men and some nominal but helpful numbers went to Trump, that they'd like to bring this community back. And also I want to show you one more set of numbers, favorability ratings for Trump versus Biden, because they're close. And if you're Trump, you don't want them close. But if you're Newsom, you're like, ah, a window.",
+      "cn": "បាទ សូមបង្ហាញ។ បច្ចុប្បន្ននេះ ការពេញចិត្តរបស់គាត់ក្នុងចំណោមអ្នកបោះឆ្នោតស្បែកខ្មៅ Biden នៅតែមាន 53% ហើយក្នុងចំណោមអ្នកបោះឆ្នោតឡាទីនគឺ 40%។ យើងដឹងថា ជាពិសេសបន្ទាប់ពីបុរសស្បែកខ្មៅ និងឡាទីន និងការគាំទ្របន្តិចបន្តួចប៉ុន្តែមានប្រយោជន៍បានប្តូរទៅ Trump ពួកគេចង់ឈ្នះក្រុមនេះឡើងវិញ។ ខ្ញុំក៏ចង់បង្ហាញទិន្នន័យមួយទៀត ការប្រៀបធៀបការពេញចិត្តរវាង Trump និង Biden ព្រោះវាជិតគ្នា។ ប្រសិនបើអ្នកជា Trump អ្នកមិនចង់ឱ្យវាជិតទេ។ ប៉ុន្តែប្រសិនបើអ្នកជា Newsom អ្នកនឹងគិតថា អូ ឱកាសមកដល់ហើយ។"
+    },
+    {
+      "speaker": "Manchester",
+      "text": "Not so bad. But, you know, it is certainly, I think, a gamble for Gavin Newsom to do this right now. He is calculating on the point about black and Latino voters. That's certainly a very good point, especially as President Trump loses support from that bloc, from when he gained support with, you know, a certain amount of support in 2024. But I think it comes at a time when you're seeing the Democratic Party start to maybe go in a different direction.",
+      "cn": "មិនអាក្រក់ទេ។ ប៉ុន្តែអ្នកដឹងទេ ខ្ញុំគិតថា Gavin Newsom ធ្វើបែបនេះឥឡូវនេះពិតជាការភ្នាល់មួយ។ គាត់កំពុងគណនាលើចំណុចអ្នកបោះឆ្នោតស្បែកខ្មៅ និងឡាទីន។ នេះពិតជាអំណះអំណាងដ៏ល្អមួយ ជាពិសេសនៅពេលដែលប្រធានាធិបតី Trump បាត់បង់ការគាំទ្រពីក្រុមនេះ ដែលគាត់ធ្លាប់ទទួលបានក្នុងឆ្នាំ 2024។ ប៉ុន្តែខ្ញុំគិតថា ឥឡូវនេះជាពេលដែលគណបក្សប្រជាធិបតេយ្យអាចចាប់ផ្តើមប្តូរទិសដៅផ្សេង។"
+    },
+    {
+      "speaker": "Manchester",
+      "text": "You know, you're seeing the popping up of these Democratic socialist candidates in a number of different parts of the country. And, you know, a lot of it could be ideological. But I do also think a lot of it is generational. So, for someone like --",
+      "cn": "អ្នកដឹងទេ អ្នកនឹងឃើញបេក្ខជនសង្គមនិយមប្រជាធិបតេយ្យទាំងនេះលេចឡើងនៅកន្លែងជាច្រើននៅទូទាំងប្រទេស។ ហើយភាគច្រើនអាចជាមនោគមវិជ្ជា។ ប៉ុន្តែខ្ញុំក៏គិតថាភាគច្រើនជាបញ្ហាជំនាន់ផងដែរ។ ដូច្នេះ សម្រាប់ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, he thinks that's the opening for him. Like you can grab all those people who are a little bit older --",
+      "cn": "ដូច្នេះ គាត់គិតថានេះជាឱកាសរបស់គាត់។ ឧទាហរណ៍ អ្នកអាចចាប់យកអ្នកដែលមានអាយុច្រើនបន្តិច -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Aren't so enamored with the DSA or have big questions and say, don't worry, there's still a home for you. People who actually did kind of like Biden's policies.",
+      "cn": "អ្នកដែលមិនសូវចាប់អារម្មណ៍នឹងអ្នកសង្គមនិយមប្រជាធិបតេយ្យ ឬមានការសង្ស័យច្រើន ហើយនិយាយថា កុំបារម្ភ នៅតែមានកន្លែងសម្រាប់អ្នកនៅទីនេះ។ អ្នកដែលពិតជាចូលចិត្តគោលនយោបាយរបស់ Biden បន្តិច។"
+    },
+    {
+      "speaker": "Schneider",
+      "text": "And I think that he's very aware, as a lot of those potential 2028 candidates are, that South Carolina is still going to be intimately involved in the early nomination process, a state that has -- that where black voters are an enormously important part of the Democratic primary electorate there.",
+      "cn": "ហើយខ្ញុំគិតថាគាត់ដឹងច្បាស់ ដូចបេក្ខជនសក្តានុពលឆ្នាំ 2028 ជាច្រើនដែរ ថារដ្ឋ South Carolina នឹងនៅតែចូលរួមយ៉ាងជិតស្និទ្ធក្នុងដំណើរការតែងតាំងដំបូង ដែលជារដ្ឋដែលអ្នកបោះឆ្នោតស្បែកខ្មៅជាផ្នែកដ៏សំខាន់បំផុតនៃអ្នកបោះឆ្នោតបឋមរបស់គណបក្សប្រជាធិបតេយ្យ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But an older and slightly more conservative black voters.",
+      "cn": "បាទ/ចាស។ ប៉ុន្តែពួកគេជាអ្នកបោះឆ្នោតស្បែកខ្មៅដែលមានវ័យចំណាស់បន្តិច និងអភិរក្សនិយមបន្តិច។"
+    },
+    {
+      "speaker": "Schneider",
+      "text": "Exactly. Exactly what I mean. And that's what rocket launched Joe Biden's own presidency in 2020. And I think that there is a -- an awareness that you can't just alienate those folks by saying, let's throw out Joe Biden altogether. I think he's trying to thread this needle of acknowledging the successes that Joe Biden had. But I also --",
+      "cn": "ត្រឹមត្រូវ។ នោះហើយជាអ្វីដែលខ្ញុំចង់និយាយ។ ហើយចំណុចនេះហើយដែលបានជួយជំរុញយុទ្ធនាការប្រធានាធិបតីរបស់លោក Joe Biden ក្នុងឆ្នាំ 2020។ ខ្ញុំគិតថាមនុស្សដឹងថា អ្នកមិនអាចធ្វើឲ្យមនុស្សទាំងនេះឃ្លាតឆ្ងាយដោយគ្រាន់តែនិយាយថា \"តោះបោះបង់ Joe Biden ចោលទាំងស្រុង\" នោះទេ។ ខ្ញុំគិតថាគាត់កំពុងព្យាយាមដើរលើខ្សែពួររវាងការទទួលស្គាល់ភាពជោគជ័យរបស់ Joe Biden។ ប៉ុន្តែខ្ញុំក៏ --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And the, reminds me of my dad is very, like, instead of everyone being like, oh, this doddering magoo (ph) is a problem. He's like, you know what, my father. Like this, yes, let's remember.",
+      "cn": "បាទ។ នេះធ្វើឲ្យខ្ញុំនឹកដល់ឪពុកខ្ញុំ ដែលគាត់ពិតជាដូចនោះ មិនមែនគ្រប់គ្នាសុទ្ធតែគិតថា \"អូ! បុរសចំណាស់នេះជាបញ្ហា\" ទេ។ គាត់នឹងនិយាយថា អ្នកដឹងទេ ឪពុកខ្ញុំ។ ដូចនេះ បាទ សូមចងចាំ។"
+    },
+    {
+      "speaker": "Schneider",
+      "text": "Let's remember the positive feelings about it. And also, to your point about generational, a distinction of, my father, as opposed to, my peer or something like that.",
+      "cn": "សូមចងចាំពីអារម្មណ៍វិជ្ជមានអំពីវា។ ហើយទាក់ទងនឹងភាពខុសគ្នារវាងជំនាន់ អ្នកកំពុងនិយាយពីឪពុកខ្ញុំ មិនមែនមិត្តភក្តិរបស់ខ្ញុំ ឬអ្វីផ្សេងទៀតទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, here's Hunter Biden. I got to play this one other thing because this Gavin Newsom podcast really great with the bookings. Here's Hunter Biden.",
+      "cn": "បាទ នេះគឺ Hunter Biden។ ខ្ញុំត្រូវតែលេងវា ពីព្រោះផតខាសរបស់ Gavin Newsom ពិតជាអស្ចារ្យណាស់ក្នុងការអញ្ជើញភ្ញៀវ។ នេះគឺ Hunter Biden។"
+    },
+    {
+      "speaker": "Hunter Bidne",
+      "text": "OK, wait, one thing is just, you've heard dad say it a million times is, I'll come campaign for you or against you, whatever helps most. And, you know, he would say -- GOV. GAVIN NEWSOM (D-CA): And put his finger in my stomach.",
+      "cn": "អូខេ ចាំបន្តិច មានរឿងមួយ អ្នកធ្លាប់ឮប៉ានិយាយរាប់មិនអស់៖ ខ្ញុំនឹងឈរឈ្មោះឲ្យអ្នក ឬប្រឆាំងនឹងអ្នក អាស្រ័យលើអ្វីដែលមានប្រយោជន៍បំផុត។ ហើយអ្នកដឹងទេ គាត់នឹងនិយាយថា -- អភិបាលរដ្ឋកាលីហ្វ័រញ៉ា Gavin Newsom៖ រួចយកម្រាមដៃចាក់ចូលពោះខ្ញុំ។"
+    },
+    {
+      "speaker": "Biden",
+      "text": "Yes. And he would say it and you'd be like, you know, it was -- it was silly because of course you'd want him to come out. In my case, it's for real.",
+      "cn": "បាទ។ គាត់នឹងនិយាយបែបនេះ ហើយអ្នកនឹងមានអារម្មណ៍ថា អ្នកដឹងទេ វាពិតជាគួរឲ្យអស់សំណើចបន្តិច ព្រោះអ្នកប្រាកដជាចង់ឲ្យគាត់ចេញមក។ ក្នុងករណីរបស់ខ្ញុំ វាជាការពិត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, he's joking, but Biden's been on a tour, Junior Biden, trying to rehabilitate. But he has a very clear-eyed way of talking about it.",
+      "cn": "មិនអីទេ គាត់កំពុងនិយាយលេង ប៉ុន្តែ Biden កំពុងធ្វើដំណើរជុំវិញ លោក Biden កូន កំពុងព្យាយាមស្តាររូបភាពឡើងវិញ។ ប៉ុន្តែរបៀបដែលគាត់និយាយអំពីវាគឺច្បាស់ណាស់។"
+    },
+    {
+      "speaker": "Manchester",
+      "text": "He does. And it's interesting to see him on X in particular. And I understand that social media is not always real life --",
+      "cn": "ពិតមែន។ ជាពិសេសពេលឃើញគាត់នៅលើវេទិកា X វាពិតជាគួរឲ្យចាប់អារម្មណ៍។ ខ្ញុំដឹងថាប្រព័ន្ធផ្សព្វផ្សាយសង្គមមិនមែនតែងតែជាជីវិតពិតនោះទេ --"
+    },
+    {
+      "speaker": "Manchester",
+      "text": "But he's becoming a personality and responding to the trolls, to maybe conservatives who are pushing back. So, that's been fascinating to watch.",
+      "cn": "ប៉ុន្តែគាត់កំពុងក្លាយជាមនុស្សដែលមានបុគ្គលិកលក្ខណៈ ឆ្លើយតបទៅនឹងពួកអ្នករិះគន់ ប្រហែលជាពួកអភិរក្សនិយមដែលឆ្លើយតបវិញ។ ដូច្នេះ វាមើលទៅគួរឲ្យអស់សំណើច។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right, it's Monday. We all have a bunch of reporting we're about to be assigned. And to get ahead of those editor assignments that we don't like, we have ideas of our own. What's in your group chat, Eleanor?",
+      "cn": "អូខេ ថ្ងៃនេះជាថ្ងៃចន្ទ។ យើងទាំងអស់គ្នាមានភារកិច្ចរាយការណ៍ជាច្រើនដែលត្រូវចែកចាយ។ ដើម្បីគេចពីកិច្ចការកែសម្រួលដែលយើងមិនចូលចិត្ត យើងមានគំនិតផ្ទាល់ខ្លួន។ Eleanor តើមានអ្វីនៅក្នុងក្រុមជជែករបស់អ្នក?"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "I don't think my editor is going to go over this one.",
+      "cn": "ខ្ញុំគិតថាអ្នកកែសម្រួលរបស់ខ្ញុំនឹងមិនយល់ព្រមចំពោះរឿងនេះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, no? No? It's all right.",
+      "cn": "អូ! អត់ទេ? អត់អីទេ។"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "We adopted a dog recently. His name is Stanley. And we got him from Old Dominion Humane Society in Fredericksburg, Virginia. They are amazing. He's four years old. He was saved from a hoarder situation. Some lady had 70 dogs in her RV. So, again, shout out to Old Dominion Humane Society. And we are so happy to have Stanley.",
+      "cn": "ថ្មីៗនេះយើងបានយកឆ្កែមួយក្បាលមកចិញ្ចឹម។ ឈ្មោះរបស់វាគឺ Stanley។ យើងបានយកវាពី Old Dominion Humane Society នៅ Fredericksburg រដ្ឋ Virginia។ ពួកគេអស្ចារ្យណាស់។ វាមានអាយុ 4 ឆ្នាំ ហើយត្រូវបានជួយសង្គ្រោះពីអ្នកប្រមូលសត្វ។ ស្ត្រីម្នាក់មានឆ្កែ 70 ក្បាលនៅក្នុងឡានដឹកទំនិញរបស់នាង។ ដូច្នេះ សូមអរគុណម្តងទៀតដល់ Old Dominion Humane Society។ យើងរីករាយដែលមាន Stanley។"
+    },
+    {
+      "speaker": "Ok. Manchester",
+      "text": "My group chat is World Cup related.",
+      "cn": "ក្រុមជជែករបស់ខ្ញុំគឺអំពី World Cup។"
+    },
+    {
+      "speaker": "Manchester",
+      "text": "So, Sam Adams' parent company, The Boston Beer Company, said in a news release last year that basically the Tartan Army, which are the Scottish fans that are taking over the city of Boston, drank four times what the company normally stocks during a typical four day weekend, including the Fourth of July. So, once again, the Scots putting Bostonians to shame.",
+      "cn": "ដូច្នេះ ក្រុមហ៊ុនមេរបស់ Samuel Adams គឺ Boston Beer Company កាលពីឆ្នាំមុនបាននិយាយនៅក្នុងសេចក្តីប្រកាសព័ត៌មានមួយថា ជាទូទៅ អ្នកគាំទ្រស្កុតឡេន \"Tartan Army\" ដែលបានកាន់កាប់ទីក្រុង Boston បានផឹកស្រាបៀរចំនួន 4 ដងនៃស្តុកធម្មតារបស់ក្រុមហ៊ុនក្នុងអំឡុងចុងសប្តាហ៍ធម្មតារយៈពេល 4 ថ្ងៃ រួមទាំងថ្ងៃបុណ្យជាតិផងដែរ។ ដូច្នេះ ជនជាតិស្កុតឡេនបានធ្វើឲ្យអ្នកក្រុង Boston អាម៉ាស់មុខម្តងទៀត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This is breaking news in my hometown.",
+      "cn": "នេះជាព័ត៌មានបន្ទាន់ពីស្រុកកំណើតរបស់ខ្ញុំ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Like, the idea that you could like go to Boston, Fenway.",
+      "cn": "ឧទាហរណ៍ អ្នកអាចទៅ Fenway Park ក្នុងទីក្រុង Boston។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I mean, people know how to drink there, OK. And they just -- they embarrassed them.",
+      "cn": "ខ្ញុំចង់និយាយថា មនុស្សនៅទីនោះពូកែផឹកស្រាណាស់ មិនអីទេ។ ពួកគេគ្រាន់តែ -- ពួកគេធ្វើឲ្យមនុស្សទាំងនោះអាម៉ាស់មុខ។"
+    },
+    {
+      "speaker": "Manchester",
+      "text": "They're putting them to shame. Yes.",
+      "cn": "ពួកគេធ្វើឲ្យពួកគេខ្មាស់អៀន។ បាទ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "They embarrassed them.",
+      "cn": "ពួកគេធ្វើឲ្យពួកគេអាម៉ាស់មុខ។"
+    },
+    {
+      "speaker": "Schneider",
+      "text": "Well, I have to say, mine is also World Cup related. The whole Elmo dust up has been really fun to watch because there's nothing I love more than like a low stakes drama in which like we're all sort of worried about Elmo's safety and security in this moment. But no, seriously, another sort of New York related thing is we've got elections, primaries in New York coming up tomorrow.",
+      "cn": "ហ៊ឺម ខ្ញុំត្រូវតែនិយាយថា ប្រធានបទរបស់ខ្ញុំក៏ទាក់ទងនឹង World Cup ដែរ។ រឿងកំប្លែងទាំងមូលអំពី Elmo មើលទៅគួរឲ្យអស់សំណើច ព្រោះគ្មានអ្វីដែលខ្ញុំចូលចិត្តជាងរឿងល្ខោនដែលមានហានិភ័យទាបនេះទេ យើងទាំងអស់គ្នាព្រួយបារម្ភអំពីសុវត្ថិភាពរបស់ Elmo នៅពេលនេះ។ ប៉ុន្តែនិយាយឲ្យចំ រឿងមួយទៀតដែលទាក់ទងនឹងទីក្រុងញូវយ៉កគឺ ថ្ងៃស្អែកទីក្រុងញូវយ៉កនឹងមានការបោះឆ្នោត និងការបោះឆ្នោតបឋម។"
+    },
+    {
+      "speaker": "Schneider",
+      "text": "And I think what's going to come out of those races, those primaries, is going to be so telling about where the Democratic Party is headed.",
+      "cn": "ខ្ញុំគិតថាលទ្ធផលនៃការបោះឆ្នោត និងការបោះឆ្នោតបឋមទាំងនេះនឹងបង្ហាញយ៉ាងច្បាស់អំពីទិសដៅរបស់គណបក្សប្រជាធិបតេយ្យ។"
+    },
+    {
+      "speaker": "Schneider",
+      "text": "And I think it's going to be a fascinating night that we're all going to be up late watching.",
+      "cn": "ខ្ញុំគិតថាវានឹងក្លាយជារាត្រីដ៏គួរឲ្យចាប់អារម្មណ៍ ហើយយើងទាំងអស់គ្នានឹងនៅភ្ញាក់រហូតដល់យប់ជ្រៅដើម្បីមើល។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And what is Zohran Mamdani's power beyond himself, right?",
+      "cn": "ដូច្នេះ តើ Zoran Mamdani មានឥទ្ធិពលអ្វីក្រៅពីខ្លួនគាត់?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's always the thing. You can have a big win, but do you have the ability to propel others around you? I think that's something people are going to be watching very closely.",
+      "cn": "រឿងនេះតែងតែកើតឡើង។ អ្នកអាចទទួលបានជ័យជម្នះធំៗ ប៉ុន្តែតើអ្នកអាចជំរុញអ្នកនៅជុំវិញអ្នកបានទេ? ខ្ញុំគិតថានេះជាអ្វីដែលមនុស្សនឹងតាមដានយ៉ាងដិតដល់។"
+    },
+    {
+      "speaker": "Schneider",
+      "text": "And he's sticking his neck out in three different house races. And it's going to be really fascinating to see whether or not that works.",
+      "cn": "គាត់ប្រថុយក្នុងការបោះឆ្នោតសភាចំនួនបីផ្សេងគ្នា។ វានឹងគួរឱ្យចាប់អារម្មណ៍ណាស់ក្នុងការមើលថាតើវាដំណើរការឬអត់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right, you guys, thank you so much for being with us. I want to bring people up to speed on one more thing. We are awaiting remarks from the vice president, J.D. Vance. He is in Switzerland for the latest in those U.S. and Iran talks. Basically, in the last 24 hours, he's arrived there to launch the talks. And there's been a lot of friction. Last week we were reporting to you about continued exchange of fire between Hezbollah and Lebanon and Israel.",
+      "cn": "មិនអីទេ អរគុណអ្នកទាំងអស់គ្នាសម្រាប់ការចូលរួម។ ខ្ញុំចង់ផ្តល់ព័ត៌មានថ្មីមួយទៀត។ យើងកំពុងរង់ចាំសុន្ទរកថារបស់អនុប្រធានាធិបតី J.D. Vance។ គាត់កំពុងនៅប្រទេសស្វីសសម្រាប់ការចរចាអាមេរិក-អ៊ីរ៉ង់ជុំថ្មី។ ជាទូទៅ ក្នុងរយៈពេល 24 ម៉ោងចុងក្រោយ គាត់បានទៅដល់ទីនោះដើម្បីចាប់ផ្តើមការចរចា។ ប៉ុន្តែមានការកកិតគ្នារវាងភាគីទាំងពីរ។ សប្តាហ៍មុន យើងបានរាយការណ៍អំពីការបាញ់ប្រហារដែលកំពុងបន្តរវាង Hezbollah លីបង់ និងអ៊ីស្រាអែល។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This has become a major sticking point in these talks as Tehran tries to make it part of the overall ceasefire deal. And the Israeli government's frustrations boiling over with the U.S. because they weren't a part of this process at all. So, I think a lot of people are waiting to see how J.D. Vance will thread this needle. And this is day two of these negotiations. The technical teams are supposed to sit down.",
+      "cn": "នេះបានក្លាយជាចំណុចជាប់គាំងដ៏សំខាន់មួយក្នុងការចរចា ដោយសារតែទីក្រុង Tehran ព្យាយាមបញ្ចូលវាជាផ្នែកមួយនៃកិច្ចព្រមព្រៀងឈប់បាញ់ពេញលេញ។ រីឯរដ្ឋាភិបាលអ៊ីស្រាអែលមានការខកចិត្តយ៉ាងខ្លាំង ដោយសារពួកគេមិនបានចូលរួមក្នុងដំណើរការនេះទាល់តែសោះ។ ដូច្នេះ ខ្ញុំគិតថាមនុស្សជាច្រើនកំពុងរង់ចាំមើលថាតើ J.D. Vance នឹងដោះស្រាយបញ្ហានេះដោយរបៀបណា។ ថ្ងៃនេះជាថ្ងៃទីពីរនៃការចរចា។ ក្រុមបច្ចេកទេសគួរតែអង្គុយពិភាក្សាគ្នា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "By technical we're talking about the details to be ironed out around enriched uranium and other issues around Iran's nuclear program, which are currently, based on this deal, at status quo. So, please stay with us. We are awaiting J.D. Vance to come to that podium. I'm Audie Cornish. And the headlines are next. var CNN = CNN || {};",
+      "cn": "អ្វីដែលហៅថាកម្រិតបច្ចេកទេស គឺសំដៅលើព័ត៌មានលម្អិតដែលត្រូវកំណត់ រួមទាំងសារធាតុអ៊ុយរ៉ាញ៉ូមដែលបានប្រមូលផ្តុំ និងបញ្ហាផ្សេងទៀតនៃកម្មវិធីនុយក្លេអ៊ែរអ៊ីរ៉ង់ ដែលយោងតាមកិច្ចព្រមព្រៀងបច្ចុប្បន្ន នៅតែរក្សាស្ថានភាពដដែល។ ដូច្នេះ សូមបន្តតាមដានយើង។ យើងកំពុងរង់ចាំ J.D. Vance ឡើងលើវេទិកា។ ខ្ញុំគឺ Otty Cornish។ បន្ទាប់គឺសេចក្តីសង្ខេបព័ត៌មាន។"
+    }
+  ]
+}
