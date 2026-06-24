@@ -1,0 +1,1038 @@
+{
+  "date": "2026-06-24",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-24/segment/01",
+  "summary": "纽约初选中，市长马姆达尼支持的进步派候选人横扫三个选区，击败两名现任议员，凸显民主党内部在以色列问题上的分歧。同时，参议院通过战争权力决议，特朗普将与国会共和党人会面。节目还讨论了民主党左右翼之争、网络安全威胁以及肯尼迪家族政治遗产的衰落。",
+  "vocabulary": [
+    {
+      "word": "power broker",
+      "phonetic": "/ˈpaʊər ˌbroʊkər/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "权力掮客；能影响政治决策的人",
+      "en": "a person who influences political decisions, often behind the scenes",
+      "excerpt": "Today in the group chat is on Mamdani, the Democrats' new power broker.",
+      "example_cn": "今天群聊的话题是马姆达尼，民主党新的权力掮客。"
+    },
+    {
+      "word": "backed",
+      "phonetic": "/bækt/",
+      "pos": "v. (过去分词)",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "政治外交",
+      "level": "日常表达 · 基础",
+      "cn": "支持；背书",
+      "en": "supported, especially financially or politically",
+      "excerpt": "Candidates he backed made a big statement in New York last night.",
+      "example_cn": "他支持的候选人在昨晚的纽约初选中发出了强烈的信号。"
+    },
+    {
+      "word": "revamp",
+      "phonetic": "/riːˈvæmp/",
+      "pos": "v.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "改造；翻新；改进",
+      "en": "to give new and improved form, structure, or appearance to",
+      "excerpt": "Revamp and recharge the Democratic Party in Washington that has, in so many ways, failed to meet the moment.",
+      "example_cn": "改造并重振华盛顿的民主党，该党在许多方面未能应对当下的挑战。"
+    },
+    {
+      "word": "stark",
+      "phonetic": "/stɑːrk/",
+      "pos": "adj.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "严峻的；明显的；赤裸裸的",
+      "en": "severe or bare in appearance or outline; unpleasantly clear",
+      "excerpt": "And a stark intelligence warning. The next major cyberattack could be just months away.",
+      "example_cn": "还有一个严峻的情报警告：下一次重大网络攻击可能就在几个月后。"
+    },
+    {
+      "word": "cyberattack",
+      "phonetic": "/ˈsaɪbərəˌtæk/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "科技医疗",
+      "level": "新闻常用 · 进阶",
+      "cn": "网络攻击",
+      "en": "an attempt to damage, disrupt, or gain unauthorized access to a computer system or network",
+      "excerpt": "The next major cyberattack could be just months away.",
+      "example_cn": "下一次重大网络攻击可能就在几个月后。"
+    },
+    {
+      "word": "Camelot",
+      "phonetic": "/ˈkæməlɒt/",
+      "pos": "n.",
+      "usage": "专名背景",
+      "difficulty": "进阶",
+      "domain": "文化体育",
+      "level": "专名背景 · 进阶",
+      "cn": "卡米洛特；常指肯尼迪政府时期（1960-1963）的理想化时代",
+      "en": "the legendary court of King Arthur; metaphorically, the Kennedy administration era",
+      "excerpt": "And JFK's only grandson just lost his primary in New York. Where does that leave the legacy that a lot of people used to call Camelot?",
+      "example_cn": "肯尼迪唯一的孙子刚刚在纽约初选中落败。这给许多人曾称之为‘卡米洛特’的遗产留下了什么？"
+    },
+    {
+      "word": "clean sweep",
+      "phonetic": "/kliːn swiːp/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "大获全胜；全面胜利",
+      "en": "a complete victory or success in all contests or areas",
+      "excerpt": "A clean sweep for Zohran Mamdani.",
+      "example_cn": "佐赫兰·马姆达尼大获全胜。"
+    },
+    {
+      "word": "progressive",
+      "phonetic": "/prəˈɡresɪv/",
+      "pos": "n./adj.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "进步派（的）；主张社会改革的人",
+      "en": "a person advocating for social reform or change, often left-leaning",
+      "excerpt": "The three progressives who were backed by New York City's Democratic socialist mayor, all of them won their House primaries last night.",
+      "example_cn": "三位由纽约市民主社会主义市长支持的进步派候选人，昨晚都赢得了众议院初选。"
+    },
+    {
+      "word": "ousted",
+      "phonetic": "/aʊstɪd/",
+      "pos": "v. (过去分词)",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "罢免；驱逐；取代",
+      "en": "removed from a position of power or authority",
+      "excerpt": "former city comptroller Brad Lander ousted two-term congressman Dan Goldman after a bruising campaign",
+      "example_cn": "前市审计长布拉德·兰德在一场激烈的竞选后，击败了两任众议员丹·戈德曼。"
+    },
+    {
+      "word": "bruising",
+      "phonetic": "/ˈbruːzɪŋ/",
+      "pos": "adj.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "激烈的；令人疲惫的；造成伤害的",
+      "en": "physically or emotionally damaging; very competitive and tough",
+      "excerpt": "after a bruising campaign that focused heavily on their differences over Israel",
+      "example_cn": "在一场主要围绕以色列问题分歧的激烈竞选之后"
+    },
+    {
+      "word": "face up to",
+      "phonetic": "/feɪs ʌp tuː/",
+      "pos": "phr.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "勇敢面对；正视",
+      "en": "to accept and deal with something difficult or unpleasant",
+      "excerpt": "We have to face up to it squarely.",
+      "example_cn": "我们必须正视它。"
+    },
+    {
+      "word": "catastrophic failure",
+      "phonetic": "/ˌkætəˈstrɒfɪk ˈfeɪljər/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "灾难性失败",
+      "en": "a complete and disastrous failure",
+      "excerpt": "Joe Biden's 'hug Bibi' strategy was a catastrophic failure.",
+      "example_cn": "乔·拜登的‘拥抱比比’战略是一场灾难性的失败。"
+    },
+    {
+      "word": "incumbent",
+      "phonetic": "/ɪnˈkʌmbənt/",
+      "pos": "n./adj.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "现任者；在职的",
+      "en": "the person currently holding a political office",
+      "excerpt": "defeating incumbent Adriano Espaillat",
+      "example_cn": "击败了现任议员阿德里亚诺·埃斯帕亚特"
+    },
+    {
+      "word": "old guard",
+      "phonetic": "/oʊld ɡɑːrd/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "保守派；老派势力",
+      "en": "the conservative or traditional members of a group or organization",
+      "excerpt": "So, it was a rough night for the old guard in New York.",
+      "example_cn": "所以，对纽约的保守派来说，这是一个艰难的夜晚。"
+    },
+    {
+      "word": "tea leaves",
+      "phonetic": "/tiː liːvz/",
+      "pos": "n.",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "预兆；迹象（源自茶叶占卜）",
+      "en": "signs or indications of future events, from tea-leaf reading",
+      "excerpt": "everyone trying to turn these into tea leaves",
+      "example_cn": "每个人都试图把这些解读为预兆"
+    },
+    {
+      "word": "reshape",
+      "phonetic": "/riːˈʃeɪp/",
+      "pos": "v.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "重塑；改变……的形状",
+      "en": "to change the shape or structure of something",
+      "excerpt": "A handful of primaries that go in one direction or the other in a given state or two aren't going to reshape who we are as House Democrats.",
+      "example_cn": "一两个州里少数几场初选的结果不会重塑我们众议院民主党人的身份。"
+    },
+    {
+      "word": "robust",
+      "phonetic": "/roʊˈbʌst/",
+      "pos": "adj.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "强劲的；稳健的；充满活力的",
+      "en": "strong and healthy; vigorous",
+      "excerpt": "the robust, healthy turnout we saw expanding our traditional base in these primaries",
+      "example_cn": "我们在这些初选中看到的强劲、健康的投票率，正在扩大我们的传统基础"
+    },
+    {
+      "word": "turnout",
+      "phonetic": "/ˈtɜːrnaʊt/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "投票率；出席人数",
+      "en": "the number of people who vote in an election or attend an event",
+      "excerpt": "the robust, healthy turnout we saw expanding our traditional base in these primaries",
+      "example_cn": "我们在这些初选中看到的强劲、健康的投票率，正在扩大我们的传统基础"
+    },
+    {
+      "word": "buffet",
+      "phonetic": "/bəˈfeɪ/",
+      "pos": "n.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "自助餐；比喻多种选择",
+      "en": "a meal where guests serve themselves from a variety of dishes; metaphorically, a range of options",
+      "excerpt": "the buffet known as the Democratic Party are adding some items",
+      "example_cn": "被称为民主党的自助餐正在增加一些菜品"
+    },
+    {
+      "word": "knock doors",
+      "phonetic": "/nɒk dɔːrz/",
+      "pos": "phr.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "政治外交",
+      "level": "日常表达 · 基础",
+      "cn": "挨家挨户敲门（竞选拉票）",
+      "en": "to go from house to house, typically for political canvassing",
+      "excerpt": "Political parties aren't perfect, but they're built by millions of people who knock doors, make calls, fight for the values they believe in.",
+      "example_cn": "政党并不完美，但它们是由数百万敲门、打电话、为他们信仰的价值观而奋斗的人建立起来的。"
+    },
+    {
+      "word": "carry across the finish line",
+      "phonetic": "/ˈkæri əˈkrɔːs ðə ˈfɪnɪʃ laɪn/",
+      "pos": "phr.",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "帮助某人成功；助其完成",
+      "en": "to help someone succeed or complete a task, especially a political campaign",
+      "excerpt": "If you don't believe in the party, then don't ask its members to carry you across the finish line.",
+      "example_cn": "如果你不相信这个政党，那就不要要求它的成员帮你冲过终点线。"
+    },
+    {
+      "word": "growing pains",
+      "phonetic": "/ˈɡroʊɪŋ peɪnz/",
+      "pos": "n.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "成长中的烦恼；发展初期的问题",
+      "en": "difficulties experienced in the early stages of development",
+      "excerpt": "We are experiencing growing pains.",
+      "example_cn": "我们正在经历成长的烦恼。"
+    },
+    {
+      "word": "swing district",
+      "phonetic": "/swɪŋ ˈdɪstrɪkt/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "摇摆选区；两党竞争激烈的选区",
+      "en": "a district where voters are not strongly aligned with one party, often deciding elections",
+      "excerpt": "a swing district in New York that will help us get the majority",
+      "example_cn": "纽约的一个摇摆选区，将帮助我们获得多数席位"
+    },
+    {
+      "word": "litmus test",
+      "phonetic": "/ˈlɪtməs test/",
+      "pos": "n.",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "固定搭配 · 进阶",
+      "cn": "试金石；决定性考验",
+      "en": "a test that uses a single indicator to determine a person's stance on a broader issue",
+      "excerpt": "Israel is becoming a litmus test for many, especially in these deep-blue districts.",
+      "example_cn": "以色列问题正成为许多人的试金石，尤其是在这些深蓝选区。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Candidates he backed made a big statement in New York last night.",
+      "cn": "他支持的候选人在昨晚的纽约取得了重大胜利。",
+      "structure": "主句：Candidates made a big statement；定语从句：he backed（省略that）。",
+      "analysis": "make a big statement 意为“发出强烈信号，取得重大成果”，是新闻常用表达。定语从句省略关系代词that，需识别先行词Candidates。"
+    },
+    {
+      "en": "The three progressives who were backed by New York City's Democratic socialist mayor, all of them won their House primaries last night.",
+      "cn": "三位由纽约市民主社会主义市长支持的进步派候选人，昨晚都赢得了众议院初选。",
+      "structure": "主句：The three progressives won their House primaries；定语从句：who were backed by...；同位语：all of them。",
+      "analysis": "同位语结构all of them重复主语，起强调作用。House primaries指“众议院初选”。"
+    },
+    {
+      "en": "So, you had former city comptroller Brad Lander ousted two-term congressman Dan Goldman after a bruising campaign that focused heavily on their differences over Israel.",
+      "cn": "因此，前市审计长布拉德·兰德在一场激烈且主要围绕以色列问题分歧的竞选后，击败了两任国会议员丹·戈德曼。",
+      "structure": "主句：you had Brad Lander ousted Dan Goldman；定语从句：that focused heavily on...；时间状语：after a bruising campaign。",
+      "analysis": "have sb. ousted sb. 结构意为“使某人击败某人”。bruising campaign指“激烈、伤感情的竞选”。focus heavily on强调“主要聚焦于”。"
+    },
+    {
+      "en": "Our party needs to admit that Joe Biden's 'hug Bibi' strategy was a catastrophic failure.",
+      "cn": "我们的党需要承认，乔·拜登的“拥抱比比”策略是一场灾难性的失败。",
+      "structure": "主句：Our party needs to admit；宾语从句：that Joe Biden's strategy was a catastrophic failure。",
+      "analysis": "hug Bibi是新闻压缩表达，Bibi指以色列总理内塔尼亚胡，hug Bibi意为“拥抱内塔尼亚胡”，指拜登对以色列的亲密政策。catastrophic failure“灾难性失败”。"
+    },
+    {
+      "en": "And state Assemblywoman Claire Valdez, a Mamdani-backed Democratic socialist, will be the Democratic nominee for New York's 7th congressional district.",
+      "cn": "州议员克莱尔·瓦尔迪兹，一位由曼达尼支持的民主社会主义者，将成为纽约第七国会选区的民主党提名人。",
+      "structure": "主句：Claire Valdez will be the Democratic nominee；同位语：a Mamdani-backed Democratic socialist。",
+      "analysis": "同位语提供额外身份信息。Mamdani-backed是复合形容词，意为“曼达尼支持的”。congressional district“国会选区”。"
+    },
+    {
+      "en": "And Darializa Avila Chevalier, another Democratic socialist, captured New York's 13th District, defeating incumbent Adriano Espaillat.",
+      "cn": "captured意为“赢得（席位）”。incumbent指“现任议员”。defeating是现在分词作伴随状语，表示结果。",
+      "structure": "主句：Darializa Avila Chevalier captured New York's 13th District；同位语：another Democratic socialist；伴随状语：defeating incumbent...。"
+    },
+    {
+      "en": "Politics like sports, has seasons of disappointment and seasons of triumph.",
+      "cn": "政治就像体育，有失望的季节，也有胜利的季节。",
+      "structure": "主句：Politics has seasons；插入语：like sports。",
+      "analysis": "like sports是插入语，将政治比作体育。seasons of disappointment/triumph是比喻，指“低谷期和高峰期”。"
+    },
+    {
+      "en": "What matters is that we continue showing up.",
+      "cn": "重要的是我们继续出现。",
+      "structure": "主语从句：What matters；系表结构：is that...；表语从句：that we continue showing up。",
+      "analysis": "What matters是主语从句，意为“重要的是”。show up意为“露面、出现”，在此语境中指“继续参与政治”。"
+    },
+    {
+      "en": "You had someone like hakeem Jeffries on Wednesday, sort of implying like, hey, settle down, everyone trying to turn these into tea leaves.",
+      "cn": "周三，像哈基姆·杰弗里斯这样的人，似乎在暗示：嘿，冷静点，每个人都试图把这些解读为预兆。",
+      "structure": "主句：You had someone；同位语：like hakeem Jeffries；现在分词短语：sort of implying...；直接引语：hey, settle down...；伴随状语：everyone trying to turn these into tea leaves。",
+      "analysis": "sort of implying意为“有点暗示”。turn these into tea leaves是习语，tea leaves指“茶叶占卜”，引申为“解读预兆”。"
+    },
+    {
+      "en": "A handful of primaries that go in one direction or the other in a given state or two aren't going to reshape who we are as House Democrats.",
+      "cn": "一两个州中少数几场初选的结果，无论方向如何，都不会重塑我们作为众议院民主党人的身份。",
+      "structure": "主句：A handful of primaries aren't going to reshape；定语从句：that go in one direction or the other；宾语从句：who we are as House Democrats。",
+      "analysis": "a handful of意为“少数”。go in one direction or the other指“朝某个方向发展”。reshape who we as...意为“重塑我们作为...的身份”。"
+    },
+    {
+      "en": "I think that the big takeaway from last night was the robust, healthy turnout we saw expanding our traditional base in these primaries, which means that we have room to grow.",
+      "cn": "我认为昨晚的重要收获是，我们看到了强劲、健康的投票率，这扩大了我们在这些初选中的传统基础，这意味着我们有增长空间。",
+      "structure": "主句：I think；宾语从句：that the big takeaway was the turnout；定语从句：we saw；现在分词短语：expanding our traditional base；非限制性定语从句：which means that...。",
+      "analysis": "takeaway意为“要点、收获”。robust, healthy turnout指“强劲健康的投票率”。expanding是现在分词作结果状语。have room to grow意为“有增长空间”。"
+    },
+    {
+      "en": "I think that means that the buffet known as the Democratic Party are adding some items.",
+      "cn": "我认为这意味着被称为民主党的自助餐正在增加一些菜品。",
+      "structure": "主句：I think；宾语从句：that means；表语从句：that the buffet are adding some items；过去分词短语：known as the Democratic Party。",
+      "analysis": "buffet是比喻，将民主党比作自助餐，adding some items指“增加新元素或候选人”。known as意为“被称为”。"
+    },
+    {
+      "en": "Political parties aren't perfect, but they're built by millions of people who knock doors, make calls, fight for the values they believe in.",
+      "cn": "政党并不完美，但它们是由数百万敲门、打电话、为他们信仰的价值观而奋斗的人建立起来的。",
+      "structure": "并列句：Political parties aren't perfect, but they're built；定语从句：who knock doors, make calls, fight for the values；定语从句：they believe in（省略that）。",
+      "analysis": "knock doors指“上门拉票”，make calls指“打电话拉票”，是竞选活动常见表达。fight for the values they believe in中，they believe in是省略that的定语从句修饰values。"
+    },
+    {
+      "en": "If you don't believe in the party, then don't ask its members to carry you across the finish line.",
+      "cn": "如果你不相信这个党，那就不要要求它的成员带你冲过终点线。",
+      "structure": "条件状语从句：If you don't believe in the party；主句：don't ask its members to carry you across the finish line。",
+      "analysis": "carry you across the finish line是比喻，意为“帮你赢得选举”。finish line指“终点线”，在此指“选举胜利”。"
+    },
+    {
+      "en": "Who is the Democratic Party, if not the voters?",
+      "cn": "如果不是选民，民主党又是什么呢？",
+      "structure": "主句：Who is the Democratic Party；条件状语从句：if not the voters。",
+      "analysis": "if not the voters是省略结构，完整为if it is not the voters，意为“如果不是选民的话”。反问句强调选民才是政党的核心。"
+    },
+    {
+      "en": "And party leaders need to listen to what voters are telling us.",
+      "cn": "而政党领导人需要倾听选民在告诉我们什么。",
+      "structure": "主句：party leaders need to listen to；宾语从句：what voters are telling us。",
+      "analysis": "listen to what...是“倾听...的内容”。what引导宾语从句，在从句中作telling的直接宾语。"
+    },
+    {
+      "en": "And right now, they're demanding our party be bolder.",
+      "cn": "而现在，他们要求我们的党更大胆。",
+      "structure": "主句：they're demanding；宾语从句：our party be bolder（省略should）。",
+      "analysis": "demand后接宾语从句时，从句谓语用虚拟语气（should+动词原形，should可省略）。be bolder意为“更大胆”。"
+    },
+    {
+      "en": "We are experiencing growing pains.",
+      "cn": "我们正在经历成长的阵痛。",
+      "structure": "主谓宾结构。",
+      "analysis": "growing pains是固定短语，原指“生长痛”，比喻“发展过程中遇到的困难”。"
+    },
+    {
+      "en": "But what I'll tell you, what I will tell you is that the big takeaway from the New York primaries last night was New York 17, a moderate candidate who will take on Mike Lawler, a swing district in New York that will help us get the majority.",
+      "cn": "但我要告诉你的是，昨晚纽约初选的重要收获是纽约第17选区，一位温和派候选人将挑战迈克·劳勒，这是一个摇摆选区，将帮助我们获得多数席位。",
+      "structure": "主句：what I will tell you is that...；表语从句：that the big takeaway was New York 17；同位语：a moderate candidate；定语从句：who will take on Mike Lawler；同位语：a swing district；定语从句：that will help us get the majority。",
+      "analysis": "what I will tell you是主语从句。take on意为“挑战（对手）”。swing district指“摇摆选区”，即两党竞争激烈的选区。get the majority指“获得多数席位”。"
+    },
+    {
+      "en": "Democrats -- progressive winning in Democratic safe seats is not some narrative that we should just be flashing the lights about.",
+      "cn": "民主党——进步派在民主党安全席位中获胜，并不是我们应该大肆宣扬的叙事。",
+      "structure": "主句：progressive winning is not some narrative；定语从句：that we should just be flashing the lights about。",
+      "analysis": "safe seats指“安全席位”，即某党稳赢的选区。flashing the lights about是比喻，意为“大肆宣传、引起注意”。narrative指“叙事、说法”。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "纽约初选与民主党内部左转",
+      "content": "2026年6月23日纽约初选中，纽约市长佐赫兰·马姆达尼（Zohran Mamdani）支持的进步派候选人赢得三个众议院选区，击败两名现任议员。这反映了民主党内部在以色列政策等问题上的分歧，以及进步派势力的上升。马姆达尼是民主社会主义者，其支持被视为对党内建制派的挑战。",
+      "keywords": "Zohran Mamdani · 进步派 · 初选 · 民主社会主义"
+    },
+    {
+      "title": "以色列问题成为民主党试金石",
+      "content": "在纽约初选中，候选人布拉德·兰德（Brad Lander）批评拜登的‘拥抱比比’（hug Bibi）战略是灾难性失败，凸显以色列-巴勒斯坦问题成为民主党内部关键分歧。进步派主张对以色列采取更强硬立场，而建制派则支持传统盟友关系。这一议题可能影响2026年中期选举。",
+      "keywords": "Israel · litmus test · hug Bibi · 拜登"
+    },
+    {
+      "title": "网络安全威胁与人工智能",
+      "content": "节目中提及一份严峻的情报警告：下一次重大网络攻击可能就在几个月后，且人类可能与之无关。这暗示人工智能驱动的网络攻击日益成为现实威胁。近年来，AI被用于自动化网络钓鱼、恶意软件生成等，加剧了安全挑战。",
+      "keywords": "cyberattack · 人工智能 · 情报警告 · 网络安全"
+    },
+    {
+      "title": "肯尼迪家族政治遗产的衰落",
+      "content": "约翰·F·肯尼迪唯一的孙子在纽约初选中落败，引发对‘卡米洛特’（Camelot）时代遗产的讨论。肯尼迪家族曾是美国政治象征，但近年来其成员在选举中屡遭挫折，反映了政治王朝影响力的减弱以及选民对传统政治家族的疏离。",
+      "keywords": "Camelot · 肯尼迪家族 · 政治遗产 · 初选"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "在原文 'Candidates he backed made a big statement in New York last night.' 中，'backed' 最接近的含义是？",
+      "options": [
+        "A. 后退",
+        "B. 支持",
+        "C. 背靠",
+        "D. 背书（金融）"
+      ],
+      "answer": 1,
+      "explanation": "在政治语境中，'backed' 意为‘支持’，指候选人得到某人的背书或资助。其他选项不符合上下文。"
+    },
+    {
+      "type": "vocab",
+      "question": "短语 'clean sweep' 在 'A clean sweep for Zohran Mamdani.' 中的意思是？",
+      "options": [
+        "A. 彻底打扫",
+        "B. 大获全胜",
+        "C. 干净利落",
+        "D. 扫除障碍"
+      ],
+      "answer": 1,
+      "explanation": "'clean sweep' 是固定搭配，意为‘全面胜利’，指在所有竞争中都获胜。这里指马姆达尼支持的候选人全部赢得初选。"
+    },
+    {
+      "type": "vocab",
+      "question": "原文 'Israel is becoming a litmus test for many' 中，'litmus test' 指的是？",
+      "options": [
+        "A. 化学试纸",
+        "B. 决定性考验",
+        "C. 测试酸碱度",
+        "D. 简单测试"
+      ],
+      "answer": 1,
+      "explanation": "'litmus test' 是比喻用法，意为‘试金石’，指用单一问题来检验一个人的政治立场。这里指以色列问题成为判断民主党候选人立场的标准。"
+    },
+    {
+      "type": "comprehension",
+      "question": "根据原文，纽约初选结果主要反映了什么？",
+      "options": [
+        "A. 民主党整体向右转",
+        "B. 进步派在安全选区影响力上升",
+        "C. 共和党在纽约取得突破",
+        "D. 选民对特朗普的支持增加"
+      ],
+      "answer": 1,
+      "explanation": "原文指出马姆达尼支持的进步派候选人在深蓝选区获胜，击败了现任议员，表明进步派在安全选区影响力上升。但分析也强调，决定多数席位的仍是温和派候选人。"
+    },
+    {
+      "type": "comprehension",
+      "question": "关于民主党内部辩论，以下哪项说法正确？",
+      "options": [
+        "A. 所有民主党人都支持拜登的以色列政策",
+        "B. 以色列问题已成为党内分歧焦点",
+        "C. 进步派和建制派在以色列问题上完全一致",
+        "D. 选民不关心外交政策"
+      ],
+      "answer": 1,
+      "explanation": "原文中兰德批评拜登的‘拥抱比比’战略，且节目讨论以色列成为‘litmus test’，说明以色列问题是党内关键分歧。其他选项与原文矛盾。"
+    },
+    {
+      "type": "comprehension",
+      "question": "节目中提到‘Camelot’遗产，其背景是？",
+      "options": [
+        "A. 英国亚瑟王传说",
+        "B. 肯尼迪政府时期",
+        "C. 纽约的一个地名",
+        "D. 一部电影名称"
+      ],
+      "answer": 1,
+      "explanation": "'Camelot' 在政治语境中特指约翰·F·肯尼迪总统任期（1961-1963），象征理想主义和政治魅力。原文提到肯尼迪的孙子落选，引发对‘Camelot’遗产的讨论。"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "But according to Ross Township Police Department, that fawn went over the side of a retaining wall at a high school on Monday. Officer Roy and his sergeant came to the rescue. Good job there. They were able to take care of the matter and safely, as well. That does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "但据罗斯镇警察局称，周一，那只小鹿从一所高中的挡土墙边跌落。警官罗伊和他的警长前来救援。干得好。他们成功处理了此事，而且安全无虞。CNN头条快讯到此结束。我是布拉德·史密斯。奥黛·科尼什主持的《CNN今晨》节目现在开始。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Today in the group chat is on Mamdani, the Democrats' new power broker. Candidates he backed made a big statement in New York last night. BRAD LANDER (D),",
+      "cn": "今天群聊的话题是马姆达尼，民主党新的权力掮客。他支持的候选人们昨晚在纽约发表了重要声明。布拉德·兰德（民主党）："
+    },
+    {
+      "speaker": "New York House Candidate",
+      "text": "Revamp and recharge the Democratic Party in Washington that has, in so many ways, failed to meet the moment.",
+      "cn": "改造并重振华盛顿的民主党，该党在许多方面未能应对当下的挑战。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And a stark intelligence warning. The next major cyberattack could be just months away. And humans may have little to do with it. And JFK's only grandson just lost his primary in New York. Where does that leave the legacy that a lot of people used to call Camelot? And some things Zohran Mamdani and Donald Trump can agree on: a big triumph in Washington for an issue that couldn't be closer to home. MAYOR ZOHRAN MAMDANI (D),",
+      "cn": "以及一份严峻的情报警告：下一次重大网络攻击可能就在几个月后，而且人类可能与此无关。还有，肯尼迪唯一的孙子刚刚在纽约初选中落败。这对许多人曾称之为\"卡米洛特\"的遗产意味着什么？以及佐赫兰·马姆达尼和唐纳德·特朗普能达成一致的一些事情：在华盛顿，一个与家庭息息相关的问题取得了重大胜利。市长佐赫兰·马姆达尼（民主党）："
+    },
+    {
+      "speaker": "New York City",
+      "text": "The old world is dying, and the new world struggles to be born.",
+      "cn": "旧世界正在消亡，新世界挣扎着诞生。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "A clean sweep for Zohran Mamdani. Good morning, everybody. I'm Audie Cornish, and here's what we're talking about today. The three progressives who were backed by New York City's Democratic socialist mayor, all of them won their House primaries last night. So, you had former city comptroller Brad Lander ousted two-term congressman Dan Goldman after a bruising campaign that focused heavily on their differences over Israel.",
+      "cn": "佐赫兰·马姆达尼大获全胜。大家早上好。我是奥黛·科尼什，以下是今天我们要讨论的内容。三位由纽约市民主党社会主义市长支持的进步派候选人，昨晚都在众议院初选中获胜。前市审计长布拉德·兰德在一场激烈竞选后，击败了两任众议员丹·戈德曼，竞选焦点集中在他们在以色列问题上的分歧。"
+    },
+    {
+      "speaker": "Lander",
+      "text": "Democrats are painfully divided by our differences over the U.S. relationship to Israel and Palestine, and we have to face up to it squarely.",
+      "cn": "民主党因我们在美国与以色列和巴勒斯坦关系上的分歧而痛苦分裂，我们必须正视这一点。"
+    },
+    {
+      "speaker": "Lander",
+      "text": "Our party needs to admit that Joe Biden's \"hug Bibi\" strategy was a catastrophic failure.",
+      "cn": "我们的党需要承认，乔·拜登的\"拥抱比比\"战略是一场灾难性的失败。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And state Assemblywoman Claire Valdez, a Mamdani-backed Democratic socialist, will be the Democratic nominee for New York's 7th congressional district. And Darializa Avila Chevalier, another Democratic socialist, captured New York's 13th District, defeating incumbent Adriano Espaillat. So, it was a rough night for the old guard in New York. There are two incumbents who were defeated. REP. DAN GOLDMAN (D),",
+      "cn": "州众议员克莱尔·瓦尔迪兹，一位马姆达尼支持的民主社会主义者，将成为纽约第七国会选区的民主党候选人。另一位民主社会主义者达里亚利扎·阿维拉·谢瓦利埃赢得了纽约第十三选区，击败了现任议员阿德里亚诺·埃斯帕亚特。因此，对于纽约的保守派来说，这是一个艰难的夜晚。两位现任议员被击败。众议员丹·戈德曼（民主党）："
+    },
+    {
+      "speaker": "New York",
+      "text": "Politics like sports, has seasons of disappointment and seasons of triumph. What matters is that we continue showing up. We continue believing. We continue fighting for something bigger than just ourselves. And so, while my service in Congress may end at the end of this year, my commitment to these ideals will not.",
+      "cn": "政治就像体育，有失望的季节，也有胜利的季节。重要的是我们继续出现，继续相信，继续为比我们自己更伟大的事业而奋斗。因此，虽然我在国会的服务可能在今年年底结束，但我对这些理想的承诺不会改变。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joining me now in the group chat, Ron Brownstein, CNN senior political analyst; Jarrett Stepman, contributor at \"The Daily Signal\"; and Antjuan Seawright, Democratic Party strategist. Antjuan, I'm going to start with you, because this is all about Democrats last night and the Democratic Party, except it kind of was about the Democratic socialists instead. You had someone like hakeem Jeffries on Wednesday, sort of implying like, hey, settle down, everyone trying to turn these into tea leaves. Here he is. REP.",
+      "cn": "现在加入我们群聊的有：CNN高级政治分析师罗恩·布朗斯坦、《每日信号》撰稿人贾勒特·斯特普曼以及民主党策略师安特万·西赖特。安特万，我先从你开始，因为昨晚的一切都关乎民主党，但似乎又变成了关于民主社会主义者。周三，像哈基姆·杰弗里斯这样的人似乎在暗示：嘿，冷静点，别把这一切都解读为某种征兆。下面是他说的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "HAKEEM JEFFRIES (D-NY): There are 215 members in the House Democratic Caucus. A handful of primaries that go in one direction or the other in a given state or two aren't going to reshape who we are as House Democrats.",
+      "cn": "哈基姆·杰弗里斯（纽约州民主党）：众议院民主党党团有215名成员。少数几个初选在某个州或两个州朝某个方向发展，并不会重塑我们作为众议院民主党人的身份。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Is this denying the reality of where voters are headed?",
+      "cn": "这是否否认了选民走向的现实？"
+    },
+    {
+      "speaker": "Antjuan Seawright",
+      "text": "A few takeaways from last night. One, I think that these New York primaries are not some big, bold -- big, bold print or summary of where the totality of the Democratic Party is heading. No. 2, I would argue that the big takeaway from last night was the robust, healthy turnout we saw expanding our traditional base in these primaries, which means that we have room to grow. I think that means that the buffet known as the Democratic Party are adding some items.",
+      "cn": "昨晚有几点收获。第一，我认为这些纽约初选并不是什么重大、鲜明的标志或总结，表明整个民主党的走向。第二，我认为昨晚最大的收获是我们在这些初选中看到了强劲、健康的投票率，这扩大了我们的传统基础，意味着我们有增长空间。我认为这意味着被称为民主党的自助餐正在增加一些菜品。"
+    },
+    {
+      "speaker": "Antjuan Seawright",
+      "text": "And so that means more people will stand in line to eat from the buffet in November.",
+      "cn": "所以这意味着更多人会在11月排队享用自助餐。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. It sounds like a parallel buffet. No, no, no. Before you go, Jamie Harrison, Democrat, he was saying -- I think this is 23rd, almost midnight. He's tweeting this: \"Political parties aren't perfect, but they're built by millions of people who knock doors, make calls, fight for the values they believe in.\" And then he says this, because a lot of people are -- are criticizing the party.",
+      "cn": "是的。听起来像是一个平行的自助餐。不，不，不。在你走之前，民主党人杰米·哈里森说 --  -- 我想这是23号，快到午夜了。他发推文说：\"政党并不完美，但它们是由数百万敲门、打电话、为自己信仰的价值观而奋斗的人建立的。\"然后他这样说，因为很多人都在批评这个党。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "\"If you don't believe in the party, then don't ask its members to carry you across the finish line.\" Chris Murphy responds, Chris Murphy of Connecticut. And he goes, \"I don't know, man. Who is the Democratic Party, if not the voters? Democratic voters choose candidates, not party leaders. And party leaders need to listen to what voters are telling us. And right now, they're demanding our party be bolder.\"",
+      "cn": "\"如果你不相信这个党，那就不要要求它的成员带你冲过终点线。\"康涅狄格州的克里斯·墨菲回应道。他说：\"我不知道，伙计。如果选民不是民主党，那谁是？民主党选民选择候选人，而不是党的领导人。党的领导人需要倾听选民告诉我们的。现在，他们要求我们的党更加大胆。\""
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Sure. We are experiencing growing pains. That happens on both sides of the aisle. But what I'll tell you, what I will tell you is that the big takeaway from the New York primaries last night was New York 17, a moderate candidate who will take on Mike Lawler, a swing district in New York that will help us get the majority. Democrats -- progressive winning in Democratic safe seats is not some narrative that we should just be flashing the lights about. I mean, that's healthy debate. That's healthy within the party.",
+      "cn": "当然。我们正在经历成长的痛苦。这在两党都会发生。但我要告诉你的是，昨晚纽约初选的最大收获是纽约第17选区，一位温和派候选人将挑战迈克·劳勒，这是一个摇摆选区，将帮助我们获得多数席位。民主党 --  -- 进步派在民主党安全席位中获胜并不是什么值得大书特书的事情。我的意思是，这是健康的辩论。这是党内的健康现象。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "I'm more focused on how do we get to 218? And New York 17 primary is a direct result of that.",
+      "cn": "我更关注的是我们如何达到218席？而纽约第17选区的初选正是这一目标直接的结果。"
+    },
+    {
+      "speaker": "Ron Brownstein",
+      "text": "It is really a two-track story. I think that it is not as simple as being portrayed. Antjuan was right. I mean, in safe Democratic seats, in blue places, there is no question the party is moving to the left. If you are an incumbent, kind of a mainstream Democrat in a solidly blue district, especially in an urban setting, you have to be looking over your left shoulder after what we are watching this year.",
+      "cn": "这实际上是一个双轨故事。我认为这并不像描述的那样简单。安特万说得对。我的意思是，在安全的民主党席位、蓝色地区，毫无疑问党正在向左移动。如果你是一个现任的、主流民主党人，身处稳固的蓝色选区，尤其是在城市环境中，在目睹了今年发生的事情后，你必须警惕左翼的挑战。"
+    },
+    {
+      "speaker": "Ron Brownstein",
+      "text": "But if you look at the districts that are going to decide which party has the majority with a few exceptions, Democrats are still relying primarily on moderate nominees. I mean, New York 17, South Carolina 1 and Utah 1 last night. We didn't say Ben McAdams. We didn't say Nancy Lacore. We didn't say Kate Connelly. But ultimately, those are the candidates that are going to decide whether -- which party is in the majority.",
+      "cn": "但如果你看看那些将决定哪个党派占多数的选区，除了少数例外，民主党仍然主要依赖温和派候选人。我是说，昨晚的纽约第17选区、南卡罗来纳第1选区和犹他第1选区。我们没有提到本·麦克亚当斯。我们没有提到南希·拉科尔。我们没有提到凯特·康纳利。但最终，这些候选人将决定哪个党派占多数。"
+    },
+    {
+      "speaker": "Ron Brownstein",
+      "text": "Now, it is not without consequence that these left candidates are winning in, even in safe places, because A, Republicans are going to try to tie all Democrats to them. And if -- if Democrats do get the majority, it's going to affect the internal dynamics of the caucus.",
+      "cn": "现在，这些左派候选人即使在安全选区获胜也并非没有后果，因为A，共和党将试图把所有民主党人与他们捆绑在一起。如果民主党确实获得多数，这将影响党团内部的动态。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me make sure -- let me make sure --",
+      "cn": "让我确认一下 --  -- 让我确认一下 --  --"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "But in terms of who gets the majority, it's not critical.",
+      "cn": "但就谁获得多数而言，这并不关键。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- Jarrett has a moment to step in here. Because this is the argument that I've heard over and over and over again with each one of these special elections. There's a moderate doing well. There's someone over here making noise. Why? Who are they? But you have Republicans using those voices to be like, look, they're all communists. And does that work against some of these moderate candidates? JARRETT STEPMAN, CONTRIBUTOR, \"THE DAILY SIGNAL\": Sure.",
+      "cn": "--  -- 让贾勒特插句话。因为这是我在每一次特别选举中反复听到的论点。有一个温和派表现不错。有另一个人在这里制造噪音。为什么？他们是谁？但共和党人利用这些声音说，看，他们都是共产主义者。这会不会对某些温和派候选人产生不利影响？《每日信号》撰稿人贾勒特·斯蒂芬：当然。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But you can't deny the fact that Mamdani and folks like him are trying to reshape the Democrat Party. I thought a lot of the issues were actually less just directed toward Donald Trump. What you see a lot of in the Democrat Party is opposition to Trump. This is about internal debates within the party. I mean, it's very clear now that Israel is becoming a litmus test for many, especially in these deep-blue districts. That clearly came to pass in these elections.",
+      "cn": "但你不能否认，马姆达尼和他这样的人正试图重塑民主党。我认为很多问题实际上并不只是针对唐纳德·特朗普。你在民主党中看到很多的是对特朗普的反对。这是关于党内的辩论。我的意思是，现在很明显，以色列正在成为许多人的试金石，尤其是在这些深蓝选区。这在这次选举中显然得到了体现。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, yes, I understand that the larger political picture, the national picture, is being shaped by a few more moderate swing districts. But this does shape the party, long-term. If you're sending more socialist members to Congress --",
+      "cn": "所以，是的，我理解更大的政治图景，全国图景，是由一些更温和的摇摆选区塑造的。但这确实长期塑造了政党。如果你把更多的社会主义者送进国会 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Are you saying that --",
+      "cn": "你是说 --  --"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "-- that changes the dynamic.",
+      "cn": "--  -- 那会改变动态。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- because of what happened with both the Tea Party and MAGA candidates.",
+      "cn": "--  -- 因为茶党和MAGA候选人的情况。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- who also, at the time, were considered extreme, can't win generals. Why are they doing this? Where is the party going? Bush Republicans melting down, you know, like witches in \"The Wizard of Oz.\" It was a whole thing.",
+      "cn": "--  -- 这些人当时也被视为极端分子，不可能赢得将军的支持。他们为什么要这么做？这个党要走向何方？布什派的共和党人正在崩溃，就像《绿野仙踪》里的女巫一样。这真是一团糟。"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "It was transitionary.",
+      "cn": "这是一个过渡期。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Are you speaking from experience?",
+      "cn": "你是在根据经验说话吗？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Or are you poking at the weak spots?",
+      "cn": "还是你在戳他们的弱点？"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "No, it is experience. The populist politics of the right have reshaped the Republican Party. I think the Democrat Party is going through a similar period: that the establishment is seen as not being as credible. They've taken some lumps. They've gone against Trump and lost in 2024. Many of the Bernie Sanders-style politicians feel that they're -- they're in a good spot right now.",
+      "cn": "不，这是经验。右翼的民粹政治已经重塑了共和党。我认为民主党正在经历一个类似的时期：建制派被认为不再那么可信。他们遭受了一些打击。他们与特朗普对抗，并在2024年落败。许多伯尼·桑德斯式的政客觉得他们现在处于有利位置。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You just mentioned Bernie Sanders.",
+      "cn": "你刚才提到了伯尼·桑德斯。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Did he have a good night endorsing?",
+      "cn": "他昨晚的背书表现不错吗？"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "Yes, sure. In New York, right? I mean, and in New York City. I mean, you know, and there are -- look, as I was saying, this is primarily happening in safe blue places so far. There are a few of the Sanders-Warren-type candidates who are -- who have gotten nominations in competitive races. Maine, Graham Platner, obviously, in the Senate race. There's a California -- the race for David Valadao's seat. There's going to be one in Colorado coming up.",
+      "cn": "是的，当然。在纽约，对吧？我的意思是，在纽约市。你看，正如我所说，到目前为止，这主要发生在安全的蓝色选区。有一些桑德斯-沃伦式的候选人已经在竞争激烈的竞选中获得了提名。比如缅因州的格雷厄姆·普拉特纳，显然是在参议院竞选中。还有加利福尼亚州 --  -- 争夺大卫·瓦拉道席位的竞选。科罗拉多州也将有一场。"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "How they do in November is going to be really critical to the long- term --",
+      "cn": "他们在十一月的表现将对长期 --  --"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "-- prospects of this movement. I mean, these -- the -- you know, all the districts we're talking about in New York City, Harris won at least 72 percent of the vote. OK, so these are -- these are very safe Democratic places. And if they do get to Washington, they are going to -- they are going to affect the internal dynamics of the caucus.",
+      "cn": "--  -- 这一运动的前景至关重要。我的意思是，这些 --  -- 你知道，我们在纽约市谈论的所有选区，哈里斯至少赢得了72%的选票。所以这些是非常安全的民主党地盘。如果他们真的进入华盛顿，他们将影响党团内部的动态。"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "But ultimately, I think whether the left comes out of November with as much momentum as they look like this morning, I think it's going to depend a lot on how those candidates in swing districts do.",
+      "cn": "但最终，我认为左派在11月之后是否还能像今天早上看起来那样势头强劲，很大程度上将取决于那些摇摆选区的候选人表现如何。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, momentum is fair, which is back to Antjuan's point.",
+      "cn": "所以，势头是存在的，这又回到了Antjuan的观点。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "The through line has been economics, has been affordability. And I think, whether you talk about the progressive left or the centrist left or the moderates, however you want to describe them, the through line has been affordability. And I would just say that how you campaign and how you govern are two different things.",
+      "cn": "贯穿始终的主线一直是经济，是可负担性。我认为，无论你谈论的是进步左派、中间左派还是温和派，无论你怎么描述他们，主线都是可负担性。我只想说，竞选和执政是两回事。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Mamdani's a good example.",
+      "cn": "是的。Mamdani就是一个很好的例子。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "And I think we're seeing that with Mayor Mamdani. He talked about a number of things on the campaign trail. But people in New York, by and large, have been very pleased with him. That's why the right have not been able to attack him and tried to mold him in to be something he's not.",
+      "cn": "我认为我们从Mamdani市长身上看到了这一点。他在竞选过程中谈到了很多事情。但总的来说，纽约人民对他非常满意。这就是为什么右派无法攻击他，也无法试图把他塑造成一个不是他的人。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. We're going to talk more about some of these races, but I want to turn to one other thing, because I always like to look at where the money went. So, did big tech try to buy New York's political primary? How tech companies spent millions to shape Tuesday's vote. Plus, are immigration courts becoming ICE hunting grounds? A federal judge has decided to step in.",
+      "cn": "好的。我们将进一步讨论其中一些竞选，但我想转向另一件事，因为我总是喜欢看资金流向。那么，大型科技公司是否试图收买纽约的政治初选？科技公司如何花费数百万美元影响周二的投票。此外，移民法庭是否正在成为ICE的狩猎场？一名联邦法官已决定介入。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right. It's now almost 15 minutes past the hour. This is your morning roundup. Bill Gates told congressional investigators he suspected he was in the presence of Jeffrey Epstein's victims. Gates testified before the House Oversight Committee in a closed-door hearing earlier this month. According to newly-released transcripts, Gates said he never interacted with the victims and never witnessed any sexual misconduct.",
+      "cn": "好了。现在已经是整点过15分了。这是你的早间新闻汇总。比尔·盖茨告诉国会调查人员，他怀疑自己曾与杰弗里·爱泼斯坦的受害者同处一室。盖茨本月早些时候在众议院监督委员会的闭门听证会上作证。根据最新公布的记录，盖茨表示他从未与受害者互动，也从未目睹任何性行为不端。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "A federal judge has issued a nationwide block against the Trump administration's policy of making arrests at immigration courts. Federal officers began detaining court attendees last year under the Trump administration's policies. Now, this new ruling calls the practice arbitrary. And a wildfire in Utah has now burned about 31,000 acres. It's still not contained. High temperatures and strong winds are making the fire difficult to put out. The fire started on Monday near multiple campgrounds and summer homes.",
+      "cn": "一名联邦法官已发布全国性禁令，阻止特朗普政府在移民法庭实施逮捕的政策。根据特朗普政府的政策，联邦官员去年开始拘留法庭出席者。现在，这项新裁决称这种做法是武断的。犹他州的一场野火已烧毁约31000英亩土地，火势仍未得到控制。高温和强风使灭火变得困难。大火于周一在多个露营地和小屋附近燃起。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And the NCAA has approved a sweeping overhaul of eligibility rules for student athletes. Division I athletes will now be allowed five years of competition in their college years, instead of four. Red shirts and waivers are now eliminated. And this new model goes into effect following this school year. And round one of the NBA draft is in the books. Any one of four top prospects could have been picked first by the Washington Wizards.",
+      "cn": "NCAA已批准对学生运动员资格规则进行全面改革。一级联赛的运动员现在将被允许在大学期间参加五年的比赛，而不是四年。红衫和豁免现在被取消。这一新模式将在本学年结束后生效。NBA选秀第一轮已经结束。四名顶尖新秀中的任何一人都可能被华盛顿奇才队以第一顺位选中。"
+    },
+    {
+      "speaker": "Adam Silver",
+      "text": "With the first pick in the 2026 NBA draft, the Washington Wizards select Anicet Dybantsa Jr. from Brigham Young University.",
+      "cn": "在2026年NBA选秀中，华盛顿奇才队以第一顺位选择了来自杨百翰大学的Anicet Dybantsa Jr.。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He is six foot nine and averages 25.5 points per game. He is the first player in more than 30 years to lead the NCAA in Division I scoring and get picked first in the NBA draft. Now, after the break on CNN THIS MORNING, progress in the war between Israel and Lebanon. Can Marco Rubio keep both sides engaged in peace talks? But first, President Trump on a collision course with Republican senators on Capitol Hill. They'll hash it out over lunch today.",
+      "cn": "他身高六英尺九英寸，场均得分25.5分。他是30多年来首位在NCAA一级联赛得分榜上领先并在NBA选秀中被首轮第一顺位选中的球员。现在，在CNN《今晨》节目之后，以色列和黎巴嫩之间的战争取得了进展。马可·卢比奥能否让双方继续参与和平谈判？但首先，特朗普总统与国会山的共和党参议员们发生了冲突。他们将在今天的午餐会上解决这个问题。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Who's going to leave with heartburn? And good morning from here in our nation's capital, as we take a live look at the sunrise over the dome.",
+      "cn": "谁会带着不满离开？早上好，从我们国家首都这里，我们实时观看圆顶上的日出。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "President Trump is failing to get his way in the Senate. He wants to pass his voting requirements bill, known as the SAVE Act, and he wants the Senate to end the filibuster to override Democrats to get it done. Senator Thom Tillis, a Republican, says that's not going to happen. SEN. THOM TILLIS (R-NC): This is a waste of time. It's a distraction, and it's not going to get -- it's not going to happen in this Congress. He's just got to understand some of the limits that we have here in the Senate. Talking's good.",
+      "cn": "特朗普总统未能在参议院如愿以偿。他想通过他的投票要求法案，即《拯救法案》，并希望参议院结束冗长辩论以压倒民主党来通过它。共和党参议员汤姆·蒂利斯表示这不会发生。共和党参议员汤姆·蒂利斯（北卡罗来纳州）：这是浪费时间。这是一种干扰，而且不会 --  -- 在本届国会中不会发生。他必须理解我们在参议院的一些限制。谈话是好的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "SAVE Act's a waste of time.",
+      "cn": "《拯救法案》是浪费时间。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Last night, several Republicans crossed party lines to vote for a war powers resolution, demanding that the president come to Congress if he wants to continue a war with Iran. Now, the battle over these bills is coming to a head for Senate leader John Thune. He's facing not just Trump, but rival Republicans gunning for his job and willing to use Trump's frustration to get it. So, what can we expect today? The group chat is back. I'm going to nerd out, because I used to cover the Senate. And Sen.",
+      "cn": "昨晚，几位共和党人跨党派投票支持一项战争权力决议，要求总统如果想继续与伊朗的战争，必须来国会。现在，围绕这些法案的斗争对参议院领袖约翰·图恩来说到了关键时刻。他不仅面临特朗普的挑战，还有觊觎他职位的共和党对手，他们愿意利用特朗普的挫败感来达到目的。那么，今天我们能期待什么？群聊回来了。我要开始书呆子模式了，因为我以前报道过参议院。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Thune was on X, hitting back at Mike Lee and others who were, like, Pass the SAVE Act and get rid of the filibuster. We're all frothy about this. And Thune was telling reporters, look, I have to deal with reality. And sometimes the alternative universe that is X does not reflect the facts on the ground. This is the old \"Twitter is not real life\" argument. And he says, \"There are not the voters to nuke the filibuster. They aren't going to be ten Democratic votes to, all of a sudden, support the SAVE America Act.",
+      "cn": "图恩在X上回击了迈克·李和其他人，他们主张通过《拯救法案》并废除冗长辩论。我们都对此感到兴奋。图恩告诉记者，听着，我必须面对现实。有时X上的平行宇宙并不反映现实情况。这是老生常谈的\"推特不是真实生活\"的论点。他说：\"没有足够的选民来废除冗长辩论。不会有十名民主党参议员突然支持《拯救美国法案》。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Those are hard realities. And I think people at some point have to come to grips with that.\" People or Trump?",
+      "cn": "这些都是严酷的现实。我认为人们最终必须接受这一点。\"人们还是特朗普？"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "Yes, I think this is really an interesting moment, especially for the filibuster. I would say that Trump is using this moment to say, look, it needs to be done away with to get what we want.",
+      "cn": "是的，我认为这确实是一个有趣的时刻，尤其是对于冗长辩论而言。我想说特朗普正在利用这个时刻说，看，为了得到我们想要的，必须废除它。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But why use it with something they don't want and that they can't pass. Why not use it with something --",
+      "cn": "但为什么用它来推动他们不想要且无法通过的东西？为什么不用它来推动 --  --"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "Because I think that President Trump especially has actually had some criticism, even from his own voters, that he hasn't paid enough attention to domestic politics, that he's been focused on international affairs. The SAVE America Act, which is very popular amongst the Republican base, is something that needs to happen. And so, Trump, I think, is getting pressure from his own voters. And he is now pressuring the Senate, thinking, Well --",
+      "cn": "因为我认为特朗普总统尤其受到了一些批评，甚至来自他自己的选民，说他不够关注国内政治，而专注于国际事务。《拯救美国法案》在共和党基础选民中非常受欢迎，这是必须做的事情。所以，我认为特朗普正受到自己选民的压力。他现在正在向参议院施压，心想，好吧 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But why not press an economic thing?",
+      "cn": "但为什么不施加经济压力呢？"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "-- what have we been doing these last six months -- six months?",
+      "cn": "--  -- 过去六个月我们都在做什么？六个月？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Like, if you're -- like, if their problem is focusing on domestic policy, why not do something that actually affects their pockets?",
+      "cn": "比如，如果他们的问题是专注于国内政策，为什么不做一些真正影响他们钱包的事？"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "I think because Republican voters also see elections as mattering. They -- they very much support voter I.D. as a --",
+      "cn": "我认为是因为共和党选民也认为选举很重要。他们非常支持选民身份验证作为 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, he's putting them on that. What do you see?",
+      "cn": "所以，他正在引导他们关注这个。你怎么看？"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "I see meet the new boss, same as the old boss. What was the issue on which there was the most pressure to end the filibuster during Joe Biden's presidency? HR-1, voting reform. The Democratic vision of what national voting rules should be. And ultimately, they could not -- they did not have enough votes to pass to end the filibuster in the Senate. Manchin and Sinema and others who were mostly unnamed. To -- to this point, there is not a majority in the Senate on either side to end the filibuster.",
+      "cn": "我看到的是新老板和旧老板一样。在乔·拜登总统任期内，哪个问题对结束冗长辩论的压力最大？HR-1，选举改革。民主党对全国选举规则应如何的愿景。最终，他们无法 --  -- 他们没有足够的票数在参议院结束冗长辩论。曼钦、西内马和其他大多未具名的人。到目前为止，参议院两党都没有多数支持结束冗长辩论。"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "And as long as there isn't, you can't impose a national voting regime on red states and blue states.",
+      "cn": "只要没有多数支持，你就不能对红州和蓝州强加全国性的选举制度。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, one other thing. Rick Scott of Florida, I was reading the reporting, was the one who might have invited Trump. You're nodding. You heard this, too. Invited Trump to this lunch. Thune was like, Oh, yes, I, too, want him at this lunch. And so now they're going to have to face Trump. You've been in leader meetings, I know, on House side, but how does this go down?",
+      "cn": "还有一件事。佛罗里达州的里克·斯科特，我看了报道，可能是他邀请了特朗普。你在点头。你也听说了。邀请特朗普参加这次午餐。图恩说，哦，是的，我也希望他参加这次午餐。所以现在他们不得不面对特朗普。你参加过领导会议，我知道，在众议院方面，但这次会怎么发展？"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Oh, it will be -- whatever happens in the meeting will be leaked to the press before the meeting even ends. That's No. 1.",
+      "cn": "哦，会议中发生的任何事情都会在会议结束前泄露给媒体。这是第一点。"
+    },
+    {
+      "speaker": "Ok. Seawright",
+      "text": "No. 2. But I think this whole idea of the SAVE America Act, or Voter Suppression Act.",
+      "cn": "第二点。但我认为整个《拯救美国法案》或《选民压制法案》的想法 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I'm going to put up while you're speaking, what's in it so people can see.",
+      "cn": "在你发言的时候，我会把内容展示出来，让大家看到。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "This Voter Suppression Act is a larger narrative that the president and his party are trying to implement, to strike fear and intimidation and voter suppression into the midterms. You add this with redistricting. You add this with his executive order on banning mail-in voting. There's a number of things they're trying to do to shape what the midterms look like. I've often called it the \"if you can't beat them, cheat them\" strategy.",
+      "cn": "这项《选民压制法案》是总统及其政党试图实施的一个更大叙事的一部分，目的是在中期选举中制造恐惧、恐吓和选民压制。再加上重新划分选区，以及他关于禁止邮寄投票的行政命令。他们正试图通过一系列手段来塑造中期选举的面貌。我常称之为\"打不过就作弊\"策略。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "And most reasonable Republicans know that this is not the way to go if they want to be successful in the midterms.",
+      "cn": "大多数理性的共和党人都知道，如果他们想在中期选举中获胜，这不是正确的做法。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But can I underscore Ron's point, which is that under Democrats, people didn't want to mess with it. And under Republicans now, people don't want to mess with it. They see voting as the province of the states. They already have watched this redistricting war. And this brings me to this point. Why is it with a war powers vote -- I'm going to show you the Republicans who crossed the aisle with voting. Why are these the trigger points that have inspired a certain courage in the Senate against Trump?",
+      "cn": "但我能否强调一下罗恩的观点：在民主党执政时，人们不想干预选举；现在共和党执政，人们同样不想干预。他们认为投票是各州的事务。他们已经目睹了重新划分选区的斗争。这就引出了我的问题：为什么在战争权力投票中 --  -- 我会展示那些跨党派投票的共和党人 --  -- 这些会成为触发点，激励参议院中某些人敢于对抗特朗普？"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "Sixty-nine percent of Americans in a poll on Sunday said the war was not worth the costs. I mean, that's -- you know, you can find a lot of courage in a -- in a 69 percent issue. And it is still like, even on the voting, the vast majority of each party's legislators are willing to vote for setting national rules that would -- that would affect all 50 states, but not enough. I mean, it is -- you know, I don't know how many Republicans would vote to end the filibuster to pass the SAVE Act.",
+      "cn": "周日的一项民调显示，69%的美国人认为这场战争不值得付出代价。我的意思是，你知道，在一个69%支持率的问题上，你很容易找到勇气。而且即使在投票问题上，两党绝大多数立法者都愿意投票支持制定影响所有50个州的全国性规则，但还不够。我是说，我不知道有多少共和党人会投票结束冗长辩论以通过《SAVE法案》。"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "But it's -- you know, it's a lot. It's probably like 45 or 47.",
+      "cn": "但你知道，人数不少。大概有45或47人。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, we're being pretty vague. There are things in here --",
+      "cn": "是的，我们说得相当模糊。这里面有些内容 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- Democrats can campaign on. As a woman with a hyphenated name, I've been watching this closely. I don't want to get to the polls and be told, well, wait a second. Are you who you say you are? It feels like this is an issue that can be easily brought to voters, a la Antjuan, but that Republicans -- I mean, if Thune is saying it's not there --",
+      "cn": "--  -- 民主党可以借此进行竞选。作为一个名字带连字符的女性，我一直在密切关注此事。我可不想到了投票站被告知：等等，你真的是你说的那个人吗？感觉这个问题很容易像安特万说的那样被选民理解，但共和党人 --  -- 我是说，如果图恩说这不存在 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- are the people going after him, just trying to curry favor with Trump, to show, Look, I would have done this on your agenda if it was me.",
+      "cn": "--  -- 那些攻击他的人，只是想讨好特朗普，表明：看，如果是我，我会按你的议程行事。"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "But some of the issues, like, for instance, voter I.D., is extremely --",
+      "cn": "但有些问题，比如选民身份证，是极其 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, no, answer my question.",
+      "cn": "不，不，回答我的问题。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Is it a power move on Thune to basically bring him before the president and tell everyone, look what he's not doing? I would have done it.",
+      "cn": "这是否是对图恩的一种权力施压，基本上就是把他带到总统面前，告诉所有人，看看他没做什么？我会这么做的。"
+    },
+    {
+      "speaker": "Stepman",
+      "text": "No question. And this is sort of the independence that the Senate has sort of always had as -- as a body; sees itself as outside the president. I think you get a little less of that opposition in the House.",
+      "cn": "毫无疑问。这有点像参议院一直以来作为独立机构的独立性，它认为自己独立于总统之外。我认为在众议院，这种反对声音会少一些。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Yes. I don't -- I think you have convenient independence. Because more than not, they have aligned themselves --",
+      "cn": "是的。我不认为 --  -- 我认为这是一种方便的独立性。因为大多数情况下，他们与 --  --"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "-- with Donald Trump on almost every single issue. And that's why Senate Republicans are so unpopular, because the president is underwater on every single issue. I also think Thune understands now that the affordability crisis is right at their doorstep, and they're taking responsibility for it. And the Donald Trump agenda is very unpopular --",
+      "cn": "--  -- 唐纳德·特朗普在几乎所有问题上保持一致。这就是为什么参议院共和党人如此不受欢迎，因为总统在每个问题上都处于劣势。我还认为图恩现在明白，可负担性危机就在眼前，他们正在为此承担责任。而唐纳德·特朗普的议程非常不受欢迎 --  --"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "-- amongst the American people, including the savings (ph).",
+      "cn": "--  -- 在美国人民中，包括储蓄方面。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "They also passed a housing bill last night, bipartisan. We're not going to hear about it, because they're going to be -- So, it's like that kind of thing where it's like, wait, you have an item you could be promoting to the voter. Look, we got a bipartisan housing bill. Instead, you're like, really, I want to go after all these different voting things. How about we spend time on that?",
+      "cn": "他们昨晚还通过了一项两党住房法案。我们不会听到这个消息，因为他们会 --  -- 所以，就像那种情况：等等，你们有一个可以向选民宣传的议题。看，我们通过了一项两党住房法案。相反，你们却想，真的，我要去搞所有这些不同的投票事项。我们为什么不花时间在那上面呢？"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "The thing that's frustrating for senators in both parties is they are much less able than when I first got to Washington in the '80s to swim against the current. You know.",
+      "cn": "让两党参议员感到沮丧的是，与我在80年代刚到华盛顿时相比，他们现在逆流而上的能力大大减弱了。你知道。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. There's no reward for that.",
+      "cn": "是的。这样做没有回报。"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "If you look -- if you look, there are 25 states that voted three times for Donald Trump. Right now, there are 50 Republican senators in those 25. They have every Senate seats. Nineteen states voted three times against him. Democrats have every one of those Senate seats except for Susan Collins. It is very hard for a Senate candidate, no matter how strong or popular they are personally, to win on ground that usually votes the other way for president. So, in some ways, they are dependent variables.",
+      "cn": "如果你看看 --  -- 如果你看看，有25个州三次投票给唐纳德·特朗普。现在，这25个州有50名共和党参议员。他们占据了所有参议院席位。19个州三次投票反对他。除了苏珊·柯林斯，民主党人占据了所有这些参议院席位。对于参议员候选人来说，无论他们个人多么强大或受欢迎，要在通常投票给另一位总统的选区获胜是非常困难的。所以，从某种程度上说，他们是依赖变量。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "They are, but there's also --",
+      "cn": "他们是，但还有 --  --"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "In the future no matter how much they kind of, you know --",
+      "cn": "未来无论他们怎么，你知道 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There's also now a small --",
+      "cn": "现在还有一小股 --  --"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "-- plume (ph) and peacock.",
+      "cn": "--  -- 羽状烟流和孔雀。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- caucus of people burned by Trump in the Republican caucus.",
+      "cn": "--  -- 在共和党党团会议中被特朗普烧伤的一群人。"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "Yes. They're on their way out.",
+      "cn": "是的。他们正在离开。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And they're on their way out.",
+      "cn": "他们正在离开。"
+    },
+    {
+      "speaker": "Brownstein",
+      "text": "They're on their way out.",
+      "cn": "他们正在离开。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But on their way out, they may say, I'll cast a few votes the way I want.",
+      "cn": "但在离开的路上，他们可能会说，我会按自己的意愿投几票。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's how -- that's how courage is built. OK, you guys, thank you for this. Straight ahead on CNN THIS MORNING, NATO sending its Trump whisperer. So, can the secretary-general keep the alliance together? Plus, how much has the A.I. industry spent in just one congressional race? Why one election has -- was worth tens of millions in influence. var CNN = CNN || {};",
+      "cn": "这就是 --  -- 这就是勇气建立的方式。好了，各位，谢谢你们。接下来在CNN今晨节目中，北约派出其\"特朗普耳语者\"。那么，秘书长能否保持联盟团结？另外，人工智能行业在一场国会竞选中花费了多少？为什么一场选举价值数千万美元的影响力。var CNN = CNN || {};"
+    }
+  ]
+}
