@@ -1,0 +1,1434 @@
+{
+  "date": "2026-06-26",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-26/segment/01",
+  "summary": "ចំនួនអ្នកស្លាប់ដោយសាររញ្ជួយដីនៅវ៉េណេស៊ុយអេឡាកើនដល់២៣៥នាក់ ជំនួយអន្តរជាតិចាប់ផ្ដើមមកដល់ ប៉ុន្តែខ្វះគ្រឿងចក្រធុនធ្ងន់។ តុលាការកំពូលសហរដ្ឋអាមេរិកសម្រេចថា មន្ត្រីព្រំដែនអាចបដិសេធសំណើសុំសិទ្ធិជ្រកកោន និងអនុញ្ញាតឱ្យបញ្ចប់ការការពារបណ្ដោះអាសន្ន (TPS) សម្រាប់ប្រទេសហៃទី ស៊ីរី ជាដើម។ អនុប្រធានាធិបតី វ៉ាន់ស៍ ប្រៀបធៀបរឿង Watergate ទៅនឹងការឃុបឃិតរបស់រដ្ឋជ្រៅ។ ក្រុមបាល់ទាត់អាមេរិកឡើងវគ្គ៣២ក្រុម បើទោះបីជាចាញ់ក្នុងការប្រកួតដំបូងនៃ World Cup ក៏ដោយ។",
+  "vocabulary": [
+    {
+      "word": "sift through",
+      "phonetic": "/sɪft θruː/",
+      "pos": "phrasal verb",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "បរិស្ថានគ្រោះមហន្តរាយ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ពិនិត្យរកដោយប្រុងប្រយ័ត្ន (ក្នុងគំនរបាក់បែក)",
+      "en": "to examine something carefully, especially in order to find something",
+      "excerpt": "first responders sift through the rubble",
+      "example_cn": "អ្នកសង្គ្រោះបន្ទាន់កំពុងពិនិត្យរកដោយប្រុងប្រយ័ត្នក្នុងគំនរបាក់បែក។"
+    },
+    {
+      "word": "golden window",
+      "phonetic": "/ˈɡoʊldən ˈwɪndoʊ/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "បរិស្ថានគ្រោះមហន្តរាយ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "រយៈពេលបង្អួចមាស (រយៈពេលសំខាន់សម្រាប់ការសង្គ្រោះ)",
+      "en": "the critical period (usually 48-72 hours) during which rescue efforts are most likely to save lives",
+      "excerpt": "The first 48 to 72 hours are widely regarded as the golden window to reach people",
+      "example_cn": "រយៈពេល 48 ទៅ 72 ម៉ោងដំបូងត្រូវបានចាត់ទុកយ៉ាងទូលំទូលាយថាជារយៈពេលបង្អួចមាសសម្រាប់ការសង្គ្រោះ។"
+    },
+    {
+      "word": "tarmac",
+      "phonetic": "/ˈtɑːrmæk/",
+      "pos": "noun",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ផ្លូវរត់យន្តហោះ ផ្ទៃក្រាលកៅស៊ូ",
+      "en": "the area of an airport where planes are parked and loaded",
+      "excerpt": "the powerful tremors shook the aircraft on the tarmac",
+      "example_cn": "ការរញ្ជួយខ្លាំងបានធ្វើឱ្យយន្តហោះនៅលើផ្លូវរត់ញ័រ។"
+    },
+    {
+      "word": "pancaked",
+      "phonetic": "/ˈpænkeɪkt/",
+      "pos": "adjective",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "គ្រោះមហន្តរាយ និងបរិស្ថាន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ដួលរលំស្រទាប់ៗដូចនំផេនខេក",
+      "en": "collapsed in a flat, layered manner, like a stack of pancakes",
+      "excerpt": "all of these floors that have been pancaked on top of each other",
+      "example_cn": "កម្រាលឥដ្ឋទាំងអស់ដែលដួលរលំស្រទាប់ៗដូចនំផេនខេក។"
+    },
+    {
+      "word": "excavator",
+      "phonetic": "/ˈekskəveɪtər/",
+      "pos": "noun",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "រថយន្តជីក ម៉ាស៊ីនជីក",
+      "en": "a large machine used for digging",
+      "excerpt": "what they need in La Guaira is excavator; big machinery",
+      "example_cn": "អ្វីដែលពួកគេត្រូវការនៅឡាហ្គូអៃរ៉ា គឺរថយន្តជីក និងគ្រឿងចក្រធំៗ។"
+    },
+    {
+      "word": "asylum seeker",
+      "phonetic": "/əˈsaɪləm ˈsiːkər/",
+      "pos": "noun phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "អ្នកស្វែងរកសិទ្ធិជ្រកកោន",
+      "en": "a person who has fled their home country and is asking for protection in another country",
+      "excerpt": "immigration officials at the U.S.-Mexico border can turn away asylum seekers before they enter the country",
+      "example_cn": "មន្ត្រីអន្តោប្រវេសន៍អាចបដិសេធអ្នកស្វែងរកសិទ្ធិជ្រកកោននៅព្រំដែនអាមេរិក-ម៉ិកស៊ិក មុនពេលពួកគេចូលសហរដ្ឋអាមេរិក។"
+    },
+    {
+      "word": "dissent",
+      "phonetic": "/dɪˈsent/",
+      "pos": "noun",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "មតិជំទាស់ (របស់ចៅក្រម)",
+      "en": "a statement by a judge who disagrees with the majority decision",
+      "excerpt": "in her dissent, Justice Sonia Sotomayor wrote",
+      "example_cn": "នៅក្នុងមតិជំទាស់របស់នាង ចៅក្រមសូនីយ៉ា សូតូម៉ាយ័រ បានសរសេរថា។"
+    },
+    {
+      "word": "temporary protected status (TPS)",
+      "phonetic": "/ˈtempəreri prəˈtektɪd ˈsteɪtəs/",
+      "pos": "noun phrase",
+      "usage": "ឈ្មោះឯកទេស និងប្រវត្តិ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ឈ្មោះឯកទេស និងប្រវត្តិ · កម្រិតខ្ពស់",
+      "cn": "ស្ថានភាពការពារបណ្តោះអាសន្ន (គោលនយោបាយអន្តោប្រវេសន៍អាមេរិក)",
+      "en": "a temporary immigration status granted to nationals of certain countries experiencing conflict or disaster",
+      "excerpt": "the Trump administration to strip temporary protected status for hundreds of thousands of Haitians and Syrians",
+      "example_cn": "រដ្ឋបាលលោក Trump បានលុបចោលស្ថានភាពការពារបណ្តោះអាសន្នរបស់ជនជាតិហៃទី និងស៊ីរីរាប់រយពាន់នាក់។"
+    },
+    {
+      "word": "strip",
+      "phonetic": "/strɪp/",
+      "pos": "verb",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ដកហូត (សិទ្ធិ ឋានៈ ។ល។)",
+      "en": "to remove something that is officially given",
+      "excerpt": "the Trump administration to strip temporary protected status",
+      "example_cn": "រដ្ឋបាលលោក Trump បានដកហូតស្ថានភាពការពារបណ្តោះអាសន្ន។"
+    },
+    {
+      "word": "statute",
+      "phonetic": "/ˈstætʃuːt/",
+      "pos": "noun",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ច្បាប់ បទបញ្ញត្តិ",
+      "en": "a written law passed by a legislative body",
+      "excerpt": "The whole statute exists. Temporarily to give people protection",
+      "example_cn": "ច្បាប់ទាំងមូលមានដើម្បីផ្តល់ការការពារបណ្តោះអាសន្នដល់ប្រជាជន។"
+    },
+    {
+      "word": "have the guts to",
+      "phonetic": "/hæv ðə ɡʌts tuː/",
+      "pos": "phrase",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · កម្រិតមធ្យម",
+      "cn": "មានភាពក្លាហានធ្វើអ្វីមួយ",
+      "en": "to have the courage to do something",
+      "excerpt": "no administration has had the guts to actually follow that statute",
+      "example_cn": "គ្មានរដ្ឋាភិបាលណាមួយមានភាពក្លាហានគ្រប់គ្រាន់ក្នុងការគោរពច្បាប់នោះពិតប្រាកដនោះទេ។"
+    },
+    {
+      "word": "quasi legal status",
+      "phonetic": "/ˈkweɪzaɪ ˈliːɡəl ˈsteɪtəs/",
+      "pos": "noun phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ឋានៈស្របច្បាប់ពាក់កណ្តាល",
+      "en": "a status that is partly but not fully legal",
+      "excerpt": "this law from the 1990s gives people a kind of quasi legal status",
+      "example_cn": "ច្បាប់ទសវត្សរ៍ឆ្នាំ 1990 នេះបានផ្តល់ឱ្យប្រជាជននូវឋានៈស្របច្បាប់ពាក់កណ្តាល។"
+    },
+    {
+      "word": "with the stroke of a pen",
+      "phonetic": "/wɪð ðə stroʊk əv ə pen/",
+      "pos": "phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "គ្រវីប៊ិចមួយដង (ដោយងាយ)",
+      "en": "by simply signing a document; easily and quickly",
+      "excerpt": "It was just simply, with the stroke of a pen, we're go",
+      "example_cn": "គ្រាន់តែគ្រវីប៊ិចមួយដង យើងក៏..."
+    },
+    {
+      "word": "death sentence",
+      "phonetic": "/deθ ˈsentəns/",
+      "pos": "noun phrase",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ទោសប្រហារជីវិត; សាលក្រមស្លាប់",
+      "en": "a punishment of being killed; something that causes certain death",
+      "excerpt": "they have to go back there anyway, even to their death sentence",
+      "example_cn": "ពួកគេត្រូវតែត្រឡប់ទៅវិញ ទោះបីជាត្រូវស្លាប់ក៏ដោយ។"
+    },
+    {
+      "word": "deep-state conspiracy",
+      "phonetic": "/diːp steɪt kənˈspɪrəsi/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ទ្រឹស្ដីសមគំនិតរដ្ឋាភិបាលលាក់កំបាំង",
+      "en": "a theory that a hidden network of government officials manipulates policy",
+      "excerpt": "Vice President J.D. Vance compares himself to Richard Nixon and says Watergate was a deep-state conspiracy",
+      "example_cn": "អនុប្រធានាធិបតី J.D. Vance បានប្រៀបធៀបខ្លួនឯងទៅនឹង Richard Nixon ហើយបាននិយាយថា រឿង Watergate គឺជាសមគំនិតរបស់រដ្ឋាភិបាលលាក់កំបាំង។"
+    },
+    {
+      "word": "stunned",
+      "phonetic": "/stʌnd/",
+      "pos": "adjective",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "វប្បធម៌កីឡា",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · មូលដ្ឋាន",
+      "cn": "ភ្ញាក់ផ្អើល, ត្រូវបានផ្ដួល",
+      "en": "very surprised or shocked; defeated unexpectedly",
+      "excerpt": "Team USA, stunned by Turkey in the World Cup",
+      "example_cn": "ក្រុមអាមេរិកត្រូវបានក្រុមតួកគីផ្ដួលក្នុង World Cup ដែលធ្វើឲ្យភ្ញាក់ផ្អើល។"
+    },
+    {
+      "word": "shake off",
+      "phonetic": "/ʃeɪk ɔːf/",
+      "pos": "phrasal verb",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "បំបាត់, កម្ចាត់ (អារម្មណ៍អវិជ្ជមានជាដើម)",
+      "en": "to get rid of something unpleasant",
+      "excerpt": "Can they shake off the bad vibes and bounce back?",
+      "example_cn": "តើពួកគេអាចរួចផុតពីអារម្មណ៍អវិជ្ជមាន និងងើបឡើងវិញបានទេ?"
+    },
+    {
+      "word": "bounce back",
+      "phonetic": "/baʊns bæk/",
+      "pos": "phrasal verb",
+      "usage": "ការប្រើប្រាស់ប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការប្រើប្រាស់ប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ងើបឡើងវិញ, ស្ទុះងើប",
+      "en": "to recover quickly from a setback",
+      "excerpt": "Can they shake off the bad vibes and bounce back?",
+      "example_cn": "តើពួកគេអាចរួចផុតពីអារម្មណ៍អវិជ្ជមាន និងងើបឡើងវិញបានទេ?"
+    },
+    {
+      "word": "death toll",
+      "phonetic": "/deθ toʊl/",
+      "pos": "noun phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "គ្រោះមហន្តរាយ និងបរិស្ថាន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ចំនួនអ្នកស្លាប់",
+      "en": "the number of people killed in a disaster, war, etc.",
+      "excerpt": "The earthquake death toll continues to rise",
+      "example_cn": "ចំនួនអ្នកស្លាប់ដោយសាររញ្ជួយដីកំពុងកើនឡើងជាបន្តបន្ទាប់។"
+    },
+    {
+      "word": "first responders",
+      "phonetic": "/fɜːrst rɪˈspɑːndərz/",
+      "pos": "noun phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "គ្រោះមហន្តរាយ និងបរិស្ថាន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "អ្នកឆ្លើយតបដំបូង, អ្នកសង្គ្រោះបន្ទាន់",
+      "en": "emergency workers who arrive first at the scene of an accident or disaster",
+      "excerpt": "first responders sift through the rubble",
+      "example_cn": "អ្នកសង្គ្រោះបន្ទាន់កំពុងស្វែងរកនៅក្នុងគំនរបាក់បែក។"
+    },
+    {
+      "word": "relief zone",
+      "phonetic": "/rɪˈliːf zoʊn/",
+      "pos": "noun phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "គ្រោះមហន្តរាយ និងបរិស្ថាន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "តំបន់សង្គ្រោះ, តំបន់គ្រោះមហន្តរាយ",
+      "en": "the area where relief operations are concentrated",
+      "excerpt": "arrive as quickly and as close as possible to the relief zone",
+      "example_cn": "ទៅដល់តំបន់សង្គ្រោះឱ្យបានលឿន និងជិតតាមដែលអាចធ្វើទៅបាន។"
+    },
+    {
+      "word": "ousting",
+      "phonetic": "/ˈaʊstɪŋ/",
+      "pos": "noun",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ដកចេញពីតំណែង បណ្តេញចេញ (ជាពិសេសតាមរយៈរដ្ឋប្រហារ)",
+      "en": "the act of removing someone from a position of power",
+      "excerpt": "less than six months after the ousting of Maduro",
+      "example_cn": "តិចជាងប្រាំមួយខែបន្ទាប់ពីលោក Maduro ត្រូវបានដកចេញពីតំណែង។"
+    },
+    {
+      "word": "Hercules C-130",
+      "phonetic": "/ˈhɜːrkjəliːz siː wʌn θɜːrti/",
+      "pos": "noun phrase",
+      "usage": "ព័ត៌មានផ្ទៃខាងក្រោយនៃឈ្មោះពិសេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ព័ត៌មានផ្ទៃខាងក្រោយនៃឈ្មោះពិសេស · កម្រិតខ្ពស់",
+      "cn": "យន្តហោះដឹកជញ្ជូន C-130 Hercules",
+      "en": "a military transport aircraft manufactured by Lockheed Martin",
+      "excerpt": "The Colombians were also able to fly into Caracas with two Hercules C-130",
+      "example_cn": "ប្រជាជនកូឡុំប៊ីក៏អាចហោះហើរចូលទៅការ៉ាកាសដោយប្រើយន្តហោះដឹកជញ្ជូន C-130 Hercules ចំនួនពីរគ្រឿង។"
+    },
+    {
+      "word": "Marine Corps",
+      "phonetic": "/məˈriːn kɔːr/",
+      "pos": "noun phrase",
+      "usage": "ព័ត៌មានផ្ទៃខាងក្រោយនៃឈ្មោះពិសេស",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ព័ត៌មានផ្ទៃខាងក្រោយនៃឈ្មោះពិសេស · កម្រិតមធ្យម",
+      "cn": "កងម៉ារីនសហរដ្ឋអាមេរិក",
+      "en": "a branch of the U.S. Armed Forces responsible for amphibious operations",
+      "excerpt": "A major general from the Marine Corps arrived in Caracas",
+      "example_cn": "ឧត្តមសេនីយ៍ឯកម្នាក់មកពីកងម៉ារីនបានមកដល់ការ៉ាកាស។"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The earthquake death toll continues to rise.",
+      "cn": "ចំនួនអ្នកស្លាប់ដោយសាររញ្ជួយដីនៅតែបន្តកើនឡើង។",
+      "structure": "រចនាសម្ព័ន្ធប្រធាន-ទស្សន៍ទាយសាមញ្ញ៖ ប្រធាន (The earthquake death toll) + ទស្សន៍ទាយ (continues to rise)។",
+      "analysis": "កន្សោមប្រើញឹកញាប់ក្នុងព័ត៌មាន 'death toll' មានន័យថាចំនួនអ្នកស្លាប់ 'continues to rise' បង្ហាញពីការបន្តកើនឡើង ឆ្លុះបញ្ចាំងពីការវិវត្តនៃស្ថានភាព។"
+    },
+    {
+      "en": "The first 48 to 72 hours are widely regarded as the golden window to reach people who may still be buried alive.",
+      "cn": "រយៈពេល 48 ទៅ 72 ម៉ោងដំបូងត្រូវបានគេចាត់ទុកយ៉ាងទូលំទូលាយថាជាបង្អួចមាសសម្រាប់ទាក់ទងអ្នកដែលអាចនៅតែត្រូវបានកប់ទាំងរស់។",
+      "structure": "ប្រយោគចម្បង (The first 48 to 72 hours are widely regarded as the golden window) + ឃ្លា infinitive (to reach people) + ឃ្លាកំណត់ (who may still be buried alive)។",
+      "analysis": "'golden window' ជាពាក្យបច្ចេកទេសសង្គ្រោះ សំដៅលើពេលវេលាល្អបំផុតសម្រាប់ការសង្គ្រោះ 'buried alive' មានន័យថាត្រូវបានកប់ទាំងរស់ សំឡេងអកម្ម 'are widely regarded as' បង្ហាញពីទស្សនៈទូទៅ។"
+    },
+    {
+      "en": "This is new video showing passengers panicking aboard a plane at the international airport North of Caracas as the powerful tremors shook the aircraft on the tarmac.",
+      "cn": "នេះជាវីដេអូថ្មីដែលបង្ហាញអ្នកដំណើរនៅលើយន្តហោះភ័យស្លន់ស្លោនៅព្រលានយន្តហោះអន្តរជាតិភាគខាងជើងនៃទីក្រុងការ៉ាកាស ខណៈដែលការរញ្ជួយដីដ៏ខ្លាំងបានអង្រួនយន្តហោះនៅលើផ្លូវរត់។",
+      "structure": "ប្រយោគចម្បង (This is new video) + ឃ្លា present participle (showing passengers panicking) + ឃ្លាទីកន្លែង (at the international airport North of Caracas) + ឃ្លាពេលវេលា (as the powerful tremors shook the aircraft on the tarmac)។",
+      "analysis": "'showing' នាំមុខសកម្មភាពរួម 'as' នាំមុខឃ្លាពេលវេលា បង្ហាញពីការកើតឡើងក្នុងពេលតែមួយ 'panicking' ពិពណ៌នាស្ថានភាពអ្នកដំណើរ 'tarmac' សំដៅលើផ្លូវរត់។"
+    },
+    {
+      "en": "I think that that is a smart point, a smart angle to explore today, is that today is the day we are finally seeing the aid coming in.",
+      "cn": "ខ្ញុំគិតថានេះជាទស្សនៈឆ្លាតវៃ ជាមុំឆ្លាតវៃដែលគួរពិភាក្សានៅថ្ងៃនេះ គឺថាថ្ងៃនេះជាថ្ងៃដែលទីបំផុតយើងឃើញជំនួយមកដល់។",
+      "structure": "ប្រយោគចម្បង (I think) + ឃ្លាបន្ទាប់បន្សំ (that that is a smart point, a smart angle to explore today) + ឃ្លាបន្ទាប់បន្សំ (is that today is the day) + ឃ្លាកំណត់ (we are finally seeing the aid coming in)។",
+      "analysis": "ការប្រើ 'that' ច្រើន៖ 'that' ទីមួយនាំមុខឃ្លាបន្ទាប់បន្សំ 'that' ទីពីរជាប្រធាន 'the day' បន្ទាប់ពីវាបានលុបចោល relative adverb 'when' 'seeing the aid coming in' ជារចនាសម្ព័ន្ធកិរិយាស័ព្ទអារម្មណ៍។"
+    },
+    {
+      "en": "The Colombians were also able to fly into Caracas with two Hercules C-130, which, of course, took time, because the runway itself at the international airport, which serves the city of Caracas, was badly damaged.",
+      "cn": "ជនជាតិកូឡុំប៊ីក៏អាចហោះហើរចូលទីក្រុងការ៉ាកាសជាមួយយន្តហោះដឹកជញ្ជូន Hercules C-130 ចំនួនពីរគ្រឿង ដែលពិតណាស់ត្រូវការពេលវេលា ពីព្រោះផ្លូវរត់នៅអាកាសយានដ្ឋានអន្តរជាតិដែលបម្រើទីក្រុងការ៉ាកាសត្រូវបានខូចខាតយ៉ាងធ្ងន់ធ្ងរ។",
+      "structure": "ប្រយោគចម្បង (The Colombians were also able to fly into Caracas with two Hercules C-130) + ប្រយោគបន្ទាប់បន្សំមិនកំណត់ (which, of course, took time) + ប្រយោគបន្ទាប់បន្សំបញ្ជាក់មូលហេតុ (because the runway itself at the international airport, which serves the city of Caracas, was badly damaged) ដែលរួមមានប្រយោគបន្ទាប់បន្សំមិនកំណត់មួយទៀត (which serves the city of Caracas)។",
+      "analysis": "ប្រយោគបន្ទាប់បន្សំដាក់ជាប់គ្នា៖ 'which' ទីមួយសំដៅលើប្រយោគចម្បងទាំងមូល 'which' ទីពីរពណ៌នា 'the international airport'; 'of course' ជាពាក្យបញ្ចូល; 'Hercules C-130' ជាប្រភេទយន្តហោះដឹកជញ្ជូនយោធា។"
+    },
+    {
+      "en": "You can see from that video that you just played that the quake hit with the plane on the tarmac and created open cracks, really, on the tarmac of the runway.",
+      "cn": "អ្នកអាចមើលឃើញពីវីដេអូដែលអ្នកទើបតែចាក់ថា ការរញ្ជួយដីបានកើតឡើងពេលយន្តហោះនៅលើផ្លូវរត់ ហើយបានបង្កើតស្នាមប្រេះធំៗនៅលើផ្លូវរត់។",
+      "structure": "ប្រយោគចម្បង (You can see from that video) + ប្រយោគបន្ទាប់បន្សំ (that you just played) + ប្រយោគបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុ (that the quake hit with the plane on the tarmac and created open cracks, really, on the tarmac of the runway)។",
+      "analysis": "រចនាសម្ព័ន្ធ 'see from...that'; 'with the plane on the tarmac' ជារចនាសម្ព័ន្ធឯករាជ្យបង្ហាញពីស្ថានភាពអម; 'really' ជាពាក្យបញ្ចូលសង្កត់ធ្ងន់; 'open cracks' មានន័យថាស្នាមប្រេះធំៗ។"
+    },
+    {
+      "en": "So, these military planes that carry the aid had to make some adjustments in order to arrive as quickly and as close as possible to the relief zone, which is the state of La Guaira, where the airport is located, which is this coastal state close to Caracas, but on the coast on the Caribbean coast, where the majority of the damage is -- and being confined.",
+      "cn": "ដូច្នេះ យន្តហោះយោធាដែលដឹកជំនួយទាំងនេះត្រូវធ្វើការកែសម្រួលខ្លះ ដើម្បីទៅដល់តំបន់សង្គ្រោះឱ្យបានលឿន និងជិតតាមដែលអាចធ្វើទៅបាន ពោលគឺរដ្ឋឡាហ្គួរ៉ា ដែលជាកន្លែងដែលអាកាសយានដ្ឋានស្ថិតនៅ ជារដ្ឋមាត់សមុទ្រជិតទីក្រុងការ៉ាកាស ប៉ុន្តែនៅលើឆ្នេរការ៉ាប៊ីន ដែលជាកន្លែងដែលការខូចខាតភាគច្រើនប្រមូលផ្តុំ។",
+      "structure": "ប្រយោគចម្បង (these military planes had to make some adjustments) + ប្រយោគបន្ទាប់បន្សំ (that carry the aid) + ប្រយោគបញ្ជាក់គោលបំណង (in order to arrive as quickly and as close as possible to the relief zone) + ប្រយោគបន្ទាប់បន្សំមិនកំណត់ (which is the state of La Guaira) + ប្រយោគបន្ទាប់បន្សំមិនកំណត់ (where the airport is located) + ប្រយោគភ្ជាប់ (which is this coastal state close to Caracas, but on the coast on the Caribbean coast) + ប្រយោគបន្ទាប់បន្សំ (where the majority of the damage is -- and being confined)។",
+      "analysis": "ប្រយោគបន្ទាប់បន្សំច្រើនពណ៌នាស្រទាប់ៗ; 'as quickly and as close as possible' ជារចនាសម្ព័ន្ធប្រៀបធៀបស្របគ្នា; 'relief zone' មានន័យថាតំបន់សង្គ្រោះ; 'confined' មានន័យថាប្រមូលផ្តុំ ឬកំណត់។"
+    },
+    {
+      "en": "By the way, it's still surreal to me that we are seeing a major marine general in the grounds of Caracas less than six months after the ousting of Maduro.",
+      "cn": "និយាយអញ្ចឹង ការដែលយើងឃើញឧត្តមសេនីយ៍ទោទ័ពជើងទឹកនៅក្នុងទីក្រុងការ៉ាកាស តិចជាងប្រាំមួយខែបន្ទាប់ពីការទម្លាក់ម៉ាឌូរ៉ូ នៅតែជារឿងដែលមិននឹកស្មានដល់សម្រាប់ខ្ញុំ។",
+      "structure": "ប្រយោគចម្បង (it's still surreal to me) + ប្រយោគបន្ទាប់បន្សំធ្វើជាប្រធាន (that we are seeing a major marine general in the grounds of Caracas less than six months after the ousting of Maduro)។",
+      "analysis": "'it' ជាប្រធានបំភាន់ ប្រធានពិតគឺប្រយោគ 'that'; 'surreal' មានន័យថាមិនពិត ឬដូចសុបិន; 'ousting' មានន័យថាការទម្លាក់ពីតំណែង; 'major marine general' គឺឧត្តមសេនីយ៍ទោទ័ពជើងទឹក។"
+    },
+    {
+      "en": "I think heavy machinery is the trickiest thing, because one thing is to bring in containers with medicines, with plasters, with emergency kit, with generators.",
+      "cn": "ខ្ញុំគិតថាគ្រឿងចក្រធំៗជារឿងពិបាកបំផុត ពីព្រោះការនាំចូលកុងតឺន័រដែលមានថ្នាំពេទ្យ ម្នាងសិលា ឧបករណ៍សង្គ្រោះបន្ទាន់ និងម៉ាស៊ីនភ្លើង គឺជារឿងមួយ។",
+      "structure": "ប្រយោគចម្បង (I think heavy machinery is the trickiest thing) + ប្រយោគបន្ទាប់បន្សំបញ្ជាក់មូលហេតុ (because one thing is to bring in containers with medicines, with plasters, with emergency kit, with generators)។",
+      "analysis": "'trickiest' មានន័យថាពិបាកបំផុត; រចនាសម្ព័ន្ធ 'one thing is to...' បង្កប់ន័យប្រៀបធៀប ដោយរំពឹងថាមាន 'another thing is...'; ពាក្យ 'with' ច្រើនរាយបញ្ជីវត្ថុ។"
+    },
+    {
+      "en": "But what do they need in La Guaira is excavator; big machinery in order to lift in a safely way, the -- all of these floors that have been pancaked on top of each other because of the -- of the power of the tremors.",
+      "cn": "ប៉ុន្តែអ្វីដែលពួកគេត្រូវការនៅឡាហ្គួរ៉ាគឺគ្រឿងជីក គ្រឿងចក្រធំៗ ដើម្បីលើកកម្រាលឥដ្ឋទាំងអស់ដែលបានបាក់ស្រទាប់លើគ្នាដោយសារកម្លាំងនៃការរញ្ជួយដី ដោយសុវត្ថិភាព។",
+      "structure": "ប្រយោគបន្ទាប់បន្សំធ្វើជាប្រធាន (what do they need in La Guaira) + ប្រយោគភ្ជាប់ប្រធាននិងកម្មវត្ថុ (is excavator) + ប្រយោគភ្ជាប់ (big machinery) + ប្រយោគបញ្ជាក់គោលបំណង (in order to lift in a safely way) + កម្មវត្ថុ (the -- all of these floors) + ប្រយោគបន្ទាប់បន្សំ (that have been pancaked on top of each other) + ប្រយោគបញ្ជាក់មូលហេតុ (because of the -- of the power of the tremors)។",
+      "analysis": "'what' នាំប្រយោគបន្ទាប់បន្សំធ្វើជាប្រធាន; 'pancaked' ជាពាក្យព័ត៌មានពណ៌នាអគារបាក់ស្រទាប់ៗដូចនំផេនខេក; 'in a safely way' គួរតែជា 'in a safe way' អាចជាការនិយាយខុស; សញ្ញាដកបង្ហាញការស្ទាក់ស្ទើរ ឬកែប្រែ។"
+    },
+    {
+      "en": "Our team is at the city, and they have been filming it.",
+      "cn": "ក្រុមរបស់យើងនៅក្នុងទីក្រុង ហើយពួកគេបានថតវាជាបន្តបន្ទាប់។",
+      "structure": "ប្រយោគផ្សំ៖ ប្រធាន (Our team) + កិរិយាសព្ទភ្ជាប់ (is at the city) + ពាក្យភ្ជាប់ (and) + ប្រធាន (they) + កាលបច្ចុប្បន្នកាលឥតឈប់ឈរ (have been filming it)។",
+      "analysis": "ប្រយោគផ្សំសាមញ្ញ ប៉ុន្តែ 'have been filming' សង្កត់ធ្ងន់លើសកម្មភាពដែលកំពុងបន្ត។"
+    },
+    {
+      "en": "But in La Guaira yesterday, when they were down in the area most affected, they were really talking about the lack of equipment, the lack of gear.",
+      "cn": "ប៉ុន្តែកាលពីម្សិលមិញនៅឡាហ្គួរ៉ា ពេលពួកគេទៅដល់តំបន់ដែលរងផលប៉ះពាល់ខ្លាំងជាងគេ ពួកគេពិតជាបាននិយាយអំពីការខ្វះខាតឧបករណ៍ និងបរិក្ខារ។",
+      "structure": "ប្រយោគបញ្ជាក់ពេលវេលា (yesterday) + ប្រយោគបញ្ជាក់ទីកន្លែង (in La Guaira) + ប្រយោគបន្ទាប់បន្សំបញ្ជាក់ពេលវេលា (when they were down in the area most affected) + ប្រយោគចម្បង (they were really talking about the lack of equipment, the lack of gear)។",
+      "analysis": "'down in' មានន័យថាចូលទៅក្នុងតំបន់; 'most affected' ជាឃ្លាកិរិយាសព្ទអតីតកាលធ្វើជាគុណនាមពណ៌នា 'area'; 'lack of equipment, the lack of gear' ស្របគ្នាសង្កត់ធ្ងន់លើការខ្វះខាត។"
+    },
+    {
+      "en": "Now, while the people in Venezuela are desperate for help, we here in the U.S. have seen two rulings from the Supreme Court indicating that the U.S. is not quite the place of refuge it might have been.",
+      "cn": "ឥឡូវនេះ នៅពេលដែលប្រជាជនវេណេស៊ុយអេឡាកំពុងត្រូវការជំនួយជាបន្ទាន់ យើងនៅទីនេះក្នុងសហរដ្ឋអាមេរិកបានឃើញសេចក្តីសម្រេចពីរពីតុលាការកំពូល ដែលបង្ហាញថាសហរដ្ឋអាមេរិកលែងជាកន្លែងជ្រកកោនដូចដែលវាធ្លាប់ជា។",
+      "structure": "ល្បះរងនៃពេលវេលា (while the people in Venezuela are desperate for help) + ល្បះដើម (we here in the U.S. have seen two rulings from the Supreme Court) + ល្បះរងនៃកិរិយាបច្ចុប្បន្ន (indicating that the U.S. is not quite the place of refuge it might have been) ដែលរួមមានល្បះរងនៃកម្មវត្ថុ (that the U.S. is not quite the place of refuge) + ល្បះរងនៃគុណនាម (it might have been)។",
+      "analysis": "'while' បង្ហាញពីការប្រៀបធៀប; 'desperate for' មានន័យថាត្រូវការខ្លាំង; 'indicating' នាំមកនូវលទ្ធផលរួម; 'not quite the place of refuge it might have been' ប្រើសំនួនសន្មត បង្ហាញពីភាពផ្ទុយពីអតីតកាល។"
+    },
+    {
+      "en": "The Supreme Court ruled immigration officials at the U.S.-Mexico border can turn away asylum seekers before they enter the country.",
+      "cn": "តុលាការកំពូលបានសម្រេចថា មន្ត្រីអន្តោប្រវេសន៍នៅព្រំដែនសហរដ្ឋអាមេរិក-ម៉ិកស៊ិកអាចបដិសេធអ្នកស្វែងរកសិទ្ធិជ្រកកោន មុនពេលពួកគេចូលប្រទេស។",
+      "structure": "ល្បះដើម (The Supreme Court ruled) + ល្បះរងនៃកម្មវត្ថុ (immigration officials at the U.S.-Mexico border can turn away asylum seekers before they enter the country) ដែលរួមមានល្បះរងនៃពេលវេលា (before they enter the country)។",
+      "analysis": "'ruled' បន្ទាប់ពីវាលុបចោល 'that'; 'turn away' មានន័យថាបដិសេធ ឬបណ្តេញចេញ; 'asylum seekers' សំដៅលើអ្នកស្វែងរកសិទ្ធិជ្រកកោន។"
+    },
+    {
+      "en": "Now, in her dissent, Justice Sonia Sotomayor wrote, \"The consequences of today's decision are predictable. More people will die.\"",
+      "cn": "នៅក្នុងសេចក្តីជំទាស់របស់នាង ចៅក្រម Sonia Sotomayor បានសរសេរថា៖ \"ផលវិបាកនៃការសម្រេចថ្ងៃនេះអាចទាយទុកជាមុនបាន។ មនុស្សកាន់តែច្រើននឹងស្លាប់។\"",
+      "structure": "ល្បះរងនៃស្ថានភាព (in her dissent) + ល្បះដើម (Justice Sonia Sotomayor wrote) + សម្រង់ផ្ទាល់ (\"The consequences of today's decision are predictable. More people will die.\")។",
+      "analysis": "'dissent' សំដៅលើសេចក្តីជំទាស់នៅតុលាការកំពូល; សម្រង់ផ្ទាល់បង្កើនភាពជឿជាក់ និងឥទ្ធិពលអារម្មណ៍។"
+    },
+    {
+      "en": "The justices also allowed the Trump administration to strip temporary protected status for hundreds of thousands of Haitians and Syrians living in the U.S.",
+      "cn": "ចៅក្រមក៏បានអនុញ្ញាតឱ្យរដ្ឋបាល Trump ដកហូតស្ថានភាពការពារបណ្តោះអាសន្នពីជនជាតិហៃទី និងស៊ីរីរាប់រយពាន់នាក់ដែលរស់នៅក្នុងសហរដ្ឋអាមេរិក។",
+      "structure": "ល្បះដើម (The justices also allowed the Trump administration to strip temporary protected status) + ល្បះរងនៃបុព្វបទ (for hundreds of thousands of Haitians and Syrians) + ល្បះរងនៃកិរិយាបច្ចុប្បន្ន (living in the U.S.)។",
+      "analysis": "រចនាសម្ព័ន្ធ 'allow...to strip'; 'strip' មានន័យថាដកហូត; 'temporary protected status' ជាពាក្យច្បាប់ អក្សរកាត់ TPS; 'hundreds of thousands of' មានន័យថារាប់រយពាន់។"
+    },
+    {
+      "en": "The whole statute exists temporarily to give people protection while the country's in turmoil or after they suffer a hurricane.",
+      "cn": "ច្បាប់ទាំងមូលមានជាបណ្តោះអាសន្ន ដើម្បីផ្តល់ការការពារដល់ប្រជាជន នៅពេលដែលប្រទេសកំពុងស្ថិតក្នុងភាពចលាចល ឬបន្ទាប់ពីពួកគេរងគ្រោះពីព្យុះសង្ឃរា។",
+      "structure": "ល្បះដើម (The whole statute exists temporarily) + ល្បះរងនៃគោលបំណង (to give people protection) + ល្បះរងនៃពេលវេលា (while the country's in turmoil or after they suffer a hurricane)។",
+      "analysis": "'statute' សំដៅលើច្បាប់; 'in turmoil' មានន័យថាស្ថិតក្នុងភាពចលាចល; 'while' និង 'after' នាំមកនូវល្បះរងនៃពេលវេលា បង្ហាញពីស្ថានភាពផ្សេងៗ។"
+    },
+    {
+      "en": "But the problem is, no administration has had the guts to actually follow that statute.",
+      "cn": "ប៉ុន្តែបញ្ហាគឺថា គ្មានរដ្ឋាភិបាលណាមួយមានភាពក្លាហានគ្រប់គ្រាន់ក្នុងការអនុវត្តច្បាប់នោះពិតប្រាកដនោះទេ។",
+      "structure": "ល្បះដើម (But the problem is) + ល្បះរងនៃកម្មវត្ថុ (no administration has had the guts to actually follow that statute)។",
+      "analysis": "'have the guts to do' ជាកន្សោមពាក្យសាមញ្ញ មានន័យថាមានភាពក្លាហានធ្វើអ្វីមួយ; 'follow that statute' សំដៅលើការអនុវត្តច្បាប់។"
+    },
+    {
+      "en": "This same government that tells me that it is too dangerous to set foot in Haiti, just told 350,000 Haitians that they have to go back there anyway, even to their death sentence.",
+      "cn": "រដ្ឋាភិបាលដដែលដែលប្រាប់ខ្ញុំថាវាគ្រោះថ្នាក់ពេកក្នុងការដើរចូលហៃទី ទើបតែប្រាប់ជនជាតិហៃទី 350,000 នាក់ថាពួកគេត្រូវតែត្រឡប់ទៅទីនោះវិញ ទោះបីជាត្រូវប្រឈមមុខនឹងការកាត់ទោសប្រហារជីវិតក៏ដោយ។",
+      "structure": "ប្រធាន (This same government) + ល្បះរងនៃគុណនាម (that tells me that it is too dangerous to set foot in Haiti) + កិរិយា (just told) + កម្មវត្ថុដោយប្រយោល (350,000 Haitians) + ល្បះរងនៃកម្មវត្ថុ (that they have to go back there anyway, even to their death sentence)។",
+      "analysis": "ល្បះរងនៃគុណនាមពន្យល់ 'government' ដែលរួមមានរចនាសម្ព័ន្ធ 'tell sb that'; 'set foot in' មានន័យថាចូល; 'death sentence' ប្រៀបធៀបនឹងការគំរាមកំហែងស្លាប់ សង្កត់ធ្ងន់លើគ្រោះថ្នាក់។"
+    },
+    {
+      "en": "You cannot have it both ways.",
+      "cn": "អ្នកមិនអាចមានទាំងសងខាងបានទេ។",
+      "structure": "ល្បះសាមញ្ញ៖ ប្រធាន (You) + កិរិយា (cannot have) + កម្មវត្ថុ (it) + ល្បះរងនៃស្ថានភាព (both ways)។",
+      "analysis": "ពាក្យសាមញ្ញ មានន័យថាមិនអាចគ្រប់គ្រងស្ថានភាពផ្ទុយគ្នាពីរក្នុងពេលតែមួយបានទេ ត្រូវបានប្រើជាញឹកញាប់ដើម្បីរិះគន់ជំហរផ្ទុយគ្នា។"
+    }
+  ],
+  "topics": [
+    {
+      "title": "រញ្ជួយដីនៅវ៉េណេស៊ុយអេឡា និងជំនួយអន្តរជាតិ",
+      "content": "នៅថ្ងៃទី២៥ ខែមិថុនា ឆ្នាំ២០២៦ មានការរញ្ជួយដីដ៏ខ្លាំងកើតឡើងនៅតំបន់ឆ្នេរភាគខាងជើងនៃប្រទេសវ៉េណេស៊ុយអេឡា ដែលបណ្តាលឱ្យរដ្ឋធានីការ៉ាកាស និងរដ្ឋឡាហ្គួយរ៉ា រងការខូចខាតយ៉ាងធ្ងន់ធ្ងរ។ ចំនួនអ្នកស្លាប់បានកើនឡើងដល់ ២៣៥នាក់ ហើយអ្នករបួសមានជាង ៤៣០០នាក់។ ជំនួយអន្តរជាតិបានចាប់ផ្តើមមកដល់ ប៉ុន្តែនៅខ្វះឧបករណ៍ជីកកកាយធ្ងន់ៗ។ ប្រទេសដូមីនីកែន កូឡុំប៊ី និងសហរដ្ឋអាមេរិកបានបញ្ជូនក្រុមអ្នកជួយសង្គ្រោះ។ ៧២ម៉ោងក្រោយរញ្ជួយដីត្រូវបានចាត់ទុកជា \"ពេលវេលាមាស\" សម្រាប់ការជួយសង្គ្រោះ។",
+      "keywords": "earthquake · death toll · golden window · excavator · relief zone"
+    },
+    {
+      "title": "សេចក្តីសម្រេចរបស់តុលាការកំពូលសហរដ្ឋអាមេរិកស្តីពីអន្តោប្រវេសន៍",
+      "content": "នៅថ្ងៃទី២៦ ខែមិថុនា ឆ្នាំ២០២៦ តុលាការកំពូលសហរដ្ឋអាមេរិកបានធ្វើសេចក្តីសម្រេចសំខាន់ពីរស្តីពីអន្តោប្រវេសន៍៖ ទីមួយ អនុញ្ញាតឱ្យមន្ត្រីព្រំដែនបដិសេធអ្នកស្នើសុំសិទ្ធិជ្រកកោនមុនពេលពួកគេចូលសហរដ្ឋអាមេរិក។ ទីពីរ គាំទ្ររដ្ឋបាលលោក Trump ក្នុងការបញ្ចប់ឋានៈការពារបណ្តោះអាសន្ន (TPS) សម្រាប់ជនអន្តោប្រវេសន៍មកពីប្រទេសហៃទី ស៊ីរី ជាដើម។ TPS គឺជាឋានៈអន្តោប្រវេសន៍បណ្តោះអាសន្ន ដែលផ្តល់ឱ្យជនបរទេសដែលមិនអាចត្រឡប់ទៅប្រទេសខ្លួនវិញដោយសារសង្គ្រាម ឬគ្រោះមហន្តរាយ។",
+      "keywords": "asylum seeker · temporary protected status · dissent · strip · statute"
+    },
+    {
+      "title": "សុន្ទរកថារបស់អនុប្រធានាធិបតី Vance អំពីរឿង Watergate",
+      "content": "អនុប្រធានាធិបតីសហរដ្ឋអាមេរិក J.D. Vance ក្នុងសុន្ទរកថាថ្មីៗនេះបានប្រៀបធៀបខ្លួនឯងទៅនឹងអតីតប្រធានាធិបតី Richard Nixon ហើយបានអះអាងថារឿង Watergate គឺជាការឃុបឃិតរបស់ \"រដ្ឋជ្រៅ\"។ Watergate គឺជារឿងអាស្រូវនយោបាយនៅឆ្នាំ១៩៧២ ដែលនាំឱ្យ Nixon លាលែងពីតំណែង។ សុន្ទរកថារបស់ Vance បង្កឱ្យមានភាពចម្រូងចម្រាស ហើយត្រូវបានគេរិះគន់ថាព្យាយាមបន្ថយសារៈសំខាន់នៃព្រឹត្តិការណ៍ប្រវត្តិសាស្ត្រ។",
+      "keywords": "deep-state conspiracy · Watergate · Richard Nixon · Vice President"
+    },
+    {
+      "title": "ក្រុមជម្រើសជាតិសហរដ្ឋអាមេរិកចាញ់ក្នុងការប្រកួតដំបូងនៃ World Cup",
+      "content": "ក្នុងការប្រកួតជើងឯកពិភពលោកឆ្នាំ២០២៦ ក្រុមជម្រើសជាតិសហរដ្ឋអាមេរិកបានចាញ់ដោយមិននឹកស្មានដល់ចំពោះក្រុមតួកគី ប៉ុន្តែនៅតែអាចឡើងទៅវគ្គ ៣២ក្រុមដោយសារលទ្ធផលពីមុន។ ក្រុមត្រូវរំដោះខ្លួនពីស្រមោលនៃការចាញ់ ហើយត្រឡប់មកវិញក្នុងវគ្គចាញ់ចេញ។ World Cup គឺជាព្រឹត្តិការណ៍បាល់ទាត់ដែលមានការចាប់អារម្មណ៍ខ្លាំងបំផុតនៅលើពិភពលោក។ ក្រុមសហរដ្ឋអាមេរិកមានភាពប្រសើរឡើងក្នុងប៉ុន្មានឆ្នាំថ្មីៗនេះ ប៉ុន្តែនៅតែត្រូវការពង្រឹងស្ថិរភាព។",
+      "keywords": "World Cup · stunned · shake off · bounce back · Team USA"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "នៅក្នុងអត្ថបទដើម 'first responders sift through the rubble' ពាក្យ 'sift through' មានន័យជិតបំផុតនឹងជម្រើសមួយណា?",
+      "options": [
+        "A. រែង (ដូចជាម្សៅ)",
+        "B. ស្វែងរកដោយប្រុងប្រយ័ត្ន",
+        "C. ឆ្លងកាត់យ៉ាងលឿន",
+        "D. មិនអើពើ"
+      ],
+      "answer": 1,
+      "explanation": "sift through ក្នុងបរិបទព័ត៌មានច្រើនមានន័យថា 'ស្វែងរកដោយប្រុងប្រយ័ត្ន, ត្រួតពិនិត្យ' ជាពិសេសការស្វែងរកអ្នករស់រានមានជីវិតក្នុងគំនរបាក់បែក។ ជម្រើស A ជាអត្ថន័យត្រង់ ប៉ុន្តែនៅទីនេះជាការប្រើប្រាស់ក្នុងន័យធៀប។"
+    },
+    {
+      "type": "vocab",
+      "question": "នៅក្នុងអត្ថបទដើម 'the Trump administration to strip temporary protected status' ពាក្យ 'strip' មានន័យថា៖",
+      "options": [
+        "A. ដោះសម្លៀកបំពាក់",
+        "B. ដកហូត",
+        "C. ពង្រឹង",
+        "D. ពន្យារ"
+      ],
+      "answer": 1,
+      "explanation": "strip ក្នុងបរិបទច្បាប់/នយោបាយច្រើនមានន័យថា 'ដកហូត (សិទ្ធិ, ឋានៈ។ល។)'។ នៅទីនេះសំដៅលើការលុបចោលឋានៈការពារបណ្តោះអាសន្ន។"
+    },
+    {
+      "type": "vocab",
+      "question": "ឃ្លា 'no administration has had the guts to actually follow that statute' ក្នុងអត្ថបទដើម 'have the guts to' មានន័យថា៖",
+      "options": [
+        "A. មានចំណង់ចង់ធ្វើ",
+        "B. មានក្លាហានធ្វើ",
+        "C. មានជំនាញធ្វើ",
+        "D. មានអំណាចធ្វើ"
+      ],
+      "answer": 1,
+      "explanation": "have the guts to ជាពាក្យផ្សំថេរ មានន័យថា 'មានក្លាហានធ្វើអ្វីមួយ'។ guts នៅទីនេះមានន័យថា 'ភាពក្លាហាន' មិនមែន 'ពោះវៀន' ទេ។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តាមអត្ថបទដើម តុលាការកំពូលបានធ្វើសេចក្តីសម្រេចអ្វីខ្លះលើបញ្ហាអន្តោប្រវេសន៍?",
+      "options": [
+        "A. អនុញ្ញាតឱ្យមន្ត្រីព្រំដែនបដិសេធការស្នើសុំសិទ្ធិជ្រកកោន; អនុញ្ញាតឱ្យបញ្ចប់ TPS",
+        "B. ពង្រីកវិសាលភាពនៃការស្នើសុំសិទ្ធិជ្រកកោន; ពន្យារ TPS",
+        "C. ហាមឃាត់មន្ត្រីព្រំដែនបដិសេធការស្នើសុំសិទ្ធិជ្រកកោន; តម្រូវឱ្យរក្សា TPS",
+        "D. អនុញ្ញាតឱ្យអ្នកស្នើសុំសិទ្ធិជ្រកកោននាំគ្រួសារ; លុបចោល TPS"
+      ],
+      "answer": 0,
+      "explanation": "អត្ថបទដើមបញ្ជាក់យ៉ាងច្បាស់ថា៖ តុលាការកំពូលបានសម្រេចថា មន្ត្រីព្រំដែនអាចបដិសេធអ្នកស្នើសុំសិទ្ធិជ្រកកោន និងអនុញ្ញាតឱ្យរដ្ឋាភិបាលបញ្ចប់ TPS សម្រាប់ប្រទេសហៃទី ស៊ីរី ជាដើម។"
+    },
+    {
+      "type": "comprehension",
+      "question": "ក្នុងការជួយសង្គ្រោះរញ្ជួយដីនៅវ៉េណេស៊ុយអេឡា តើសម្ភារៈអ្វីដែលត្រូវការបំផុតនាពេលបច្ចុប្បន្ន?",
+      "options": [
+        "A. ថ្នាំពេទ្យ និងបង់រុំ",
+        "B. ម៉ាស៊ីនភ្លើង",
+        "C. ម៉ាស៊ីនជីកធុនធ្ងន់",
+        "D. អាហារ និងទឹក"
+      ],
+      "answer": 2,
+      "explanation": "ក្នុងអត្ថបទដើម Stefano Pozzebon បានចង្អុលបង្ហាញថា នៅ La Guaira ត្រូវការម៉ាស៊ីនធំៗដូចជា ម៉ាស៊ីនជីក ព្រោះអគារដួលរលំត្រូវបានគំនរលើគ្នា ត្រូវការឧបករណ៍ធុនធ្ងន់ដើម្បីសម្អាត។"
+    },
+    {
+      "type": "comprehension",
+      "question": "អនុប្រធានាធិបតី Vance បានពណ៌នារឿង Watergate ថាជាអ្វី?",
+      "options": [
+        "A. រឿងអាស្រូវនយោបាយ",
+        "B. ការឃុបឃិតរបស់រដ្ឋជ្រៅ",
+        "C. ជ័យជម្នះនៃលទ្ធិប្រជាធិបតេយ្យ",
+        "D. ការភូតកុហករបស់ប្រព័ន្ធផ្សព្វផ្សាយ"
+      ],
+      "answer": 1,
+      "explanation": "អត្ថបទដើមថា៖ Vance says Watergate was a deep-state conspiracy មានន័យថា Vance បាននិយាយថា Watergate គឺជាការឃុបឃិតរបស់រដ្ឋជ្រៅ។"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "It's still unclear whether anyone was hurt. The cause of the crash remains under investigation. And in Illinois, more than 30 -- 300 cannabis workers have gone on strike. Three hundred cannabis workers going on strike, alleging unfair labor practices. Their union accusing Ascend Wellness of not bargaining in good faith. All right. That does it for us here on CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "បច្ចុប្បន្ននេះ មិនទាន់ដឹងថាមានអ្នករងរបួសទេ។ មូលហេតុនៃការធ្លាក់យន្តហោះកំពុងត្រូវបានស៊ើបអង្កេត។ នៅរដ្ឋ Illinois កម្មករកញ្ឆាជាង ៣០០នាក់បានធ្វើកូដកម្ម។ កម្មករកញ្ឆា ៣០០នាក់ធ្វើកូដកម្ម ដោយចោទប្រកាន់ពីការអនុវត្តការងារអយុត្តិធម៌។ សហជីពរបស់ពួកគេចោទប្រកាន់ Ascend Wellness ថាមិនបានចរចាដោយស្មោះត្រង់។ មិនអីទេ នេះជាព័ត៌មានសង្ខេបរបស់ CNN ។ ខ្ញុំ Brad Smith ។ កម្មវិធី CNN This Morning ដោយ Audie Cornish ចាប់ផ្ដើមឥឡូវនេះ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Today in the group chat, Trump's mass deportation machine wins big at the Supreme Court. What the president might do with this increased power.",
+      "cn": "ថ្ងៃនេះនៅក្នុងការពិភាក្សាជាក្រុម៖ ម៉ាស៊ីននិរទេសដ៏ធំរបស់លោក Trump ទទួលបានជ័យជម្នះដ៏ធំនៅតុលាការកំពូល។ តើប្រធានាធិបតីអាចប្រើអំណាចដែលបានពង្រឹងនេះធ្វើអ្វីខ្លះ?"
+    },
+    {
+      "speaker": "Tessa Petit",
+      "text": "My people, they can't go back. It's real. The reality in Haiti is real.",
+      "cn": "ប្រជាជនរបស់ខ្ញុំ ពួកគេមិនអាចត្រឡប់ទៅវិញបានទេ។ នេះជាការពិត។ ការពិតនៅហៃទីគឺពិតប្រាកដ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And the desperate search through the rubble, the humanitarian struggle this morning, one day after a devastating earthquake in Venezuela. In the meantime, Vice President J.D. Vance compares himself to Richard Nixon and says Watergate was a deep-state conspiracy. What does he know that we don't? And Team USA, stunned by Turkey in the World Cup.",
+      "cn": "និងការស្វែងរកដោយអស់សង្ឃឹមក្នុងចំណោមកម្ទេចថ្ម ការតស៊ូមនុស្សធម៌នៅព្រឹកនេះ មួយថ្ងៃបន្ទាប់ពីការរញ្ជួយដីដ៏សាហាវនៅវ៉េណេស៊ុយអេឡា។ ទន្ទឹមនឹងនេះ អនុប្រធានាធិបតី J.D. Vance ប្រៀបធៀបខ្លួនឯងទៅនឹង Richard Nixon ហើយហៅរឿង Watergate ថាជាការឃុបឃិតរបស់រដ្ឋជ្រៅ។ តើគាត់ដឹងអ្វីដែលយើងមិនដឹង? ក្រុមបាល់ទាត់អាមេរិកត្រូវបានទួរគីធ្វើឱ្យភ្ញាក់ផ្អើលនៅ World Cup ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can they shake off the bad vibes and bounce back? And there continues the massive -- I want to bring you back to this massive search-and-rescue effort in Venezuela right now. The earthquake death toll continues to rise. Welcome back, everybody. I'm Audie Cornish. This is where we begin. The death count at this point, 235. More than 4,300 people injured. And those figures are expected to rise as first responders sift through the rubble. Now, right now, this is before and after scene.",
+      "cn": "តើពួកគេអាចរួចផុតពីសំណាងអាក្រក់ ហើយត្រឡប់មកវិញបានទេ? ហើយការស្វែងរកទ្រង់ទ្រាយធំ -- ខ្ញុំចង់នាំអ្នកត្រឡប់ទៅកាន់ការស្វែងរក និងជួយសង្គ្រោះទ្រង់ទ្រាយធំនៅវ៉េណេស៊ុយអេឡាបច្ចុប្បន្ន។ ចំនួនអ្នកស្លាប់ដោយសាររញ្ជួយដីកំពុងកើនឡើងជាបន្តបន្ទាប់។ សូមស្វាគមន៍ត្រឡប់មកវិញ អ្នកទាំងអស់គ្នា។ ខ្ញុំ Audie Cornish ។ យើងចាប់ផ្ដើម។ បច្ចុប្បន្នចំនួនអ្នកស្លាប់គឺ ២៣៥នាក់។ មនុស្សជាង ៤៣០០នាក់រងរបួស។ តួលេខទាំងនេះត្រូវបានគេរំពឹងថានឹងកើនឡើង នៅពេលដែលក្រុមសង្គ្រោះបន្ទាន់ស្វែងរកតាមកម្ទេចថ្ម។ ឥឡូវនេះ នេះជាទិដ្ឋភាពមុន និងក្រោយរញ្ជួយដី។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, you can get a sense of what the quakes took out. The first 48 to 72 hours are widely regarded as the golden window to reach people who may still be buried alive. So, this is new video showing passengers panicking aboard a plane at the international airport North of Caracas as the powerful tremors shook the aircraft on the tarmac. CNN's Stefano Pozzebon joins us now from Bogota, Colombia. We spoke yesterday, and I was asking about regional aid.",
+      "cn": "ដូច្នេះ អ្នកអាចយល់ពីការខូចខាតដែលរញ្ជួយដីបណ្ដាលឱ្យ។ ៤៨ ទៅ ៧២ ម៉ោងដំបូងត្រូវបានគេចាត់ទុកយ៉ាងទូលំទូលាយថាជាបង្អួចមាសសម្រាប់ទាក់ទងអ្នកដែលអាចនៅរស់ក្រោមដី។ នេះជាវីដេអូថ្មី បង្ហាញអ្នកដំណើរនៅលើយន្តហោះមួយនៅអាកាសយានដ្ឋានអន្តរជាតិភាគខាងជើងទីក្រុង Caracas ភ័យស្លន់ស្លោ នៅពេលការរញ្ជួយដ៏ខ្លាំងធ្វើឱ្យយន្តហោះនៅលើផ្លូវរត់ញ័រ។ Stefano Pozzobon របស់ CNN ឥឡូវនេះចូលរួមជាមួយយើងពីទីក្រុង Bogotá ប្រទេសកូឡុំប៊ី។ យើងបាននិយាយកាលពីម្សិលមិញ ហើយខ្ញុំបានសួរអំពីជំនួយក្នុងតំបន់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can you talk about now? What's happening as more and more people come in to try and support the rescue effort?",
+      "cn": "តើអ្នកអាចនិយាយអំពីវាឥឡូវនេះបានទេ? តើស្ថានភាពយ៉ាងណាដែរ នៅពេលដែលមនុស្សកាន់តែច្រើនមកគាំទ្រកិច្ចខិតខំប្រឹងប្រែងសង្គ្រោះ?"
+    },
+    {
+      "speaker": "Stefano Pozzebon",
+      "text": "Yes, Audie. I think that that is a smart point, a smart angle to explore today, is that today is the day we are finally seeing the aid coming in. The Dominicans arrived yesterday at around 9 p.m. local time in Venezuela. I believe that they were the first mission of international aid relief landing in Caracas. Those are definitely the first images that we had seen here at CNN overnight. The Colombians were also able to fly into Caracas with two Hercules C- 130.",
+      "cn": "បាទ Audie ។ ខ្ញុំគិតថាវាជាការឈ្លាសវៃក្នុងការស្វែងយល់ពីទស្សនៈនេះនៅថ្ងៃនេះ ហើយថ្ងៃនេះទីបំផុតយើងឃើញជំនួយមកដល់។ ប្រជាជនដូមីនីកែនបានមកដល់វ៉េណេស៊ុយអេឡានៅម៉ោងប្រហែល ៩ យប់ម៉ោងក្នុងតំបន់កាលពីម្សិលមិញ។ ខ្ញុំជឿថាពួកគេជាក្រុមសង្គ្រោះអន្តរជាតិដំបូងដែលចុះចតនៅ Caracas ។ នេះពិតជារូបភាពដំបូងដែលយើងបានឃើញនៅលើ CNN ពេញមួយយប់។ ប្រជាជនកូឡុំប៊ីក៏អាចហោះហើរចូល Caracas ជាមួយយន្តហោះដឹកទំនិញ C-130 Hercules ចំនួនពីរគ្រឿងផងដែរ។"
+    },
+    {
+      "speaker": "Stefano Pozzebon",
+      "text": "That, of course, took time, because the runway itself at the international airport, which serves the city of Caracas, was badly damaged. You can see from that video that you just played that the quake hit with the plane on the tarmac and created open cracks, really, on the tarmac of the runway.",
+      "cn": "ជាការពិតណាស់ វាត្រូវការពេលវេលា ដោយសារតែផ្លូវរត់នៃអាកាសយានដ្ឋានអន្តរជាតិដែលបម្រើទីក្រុង Caracas ខ្លួនឯងត្រូវបានខូចខាតយ៉ាងធ្ងន់ធ្ងរ។ ពីវីដេអូដែលអ្នកទើបតែបានលេង អ្នកអាចមើលឃើញយន្តហោះនៅលើផ្លូវរត់នៅពេលរញ្ជួយដីកើតឡើង ហើយវាបណ្ដាលឱ្យមានស្នាមប្រេះនៅលើផ្លូវរត់។"
+    },
+    {
+      "speaker": "Stefano Pozzebon",
+      "text": "So, these military planes that carry the aid had to make some adjustments in order to arrive as quickly and as close as possible to the relief zone, which is the state of La Guaira, where the airport is located, which is this coastal state close to Caracas, but on the coast on the Caribbean coast, where the majority of the damage is -- is located and being confined. So, today's the day we're going to see more international aid pouring in. The United States have also arrived on the scene overnight.",
+      "cn": "ដូច្នេះ យន្តហោះយោធាដឹកជំនួយទាំងនេះត្រូវតែកែសម្រួល ដើម្បីមកដល់ឱ្យបានលឿន និងជិតតំបន់សង្គ្រោះតាមដែលអាចធ្វើទៅបាន ដែលជារដ្ឋ La Guaira ជាកន្លែងដែលអាកាសយានដ្ឋានស្ថិតនៅ ជារដ្ឋឆ្នេរសមុទ្រក្បែរ Caracas ប៉ុន្តែនៅលើឆ្នេរការ៉ាប៊ីន ដែលការខូចខាតភាគច្រើនបានកើតឡើង និងត្រូវបានកំណត់នៅទីនោះ។ ដូច្នេះ ថ្ងៃនេះយើងនឹងឃើញជំនួយអន្តរជាតិកាន់តែច្រើនហូរចូល។ សហរដ្ឋអាមេរិកក៏បានមកដល់កន្លែងកើតហេតុនៅពេលយប់ផងដែរ។"
+    },
+    {
+      "speaker": "Stefano Pozzebon",
+      "text": "A major general from the Marine Corps arrived in Caracas. By the way, it's still surreal to me that we are seeing a major marine general in the grounds of Caracas less than six months after the ousting of Maduro. But this is the time we're living and were living in. And -- and this general arrived to coordinate efforts from the United States and other countries to try and help the Venezuelan population -- Audie.",
+      "cn": "ឧត្តមសេនីយ៍ឯកទ័ពជើងទឹកម្នាក់បានមកដល់ Caracas ។ និយាយអីញ្ចឹង តិចជាងប្រាំមួយខែបន្ទាប់ពីការផ្ដួលរំលំលោក Maduro យើងឃើញឧត្តមសេនីយ៍ឯកទ័ពជើងទឹកម្នាក់បង្ហាញខ្លួននៅ Caracas ដែលនៅតែមិនពិតសម្រាប់ខ្ញុំ។ ប៉ុន្តែនេះជាសម័យដែលយើងរស់នៅ។ ឧត្តមសេនីយ៍នេះមកសម្របសម្រួលកិច្ចខិតខំប្រឹងប្រែងរបស់សហរដ្ឋអាមេរិក និងប្រទេសដទៃទៀត ដើម្បីព្យាយាមជួយប្រជាជនវ៉េណេស៊ុយអេឡា -- Audie ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Stefano, I don't know if you've been able to hear from the region directly, but if you are, what's the sense of what's needed now beyond this search-and-rescue moment? I think heavy machinery is the trickiest thing, because one thing is to bring in containers with medicines, with plasters, with emergency kit, with generators.",
+      "cn": "Stefano ខ្ញុំមិនដឹងថាតើអ្នកអាចឮដោយផ្ទាល់ពីតំបន់នោះទេ ប៉ុន្តែប្រសិនបើអ្នកអាច ក្រៅពីពេលស្វែងរក និងជួយសង្គ្រោះបច្ចុប្បន្ន តើអ្នកគិតថាត្រូវការអ្វីទៀតនៅពេលនេះ? ខ្ញុំគិតថាគ្រឿងចក្រធុនធ្ងន់ជាបញ្ហាដ៏លំបាកបំផុត ពីព្រោះនៅលើដៃម្ខាង អ្នកអាចដឹកធុងដាក់ថ្នាំពេទ្យ ម្នាងសិលា កញ្ចប់សង្គ្រោះបន្ទាន់ និងម៉ាស៊ីនភ្លើង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But what do they need in La Guaira is excavator; big machinery in order to lift in a safely way, the -- all of these floors that have been pancaked on top of each other because of the -- of the power of the tremors. And Venezuela don't have those machinery readily available. We've seen some of them in action in Caracas in the last couple of days. Our team is at the city, and they have been filming it.",
+      "cn": "ប៉ុន្តែអ្វីដែល La Guaira ត្រូវការគឺគ្រឿងជីក; គ្រឿងចក្រធំៗ ដើម្បីលើកកម្រាលឥដ្ឋដែលត្រូវបានគាំងពីលើគ្នាដោយសារអំណាចនៃការរញ្ជួយដីដោយសុវត្ថិភាព។ ហើយវ៉េណេស៊ុយអេឡាមិនមានគ្រឿងចក្រទាំងនេះដែលត្រៀមរួចរាល់ទេ។ ប៉ុន្មានថ្ងៃមុននេះ យើងបានឃើញគ្រឿងចក្រមួយចំនួនដំណើរការនៅ Caracas ។ ក្រុមរបស់យើងនៅក្នុងទីក្រុង ហើយពួកគេបានថតជាបន្តបន្ទាប់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But in La Guaira yesterday, when they were down in the area most affected, they were really talking about the lack of equipment, the lack of gear. So, I think that that is a crucial equipment, a crucial component that the country desperately needs as quickly as possible.",
+      "cn": "ប៉ុន្តែកាលពីម្សិលមិញនៅ La Guaira នៅពេលពួកគេទៅដល់តំបន់ដែលរងផលប៉ះពាល់ខ្លាំងបំផុត ពួកគេពិតជាបាននិយាយអំពីការខ្វះខាតឧបករណ៍ និងគ្រឿងចក្រ។ ដូច្នេះ ខ្ញុំគិតថានេះជាឧបករណ៍សំខាន់ និងជាធាតុផ្សំដ៏សំខាន់ដែលប្រទេសត្រូវការជាបន្ទាន់ ឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Stefano Pozzebon, speaking to us from neighboring Colombia, thank you so much. Now, while the people in Venezuela are desperate for help, we here in the U.S. have seen two rulings from the Supreme Court indicating that the U.S. is not quite the place of refuge it might have been. The Supreme Court ruled immigration officials at the U.S.-Mexico border can turn away asylum seekers before they enter the country.",
+      "cn": "ល្អ។ Stefano Pozzebon រាយការណ៍មកយើងពីប្រទេសកូឡុំប៊ីជិតខាង សូមអរគុណច្រើន។ ឥឡូវនេះ នៅពេលដែលប្រជាជនវ៉េណេស៊ុយអេឡាត្រូវការជំនួយជាបន្ទាន់ យើងឃើញសេចក្ដីសម្រេចពីររបស់តុលាការកំពូលនៅសហរដ្ឋអាមេរិក ដែលបង្ហាញថាអាមេរិកប្រហែលជាមិនមែនជាកន្លែងជ្រកកោនដូចពីមុនទៀតទេ។ តុលាការកំពូលបានសម្រេចថា មន្ត្រីអន្តោប្រវេសន៍នៅព្រំដែនសហរដ្ឋអាមេរិក-ម៉ិកស៊ិកអាចបដិសេធអ្នកស្វែងរកសិទ្ធិជ្រកកោន មុនពេលពួកគេចូលសហរដ្ឋអាមេរិក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, in her dissent, Justice Sonia Sotomayor wrote, \"The consequences of today's decision are predictable. More people will die.\" Now, the justices also allowed the Trump administration to strip temporary protected status for hundreds of thousands of Haitians and Syrians living in the",
+      "cn": "ឥឡូវនេះ នៅក្នុងការជំទាស់របស់នាង ចៅក្រម Sonia Sotomayor បានសរសេរថា៖ «ផលវិបាកនៃសេចក្ដីសម្រេចថ្ងៃនេះអាចទាយទុកជាមុនបាន។ មនុស្សកាន់តែច្រើននឹងស្លាប់»។ លើសពីនេះ ចៅក្រមក៏បានអនុញ្ញាតឱ្យរដ្ឋបាល Trump បញ្ចប់ការការពារបណ្ដោះអាសន្នសម្រាប់ជនជាតិហៃទី និងស៊ីរីរាប់សែននាក់នៅសហរដ្ឋអាមេរិក។"
+    },
+    {
+      "speaker": "U.S. Tom Homan",
+      "text": "The whole statute exists. Temporarily to give people protection while the country's in turmoil or after they suffer a hurricane. But the problem is, no administration has had the guts to actually follow that statute. President Trump has the guts to follow the law. So temporary means temporary. When the condition in that country gets better, they need to go home. So temporary means temporary. And I'm grateful for that decision.",
+      "cn": "ច្បាប់ទាំងមូលមាន។ ការការពារបណ្ដោះអាសន្នគឺដើម្បីផ្ដល់ការការពារដល់មនុស្សជាបណ្ដោះអាសន្ន បន្ទាប់ពីភាពចលាចលក្នុងប្រទេស ឬព្យុះសង្ឃរា។ ប៉ុន្តែបញ្ហាគឺថា គ្មានរដ្ឋាភិបាលណាមួយមានភាពក្លាហានក្នុងការអនុវត្តតាមច្បាប់នោះទេ។ ប្រធានាធិបតី Trump មានភាពក្លាហានក្នុងការគោរពច្បាប់។ ដូច្នេះ បណ្ដោះអាសន្នមានន័យថាបណ្ដោះអាសន្ន។ នៅពេលដែលស្ថានភាពក្នុងប្រទេសប្រសើរឡើង ពួកគេត្រូវតែត្រឡប់ទៅផ្ទះវិញ។ ដូច្នេះ បណ្ដោះអាសន្នគឺបណ្ដោះអាសន្ន។ ខ្ញុំសូមអរគុណចំពោះការសម្រេចចិត្តនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, TPS protects people who are fleeing violence and natural disasters.",
+      "cn": "ដូច្នេះ TPS ការពារមនុស្សដែលរត់គេចពីអំពើហិង្សា និងគ្រោះមហន្តរាយធម្មជាតិ។"
+    },
+    {
+      "speaker": "Mercedes Narcisse",
+      "text": "This same government that tells me that it is too dangerous to set foot in Haiti, just told 350,000 Haitians that they have to go back there anyway, even to their death sentence. You cannot have it both ways. This is not Burger King.",
+      "cn": "រដ្ឋាភិបាលដដែលដែលប្រាប់ខ្ញុំថា ការដើរលើដីហៃទីគឺគ្រោះថ្នាក់ពេក ទើបតែប្រាប់ជនជាតិហៃទី ៣៥០,០០០នាក់ថា ពួកគេត្រូវតែត្រឡប់ទៅវិញដោយមិនខ្វល់ពីអ្វីឡើយ សូម្បីតែទៅស្លាប់ក៏ដោយ។ អ្នកមិនអាចមានទាំងសងខាងបានទេ។ នេះមិនមែនជា Burger King ទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, today in the group chat, we've got our CNN legal analyst, former federal prosecutor Elliot Williams; also Rob Bluey, president and executive editor at \"The Daily Signal\"; and Lulu Garcia-Navarro, CNN contributor and host of \"The New York Times\" podcast, \"The Interview.\" Thank you so much for being here. Elliot, I've got to start with you, the legal of this. Basically, this law from the 1990s gives people a kind of quasi legal status. You can work a bit, you can stay a bit, but it is by definition limited --",
+      "cn": "ដូច្នេះ ថ្ងៃនេះនៅក្នុងការសន្ទនាជាក្រុមរបស់យើង យើងមានអ្នកវិភាគច្បាប់ CNN អតីតព្រះរាជអាជ្ញាសហព័ន្ធ Elliott Williams; ប្រធាន និងជានិពន្ធនាយកប្រតិបត្តិនៃ The Daily Signal, Rob Bluey; និងអ្នកសរសេរអត្ថបទ CNN និងជាពិធីករផតខាស The Interview របស់ The New York Times, Lulu Garcia-Navarro ។ សូមអរគុណយ៉ាងជ្រាលជ្រៅដែលបានចូលរួម។ Elliott ខ្ញុំត្រូវចាប់ផ្តើមពីអ្នក និយាយអំពីទិដ្ឋភាពច្បាប់។ ជាមូលដ្ឋាន ច្បាប់ពីទសវត្សរ៍ឆ្នាំ 1990 នេះផ្តល់ឱ្យមនុស្សនូវស្ថានភាពពាក់កណ្តាលស្របច្បាប់។ អ្នកអាចធ្វើការបន្តិចបន្តួច អាចស្នាក់នៅមួយរយៈ ប៉ុន្តែតាមនិយមន័យ វាមានកំណត់ --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- unless it gets continual extensions.",
+      "cn": "--  -- លើកលែងតែវាទទួលបានការពន្យារពេលជាបន្តបន្ទាប់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, does Homan have a point? And is that what the court underscored, or did they point to something else?",
+      "cn": "ដូច្នេះ តើអ្វីដែល Homan និយាយត្រឹមត្រូវទេ? តើនេះជាចំណុចដែលតុលាការសង្កត់ធ្ងន់ ឬក៏ពួកគេចង្អុលបង្ហាញបញ្ហាផ្សេងទៀត?"
+    },
+    {
+      "speaker": "Williams",
+      "text": "They pointed to something else. What he does have a point in that -- so the point of temporary protected status is when conditions in a country are such that people cannot return there. Haiti was an excellent example after the earthquake. Certainly, it was not feasible for the United States to send people back there. It was safe --",
+      "cn": "ពួកគេបានចង្អុលបង្ហាញពីបញ្ហាផ្សេងទៀត។ អ្វីដែលគាត់និយាយត្រឹមត្រូវនោះគឺ -- -- អត្ថន័យនៃ Temporary Protected Status គឺនៅពេលដែលស្ថានភាពនៃប្រទេសមួយធ្វើឱ្យមនុស្សមិនអាចត្រឡប់ទៅវិញបាន សហរដ្ឋអាមេរិកអាចផ្តល់ការការពារ។ ហៃទី បន្ទាប់ពីរញ្ជួយដីគឺជាឧទាហរណ៍ដ៏ល្អមួយ។ ជាក់ស្តែង សហរដ្ឋអាមេរិកមិនអាចបញ្ជូនមនុស្សត្រឡប់ទៅទីនោះបានទេនៅពេលនោះ។ ទីនោះមានសុវត្ថិភាព -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Or Syria with the war.",
+      "cn": "ឬប្រទេសស៊ីរី ដោយសារសង្គ្រាម។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "With the war and the deteriorating conditions there. Now, what countless administrations of both parties have done is extend those designations each time and sometimes multiple times, up to a period of years. Now, on the flip side, what Kristi Noem, the former secretary of homeland security, did was simply just suspend TPS for Haitians and Syrians.",
+      "cn": "ដោយសារសង្គ្រាម និងស្ថានភាពកាន់តែអាក្រក់ទៅៗ។ ឥឡូវនេះ អ្វីដែលរដ្ឋាភិបាលនៃគណបក្សទាំងពីរបានធ្វើគឺការបន្តការកំណត់ទាំងនេះរាល់ពេល ជួនកាលថែមទាំងបន្តច្រើនដង អស់រយៈពេលជាច្រើនឆ្នាំ។ ម្យ៉ាងវិញទៀត អ្វីដែលអតីតរដ្ឋមន្ត្រីក្រសួងសន្តិសុខមាតុភូមិ គ្រីស្ទី ណូម បានធ្វើគឺការផ្អាក TPS សម្រាប់ជនជាតិហៃទី និងស៊ីរីភ្លាមៗ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And I'm going to put up a map showing all the countries --",
+      "cn": "បាទ។ ខ្ញុំនឹងបង្ហាញផែនទីដែលបង្ហាញពីប្រទេសទាំងអស់ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- the administration has tried to terminate --",
+      "cn": "-- -- រដ្ឋាភិបាលបច្ចុប្បន្នព្យាយាមបញ្ចប់ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- TPS. Just so people have a sense of where folks are coming from and where we're trying to stop them from.",
+      "cn": "-- -- TPS។ គ្រាន់តែចង់ឱ្យមនុស្សយល់ពីកន្លែងដើមរបស់មនុស្សទាំងនេះ និងកន្លែងដែលយើងព្យាយាមរារាំងពួកគេមកពីណា។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "And -- but here, there wasn't a ton of process. It was just simply, with the stroke of a pen, we're going -- we' re going to suspend this right here. That was part of what animated the lawsuit. But certainly, you know, again, Tom Homan, frankly, who I worked with for years at ICE and whom I know, he's got a little bit of a point in that the sort of the temporary nature of all of this.",
+      "cn": "ហើយ -- -- ប៉ុន្តែនៅទីនេះ មិនមាននីតិវិធីច្រើនទេ។ គ្រាន់តែចុះហត្ថលេខាយ៉ាងសាមញ្ញ ហើយយើង -- -- យើងបានផ្អាកសិទ្ធិនេះ។ នេះជាផ្នែកមួយដែលបណ្តាលឱ្យមានបណ្តឹង។ ប៉ុន្តែជាការពិតណាស់ អ្នកដឹងទេ ដោយស្មោះត្រង់ ថម ហូមែន ដែលខ្ញុំបានធ្វើការជាមួយគាត់ជាច្រើនឆ្នាំនៅ ICE ខ្ញុំស្គាល់គាត់ គាត់និយាយត្រឹមត្រូវបន្តិច គឺអំពីលក្ខណៈបណ្តោះអាសន្ននៃអ្វីៗទាំងអស់នេះ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "That said, the manner in which they did it, and the potential consequences, in light of the Venezuelan earthquake, could be profound for the entire hemisphere. And it's just something to think about what comes next after this Supreme Court decision, like any other.",
+      "cn": "ទោះយ៉ាងណា វិធីសាស្រ្តដែលពួកគេយក និងផលវិបាកដែលអាចកើតមាន ដោយគិតពីការរញ្ជួយដីនៅវ៉េណេស៊ុយអេឡា អាចជះឥទ្ធិពលយ៉ាងជ្រាលជ្រៅដល់អឌ្ឍគោលទាំងមូល។ ដូចជាសេចក្តីសម្រេចរបស់តុលាការកំពូលដទៃទៀតដែរ អ្វីដែលនឹងកើតឡើងបន្ទាប់ គឺគួរឱ្យគិតពិចារណា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There was a twist in this conversation, which is that the Haitian plaintiffs said, Look, this administration has said such heinous things about Haitians in particular that there's obviously racial animus in the way they made this decision about TPS for their status. And it was interesting.",
+      "cn": "ការសន្ទនានេះមានចំណុចរបត់មួយ ដើមបណ្តឹងជនជាតិហៃទីបាននិយាយថា៖ «មើល រដ្ឋាភិបាលនេះបាននិយាយពាក្យស្អុយរលួយបែបនេះអំពីជនជាតិហៃទី ជាក់ស្តែងពួកគេមានអរិភាពជាតិសាសន៍នៅពេលសម្រេចចិត្តស្ថានភាពការពារបណ្តោះអាសន្នរបស់ជនជាតិហៃទី»។ នេះគួរឱ្យចាប់អារម្មណ៍។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You had Elena Kagan writing, \"The statements fairly shout, in their racial undertones and overtones alike, that race entered into the president's resolve to remove Haitians from this country.\" I'm not sure if we have some clips of that. We might, but needless to say, we have been hearing over the years, especially during campaign time, when Vance accused Haitians of all manner of thing, and that the court rejected that.",
+      "cn": "អេឡេណា កាហ្គេន បានសរសេរថា៖ «សុន្ទរកថាទាំងនេះ ទាំងក្នុងអត្ថន័យលាក់កំបាំង និងច្បាស់លាស់ បានប្រកាសយ៉ាងខ្លាំងថា កត្តាជាតិសាសន៍បានចូលទៅក្នុងការសម្រេចចិត្តរបស់ប្រធានាធិបតីក្នុងការបណ្តេញជនជាតិហៃទីចេញពីប្រទេសនេះ»។ ខ្ញុំមិនប្រាកដថាយើងមានឈុតពាក់ព័ន្ធទេ។ អាចមាន ប៉ុន្តែមិនចាំបាច់និយាយទេ អស់រយៈពេលជាច្រើនឆ្នាំមកនេះ យើងបានឮ ជាពិសេសក្នុងអំឡុងពេលយុទ្ធនាការបោះឆ្នោត វ៉ាន់ស៍ បានចោទប្រកាន់ជនជាតិហៃទីពីរឿងផ្សេងៗ ហើយតុលាការបានច្រានចោលការចោទប្រកាន់ទាំងនោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "ROB BLUEY, PRESIDENT/EXECUTIVE EDITOR, \"THE DAILY SIGNAL\": Well, Audie, I'm glad you brought up the campaign, because I think going back to this conversation, just more broadly on immigration, Donald Trump promised to carry out the largest mass deportation in our country's history. The fact of the matter is, if you look at the first year of the Trump administration, they did not hit the mark on the president's own promise.",
+      "cn": "ប្រធាន និងជានិពន្ធនាយកប្រតិបត្តិនៃ The Daily Signal រ៉ូប ប្រូយ៖ មែនហើយ អូឌី ខ្ញុំរីករាយដែលអ្នកនិយាយពីយុទ្ធនាការបោះឆ្នោត ព្រោះខ្ញុំគិតថាការត្រលប់ទៅការសន្ទនានេះ និយាយយ៉ាងទូលំទូលាយអំពីបញ្ហាអន្តោប្រវេសន៍ ដូណាល់ ត្រាំ បានសន្យាថានឹងធ្វើការនិរទេសដ៏ធំបំផុតក្នុងប្រវត្តិសាស្ត្រប្រទេសយើង។ ការពិតគឺថា ប្រសិនបើអ្នកក្រឡេកមើលឆ្នាំដំបូងនៃរដ្ឋាភិបាលត្រាំ ពួកគេមិនបានសម្រេចតាមការសន្យារបស់ប្រធានាធិបតីខ្លួនឯងទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And now, the mass deportation coalition is saying that they need to deport up to a million illegal immigrants this year.",
+      "cn": "ឥឡូវនេះ សម្ព័ន្ធនិរទេសខ្នាតធំបាននិយាយថា ពួកគេត្រូវការនិរទេសជនអន្តោប្រវេសន៍ខុសច្បាប់រហូតដល់ 1 លាននាក់ក្នុងឆ្នាំនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, you're bringing in -- are you bringing this up because you're saying this was a win they needed?",
+      "cn": "ដូច្នេះ តើអ្នកលើកឡើងរឿងនេះដោយសារអ្នកគិតថានេះជាជ័យជម្នះដែលពួកគេត្រូវការឬ?"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Yes. I'm saying that Donald Trump is -- if that's the promise that he was going to deliver on -- and that was a central theme of his 2024 campaign -- these victories at the Supreme Court certainly put him on the pathway to getting back on track when it comes to carrying out that. Now, we may disagree on whether or not that's the policy the United States should carry out. I just happen to say, as a conservative and as somebody who --",
+      "cn": "បាទ។ ខ្ញុំមានន័យថា ដូណាល់ ត្រាំ -- -- ប្រសិនបើនោះជាការសន្យាដែលគាត់នឹងធ្វើឱ្យបានសម្រេច -- -- ហើយនោះជាប្រធានបទស្នូលនៃយុទ្ធនាការឆ្នាំ 2024 របស់គាត់ -- -- នោះជ័យជម្នះរបស់តុលាការកំពូលទាំងនេះពិតជាធ្វើឱ្យគាត់ស្ថិតនៅលើផ្លូវឆ្ពោះទៅរកការសម្រេចគោលដៅនោះ។ ឥឡូវនេះ យើងអាចមានការខ្វែងគំនិតគ្នាអំពីថាតើនេះជាគោលនយោបាយដែលសហរដ្ឋអាមេរិកគួរអនុវត្តឬអត់។ ខ្ញុំគ្រាន់តែយល់ឃើញថា ក្នុងនាមជាអ្នកអភិរក្សនិយម និងជាមនុស្សម្នាក់ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You're happy about this --",
+      "cn": "អ្នកសប្បាយចិត្តនឹងរឿងនេះ -- --"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "I think that these rogue judges were -- were out of step. Absolutely I do.",
+      "cn": "ខ្ញុំគិតថាចៅក្រមអាក្រក់ទាំងនេះ -- -- គឺផ្តាច់ចេញពីការពិត។ ខ្ញុំពិតជាគិតដូច្នេះមែន។"
+    },
+    {
+      "speaker": "Lulu Garcia-Navarro",
+      "text": "Well, the first thing is these were not illegal immigrants. These were people who were here and were given legal status. They did all the things that they needed to do. Specifically, they got vetted. They have jobs. They are nurses. They are doctors. They are journalists.",
+      "cn": "មែនហើយ ដំបូងបង្អស់ មនុស្សទាំងនេះមិនមែនជាជនអន្តោប្រវេសន៍ខុសច្បាប់ទេ។ ពួកគេជាមនុស្សដែលមានឋានៈស្របច្បាប់នៅទីនេះ។ ពួកគេបានធ្វើអ្វីគ្រប់យ៉ាងដែលត្រូវការ។ ជាពិសេស ពួកគេបានឆ្លងកាត់ការត្រួតពិនិត្យ។ ពួកគេមានការងារធ្វើ។ ពួកគេជាគិលានុបដ្ឋាយិកា វេជ្ជបណ្ឌិត អ្នកសារព័ត៌មាន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm going to put up, while you're talking, an example of the kinds of jobs Haitian TPS holders were doing in this country, 200,000 of them in the U.S. workforce.",
+      "cn": "ខណៈពេលដែលអ្នកកំពុងនិយាយ ខ្ញុំសូមលើកឧទាហរណ៍មួយអំពីប្រភេទការងារដែលអ្នកកាន់ TPS ជនជាតិហៃទីធ្វើនៅក្នុងប្រទេសនេះ ដែលក្នុងនោះមាន 200,000 នាក់នៅក្នុងកម្លាំងពលកម្មអាមេរិក។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Exactly. And so, the idea that -- the problem that I have always with this argument is -- made by conservatives is that they conflate everything, right? It's like, illegal immigrants, TPS holders. It's basically anyone who's brown who has been allowed in this country. We have seen under this administration, basically, refugees, the entire refugee program being suspended and being now handed over to white South Africans.",
+      "cn": "ត្រឹមត្រូវ។ ដូច្នេះ ខ្ញុំតែងតែមានបញ្ហាជាមួយអំណះអំណាងនេះ -- -- ដែលអ្នកអភិរក្សនិយមលើកឡើង -- -- គឺពួកគេលាយអ្វីៗទាំងអស់ចូលគ្នា មែនទេ? ឧទាហរណ៍ ជនអន្តោប្រវេសន៍ខុសច្បាប់ អ្នកកាន់ TPS។ ជាមូលដ្ឋាន គឺមនុស្សស្បែកត្នោតទាំងអស់ដែលត្រូវបានអនុញ្ញាតឱ្យចូលប្រទេសនេះ។ យើងឃើញនៅក្រោមរដ្ឋាភិបាលនេះ ជាមូលដ្ឋាន ជនភៀសខ្លួន កម្មវិធីជនភៀសខ្លួនទាំងមូលត្រូវបានផ្អាក ហើយឥឡូវនេះប្រគល់ឱ្យជនជាតិស្បែកសអាហ្វ្រិកខាងត្បូង។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "What is this about, if not about racial animus? And I think what Elena Kagan was pointing to were the president's very own statements. \"They're eating the dogs. They're eating the cats,\" talking about Haitians who were working. And that was completely fabricated. And so, I think at the end of the day, when you look specifically at a place like Haiti, how can you argue that that is safe for people to go back to?",
+      "cn": "ប្រសិនបើមិនមែនដោយសារអរិភាពជាតិសាសន៍ទេ តើនេះជាអ្វីទៅ? ខ្ញុំគិតថាអ្វីដែលអេឡេណា កាហ្គេន ចង្អុលបង្ហាញគឺពិតជាសុន្ទរកថារបស់ប្រធានាធិបតីខ្លួនឯង។ «ពួកគេកំពុងស៊ីឆ្កែ ពួកគេកំពុងស៊ីឆ្មា» និយាយអំពីជនជាតិហៃទីដែលកំពុងធ្វើការ។ នោះជារឿងប្រឌិតទាំងស្រុង។ ដូច្នេះ ខ្ញុំគិតថានៅទីបញ្ចប់ នៅពេលអ្នកមើលជាក់លាក់ទៅកន្លែងដូចជាហៃទី តើអ្នកអាចនិយាយថាវាមានសុវត្ថិភាពគ្រប់គ្រាន់ក្នុងការបញ្ជូនមនុស្សត្រឡប់ទៅវិញដោយរបៀបណា?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But I hear your point that, again, conflating mass deportation of illegal immigrants --",
+      "cn": "បាទ។ ប៉ុន្តែខ្ញុំបានឮទស្សនៈរបស់អ្នក ជាថ្មីម្តងទៀត ការលាយបញ្ចូលគ្នារវាងការនិរទេសខ្នាតធំនៃជនអន្តោប្រវេសន៍ខុសច្បាប់ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- is that the same as haphazard deportation of legal migrants that you have approved and vetted? And why lump those two together?",
+      "cn": "-- -- តើនេះដូចគ្នានឹងការនិរទេសជនអន្តោប្រវេសន៍ស្របច្បាប់ដែលអ្នកបានអនុម័ត និងត្រួតពិនិត្យរួចហើយដោយបំពានដែរឬទេ? ហេតុអ្វីបានជាត្រូវលាយបញ្ចូលគ្នាទាំងពីរនេះ?"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Well, I do think that we have a massive problem. What, upwards of 20 million people who entered the country illegally under Joe Biden's watch. So, there's --",
+      "cn": "មែនហើយ ខ្ញុំពិតជាគិតថាយើងមានបញ្ហាធំមួយ។ ក្រោមការគ្រប់គ្រងរបស់បៃដិន មានមនុស្សជាង 20 លាននាក់បានចូលមកដោយខុសច្បាប់។ ដូច្នេះ នេះ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, no. I want to repeat --",
+      "cn": "អូ ទេ។ ខ្ញុំចង់និយាយម្តងទៀត -- --"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "-- there's that. There's that -- that -- there's that issue.",
+      "cn": "-- -- មានបញ្ហានេះ។ មានរឿងនោះ -- -- រឿងនោះ -- -- មានបញ្ហានោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- the legal migrants. Why put those together? I just want to make sure you get a chance to answer that point.",
+      "cn": "--  --  ជនអន្តោប្រវេសន៍ស្របច្បាប់។ ហេតុអ្វីបានជាគេដាក់វាជាមួយគ្នា? ខ្ញុំគ្រាន់តែចង់ប្រាកដថាអ្នកមានឱកាសឆ្លើយសំណួរនោះ។"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Yes. Well, if we're going to go back to the Supreme Court decision, ultimately, it comes down to the fact that it's up to the secretary of homeland security to make this decision. And it's not a matter for the courts to review. That's ultimately what --",
+      "cn": "បាទ។ មិនអីទេ បើយើងត្រឡប់ទៅសេចក្តីសម្រេចរបស់តុលាការកំពូលវិញ ទីបំផុតវាមកដល់ចំណុចមួយ គឺថារដ្ឋមន្ត្រីក្រសួងសន្តិសុខមាតុភូមិជាអ្នកធ្វើការសម្រេចចិត្តនេះ។ នេះមិនមែនជាអ្វីដែលតុលាការអាចពិនិត្យបានទេ។ ទីបំផុតនេះគឺ  --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, I think they said it was Congress. But let me just add one more thing.",
+      "cn": "ហ៊ឺម ខ្ញុំគិតថាពួកគេនិយាយថាជាសភា។ ប៉ុន្តែសូមឱ្យខ្ញុំបន្ថែមអ្វីមួយទៀត។"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Congress gave the authority --",
+      "cn": "សភាបានផ្តល់អំណាចនេះដល់  --  --"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "-- to the secretary of homeland security.",
+      "cn": "--  --  រដ្ឋមន្ត្រីក្រសួងសន្តិសុខមាតុភូមិ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me follow Lulu's point.",
+      "cn": "សូមឱ្យខ្ញុំតាមទស្សនៈរបស់លូលូ។"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "And these rogue judges were interfering in that.",
+      "cn": "ហើយចៅក្រមទុច្ចរិតទាំងនោះកំពុងជ្រៀតជ្រែករឿងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Because that's not what they have in their decision here. But, Lulu, I do want to answer something you said about the racial animus. Alito spoke to this directly, and he said, Look, political discourse by prominent public figures is increasingly couched in terms that would have scandalized the public just a short time ago. And he talks about Haitian -- the commentary around Haitians in particular.",
+      "cn": "ព្រោះនៅក្នុងសេចក្តីសម្រេចរបស់ពួកគេមិនមានបញ្ជាក់ពីចំណុចនេះទេ។ ប៉ុន្តែ លូលូ ខ្ញុំពិតជាចង់ឆ្លើយតបនឹងអ្វីដែលអ្នកបានលើកឡើងអំពីបញ្ហាអរិភាពជាតិសាសន៍។ អាលីតូបាននិយាយផ្ទាល់អំពីរឿងនេះ គាត់ថា មើល សុន្ទរកថានយោបាយរបស់បុគ្គលល្បីៗកាន់តែប្រើពាក្យសម្ដីដែលកាលពីពេលថ្មីៗនេះនឹងធ្វើឱ្យសាធារណជនតក់ស្លុត។ គាត់បានលើកឡើងជាពិសេសអំពីមតិយោបល់លើជនជាតិហៃទី។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But he says, \"Whatever one may think of the kinds of statements that the -- the state's lawyers couldn't even repeat in court,\" he says, \"they're insufficient to show that the termination of Haiti's TPS designation was based on the race of the Haitian people.\" So, you could talk about eating the dogs. You can say all kinds of stuff. And they're saying that doesn't necessarily mean that that is what is driving the decision. That it might be the things that he's talking about and that that is across the board.",
+      "cn": "ប៉ុន្តែគាត់បាននិយាយថា៖ «មិនថាមនុស្សមើលឃើញយ៉ាងណាចំពោះសុន្ទរកថាទាំងនេះ  --  --  ដែលមេធាវីរដ្ឋមិនអាចនិយាយឡើងវិញនៅក្នុងតុលាការបានទេ» គាត់ថា «វាមិនគ្រប់គ្រាន់ដើម្បីបញ្ជាក់ថាការបញ្ចប់ស្ថានភាព TPS របស់ហៃទីគឺផ្អែកលើជាតិសាសន៍ហៃទីទេ»។ ដូច្នេះ អ្នកអាចនិយាយអំពីការស៊ីសាច់ឆ្កែ។ អ្នកអាចនិយាយអ្វីក៏បាន។ ហើយពួកគេគិតថាវាមិនមានន័យថានេះជាអ្វីដែលជំរុញការសម្រេចចិត្តនោះទេ។ ប្រហែលជាវាគ្រាន់តែជាអ្វីដែលគាត់និយាយ ហើយវាជារឿងធម្មតា។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Well, because there -- no one could establish definitively in court that we are removing Haitian people because they're Haitian, legally, there -- Justice Alito is making the point that, of course, there's no tie between the two. But -- but, you know, to Lulu's point, look at the president's own statements, literally calling Haiti a shithole country. You cannot -- I think we're being a little bit cute if we look the other way when there is an immigration policy that --",
+      "cn": "ហ៊ឺម ព្រោះ  --  --  គ្មាននរណាម្នាក់អាចបញ្ជាក់នៅក្នុងតុលាការបានច្បាស់លាស់ថាយើងបណ្តេញជនជាតិហៃទីដោយសារពួកគេជាជនជាតិហៃទីទេ តាមផ្លូវច្បាប់ ចៅក្រមអាលីតូបានចង្អុលបង្ហាញថាពិតណាស់គ្មានទំនាក់ទំនងរវាងទាំងពីរនេះទេ។ ប៉ុន្តែ  --  --  ប៉ុន្តែ អ្នកដឹងទេ ចំពោះទស្សនៈរបស់លូលូ មើលសុន្ទរកថាផ្ទាល់ខ្លួនរបស់ប្រធានាធិបតី គាត់ហៅហៃទីថាជាប្រទេសល្មោភកាម។ អ្នកមិនអាច  --  --  ខ្ញុំគិតថា នៅពេលដែលមានគោលនយោបាយអន្តោប្រវេសន៍ បើយើងធ្វើពុតជាមិនឃើញ វាពិតជាឆោតល្ងង់ពេក  --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But this approach on race is consistent for this court.",
+      "cn": "ប៉ុន្តែតុលាការមានវិធីសាស្រ្តនេះចំពោះបញ្ហាជាតិសាសន៍ជាប្រចាំ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Yes. Oh, absolutely.",
+      "cn": "បាទ។ អូ ពិតជាដូច្នេះមែន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. OK. We are going to come back to some of these issues, but stay with us. Because from Sunday school to public school, there is this big debate in Texas over a move to bring Bible stories into the classroom. We're going to talk about that. And then that top FEMA official who once claimed that he teleported to a Waffle House, is now out of a job. And World Cup stunner. Team USA fans not fazed at all after the men's national team was upset in the final minute against Turkey.",
+      "cn": "បាទ។ មិនអីទេ។ យើងនឹងត្រឡប់ទៅរកបញ្ហាមួយចំនួននេះវិញនៅពេលក្រោយ ប៉ុន្តែសូមបន្តតាមដានយើង។ ព្រោះពីសាលាថ្ងៃអាទិត្យដល់សាលារដ្ឋ រដ្ឋតិចសាស់កំពុងជជែកគ្នាយ៉ាងក្តៅគគុកអំពីគំនិតផ្តួចផ្តើមមួយដើម្បីនាំយករឿងព្រះគម្ពីរចូលក្នុងថ្នាក់រៀន។ យើងនឹងពិភាក្សារឿងនេះ។ ហើយមន្ត្រីជាន់ខ្ពស់ FEMA ដែលធ្លាប់អះអាងថាខ្លួនបានផ្លាស់ទីទៅហាង Waffle House ត្រូវបានបណ្តេញចេញ។ ហើយការភ្ញាក់ផ្អើលនៅ World Cup។ ក្រុមបាល់ទាត់បុរសអាមេរិកត្រូវបានក្រុមតួកគីត្រឡប់វិញនៅនាទីចុងក្រោយ ប៉ុន្តែអ្នកគាំទ្រមិនខ្វល់ទាល់តែសោះ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "It's weird to think that we lost, but it didn't really mean anything, and we're still going through first place in our bracket. So, I mean, this experience was phenomenal.",
+      "cn": "គិតថាយើងចាញ់ វាចម្លែក ប៉ុន្តែវាមិនមែនជារឿងធំទេ យើងនៅតែជាប់ចំណាត់ថ្នាក់លេខមួយក្នុងក្រុម។ ដូច្នេះ ខ្ញុំចង់និយាយថា បទពិសោធន៍នេះអស្ចារ្យណាស់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Its now 18 minutes past the hour. This is your morning roundup. Luigi Mangione's attorneys discuss a possible plea deal with prosecutors in his federal case, but sources say the discussions didn't result into an agreement. Mangione is due back in federal court on Monday. And later this morning, the Texas Board of Education will vote on a proposal about adding Bible stories as part of public-school curriculum. Now, it would be required reading for students from elementary all the way through high school.",
+      "cn": "ឥឡូវនេះម៉ោង 18 នាទីក្រោយម៉ោង។ នេះជាសេចក្តីសង្ខេបព័ត៌មានពេលព្រឹករបស់អ្នក។ មេធាវីរបស់ Luigi Mangione កំពុងពិភាក្សាជាមួយព្រះរាជអាជ្ញាសហព័ន្ធអំពីកិច្ចព្រមព្រៀងសារភាពកំហុសដែលអាចកើតមាន ប៉ុន្តែប្រភពព័ត៌មាននិយាយថាការពិភាក្សាមិនបានឈានដល់កិច្ចព្រមព្រៀងទេ។ Mangione នឹងបង្ហាញខ្លួននៅតុលាការសហព័ន្ធម្តងទៀតនៅថ្ងៃចន្ទ។ នៅពេលក្រោយថ្ងៃនេះ ក្រុមប្រឹក្សាអប់រំរដ្ឋតិចសាស់នឹងបោះឆ្នោតលើសំណើមួយដើម្បីបញ្ចូលរឿងព្រះគម្ពីរទៅក្នុងកម្មវិធីសិក្សាសាលារដ្ឋ។ បើអនុម័ត ចាប់ពីបឋមសិក្សាដល់វិទ្យាល័យ សិស្សនឹងត្រូវបានតម្រូវឱ្យអានរឿងទាំងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Supporters call it essential context. Critics warn it blurs the line between church and state. And one of FEMA's most consequential leadership roles is still empty. The man who made this claim is out.",
+      "cn": "អ្នកគាំទ្រហៅវាថាជាចំណេះដឹងផ្ទៃខាងក្រោយចាំបាច់។ អ្នករិះគន់ព្រមានថាវាធ្វើឱ្យព្រិលខ្សែបន្ទាត់រវាងសាសនា និងរដ្ឋ។ ហើយតំណែងដឹកនាំដ៏សំខាន់បំផុតមួយរបស់ទីភ្នាក់ងារគ្រប់គ្រងគ្រាអាសន្នសហព័ន្ធ (FEMA) នៅតែទំនេរ។ អ្នកដែលលើកឡើងពីការអះអាងនេះបានចាកចេញពីតំណែងហើយ។"
+    },
+    {
+      "speaker": "Gregg Phillips",
+      "text": "We had a teleport incident, two of them. The car lifted up and took me where I was going, and I ended up at a Waffle House, like 50 miles away from where I was.",
+      "cn": "យើងមានហេតុការណ៍ផ្លាស់ទីមួយ តាមពិតពីរ។ រថយន្តបានលើកឡើង ហើយនាំខ្ញុំទៅកន្លែងដែលខ្ញុំចង់ទៅ ទីបំផុតខ្ញុំបានទៅដល់ហាង Waffle House មួយ ចម្ងាយប្រហែល 50 ម៉ាយពីកន្លែងដើមរបស់ខ្ញុំ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. So, this came up, saying he teleported to a Waffle House. And guess what? He's out at FEMA. Several sources tell CNN it was not voluntary. DHS saying Gregg Phillips' departure was for personal reasons. And later on CNN THIS MORNING, disaster in Venezuela. Survivors face a humanitarian fight and new hurdles if they try to seek asylum in the U.S. Plus, Team USA's first stumble in the World Cup group stage. They begin play in the knockout round next week. In the meantime, good morning to Chicago.",
+      "cn": "បាទ។ ដូច្នេះ រឿងនេះត្រូវបានលើកឡើង ថាគាត់បានផ្លាស់ទីទៅហាង Waffle House។ អ្នកស្មានមើលថាម៉េច? គាត់បានចាកចេញពី FEMA។ ប្រភពព័ត៌មានជាច្រើនបានប្រាប់ CNN ថានេះមិនមែនជាការស្ម័គ្រចិត្តទេ។ ក្រសួងសន្តិសុខមាតុភូមិបាននិយាយថាការចាកចេញរបស់ Greg Phillips គឺដោយសារហេតុផលផ្ទាល់ខ្លួន។ ក្រោយមកនៅក្នុងកម្មវិធី CNN This Morning៖ គ្រោះមហន្តរាយនៅវ៉េណេស៊ុយអេឡា។ អ្នករស់រានមានជីវិតប្រឈមមុខនឹងការតស៊ូមនុស្សធម៌ និងឧបសគ្គថ្មីៗប្រសិនបើពួកគេព្យាយាមស្វែងរកសិទ្ធិជ្រកកោននៅសហរដ្ឋអាមេរិក។ លើសពីនេះ ការបរាជ័យលើកដំបូងរបស់ក្រុមអាមេរិកក្នុងវគ្គជម្រុះ World Cup។ ពួកគេនឹងចាប់ផ្តើមការប្រកួតវគ្គចែកពូលនៅសប្តាហ៍ក្រោយ។ ទន្ទឹមនឹងនេះ អរុណសួស្តីទីក្រុងឈីកាហ្គោ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, in the World Cup. Team USA has suffered a stunning 3-2 loss to Turkey, because it happened in the final seconds of the match, Turkey snapping a 2-2 tie in the 98th minute to capture their first win of the tournament. Now for the U.S., it was their first loss. The Americans are already advancing onto the next round, and they face Bosnia and Herzegovina next week in San Francisco. Now, Turkey was going home regardless. But was this a blow to the confidence of the men's team?",
+      "cn": "ដូច្នេះ នៅ World Cup។ ក្រុមអាមេរិកបានចាញ់តួកគី 2-3 យ៉ាងសោកស្តាយ ដោយសារការប្រកួតបានប្រែក្លាយនៅវិនាទីចុងក្រោយ តួកគីបានស៊ុតបញ្ចូលទីនៅនាទីទី 98 ដើម្បីបំបែកស្ថានភាពស្មើ 2-2 និងទទួលបានជ័យជម្នះលើកដំបូងរបស់ពួកគេក្នុងព្រឹត្តិការណ៍នេះ។ សម្រាប់ក្រុមអាមេរិក នេះជាការបរាជ័យលើកដំបូងរបស់ពួកគេ។ ជនជាតិអាមេរិកបានឡើងទៅវគ្គបន្ទាប់រួចហើយ ពួកគេនឹងប្រកួតជាមួយបូស្នៀ និងហឺហ្សេហ្គូវីណានៅសាន់ហ្វ្រាន់ស៊ីស្កូនៅសប្តាហ៍ក្រោយ។ ហើយតួកគីនឹងត្រឡប់ទៅផ្ទះវិញដោយមិនគិតពីលទ្ធផល។ ប៉ុន្តែតើនេះបានប៉ះពាល់ដល់ទំនុកចិត្តរបស់ក្រុមបុរសដែរឬទេ?"
+    },
+    {
+      "speaker": "Sebastian Berhalter",
+      "text": "I think you saw the second half, how we came out. And, you know, I think they deserve more like one moment. You know, we slipped in the last second of the game. And you know, I think we're proud of the goals put in. You know I think the guys, you know, did well. And you know, we fought. And you know, unfortunate not to get the result. But we'll be ready for sure.",
+      "cn": "ខ្ញុំគិតថាអ្នកបានឃើញពីរបៀបដែលយើងចេញមកក្នុងតង់ទីពីរ។ ហើយ អ្នកដឹងទេ ខ្ញុំគិតថាពួកគេសមនឹងទទួលបានពេលវេលាមួយ។ អ្នកដឹងទេ យើងធ្វើខុសនៅវិនាទីចុងក្រោយនៃការប្រកួត។ ហើយ អ្នកដឹងទេ យើងមានមោទនភាពចំពោះគ្រាប់បាល់ដែលយើងស៊ុតបាន។ អ្នកដឹងទេ ខ្ញុំគិតថាកីឡាករធ្វើបានល្អ។ ហើយ អ្នកដឹងទេ យើងបានប្រយុទ្ធ។ អ្នកដឹងទេ ជាអកុសលមិនទទួលបានលទ្ធផលទេ។ ប៉ុន្តែយើងប្រាកដជាត្រៀមខ្លួនជាស្រេច។"
+    },
+    {
+      "speaker": "Brenden Aaronson",
+      "text": "You can always take these things as fuel. You know, having that moment, you know, in the last one where they score, it's -- it's tough. You know, we wanted to walk away with, you know, no loss in the group stage. But, you know, we've got to take it as it was still a fantastic group stage.",
+      "cn": "អ្នកតែងតែអាចយករឿងទាំងនេះធ្វើជាកម្លាំងចិត្ត។ អ្នកដឹងទេ នៅពេលចុងក្រោយដែលពួកគេស៊ុតបាន វាពិបាកណាស់។ អ្នកដឹងទេ យើងចង់ចាកចេញដោយមិនចាញ់ក្នុងវគ្គជម្រុះ។ ប៉ុន្តែ អ្នកដឹងទេ យើងត្រូវទទួលយកវា វានៅតែជាវគ្គជម្រុះដ៏អស្ចារ្យ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, Will Leitch is here to help me translate. He's a contributing editor at \"New York Magazine,\" columnist with \"The Washington Post.\" You are my World Cup whisperer. And thanks to the -- the Knicks, I'm -- I'm scared of, like, momentum killers. Do you know what I mean? Like, I'm unnecessarily freaked out, but no one else is, I've noticed. Why is that? WILL LEITCH, COLUMNIST, \"WASHINGTON POST\": Yes, certainly. Coach Mauricio Pochettino, who's Argentinian, he talked to a lot of reporters after the game.",
+      "cn": "ដូច្នេះ Will Leitch នៅទីនេះដើម្បីជួយបកប្រែឱ្យខ្ញុំ។ គាត់ជាអ្នកនិពន្ធបន្ថែមរបស់ទស្សនាវដ្តី New York និងជាអ្នកសរសេរអត្ថបទរបស់កាសែត Washington Post។ អ្នកគឺជាអ្នកអត្ថាធិប្បាយ World Cup របស់ខ្ញុំ។ អរគុណ Knicks ខ្ញុំខ្លាចរឿងដែលបំផ្លាញសន្ទុះ។ អ្នកយល់ពីអ្វីដែលខ្ញុំចង់និយាយទេ? ដូចជា ខ្ញុំមានអារម្មណ៍ភ័យស្លន់ស្លោដោយគ្មានហេតុផល ប៉ុន្តែខ្ញុំសង្កេតឃើញថាអ្នកផ្សេងទៀតមិនមានអារម្មណ៍បែបនេះទេ។ ហេតុអ្វី? Will Leitch អ្នកសរសេរអត្ថបទ Washington Post៖ បាទ ពិតណាស់។ គ្រូបង្វឹកជនជាតិអាហ្សង់ទីន Mauricio Pochettino បានទទួលសំភាសន៍ពីអ្នកសារព័ត៌មានជាច្រើនបន្ទាប់ពីការប្រកួត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He was very confused, because he was, like, why are you so negative? We won the group. And I'm like, well, you're welcome to a dealing with the American media. But yes, at a certain level he is -- he's right. The U.S. won their group. They actually played almost none of their starters last night, not only to rest them, but also strategic reason. Remember, a lot of those players had yellow cards.",
+      "cn": "គាត់មានការងឿងឆ្ងល់យ៉ាងខ្លាំង ព្រោះគាត់មានអារម្មណ៍ថា ហេតុអ្វីបានជាអ្នកមានអារម្មណ៍អវិជ្ជមានម្ល៉េះ? យើងបានឈ្នះវគ្គជម្រុះ។ ហើយខ្ញុំគិតថា មិនអីទេ សូមស្វាគមន៍មកកាន់បទពិសោធន៍ជាមួយប្រព័ន្ធផ្សព្វផ្សាយអាមេរិក។ ប៉ុន្តែតាមពិត ក្នុងកម្រិតខ្លះគាត់និយាយត្រូវ។ ក្រុមអាមេរិកបានឈ្នះវគ្គជម្រុះ។ កាលពីយប់មិញ ពួកគេស្ទើរតែមិនបានដាក់កីឡាករច Shirt ដំបូងណាមួយឡើយ មិនត្រឹមតែដើម្បីឱ្យពួកគេសម្រាកប៉ុណ្ណោះទេ ប៉ុន្តែក៏ដោយសារហេតុផលយុទ្ធសាស្ត្រផងដែរ។ ចូរចាំថា កីឡាករជាច្រើនមានប័ណ្ណលឿង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Those yellow cards reset -- reset after this round, which means they're clear to play and don't have to worry about missing the next round. The goal of this was to keep everyone healthy to -- to, to make sure that Pulisic was able to come in and play and be a little healthy. He showed that he was fine. The result, certainly, they would have liked to have won, I suppose, but it really didn't make any difference. Turkey didn't have anything to play either -- play for either. The U.S.",
+      "cn": "កាតលឿងទាំងនោះត្រូវបានសូន្យ -- បន្ទាប់ពីការប្រកួតជុំនេះ ពួកគេត្រូវបានសូន្យ មានន័យថាពួកគេអាចលេងដោយសុវត្ថិភាព ដោយមិនបារម្ភពីការខកខានជុំបន្ទាប់។ គោលបំណងគឺធ្វើឱ្យអ្នករាល់គ្នាមានសុខភាពល្អ ធានាថា Pulisic អាចចូលលេង និងរក្សាសុខភាពបានល្អ។ គាត់បានបង្ហាញថាគាត់មានសុខភាពល្អ។ ចំពោះលទ្ធផល ពួកគេពិតជាចង់ឈ្នះ ប៉ុន្តែខ្ញុំគិតថាវាមិនសំខាន់ទេ។ ក្រុមតួកគីក៏គ្មានអ្វីត្រូវប្រកួតប្រជែងដែរ។ ក្រុមសហរដ្ឋអាមេរិក"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "was set and locked in to play in their game on Wednesday, no matter what happened in this game. And the coach kind of sort of treated it that way.",
+      "cn": "គាត់ត្រូវបានបញ្ជាក់ថានឹងចូលរួមប្រកួតនៅថ្ងៃពុធ ដោយមិនគិតពីលទ្ធផលនៃការប្រកួតនេះទេ។ ហើយគ្រូបង្វឹកក៏បានដោះស្រាយដូច្នេះដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right, here's a fan with their assessment, which I found super interesting. So, here it is.",
+      "cn": "ល្អហើយ នេះជាមតិរបស់អ្នកគាំទ្រម្នាក់ ដែលខ្ញុំគិតថាគួរឱ្យចាប់អារម្មណ៍ណាស់។ ដូច្នេះ សូមមើលទៅ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Again, I think today, they showed that even their second string could come in and compete against a world-class team. We're so excited for the next round. I think we're going to beat maybe Bosnia-Herzegovina. We're going to play hard. We're going to crush them. It's going to be awesome.",
+      "cn": "និយាយម្តងទៀត ខ្ញុំគិតថាថ្ងៃនេះពួកគេបានបង្ហាញថាសូម្បីតែក្រុមបម្រុងក៏អាចប្រកួតប្រជែងជាមួយក្រុមលំដាប់ពិភពលោកបានដែរ។ យើងរំភើបណាស់ចំពោះការប្រកួតជុំបន្ទាប់។ ខ្ញុំគិតថាយើងអាចឈ្នះបូស្នៀបាន។ យើងនឹងខំប្រឹងអស់ពីសមត្ថភាព។ យើងនឹងកម្ទេចពួកគេ។ វានឹងល្អណាស់។"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "Awesome. Thank you so much.",
+      "cn": "ល្អណាស់។ អរគុណច្រើន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's the first part of that. Even their second team can compete against a world-class team. I feel like we should underscore that, given just how advanced the women's game on the U.S. side has been for so long. But people haven't talked about men the same way. So, help me parse what this fan is saying.",
+      "cn": "នេះជាផ្នែកទីមួយ។ សូម្បីតែក្រុមបម្រុងរបស់ពួកគេក៏អាចប្រកួតប្រជែងជាមួយក្រុមលំដាប់ពិភពលោកបានដែរ។ ខ្ញុំគិតថាយើងគួរតែសង្កត់ធ្ងន់លើចំណុចនេះ ពីព្រោះក្រុមបាល់ទាត់នារីអាមេរិកបានឈរនៅជួរមុខជាយូរមកហើយ។ ប៉ុន្តែមនុស្សមិនបាននិយាយអំពីក្រុមបាល់ទាត់បុរសតាមរបៀបដូចគ្នាទេ។ ដូច្នេះ សូមជួយខ្ញុំវិភាគពីអ្វីដែលអ្នកគាំទ្រនេះកំពុងនិយាយ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Yes, there really was. And listen, you know, think of like maybe Tyler Kolek, to use our Knicks example, playing a lot and being kind of hold-up. This speaks so much to how much progress the U.S. national team has made. Again, they're clearly not as good as the women's team, but realize for years and years and years in the World Cup, the U.S. has played a very defensive game. They've just tried to kind of not lose. That's not -- they've been very aggressive this entire time. They were aggressive last night.",
+      "cn": "បាទ ពិតមែន។ ស្តាប់ អ្នកដឹងទេ គិតពីឧទាហរណ៍ Tyler Colak ដោយប្រើឧទាហរណ៍ពីក្រុម Knicks របស់យើង គាត់លេងច្រើន ប៉ុន្តែយឺតបន្តិច។ នេះបង្ហាញពីវឌ្ឍនភាពដ៏ធំរបស់ក្រុមជម្រើសជាតិអាមេរិក។ និយាយម្តងទៀត ពួកគេច្បាស់ជាមិនសូវល្អដូចក្រុមនារីទេ ប៉ុន្តែត្រូវដឹងថា នៅក្នុង World Cup ក្រុមអាមេរិកបានលេងយ៉ាងប្រុងប្រយ័ត្នអស់រយៈពេលជាច្រើនឆ្នាំ។ ពួកគេគ្រាន់តែព្យាយាមមិនចាញ់។ ប៉ុន្តែលើកនេះពួកគេមានភាពសកម្មខ្លាំង។ យប់មិញពួកគេសកម្មណាស់។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Frankly, they were actually the better team last night. The result didn't show that. But generally speaking, they were better pretty much across the board. Pulisic, again, looked so good in his short time in. These are all the backups, and I think those -- they're going to be fully rested for the game on Wednesday. That's the idea. There was a time where the starters for the U.S. national team could not compete on the national stage.",
+      "cn": "និយាយដោយត្រង់ទៅ យប់មិញពួកគេពិតជាក្រុមដែលលេងបានល្អជាង។ លទ្ធផលមិនបានឆ្លុះបញ្ចាំងពីចំណុចនេះទេ។ ប៉ុន្តែសរុបមក ពួកគេពូកែជាងស្ទើរតែគ្រប់ផ្នែក។ Pulisic បានលេងបានល្អម្តងទៀតក្នុងរយៈពេលខ្លីដែលគាត់បានចូលលេង។ ទាំងនេះគឺជាកីឡាករបម្រុង ហើយខ្ញុំគិតថាពួកគេនឹងបានសម្រាកពេញលេញសម្រាប់ការប្រកួតថ្ងៃពុធ។ នោះហើយជាគោលបំណង។ កាលពីមុន សូម្បីតែកីឡាករច Shirt ដំបូងរបស់ក្រុមជម្រើសជាតិអាមេរិកក៏មិនអាចប្រកួតប្រជែងនៅលើឆាកអន្តរជាតិបានដែរ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Now, the backups not only were able to compete, they really were the better team for most of the team [SIC] last night in a game that, again, did not matter and was treated that way by everyone. Most of all, the coach.",
+      "cn": "ឥឡូវនេះ កីឡាករបម្រុងមិនត្រឹមតែអាចប្រកួតប្រជែងបានប៉ុណ្ណោះទេ ប៉ុន្តែនៅក្នុងការប្រកួតដែលគ្មានសារៈសំខាន់កាលពីយប់មិញ ដែលមនុស្សគ្រប់គ្នាចាត់ទុកដូច្នេះ ពួកគេពិតជាក្រុមដែលលេងបានល្អជាងក្នុងរយៈពេលភាគច្រើន។ ជាពិសេសគ្រូបង្វឹក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And one other thing. Will. You and I talked last year about whether the U.S. would become a kind of sports villain, right? With its threats against Greenland, starting up things against Venezuela or, you know, with Iran. That -- I think we were wrong. That's not turned out to be the case. It's been kind of a love fest.",
+      "cn": "ហើយរឿងមួយទៀត។ Will កាលពីឆ្នាំមុន យើងបានពិភាក្សាថាតើអាមេរិកនឹងក្លាយជាប្រភេទនៃមនុស្សអាក្រក់ក្នុងវិស័យកីឡាដែរឬទេ? ដោយសារតែការគំរាមកំហែងរបស់ខ្លួនទៅកាន់ Greenland ការបង្កហេតុទៅកាន់ Venezuela ឬ Iran។ ខ្ញុំគិតថាយើងខុស។ វាមិនមែនដូច្នោះទេ។ ផ្ទុយទៅវិញ វាបានក្លាយជាពិធីជប់លៀងនៃសេចក្តីស្រឡាញ់។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "It really has. You know, a lot of the worries that people had heading into this World Cup -- from, like, ICE showing up at events or -- or even Trump kind of going with the Knicks idea, showing up and kind of distracting. None of that's happened yet. Now we are not even to the knockout stage yet. But certainly, you know, one of the fun things about the U.S. men's national team, they are something that Americans generally think of themselves as being, but aren't: underdogs. Like, they are kind of a growth stock.",
+      "cn": "ពិតមែន។ អ្នកដឹងទេ មនុស្សមានការព្រួយបារម្ភជាច្រើនមុន World Cup នេះ -- -- ដូចជាការបង្ហាញខ្លួនរបស់ ICE នៅកន្លែងប្រកួត ឬ Trump ស្រាប់តែលើកគំនិតអំពីក្រុម Knicks មកបង្ហាញខ្លួន និងបង្វែរការយកចិត្តទុកដាក់។ រឿងទាំងនេះមិនបានកើតឡើងទេ។ ឥឡូវនេះយើងមិនទាន់ដល់វគ្គចែកពូលទេ។ ប៉ុន្តែអ្វីដែលប្រាកដនោះគឺ ចំណុចគួរឱ្យចាប់អារម្មណ៍មួយរបស់ក្រុមជម្រើសជាតិបុរសអាមេរិកគឺថា ពួកគេតំណាងឱ្យអ្វីដែលជនជាតិអាមេរិកច្រើនតែគិតថាខ្លួនឯងជា ប៉ុន្តែតាមពិតមិនមែនទេ៖ ភាគីខ្សោយ។ ពួកគេដូចជាភាគហ៊ុនកំពុងលូតលាស់។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "They're a fun team to get excited. Because while they can compete on the world stage, they're not a favorite like a Spain or a France or an England. But they are good, and they are getting better. Those are fun teams to root for. We always think of ourselves as Rocky Balboa. var CNN = CNN || {}; WILL LEITCH, CONTRIBUTING EDITOR, \"NEW YORK MAGAZINE\": They can't compete on the world stage if they are not a favorite like a Spain or a France or an England, but they are good and they are getting better.",
+      "cn": "ពួកគេជាក្រុមដ៏គួរឱ្យរំភើប។ ពីព្រោះទោះបីជាពួកគេអាចប្រកួតប្រជែងនៅលើឆាកពិភពលោកបានក៏ដោយ ក៏ពួកគេមិនមែនជាក្រុមដែលគេពេញចិត្តដូចជា Spain, France ឬ England ដែរ។ ប៉ុន្តែពួកគេល្អ ហើយកំពុងតែប្រសើរឡើង។ ក្រុមបែបនេះគួរតែត្រូវបានគាំទ្រ។ យើងតែងតែស្រមៃថាខ្លួនយើងជា Rocky Balboa។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Those are fun teams to root for. We always think of ourselves as Rocky Balboa, but usually we're not.",
+      "cn": "ក្រុមបែបនេះគួរតែត្រូវបានគាំទ្រ។ យើងតែងតែស្រមៃថាខ្លួនយើងជា Rocky Balboa ប៉ុន្តែជាធម្មតាយើងមិនមែនទេ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "In the closest there we are. Like, this is the closest you kind of get for that. We are this -- the closest as a U.S. national team will ever get to being Hoosiers. So, that's a fun team to kind of get excited and cheer.",
+      "cn": "លើកនេះជិតបំផុតហើយ។ នេះជាលើកដែលក្រុមជម្រើសជាតិអាមេរិកជិតក្លាយជាក្រុមដូចនៅក្នុងរឿង \"Hoosiers\" បំផុត។ ដូច្នេះ វាជាក្រុមដែលគួរឱ្យរំភើប និងគួរតែត្រូវបានគាំទ្រ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Good reference. Will Leitch, thank you so much.",
+      "cn": "ការប្រៀបធៀបល្អ។ Will Leitch អរគុណច្រើន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Straight ahead on CNN THIS MORNING, we're going to follow up on what's going on with the Strait of Hormuz. The U.S. accusing Iran of attacking a vessel and pausing U.N. efforts to evacuate ships. Plus, why did J.D. Vance downplay the impact of Watergate?",
+      "cn": "បន្ទាប់នៅក្នុងកម្មវិធី CNN This Morning យើងនឹងតាមដានស្ថានភាពនៅច្រកសមុទ្រ Hormuz។ អាមេរិកចោទប្រកាន់អ៊ីរ៉ង់ថាបានវាយប្រហារកប៉ាល់មួយ ហើយបានផ្អាកកិច្ចខិតខំប្រឹងប្រែងជម្លៀសកប៉ាល់របស់អង្គការសហប្រជាជាតិ។ លើសពីនេះ ហេតុអ្វីបានជា J.D. Vance មើលស្រាលឥទ្ធិពលនៃរឿង Watergate?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Developing this morning, a ship has struck the Strait of Hormuz. A ship has been struck in the Strait of Hormuz. The U.S. is pointing the finger at Iran, saying one of their drones hit the cargo ship. It's the first strike since the U.S. and Iran agreed to work towards a peace deal. Now, the incident happened as shipping traffic was just starting to pick up. Just days after the U.S. lifted sanctions on Iranian oil, allowing Tehran to sell oil in dollars for the first time in decades.",
+      "cn": "ព័ត៌មានថ្មីបំផុតនៅព្រឹកនេះ កប៉ាល់មួយត្រូវបានវាយប្រហារនៅច្រកសមុទ្រ Hormuz។ អាមេរិកចោទប្រកាន់អ៊ីរ៉ង់ថា យន្តហោះគ្មានមនុស្សបើករបស់ខ្លួនបានវាយប្រហារកប៉ាល់ដឹកទំនិញនេះ។ នេះជាការវាយប្រហារលើកដំបូងចាប់តាំងពីអាមេរិក និងអ៊ីរ៉ង់បានយល់ព្រមខិតខំឈានដល់កិច្ចព្រមព្រៀងសន្តិភាព។ ព្រឹត្តិការណ៍នេះកើតឡើងនៅពេលដែលចរាចរណ៍ដឹកជញ្ជូនទើបតែចាប់ផ្តើមស្តារឡើងវិញ។ ប៉ុន្មានថ្ងៃបន្ទាប់ពីអាមេរិកបានដកទណ្ឌកម្មប្រេងរបស់អ៊ីរ៉ង់ ដោយអនុញ្ញាតឱ្យទីក្រុង Tehran លក់ប្រេងជាដុល្លារអាមេរិកជាលើកដំបូងក្នុងរយៈពេលជាច្រើនទសវត្សរ៍។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, we're bringing in CNN's Paula Hancocks. Paula, as I said, consequential day, the lifting of sanctions. And then at the same time, you've got this strike occurring in the Strait of Hormuz. Can you talk about what that means for the ability of these negotiations to go on if there's still threats to the ships from passing through?",
+      "cn": "យើងភ្ជាប់ទំនាក់ទំនងជាមួយ Paula Hancocks នៃ CNN។ Paula ដូចដែលខ្ញុំបាននិយាយ ថ្ងៃនេះជាថ្ងៃសំខាន់ ការដាក់ទណ្ឌកម្មត្រូវបានដកចេញ។ ក្នុងពេលជាមួយគ្នានេះ មានការវាយប្រហារនៅច្រកសមុទ្រ Hormuz។ ប្រសិនបើកប៉ាល់នៅតែប្រឈមមុខនឹងការគំរាមកំហែងនៅពេលឆ្លងកាត់ តើនេះមានន័យយ៉ាងណាចំពោះការបន្តការចរចា?"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "So, Audie, it had been going so well in the Strait of Hormuz this week. With this latest strike, there were no casualties. There's no environmental damage. But the hit to confidence in the shipping industry is pretty significant. There was an evacuation that was underway by the U.N., by the international maritime organization to try and get the vessels and more than 11,000 seafarers who had been stuck in the Persian Gulf since the start of the war out into the open waters. Now that had begun.",
+      "cn": "Oti ស្ថានភាពនៅច្រកសមុទ្រ Hormuz ក្នុងសប្តាហ៍នេះបានដំណើរការយ៉ាងរលូន។ ការវាយប្រហារថ្មីបំផុតនេះមិនបណ្តាលឱ្យមានអ្នកស្លាប់ ឬរបួស និងគ្មានការខូចខាតបរិស្ថានទេ។ ប៉ុន្តែផលប៉ះពាល់ដល់ទំនុកចិត្តរបស់ឧស្សាហកម្មដឹកជញ្ជូនគឺធំធេងណាស់។ អង្គការសហប្រជាជាតិ និងអង្គការដឹកជញ្ជូនតាមសមុទ្រអន្តរជាតិពីមុនកំពុងរៀបចំការជម្លៀស ដោយព្យាយាមឱ្យកប៉ាល់ និងនាវិកជាង 11,000 នាក់ដែលជាប់គាំងនៅឈូងសមុទ្រពែរ្សតាំងពីដើមសង្គ្រាម ចេញទៅកាន់សមុទ្របើកចំហ។ ការជម្លៀសបានចាប់ផ្តើមហើយ។"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "We saw on Wednesday some 70 vessels managed to transit through the Strait of Hormuz. But now that there has been this strike, that is all on hold. The U.N. saying they're halting this evacuation. They said the safety of the seafarers is the most important. They need more clarity. Now, Iran hasn't claimed responsibility at this point for this strike on the vessel, which the U.S. says was done by an Iranian drone.",
+      "cn": "នៅថ្ងៃពុធ យើងបានឃើញកប៉ាល់ប្រហែល 70 គ្រឿងឆ្លងកាត់ច្រកសមុទ្រ Hormuz ដោយជោគជ័យ។ ប៉ុន្តែឥឡូវនេះមានការវាយប្រហារនេះកើតឡើង អ្វីៗត្រូវបានផ្អាក។ អង្គការសហប្រជាជាតិបាននិយាយថាពួកគេកំពុងបញ្ឈប់ការជម្លៀសនេះ។ ពួកគេនិយាយថាសុវត្ថិភាពរបស់នាវិកគឺសំខាន់បំផុត។ ពួកគេត្រូវការព័ត៌មានច្បាស់លាស់បន្ថែមទៀត។ បច្ចុប្បន្ននេះ អ៊ីរ៉ង់មិនទាន់ទទួលខុសត្រូវចំពោះការវាយប្រហារនេះទេ ខណៈដែលអាមេរិកនិយាយថាការវាយប្រហារនេះត្រូវបានអនុវត្តដោយយន្តហោះគ្មានមនុស្សបើករបស់អ៊ីរ៉ង់។"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "But what we heard just hours before this strike happened was the Revolutionary Guard in Iran saying that they couldn't guarantee safe passage for any vessel that wasn't using their route through the Strait of Hormuz. They want vessels to be going along the northern part of the Strait of Hormuz, so they have to go through Tehran, they have to fill in the forms that Tehran gives them, rather than the southern part, which is hugging the coast of Oman, which, understandably, most vessels are going through.",
+      "cn": "ប៉ុន្តែប៉ុន្មានម៉ោងមុនការវាយប្រហារនេះ យើងបានឮកងឆ្មាំបដិវត្តន៍អ៊ីរ៉ង់និយាយថា ពួកគេមិនអាចធានាសុវត្ថិភាពនៃកប៉ាល់ណាដែលមិនឆ្លងកាត់ផ្លូវដែលពួកគេបានកំណត់នៅច្រកសមុទ្រ Hormuz នោះទេ។ ពួកគេចង់ឱ្យកប៉ាល់ធ្វើដំណើរតាមភាគខាងជើងនៃច្រកសមុទ្រ Hormuz ដូច្នេះពួកគេត្រូវតែឆ្លងកាត់ទីក្រុង Tehran បំពេញទម្រង់ដែលផ្តល់ដោយទីក្រុង Tehran ជំនួសឱ្យការធ្វើដំណើរតាមភាគខាងត្បូងជិតឆ្នេរ Oman ដែលជាផ្លូវដែលកប៉ាល់ភាគច្រើនធ្វើដំណើរ។"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "So, this really throws into doubt now the U.S. president's claim that the Strait of Hormuz is open and that it is free. And it really brings a halt to what we had seen earlier in this week with the Strait of Hormuz seeing a number of vessels coming through. The oil price dipping because of that. And, of course, gas prices as well dipping slightly. Now, what we've heard from the U.S. secretary of state, Marco Rubio, he's just been in this region.",
+      "cn": "ដូច្នេះ នេះពិតជាធ្វើឱ្យសេចក្តីថ្លែងការណ៍របស់ប្រធានាធិបតីអាមេរិកដែលថាច្រកសមុទ្រ Hormuz បើកចំហ និងសេរី ត្រូវបានចោទសួរ។ នេះក៏ធ្វើឱ្យការឆ្លងកាត់កប៉ាល់ជាច្រើនតាមច្រកសមុទ្រ Hormuz ដែលយើងបានឃើញកាលពីដើមសប្តាហ៍នេះ ត្រូវបានបញ្ឈប់ភ្លាមៗ។ តម្លៃប្រេងបានធ្លាក់ចុះដោយសារតែរឿងនេះ ហើយជាការពិតណាស់ តម្លៃសាំងក៏ធ្លាក់ចុះបន្តិចដែរ។ ឥឡូវនេះ យើងបានឮរដ្ឋមន្ត្រីការបរទេសអាមេរិក Marco Rubio ទើបតែបានទៅបំពេញទស្សនកិច្ចនៅតំបន់នេះ។"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "He was meeting some of the gulf nations who were really hardest hit by Iran in their retaliation during the war. And he has said that no country on earth should be able to claim responsibility over an international waterway. But that does appear to be exactly what Iran wants to do. It says that it's in talks with Oman, which is on the other side of the water. But Oman's foreign minister says that they support international law. They support a toll-free system.",
+      "cn": "គាត់បានជួបជាមួយបណ្តាប្រទេសឈូងសមុទ្រមួយចំនួន ដែលជាប្រទេសដែលរងការវាយប្រហារខ្លាំងបំផុតពីការសងសឹករបស់អ៊ីរ៉ង់ក្នុងអំឡុងសង្គ្រាម។ គាត់បាននិយាយថា គ្មានប្រទេសណាមួយក្នុងពិភពលោកគួរតែទាមទារសិទ្ធិអំណាចលើផ្លូវទឹកអន្តរជាតិឡើយ។ ប៉ុន្តែនេះហាក់ដូចជាអ្វីដែលអ៊ីរ៉ង់ចង់ធ្វើ។ អ៊ីរ៉ង់និយាយថាខ្លួនកំពុងចរចាជាមួយ Oman នៅម្ខាងទៀតនៃផ្លូវទឹក។ ប៉ុន្តែរដ្ឋមន្ត្រីការបរទេស Oman បាននិយាយថា ពួកគេគាំទ្រច្បាប់អន្តរជាតិ និងគាំទ្រប្រព័ន្ធឆ្លងកាត់ដោយសេរី។"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "So, at this point, Tehran is really out on its own when it is saying that it wants vessels to use its route. And of course, there is the issue of mines in the Strait of Hormuz as well. Presumably why no vessels are wanting to go through the center of this waterway. But it does throw into doubt the talks that have been ongoing.",
+      "cn": "ដូច្នេះ នៅចំណុចនេះ ការអះអាងរបស់ទីក្រុងតេហេរ៉ង់ថាចង់ឲ្យនាវាប្រើប្រាស់ផ្លូវទឹករបស់ខ្លួន គឺពិតជាឯកោណាស់។ ជាការពិតណាស់ ក៏មានបញ្ហាមីននៅច្រកសមុទ្រហ៊រមូសផងដែរ។ នេះប្រហែលជាមូលហេតុដែលគ្មាននាវាណាចង់ឆ្លងកាត់កណ្តាលផ្លូវទឹកនេះទេ។ ប៉ុន្តែវាពិតជានាំមកនូវភាពមិនច្បាស់លាស់ដល់ការចរចាដែលកំពុងបន្ត។"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "We heard from Secretary Rubio as well that that he's given a statement with the gulf nations here really widening the remit, also pointing out they have to deal with Iran's missiles and its use of proxies. Audie.",
+      "cn": "យើងក៏បានឮរដ្ឋមន្ត្រីការបរទេស Rubio ចេញសេចក្តីថ្លែងការណ៍ជាមួយប្រទេសឈូងសមុទ្រ ពង្រីកវិសាលភាព និងបញ្ជាក់ថាពួកគេត្រូវតែដោះស្រាយជាមួយមីស៊ីលរបស់អ៊ីរ៉ង់ និងការប្រើប្រាស់ភ្នាក់ងាររបស់ខ្លួន។ អូទី។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's Paula Hancocks from Abu Dhabi. Thank you. I want to turn to this. The U.S. forces being sent to Venezuela as the nation deals with the aftermath of two devastating earthquakes. The death toll climbed to more than 230 people. It is still expected to rise. The country's health minister saying more than 4,300 people are injured. Rescue efforts ongoing, with hundreds of people trapped under rubble or missing. And Venezuelans are not only reeling from the physical destruction of their country.",
+      "cn": "ល្អ នេះគឺ Paula Hancock មកពី Abu Dhabi ។ សូមអរគុណ។ ខ្ញុំចង់ប្តូរទៅប្រធានបទមួយទៀត។ កងទ័ពអាមេរិកត្រូវបានបញ្ជូនទៅ Venezuela ដែលកំពុងដោះស្រាយផលវិបាកនៃការរញ្ជួយដីដ៏សាហាវពីរ។ ចំនួនអ្នកស្លាប់បានកើនឡើងដល់ជាង 230 នាក់ ហើយគេរំពឹងថានឹងកើនឡើងទៀត។ រដ្ឋមន្ត្រីសុខាភិបាលប្រទេសបាននិយាយថា មនុស្សជាង 4300 នាក់បានរងរបួស។ កិច្ចខិតខំប្រឹងប្រែងជួយសង្គ្រោះកំពុងដំណើរការ ហើយមនុស្សរាប់រយនាក់ត្រូវបានកប់នៅក្រោមគំនរបាក់បែក ឬបាត់ខ្លួន។ ប្រជាជន Venezuelan មិនត្រឹមតែភ្ញាក់ផ្អើលដោយសារការបំផ្លិចបំផ្លាញរូបវន្តរបស់ប្រទេសប៉ុណ្ណោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Critics say there's also a vacuum of authority in the country with the burden of rescue and relief efforts falling on civil organizations and schools and local churches and families. Joining me now, Mariana Atencio. She's a Venezuelan journalist, author and speaker. Thank you so much for being with us. I'm so sorry it's under these circumstances because I know you have friends and family still in Venezuela. What have you heard from them?",
+      "cn": "អ្នករិះគន់និយាយថា មានអំណាចទំនេរនៅក្នុងប្រទេស ហើយបន្ទុកនៃការជួយសង្គ្រោះ និងជំនួយសង្គ្រោះបានធ្លាក់ទៅលើអង្គការសង្គមស៊ីវិល សាលារៀន ព្រះវិហារក្នុងស្រុក និងគ្រួសារ។ ឥឡូវនេះ សូមស្វាគមន៍ Mariana Atencio ។ នាងជាអ្នកកាសែត អ្នកនិពន្ធ និងជាវាគ្មិន Venezuelan ។ សូមអរគុណយ៉ាងជ្រាលជ្រៅដែលបានចូលរួមកម្មវិធីរបស់យើង។ សុំទោសដែលស្ថិតក្នុងស្ថានភាពនេះ ព្រោះខ្ញុំដឹងថាអ្នកនៅតែមានមិត្តភក្តិ និងក្រុមគ្រួសារនៅ Venezuela ។ តើអ្នកបានឮអ្វីខ្លះពីពួកគេ?"
+    },
+    {
+      "speaker": "Mariana Atencio",
+      "text": "Audie, these have been the most harrowing few days for Venezuelans. On the ground, local organizations estimate the number of missing could climb to 40,000 people. I'm seeing images of children that are left completely orphaned. And you stated it, there is a power vacuum in Venezuela right now. The worst hit areas of La Guaira. There's -- that's the coastal area. There's no heavy machinery. Neighbors are digging their own family members out of the rubble by hand. Hospitals are overwhelmed.",
+      "cn": "Oti នេះជាថ្ងៃដ៏ឈឺចាប់បំផុតសម្រាប់ប្រជាជន Venezuelan ។ នៅក្នុងស្រុក អង្គការក្នុងស្រុកប៉ាន់ស្មានថាចំនួនអ្នកបាត់ខ្លួនអាចកើនឡើងដល់ 40,000 នាក់។ ខ្ញុំបានឃើញកុមារខ្លះក្លាយជាកំព្រាទាំងស្រុង។ ដូចដែលអ្នកបាននិយាយ បច្ចុប្បន្នមានអំណាចទំនេរនៅ Venezuela ។ តំបន់ដែលរងផលប៉ះពាល់ខ្លាំងបំផុតគឺ La Guaira ដែលជាតំបន់ឆ្នេរ។ មិនមានគ្រឿងចក្រធុនធ្ងន់នៅទីនោះទេ។ អ្នកជិតខាងកំពុងជីកយកសាច់ញាតិរបស់ពួកគេចេញពីគំនរបាក់បែកដោយដៃទទេ។ មន្ទីរពេទ្យកំពុងផ្ទុកលើសទម្ងន់។"
+    },
+    {
+      "speaker": "Mariana Atencio",
+      "text": "They're treating the wounded in the streets because this earthquake is hitting a country that had nothing left to absorb it. And we're talking about a health system that's collapsed after years of crisis.",
+      "cn": "ពួកគេកំពុងព្យាបាលអ្នករបួសនៅតាមដងផ្លូវ ពីព្រោះការរញ្ជួយដីនេះបានវាយប្រហារប្រទេសមួយដែលគ្មានអ្វីសល់ទៀតហើយ។ យើងកំពុងនិយាយអំពីប្រព័ន្ធសុខាភិបាលដែលបានដួលរលំបន្ទាប់ពីមានវិបត្តិជាច្រើនឆ្នាំ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You know, it's such a moment to be talking about this because here in the U.S. the Venezuelan asylum seekers who are already here, they've had their status terminated. We talked about that earlier, happening to Syrians and Haitians and others. But the U.S. now has a very peculiar relationship with Venezuela. Is there any sign of it now that the country is suffering?",
+      "cn": "អ្នកដឹងទេ ពេលនេះជាពេលវេលាពិសេសមួយដើម្បីនិយាយអំពីរឿងនេះ ពីព្រោះនៅសហរដ្ឋអាមេរិក ស្ថានភាពរបស់អ្នកស្វែងរកសិទ្ធិជ្រកកោន Venezuelan ដែលនៅទីនេះរួចហើយត្រូវបានបញ្ចប់។ យើងបានពិភាក្សាពីមុនថា រឿងដដែលនេះបានកើតឡើងចំពោះជនជាតិស៊ីរី ហៃទី និងអ្នកដទៃទៀត។ ប៉ុន្តែឥឡូវនេះ សហរដ្ឋអាមេរិកមានទំនាក់ទំនងពិសេសជាមួយ Venezuela ។ ឥឡូវនេះប្រទេសនេះកំពុងរងទុក្ខ តើមានសញ្ញាណាមួយថាទំនាក់ទំនងនឹងផ្លាស់ប្តូរទេ?"
+    },
+    {
+      "speaker": "Atencio",
+      "text": "So Rubio said the response will be big, fast, effective. President Trump called Venezuela our new and great friends. They've, of course, pledged $150 million in aid. But at the same time, I can speak for a diaspora of nearly eight million people, being sent back doesn't mean being sent back home right now. It means going back to rubble. So, it is ironic that the same week that Venezuela becomes a disaster zone, the U.S. is closing the door, TPS, for roughly 300,000 Venezuelans already terminated.",
+      "cn": "ដូច្នេះ Rubio បាននិយាយថា ការឆ្លើយតបនឹងមានទ្រង់ទ្រាយធំ រហ័ស និងមានប្រសិទ្ធភាព។ ប្រធានាធិបតី Trump បានហៅ Venezuela ថាជាមិត្តថ្មីដ៏អស្ចារ្យរបស់យើង។ ជាការពិតណាស់ ពួកគេបានសន្យាផ្តល់ជំនួយចំនួន 150 លានដុល្លារ។ ប៉ុន្តែក្នុងពេលជាមួយគ្នានេះ ខ្ញុំអាចនិយាយជំនួសជនភៀសខ្លួនប្រហែល 8 លាននាក់ថា ការធ្វើមាតុភូមិនិវត្តន៍មិនមានន័យថាត្រលប់ទៅផ្ទះវិញភ្លាមៗនោះទេ។ វាមានន័យថាត្រលប់ទៅគំនរបាក់បែកវិញ។ ដូច្នេះ គួរឱ្យអស់សំណើចណាស់ នៅសប្តាហ៍ដដែលដែល Venezuela ក្លាយជាតំបន់គ្រោះមហន្តរាយ សហរដ្ឋអាមេរិកបានបិទទ្វារ ដោយបញ្ចប់ស្ថានភាពការពារបណ្តោះអាសន្នសម្រាប់ជនជាតិ Venezuelan ប្រហែល 300,000 នាក់។"
+    },
+    {
+      "speaker": "Atencio",
+      "text": "And that is what TPS is created for, Audie, temporary protected status. I mean, the Congressional Hispanic Caucus even made the same point in a letter to Rubio and Trump saying, the removals to a country in the midst of a disaster zone like this are untenable. And I'll bring up one more point in terms of the relationship with the U.S., which I think is critically important. And it's also this idea of, you are pledging all of this aid.",
+      "cn": "ហើយនេះជាអ្វីដែលស្ថានភាពការពារបណ្តោះអាសន្នត្រូវបានបង្កើតឡើងសម្រាប់ Oti ។ ខ្ញុំចង់និយាយថា សម្ព័ន្ធមិត្ត Hispanic នៅក្នុងសភាថែមទាំងបានលើកឡើងពីចំណុចដូចគ្នានេះនៅក្នុងលិខិតមួយផ្ញើទៅ Rubio និង Trump ដោយនិយាយថា ការធ្វើមាតុភូមិនិវត្តន៍មនុស្សទៅកាន់ប្រទេសដែលស្ថិតក្នុងគ្រោះមហន្តរាយបែបនេះគឺមិនអាចទៅរួចទេ។ ខ្ញុំចង់លើកឡើងចំណុចមួយទៀតអំពីទំនាក់ទំនងជាមួយសហរដ្ឋអាមេរិក ដែលខ្ញុំគិតថាសំខាន់ណាស់។ នោះគឺអ្នកបានសន្យាផ្តល់ជំនួយទាំងអស់នេះ។"
+    },
+    {
+      "speaker": "Atencio",
+      "text": "This new regime, or new and great friends, need to be held accountable for how they administer that aid, but also for who they are locking up inside of Venezuela. There's around 500 to 600 innocent political prisoners that they are still holding behind bars. Those people, in the midst of this disaster, should be released to their families immediately.",
+      "cn": "របបថ្មីនេះ ឬមិត្តថ្មីដ៏អស្ចារ្យ ត្រូវតែទទួលខុសត្រូវចំពោះរបៀបដែលពួកគេគ្រប់គ្រងជំនួយ ក៏ដូចជាអ្នកដែលពួកគេបានឃុំខ្លួននៅក្នុង Venezuela ។ បច្ចុប្បន្ននេះ នៅតែមានអ្នកទោសនយោបាយស្លូតត្រង់ប្រហែល 500 ទៅ 600 នាក់នៅក្នុងពន្ធនាគារ។ ក្នុងគ្រោះមហន្តរាយនេះ មនុស្សទាំងនេះគួរតែត្រូវបានដោះលែងភ្លាមៗ ឱ្យត្រឡប់ទៅគ្រួសាររបស់ពួកគេវិញ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Just one other thing. Delcy Rodriguez, we're talking about a vacuum. There is interim leadership. Leadership who had even been there under Maduro. Is the sense right now that they have an inability to or they are not capable of dealing with this moment?",
+      "cn": "រឿងមួយទៀត។ Delcy Rodriguez យើងកំពុងនិយាយអំពីអំណាចទំនេរ។ មានថ្នាក់ដឹកនាំបណ្តោះអាសន្ន។ ថ្នាក់ដឹកនាំទាំងនេះមានតាំងពីសម័យ Maduro មកម្ល៉េះ។ ឥឡូវនេះ តើមានអារម្មណ៍ថាពួកគេគ្មានសមត្ថភាព ឬមិនអាចដោះស្រាយពេលនេះបានទេ?"
+    },
+    {
+      "speaker": "Atencio",
+      "text": "We can't really call this a government, Audie. This is -- this is a regime that has operated for years as a cartel that has been laundering money, stealing from Venezuelans, and has plundered our oil industry and our health system. So, this does not function like a regular government. This is a very big test for Delcy Rodriguez.",
+      "cn": "យើងមិនអាចហៅរឿងនេះថាជារដ្ឋាភិបាលបានទេ Oti ។ នេះជារបបដែលដំណើរការដូចក្រុមឧក្រិដ្ឋជនអស់រយៈពេលជាច្រើនឆ្នាំ ដោយកំពុងលាងលុយ លួចទ្រព្យសម្បត្តិរបស់ប្រជាជន Venezuelan និងប្លន់យកឧស្សាហកម្មប្រេង និងប្រព័ន្ធសុខាភិបាលរបស់យើង។ ដូច្នេះ វាមិនដំណើរការដូចរដ្ឋាភិបាលធម្មតាទេ។ នេះជាការសាកល្បងដ៏ធំមួយសម្រាប់ Delcy Rodriguez ។"
+    },
+    {
+      "speaker": "Atencio",
+      "text": "But on the ground, what you are seeing are churches, our neighbors really just rising up to this moment, regular people, because the government has really an inability to respond to a crisis of this scale. So, it remains to be seen how they will mount a response and how they will administer the aid. But already I'm hearing very worrying reports of them saying that the aid should not be administered by opposition figures on the ground.",
+      "cn": "ប៉ុន្តែនៅក្នុងទីតាំងជាក់ស្តែង អ្វីដែលអ្នកឃើញគឺព្រះវិហារ អ្នកជិតខាងរបស់យើងដែលកំពុងតែឈានមុខគេ ប្រជាជនសាមញ្ញ ពីព្រោះរដ្ឋាភិបាលពិតជាគ្មានសមត្ថភាពក្នុងការដោះស្រាយវិបត្តិទ្រង់ទ្រាយធំបែបនេះទេ។ ដូច្នេះ ត្រូវរង់ចាំមើលថាតើពួកគេនឹងរៀបចំការឆ្លើយតប និងគ្រប់គ្រងជំនួយដោយរបៀបណា។ ប៉ុន្តែខ្ញុំបានឮរបាយការណ៍គួរឱ្យព្រួយបារម្ភរួចហើយថា ពួកគេនិយាយថាជំនួយមិនគួរត្រូវបានគ្រប់គ្រងដោយតួរលេខបក្សប្រឆាំងនៅក្នុងទីតាំងជាក់ស្តែងនោះទេ។"
+    },
+    {
+      "speaker": "Atencio",
+      "text": "And this is a moment when Venezuela needs to come together as a nation to be able to overcome this incredible test.",
+      "cn": "ហើយនេះជាពេលវេលាដែល Venezuela ត្រូវការរួបរួមគ្នា និងយកឈ្នះលើការសាកល្បងដ៏ធំនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's journalist Mariana Atencio. Thank you. And if you are watching right now, and you want to know how you can help with the victims for the Venezuelan earthquake, I want you to go to cnn.com/impact. You can also just text the word \"quake\" to 707070. And next on CNN THIS MORNING, there's a new progressive voice rising. And Darializa Chevalier wins big in New York. Why some are saying she's the next AOC.",
+      "cn": "ល្អ នោះគឺអ្នកកាសែត Mariana Atencio ។ សូមអរគុណ។ ប្រសិនបើអ្នកកំពុងមើល ហើយចង់ដឹងពីរបៀបជួយជនរងគ្រោះដោយការរញ្ជួយដីនៅ Venezuela សូមចូលទៅកាន់ cnn.com/impact ។ អ្នកក៏អាចផ្ញើសារ \"quake\" ទៅ 707070 ។ បន្ទាប់នៅក្នុងកម្មវិធី CNN This Morning នឹងមានសំឡេងរីកចម្រើនថ្មីមួយ។ Daryalisa Chevalier បានឈ្នះយ៉ាងធំនៅ New York ។ ហេតុអ្វីបានជាអ្នកខ្លះនិយាយថានាងជា AOC បន្ទាប់?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Plus, Vice President Vance drawing criticism after saying the Watergate scandal would have been a blip in today's news cycle. And in the next hour on CNN NEWS CENTRAL, a Boeing 777 flies close to the ground in Texas. The FAA investigation now underway. REP. MIKE LAWLER (R-NY): I think it's a disaster for Democrats. I mean they took out very progressive Democratic members in favor of socialists.",
+      "cn": "លើសពីនេះទៀត អនុប្រធានាធិបតី Vance ត្រូវបានរិះគន់ចំពោះការនិយាយថា Watergate នឹងក្លាយជារឿងតូចតាចនៅក្នុងវដ្តព័ត៌មានសព្វថ្ងៃនេះ។ នៅម៉ោងបន្ទាប់នៅក្នុងកម្មវិធី CNN News Central យន្តហោះ Boeing 777 ហោះហើរកម្រិតទាបនៅ Texas ។ ការស៊ើបអង្កេតរបស់ FAA កំពុងដំណើរការ។ តំណាងរាស្ត្រ Mike Lawler (R-NY)៖ ខ្ញុំគិតថានេះជាគ្រោះមហន្តរាយសម្រាប់គណបក្សប្រជាធិបតេយ្យ។ ខ្ញុំចង់និយាយថា ពួកគេបានលុបបំបាត់សមាជិកប្រជាធិបតេយ្យដែលរីកចម្រើនខ្លាំង ហើយជំនួសដោយអ្នកសង្គមនិយម។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Does the right have a new boogeyman? Democratic socialist Darializa Avila Chevalier, fresh off her big win Tuesday, now looking to the general. But DAC's comments about deportation, borders, prisons and past tweets are making her a target for not only the right but those in her party. One centrist Democrat put it like this, \"if AOC was this Tea Party's Ted Cruz, yes, DAC is this Tea Party's MTG.\" I know it's a lot. \"It's less substance and more about a sense that this person is unhinged and indefensible.\" REP.",
+      "cn": "តើសិទ្ធិនិយមមានសត្រូវស្រមើស្រមៃថ្មីទេ? អ្នកសង្គមនិយមប្រជាធិបតេយ្យ Daryalisa Avila Chevalier បន្ទាប់ពីទទួលបានជ័យជម្នះដ៏ធំនៅថ្ងៃអង្គារ ឥឡូវនេះកំពុងសម្លឹងមើលការបោះឆ្នោតសកល។ ប៉ុន្តែសុន្ទរកថារបស់ DAC អំពីការនិរទេស ព្រំដែន ពន្ធនាគារ និង Tweet កន្លងមក ធ្វើឱ្យនាងក្លាយជាគោលដៅមិនត្រឹមតែសម្រាប់សិទ្ធិនិយមប៉ុណ្ណោះទេ ប៉ុន្តែក៏សម្រាប់អ្នកខ្លះនៅក្នុងគណបក្សផងដែរ។ អ្នកប្រជាធិបតេយ្យកណ្តាលម្នាក់បាននិយាយថា៖ \"ប្រសិនបើ AOC គឺជា Ted Cruz នៃ Tea Party នោះ DAC គឺជា MTG នៃ Tea Party។\" ខ្ញុំដឹងថាវាស្មុគស្មាញ។ \"វាច្រើនជាងអំពីអារម្មណ៍ដែលមនុស្សនេះវិកលចរិត និងមិនអាចការពារបាន ជាជាងខ្លឹមសារ។\""
+    },
+    {
+      "speaker": "Cornish",
+      "text": "ALEXANDRIA OCASIO-CORTE (D-NY): I feel like it's deja vu all over again. There was so much fear around that when I was elected. And none of it bore out to be true. Voters vote for what is happening in their community and what's on their ballot. And I think that any candidate of any party that's running their own race has the responsibility to run their race.",
+      "cn": "Alexandria Ocasio-Cortez (D-NY)៖ ខ្ញុំមានអារម្មណ៍ថានេះដូចជាប្រវត្តិសាស្ត្រកើតឡើងវិញ។ ពេលខ្ញុំជាប់ឆ្នោត មានការភ័យខ្លាចជុំវិញខ្លួន។ ប៉ុន្តែគ្មានការភ័យខ្លាចណាមួយក្លាយជាការពិតទេ។ អ្នកបោះឆ្នោតបោះឆ្នោតដោយផ្អែកលើអ្វីដែលកំពុងកើតឡើងនៅក្នុងសហគមន៍របស់ពួកគេ និងអ្វីដែលមាននៅលើសន្លឹកឆ្នោត។ ខ្ញុំគិតថា បេក្ខជននៃគណបក្សណាមួយ ដែលកំពុងឈរឈ្មោះសម្រាប់តំណែងរបស់ខ្លួន មានទំនួលខុសត្រូវក្នុងការផ្តោតលើយុទ្ធនាការរបស់ខ្លួន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Group chat is back. I wanted to talk about this analogy because we're mentioning these names, Ted Cruz or AOC or MTG. Like, once you get into office, you have to deal with the realities of being in office and your positions change from when you are -- not your positions change, your tone and tenor can change depending. Lulu, what do you see in the way people have been talking about this particular candidate this week? Does it, like AOC says, feel familiar?",
+      "cn": "ល្អ ការសន្ទនាជាក្រុមបានត្រលប់មកវិញហើយ។ ខ្ញុំចង់និយាយអំពីការប្រៀបធៀបនេះ ពីព្រោះយើងបានលើកឡើងពីឈ្មោះទាំងនេះ៖ Ted Cruz, AOC ឬ MTG ។ នៅពេលអ្នកចូលការិយាល័យ អ្នកត្រូវតែប្រឈមមុខនឹងការពិតនៃការកាន់តំណែង ជំហររបស់អ្នកនឹងផ្លាស់ប្តូរ -- -- មិនមែនជំហរផ្លាស់ប្តូរទេ ប៉ុន្តែសម្លេង និងទឹកដមរបស់អ្នកនឹងផ្លាស់ប្តូរទៅតាមស្ថានភាព។ Lulu សប្តាហ៍នេះ តើអ្នកឃើញអ្វីខ្លះអំពីរបៀបដែលមនុស្សនិយាយអំពីបេក្ខជនជាក់លាក់នេះ? តើវាដូចជា AOC បាននិយាយថា មានអារម្មណ៍ដូចជា déjà vu ដែរឬទេ?"
+    },
+    {
+      "speaker": "Lulu Garcia-Navarro",
+      "text": "It feels familiar. It wasn't a hot minute after she was elected that the right was just -- like you could -- they could not contain their joy. This is an absolute gift, in their view, to them. She has positions that are wildly out of the mainstream. I mean, let's be honest about this.",
+      "cn": "មានអារម្មណ៍ដូចជា déjà vu ។ មិនយូរប៉ុន្មានបន្ទាប់ពីនាងជាប់ឆ្នោត សិទ្ធិនិយម -- -- ដូចជាអ្នក -- -- ពួកគេស្ទើរតែមិនអាចលាក់កំណើតភាពរីករាយរបស់ពួកគេបានទេ។ តាមទស្សនៈរបស់ពួកគេ នេះពិតជាអំណោយមួយ។ ជំហររបស់នាងគឺនៅឆ្ងាយពីចរន្តសំខាន់ទាំងស្រុង។ ខ្ញុំចង់និយាយថា សូមឲ្យយើងស្មោះត្រង់អំពីរឿងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And just to be clear. So, here's \"The New York Post\" tying her -- or tying just sort of Democratic socialists to Hochul, who's generally not a person I think of in that way. We're bringing in Marxism. We're going all the way. Socialism's not good enough.",
+      "cn": "បាទ។ ហើយត្រូវការបញ្ជាក់ចំណុចមួយ។ ដូច្នេះ New York Post បានភ្ជាប់នាង  --  ឬអ្នកសង្គមនិយមប្រជាធិបតេយ្យ  --  ជាមួយ Hochul ដែលជាធម្មតាមិនមែនជាមនុស្សប្រភេទនោះនៅក្នុងគំនិតរបស់ខ្ញុំទេ។ យើងបានណែនាំ Marxism។ យើងបានធ្វើអ្វីៗគ្រប់យ៉ាង។ Socialism មិនទាន់ល្អគ្រប់គ្រាន់ទេ។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "I mean they're basically saying that they're going to target this. I mean -- what --",
+      "cn": "ខ្ញុំចង់និយាយថា ពួកគេកំពុងនិយាយថាពួកគេនឹងផ្តោតលើចំណុចនេះ។ ខ្ញុំចង់និយាយថា -- -- អ្វី -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But that makes sense too.",
+      "cn": "ប៉ុន្តែនេះក៏សមហេតុផលដែរ។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Yes, I mean the Democratic socialist project, and this is by their own admission, is that they do want a civil war with the Democratic Party. They think the Democratic Party has lost its way and they want to overtake it. And they think that it has not been forceful enough in pushing a very progressive agenda. That is different in some ways than making --",
+      "cn": "បាទ/ចាស ខ្ញុំមានន័យថា ផែនការសង្គមនិយមប្រជាធិបតេយ្យ ហើយពួកគេខ្លួនឯងក៏ទទួលស្គាល់ដែរថា ពួកគេពិតជាចង់ធ្វើសង្គ្រាមស៊ីវិលជាមួយគណបក្សប្រជាធិបតេយ្យ។ ពួកគេគិតថាគណបក្សប្រជាធិបតេយ្យបានបាត់បង់ទិសដៅ ហើយពួកគេចង់ជំនួសវា។ ពួកគេគិតថាគណបក្សប្រជាធិបតេយ្យមិនខ្លាំងគ្រប់គ្រាន់ក្នុងការជំរុញរបៀបវារៈរីកចម្រើនខ្លាំងនោះទេ។ នេះខុសគ្នាត្រង់ខ្លះពី  --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Darializa the sort of poster child of this.",
+      "cn": "ដារីយ៉ាលីហ្សាគឺជាតំណាងធម្មតាក្នុងរឿងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, then let me play one thing for you, because James Carville has always got to enter the chat.",
+      "cn": "អញ្ចឹង ខ្ញុំនឹងឲ្យអ្នកស្តាប់មួយវគ្គ ព្រោះ James Carville តែងតែចង់ចូលរួមពិភាក្សា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Here he is, what he has to say",
+      "cn": "នេះជាអ្វីដែលគាត់បាននិយាយ។"
+    },
+    {
+      "speaker": "James Carville",
+      "text": "This Chevalier lady, I don't -- they should not seat her in the caucus. All of these people hate Democrats. Why do they want to run as a Democrat? Start your own movement. If it's such a powerful, sweeping movement that's got momentum everywhere, then go ahead and be at the head of it. Don't use the Democratic Party to advance it.",
+      "cn": "ស្ត្រីជាអ្នកជិះសេះនេះ ខ្ញុំមិន -- ខ្ញុំមិន -- ពួកគេមិនគួរអនុញ្ញាតឱ្យនាងចូលរួមកិច្ចប្រជុំគណបក្សទេ។ មនុស្សទាំងអស់នេះស្អប់គណបក្សប្រជាធិបតេយ្យ។ ហេតុអ្វីបានជាពួកគេចង់ឈរឈ្មោះជាសមាជិកគណបក្សប្រជាធិបតេយ្យ? ចាប់ផ្តើមចលនាផ្ទាល់ខ្លួនរបស់អ្នក។ ប្រសិនបើនេះជាចលនាដ៏ខ្លាំងក្លា ដែលគ្របដណ្តប់អ្វីៗទាំងអស់ និងមានសន្ទុះគ្រប់ទីកន្លែង ចូរដឹកនាំវា។ កុំប្រើគណបក្សប្រជាធិបតេយ្យដើម្បីជំរុញវា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Rob, I got to ask you, because I've asked Republicans all week who may have deja vu from MAGA and Tea Party, does that work to just be like, y'all go somewhere else? I mean Donald Trump's president now. ROB BLUEY, PRESIDENT AND EXECUTIVE EDITOR, \"THE DAILY SIGNAL\": Donald Trump is president. You have the House Freedom Caucus, which is a group that exerted its power, right? When you have these narrow margins.",
+      "cn": "Rob ខ្ញុំត្រូវសួរអ្នក ព្រោះខ្ញុំបានសួរអ្នកសាធារណរដ្ឋពេញមួយសប្តាហ៍ ពួកគេប្រហែលជាមានអារម្មណ៍ដូចជា déjà vu ជាមួយ MAGA និង Tea Party ការនិយាយថា \"អ្នកទាំងអស់គ្នាទៅកន្លែងផ្សេងទៅ\" តើវាមានប្រសិទ្ធភាពទេ? ខ្ញុំចង់និយាយថា លោក Donald Trump ជាប្រធានាធិបតីឥឡូវនេះ។ Rob Bluey ប្រធាន និងជានិពន្ធនាយកនៃ The Daily Signal៖ លោក Donald Trump ជាប្រធានាធិបតី។ ហើយមាន House Freedom Caucus ដែលជាក្រុមដែលប្រើអំណាច មែនទេ? នៅពេលដែលអ្នកមានសំឡេងភាគច្រើនតិចតួច។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I mean, Hakeem Jeffries, right now, is probably looking at a big headache if he were to become speaker next year because he's going to have a large number of now Democratic socialists who would be able to hijack the floor and really set an agenda.",
+      "cn": "ខ្ញុំចង់និយាយថា Hakeem Jeffries ប្រហែលជាកំពុងប្រឈមមុខនឹងបញ្ហាធំមួយ ប្រសិនបើគាត់ក្លាយជាប្រធានសភានៅឆ្នាំក្រោយ ព្រោះគាត់នឹងមានសមាជិកសង្គមនិយមប្រជាធិបតេយ្យជាច្រើន ដែលអាចដណ្តើមយកសភា និងកំណត់របៀបវារៈពិតប្រាកដ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And if you look at that party's platform, not party, but I mean if you look at the Democratic socialist platform, I mean they have quite radical ideas, which I agree are out of step with not only independent and mainstream voters, but probably the Democratic Party as large.",
+      "cn": "ប្រសិនបើអ្នកក្រឡេកមើលគោលនយោបាយរបស់គណបក្សនោះ មិនមែនគណបក្សទេ តែប្រសិនបើអ្នកក្រឡេកមើលគោលនយោបាយរបស់អ្នកសង្គមនិយមប្រជាធិបតេយ្យ ខ្ញុំចង់និយាយថាពួកគេមានគំនិតរ៉ាឌីកាល់គួរសម ដែលខ្ញុំយល់ស្របថាមិនត្រឹមតែផ្តាច់ចេញពីអ្នកបោះឆ្នោតឯករាជ្យ និងមេស្ទ្រីមប៉ុណ្ណោះទេ ប៉ុន្តែប្រហែលជាផ្តាច់ចេញពីគណបក្សប្រជាធិបតេយ្យទាំងមូល។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We'll at least, while you're talking, put up this \"New York Times\" polling piece. They were asked, should Democratic Party be -- move more to the center or to the left? And I have to admit, I wasn't surprised about the Republican thoughts on that. But the independent thoughts, 77 percent, at least of these people polled, saying more to the center. And even Democrats, it's 44 percent to the center.",
+      "cn": "យ៉ាងហោចណាស់ ខណៈពេលដែលអ្នកកំពុងនិយាយ យើងដាក់អត្ថបទស្ទង់មតិរបស់ New York Times នេះ។ ពួកគេត្រូវបានសួរថា តើគណបក្សប្រជាធិបតេយ្យគួរតែ -- គួរតែផ្លាស់ទីទៅកណ្តាល ឬទៅឆ្វេង? ខ្ញុំត្រូវតែទទួលស្គាល់ថា ខ្ញុំមិនភ្ញាក់ផ្អើលនឹងគំនិតរបស់អ្នកសាធារណរដ្ឋទេ។ ប៉ុន្តែគំនិតរបស់អ្នកឯករាជ្យ 77% យ៉ាងហោចណាស់ក្នុងចំណោមអ្នកឆ្លើយសំណួរទាំងនេះ និយាយថាផ្លាស់ទីទៅកណ្តាល។ សូម្បីតែអ្នកប្រជាធិបតេយ្យ 44% និយាយថាទៅកណ្តាល។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And this is the split. The most enthusiastic and loudest in the primaries aren't maybe necessarily the people who are polled or who will be appearing in the general.",
+      "cn": "នេះជាការបែកបាក់។ អ្នកដែលមានភាពក្លៀវក្លា និងឮខ្លាំងជាងគេក្នុងការបោះឆ្នោតបឋម មិនមែនជាអ្នកដែលត្រូវបានស្ទង់មតិ ឬនឹងបង្ហាញខ្លួនក្នុងការបោះឆ្នោតទូទៅនោះទេ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Yes. Nothing is shocking about those numbers here, partly because, of course, people in the center want a bigger center. It's a common American theme. Now, it's interesting that I think both of you had mentioned both the Tea Party and MAGA, and there are echoes of that here. There's a party in the wilderness. People -- there's discontent in the country. And folks from the outside just want to push their party in their direction. That's exactly what happened both times and led to Donald Trump to some extent.",
+      "cn": "បាទ។ តួលេខទាំងនេះមិនគួរឱ្យភ្ញាក់ផ្អើលទាល់តែសោះ ដោយសារតែផ្នែកខ្លះ ពិតណាស់ អ្នកកណ្តាលចង់បានកណ្តាលធំជាង។ នេះជាប្រធានបទអាមេរិកទូទៅ។ ឥឡូវនេះ អ្វីដែលគួរឱ្យចាប់អារម្មណ៍ ខ្ញុំគិតថាអ្នកទាំងពីរបានលើកឡើងពី Tea Party និង MAGA មានស្រមោលរបស់ពួកគេនៅទីនេះ។ មានគណបក្សមួយនៅក្រៅរដ្ឋាភិបាល។ មនុស្ស -- មនុស្ស -- មានការមិនពេញចិត្តនៅក្នុងប្រទេសនេះ។ អ្នកខាងក្រៅគ្រាន់តែចង់រុញគណបក្សរបស់ពួកគេទៅទិសដៅរបស់ពួកគេ។ នេះជាអ្វីដែលបានកើតឡើងពីរដង ហើយក្នុងកម្រិតខ្លះបាននាំឱ្យមានលោក Donald Trump។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "You know, now, I -- does this lead to a Democratic socialist president? I think perhaps that's unlikely right now.",
+      "cn": "អ្នកដឹងទេ ឥឡូវនេះ ខ្ញុំ -- ខ្ញុំ -- តើនេះនឹងនាំឱ្យមានប្រធានាធិបតីសង្គមនិយមប្រជាធិបតេយ្យម្នាក់ទេ? ខ្ញុំគិតថាវាមិនទំនងទេនៅពេលនេះ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "We've seen these kinds of movements before.",
+      "cn": "យើងធ្លាប់ឃើញចលនាប្រភេទនេះពីមុនមក។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "I also just want to say that turnout was extremely low in these elections that brought these Democratic socialists out.",
+      "cn": "ខ្ញុំក៏ចង់និយាយដែរថា នៅក្នុងការបោះឆ្នោតទាំងនេះដែលជ្រើសរើសអ្នកសង្គមនិយមប្រជាធិបតេយ្យ អត្រាអ្នកទៅបោះឆ្នោតគឺទាបខ្លាំងណាស់។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "This was a very, very marginal election where very few people came out to vote. And the people who came out to vote were the most motivated young people who are very far left.",
+      "cn": "នេះជាការបោះឆ្នោតដែលមានរឹមតូចចង្អៀតខ្លាំងណាស់ ដោយមានមនុស្សតិចណាស់ដែលទៅបោះឆ្នោត។ ហើយអ្នកដែលចេញមកបោះឆ្នោតគឺជាយុវជនដែលសកម្មបំផុត ដែលមានទំនោរទៅឆ្វេងខ្លាំង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Right. But I still care about it because lots of people look to New York for political playbooks. Things they do sometimes gets exported to other campaigns around the country.",
+      "cn": "ត្រឹមត្រូវ។ ប៉ុន្តែខ្ញុំនៅតែខ្វល់អំពីវា ព្រោះមនុស្សជាច្រើនពឹងផ្អែកលើរដ្ឋញូវយ៉កសម្រាប់យុទ្ធសាស្ត្រនយោបាយ។ ពេលខ្លះអ្វីដែលពួកគេធ្វើត្រូវបានផ្សព្វផ្សាយទៅកាន់យុទ្ធនាការផ្សេងទៀតនៅទូទាំងប្រទេស។"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "And Mayor Mamdani --",
+      "cn": "ហើយអភិបាលក្រុង Mamdani --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Wait one second. I'm still talking about 2028.",
+      "cn": "ចាំបន្តិច។ ខ្ញុំនៅតែនិយាយអំពីឆ្នាំ 2028។"
+    },
+    {
+      "speaker": "Ok. Cornish",
+      "text": "I want to come to this thing about J.D. Vance, because he's still been on tour with his book. He's making some claims now about Richard Nixon, the 37th president. The vice president was promoting at the New York presidential -- the Nixon Presidential Library in Yorba Linda, California. This was Thursday. And he was talking all about his admiration for Nixon, who, of course, is best known for resigning in disgrace.",
+      "cn": "ខ្ញុំចង់និយាយអំពី J.D. Vance ព្រោះគាត់នៅតែធ្វើដំណើរផ្សព្វផ្សាយសៀវភៅរបស់គាត់។ ឥឡូវនេះគាត់បានធ្វើសុន្ទរកថាខ្លះៗអំពីប្រធានាធិបតីទី 37 គឺលោក Richard Nixon។ អនុប្រធានាធិបតីរូបនេះបានធ្វើយុទ្ធនាការនៅឯបណ្ណាល័យប្រធានាធិបតី Nixon ក្នុងទីក្រុង Yorba Linda រដ្ឋកាលីហ្វ័រញ៉ា កាលពីថ្ងៃព្រហស្បតិ៍។ គាត់បាននិយាយយ៉ាងវែងអំពីការកោតសរសើរចំពោះ Nixon ដែលពិតណាស់ត្រូវបានគេស្គាល់ថាបានលាលែងពីតំណែងដោយអាម៉ាស់។"
+    },
+    {
+      "speaker": "J.D. Vance",
+      "text": "If Watergate happened tomorrow, it would be like a 12-hour news story. Like, the idea that it would have taken down a presidency is crazy. And by the way, if you look at the story of how the deep state took down Richard Nixon, it's not all that different from what the same groups of people, the same institutions, tried to do to Donald Trump in the first Trump administration. There is a parallel.",
+      "cn": "ប្រសិនបើរឿង Watergate កើតឡើងនៅថ្ងៃស្អែក វានឹងក្លាយជារឿងព័ត៌មានរយៈពេល 12 ម៉ោងប៉ុណ្ណោះ។ គំនិតដែលថាវាអាចផ្តួលរំលំរដ្ឋបាលប្រធានាធិបតីគឺឆ្កួត។ និយាយអញ្ចឹង ប្រសិនបើអ្នកក្រឡេកមើលរឿងរ៉ាវអំពីរបៀបដែល deep state ផ្តួលរំលំ Richard Nixon វាមិនខុសពីអ្វីដែលក្រុមមនុស្សដដែល និងស្ថាប័នដដែលបានព្យាយាមធ្វើចំពោះ Donald Trump ក្នុងអំឡុងរដ្ឋបាលដំបូងរបស់គាត់នោះទេ។ មានភាពស្រដៀងគ្នា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Group chat is back. There's a couple of Republicans, I mean maybe not still alive, but who might quibble with being called the deep state? Fundamentally, Nixon went down because of a bipartisan conversation about what happened, no?",
+      "cn": "ការសន្ទនាជាក្រុមបានត្រលប់មកវិញ។ មានអ្នកសាធារណរដ្ឋមួយចំនួន -- ខ្ញុំចង់និយាយថាប្រហែលជានៅរស់ -- ប៉ុន្តែអាចមានការជំទាស់ចំពោះការហៅថា deep state? ជាមូលដ្ឋាន ការដួលរលំរបស់ Nixon គឺដោយសារតែការពិភាក្សាពីរគណបក្សអំពីអ្វីដែលបានកើតឡើង មែនទេ?"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Sure. Well, I -- yes. So, I say a couple of things on this. Number one, let's remember historically that Richard Nixon greatly expanded government. And conservatives were no fan of Richard Nixon for the creation of the EPA and other government agencies. So, I think we do need to put that in the historical context.",
+      "cn": "ពិតណាស់។ អញ្ចឹង ខ្ញុំ -- បាទ។ ដូច្នេះ ខ្ញុំនិយាយពីរបីចំណុចអំពីរឿងនេះ។ ទីមួយ សូមចងចាំពីទស្សនៈប្រវត្តិសាស្ត្រថា Richard Nixon បានពង្រីករដ្ឋាភិបាលយ៉ាងខ្លាំង។ អ្នកអភិរក្សនិយមមិនចូលចិត្ត Richard Nixon ទេ ព្រោះគាត់បានបង្កើត EPA និងទីភ្នាក់ងាររដ្ឋាភិបាលផ្សេងទៀត។ ដូច្នេះ ខ្ញុំគិតថាយើងត្រូវដាក់វានៅក្នុងបរិបទប្រវត្តិសាស្ត្រ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But this one is. Vance has comment -- has mimicked Nixon in talking about certain ideas.",
+      "cn": "បាទ។ ប៉ុន្តែចំណុចនេះគឺ។ Vance កំពុងយកតម្រាប់តាម Nixon ក្នុងការនិយាយអំពីគំនិតមួយចំនួន។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And so, who are these (INAUDIBLE) here?",
+      "cn": "ដូច្នេះ តើអ្នកទាំងនេះ (មិនអាចស្តាប់បាន) ជានរណា?"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Nixon is making a resurgence.",
+      "cn": "Nixon កំពុងត្រលប់មកវិញ។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Like, I'm so sorry we're trying to bring back Nixon now?",
+      "cn": "ឧទាហរណ៍ ខ្ញុំសុំទោសដែលឥឡូវនេះយើងត្រូវលើកតម្កើង Nixon ម្តងទៀត?"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Well, but Bill Clinton did as well. I mean he's --",
+      "cn": "អញ្ចឹង ប៉ុន្តែ Bill Clinton ក៏បានធ្វើដូច្នេះដែរ។ ខ្ញុំចង់និយាយថា គាត់ --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "I mean, do we have to like -- do we have to -- do we have to revisit what he actually did? Do you -- I mean I feel like reading David Axelrod street (ph). Just to review, he authorized the break-in of the DNC to install bugging equipment. He then enlisted the CIA to mislead the FBI. Then the entire operation was paid for by a slush fund controlled by the White House.",
+      "cn": "ខ្ញុំចង់និយាយថា តើយើងត្រូវការ  --  --  តើយើងត្រូវការ  --  --  តើយើងត្រូវការពិនិត្យឡើងវិញនូវអ្វីដែលគាត់ពិតជាបានធ្វើឬ? អ្នក  --  --  ខ្ញុំមានអារម្មណ៍ថាដូចជាកំពុងអានសៀវភៅរបស់ David Axelrod ។ សូមរំលឹកឡើងវិញដោយសង្ខេប គាត់បានអនុញ្ញាតឱ្យចូលទៅក្នុងគណៈកម្មាធិការជាតិប្រជាធិបតេយ្យដើម្បីដំឡើងឧបករណ៍លួចស្តាប់។ បន្ទាប់មកគាត់បានប្រើ CIA ដើម្បីបំភាន់ FBI ។ ប្រតិបត្តិការទាំងមូលត្រូវបានបង់ដោយមូលនិធិសម្ងាត់ដែលគ្រប់គ្រងដោយសេតវិមាន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "However, we are now Nixon maxing. And if you check out the Nixon Foundation Instagram page, which is very hip these days.",
+      "cn": "ទោះយ៉ាងណាក៏ដោយ ឥឡូវនេះយើងកំពុងធ្វើឱ្យ Nixon ក្លាយជាអ្វីដែលធំជាងគេ។ ប្រសិនបើអ្នកទៅមើលទំព័រ Instagram របស់មូលនិធិ Nixon វាពិតជាទាន់សម័យណាស់ឥឡូវនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There is a lot of capital c content kind of rewriting his story. And actually, one of the top popular comments from one of the viewers is, Watergate was a lie, you know what I mean, with a bunch of heart, likes and --",
+      "cn": "មានខ្លឹមសារជាច្រើនដែលកំពុងសរសេររឿងរបស់គាត់ឡើងវិញ។ តាមពិត មតិយោបល់ដ៏ពេញនិយមបំផុតមួយពីទស្សនិកជនគឺថា Watergate គឺជាការកុហក អ្នកដឹងទេ ហើយមានបេះដូង និងការចូលចិត្តជាច្រើន  --  --"
+    },
+    {
+      "speaker": "Williams",
+      "text": "With the heart eyes thing.",
+      "cn": "ហើយមានអារម្មណ៍ភ្នែកស្នេហានោះផងដែរ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Yes, I just don't know if celebrating Richard Nixon is the burn that folks think it is. And just to the points that Lulu was making before, simply on account of his universally accepted misdeeds, he ultimately had to leave the presidency because his party turned on him, regardless of, you know, the merits of anything (ph). Yes.",
+      "cn": "បាទ ខ្ញុំគ្រាន់តែមិនដឹងថាការអបអរ Richard Nixon គឺជាការតបតវិញដូចដែលមនុស្សគិតនោះទេ។ ដូចដែល Lulu បានចង្អុលបង្ហាញពីមុន ដោយសារតែអំពើខុសឆ្គងដែលត្រូវបានទទួលស្គាល់ជាទូទៅរបស់គាត់ ទីបំផុតគាត់ត្រូវចាកចេញពីតំណែងប្រធានាធិបតី ដោយសារតែគណបក្សរបស់គាត់បានបោះបង់ចោលគាត់ ដោយមិនគិតពីទិដ្ឋភាពផ្សេងទៀត។ បាទ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, to that point, Vance said something that I think is absolutely true, which is, in this day and age, that would be a blip in the news cycle.",
+      "cn": "ដូច្នេះ ទាក់ទងនឹងចំណុចនេះ Vance បាននិយាយអ្វីមួយដែលខ្ញុំគិតថាពិតជាត្រឹមត្រូវ គឺថា នៅក្នុងសម័យបច្ចុប្បន្ន វានឹងក្លាយជារឿងតូចតាចមួយនៅក្នុងវដ្តព័ត៌មានប៉ុណ្ណោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "If you think of the kinds of things we have been reporting on for the last six, eight, ten years, the break in is looking smaller and smaller compared to a --",
+      "cn": "ប្រសិនបើអ្នកគិតពីរឿងដែលយើងបានរាយការណ៍ក្នុងរយៈពេលប្រាំមួយ ប្រាំបី ឬដប់ឆ្នាំកន្លងមកនេះ ការលួចចូលហាក់ដូចជាតូចតាចកាន់តែខ្លាំងឡើង  --  --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "What does that say about our current political moment. I mean this is -- my bigger problem with what J.D. Vance actually said is that it actually reflects quite poorly, perhaps, on his administration.",
+      "cn": "តើនេះនិយាយអ្វីអំពីពេលវេលានយោបាយបច្ចុប្បន្នរបស់យើង? ខ្ញុំចង់និយាយថា ការមិនពេញចិត្តធំជាងរបស់ខ្ញុំចំពោះអ្វីដែល J.D. Vance ពិតជាបាននិយាយគឺថា វាអាចឆ្លុះបញ្ចាំងអវិជ្ជមានយ៉ាងខ្លាំងទៅលើរដ្ឋាភិបាលរបស់គាត់។"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Well, I think you have to go back even further. I mean Bill Clinton having sex in the Oval Office. Your own colleague, Jake Tapper, reporting about the cover-up of Joe Biden's mental acuity. I mean, so it's not just Donald Trump. I think we need to broaden the --",
+      "cn": "ហ៊ឹម ខ្ញុំគិតថាអ្នកត្រូវតែត្រលប់ទៅមុននេះ។ ខ្ញុំចង់និយាយថា Bill Clinton មានទំនាក់ទំនងផ្លូវភេទនៅក្នុងការិយាល័យ Oval ។ មិត្តរួមការងាររបស់អ្នកផ្ទាល់ Jake Tapper បានរាយការណ៍អំពីបញ្ហានៃការបិទបាំងភាពវៃឆ្លាតផ្លូវចិត្តរបស់ Joe Biden ។ ខ្ញុំចង់និយាយថា វាមិនមែនគ្រាន់តែជាបញ្ហារបស់ Donald Trump នោះទេ។ ខ្ញុំគិតថាយើងត្រូវពង្រីក  --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. So, you would agree. The -- it wouldn't have been the crisis it is now, mainly because we have crazy things going on.",
+      "cn": "បាទ។ ដូច្នេះអ្នកនឹងយល់ស្រប។ វា  --  --  វានឹងមិនក្លាយជាវិបត្តិដូចពេលនេះទេ ភាគច្រើនដោយសារតែយើងកំពុងឆ្លងកាត់រឿងឆ្កួតៗ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You can name all the presidents you want. That's great.",
+      "cn": "អ្នកអាចរាយឈ្មោះប្រធានាធិបតីទាំងអស់ដែលអ្នកចង់បាន។ នោះល្អណាស់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All comers accepted. Also and it feels as though the moral sort of outcry that marked the Watergate era, that era of politics is done.",
+      "cn": "ការប្រកួតប្រជែងទាំងអស់ត្រូវបានទទួលយក។ ហើយមានអារម្មណ៍ថាដូចជាការថ្កោលទោសខាងសីលធម៌នៃសម័យ Watergate ដែលជាសម័យនយោបាយនោះបានបញ្ចប់ហើយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The Supreme Court's like, don't worry about it. The executive can be more powerful. The Congress are like, you want to do --",
+      "cn": "តុលាការកំពូលគឺដូចជា កុំបារម្ភ។ សាខាប្រតិបត្តិអាចខ្លាំងជាងនេះ។ សភាគឺដូចជា អ្នកចង់ធ្វើ  --  --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Trump has gotten billions of dollars while in office. So has his family.",
+      "cn": "Trump ទទួលបានរាប់ពាន់លានដុល្លារក្នុងអំឡុងពេលកាន់តំណែង។ គ្រួសាររបស់គាត់ក៏ដូចគ្នាដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I haven't seen an oversight hearing in weeks.",
+      "cn": "ខ្ញុំមិនបានឃើញសវនាការត្រួតពិនិត្យអស់រយៈពេលជាច្រើនសប្តាហ៍ហើយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's just one of those things where Washington itself doesn't behave this way anymore.",
+      "cn": "នេះគ្រាន់តែជារឿងមួយក្នុងចំណោមរឿងដែលទីក្រុងវ៉ាស៊ីនតោនខ្លួនឯងលែងធ្វើបែបនេះទៀតហើយ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "I think few people are going to defend Bill Clinton and his conduct. I think we can universally agree with that. You know, Richard Nixon --",
+      "cn": "ខ្ញុំគិតថាមានមនុស្សតិចណាស់ដែលនឹងការពារ Bill Clinton និងអំពើរបស់គាត់។ ខ្ញុំគិតថាយើងអាចយល់ស្របជាទូទៅលើចំណុចនេះ។ អ្នកដឹងទេ Richard Nixon  --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "At least there were hearings.",
+      "cn": "យ៉ាងហោចណាស់នៅតែមានសវនាការ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Richard Nixon had a documented history of anti-Semitic comments in sort of -- to people that he thought were trusted. He spied on his allies. He cheapened the American political system. Regardless of anything he did, you know, as a successful politician, we ought not be celebrating Richard Nixon here.",
+      "cn": "Richard Nixon មានកំណត់ត្រាបង្ហាញថាគាត់ធ្លាប់និយាយពាក្យប្រឆាំងជនជាតិយូដាទៅកាន់មនុស្សដែលគាត់គិតថាអាចទុកចិត្តបាន។ គាត់បានឃ្លាំមើលសម្ព័ន្ធមិត្តរបស់គាត់។ គាត់បានបន្ទាបតម្លៃប្រព័ន្ធនយោបាយអាមេរិក។ មិនថាគាត់បានធ្វើអ្វីជាអ្នកនយោបាយជោគជ័យក៏ដោយ យើងមិនគួរអបអរ Richard Nixon នៅទីនេះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Elliot, not Nixon maxing. Got it.",
+      "cn": "ល្អហើយ Elliott មិនមែន Nixon អតិបរមាទេ។ យល់ហើយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Not in your group chat.",
+      "cn": "មិននៅក្នុងក្រុមជជែករបស់អ្នកទេ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "But I will say this, look, that the '70s with big hair is back. We got a World Cup. Gas is expensive. Nixon is back. Let's go back to '74.",
+      "cn": "ប៉ុន្តែខ្ញុំនឹងនិយាយថា មើលទៅ ម៉ូដសក់ធំៗនៅទសវត្សរ៍ទី 70 បានត្រលប់មកវិញហើយ។ យើងមាន World Cup ។ តម្លៃប្រេងថ្លៃ។ Nixon ត្រលប់មកវិញហើយ។ តោះត្រលប់ទៅឆ្នាំ 74 វិញ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. I'm sure the administration is glad it's not Carter.",
+      "cn": "ល្អហើយ។ ខ្ញុំជឿថារដ្ឋាភិបាលសប្បាយចិត្តដែលមិនមែនជា Carter ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Glad it's not Carter (ph).",
+      "cn": "សប្បាយចិត្តដែលមិនមែនជា Carter ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Rob, you haven't been here in a while. What's in your group chat?",
+      "cn": "Rob, អ្នកមិនបានមកមួយរយៈទេ។ តើមានអ្វីនៅក្នុងក្រុមជជែករបស់អ្នក?"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Sure. Well, the Great American State Fair is taking place on the National Mall. And the U.S. State Department has just announced that they're giving a limited number of U.S. passports to celebrate America 250. And if you want one, it has Donald Trump's picture inside.",
+      "cn": "ពិតណាស់។ អញ្ចឹង ពិព័រណ៍រដ្ឋដ៏អស្ចារ្យរបស់អាមេរិកកំពុងប្រព្រឹត្តទៅនៅ National Mall ។ ក្រសួងការបរទេសអាមេរិកទើបតែប្រកាសថា ពួកគេនឹងចេញលិខិតឆ្លងដែនអាមេរិកមួយចំនួនមានកំណត់ ដើម្បីអបអរខួប 250 ឆ្នាំរបស់អាមេរិក។ ប្រសិនបើអ្នកចង់បានមួយ នៅខាងក្នុងនឹងមានរូបថតរបស់លោក Donald Trump ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. And you -- and for you?",
+      "cn": "អូខេ។ ចុះអ្នកវិញ?"
+    },
+    {
+      "speaker": "Williams",
+      "text": "McDonalds has brought back the apple -- the fried apple pie.",
+      "cn": "McDonald's បានដាក់លក់វិញនូវ apple -- -- fried apple pie ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, man, that is American.",
+      "cn": "អូយ ព្រះអើយ នេះពិតជាអាមេរិកណាស់។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Because, you know what? And, you know -- and get -- it is American. You know what, back to the '70s being back. I feel like, as a child of the '70s, every kid needs to celebrate burning the hell out of your mouth on that cardboard, too sweet, overly spicy apple pie. It's when you --",
+      "cn": "ព្រោះអ្នកដឹងទេ? ហើយអ្នកដឹងទេ -- -- នេះពិតជាអាមេរិកណាស់។ អ្នកដឹងទេ ត្រលប់ទៅទសវត្សរ៍ 70 វិញ។ ក្នុងនាមជាកូននៃទសវត្សរ៍ 70 ខ្ញុំគិតថាក្មេងៗគ្រប់រូបត្រូវការអបអរ ដុតមាត់ឱ្យឆេះ ហើយញ៉ាំ apple pie ដែលផ្អែមពេក មានរសជាតិគ្រឿងទេសខ្លាំងពេក ធ្វើពីក្រដាសកាតុង។ ពេលអ្នក -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You mean the delicate pastry that --",
+      "cn": "តើអ្នកមានន័យថានំដ៏ឆ្ងាញ់នោះ -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And I am thrilled that it's back. I'm going to leave here --",
+      "cn": "ខ្ញុំសប្បាយចិត្តណាស់ដែលវាត្រលប់មកវិញ។ បន្ទាប់ពីខ្ញុំចាកចេញពីទីនេះ -- --"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Sounds like we're going to --",
+      "cn": "ស្តាប់ទៅដូចជាយើងនឹង -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And go shovel 15 in my mouth.",
+      "cn": "ហើយបន្ទាប់មកដាក់ចូលមាត់ 15 ដុំ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Yes. No, no, quick, to bring it all back, it's actually fried, not baked now, but (INAUDIBLE) now.",
+      "cn": "បាទ។ ទេ ទេ ឆាប់ៗ ដើម្បីឱ្យវាត្រលប់មកវិញពេញលេញ ឥឡូវនេះវាជាចៀន មិនមែនដុតទេ ប៉ុន្តែ (មិនច្បាស់) ឥឡូវនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Brought to you by McDonald's. Thank you guys in the group chat. Thank you for waking up with us. I'm Audie Cornish. Headlines now. var CNN = CNN || {};",
+      "cn": "អូខេ។ នាំមកជូនដោយ McDonald's ។ សូមអរគុណអ្នកទាំងអស់គ្នានៅក្នុងក្រុមជជែក។ សូមអរគុណដែលបានភ្ញាក់ពីដំណេកជាមួយយើង។ ខ្ញុំគឺ Otis Cornish ។ ឥឡូវនេះជាព័ត៌មាន។"
+    }
+  ]
+}

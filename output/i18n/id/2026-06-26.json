@@ -1,0 +1,1434 @@
+{
+  "date": "2026-06-26",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-26/segment/01",
+  "summary": "Venezuela earthquake death toll rises to 235, international aid begins to arrive but heavy machinery is scarce. US Supreme Court rules border officials can deny asylum applications and allows termination of Temporary Protected Status (TPS) for Haiti, Syria, and others. Vice President Vance compares Watergate to a deep state conspiracy. US team advances to round of 32 despite first World Cup loss.",
+  "vocabulary": [
+    {
+      "word": "sift through",
+      "phonetic": "/sɪft θruː/",
+      "pos": "phrasal verb",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Lingkungan bencana",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "Menyisir, menyaring (di reruntuhan)",
+      "en": "to examine something carefully, especially in order to find something",
+      "excerpt": "first responders sift through the rubble",
+      "example_cn": "Petugas penyelamat menyisir reruntuhan dengan hati-hati."
+    },
+    {
+      "word": "golden window",
+      "phonetic": "/ˈɡoʊldən ˈwɪndoʊ/",
+      "pos": "noun phrase",
+      "usage": "Kolokasi tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Lingkungan bencana",
+      "level": "Kolokasi tetap · Lanjutan",
+      "cn": "Jendela emas (periode kritis penyelamatan)",
+      "en": "the critical period (usually 48-72 hours) during which rescue efforts are most likely to save lives",
+      "excerpt": "The first 48 to 72 hours are widely regarded as the golden window to reach people",
+      "example_cn": "48 hingga 72 jam pertama secara luas dianggap sebagai jendela emas untuk penyelamatan."
+    },
+    {
+      "word": "tarmac",
+      "phonetic": "/ˈtɑːrmæk/",
+      "pos": "noun",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "通用",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "停机坪，柏油碎石路面",
+      "en": "the area of an airport where planes are parked and loaded",
+      "excerpt": "the powerful tremors shook the aircraft on the tarmac",
+      "example_cn": "强烈的震动使停机坪上的飞机摇晃。"
+    },
+    {
+      "word": "pancaked",
+      "phonetic": "/ˈpænkeɪkt/",
+      "pos": "adjective",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "灾害环境",
+      "level": "新闻常用 · 进阶",
+      "cn": "（建筑）像煎饼一样坍塌叠压的",
+      "en": "collapsed in a flat, layered manner, like a stack of pancakes",
+      "excerpt": "all of these floors that have been pancaked on top of each other",
+      "example_cn": "所有那些像煎饼一样层层叠压的楼板。"
+    },
+    {
+      "word": "excavator",
+      "phonetic": "/ˈekskəveɪtər/",
+      "pos": "noun",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "挖掘机，挖土机",
+      "en": "a large machine used for digging",
+      "excerpt": "what they need in La Guaira is excavator; big machinery",
+      "example_cn": "他们在拉瓜伊拉需要的是挖掘机，大型机械。"
+    },
+    {
+      "word": "asylum seeker",
+      "phonetic": "/əˈsaɪləm ˈsiːkər/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "寻求庇护者",
+      "en": "a person who has fled their home country and is asking for protection in another country",
+      "excerpt": "immigration officials at the U.S.-Mexico border can turn away asylum seekers before they enter the country",
+      "example_cn": "移民官员可以在美墨边境的寻求庇护者进入美国之前将其拒之门外。"
+    },
+    {
+      "word": "dissent",
+      "phonetic": "/dɪˈsent/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "法律司法",
+      "level": "新闻常用 · 进阶",
+      "cn": "（法官的）异议，反对意见",
+      "en": "a statement by a judge who disagrees with the majority decision",
+      "excerpt": "in her dissent, Justice Sonia Sotomayor wrote",
+      "example_cn": "在她的异议意见中，索尼娅·索托马约尔大法官写道。"
+    },
+    {
+      "word": "temporary protected status (TPS)",
+      "phonetic": "/ˈtempəreri prəˈtektɪd ˈsteɪtəs/",
+      "pos": "noun phrase",
+      "usage": "专名背景",
+      "difficulty": "高阶",
+      "domain": "法律司法",
+      "level": "专名背景 · 高阶",
+      "cn": "临时保护身份（美国移民政策）",
+      "en": "a temporary immigration status granted to nationals of certain countries experiencing conflict or disaster",
+      "excerpt": "the Trump administration to strip temporary protected status for hundreds of thousands of Haitians and Syrians",
+      "example_cn": "特朗普政府取消数十万海地人和叙利亚人的临时保护身份。"
+    },
+    {
+      "word": "strip",
+      "phonetic": "/strɪp/",
+      "pos": "verb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "法律司法",
+      "level": "新闻常用 · 进阶",
+      "cn": "剥夺（权利、身份等）",
+      "en": "to remove something that is officially given",
+      "excerpt": "the Trump administration to strip temporary protected status",
+      "example_cn": "特朗普政府剥夺临时保护身份。"
+    },
+    {
+      "word": "statute",
+      "phonetic": "/ˈstætʃuːt/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "法律司法",
+      "level": "新闻常用 · 进阶",
+      "cn": "法令，法规",
+      "en": "a written law passed by a legislative body",
+      "excerpt": "The whole statute exists. Temporarily to give people protection",
+      "example_cn": "整个法令的存在是为了临时给予人们保护。"
+    },
+    {
+      "word": "have the guts to",
+      "phonetic": "/hæv ðə ɡʌts tuː/",
+      "pos": "phrase",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "日常表达 · 进阶",
+      "cn": "有勇气做某事",
+      "en": "to have the courage to do something",
+      "excerpt": "no administration has had the guts to actually follow that statute",
+      "example_cn": "没有哪届政府有勇气真正遵守那项法令。"
+    },
+    {
+      "word": "quasi legal status",
+      "phonetic": "/ˈkweɪzaɪ ˈliːɡəl ˈsteɪtəs/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "高阶",
+      "domain": "法律司法",
+      "level": "新闻常用 · 高阶",
+      "cn": "准合法身份",
+      "en": "a status that is partly but not fully legal",
+      "excerpt": "this law from the 1990s gives people a kind of quasi legal status",
+      "example_cn": "这项1990年代的法律赋予人们一种准合法身份。"
+    },
+    {
+      "word": "with the stroke of a pen",
+      "phonetic": "/wɪð ðə stroʊk əv ə pen/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "大笔一挥（轻易地）",
+      "en": "by simply signing a document; easily and quickly",
+      "excerpt": "It was just simply, with the stroke of a pen, we're go",
+      "example_cn": "只是大笔一挥，我们就……"
+    },
+    {
+      "word": "death sentence",
+      "phonetic": "/deθ ˈsentəns/",
+      "pos": "noun phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "死刑；致命判决",
+      "en": "a punishment of being killed; something that causes certain death",
+      "excerpt": "they have to go back there anyway, even to their death sentence",
+      "example_cn": "他们无论如何都得回去，哪怕是去送死。"
+    },
+    {
+      "word": "deep-state conspiracy",
+      "phonetic": "/diːp steɪt kənˈspɪrəsi/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "深层政府阴谋论",
+      "en": "a theory that a hidden network of government officials manipulates policy",
+      "excerpt": "Vice President J.D. Vance compares himself to Richard Nixon and says Watergate was a deep-state conspiracy",
+      "example_cn": "副总统J.D.万斯将自己比作理查德·尼克松，并称水门事件是深层政府的阴谋。"
+    },
+    {
+      "word": "stunned",
+      "phonetic": "/stʌnd/",
+      "pos": "adjective",
+      "usage": "新闻常用",
+      "difficulty": "基础",
+      "domain": "文化体育",
+      "level": "新闻常用 · 基础",
+      "cn": "震惊的，被击败的",
+      "en": "very surprised or shocked; defeated unexpectedly",
+      "excerpt": "Team USA, stunned by Turkey in the World Cup",
+      "example_cn": "美国队在世界杯上被土耳其队击败，令人震惊。"
+    },
+    {
+      "word": "shake off",
+      "phonetic": "/ʃeɪk ɔːf/",
+      "pos": "phrasal verb",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "摆脱，甩掉（坏情绪等）",
+      "en": "to get rid of something unpleasant",
+      "excerpt": "Can they shake off the bad vibes and bounce back?",
+      "example_cn": "Mereka bisa melepaskan emosi negatif dan bangkit kembali?"
+    },
+    {
+      "word": "bounce back",
+      "phonetic": "/baʊns bæk/",
+      "pos": "phrasal verb",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Dasar",
+      "domain": "Umum",
+      "level": "Ekspresi sehari-hari · Dasar",
+      "cn": "Pulih, bangkit kembali",
+      "en": "to recover quickly from a setback",
+      "excerpt": "Can they shake off the bad vibes and bounce back?",
+      "example_cn": "Mereka bisa melepaskan emosi negatif dan bangkit kembali?"
+    },
+    {
+      "word": "death toll",
+      "phonetic": "/deθ toʊl/",
+      "pos": "noun phrase",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Bencana dan lingkungan",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "Jumlah korban jiwa",
+      "en": "the number of people killed in a disaster, war, etc.",
+      "excerpt": "The earthquake death toll continues to rise",
+      "example_cn": "Jumlah korban jiwa akibat gempa terus meningkat."
+    },
+    {
+      "word": "first responders",
+      "phonetic": "/fɜːrst rɪˈspɑːndərz/",
+      "pos": "noun phrase",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Bencana dan lingkungan",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "Petugas pertama, petugas darurat",
+      "en": "emergency workers who arrive first at the scene of an accident or disaster",
+      "excerpt": "first responders sift through the rubble",
+      "example_cn": "Petugas darurat mencari di reruntuhan."
+    },
+    {
+      "word": "relief zone",
+      "phonetic": "/rɪˈliːf zoʊn/",
+      "pos": "noun phrase",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Bencana dan lingkungan",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "Zona penyelamatan, daerah bencana",
+      "en": "the area where relief operations are concentrated",
+      "excerpt": "arrive as quickly and as close as possible to the relief zone",
+      "example_cn": "Mencapai zona penyelamatan secepat dan sedekat mungkin."
+    },
+    {
+      "word": "ousting",
+      "phonetic": "/ˈaʊstɪŋ/",
+      "pos": "noun",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan diplomasi",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "罢免，驱逐（尤指通过政变）",
+      "en": "the act of removing someone from a position of power",
+      "excerpt": "less than six months after the ousting of Maduro",
+      "example_cn": "在马杜罗被罢免后不到六个月。"
+    },
+    {
+      "word": "Hercules C-130",
+      "phonetic": "/ˈhɜːrkjəliːz siː wʌn θɜːrti/",
+      "pos": "noun phrase",
+      "usage": "专名背景",
+      "difficulty": "高阶",
+      "domain": "军事安全",
+      "level": "专名背景 · 高阶",
+      "cn": "C-130大力神运输机",
+      "en": "a military transport aircraft manufactured by Lockheed Martin",
+      "excerpt": "The Colombians were also able to fly into Caracas with two Hercules C-130",
+      "example_cn": "哥伦比亚人也能够用两架C-130大力神运输机飞入加拉加斯。"
+    },
+    {
+      "word": "Marine Corps",
+      "phonetic": "/məˈriːn kɔːr/",
+      "pos": "noun phrase",
+      "usage": "专名背景",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "专名背景 · 进阶",
+      "cn": "美国海军陆战队",
+      "en": "a branch of the U.S. Armed Forces responsible for amphibious operations",
+      "excerpt": "A major general from the Marine Corps arrived in Caracas",
+      "example_cn": "一位来自海军陆战队的少将抵达加拉加斯。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The earthquake death toll continues to rise.",
+      "cn": "地震死亡人数持续上升。",
+      "structure": "简单主谓结构：主语（The earthquake death toll）+ 谓语（continues to rise）。",
+      "analysis": "新闻常用表达，'death toll' 意为死亡人数，'continues to rise' 表示持续上升，体现事态发展。"
+    },
+    {
+      "en": "The first 48 to 72 hours are widely regarded as the golden window to reach people who may still be buried alive.",
+      "cn": "最初的48到72小时被广泛视为接触可能仍被活埋人员的黄金窗口期。",
+      "structure": "主句（The first 48 to 72 hours are widely regarded as the golden window）+ 不定式短语（to reach people）+ 定语从句（who may still be buried alive）。",
+      "analysis": "'golden window' 是救援术语，指最佳救援时间；'buried alive' 意为被活埋；被动语态 'are widely regarded as' 体现普遍观点。"
+    },
+    {
+      "en": "This is new video showing passengers panicking aboard a plane at the international airport North of Caracas as the powerful tremors shook the aircraft on the tarmac.",
+      "cn": "这是一段新视频，显示在加拉加斯以北的国际机场，当强烈震动摇晃停机坪上的飞机时，乘客在机上惊慌失措。",
+      "structure": "主句（This is new video）+ 现在分词短语（showing passengers panicking）+ 地点状语（at the international airport North of Caracas）+ 时间状语从句（as the powerful tremors shook the aircraft on the tarmac）。",
+      "analysis": "'showing' 引导伴随动作；'as' 引导时间状语从句，表示同时发生；'panicking' 描述乘客状态；'tarmac' 指停机坪。"
+    },
+    {
+      "en": "I think that that is a smart point, a smart angle to explore today, is that today is the day we are finally seeing the aid coming in.",
+      "cn": "我认为这是一个聪明的观点，一个今天值得探讨的聪明角度，那就是今天我们终于看到援助到来。",
+      "structure": "主句（I think）+ 宾语从句（that that is a smart point, a smart angle to explore today）+ 表语从句（is that today is the day）+ 定语从句（we are finally seeing the aid coming in）。",
+      "analysis": "多个 'that' 的用法：第一个 'that' 引导宾语从句，第二个 'that' 作主语；'the day' 后省略关系副词 'when'；'seeing the aid coming in' 是感官动词结构。"
+    },
+    {
+      "en": "The Colombians were also able to fly into Caracas with two Hercules C-130, which, of course, took time, because the runway itself at the international airport, which serves the city of Caracas, was badly damaged.",
+      "cn": "Kolombia juga mampu terbang ke Caracas dengan dua pesawat angkut Hercules C-130, yang tentu saja memakan waktu, karena landasan pacu bandara internasional yang melayani kota Caracas sendiri rusak parah.",
+      "structure": "Kalimat utama (The Colombians were also able to fly into Caracas with two Hercules C-130) + klausa relatif non-restriktif (which, of course, took time) + klausa keterangan sebab (because the runway itself at the international airport, which serves the city of Caracas, was badly damaged), yang di dalamnya terdapat klausa relatif non-restriktif lain (which serves the city of Caracas).",
+      "analysis": "Klausa relatif bersarang: 'which' pertama merujuk pada seluruh kalimat utama, 'which' kedua menerangkan 'the international airport'; 'of course' sebagai sisipan; 'Hercules C-130' adalah model pesawat angkut militer."
+    },
+    {
+      "en": "You can see from that video that you just played that the quake hit with the plane on the tarmac and created open cracks, really, on the tarmac of the runway.",
+      "cn": "Anda dapat melihat dari video yang baru saja Anda putar bahwa gempa terjadi saat pesawat berada di apron dan menciptakan retakan terbuka, sungguh, di apron landasan pacu.",
+      "structure": "Kalimat utama (You can see from that video) + klausa relatif (that you just played) + klausa objek (that the quake hit with the plane on the tarmac and created open cracks, really, on the tarmac of the runway).",
+      "analysis": "Struktur 'see from...that'; 'with the plane on the tarmac' adalah konstruksi nominatif absolut yang menyatakan keadaan menyertai; 'really' sebagai sisipan untuk penekanan; 'open cracks' berarti retakan yang jelas terlihat."
+    },
+    {
+      "en": "So, these military planes that carry the aid had to make some adjustments in order to arrive as quickly and as close as possible to the relief zone, which is the state of La Guaira, where the airport is located, which is this coastal state close to Caracas, but on the coast on the Caribbean coast, where the majority of the damage is -- and being confined.",
+      "cn": "Oleh karena itu, pesawat militer yang membawa bantuan harus melakukan beberapa penyesuaian agar tiba secepat dan sedekat mungkin ke zona bantuan, yaitu negara bagian La Guaira, tempat bandara berada, yang merupakan negara bagian pesisir dekat Caracas, tetapi di pesisir Laut Karibia, tempat sebagian besar kerusakan terkonsentrasi.",
+      "structure": "Kalimat utama (these military planes had to make some adjustments) + klausa relatif (that carry the aid) + keterangan tujuan (in order to arrive as quickly and as close as possible to the relief zone) + klausa relatif non-restriktif (which is the state of La Guaira) + klausa relatif non-restriktif (where the airport is located) + aposisi (which is this coastal state close to Caracas, but on the coast on the Caribbean coast) + klausa relatif (where the majority of the damage is -- and being confined).",
+      "analysis": "Beberapa klausa relatif saling menerangkan; 'as quickly and as close as possible' adalah struktur perbandingan berurutan; 'relief zone' berarti zona bantuan; 'confined' berarti terkonsentrasi atau terbatas."
+    },
+    {
+      "en": "By the way, it's still surreal to me that we are seeing a major marine general in the grounds of Caracas less than six months after the ousting of Maduro.",
+      "cn": "Omong-omong, melihat seorang mayor jenderal marinir di halaman Caracas kurang dari enam bulan setelah penggulingan Maduro masih terasa tidak nyata bagi saya.",
+      "structure": "Kalimat utama (it's still surreal to me) + klausa subjek (that we are seeing a major marine general in the grounds of Caracas less than six months after the ousting of Maduro).",
+      "analysis": "'it' sebagai subjek formal, subjek sesungguhnya adalah klausa 'that'; 'surreal' berarti tidak nyata; 'ousting' berarti penggulingan; 'major marine general' adalah mayor jenderal marinir."
+    },
+    {
+      "en": "I think heavy machinery is the trickiest thing, because one thing is to bring in containers with medicines, with plasters, with emergency kit, with generators.",
+      "cn": "Saya pikir alat berat adalah hal yang paling rumit, karena satu hal adalah membawa kontainer berisi obat-obatan, plester, perlengkapan darurat, generator.",
+      "structure": "Kalimat utama (I think heavy machinery is the trickiest thing) + klausa keterangan sebab (because one thing is to bring in containers with medicines, with plasters, with emergency kit, with generators).",
+      "analysis": "'trickiest' berarti paling rumit; 'one thing is to...' menyiratkan perbandingan, selanjutnya akan ada 'another thing is...'; beberapa 'with' untuk mendaftar barang."
+    },
+    {
+      "en": "But what do they need in La Guaira is excavator; big machinery in order to lift in a safely way, the -- all of these floors that have been pancaked on top of each other because of the -- of the power of the tremors.",
+      "cn": "Tetapi yang mereka butuhkan di La Guaira adalah ekskavator; alat berat, untuk mengangkat dengan aman semua lantai yang telah menimpa satu sama lain karena kekuatan gempa.",
+      "structure": "Klausa subjek (what do they need in La Guaira) + predikat (is excavator) + aposisi (big machinery) + keterangan tujuan (in order to lift in a safely way) + objek (the -- all of these floors) + klausa relatif (that have been pancaked on top of each other) + keterangan sebab (because of the -- of the power of the tremors).",
+      "analysis": "'what' memulai klausa subjek; 'pancaked' adalah istilah umum di berita yang menggambarkan bangunan runtuh seperti panekuk; 'in a safely way' seharusnya 'in a safe way', mungkin kesalahan bicara; tanda pisah menunjukkan keraguan atau koreksi."
+    },
+    {
+      "en": "Our team is at the city, and they have been filming it.",
+      "cn": "Tim kami berada di kota itu, dan mereka telah merekamnya.",
+      "structure": "Kalimat majemuk: subjek (Our team) + predikat (is at the city) + konjungsi (and) + subjek (they) + present perfect continuous (have been filming it).",
+      "analysis": "Kalimat majemuk sederhana, tetapi 'have been filming' menekankan tindakan yang berlangsung terus."
+    },
+    {
+      "en": "But in La Guaira yesterday, when they were down in the area most affected, they were really talking about the lack of equipment, the lack of gear.",
+      "cn": "Tetapi kemarin di La Guaira, ketika mereka berada di daerah yang paling parah terkena dampak, mereka benar-benar membicarakan tentang kurangnya peralatan dan perlengkapan.",
+      "structure": "Keterangan waktu (yesterday) + keterangan tempat (in La Guaira) + klausa keterangan waktu (when they were down in the area most affected) + kalimat utama (they were really talking about the lack of equipment, the lack of gear).",
+      "analysis": "'down in' berarti masuk ke suatu daerah; 'most affected' adalah frase partisip lampau sebagai penerang 'area'; 'lack of equipment, the lack of gear' sejajar untuk menekankan kekurangan."
+    },
+    {
+      "en": "Now, while the people in Venezuela are desperate for help, we here in the U.S. have seen two rulings from the Supreme Court indicating that the U.S. is not quite the place of refuge it might have been.",
+      "cn": "Sekarang, ketika rakyat Venezuela sangat membutuhkan bantuan, kita di sini di AS melihat dua keputusan Mahkamah Agung yang menunjukkan bahwa AS bukan lagi tempat perlindungan seperti dulu.",
+      "structure": "Klausa waktu (while the people in Venezuela are desperate for help) + klausa utama (we here in the U.S. have seen two rulings from the Supreme Court) + frase partisip kini (indicating that the U.S. is not quite the place of refuge it might have been), yang berisi klausa objek (that the U.S. is not quite the place of refuge) + klausa relatif (it might have been).",
+      "analysis": "'while' menunjukkan kontras; 'desperate for' berarti sangat membutuhkan; 'indicating' memimpin akibat yang menyertai; 'not quite the place of refuge it might have been' menggunakan subjungtif, menunjukkan kebalikan dari fakta masa lalu."
+    },
+    {
+      "en": "The Supreme Court ruled immigration officials at the U.S.-Mexico border can turn away asylum seekers before they enter the country.",
+      "cn": "Mahkamah Agung memutuskan bahwa petugas imigrasi di perbatasan AS-Meksiko dapat menolak pencari suaka sebelum mereka memasuki negara itu.",
+      "structure": "Klausa utama (The Supreme Court ruled) + klausa objek (immigration officials at the U.S.-Mexico border can turn away asylum seekers before they enter the country), yang berisi klausa waktu (before they enter the country).",
+      "analysis": "'ruled' diikuti 'that' yang dihilangkan; 'turn away' berarti menolak, mengusir; 'asylum seekers' merujuk pada pencari suaka."
+    },
+    {
+      "en": "Now, in her dissent, Justice Sonia Sotomayor wrote, \"The consequences of today's decision are predictable. More people will die.\"",
+      "cn": "Dalam pendapat berbeda, Hakim Sonia Sotomayor menulis: \"Konsekuensi dari keputusan hari ini dapat diprediksi. Lebih banyak orang akan mati.\"",
+      "structure": "Keterangan (in her dissent) + klausa utama (Justice Sonia Sotomayor wrote) + kutipan langsung (\"The consequences of today's decision are predictable. More people will die.\").",
+      "analysis": "'dissent' merujuk pada pendapat berbeda di Mahkamah Agung; kutipan langsung meningkatkan otoritas dan dampak emosional."
+    },
+    {
+      "en": "The justices also allowed the Trump administration to strip temporary protected status for hundreds of thousands of Haitians and Syrians living in the U.S.",
+      "cn": "Para hakim juga mengizinkan pemerintahan Trump untuk mencabut status perlindungan sementara bagi ratusan ribu orang Haiti dan Suriah yang tinggal di AS.",
+      "structure": "Klausa utama (The justices also allowed the Trump administration to strip temporary protected status) + frase preposisi (for hundreds of thousands of Haitians and Syrians) + frase partisip kini (living in the U.S.).",
+      "analysis": "Struktur 'allow...to strip'; 'strip' berarti mencabut; 'temporary protected status' adalah istilah hukum, disingkat TPS; 'hundreds of thousands of' berarti ratusan ribu."
+    },
+    {
+      "en": "The whole statute exists temporarily to give people protection while the country's in turmoil or after they suffer a hurricane.",
+      "cn": "Seluruh undang-undang itu ada sementara untuk memberikan perlindungan kepada orang-orang ketika negara dalam kekacauan atau setelah mereka mengalami badai.",
+      "structure": "Klausa utama (The whole statute exists temporarily) + keterangan tujuan (to give people protection) + klausa waktu (while the country's in turmoil or after they suffer a hurricane).",
+      "analysis": "'statute' merujuk pada undang-undang; 'in turmoil' berarti dalam kekacauan; 'while' dan 'after' memimpin klausa waktu, menunjukkan situasi berbeda."
+    },
+    {
+      "en": "But the problem is, no administration has had the guts to actually follow that statute.",
+      "cn": "Tapi masalahnya, tidak ada pemerintahan yang memiliki keberanian untuk benar-benar mematuhi undang-undang itu.",
+      "structure": "Klausa utama (But the problem is) + klausa predikat (no administration has had the guts to actually follow that statute).",
+      "analysis": "'have the guts to do' adalah ungkapan lisan, berarti memiliki keberanian untuk melakukan sesuatu; 'follow that statute' berarti mematuhi undang-undang."
+    },
+    {
+      "en": "This same government that tells me that it is too dangerous to set foot in Haiti, just told 350,000 Haitians that they have to go back there anyway, even to their death sentence.",
+      "cn": "Pemerintah yang sama yang mengatakan kepada saya bahwa terlalu berbahaya untuk menginjakkan kaki di Haiti, baru saja mengatakan kepada 350.000 orang Haiti bahwa mereka harus kembali ke sana, bahkan menghadapi hukuman mati.",
+      "structure": "Subjek (This same government) + klausa relatif (that tells me that it is too dangerous to set foot in Haiti) + predikat (just told) + objek tidak langsung (350,000 Haitians) + klausa objek (that they have to go back there anyway, even to their death sentence).",
+      "analysis": "Klausa relatif memodifikasi 'government', berisi struktur 'tell sb that'; 'set foot in' berarti memasuki; 'death sentence' adalah metafora ancaman kematian, menekankan bahaya."
+    },
+    {
+      "en": "You cannot have it both ways.",
+      "cn": "Kamu tidak bisa mendapatkan keduanya.",
+      "structure": "Kalimat sederhana: Subjek (You) + predikat (cannot have) + objek (it) + keterangan (both ways).",
+      "analysis": "Idiom, berarti tidak bisa memiliki dua hal yang bertentangan secara bersamaan, sering digunakan untuk mengkritik posisi yang kontradiktif."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Venezuela Earthquake and International Rescue",
+      "content": "On June 25, 2026, a strong earthquake struck the northern coastal region of Venezuela, severely affecting the capital Caracas and La Guaira state. The death toll has risen to 235, with over 4,300 injured. International relief supplies have begun to arrive, but there is a shortage of heavy excavation equipment. Rescue teams from the Dominican Republic, Colombia, and the United States have been dispatched. The 72 hours after the earthquake are considered the \"golden window\" for rescue.",
+      "keywords": "earthquake · death toll · golden window · excavator · relief zone"
+    },
+    {
+      "title": "US Supreme Court Immigration Rulings",
+      "content": "On June 26, 2026, the US Supreme Court made two important immigration rulings: one allowing border officials to turn away asylum seekers before they enter the United States, and the other supporting the Trump administration's termination of Temporary Protected Status (TPS) for immigrants from Haiti, Syria, and other countries. TPS is a temporary immigration status granted to foreigners who cannot return to their home countries due to war or disaster.",
+      "keywords": "asylum seeker · temporary protected status · dissent · strip · statute"
+    },
+    {
+      "title": "Vice President Vance's Watergate Comments",
+      "content": "US Vice President J.D. Vance compared himself to former President Richard Nixon in recent remarks and claimed that Watergate was a conspiracy of the \"deep state.\" Watergate was a political scandal in 1972 that led to Nixon's resignation. Vance's comments sparked controversy and were criticized as an attempt to downplay historical events.",
+      "keywords": "deep-state conspiracy · Watergate · Richard Nixon · Vice President"
+    },
+    {
+      "title": "US Team Loses World Cup Opener",
+      "content": "In the group stage of the 2026 World Cup, the US team unexpectedly lost to Turkey but still advanced to the round of 32 based on previous results. The team needs to shake off the loss and bounce back in the knockout rounds. The World Cup is the most-watched football event globally, and the US team has improved in recent years but still lacks consistency.",
+      "keywords": "World Cup · stunned · shake off · bounce back · Team USA"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "In the original text, 'first responders sift through the rubble', what does 'sift through' most closely mean?",
+      "options": [
+        "A. To sieve (like flour)",
+        "B. To search carefully",
+        "C. To pass quickly",
+        "D. To ignore"
+      ],
+      "answer": 1,
+      "explanation": "'Sift through' in a news context often means 'to search carefully, to examine thoroughly', especially when looking for survivors in rubble. Option A is the literal meaning, but here it is used figuratively."
+    },
+    {
+      "type": "vocab",
+      "question": "In the original text 'the Trump administration to strip temporary protected status', what does 'strip' mean?",
+      "options": [
+        "A. To remove clothing",
+        "B. To deprive",
+        "C. To strengthen",
+        "D. To extend"
+      ],
+      "answer": 1,
+      "explanation": "'Strip' in a legal/political context often means 'to deprive (of rights, status, etc.)'. Here it means to cancel temporary protected status."
+    },
+    {
+      "type": "vocab",
+      "question": "原文 'no administration has had the guts to actually follow that statute' 中 'have the guts to' 的意思是：",
+      "options": [
+        "A. 有胃口做",
+        "B. 有勇气做",
+        "C. 有技巧做",
+        "D. 有权力做"
+      ],
+      "answer": 1,
+      "explanation": "have the guts to 是固定搭配，意为'有勇气做某事'。guts 在此指'勇气'，而非'内脏'。"
+    },
+    {
+      "type": "comprehension",
+      "question": "根据原文，最高法院在移民问题上作出了哪两项裁决？",
+      "options": [
+        "A. 允许边境官员拒绝庇护申请；允许终止TPS",
+        "B. 扩大庇护申请范围；延长TPS",
+        "C. 禁止边境官员拒绝庇护申请；要求保留TPS",
+        "D. 允许庇护申请者带家属；取消TPS"
+      ],
+      "answer": 0,
+      "explanation": "原文明确提到：最高法院裁定边境官员可以拒绝庇护申请人，并允许政府终止海地、叙利亚等国的TPS。"
+    },
+    {
+      "type": "comprehension",
+      "question": "委内瑞拉地震救援中，目前最急需的物资是什么？",
+      "options": [
+        "A. 药品和绷带",
+        "B. 发电机",
+        "C. 重型挖掘机械",
+        "D. 食品和水"
+      ],
+      "answer": 2,
+      "explanation": "原文中Stefano Pozzebon指出，拉瓜伊拉最需要的是挖掘机等大型机械，因为建筑坍塌叠压，需要重型设备清理。"
+    },
+    {
+      "type": "comprehension",
+      "question": "副总统万斯将水门事件描述为什么？",
+      "options": [
+        "A. 一场政治丑闻",
+        "B. 一个深层政府阴谋",
+        "C. 一次民主胜利",
+        "D. 一个媒体谎言"
+      ],
+      "answer": 1,
+      "explanation": "原文说：Vance says Watergate was a deep-state conspiracy，即万斯称水门事件是深层政府阴谋。"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "It's still unclear whether anyone was hurt. The cause of the crash remains under investigation. And in Illinois, more than 30 -- 300 cannabis workers have gone on strike. Three hundred cannabis workers going on strike, alleging unfair labor practices. Their union accusing Ascend Wellness of not bargaining in good faith. All right. That does it for us here on CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "It is not yet known if anyone was injured. The cause of the crash is still under investigation. In Illinois, more than 300 cannabis workers have gone on strike, alleging unfair labor practices. Their union accuses Ascend Wellness of not bargaining in good faith. That's it for CNN's top headlines. I'm Brad Smith. CNN This Morning with Oti Cornish starts now."
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Today in the group chat, Trump's mass deportation machine wins big at the Supreme Court. What the president might do with this increased power.",
+      "cn": "Today in the group chat: Trump's mass deportation machine wins big at the Supreme Court. What the president might do with this enhanced power."
+    },
+    {
+      "speaker": "Tessa Petit",
+      "text": "My people, they can't go back. It's real. The reality in Haiti is real.",
+      "cn": "My people, they can't go back. That's the truth. The reality in Haiti is real."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And the desperate search through the rubble, the humanitarian struggle this morning, one day after a devastating earthquake in Venezuela. In the meantime, Vice President J.D. Vance compares himself to Richard Nixon and says Watergate was a deep-state conspiracy. What does he know that we don't? And Team USA, stunned by Turkey in the World Cup.",
+      "cn": "And the desperate search in the rubble, the humanitarian struggle this morning, a day after a devastating earthquake in Venezuela. Meanwhile, Vice President J.D. Vance compares himself to Richard Nixon and calls Watergate a deep state conspiracy. What does he know that we don't? US team shocked by Turkey in the World Cup."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can they shake off the bad vibes and bounce back? And there continues the massive -- I want to bring you back to this massive search-and-rescue effort in Venezuela right now. The earthquake death toll continues to rise. Welcome back, everybody. I'm Audie Cornish. This is where we begin. The death count at this point, 235. More than 4,300 people injured. And those figures are expected to rise as first responders sift through the rubble. Now, right now, this is before and after scene.",
+      "cn": "Can they shake off the bad luck and bounce back? And a massive -- I want to take you back to the massive search and rescue effort currently underway in Venezuela. The earthquake death toll continues to rise. Welcome back, everyone. I'm Oti Cornish. Let's begin. The death toll now stands at 235. More than 4,300 injured. These numbers are expected to rise as first responders search through the rubble. Now, here is a before and after scene of the earthquake."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, you can get a sense of what the quakes took out. The first 48 to 72 hours are widely regarded as the golden window to reach people who may still be buried alive. So, this is new video showing passengers panicking aboard a plane at the international airport North of Caracas as the powerful tremors shook the aircraft on the tarmac. CNN's Stefano Pozzebon joins us now from Bogota, Colombia. We spoke yesterday, and I was asking about regional aid.",
+      "cn": "So you can see the damage the earthquake caused. The first 48 to 72 hours are widely considered the golden window to reach those who may still be buried alive. This is new video showing passengers panicking on a plane at the international airport north of Caracas as strong tremors shook the aircraft on the tarmac. CNN's Stefano Pozzobon joins us now from Bogota, Colombia. We spoke yesterday and I asked about regional aid."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can you talk about now? What's happening as more and more people come in to try and support the rescue effort?",
+      "cn": "Can you talk about that now? As more people come to support the rescue efforts, what is the situation?"
+    },
+    {
+      "speaker": "Stefano Pozzebon",
+      "text": "Yes, Audie. I think that that is a smart point, a smart angle to explore today, is that today is the day we are finally seeing the aid coming in. The Dominicans arrived yesterday at around 9 p.m. local time in Venezuela. I believe that they were the first mission of international aid relief landing in Caracas. Those are definitely the first images that we had seen here at CNN overnight. The Colombians were also able to fly into Caracas with two Hercules C- 130.",
+      "cn": "Yes, Oti. I think it's wise to explore this angle today, and today we are finally seeing aid arrive. Dominicans arrived in Venezuela around 9 p.m. local time yesterday. I believe they were the first international rescue team to land in Caracas. That is definitely the first image we saw overnight on CNN. Colombians were also able to fly into Caracas with two C-130 Hercules transport planes."
+    },
+    {
+      "speaker": "Stefano Pozzebon",
+      "text": "That, of course, took time, because the runway itself at the international airport, which serves the city of Caracas, was badly damaged. You can see from that video that you just played that the quake hit with the plane on the tarmac and created open cracks, really, on the tarmac of the runway.",
+      "cn": "Of course, it took time because the runway at the international airport serving Caracas was severely damaged itself. From the video you just played, you can see the plane on the tarmac when the earthquake hit, and it caused cracks on the runway tarmac."
+    },
+    {
+      "speaker": "Stefano Pozzebon",
+      "text": "So, these military planes that carry the aid had to make some adjustments in order to arrive as quickly and as close as possible to the relief zone, which is the state of La Guaira, where the airport is located, which is this coastal state close to Caracas, but on the coast on the Caribbean coast, where the majority of the damage is -- is located and being confined. So, today's the day we're going to see more international aid pouring in. The United States have also arrived on the scene overnight.",
+      "cn": "So the military planes delivering aid had to adjust to arrive as quickly and as close to the rescue zone as possible. The rescue zone is La Guaira state, where the airport is located, a coastal state near Caracas but on the Caribbean coast, where most of the damage occurred and was confined. So today we will see more international aid pouring in. The US also arrived on the scene overnight."
+    },
+    {
+      "speaker": "Stefano Pozzebon",
+      "text": "A major general from the Marine Corps arrived in Caracas. By the way, it's still surreal to me that we are seeing a major marine general in the grounds of Caracas less than six months after the ousting of Maduro. But this is the time we're living and were living in. And -- and this general arrived to coordinate efforts from the United States and other countries to try and help the Venezuelan population -- Audie.",
+      "cn": "A Marine Corps major general arrived in Caracas. By the way, less than six months after Maduro was overthrown, we see a Marine Corps major general in Caracas, which still feels surreal to me. But that's the times we live in. The general came to coordinate US and other countries' efforts to help the Venezuelan people -- Oti."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Stefano, I don't know if you've been able to hear from the region directly, but if you are, what's the sense of what's needed now beyond this search-and-rescue moment? I think heavy machinery is the trickiest thing, because one thing is to bring in containers with medicines, with plasters, with emergency kit, with generators.",
+      "cn": "Stefano, I don't know if you can hear directly from the region, but if you can, besides the current search and rescue moment, what do you think is needed now? I think heavy machinery is the trickiest issue because on one hand, containers with medicine, plaster, first aid kits, and generators can be brought in."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But what do they need in La Guaira is excavator; big machinery in order to lift in a safely way, the -- all of these floors that have been pancaked on top of each other because of the -- of the power of the tremors. And Venezuela don't have those machinery readily available. We've seen some of them in action in Caracas in the last couple of days. Our team is at the city, and they have been filming it.",
+      "cn": "But what La Guaira needs are excavators; large machines to safely lift the floor slabs that have piled up due to the earthquake's force. And Venezuela doesn't have these machines readily available. We saw some machines operating in Caracas over the past few days. Our team is in the city and has been filming."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But in La Guaira yesterday, when they were down in the area most affected, they were really talking about the lack of equipment, the lack of gear. So, I think that that is a crucial equipment, a crucial component that the country desperately needs as quickly as possible.",
+      "cn": "But yesterday in La Guaira, when they reached the hardest-hit areas, they did talk about a lack of equipment and gear. So I think this is a critical piece of equipment and a critical component that the country urgently needs, and the sooner the better."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Stefano Pozzebon, speaking to us from neighboring Colombia, thank you so much. Now, while the people in Venezuela are desperate for help, we here in the U.S. have seen two rulings from the Supreme Court indicating that the U.S. is not quite the place of refuge it might have been. The Supreme Court ruled immigration officials at the U.S.-Mexico border can turn away asylum seekers before they enter the country.",
+      "cn": "Okay. Stefano Pozzobon, reporting from neighboring Colombia, thank you very much. Now, while the people of Venezuela desperately need help, we saw two Supreme Court rulings in the US indicating that America may no longer be the refuge it once was. The Supreme Court ruled that immigration officials at the US-Mexico border can turn away asylum seekers before they enter the United States."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, in her dissent, Justice Sonia Sotomayor wrote, \"The consequences of today's decision are predictable. More people will die.\" Now, the justices also allowed the Trump administration to strip temporary protected status for hundreds of thousands of Haitians and Syrians living in the",
+      "cn": "Now, in her dissent, Justice Sonia Sotomayor wrote: \"The consequences of today's ruling are predictable. More people will die.\" Additionally, the justices allowed the Trump administration to end Temporary Protected Status for hundreds of thousands of Haitians and Syrians in the US."
+    },
+    {
+      "speaker": "U.S. Tom Homan",
+      "text": "The whole statute exists. Temporarily to give people protection while the country's in turmoil or after they suffer a hurricane. But the problem is, no administration has had the guts to actually follow that statute. President Trump has the guts to follow the law. So temporary means temporary. When the condition in that country gets better, they need to go home. So temporary means temporary. And I'm grateful for that decision.",
+      "cn": "The entire statute exists. Temporary Protected Status is meant to temporarily give people protection after a country's upheaval or a hurricane. But the problem is that no administration had the courage to actually follow the statute. President Trump has the courage to follow the law. So temporary means temporary. When conditions in that country improve, they need to go home. So temporary is temporary. I am grateful for this decision."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, TPS protects people who are fleeing violence and natural disasters.",
+      "cn": "So TPS protects people fleeing violence and natural disasters."
+    },
+    {
+      "speaker": "Mercedes Narcisse",
+      "text": "This same government that tells me that it is too dangerous to set foot in Haiti, just told 350,000 Haitians that they have to go back there anyway, even to their death sentence. You cannot have it both ways. This is not Burger King.",
+      "cn": "The same government that tells me it's too dangerous to set foot in Haiti just told 350,000 Haitians they have to go back anyway, even if it means death. You can't have it both ways. This isn't Burger King."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, today in the group chat, we've got our CNN legal analyst, former federal prosecutor Elliot Williams; also Rob Bluey, president and executive editor at \"The Daily Signal\"; and Lulu Garcia-Navarro, CNN contributor and host of \"The New York Times\" podcast, \"The Interview.\" Thank you so much for being here. Elliot, I've got to start with you, the legal of this. Basically, this law from the 1990s gives people a kind of quasi legal status. You can work a bit, you can stay a bit, but it is by definition limited --",
+      "cn": "So today in our group chat, we have CNN legal analyst and former federal prosecutor Elliot Williams; Rob Bluey, president and executive editor of The Daily Signal; and CNN contributor and host of The New York Times podcast The Interview, Lulu Garcia-Navarro. Thank you all for being here. Elliot, I have to start with you on the legal side. Basically, this 1990s law gives people a quasi-legal status. You can work a bit, you can stay for a while, but by definition it is limited --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- unless it gets continual extensions.",
+      "cn": "-- unless it keeps getting extended."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, does Homan have a point? And is that what the court underscored, or did they point to something else?",
+      "cn": "So does Homan have a point? Is that what the court emphasized, or did they point to something else?"
+    },
+    {
+      "speaker": "Williams",
+      "text": "They pointed to something else. What he does have a point in that -- so the point of temporary protected status is when conditions in a country are such that people cannot return there. Haiti was an excellent example after the earthquake. Certainly, it was not feasible for the United States to send people back there. It was safe --",
+      "cn": "They pointed to something else. Where he has a point is -- Temporary Protected Status is meant to give protection when conditions in a country make it impossible for people to return. Haiti after the earthquake is a good example. Obviously, the US couldn't send people back there then. It was safe --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Or Syria with the war.",
+      "cn": "Atau Suriah, karena perang."
+    },
+    {
+      "speaker": "Williams",
+      "text": "With the war and the deteriorating conditions there. Now, what countless administrations of both parties have done is extend those designations each time and sometimes multiple times, up to a period of years. Now, on the flip side, what Kristi Noem, the former secretary of homeland security, did was simply just suspend TPS for Haitians and Syrians.",
+      "cn": "Karena perang dan situasi yang memburuk. Sekarang, yang dilakukan oleh pemerintahan dari kedua partai adalah setiap kali memperpanjang penetapan ini, kadang-kadang bahkan berkali-kali, hingga bertahun-tahun. Di sisi lain, yang dilakukan oleh mantan Menteri Keamanan Dalam Negeri Kristi Noem adalah langsung menangguhkan TPS bagi warga Haiti dan Suriah."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And I'm going to put up a map showing all the countries --",
+      "cn": "Ya. Saya akan menunjukkan peta yang menandai semua negara -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- the administration has tried to terminate --",
+      "cn": "-- -- yang coba dihentikan oleh pemerintahan ini -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- TPS. Just so people have a sense of where folks are coming from and where we're trying to stop them from.",
+      "cn": "-- -- TPS. Hanya untuk memberi gambaran dari mana asal orang-orang ini dan dari mana kami mencoba mencegah mereka datang."
+    },
+    {
+      "speaker": "Williams",
+      "text": "And -- but here, there wasn't a ton of process. It was just simply, with the stroke of a pen, we're going -- we' re going to suspend this right here. That was part of what animated the lawsuit. But certainly, you know, again, Tom Homan, frankly, who I worked with for years at ICE and whom I know, he's got a little bit of a point in that the sort of the temporary nature of all of this.",
+      "cn": "Dan -- -- tapi di sini, tidak banyak prosedur. Hanya dengan satu goresan pena, kami -- -- kami menangguhkan hak ini. Itu sebagian alasan mengapa ini memicu gugatan. Tapi tentu saja, Anda tahu, terus terang, Tom Homan, saya bekerja dengannya di ICE selama bertahun-tahun, saya mengenalnya, ada benarnya apa yang dia katakan, yaitu sifat sementara dari semua ini."
+    },
+    {
+      "speaker": "Williams",
+      "text": "That said, the manner in which they did it, and the potential consequences, in light of the Venezuelan earthquake, could be profound for the entire hemisphere. And it's just something to think about what comes next after this Supreme Court decision, like any other.",
+      "cn": "Meskipun demikian, cara yang mereka tempuh dan konsekuensi potensial, mengingat gempa bumi di Venezuela, dapat berdampak luas ke seluruh belahan bumi. Seperti halnya keputusan Mahkamah Agung lainnya, apa yang akan terjadi selanjutnya layak untuk dipikirkan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There was a twist in this conversation, which is that the Haitian plaintiffs said, Look, this administration has said such heinous things about Haitians in particular that there's obviously racial animus in the way they made this decision about TPS for their status. And it was interesting.",
+      "cn": "Ada titik balik dalam percakapan ini, penggugat dari Haiti mengatakan: \"Lihat, pemerintahan ini telah mengatakan hal-hal yang begitu keji tentang orang Haiti, jelas mereka memiliki permusuhan rasial ketika memutuskan status perlindungan sementara bagi orang Haiti.\" Ini menarik."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You had Elena Kagan writing, \"The statements fairly shout, in their racial undertones and overtones alike, that race entered into the president's resolve to remove Haitians from this country.\" I'm not sure if we have some clips of that. We might, but needless to say, we have been hearing over the years, especially during campaign time, when Vance accused Haitians of all manner of thing, and that the court rejected that.",
+      "cn": "Elena Kagan menulis: \"Pernyataan-pernyataan ini, baik dalam nada rasial maupun secara eksplisit, dengan lantang menyatakan bahwa faktor ras masuk dalam tekad presiden untuk mengusir orang Haiti dari negara ini.\" Saya tidak yakin apakah kita memiliki klip terkait. Mungkin ada, tapi tak perlu dikatakan, selama bertahun-tahun kita telah mendengar, terutama selama kampanye, Vance menuduh orang Haiti melakukan berbagai hal, dan pengadilan menolak tuduhan tersebut."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "ROB BLUEY, PRESIDENT/EXECUTIVE EDITOR, \"THE DAILY SIGNAL\": Well, Audie, I'm glad you brought up the campaign, because I think going back to this conversation, just more broadly on immigration, Donald Trump promised to carry out the largest mass deportation in our country's history. The fact of the matter is, if you look at the first year of the Trump administration, they did not hit the mark on the president's own promise.",
+      "cn": "Rob Bluey, Presiden dan Editor Eksekutif The Daily Signal: Yah, Audie, saya senang Anda menyebut kampanye, karena saya pikir kembali ke percakapan ini, berbicara lebih luas tentang imigrasi, Donald Trump berjanji untuk melakukan deportasi massal terbesar dalam sejarah negara kita. Faktanya, jika Anda melihat tahun pertama pemerintahan Trump, mereka tidak memenuhi janji presiden sendiri."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And now, the mass deportation coalition is saying that they need to deport up to a million illegal immigrants this year.",
+      "cn": "Sekarang, koalisi deportasi massal mengatakan bahwa mereka perlu mendeportasi hingga 1 juta imigran ilegal tahun ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, you're bringing in -- are you bringing this up because you're saying this was a win they needed?",
+      "cn": "Jadi, apakah Anda mengemukakan ini karena Anda pikir ini adalah kemenangan yang mereka butuhkan?"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Yes. I'm saying that Donald Trump is -- if that's the promise that he was going to deliver on -- and that was a central theme of his 2024 campaign -- these victories at the Supreme Court certainly put him on the pathway to getting back on track when it comes to carrying out that. Now, we may disagree on whether or not that's the policy the United States should carry out. I just happen to say, as a conservative and as somebody who --",
+      "cn": "Ya. Maksud saya Donald Trump -- -- jika itu janji yang akan dia tepati -- -- dan itu adalah tema inti kampanyenya tahun 2024 -- -- maka kemenangan di Mahkamah Agung ini pasti membuatnya berada di jalur untuk mencapai tujuan itu. Sekarang, kita mungkin berbeda pendapat tentang apakah ini kebijakan yang harus dijalankan Amerika. Saya kebetulan berpikir, sebagai seorang konservatif dan sebagai manusia -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You're happy about this --",
+      "cn": "Anda senang dengan itu -- --"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "I think that these rogue judges were -- were out of step. Absolutely I do.",
+      "cn": "Saya pikir hakim-hakim nakal ini -- -- tidak realistis. Saya benar-benar berpikir begitu."
+    },
+    {
+      "speaker": "Lulu Garcia-Navarro",
+      "text": "Well, the first thing is these were not illegal immigrants. These were people who were here and were given legal status. They did all the things that they needed to do. Specifically, they got vetted. They have jobs. They are nurses. They are doctors. They are journalists.",
+      "cn": "Yah, pertama-tama orang-orang ini bukan imigran ilegal. Mereka adalah orang-orang yang berada di sini secara legal. Mereka telah melakukan semua yang diperlukan. Secara spesifik, mereka telah melalui pemeriksaan. Mereka punya pekerjaan. Mereka adalah perawat, dokter, jurnalis."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm going to put up, while you're talking, an example of the kinds of jobs Haitian TPS holders were doing in this country, 200,000 of them in the U.S. workforce.",
+      "cn": "Sementara Anda berbicara, saya berikan contoh jenis pekerjaan yang dilakukan oleh pemegang status perlindungan sementara Haiti di negara ini, di mana 200.000 dari mereka berada dalam angkatan kerja AS."
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Exactly. And so, the idea that -- the problem that I have always with this argument is -- made by conservatives is that they conflate everything, right? It's like, illegal immigrants, TPS holders. It's basically anyone who's brown who has been allowed in this country. We have seen under this administration, basically, refugees, the entire refugee program being suspended and being now handed over to white South Africans.",
+      "cn": "Benar. Jadi, saya selalu keberatan dengan argumen ini -- -- yang diajukan oleh konservatif -- -- yaitu mereka mencampuradukkan semuanya, kan? Misalnya, imigran ilegal, pemegang TPS. Pada dasarnya semua orang berkulit cokelat yang diizinkan masuk ke negara ini. Kita lihat di bawah pemerintahan ini, pada dasarnya, pengungsi, seluruh program pengungsi dihentikan, dan sekarang diserahkan kepada orang kulit putih Afrika Selatan."
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "What is this about, if not about racial animus? And I think what Elena Kagan was pointing to were the president's very own statements. \"They're eating the dogs. They're eating the cats,\" talking about Haitians who were working. And that was completely fabricated. And so, I think at the end of the day, when you look specifically at a place like Haiti, how can you argue that that is safe for people to go back to?",
+      "cn": "Jika bukan karena permusuhan rasial, lalu apa ini? Saya pikir apa yang ditunjukkan Elena Kagan adalah pernyataan presiden sendiri. \"Mereka makan anjing, mereka makan kucing,\" yang ditujukan kepada orang Haiti yang bekerja. Itu benar-benar dibuat-buat. Jadi, saya pikir pada akhirnya, ketika Anda secara spesifik melihat tempat seperti Haiti, bagaimana Anda bisa mengatakan tempat itu aman untuk dikembalikan?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But I hear your point that, again, conflating mass deportation of illegal immigrants --",
+      "cn": "Ya. Tapi saya dengar sudut pandang Anda, sekali lagi, mencampuradukkan deportasi massal imigran ilegal -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- is that the same as haphazard deportation of legal migrants that you have approved and vetted? And why lump those two together?",
+      "cn": "-- -- apakah itu sama dengan mendeportasi secara sembarangan imigran legal yang telah Anda setujui dan periksa? Mengapa mencampuradukkan keduanya?"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Well, I do think that we have a massive problem. What, upwards of 20 million people who entered the country illegally under Joe Biden's watch. So, there's --",
+      "cn": "Yah, saya memang berpikir kita punya masalah besar. Di bawah pengawasan Biden, ada lebih dari 20 juta orang yang masuk secara ilegal. Jadi, ini -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, no. I want to repeat --",
+      "cn": "Oh, tidak. Saya ingin mengulangi -- --"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "-- there's that. There's that -- that -- there's that issue.",
+      "cn": "-- -- ada masalah ini. Ada itu -- -- itu -- -- ada masalah itu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- the legal migrants. Why put those together? I just want to make sure you get a chance to answer that point.",
+      "cn": "--  -- 合法移民。为什么要把它们放在一起？我只是想确保你有机会回答那个问题。"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Yes. Well, if we're going to go back to the Supreme Court decision, ultimately, it comes down to the fact that it's up to the secretary of homeland security to make this decision. And it's not a matter for the courts to review. That's ultimately what --",
+      "cn": "是的。好吧，如果我们回到最高法院的裁决，最终归结为一点，即由国土安全部部长来做这个决定。这不是法院可以审查的事情。最终这就是 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, I think they said it was Congress. But let me just add one more thing.",
+      "cn": "嗯，我认为他们说是国会。但让我再补充一点。"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Congress gave the authority --",
+      "cn": "国会将这一权力授予了 --  --"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "-- to the secretary of homeland security.",
+      "cn": "--  -- 国土安全部部长。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me follow Lulu's point.",
+      "cn": "让我顺着卢卢的观点说。"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "And these rogue judges were interfering in that.",
+      "cn": "而那些无赖法官正在干涉这一点。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Because that's not what they have in their decision here. But, Lulu, I do want to answer something you said about the racial animus. Alito spoke to this directly, and he said, Look, political discourse by prominent public figures is increasingly couched in terms that would have scandalized the public just a short time ago. And he talks about Haitian -- the commentary around Haitians in particular.",
+      "cn": "因为他们的裁决中并没有体现这一点。但是，卢卢，我确实想回应你提到的关于种族敌意的问题。阿利托直接谈到了这一点，他说，看，知名公众人物的政治言论越来越多地使用那些不久前还会让公众感到震惊的措辞。他特别提到了关于海地人的评论。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But he says, \"Whatever one may think of the kinds of statements that the -- the state's lawyers couldn't even repeat in court,\" he says, \"they're insufficient to show that the termination of Haiti's TPS designation was based on the race of the Haitian people.\" So, you could talk about eating the dogs. You can say all kinds of stuff. And they're saying that doesn't necessarily mean that that is what is driving the decision. That it might be the things that he's talking about and that that is across the board.",
+      "cn": "但他说：\"无论人们如何看待这些 --  -- 州律师甚至无法在法庭上重复的言论，\"他说，\"它们都不足以证明终止海地TPS身份是基于海地人的种族。\"所以，你可以谈论吃狗肉。你可以说各种东西。而他们认为这并不一定意味着这就是推动决策的原因。可能只是他谈论的事情，而且这是普遍存在的。"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Well, because there -- no one could establish definitively in court that we are removing Haitian people because they're Haitian, legally, there -- Justice Alito is making the point that, of course, there's no tie between the two. But -- but, you know, to Lulu's point, look at the president's own statements, literally calling Haiti a shithole country. You cannot -- I think we're being a little bit cute if we look the other way when there is an immigration policy that --",
+      "cn": "嗯，因为 --  -- 没有人能在法庭上明确证明我们驱逐海地人是因为他们是海地人，在法律上，阿利托大法官指出，两者之间当然没有联系。但是 --  -- 但是，你知道，针对卢卢的观点，看看总统自己的言论，他简直把海地称为一个粪坑国家。你不能 --  -- 我认为，当存在一项移民政策时，我们如果视而不见，那就有点太天真了 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But this approach on race is consistent for this court.",
+      "cn": "但法院在种族问题上的这种做法是一贯的。"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Yes. Oh, absolutely.",
+      "cn": "是的。哦，绝对如此。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. OK. We are going to come back to some of these issues, but stay with us. Because from Sunday school to public school, there is this big debate in Texas over a move to bring Bible stories into the classroom. We're going to talk about that. And then that top FEMA official who once claimed that he teleported to a Waffle House, is now out of a job. And World Cup stunner. Team USA fans not fazed at all after the men's national team was upset in the final minute against Turkey.",
+      "cn": "是的。好的。我们稍后会回到其中一些问题，但请继续关注我们。因为从主日学校到公立学校，德克萨斯州正在就一项将圣经故事引入课堂的举措展开激烈辩论。我们将讨论这个问题。还有那位曾声称自己瞬移到华夫饼店的FEMA高级官员，现在被解雇了。以及世界杯的冷门。美国男足在最后一分钟被土耳其队逆转，但球迷们毫不在意。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "It's weird to think that we lost, but it didn't really mean anything, and we're still going through first place in our bracket. So, I mean, this experience was phenomenal.",
+      "cn": "想到我们输了，感觉很奇怪，但这其实没什么大不了的，我们仍然在小组中排名第一。所以，我的意思是，这次经历太棒了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Its now 18 minutes past the hour. This is your morning roundup. Luigi Mangione's attorneys discuss a possible plea deal with prosecutors in his federal case, but sources say the discussions didn't result into an agreement. Mangione is due back in federal court on Monday. And later this morning, the Texas Board of Education will vote on a proposal about adding Bible stories as part of public-school curriculum. Now, it would be required reading for students from elementary all the way through high school.",
+      "cn": "现在是整点过18分。这是你的早间新闻汇总。路易吉·曼吉奥内的律师正在与联邦检察官讨论可能的认罪协议，但消息人士称讨论未能达成协议。曼吉奥内将于周一再次出庭联邦法院。今天上午晚些时候，德克萨斯州教育委员会将就一项将圣经故事纳入公立学校课程的提案进行投票。如果通过，从小学到高中，学生都将被要求阅读这些内容。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Supporters call it essential context. Critics warn it blurs the line between church and state. And one of FEMA's most consequential leadership roles is still empty. The man who made this claim is out.",
+      "cn": "支持者称其为必要的背景知识。批评者警告说，这模糊了政教分离的界限。而联邦紧急事务管理局（FEMA）最重要的领导职位之一仍然空缺。提出这一说法的人已经离职。"
+    },
+    {
+      "speaker": "Gregg Phillips",
+      "text": "We had a teleport incident, two of them. The car lifted up and took me where I was going, and I ended up at a Waffle House, like 50 miles away from where I was.",
+      "cn": "我们发生了一起传送事件，实际上是两起。汽车升起来，把我带到了我要去的地方，最后我到了一家华夫饼屋，离我原来所在的地方大约50英里远。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. So, this came up, saying he teleported to a Waffle House. And guess what? He's out at FEMA. Several sources tell CNN it was not voluntary. DHS saying Gregg Phillips' departure was for personal reasons. And later on CNN THIS MORNING, disaster in Venezuela. Survivors face a humanitarian fight and new hurdles if they try to seek asylum in the U.S. Plus, Team USA's first stumble in the World Cup group stage. They begin play in the knockout round next week. In the meantime, good morning to Chicago.",
+      "cn": "是的。所以，这件事被提了出来，说他传送到了华夫饼屋。你猜怎么着？他离开了FEMA。多位消息人士告诉CNN，这不是自愿的。国土安全部表示，格雷格·菲利普斯的离职是出于个人原因。稍后在CNN《今晨》节目中：委内瑞拉的灾难。幸存者面临人道主义斗争，以及如果他们试图在美国寻求庇护将遇到的新障碍。此外，美国队在世界杯小组赛中的首次失利。他们将于下周开始淘汰赛阶段的比赛。与此同时，芝加哥早上好。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, in the World Cup. Team USA has suffered a stunning 3-2 loss to Turkey, because it happened in the final seconds of the match, Turkey snapping a 2-2 tie in the 98th minute to capture their first win of the tournament. Now for the U.S., it was their first loss. The Americans are already advancing onto the next round, and they face Bosnia and Herzegovina next week in San Francisco. Now, Turkey was going home regardless. But was this a blow to the confidence of the men's team?",
+      "cn": "那么，在世界杯上。美国队以2比3惨败给土耳其，因为比赛在最后几秒发生了转折，土耳其在第98分钟打破2比2平局，赢得了他们在本届赛事中的首场胜利。对美国队来说，这是他们的首场失利。美国人已经晋级下一轮，他们将于下周在旧金山对阵波黑。而土耳其无论结果如何都将回家。但这是否打击了男队的信心？"
+    },
+    {
+      "speaker": "Sebastian Berhalter",
+      "text": "I think you saw the second half, how we came out. And, you know, I think they deserve more like one moment. You know, we slipped in the last second of the game. And you know, I think we're proud of the goals put in. You know I think the guys, you know, did well. And you know, we fought. And you know, unfortunate not to get the result. But we'll be ready for sure.",
+      "cn": "我想你看到了下半场我们是如何出场的。而且，你知道，我认为他们更值得一个时刻。你知道，我们在比赛最后一秒失误了。而且，你知道，我们为打入的进球感到自豪。你知道，我认为队员们做得很好。而且，你知道，我们战斗了。你知道，不幸的是没有取得结果。但我们肯定会准备好的。"
+    },
+    {
+      "speaker": "Brenden Aaronson",
+      "text": "You can always take these things as fuel. You know, having that moment, you know, in the last one where they score, it's -- it's tough. You know, we wanted to walk away with, you know, no loss in the group stage. But, you know, we've got to take it as it was still a fantastic group stage.",
+      "cn": "你总是可以把这些当作动力。你知道，在最后一刻他们进球的那一刻，这很艰难。你知道，我们本想以小组赛不败的战绩离开。但是，你知道，我们必须接受它，这仍然是一个精彩的小组赛。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, Will Leitch is here to help me translate. He's a contributing editor at \"New York Magazine,\" columnist with \"The Washington Post.\" You are my World Cup whisperer. And thanks to the -- the Knicks, I'm -- I'm scared of, like, momentum killers. Do you know what I mean? Like, I'm unnecessarily freaked out, but no one else is, I've noticed. Why is that? WILL LEITCH, COLUMNIST, \"WASHINGTON POST\": Yes, certainly. Coach Mauricio Pochettino, who's Argentinian, he talked to a lot of reporters after the game.",
+      "cn": "所以，威尔·莱奇在这里帮我翻译。他是《纽约杂志》的特约编辑，《华盛顿邮报》的专栏作家。你是我的世界杯解说员。感谢尼克斯队，我害怕那种扼杀势头的东西。你明白我的意思吗？比如，我莫名其妙地感到恐慌，但我注意到其他人并没有。这是为什么？《华盛顿邮报》专栏作家威尔·莱奇：是的，当然。阿根廷籍教练毛里西奥·波切蒂诺在赛后接受了许多记者采访。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He was very confused, because he was, like, why are you so negative? We won the group. And I'm like, well, you're welcome to a dealing with the American media. But yes, at a certain level he is -- he's right. The U.S. won their group. They actually played almost none of their starters last night, not only to rest them, but also strategic reason. Remember, a lot of those players had yellow cards.",
+      "cn": "他非常困惑，因为他觉得，你们为什么这么消极？我们赢得了小组赛。而我想，好吧，欢迎你体验与美国媒体打交道。但确实，在某种程度上他是对的。美国队赢得了小组赛。他们昨晚实际上几乎没有派上任何首发球员，不仅是为了让他们休息，也是出于战略原因。记住，很多球员都有黄牌在身。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Those yellow cards reset -- reset after this round, which means they're clear to play and don't have to worry about missing the next round. The goal of this was to keep everyone healthy to -- to, to make sure that Pulisic was able to come in and play and be a little healthy. He showed that he was fine. The result, certainly, they would have liked to have won, I suppose, but it really didn't make any difference. Turkey didn't have anything to play either -- play for either. The U.S.",
+      "cn": "那些黄牌清零 --  -- 在本轮比赛后清零，这意味着他们可以安心上场，不必担心错过下一轮。这样做的目的是让每个人都保持健康，确保普利西奇能够上场并保持一定的健康状态。他证明了自己状态良好。至于结果，他们当然希望赢，但我想这其实无关紧要。土耳其队也没什么可争的。美国队"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "was set and locked in to play in their game on Wednesday, no matter what happened in this game. And the coach kind of sort of treated it that way.",
+      "cn": "Sudah dipastikan akan bermain di pertandingan hari Rabu, apa pun hasil pertandingan ini. Dan pelatih pada dasarnya sudah menanganinya seperti itu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right, here's a fan with their assessment, which I found super interesting. So, here it is.",
+      "cn": "Baiklah, ini ada komentar dari seorang penggemar yang menurut saya sangat menarik. Mari kita lihat."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Again, I think today, they showed that even their second string could come in and compete against a world-class team. We're so excited for the next round. I think we're going to beat maybe Bosnia-Herzegovina. We're going to play hard. We're going to crush them. It's going to be awesome.",
+      "cn": "Sekali lagi, saya pikir hari ini mereka menunjukkan bahwa bahkan pemain cadangan pun bisa bersaing dengan tim kelas dunia. Kami sangat bersemangat untuk babak berikutnya. Saya pikir kami bisa mengalahkan Bosnia. Kami akan berusaha maksimal. Kami akan menghancurkan mereka. Itu akan sangat bagus."
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "Awesome. Thank you so much.",
+      "cn": "Luar biasa. Terima kasih banyak."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's the first part of that. Even their second team can compete against a world-class team. I feel like we should underscore that, given just how advanced the women's game on the U.S. side has been for so long. But people haven't talked about men the same way. So, help me parse what this fan is saying.",
+      "cn": "Ini bagian pertama. Bahkan pemain cadangan mereka bisa bersaing dengan tim kelas dunia. Saya pikir kita harus menekankan hal ini, karena tim wanita AS sudah lama berada di puncak. Tapi orang tidak membicarakan tim pria dengan cara yang sama. Jadi, bantu saya menganalisis apa yang dikatakan penggemar ini."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Yes, there really was. And listen, you know, think of like maybe Tyler Kolek, to use our Knicks example, playing a lot and being kind of hold-up. This speaks so much to how much progress the U.S. national team has made. Again, they're clearly not as good as the women's team, but realize for years and years and years in the World Cup, the U.S. has played a very defensive game. They've just tried to kind of not lose. That's not -- they've been very aggressive this entire time. They were aggressive last night.",
+      "cn": "Ya, benar. Dengar, Anda tahu, pikirkan misalnya Tyler Kolek, dengan contoh tim Knicks kita, dia banyak bermain tapi agak lamban. Ini menunjukkan betapa besarnya kemajuan yang telah dicapai tim nasional AS. Sekali lagi, mereka jelas tidak sebaik tim wanita, tapi tahukah Anda, di Piala Dunia, tim AS selama bertahun-tahun bermain sangat konservatif. Mereka hanya berusaha untuk tidak kalah. Tapi kali ini mereka sangat agresif. Tadi malam mereka agresif."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Frankly, they were actually the better team last night. The result didn't show that. But generally speaking, they were better pretty much across the board. Pulisic, again, looked so good in his short time in. These are all the backups, and I think those -- they're going to be fully rested for the game on Wednesday. That's the idea. There was a time where the starters for the U.S. national team could not compete on the national stage.",
+      "cn": "Terus terang, tadi malam mereka sebenarnya tim yang lebih baik. Hasilnya tidak mencerminkan itu. Tapi secara keseluruhan, mereka lebih unggul di hampir semua aspek. Pulisic tampil bagus lagi dalam waktu bermain yang singkat. Ini semua pemain cadangan, dan saya pikir mereka akan cukup istirahat untuk pertandingan hari Rabu. Itulah tujuannya. Dulu, pemain inti tim nasional AS pun tidak bisa bersaing di panggung internasional."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Now, the backups not only were able to compete, they really were the better team for most of the team [SIC] last night in a game that, again, did not matter and was treated that way by everyone. Most of all, the coach.",
+      "cn": "Sekarang, pemain cadangan tidak hanya bisa bersaing, tapi dalam pertandingan tadi malam yang tidak penting dan semua orang menganggapnya seperti itu, mereka sebenarnya tim yang lebih baik untuk sebagian besar waktu. Terutama pelatih."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And one other thing. Will. You and I talked last year about whether the U.S. would become a kind of sports villain, right? With its threats against Greenland, starting up things against Venezuela or, you know, with Iran. That -- I think we were wrong. That's not turned out to be the case. It's been kind of a love fest.",
+      "cn": "Dan satu hal lagi. Will, tahun lalu kita membahas apakah AS akan menjadi semacam penjahat dalam olahraga, kan? Karena ancamannya terhadap Greenland, provokasi terhadap Venezuela atau Iran. Saya pikir kita salah. Ternyata tidak. Malah menjadi pesta cinta."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "It really has. You know, a lot of the worries that people had heading into this World Cup -- from, like, ICE showing up at events or -- or even Trump kind of going with the Knicks idea, showing up and kind of distracting. None of that's happened yet. Now we are not even to the knockout stage yet. But certainly, you know, one of the fun things about the U.S. men's national team, they are something that Americans generally think of themselves as being, but aren't: underdogs. Like, they are kind of a growth stock.",
+      "cn": "Benar sekali. Anda tahu, orang-orang punya banyak kekhawatiran sebelum Piala Dunia ini -- seperti kehadiran ICE di acara, atau Trump tiba-tiba mengemukakan ide tentang tim Knicks, muncul dan mengalihkan perhatian. Itu semua tidak terjadi. Sekarang kita bahkan belum sampai ke fase gugur. Tapi yang pasti, satu hal menarik tentang tim nasional pria AS adalah mereka mewakili citra yang sering dianggap orang Amerika tentang diri mereka sendiri, padahal sebenarnya tidak: pihak yang lemah. Mereka agak seperti saham pertumbuhan."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "They're a fun team to get excited. Because while they can compete on the world stage, they're not a favorite like a Spain or a France or an England. But they are good, and they are getting better. Those are fun teams to root for. We always think of ourselves as Rocky Balboa. var CNN = CNN || {}; WILL LEITCH, CONTRIBUTING EDITOR, \"NEW YORK MAGAZINE\": They can't compete on the world stage if they are not a favorite like a Spain or a France or an England, but they are good and they are getting better.",
+      "cn": "Mereka adalah tim yang menarik. Karena meskipun mereka bisa bersaing di panggung dunia, mereka bukan favorit seperti Spanyol, Prancis, atau Inggris. Tapi mereka bagus, dan terus menjadi lebih baik. Tim seperti itu layak didukung. Kita selalu membayangkan diri kita sebagai Rocky Balboa."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Those are fun teams to root for. We always think of ourselves as Rocky Balboa, but usually we're not.",
+      "cn": "Tim seperti itu layak didukung. Kita selalu membayangkan diri kita sebagai Rocky Balboa, tapi biasanya kita bukan."
+    },
+    {
+      "speaker": "Leitch",
+      "text": "In the closest there we are. Like, this is the closest you kind of get for that. We are this -- the closest as a U.S. national team will ever get to being Hoosiers. So, that's a fun team to kind of get excited and cheer.",
+      "cn": "Kali ini yang paling mendekati. Ini adalah yang paling dekat tim nasional AS menjadi seperti tim dalam \"Hoosiers\". Jadi, ini adalah tim yang menarik dan layak didukung."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Good reference. Will Leitch, thank you so much.",
+      "cn": "Perumpamaan yang bagus. Will Leitch, terima kasih banyak."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Straight ahead on CNN THIS MORNING, we're going to follow up on what's going on with the Strait of Hormuz. The U.S. accusing Iran of attacking a vessel and pausing U.N. efforts to evacuate ships. Plus, why did J.D. Vance downplay the impact of Watergate?",
+      "cn": "Selanjutnya di CNN This Morning, kami akan mengikuti perkembangan di Selat Hormuz. AS menuduh Iran menyerang sebuah kapal dan menghentikan upaya evakuasi PBB. Selain itu, mengapa J.D. Vance meremehkan dampak Watergate?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Developing this morning, a ship has struck the Strait of Hormuz. A ship has been struck in the Strait of Hormuz. The U.S. is pointing the finger at Iran, saying one of their drones hit the cargo ship. It's the first strike since the U.S. and Iran agreed to work towards a peace deal. Now, the incident happened as shipping traffic was just starting to pick up. Just days after the U.S. lifted sanctions on Iranian oil, allowing Tehran to sell oil in dollars for the first time in decades.",
+      "cn": "Pagi ini berita terbaru, sebuah kapal terkena serangan di Selat Hormuz. AS menuduh Iran, mengatakan drone mereka menghantam kapal kargo ini. Ini adalah serangan pertama sejak AS dan Iran setuju untuk berupaya mencapai kesepakatan damai. Peristiwa itu terjadi saat lalu lintas pelayaran baru mulai pulih. Beberapa hari setelah AS mencabut sanksi minyak Iran, memungkinkan Teheran menjual minyak dengan dolar AS untuk pertama kalinya dalam beberapa dekade."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, we're bringing in CNN's Paula Hancocks. Paula, as I said, consequential day, the lifting of sanctions. And then at the same time, you've got this strike occurring in the Strait of Hormuz. Can you talk about what that means for the ability of these negotiations to go on if there's still threats to the ships from passing through?",
+      "cn": "Kita hubungkan dengan Paula Hancocks dari CNN. Paula, seperti yang saya katakan, hari ini adalah hari penting, sanksi dicabut. Sementara itu, terjadi serangan di Selat Hormuz. Jika kapal masih menghadapi ancaman saat melintas, apa artinya ini bagi kelanjutan negosiasi?"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "So, Audie, it had been going so well in the Strait of Hormuz this week. With this latest strike, there were no casualties. There's no environmental damage. But the hit to confidence in the shipping industry is pretty significant. There was an evacuation that was underway by the U.N., by the international maritime organization to try and get the vessels and more than 11,000 seafarers who had been stuck in the Persian Gulf since the start of the war out into the open waters. Now that had begun.",
+      "cn": "Oti, situasi di Selat Hormuz minggu ini berjalan lancar. Serangan terbaru ini tidak menimbulkan korban jiwa atau kerusakan lingkungan. Tapi dampaknya terhadap kepercayaan industri pelayaran cukup besar. PBB dan Organisasi Maritim Internasional sebelumnya sedang mengatur evakuasi, mencoba membawa kapal-kapal yang terjebak di Teluk Persia sejak perang dimulai dan lebih dari 11.000 pelaut ke laut lepas. Evakuasi sudah dimulai."
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "We saw on Wednesday some 70 vessels managed to transit through the Strait of Hormuz. But now that there has been this strike, that is all on hold. The U.N. saying they're halting this evacuation. They said the safety of the seafarers is the most important. They need more clarity. Now, Iran hasn't claimed responsibility at this point for this strike on the vessel, which the U.S. says was done by an Iranian drone.",
+      "cn": "Rabu lalu kami melihat sekitar 70 kapal berhasil melewati Selat Hormuz. Tapi sekarang terjadi serangan ini, semuanya dihentikan. PBB mengatakan mereka menghentikan evakuasi ini. Mereka mengatakan keselamatan pelaut adalah yang utama. Mereka perlu informasi yang lebih jelas. Saat ini, Iran belum mengaku bertanggung jawab atas serangan itu, AS mengatakan serangan itu dilakukan oleh drone Iran."
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "But what we heard just hours before this strike happened was the Revolutionary Guard in Iran saying that they couldn't guarantee safe passage for any vessel that wasn't using their route through the Strait of Hormuz. They want vessels to be going along the northern part of the Strait of Hormuz, so they have to go through Tehran, they have to fill in the forms that Tehran gives them, rather than the southern part, which is hugging the coast of Oman, which, understandably, most vessels are going through.",
+      "cn": "Tapi beberapa jam sebelum serangan ini, kami mendengar Garda Revolusi Iran mengatakan mereka tidak bisa menjamin keselamatan kapal mana pun yang tidak menggunakan jalur yang mereka tentukan di Selat Hormuz. Mereka ingin kapal berlayar di sepanjang utara Selat Hormuz, sehingga harus melewati Teheran, mengisi formulir yang disediakan Teheran, daripada di sepanjang selatan dekat pantai Oman, yang jelas merupakan rute yang diambil sebagian besar kapal."
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "So, this really throws into doubt now the U.S. president's claim that the Strait of Hormuz is open and that it is free. And it really brings a halt to what we had seen earlier in this week with the Strait of Hormuz seeing a number of vessels coming through. The oil price dipping because of that. And, of course, gas prices as well dipping slightly. Now, what we've heard from the U.S. secretary of state, Marco Rubio, he's just been in this region.",
+      "cn": "Jadi, ini benar-benar mempertanyakan pernyataan Presiden AS bahwa Selat Hormuz terbuka dan bebas. Ini juga menghentikan arus banyak kapal yang melintasi Selat Hormuz yang kita lihat awal pekan ini. Harga minyak turun karenanya, dan tentu saja harga bensin sedikit turun. Sekarang, kami mendengar Menteri Luar Negeri AS Marco Rubio baru saja mengunjungi kawasan itu."
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "He was meeting some of the gulf nations who were really hardest hit by Iran in their retaliation during the war. And he has said that no country on earth should be able to claim responsibility over an international waterway. But that does appear to be exactly what Iran wants to do. It says that it's in talks with Oman, which is on the other side of the water. But Oman's foreign minister says that they support international law. They support a toll-free system.",
+      "cn": "Dia bertemu dengan beberapa negara Teluk, yang paling menderita akibat balasan Iran selama perang. Dia mengatakan tidak ada negara di dunia yang boleh mengklaim yurisdiksi atas jalur air internasional. Tapi tampaknya itulah yang ingin dilakukan Iran. Iran mengatakan sedang bernegosiasi dengan Oman di seberang jalur air. Tapi Menteri Luar Negeri Oman mengatakan mereka mendukung hukum internasional, mendukung rezim lintas bebas."
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "So, at this point, Tehran is really out on its own when it is saying that it wants vessels to use its route. And of course, there is the issue of mines in the Strait of Hormuz as well. Presumably why no vessels are wanting to go through the center of this waterway. But it does throw into doubt the talks that have been ongoing.",
+      "cn": "Jadi, dalam hal ini, Teheran yang mengklaim ingin kapal menggunakan jalurnya, sebenarnya terisolasi. Tentu saja, ada juga masalah ranjau di Selat Hormuz. Itu mungkin mengapa tidak ada kapal yang mau melewati tengah jalur air ini. Tapi ini benar-benar menimbulkan ketidakpastian bagi negosiasi yang sedang berlangsung."
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "We heard from Secretary Rubio as well that that he's given a statement with the gulf nations here really widening the remit, also pointing out they have to deal with Iran's missiles and its use of proxies. Audie.",
+      "cn": "Kami juga mendengar Menteri Luar Negeri Rubio mengeluarkan pernyataan dengan negara-negara Teluk, memperluas cakupan, dan menunjukkan bahwa mereka harus menghadapi rudal Iran dan penggunaan proksi mereka. Oti."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's Paula Hancocks from Abu Dhabi. Thank you. I want to turn to this. The U.S. forces being sent to Venezuela as the nation deals with the aftermath of two devastating earthquakes. The death toll climbed to more than 230 people. It is still expected to rise. The country's health minister saying more than 4,300 people are injured. Rescue efforts ongoing, with hundreds of people trapped under rubble or missing. And Venezuelans are not only reeling from the physical destruction of their country.",
+      "cn": "好的，这是来自阿布扎比的保拉·汉考克斯。谢谢。我想转向另一个话题。美国军队被派往委内瑞拉，该国正在应对两场毁灭性地震的后果。死亡人数已升至230多人，预计还会上升。该国卫生部长表示，超过4300人受伤。救援工作正在进行，数百人被埋在废墟下或失踪。委内瑞拉人不仅因国家的物质破坏而震惊。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Critics say there's also a vacuum of authority in the country with the burden of rescue and relief efforts falling on civil organizations and schools and local churches and families. Joining me now, Mariana Atencio. She's a Venezuelan journalist, author and speaker. Thank you so much for being with us. I'm so sorry it's under these circumstances because I know you have friends and family still in Venezuela. What have you heard from them?",
+      "cn": "批评人士称，该国还存在权力真空，救援和救济工作的重担落在了民间组织、学校、当地教堂和家庭身上。现在请到的是玛丽安娜·阿滕西奥。她是委内瑞拉记者、作家和演讲者。非常感谢您来到我们的节目。很抱歉是在这种情况下，因为我知道您在委内瑞拉还有朋友和家人。您从他们那里听到了什么？"
+    },
+    {
+      "speaker": "Mariana Atencio",
+      "text": "Audie, these have been the most harrowing few days for Venezuelans. On the ground, local organizations estimate the number of missing could climb to 40,000 people. I'm seeing images of children that are left completely orphaned. And you stated it, there is a power vacuum in Venezuela right now. The worst hit areas of La Guaira. There's -- that's the coastal area. There's no heavy machinery. Neighbors are digging their own family members out of the rubble by hand. Hospitals are overwhelmed.",
+      "cn": "奥蒂，对委内瑞拉人来说，这是最痛苦的几天。在当地，当地组织估计失踪人数可能攀升至4万人。我看到一些孩子完全成了孤儿。正如你所说，委内瑞拉目前存在权力真空。受灾最严重的地区是拉瓜伊拉，那是沿海地区。那里没有重型机械。邻居们徒手从废墟中挖出自己的家人。医院不堪重负。"
+    },
+    {
+      "speaker": "Mariana Atencio",
+      "text": "They're treating the wounded in the streets because this earthquake is hitting a country that had nothing left to absorb it. And we're talking about a health system that's collapsed after years of crisis.",
+      "cn": "他们在街上治疗伤员，因为这场地震袭击了一个已经一无所有的国家。我们谈论的是一个经过多年危机已经崩溃的医疗系统。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You know, it's such a moment to be talking about this because here in the U.S. the Venezuelan asylum seekers who are already here, they've had their status terminated. We talked about that earlier, happening to Syrians and Haitians and others. But the U.S. now has a very peculiar relationship with Venezuela. Is there any sign of it now that the country is suffering?",
+      "cn": "你知道，现在谈论这个时机很特殊，因为在美国，已经在这里的委内瑞拉寻求庇护者的身份已被终止。我们之前讨论过，叙利亚人、海地人和其他人也遭遇了同样的情况。但美国现在与委内瑞拉的关系非常特殊。现在这个国家正在遭受苦难，有什么迹象表明关系会改变吗？"
+    },
+    {
+      "speaker": "Atencio",
+      "text": "So Rubio said the response will be big, fast, effective. President Trump called Venezuela our new and great friends. They've, of course, pledged $150 million in aid. But at the same time, I can speak for a diaspora of nearly eight million people, being sent back doesn't mean being sent back home right now. It means going back to rubble. So, it is ironic that the same week that Venezuela becomes a disaster zone, the U.S. is closing the door, TPS, for roughly 300,000 Venezuelans already terminated.",
+      "cn": "所以鲁比奥说，回应将是大规模、迅速且有效的。特朗普总统称委内瑞拉为我们新的伟大朋友。当然，他们承诺了1.5亿美元的援助。但与此同时，我可以代表近800万侨民说，被遣返并不意味着立即回到家乡。这意味着回到废墟中。因此，具有讽刺意味的是，就在委内瑞拉成为灾难区的同一周，美国却关上了大门，针对大约30万委内瑞拉人的临时保护身份已经终止。"
+    },
+    {
+      "speaker": "Atencio",
+      "text": "And that is what TPS is created for, Audie, temporary protected status. I mean, the Congressional Hispanic Caucus even made the same point in a letter to Rubio and Trump saying, the removals to a country in the midst of a disaster zone like this are untenable. And I'll bring up one more point in terms of the relationship with the U.S., which I think is critically important. And it's also this idea of, you are pledging all of this aid.",
+      "cn": "而这就是临时保护身份设立的目的，奥迪。我是说，国会拉美裔核心小组甚至在一封致鲁比奥和特朗普的信中提出了同样的观点，称将人员遣返到这样一个处于灾难中的国家是不可行的。我还要再提一点关于与美国的关系，我认为这一点至关重要。那就是你承诺了所有这些援助。"
+    },
+    {
+      "speaker": "Atencio",
+      "text": "This new regime, or new and great friends, need to be held accountable for how they administer that aid, but also for who they are locking up inside of Venezuela. There's around 500 to 600 innocent political prisoners that they are still holding behind bars. Those people, in the midst of this disaster, should be released to their families immediately.",
+      "cn": "这个新政权，或者说新的伟大朋友，需要对其如何管理援助负责，同时也要对他们在委内瑞拉境内关押了谁负责。目前仍有大约500到600名无辜的政治犯被关在监狱里。在这场灾难中，这些人应该立即被释放，回到家人身边。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Just one other thing. Delcy Rodriguez, we're talking about a vacuum. There is interim leadership. Leadership who had even been there under Maduro. Is the sense right now that they have an inability to or they are not capable of dealing with this moment?",
+      "cn": "还有一件事。德尔西·罗德里格斯，我们正在谈论一个真空。存在临时领导层。这些领导层甚至在马杜罗时期就已经存在。现在给人的感觉是他们无力或无法应对这一时刻吗？"
+    },
+    {
+      "speaker": "Atencio",
+      "text": "We can't really call this a government, Audie. This is -- this is a regime that has operated for years as a cartel that has been laundering money, stealing from Venezuelans, and has plundered our oil industry and our health system. So, this does not function like a regular government. This is a very big test for Delcy Rodriguez.",
+      "cn": "我们不能真的称这为一个政府，奥迪。这是一个多年来像卡特尔一样运作的政权，一直在洗钱、盗窃委内瑞拉人的财富，并掠夺了我们的石油工业和医疗系统。所以，它不像一个正常政府那样运作。这对德尔西·罗德里格斯来说是一个巨大的考验。"
+    },
+    {
+      "speaker": "Atencio",
+      "text": "But on the ground, what you are seeing are churches, our neighbors really just rising up to this moment, regular people, because the government has really an inability to respond to a crisis of this scale. So, it remains to be seen how they will mount a response and how they will administer the aid. But already I'm hearing very worrying reports of them saying that the aid should not be administered by opposition figures on the ground.",
+      "cn": "但在实地，你所看到的是教堂、我们的邻居真正挺身而出，普通民众，因为政府确实无力应对如此规模的危机。因此，他们将如何组织应对以及如何管理援助，还有待观察。但我已经听到非常令人担忧的报告，称他们表示援助不应由实地的反对派人物来管理。"
+    },
+    {
+      "speaker": "Atencio",
+      "text": "And this is a moment when Venezuela needs to come together as a nation to be able to overcome this incredible test.",
+      "cn": "而这是一个委内瑞拉需要团结一致、克服这一巨大考验的时刻。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's journalist Mariana Atencio. Thank you. And if you are watching right now, and you want to know how you can help with the victims for the Venezuelan earthquake, I want you to go to cnn.com/impact. You can also just text the word \"quake\" to 707070. And next on CNN THIS MORNING, there's a new progressive voice rising. And Darializa Chevalier wins big in New York. Why some are saying she's the next AOC.",
+      "cn": "好的，那是记者玛丽安娜·阿滕西奥。谢谢。如果您正在观看，并想知道如何帮助委内瑞拉地震的受害者，请访问cnn.com/impact。您也可以将\"quake\"字样发送到707070。接下来在《CNN今晨》节目中，将出现一位新的进步声音。达里亚利萨·舍瓦利耶在纽约大获全胜。为什么有人说她是下一个AOC。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Plus, Vice President Vance drawing criticism after saying the Watergate scandal would have been a blip in today's news cycle. And in the next hour on CNN NEWS CENTRAL, a Boeing 777 flies close to the ground in Texas. The FAA investigation now underway. REP. MIKE LAWLER (R-NY): I think it's a disaster for Democrats. I mean they took out very progressive Democratic members in favor of socialists.",
+      "cn": "此外，副总统万斯因称水门事件在今天的新闻周期中只会是一个小插曲而招致批评。下一小时在《CNN新闻中心》节目中，一架波音777在德克萨斯州低空飞行。美国联邦航空管理局的调查正在进行中。众议员迈克·劳勒（纽约州共和党人）：我认为这对民主党来说是一场灾难。我的意思是，他们淘汰了非常进步的民主党成员，转而支持社会主义者。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Does the right have a new boogeyman? Democratic socialist Darializa Avila Chevalier, fresh off her big win Tuesday, now looking to the general. But DAC's comments about deportation, borders, prisons and past tweets are making her a target for not only the right but those in her party. One centrist Democrat put it like this, \"if AOC was this Tea Party's Ted Cruz, yes, DAC is this Tea Party's MTG.\" I know it's a lot. \"It's less substance and more about a sense that this person is unhinged and indefensible.\" REP.",
+      "cn": "右翼有了新的假想敌吗？民主社会主义者达里亚利萨·阿维拉·舍瓦利耶，在周二取得重大胜利后，现在正着眼于大选。但DAC关于驱逐出境、边境、监狱的言论以及过去的推文，使她不仅成为右翼的目标，也成为党内一些人的目标。一位中间派民主党人这样说道：\"如果AOC是茶党的特德·克鲁兹，那么是的，DAC就是茶党的MTG。\"我知道这很复杂。\"这更多是关于一种感觉，即这个人精神错乱且无可辩护，而非实质内容。\""
+    },
+    {
+      "speaker": "Cornish",
+      "text": "ALEXANDRIA OCASIO-CORTE (D-NY): I feel like it's deja vu all over again. There was so much fear around that when I was elected. And none of it bore out to be true. Voters vote for what is happening in their community and what's on their ballot. And I think that any candidate of any party that's running their own race has the responsibility to run their race.",
+      "cn": "亚历山德里娅·奥卡西奥-科尔特斯（纽约州民主党）：我感觉这就像是历史重演。我当选时，周围充满了恐惧。但那些恐惧没有一件成真。选民投票是基于他们社区正在发生的事情以及选票上的内容。我认为，任何政党的候选人，只要是在竞选自己的职位，都有责任专注于自己的竞选。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Group chat is back. I wanted to talk about this analogy because we're mentioning these names, Ted Cruz or AOC or MTG. Like, once you get into office, you have to deal with the realities of being in office and your positions change from when you are -- not your positions change, your tone and tenor can change depending. Lulu, what do you see in the way people have been talking about this particular candidate this week? Does it, like AOC says, feel familiar?",
+      "cn": "好了，群聊又回来了。我想谈谈这个类比，因为我们提到了这些名字：特德·克鲁兹、AOC或MTG。一旦你进入办公室，你就必须面对在任的现实，你的立场会发生变化 --  -- 不是立场变了，而是你的语气和基调会根据情况而改变。卢卢，这周人们谈论这位特定候选人的方式，你看到了什么？是否像AOC说的那样，感觉似曾相识？"
+    },
+    {
+      "speaker": "Lulu Garcia-Navarro",
+      "text": "It feels familiar. It wasn't a hot minute after she was elected that the right was just -- like you could -- they could not contain their joy. This is an absolute gift, in their view, to them. She has positions that are wildly out of the mainstream. I mean, let's be honest about this.",
+      "cn": "感觉似曾相识。她当选后不久，右翼就 --  -- 就像你 --  -- 他们简直无法掩饰自己的喜悦。在他们看来，这绝对是一份礼物。她的立场完全偏离主流。我的意思是，让我们对此坦诚一点。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And just to be clear. So, here's \"The New York Post\" tying her -- or tying just sort of Democratic socialists to Hochul, who's generally not a person I think of in that way. We're bringing in Marxism. We're going all the way. Socialism's not good enough.",
+      "cn": "是的。而且需要明确一点。所以，《纽约邮报》把她 --  -- 或者说把民主社会主义者与霍楚尔联系在一起，而霍楚尔通常不是我心目中那种人。我们引入了马克思主义。我们全力以赴。社会主义还不够好。"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "I mean they're basically saying that they're going to target this. I mean -- what --",
+      "cn": "我的意思是，他们基本上是在说他们要针对这一点。我的意思是 --  -- 什么 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But that makes sense too.",
+      "cn": "但这也有道理。"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Yes, I mean the Democratic socialist project, and this is by their own admission, is that they do want a civil war with the Democratic Party. They think the Democratic Party has lost its way and they want to overtake it. And they think that it has not been forceful enough in pushing a very progressive agenda. That is different in some ways than making --",
+      "cn": "是的，我的意思是，民主社会主义计划，而且他们自己也承认，他们确实想与民主党进行内战。他们认为民主党已经迷失了方向，他们想取代它。他们认为民主党在推动非常进步的议程方面不够有力。这在某些方面不同于 --  --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Darializa the sort of poster child of this.",
+      "cn": "达里亚利扎是这方面的典型代表。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, then let me play one thing for you, because James Carville has always got to enter the chat.",
+      "cn": "好吧，那我给你放一段，因为詹姆斯·卡维尔总是要加入讨论。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Here he is, what he has to say",
+      "cn": "This is what he said."
+    },
+    {
+      "speaker": "James Carville",
+      "text": "This Chevalier lady, I don't -- they should not seat her in the caucus. All of these people hate Democrats. Why do they want to run as a Democrat? Start your own movement. If it's such a powerful, sweeping movement that's got momentum everywhere, then go ahead and be at the head of it. Don't use the Democratic Party to advance it.",
+      "cn": "This knight lady, I don't -- -- they shouldn't let her attend the caucus. All these people hate Democrats. Why do they want to run as Democrats? Start your own movement. If this is such a powerful, sweeping movement with momentum everywhere, then lead it. Don't use the Democratic Party to advance it."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Rob, I got to ask you, because I've asked Republicans all week who may have deja vu from MAGA and Tea Party, does that work to just be like, y'all go somewhere else? I mean Donald Trump's president now. ROB BLUEY, PRESIDENT AND EXECUTIVE EDITOR, \"THE DAILY SIGNAL\": Donald Trump is president. You have the House Freedom Caucus, which is a group that exerted its power, right? When you have these narrow margins.",
+      "cn": "Rob, I have to ask you, because I've been asking Republicans all week, they might feel a sense of déjà vu with MAGA and the Tea Party, saying 'you all go elsewhere'  --  does that work? I mean, Donald Trump is president now. Rob Bluey, President and Executive Editor of The Daily Signal: Donald Trump is president. And the House Freedom Caucus is a group that exercises power, right? When your majority is very slim."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I mean, Hakeem Jeffries, right now, is probably looking at a big headache if he were to become speaker next year because he's going to have a large number of now Democratic socialists who would be able to hijack the floor and really set an agenda.",
+      "cn": "I mean, Hakeem Jeffries might be facing a big problem right now, if he becomes Speaker next year, because he will have a large number of current Democratic Socialists who can hijack the floor and actually set the agenda."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And if you look at that party's platform, not party, but I mean if you look at the Democratic socialist platform, I mean they have quite radical ideas, which I agree are out of step with not only independent and mainstream voters, but probably the Democratic Party as large.",
+      "cn": "If you look at that party's platform, not the party, but if you look at the Democratic Socialists' platform, I mean they have quite radical ideas, which I agree are out of touch not only with independent and mainstream voters, but possibly with the entire Democratic Party."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We'll at least, while you're talking, put up this \"New York Times\" polling piece. They were asked, should Democratic Party be -- move more to the center or to the left? And I have to admit, I wasn't surprised about the Republican thoughts on that. But the independent thoughts, 77 percent, at least of these people polled, saying more to the center. And even Democrats, it's 44 percent to the center.",
+      "cn": "At least, as you speak, we put up this New York Times poll article. They were asked, should the Democratic Party move more toward the center or to the left? I have to admit, I'm not surprised by what Republicans think. But independents, 77%, at least among these respondents, say more toward the center. Even Democrats, 44% say toward the center."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And this is the split. The most enthusiastic and loudest in the primaries aren't maybe necessarily the people who are polled or who will be appearing in the general.",
+      "cn": "That's the divide. The most enthusiastic and loudest people in the primaries are not necessarily those who are polled, or who will show up in the general election."
+    },
+    {
+      "speaker": "Williams",
+      "text": "Yes. Nothing is shocking about those numbers here, partly because, of course, people in the center want a bigger center. It's a common American theme. Now, it's interesting that I think both of you had mentioned both the Tea Party and MAGA, and there are echoes of that here. There's a party in the wilderness. People -- there's discontent in the country. And folks from the outside just want to push their party in their direction. That's exactly what happened both times and led to Donald Trump to some extent.",
+      "cn": "Yes. These numbers are not shocking at all, partly because, of course, centrists want a bigger center. That's a common American theme. Now, interestingly, I think both of you mentioned the Tea Party and MAGA, there are echoes of them here. There is a party out of power. People -- there is discontent in the country. People from outside just want to push their own party in their direction. That's exactly what happened twice, and to some extent led to Donald Trump."
+    },
+    {
+      "speaker": "Williams",
+      "text": "You know, now, I -- does this lead to a Democratic socialist president? I think perhaps that's unlikely right now.",
+      "cn": "You know, now, I -- -- could this lead to a Democratic Socialist president? I think it's unlikely right now."
+    },
+    {
+      "speaker": "Williams",
+      "text": "We've seen these kinds of movements before.",
+      "cn": "We've seen these kinds of movements before."
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "I also just want to say that turnout was extremely low in these elections that brought these Democratic socialists out.",
+      "cn": "I also want to say, in these elections where Democratic Socialists were elected, turnout was extremely low."
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "This was a very, very marginal election where very few people came out to vote. And the people who came out to vote were the most motivated young people who are very far left.",
+      "cn": "It was a very, very fringe election, with few people voting. And those who came out were the most active young people, who are very left-leaning."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Right. But I still care about it because lots of people look to New York for political playbooks. Things they do sometimes gets exported to other campaigns around the country.",
+      "cn": "Right. But I still care about it, because a lot of people look to New York for political strategies. Sometimes what they do gets promoted to other campaigns across the country."
+    },
+    {
+      "speaker": "Bluey",
+      "text": "And Mayor Mamdani --",
+      "cn": "And Mayor Mamdani -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Wait one second. I'm still talking about 2028.",
+      "cn": "Wait. I'm still talking about 2028."
+    },
+    {
+      "speaker": "Ok. Cornish",
+      "text": "I want to come to this thing about J.D. Vance, because he's still been on tour with his book. He's making some claims now about Richard Nixon, the 37th president. The vice president was promoting at the New York presidential -- the Nixon Presidential Library in Yorba Linda, California. This was Thursday. And he was talking all about his admiration for Nixon, who, of course, is best known for resigning in disgrace.",
+      "cn": "I want to talk about J.D. Vance, because he's still on his book tour. He's made some comments about the 37th president, Richard Nixon. The vice president promoted at the Nixon Presidential Library in Yorba Linda, California on Thursday. He talked at length about his admiration for Nixon, who of course is known for resigning in disgrace."
+    },
+    {
+      "speaker": "J.D. Vance",
+      "text": "If Watergate happened tomorrow, it would be like a 12-hour news story. Like, the idea that it would have taken down a presidency is crazy. And by the way, if you look at the story of how the deep state took down Richard Nixon, it's not all that different from what the same groups of people, the same institutions, tried to do to Donald Trump in the first Trump administration. There is a parallel.",
+      "cn": "If Watergate happened tomorrow, it would only be a 12-hour news story. The idea that it could bring down a presidency is crazy. By the way, if you look at the story of the deep state bringing down Richard Nixon, it's no different from what the same group of people, the same institutions, tried to do to Donald Trump during his first term. There are similarities."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Group chat is back. There's a couple of Republicans, I mean maybe not still alive, but who might quibble with being called the deep state? Fundamentally, Nixon went down because of a bipartisan conversation about what happened, no?",
+      "cn": "The group chat is back. There are a few Republicans -- I mean maybe still alive -- but might object to being called the deep state? Fundamentally, Nixon fell because of a bipartisan discussion of what happened, didn't he?"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Sure. Well, I -- yes. So, I say a couple of things on this. Number one, let's remember historically that Richard Nixon greatly expanded government. And conservatives were no fan of Richard Nixon for the creation of the EPA and other government agencies. So, I think we do need to put that in the historical context.",
+      "cn": "Of course. Well, I -- yes. So, let me say a few things about this. First, let's remember historically that Richard Nixon greatly expanded government. Conservatives didn't like Richard Nixon because he created the EPA and other government agencies. So, I think we need to put this in historical context."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But this one is. Vance has comment -- has mimicked Nixon in talking about certain ideas.",
+      "cn": "Yes. But the point is this. Vance is mimicking Nixon in talking about certain ideas."
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And so, who are these (INAUDIBLE) here?",
+      "cn": "So, who are these (inaudible)?"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Nixon is making a resurgence.",
+      "cn": "Nixon is making a comeback."
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Like, I'm so sorry we're trying to bring back Nixon now?",
+      "cn": "Like, I'm sorry, are we now going to revere Nixon?"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Well, but Bill Clinton did as well. I mean he's --",
+      "cn": "Well, but Bill Clinton did too. I mean, he -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "I mean, do we have to like -- do we have to -- do we have to revisit what he actually did? Do you -- I mean I feel like reading David Axelrod street (ph). Just to review, he authorized the break-in of the DNC to install bugging equipment. He then enlisted the CIA to mislead the FBI. Then the entire operation was paid for by a slush fund controlled by the White House.",
+      "cn": "Maksud saya, apakah kita perlu -- -- apakah kita perlu -- -- apakah kita perlu meninjau kembali apa yang sebenarnya dia lakukan? Anda -- -- saya merasa seperti membaca buku David Axelrod. Secara singkat, dia mengotorisasi penyusupan ke kantor Komite Nasional Demokrat untuk memasang alat penyadap. Kemudian dia menggunakan CIA untuk menyesatkan FBI. Seluruh operasi dibiayai oleh dana rahasia yang dikendalikan Gedung Putih."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "However, we are now Nixon maxing. And if you check out the Nixon Foundation Instagram page, which is very hip these days.",
+      "cn": "Namun, sekarang kita sedang memaksimalkan Nixon. Jika Anda melihat halaman Instagram Yayasan Nixon, sekarang sangat trendi."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There is a lot of capital c content kind of rewriting his story. And actually, one of the top popular comments from one of the viewers is, Watergate was a lie, you know what I mean, with a bunch of heart, likes and --",
+      "cn": "Ada banyak konten yang menulis ulang kisahnya. Sebenarnya, salah satu komentar terpopuler dari penonton adalah bahwa Watergate adalah kebohongan, Anda tahu maksud saya, dengan banyak hati, suka, dan -- --"
+    },
+    {
+      "speaker": "Williams",
+      "text": "With the heart eyes thing.",
+      "cn": "Dan juga emoji mata hati."
+    },
+    {
+      "speaker": "Williams",
+      "text": "Yes, I just don't know if celebrating Richard Nixon is the burn that folks think it is. And just to the points that Lulu was making before, simply on account of his universally accepted misdeeds, he ultimately had to leave the presidency because his party turned on him, regardless of, you know, the merits of anything (ph). Yes.",
+      "cn": "Ya, saya hanya tidak tahu apakah merayakan Richard Nixon adalah bentuk perlawanan seperti yang dipikirkan orang. Seperti yang ditunjukkan Lulu sebelumnya, hanya karena perilaku salahnya yang diakui secara umum, dia akhirnya harus meninggalkan jabatan presiden karena partainya meninggalkannya, terlepas dari aspek lainnya. Ya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, to that point, Vance said something that I think is absolutely true, which is, in this day and age, that would be a blip in the news cycle.",
+      "cn": "Jadi, tentang hal ini, Vance mengatakan sesuatu yang saya pikir benar sekali, yaitu, di zaman sekarang, itu hanya akan menjadi berita kecil dalam siklus berita."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "If you think of the kinds of things we have been reporting on for the last six, eight, ten years, the break in is looking smaller and smaller compared to a --",
+      "cn": "Jika Anda memikirkan hal-hal yang kami liput dalam enam, delapan, sepuluh tahun terakhir, penyusupan tampak semakin kecil dibandingkan -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "What does that say about our current political moment. I mean this is -- my bigger problem with what J.D. Vance actually said is that it actually reflects quite poorly, perhaps, on his administration.",
+      "cn": "Apa yang dikatakan ini tentang momen politik kita saat ini? Maksud saya, ketidakpuasan saya yang lebih besar terhadap apa yang sebenarnya dikatakan J.D. Vance adalah bahwa itu sebenarnya bisa mencerminkan secara negatif pemerintahannya."
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Well, I think you have to go back even further. I mean Bill Clinton having sex in the Oval Office. Your own colleague, Jake Tapper, reporting about the cover-up of Joe Biden's mental acuity. I mean, so it's not just Donald Trump. I think we need to broaden the --",
+      "cn": "Hmm, saya pikir Anda harus melihat lebih awal. Maksud saya Bill Clinton berhubungan seks di Oval Office. Rekan Anda sendiri, Jake Tapper, melaporkan masalah menutupi ketajaman mental Joe Biden. Maksud saya, ini bukan hanya masalah Donald Trump. Saya pikir kita perlu memperluas -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. So, you would agree. The -- it wouldn't have been the crisis it is now, mainly because we have crazy things going on.",
+      "cn": "Ya. Jadi Anda setuju. Ini -- -- itu tidak akan menjadi krisis seperti sekarang, terutama karena kita mengalami hal-hal gila."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You can name all the presidents you want. That's great.",
+      "cn": "Anda bisa menyebutkan semua presiden yang Anda mau. Itu bagus."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All comers accepted. Also and it feels as though the moral sort of outcry that marked the Watergate era, that era of politics is done.",
+      "cn": "Semua tantangan diterima. Dan rasanya seolah-olah era kecaman moral Watergate, era politik itu sudah berakhir."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The Supreme Court's like, don't worry about it. The executive can be more powerful. The Congress are like, you want to do --",
+      "cn": "Mahkamah Agung seperti, jangan khawatir. Cabang eksekutif bisa lebih kuat. Kongres seperti, Anda ingin melakukan -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Trump has gotten billions of dollars while in office. So has his family.",
+      "cn": "Trump mendapatkan miliaran dolar selama menjabat. Keluarganya juga."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I haven't seen an oversight hearing in weeks.",
+      "cn": "Saya sudah beberapa minggu tidak melihat sidang pengawasan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's just one of those things where Washington itself doesn't behave this way anymore.",
+      "cn": "Ini hanya salah satu hal yang Washington sendiri tidak lagi melakukannya."
+    },
+    {
+      "speaker": "Williams",
+      "text": "I think few people are going to defend Bill Clinton and his conduct. I think we can universally agree with that. You know, Richard Nixon --",
+      "cn": "Saya pikir sedikit orang yang akan membela Bill Clinton dan perilakunya. Saya pikir kita bisa setuju secara umum. Anda tahu, Richard Nixon -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "At least there were hearings.",
+      "cn": "Setidaknya masih ada sidang."
+    },
+    {
+      "speaker": "Williams",
+      "text": "Richard Nixon had a documented history of anti-Semitic comments in sort of -- to people that he thought were trusted. He spied on his allies. He cheapened the American political system. Regardless of anything he did, you know, as a successful politician, we ought not be celebrating Richard Nixon here.",
+      "cn": "Richard Nixon memiliki rekaman di mana dia mengucapkan pernyataan antisemit kepada orang-orang yang dia anggap bisa dipercaya. Dia memata-matai sekutunya sendiri. Dia merendahkan sistem politik Amerika. Apa pun yang dia lakukan sebagai politisi sukses, kita tidak boleh merayakan Richard Nixon di sini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Elliot, not Nixon maxing. Got it.",
+      "cn": "Baik, Elliott, bukan memaksimalkan Nixon. Mengerti."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Not in your group chat.",
+      "cn": "Tidak di grup chat Anda."
+    },
+    {
+      "speaker": "Williams",
+      "text": "But I will say this, look, that the '70s with big hair is back. We got a World Cup. Gas is expensive. Nixon is back. Let's go back to '74.",
+      "cn": "Tapi yang saya katakan, lihat, gaya rambut besar tahun 70-an kembali. Kita punya Piala Dunia. Harga minyak mahal. Nixon kembali. Mari kita kembali ke tahun 74."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. I'm sure the administration is glad it's not Carter.",
+      "cn": "Baik. Saya yakin pemerintah senang bukan Carter."
+    },
+    {
+      "speaker": "Williams",
+      "text": "Glad it's not Carter (ph).",
+      "cn": "Senang bukan Carter."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Rob, you haven't been here in a while. What's in your group chat?",
+      "cn": "Rob, sudah lama tidak ke sini. Ada apa di grup chatmu?"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Sure. Well, the Great American State Fair is taking place on the National Mall. And the U.S. State Department has just announced that they're giving a limited number of U.S. passports to celebrate America 250. And if you want one, it has Donald Trump's picture inside.",
+      "cn": "Tentu. Nah, Great American State Fair diadakan di National Mall. Departemen Luar Negeri AS baru saja mengumumkan bahwa mereka akan mengeluarkan paspor AS dalam jumlah terbatas untuk merayakan 250 tahun Amerika. Jika kamu menginginkannya, di dalamnya akan ada foto Donald Trump."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. And you -- and for you?",
+      "cn": "Oke. Kalau kamu?"
+    },
+    {
+      "speaker": "Williams",
+      "text": "McDonalds has brought back the apple -- the fried apple pie.",
+      "cn": "McDonald's meluncurkan kembali apple -- -- apple pie goreng."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, man, that is American.",
+      "cn": "Ya ampun, itu sangat Amerika."
+    },
+    {
+      "speaker": "Williams",
+      "text": "Because, you know what? And, you know -- and get -- it is American. You know what, back to the '70s being back. I feel like, as a child of the '70s, every kid needs to celebrate burning the hell out of your mouth on that cardboard, too sweet, overly spicy apple pie. It's when you --",
+      "cn": "Karena, kamu tahu? Dan, kamu tahu -- -- ini sangat Amerika. Kamu tahu, kembali ke tahun 70-an. Sebagai anak tahun 70-an, saya pikir setiap anak perlu merayakannya, membakar mulut cukup parah, makan apple pie kardus yang terlalu manis dan terlalu berbumbu. Saat kamu -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You mean the delicate pastry that --",
+      "cn": "Maksudmu kue kering yang elegan itu -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And I am thrilled that it's back. I'm going to leave here --",
+      "cn": "Saya senang itu kembali. Setelah saya pergi dari sini -- --"
+    },
+    {
+      "speaker": "Bluey",
+      "text": "Sounds like we're going to --",
+      "cn": "Sepertinya kita akan -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And go shovel 15 in my mouth.",
+      "cn": "Lalu masukkan 15 ke mulut."
+    },
+    {
+      "speaker": "Williams",
+      "text": "Yes. No, no, quick, to bring it all back, it's actually fried, not baked now, but (INAUDIBLE) now.",
+      "cn": "Ya. Tidak, tidak, cepat, untuk membuatnya benar-benar kembali, sekarang digoreng, bukan dipanggang, tapi (tidak jelas) sekarang."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Brought to you by McDonald's. Thank you guys in the group chat. Thank you for waking up with us. I'm Audie Cornish. Headlines now. var CNN = CNN || {};",
+      "cn": "Oke. Dipersembahkan oleh McDonald's. Terima kasih semuanya di grup chat. Terima kasih sudah bangun bersama kami. Saya Oti Cornish. Sekarang berita."
+    }
+  ]
+}
