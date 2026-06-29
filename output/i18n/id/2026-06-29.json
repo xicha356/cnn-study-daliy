@@ -1,0 +1,1463 @@
+{
+  "date": "2026-06-29",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-06-29/segment/01",
+  "summary": "Amerika Serikat dan Iran sepakat gencatan senjata sementara setelah baku tembak di dekat Selat Hormuz, dan berencana bertemu di Qatar. Serangan Iran meleset dari sasaran, Trump mengancam Iran akan 'lenyap'. Sementara itu, Kongres mempertanyakan dana perang tambahan sebesar 87,6 miliar dolar, dan Partai Demokrat menekan dengan memanfaatkan perang yang tidak populer. Selain itu, gempa bumi di Venezuela menyelamatkan bayi, kebakaran hutan melanda Utah, dan tim AS bersiap untuk Piala Dunia.",
+  "vocabulary": [
+    {
+      "word": "stand down",
+      "phonetic": "/stænd daʊn/",
+      "pos": "phrasal verb",
+      "usage": "Frasa tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Keamanan militer",
+      "level": "Frasa tetap · Lanjutan",
+      "cn": "mundur, menghentikan (operasi militer atau konfrontasi)",
+      "en": "to withdraw or retreat from a position or conflict",
+      "excerpt": "Both the U.S. and Iran agreeing to meet in Qatar tomorrow after exchanging fire near the Strait of Hormuz. Both the U.S. and Iran agreeing to meet in Qatar tomorrow after exchanging fire near the Strait of Hormuz.",
+      "example_cn": "Amerika Serikat dan Iran, setelah baku tembak di dekat Selat Hormuz, setuju untuk bertemu besok di Qatar."
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "noun",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "militer dan keamanan",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "gencatan senjata, perjanjian gencatan senjata",
+      "en": "a temporary suspension of fighting, typically one during which peace talks take place",
+      "excerpt": "Is this ceasefire collapsing?",
+      "example_cn": "Apakah perjanjian gencatan senjata ini sedang runtuh?"
+    },
+    {
+      "word": "rubble",
+      "phonetic": "/ˈrʌbəl/",
+      "pos": "noun",
+      "usage": "sering digunakan dalam berita",
+      "difficulty": "lanjutan",
+      "domain": "bencana dan lingkungan",
+      "level": "sering digunakan dalam berita · lanjutan",
+      "cn": "puing-puing, reruntuhan",
+      "en": "waste or rough fragments of stone, brick, concrete, etc., especially after demolition or an earthquake",
+      "excerpt": "Babies buried under piles of debris found alive, days after dual mass earthquakes in Venezuela.",
+      "example_cn": "Beberapa hari setelah gempa bumi ganda di Venezuela, bayi yang terkubur di bawah tumpukan puing ditemukan masih hidup."
+    },
+    {
+      "word": "scorching heat",
+      "phonetic": "/ˈskɔːrtʃɪŋ hiːt/",
+      "pos": "noun phrase",
+      "usage": "ekspresi sehari-hari",
+      "difficulty": "dasar",
+      "domain": "bencana dan lingkungan",
+      "level": "ekspresi sehari-hari · dasar",
+      "cn": "panas terik",
+      "en": "extremely hot weather",
+      "excerpt": "And fires turn deadly in Utah. Now, scorching heat is about to make things a little harder for firefighters.",
+      "example_cn": "Kebakaran di Utah menjadi mematikan. Sekarang, panas terik akan membuat pekerjaan petugas pemadam kebakaran semakin sulit."
+    },
+    {
+      "word": "underdog",
+      "phonetic": "/ˈʌndərdɔːɡ/",
+      "pos": "noun",
+      "usage": "ekspresi sehari-hari",
+      "difficulty": "dasar",
+      "domain": "budaya dan olahraga",
+      "level": "ekspresi sehari-hari · dasar",
+      "cn": "pihak yang lemah, pihak yang tidak diunggulkan",
+      "en": "a competitor thought to have little chance of winning a fight or contest",
+      "excerpt": "And everyone loves an underdog. Does the U.S. have a shot at winning the World Cup?",
+      "example_cn": "Semua orang menyukai pihak yang lemah. Apakah tim AS memiliki peluang untuk memenangkan Piala Dunia?"
+    },
+    {
+      "word": "mop-up operation",
+      "phonetic": "/ˈmɑːp ʌp ˌɑːpəˈreɪʃən/",
+      "pos": "noun phrase",
+      "usage": "istilah khusus",
+      "difficulty": "tingkat lanjut",
+      "domain": "militer dan keamanan",
+      "level": "istilah khusus · tingkat lanjut",
+      "cn": "operasi pembersihan, operasi militer untuk membersihkan sisa musuh",
+      "en": "a military operation to clear an area of remaining enemy forces after a major battle",
+      "excerpt": "The major war is over. And think of this as almost just a mop-up operation.",
+      "example_cn": "Perang utama sudah berakhir. Anggap ini hampir sebagai operasi pembersihan."
+    },
+    {
+      "word": "truce",
+      "phonetic": "/truːs/",
+      "pos": "noun",
+      "usage": "sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Keamanan Militer",
+      "level": "sering digunakan dalam berita · Lanjutan",
+      "cn": "Gencatan senjata, perjanjian gencatan senjata",
+      "en": "an agreement between enemies or opponents to stop fighting for a certain time",
+      "excerpt": "Could the truce be on the verge of crumbling?",
+      "example_cn": "Apakah perjanjian gencatan senjata hampir runtuh?"
+    },
+    {
+      "word": "on the verge of",
+      "phonetic": "/ɒn ðə vɜːrdʒ ɒv/",
+      "pos": "prepositional phrase",
+      "usage": "Kolokasi tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Kolokasi tetap · Lanjutan",
+      "cn": "Hampir, akan segera",
+      "en": "very close to; about to",
+      "excerpt": "Could the truce be on the verge of crumbling?",
+      "example_cn": "Apakah perjanjian gencatan senjata hampir runtuh?"
+    },
+    {
+      "word": "Strait of Hormuz",
+      "phonetic": "/streɪt ɒv hɔːrˈmuːz/",
+      "pos": "proper noun",
+      "usage": "Latar belakang istilah khusus",
+      "difficulty": "Tingkat lanjut",
+      "domain": "Politik dan Diplomasi",
+      "level": "Latar belakang istilah khusus · Tingkat lanjut",
+      "cn": "Selat Hormuz (jalur transportasi minyak penting yang menghubungkan Teluk Persia dan Laut Arab)",
+      "en": "a narrow strait between the Persian Gulf and the Gulf of Oman, a vital oil shipping route",
+      "excerpt": "Both the U.S. and Iran agreeing to meet in Qatar tomorrow after exchanging fire near the Strait of Hormuz.",
+      "example_cn": "Setelah baku tembak antara Amerika Serikat dan Iran di dekat Selat Hormuz, mereka setuju untuk bertemu besok di Qatar."
+    },
+    {
+      "word": "intended targets",
+      "phonetic": "/ɪnˈtendɪd ˈtɑːrɡɪts/",
+      "pos": "noun phrase",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Keamanan Militer",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "Target yang ditentukan, target yang diharapkan",
+      "en": "the targets that were planned to be hit",
+      "excerpt": "but a U.S. official says no Iranian drones or missiles hit their intended targets",
+      "example_cn": "Namun seorang pejabat AS mengatakan bahwa drone atau rudal Iran tidak mengenai target yang ditentukan."
+    },
+    {
+      "word": "violating",
+      "phonetic": "/ˈvaɪəleɪtɪŋ/",
+      "pos": "verb (present participle)",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Hukum dan Peradilan",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "Melanggar, melanggar (perjanjian, hukum, dll.)",
+      "en": "breaking or failing to comply with (a rule or formal agreement)",
+      "excerpt": "President Trump threatened that, if Iran continued violating the ceasefire, it, quote, 'will no longer exist.'",
+      "example_cn": "Presiden Trump mengancam bahwa jika Iran terus melanggar perjanjian gencatan senjata, Iran akan 'tidak ada lagi'."
+    },
+    {
+      "word": "international shipping",
+      "phonetic": "/ˌɪntərˈnæʃənəl ˈʃɪpɪŋ/",
+      "pos": "noun phrase",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Ekonomi dan Keuangan",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "Pelayaran internasional",
+      "en": "the transport of goods by sea between countries",
+      "excerpt": "while Iran continues to attack international shipping without a response",
+      "example_cn": "Sementara Iran terus menyerang pelayaran internasional tanpa mendapat respons."
+    },
+    {
+      "word": "infrastructure",
+      "phonetic": "/ˈɪnfrəstrʌktʃər/",
+      "pos": "noun",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "Infrastruktur",
+      "en": "the basic physical and organizational structures needed for the operation of a society or enterprise",
+      "excerpt": "take down their infrastructure that they're trying to use to illegally control an international waterway",
+      "example_cn": "Menghancurkan infrastruktur yang mereka coba gunakan untuk menguasai jalur air internasional secara ilegal."
+    },
+    {
+      "word": "skirmishes",
+      "phonetic": "/ˈskɜːrmɪʃɪz/",
+      "pos": "noun (plural)",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Militer dan Keamanan",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "Pertempuran kecil, bentrokan kecil",
+      "en": "short, unplanned fights, especially between small groups of soldiers",
+      "excerpt": "They are OK with the level of violence and these skirmishes, these exchange of attacks",
+      "example_cn": "Mereka menerima tingkat kekerasan ini dan pertukaran bentrokan kecil serta serangan ini."
+    },
+    {
+      "word": "red lines",
+      "phonetic": "/red laɪnz/",
+      "pos": "noun phrase",
+      "usage": "Kolokasi tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan Diplomasi",
+      "level": "Kolokasi tetap · Lanjutan",
+      "cn": "Garis merah, batas yang tidak boleh dilanggar",
+      "en": "a figurative line that should not be crossed, especially in diplomacy or conflict",
+      "excerpt": "as they try and set their red lines and try and shape negotiations",
+      "example_cn": "Ketika mereka mencoba menetapkan garis merah dan membentuk negosiasi."
+    },
+    {
+      "word": "foreseeable future",
+      "phonetic": "/fɔːrˈsiːəbəl ˈfjuːtʃər/",
+      "pos": "noun phrase",
+      "usage": "Kolokasi tetap",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Kolokasi tetap · Lanjutan",
+      "cn": "Masa depan yang dapat diperkirakan",
+      "en": "the period of time that can be predicted with reasonable certainty",
+      "excerpt": "I think we're going to see these for the foreseeable future.",
+      "example_cn": "Saya pikir kita akan melihat ini di masa depan yang dapat diperkirakan."
+    },
+    {
+      "word": "nitty gritty",
+      "phonetic": "/ˈnɪti ˈɡrɪti/",
+      "pos": "noun phrase",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Ekspresi sehari-hari · Lanjutan",
+      "cn": "detail, substansi",
+      "en": "the most important and practical details of a subject or situation",
+      "excerpt": "And I'm under the impression this is the part that really gets into the nitty gritty of what happens to enriched uranium.",
+      "example_cn": "Kesan saya adalah bahwa bagian ini benar-benar menyentuh detail substansial tentang ke mana perginya uranium yang diperkaya."
+    },
+    {
+      "word": "enriched uranium",
+      "phonetic": "/ɪnˈrɪtʃt jʊˈreɪniəm/",
+      "pos": "noun phrase",
+      "usage": "Istilah teknis",
+      "difficulty": "Tingkat tinggi",
+      "domain": "Teknologi medis",
+      "level": "Istilah teknis · Tingkat tinggi",
+      "cn": "Uranium yang diperkaya (uranium dengan kandungan U-235 yang ditingkatkan, digunakan untuk reaktor nuklir atau senjata nuklir)",
+      "en": "uranium in which the proportion of the isotope uranium-235 has been increased, used as fuel in nuclear reactors or in nuclear weapons",
+      "excerpt": "this is the part that really gets into the nitty gritty of what happens to enriched uranium.",
+      "example_cn": "Bagian ini benar-benar menyentuh detail substansial tentang ke mana perginya uranium yang diperkaya."
+    },
+    {
+      "word": "exert its control",
+      "phonetic": "/ɪɡˈzɜːrt ɪts kənˈtroʊl/",
+      "pos": "verb phrase",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan diplomasi",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "menerapkan kendali, menjalankan kendali",
+      "en": "to use power or influence to control something",
+      "excerpt": "you see Iran trying to exert its control over the Strait of Hormuz",
+      "example_cn": "Anda melihat Iran mencoba menerapkan kendali atas Selat Hormuz."
+    },
+    {
+      "word": "leverage",
+      "phonetic": "/ˈlevərɪdʒ/",
+      "pos": "noun",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Ekonomi dan keuangan",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "pengaruh, keuntungan",
+      "en": "the power to influence a person or situation to achieve a desired outcome",
+      "excerpt": "Iran is trying to retain leverage over the Strait of Hormuz, its major lever that it has had during this war",
+      "example_cn": "Iran mencoba mempertahankan pengaruh atas Selat Hormuz, yang merupakan pengaruh utama yang dimilikinya selama perang."
+    },
+    {
+      "word": "concessions",
+      "phonetic": "/kənˈseʃənz/",
+      "pos": "noun (plural)",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan diplomasi",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "让步，妥协",
+      "en": "things that are granted or yielded, especially in negotiations",
+      "excerpt": "whether or not Iran, through this process, is actually getting concessions.",
+      "example_cn": "伊朗是否通过这一过程实际上获得了让步。"
+    },
+    {
+      "word": "windfall",
+      "phonetic": "/ˈwɪndfɔːl/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "经济金融",
+      "level": "新闻常用 · 进阶",
+      "cn": "意外之财，横财",
+      "en": "an unexpected, unearned, or sudden gain or advantage",
+      "excerpt": "because the Iranians want to keep getting the windfall that they've gotten out of this MOU.",
+      "example_cn": "因为伊朗人想继续从这份谅解备忘录中获得意外之财。"
+    },
+    {
+      "word": "MOU",
+      "phonetic": "/ˌem oʊ ˈjuː/",
+      "pos": "noun (abbreviation)",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "专业术语 · 高阶",
+      "cn": "谅解备忘录（Memorandum of Understanding）",
+      "en": "a document describing a bilateral or multilateral agreement between parties, not legally binding",
+      "excerpt": "the windfall that they've gotten out of this MOU.",
+      "example_cn": "他们从这份谅解备忘录中获得的意外之财。"
+    },
+    {
+      "word": "supplemental war funding",
+      "phonetic": "/ˌsʌplɪˈmentl wɔːr ˈfʌndɪŋ/",
+      "pos": "noun phrase",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "经济金融",
+      "level": "专业术语 · 高阶",
+      "cn": "补充战争资金（额外拨款的军事预算）",
+      "en": "additional money allocated by a government to cover the costs of a war beyond the regular budget",
+      "excerpt": "the U.S. wants to be at the table, but they're asking for supplemental war funding of Congress to do it to the tune of 87.6 billion.",
+      "example_cn": "美国想留在谈判桌上，但他们要求国会提供876亿美元的补充战争资金。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "Both the U.S. and Iran agreeing to meet in Qatar tomorrow after exchanging fire near the Strait of Hormuz.",
+      "cn": "美国和伊朗在霍尔木兹海峡附近交火后，同意明天在卡塔尔会面。",
+      "structure": "主句：Both the U.S. and Iran agreeing to meet in Qatar tomorrow；时间状语：after exchanging fire near the Strait of Hormuz。",
+      "analysis": "现在分词短语作主句谓语，表示主动和进行；after + 动名词短语作时间状语，表示先后顺序。"
+    },
+    {
+      "en": "Iran targeted U.S. allies in Bahrain and Kuwait, but a U.S. official says no Iranian drones or missiles hit their intended targets, saying, quote, \"To be clear, Iran failed.\"",
+      "cn": "伊朗袭击了美国在巴林和科威特的盟友，但一名美国官员表示，没有伊朗无人机或导弹击中预定目标，并引用说：\"明确地说，伊朗失败了。\"",
+      "structure": "并列句：Iran targeted...but a U.S. official says...；saying...为现在分词短语作伴随状语，quote引导直接引语。",
+      "analysis": "but连接转折关系；saying...补充说明官员的言论；quote用于新闻中引入直接引语。"
+    },
+    {
+      "en": "President Trump threatened that, if Iran continued violating the ceasefire, it, quote, \"will no longer exist.\"",
+      "cn": "特朗普总统威胁说，如果伊朗继续违反停火协议，它\"将不复存在\"。",
+      "structure": "主句：President Trump threatened that...；宾语从句：if Iran continued violating the ceasefire, it will no longer exist；插入语：quote。",
+      "analysis": "if引导条件状语从句；quote表示直接引用；\"will no longer exist\"是威胁性表述。"
+    },
+    {
+      "en": "If the Iranian regime thinks for a second that President Trump is going to sit -- sit by, stand by while Iran continues to attack international shipping without a response or our bases without a response, they're sadly mistaken.",
+      "cn": "如果伊朗政权有一秒钟认为特朗普总统会袖手旁观，坐视伊朗继续攻击国际航运或我们的基地而不作出回应，那他们就大错特错了。",
+      "structure": "条件状语从句：If the Iranian regime thinks...；宾语从句：that President Trump is going to sit by, stand by...；主句：they're sadly mistaken。",
+      "analysis": "sit by和stand by同义重复，强调不作为；while引导时间状语从句；without a response作状语修饰attack。"
+    },
+    {
+      "en": "And they saw that loud and clear over the last few nights, where we'll continue to militarily, if needed, take down their infrastructure that they're trying to use to illegally control an international waterway.",
+      "cn": "他们在过去几个晚上清楚地看到了这一点，我们将继续在必要时采取军事行动，摧毁他们试图用来非法控制国际水道的设施。",
+      "structure": "主句：And they saw that loud and clear over the last few nights；where引导非限制性定语从句修饰nights；从句中if needed为插入条件状语；that引导定语从句修饰infrastructure。",
+      "analysis": "loud and clear为固定短语，意为\"清楚地\"；militarily为副词修饰take down；if needed为省略句。"
+    },
+    {
+      "en": "I think both Tehran and Washington have decided that the ceasefire is more fire than cease.",
+      "cn": "我认为德黑兰和华盛顿都认定，这场停火与其说是停火，不如说是交火。",
+      "structure": "主句：I think；宾语从句：both Tehran and Washington have decided that...；that引导的宾语从句中：the ceasefire is more fire than cease。",
+      "analysis": "more...than...结构表示\"与其说……不如说……\"，fire和cease形成对比，fire指交火，cease指停止。"
+    },
+    {
+      "en": "They are OK with the level of violence and these skirmishes, these exchange of attacks, as they try and set their red lines and try and shape negotiations, frankly, via these attacks.",
+      "cn": "他们接受这种程度的暴力和这些小规模冲突、这些攻击交换，因为他们试图通过这些攻击来设定红线并塑造谈判，坦率地说。",
+      "structure": "主句：They are OK with...；as引导原因状语从句；从句中try and set...and try and shape...为并列谓语；frankly为插入语。",
+      "analysis": "be OK with表示\"接受\"；skirmishes和exchange of attacks为同位语；via these attacks作方式状语。"
+    },
+    {
+      "en": "And right now, there is a commitment to continue talking at the same time that they're going to continue shooting.",
+      "cn": "而现在，他们承诺继续谈判，同时他们也将继续开火。",
+      "structure": "主句：there is a commitment to continue talking；at the same time that引导时间状语从句。",
+      "analysis": "commitment to do sth.表示\"做某事的承诺\"；at the same time that表示\"在……的同时\"。"
+    },
+    {
+      "en": "And I'm under the impression this is the part that really gets into the nitty gritty of what happens to enriched uranium.",
+      "cn": "我的印象是，这部分真正涉及浓缩铀去向的具体细节。",
+      "structure": "主句：I'm under the impression；同位语从句：this is the part...；that引导定语从句修饰part；of what happens...为介词短语作定语修饰nitty gritty。",
+      "analysis": "under the impression that...意为\"有……的印象\"；nitty gritty为俚语，意为\"具体细节\"。"
+    },
+    {
+      "en": "So, Iran is trying to retain leverage over the Strait of Hormuz, its major lever that it has had during this war, without --",
+      "cn": "因此，伊朗正试图保持对霍尔木兹海峡的影响力，这是它在战争期间拥有的主要杠杆，而无需 --  --",
+      "structure": "主句：Iran is trying to retain leverage over the Strait of Hormuz；its major lever为同位语；that引导定语从句修饰lever；without后省略。",
+      "analysis": "retain leverage over意为\"保持对……的影响力\"；lever比喻\"杠杆，手段\"。"
+    },
+    {
+      "en": "The Iranians are leaning forward to exercise control over the strait to remind the world that they control that waterway, then, leaning back when the Trump administration objects vigorously enough, because the Iranians want to keep getting the windfall that they've gotten out of this MOU.",
+      "cn": "伊朗人向前倾，以行使对海峡的控制权，提醒世界他们控制着那条水道，然后，当特朗普政府足够强烈地反对时，他们又向后靠，因为伊朗人想继续从这份谅解备忘录中获得意外之财。",
+      "structure": "并列结构：leaning forward...then leaning back...；leaning forward后接不定式表目的；when引导时间状语从句；because引导原因状语从句；that引导定语从句修饰windfall。",
+      "analysis": "lean forward/back比喻\"向前/后退\"；exercise control over意为\"行使对……的控制\"；windfall意为\"意外之财\"；MOU为Memorandum of Understanding缩写。"
+    },
+    {
+      "en": "And then when it comes to the nuclear file, I think they will dribble out very small concessions bit by bit, then pull them back, then put them forward, then pull them back to keep the United States at the table.",
+      "cn": "然后当谈到核问题时，我认为他们会一点一点地挤出非常小的让步，然后收回，再提出，再收回，以让美国留在谈判桌上。",
+      "structure": "时间状语从句：when it comes to the nuclear file；主句：I think；宾语从句：they will dribble out...；并列谓语：dribble out, pull back, put forward, pull back；不定式表目的：to keep...。",
+      "analysis": "when it comes to...意为\"当谈到……\"；dribble out意为\"一点点地放出\"；bit by bit意为\"一点一点地\"；keep...at the table意为\"让……留在谈判桌上\"。"
+    },
+    {
+      "en": "Democrats are obviously very opposed to this to begin with, but I think the fraying of this ceasefire -- or not ceasefire or whatever you want to call it right now -- is just going to intensify questions in Congress about this huge amount of money they want.",
+      "cn": "民主党人显然从一开始就非常反对这一点，但我认为，这场停火 --  -- 或者不是停火，或者你现在想怎么称呼它 --  -- 的破裂只会加剧国会对他们想要这笔巨额资金的质疑。",
+      "structure": "并列句：Democrats are opposed...but I think...；think后宾语从句：the fraying...is going to intensify questions...；破折号内为插入语；they want为定语从句修饰money。",
+      "analysis": "to begin with意为\"首先，一开始\"；fraying意为\"磨损，破裂\"；or not ceasefire or whatever为口语化插入语。"
+    },
+    {
+      "en": "Democrats see blood in the water, and they're going to make them pay in November for this war that's unpopular across both parties.",
+      "cn": "民主党人看到了机会，他们要让共和党人在11月为这场在两党都不受欢迎的战争付出代价。",
+      "structure": "并列句：Democrats see blood...and they're going to make them pay...；that引导定语从句修饰war。",
+      "analysis": "see blood in the water为习语，意为\"看到机会（尤指对手的弱点）\"；make sb. pay意为\"让某人付出代价\"；across both parties意为\"在两党中\"。"
+    },
+    {
+      "en": "In our reporting -- and we write about this in the book -- none of Trump's senior advisors, none of his cabinet, really thought this was a good idea.",
+      "cn": "在我们的报道中 --  -- 我们在书中也写到了这一点 --  -- 特朗普的高级顾问、他的内阁成员，没有人真的认为这是个好主意。",
+      "structure": "主句：none of Trump's senior advisors...thought this was a good idea；破折号内为插入语。",
+      "analysis": "none of...none of...双重否定强调无人；插入语补充说明。"
+    },
+    {
+      "en": "But Vance was the only one who really vocally took issue with this, with Trump.",
+      "cn": "但万斯是唯一一个真正公开对此提出异议的人，与特朗普意见相左。",
+      "structure": "主句：But Vance was the only one；who引导定语从句修饰one；with Trump为状语。",
+      "analysis": "vocally意为\"直言地\"；take issue with意为\"对……提出异议\"。"
+    },
+    {
+      "en": "And it irritated Trump.",
+      "cn": "这激怒了特朗普。",
+      "structure": "简单句。",
+      "analysis": "irritate意为\"激怒\"。"
+    },
+    {
+      "en": "I think you're seeing a larger I mean, what she is talking about is a larger dynamic in this White House, is that people do not want to give Trump bad news.",
+      "cn": "我认为你看到的是一个更大的 --  -- 我的意思是，她所谈论的是白宫中一个更大的动态，那就是人们不想给特朗普带来坏消息。",
+      "structure": "主句：I think；宾语从句：you're seeing a larger...；插入语：I mean；what引导主语从句；that引导表语从句。",
+      "analysis": "I mean为口语插入语；dynamic意为\"动态，互动模式\"。"
+    },
+    {
+      "en": "And you're seeing Trump having -- trotting -- trotting out Vance and being like, Well, now you fix it.",
+      "cn": "而且你看到特朗普让万斯出来 --  -- 出来 --  -- 然后说，好吧，现在你来解决它。",
+      "structure": "主句：you're seeing Trump having...；现在分词短语trotting out Vance作宾语补足语；being like引导直接引语。",
+      "analysis": "trot out意为\"推出，展示（常含贬义）\"；being like为口语用法，意为\"说\"。"
+    },
+    {
+      "en": "You didn't even want to go in, but now it's your responsibility to fix this thing.",
+      "cn": "你当初甚至不想介入，但现在解决这件事是你的责任。",
+      "structure": "并列句：You didn't even want to go in, but now it's your responsibility to fix this thing。",
+      "analysis": "go in意为\"介入\"；it's one's responsibility to do sth.意为\"做某事是某人的责任\"。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊冲突与霍尔木兹海峡",
+      "content": "霍尔木兹海峡（Strait of Hormuz）是连接波斯湾和阿拉伯海的狭窄水道，全球约20%的石油运输经过此处。伊朗常以控制该海峡作为地缘政治杠杆。2026年美伊冲突中，双方在附近交火后同意暂时停火，但伊朗试图通过限制航运路线维持影响力。",
+      "keywords": "Strait of Hormuz · ceasefire · leverage · international shipping"
+    },
+    {
+      "title": "美国国会战争资金争议",
+      "content": "美国行政分支向国会请求补充战争资金（supplemental war funding）用于军事行动。2026年美伊冲突中，特朗普政府要求876亿美元，但国会两党对此分歧严重。民主党借战争导致油价上涨、民众不满，在中期选举前施压共和党。",
+      "keywords": "supplemental war funding · Congress · gas prices · midterm elections"
+    },
+    {
+      "title": "委内瑞拉双重地震与救援",
+      "content": "2026年6月，委内瑞拉发生两次大规模地震（dual mass earthquakes），造成大量建筑倒塌。救援人员在废墟（rubble）中发现多名幸存婴儿，被称为'奇迹'。此类灾害凸显发展中国家应急响应能力的挑战。",
+      "keywords": "dual mass earthquakes · rubble · rescue · Venezuela"
+    },
+    {
+      "title": "美国队世界杯前景",
+      "content": "2026年世界杯淘汰赛阶段，美国队（Team USA）对阵波黑队（Bosnia）。作为underdog（不被看好的一方），美国队面临强敌，但此前表现令部分球迷惊喜。世界杯是全球最受关注的体育赛事之一，美国队晋级前景引发讨论。",
+      "keywords": "World Cup · underdog · Team USA · Bosnia"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "原文中 'stand down' 的含义是什么？",
+      "options": [
+        "A. 站起来",
+        "B. 退出/停止行动",
+        "C. 支持",
+        "D. 下降"
+      ],
+      "answer": 1,
+      "explanation": "在军事语境中，'stand down' 意为退出或停止行动。原文 'Both the U.S. and Iran agreeing to stand down for now' 指双方同意暂时停止冲突。"
+    },
+    {
+      "type": "vocab",
+      "question": "短语 'on the verge of' 在 'Could the truce be on the verge of crumbling?' 中的意思是？",
+      "options": [
+        "A. Di ambang",
+        "B. Jauh dari",
+        "C. Setelah",
+        "D. Sebelum"
+      ],
+      "answer": 0,
+      "explanation": "'on the verge of' berarti 'di ambang, akan segera', menunjukkan sesuatu akan segera terjadi. Di sini merujuk pada perjanjian gencatan senjata yang hampir runtuh."
+    },
+    {
+      "type": "vocab",
+      "question": "Apa kepanjangan dan arti dari 'MOU' dalam teks asli?",
+      "options": [
+        "A. Memorandum of Understanding, nota kesepahaman",
+        "B. Ministry of Unity, Kementerian Persatuan",
+        "C. Major Operation Unit, Unit Operasi Utama",
+        "D. Monetary Overhaul Unit, Unit Reformasi Moneter"
+      ],
+      "answer": 0,
+      "explanation": "MOU adalah singkatan dari Memorandum of Understanding, yaitu nota kesepahaman yang tidak mengikat secara hukum. Teks menyebut Iran mendapat windfall (keuntungan tak terduga) dari MOU."
+    },
+    {
+      "type": "comprehension",
+      "question": "Menurut teks, apa yang disepakati AS dan Iran setelah baku tembak?",
+      "options": [
+        "A. Gencatan senjata total segera",
+        "B. Bertemu di Qatar",
+        "C. Saling mengakui kedaulatan",
+        "D. Tukar tawanan perang"
+      ],
+      "answer": 1,
+      "explanation": "Teks dengan jelas menyatakan 'Both the U.S. and Iran agreeing to meet in Qatar tomorrow after exchanging fire', yaitu setuju bertemu di Qatar."
+    },
+    {
+      "type": "comprehension",
+      "question": "Bagaimana sikap anggota Partai Demokrat di Kongres terhadap pendanaan perang tambahan?",
+      "options": [
+        "A. Sangat mendukung",
+        "B. Menentang dan memanfaatkannya untuk menekan",
+        "C. Netral",
+        "D. Meminta jumlah yang lebih besar"
+      ],
+      "answer": 1,
+      "explanation": "Teks menyebut 'Democrats see blood in the water, and they're going to make them pay in November', menunjukkan Demokrat menentang dan memanfaatkan ketidakpopuleran perang untuk menekan."
+    },
+    {
+      "type": "comprehension",
+      "question": "Menurut buku baru Maggie Haberman, bagaimana sikap para penasihat Trump terhadap perang?",
+      "options": [
+        "A. 一致支持",
+        "B. 多数认为不是好主意，但只有万斯公开反对",
+        "C. 全部反对",
+        "D. 没有明确态度"
+      ],
+      "answer": 1,
+      "explanation": "原文引用 Haberman 说 'none of Trump's senior advisors... really thought this was a good idea. But Vance was the only one who really vocally took issue'，即多数不赞成，但只有万斯公开反对。"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "In Nevada, the Air Force performed a flyover to kick off their Fourth of July celebration. The iconic Thunderbirds flew over famous landmarks including Las Vegas, Hoover Dam and red rock landmarks including Las Vegas, Hoover Dam and Red Rock Canyon. All right. Quite the sight to see there. That does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "Di Nevada, Angkatan Udara mengadakan pertunjukan flyover untuk memulai perayaan Hari Kemerdekaan. Tim penerbang ikonik Thunderbirds terbang melintasi landmark terkenal termasuk Las Vegas, Bendungan Hoover, dan Red Rock Canyon. Ya, pemandangannya sungguh spektakuler. CNN Headlines Brief berakhir di sini. Saya Brad Smith. Acara CNN This Morning yang dipandu oleh Audie Cornish dimulai sekarang."
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Iran and the U.S. trade strikes. President Trump threatens Tehran will, quote, \"no longer exist.\" Is this ceasefire collapsing?",
+      "cn": "Iran dan Amerika saling melancarkan serangan. Presiden Trump mengancam bahwa Teheran akan 'lenyap'. Apakah kesepakatan gencatan senjata sedang runtuh?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Violence will be met with violence.",
+      "cn": "Kekerasan akan dibalas dengan kekerasan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And miracles in the rubble. Babies buried under piles of debris found alive, days after dual mass earthquakes in Venezuela. And fires turn deadly in Utah. Now, scorching heat is about to make things a little harder for firefighters. And everyone loves an underdog. Does the U.S. have a shot at winning the World Cup?",
+      "cn": "Keajaiban di reruntuhan. Beberapa hari setelah gempa bumi ganda di Venezuela, seorang bayi yang terkubur di bawah puing-puing ditemukan masih hidup. Kebakaran di Utah menewaskan orang. Sekarang, panas terik akan membuat pekerjaan petugas pemadam kebakaran semakin sulit. Semua orang menyukai underdog. Apakah Amerika punya peluang memenangkan Piala Dunia?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "They've been playing good. Like, at first, I was even skeptical.",
+      "cn": "Mereka bermain cukup bagus. Misalnya, awalnya saya bahkan skeptis."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "I do support the U.S. Team. I think there's no chance. SEN. ROGER MARSHALL (R-KS): The major war is over. And think of this as almost just a mop-up operation. We have to press them. If they strike us, we have to strike them back by ten.",
+      "cn": "Saya memang mendukung tim AS. Tapi saya pikir tidak ada peluang. Senator Roger Marshall (R-KS): Perang utama sudah berakhir. Anggap ini hampir sebagai operasi pembersihan. Kita harus menekan. Jika mereka menyerang kita, kita harus membalas sepuluh kali lipat."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, a fragile ceasefire back on after a fresh outburst of strikes between the U.S. and Iran. Could the truce be on the verge of crumbling? Good morning, everybody. I'm Audie Cornish. We're going to start with the commitment to stand down for now. Both the U.S. and Iran agreeing to meet in Qatar tomorrow after exchanging fire near the Strait of Hormuz. Iran targeted U.S. allies in Bahrain and Kuwait, but a U.S.",
+      "cn": "Jadi, setelah serangan baru antara AS dan Iran, gencatan senjata yang rapuh berhasil dipulihkan. Apakah gencatan senjata hampir runtuh? Selamat pagi semuanya. Saya Audie Cornish. Kita mulai dengan komitmen kedua belah pihak untuk gencatan senjata sementara. AS dan Iran sepakat untuk bertemu besok di Qatar setelah baku tembak di dekat Selat Hormuz. Iran menargetkan sekutu AS di Bahrain dan Kuwait, tetapi seorang pejabat AS mengatakan tidak ada drone atau rudal Iran yang mengenai sasaran, dan menyatakan 'jelas, Iran gagal'. Presiden Trump mengancam bahwa jika Iran terus melanggar gencatan senjata, Iran akan 'lenyap'."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "official says no Iranian drones or missiles hit their intended targets, saying, quote, \"To be clear, Iran failed.\" President Trump threatened that, if Iran continued violating the ceasefire, it, quote, \"will no longer exist.\"",
+      "cn": "Jika rezim Iran berpikir sejenak bahwa Presiden Trump akan diam saja saat Iran terus menyerang pelayaran internasional atau pangkalan kami tanpa tanggapan, mereka salah besar. Mereka melihatnya dengan jelas beberapa malam terakhir, dan kami akan terus mengambil tindakan militer bila perlu untuk menghancurkan fasilitas yang mereka coba gunakan untuk mengendalikan jalur air internasional secara ilegal."
+    },
+    {
+      "speaker": "Mike Waltz",
+      "text": "If the Iranian regime thinks for a second that President Trump is going to sit -- sit by, stand by while Iran continues to attack international shipping without a response or our bases without a response, they're sadly mistaken. And they saw that loud and clear over the last few nights, where we'll continue to militarily, if needed, take down their infrastructure that they're trying to use to illegally control an international waterway.",
+      "cn": "Baiklah. Untuk membantu kami memahami semua ini dalam obrolan grup hari ini, kami memiliki Igor Bobic, reporter Kongres dari NOTUS; Becca Wasser, kepala pertahanan untuk Bloomberg Economics; Michael Schaller, penulis kontributor The Atlantic; dan Alex Thompson, analis politik CNN dan reporter politik nasional Axios. Selamat pagi semuanya. Terima kasih sudah datang."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right. To help us figure this all out today in the group chat, Igor Bobic, congressional reporter with \"NOTUS\"; Becca Wasser, defense lead at Bloomberg Economics; Michael Scherer, staff writer at \"The Atlantic\"; and Alex Thompson, CNN political analyst and national political correspondent with Axios. Good morning, everybody. Thank you guys for being here."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, Becca, before I bring in the group, let's talk about this kind of back and forth, because there's a lot of question of when is a ceasefire not a ceasefire? At the same time, I feel like the U.S. and Iran behave similarly in some ways in terms of threats versus rhetoric.",
+      "cn": "Jadi, Becca, sebelum saya meminta yang lain berbicara, kita bicarakan dulu situasi tarik-ulur ini, karena ada banyak pertanyaan: kapan gencatan senjata bukan gencatan senjata? Pada saat yang sama, saya merasa AS dan Iran dalam beberapa hal, seperti ancaman dan retorika, bertindak serupa."
+    },
+    {
+      "speaker": "Becca Wasser",
+      "text": "I think both Tehran and Washington have decided that the ceasefire is more fire than cease. They are OK with the level of violence and these skirmishes, these exchange of attacks, as they try and set their red lines and try and shape negotiations, frankly, via these attacks. And so, I think we're going to see these for the foreseeable future. And right now, there is a commitment to continue talking at the same time that they're going to continue shooting.",
+      "cn": "Saya pikir Teheran dan Washington sama-sama menganggap gencatan senjata lebih sebagai 'gencatan senjata' daripada 'gencatan senjata'. Mereka menerima tingkat kekerasan saat ini dan bentrokan kecil, saling menyerang karena mereka mencoba menentukan garis merah dan membentuk negosiasi melalui serangan-serangan ini. Jadi, saya pikir kita akan terus melihat ini dalam waktu dekat. Dan sekarang, sambil terus menembak, mereka juga berkomitmen untuk melanjutkan dialog."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Like, the technical talks are still going.",
+      "cn": "Ya. Negosiasi teknis masih berlangsung."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I'm under the impression this is the part that really gets into the nitty gritty of what happens to enriched uranium. Where does it go? So, they are still sort of -- it's like parallel tracks, I think.",
+      "cn": "Kesan saya, bagian ini benar-benar menyangkut detail pemrosesan uranium yang diperkaya. Ke mana perginya? Jadi, mereka masih sampai batas tertentu -- saya pikir jalur paralel."
+    },
+    {
+      "speaker": "Wasser",
+      "text": "It's parallel tracks, but at the same time, you see Iran trying to exert its control over the Strait of Hormuz by saying that ships taking this Southern route, this U.S.-approved route via Oman, is unacceptable to them, because it is not the one that is being coordinated by Iran. So, Iran is trying to retain leverage over the Strait of Hormuz, its major lever that it has had during this war, without --",
+      "cn": "Jalur paralel, tetapi pada saat yang sama, Anda akan melihat Iran mencoba untuk memberlakukan kendali atas Selat Hormuz dengan menyatakan bahwa jalur selatan yang disetujui AS melalui Oman tidak dapat diterima karena bukan jalur yang dikoordinasikan Iran. Oleh karena itu, Iran berusaha mempertahankan pengaruh atas Selat Hormuz, yang merupakan pengaruh utama yang mereka miliki selama perang, tanpa --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me follow up on you saying that, because Jake Sullivan, the former national security adviser under Biden, was on FAREED ZAKARIA this weekend. He was asked this question about whether or not Iran, through this process, is actually getting concessions. Here was his read of the situation.",
+      "cn": "Biarkan saya menindaklanjuti apa yang baru saja Anda katakan, karena mantan penasihat keamanan nasional era Biden, Jake Sullivan, muncul di acara Fareed Zakaria akhir pekan ini. Dia ditanya apakah Iran sebenarnya mendapatkan konsesi melalui proses ini. Berikut pandangannya tentang situasi."
+    },
+    {
+      "speaker": "Jake Sullivan",
+      "text": "The Iranians are leaning forward to exercise control over the strait to remind the world that they control that waterway. Then, leaning back when the Trump administration objects vigorously enough, because the Iranians want to keep getting the windfall that they've gotten out of this MOU. And then when it comes to the nuclear file, I think they will dribble out very small concessions bit by bit, then pull them back, then put them forward, then pull them back to keep the United States at the table.",
+      "cn": "Orang Iran maju untuk menggunakan kendali atas selat, mengingatkan dunia bahwa mereka mengendalikan jalur air itu. Kemudian, ketika pemerintahan Trump cukup keras menentang, mereka mundur karena Iran ingin terus mendapatkan keuntungan dari nota kesepahaman ini. Dan dalam masalah nuklir, saya pikir mereka akan sedikit demi sedikit mengeluarkan konsesi yang sangat kecil, lalu menariknya, lalu mengajukan lagi, lalu menariknya lagi, untuk membuat AS tetap di meja perundingan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, so the U.S. wants to be at the table, but they're asking for supplemental war funding of Congress to do it to the tune of 87.6 billion. Igor, you follow Congress. As the Senate has nudged towards going against war powers, what is the mood on the Hill for paying this bill? IGOR BOBIC, CONGRESSIONAL REPORTER, \"NOTUS\": Not very good at all right now.",
+      "cn": "Oke, jadi AS ingin tetap di meja perundingan, tetapi mereka meminta Kongres menyediakan dana perang tambahan sebesar 87,6 miliar dolar. Igor, Anda meliput Kongres. Dengan Senat yang cenderung menentang kekuasaan perang, bagaimana suasana di Capitol Hill untuk membayar tagihan ini? Reporter Kongres Igor Bobic (NOTUS): Saat ini sangat tidak baik."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Democrats are obviously very opposed to this to begin with, but I think the fraying of this ceasefire -- or not ceasefire or whatever you want to call it right now -- is just going to intensify questions in Congress about this huge amount of money they want.",
+      "cn": "Partai Demokrat jelas sangat menentang sejak awal, tetapi saya pikir pecahnya gencatan senjata ini -- atau bukan gencatan senjata, apa pun sebutannya sekarang -- hanya akan memperkuat keraguan Kongres tentang keinginan mereka untuk mendapatkan dana besar ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But it's hard to picture them yanking money while people are in the field of battle. So, is it just to make noise, make them -- the Trump folks' life harder? Like, I don't get it.",
+      "cn": "Tapi sulit membayangkan mereka menarik dana saat orang masih bertempur di medan perang. Jadi, ini hanya untuk membuat keributan, mempersulit tim Trump? Saya tidak mengerti."
+    },
+    {
+      "speaker": "Bobic",
+      "text": "Absolutely, absolutely. Democrats see blood in the water, and they're going to make them pay in November for this war that's unpopular across both parties. Gas prices are up. People are paying a lot of money here. It's not popular.",
+      "cn": "Tentu, tentu. Partai Demokrat melihat peluang untuk membuat Partai Republik membayar harga dalam pemilu November untuk perang yang tidak populer di kedua partai. Harga minyak naik, orang membayar mahal untuk ini. Ini tidak populer."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Although gas prices are down a tiny bit, which I think is what the president wanted. Right. But certainly, by July 4th, I think they're clocking in at around -- Oh, there we go -- $3.86. In this new book, \"Regime Change,\" they -- Maggie Haberman, coauthor, was talking about sort of who wanted to be involved in this war, who didn't want to be involved in this war, in the administration. Here's how she described it.",
+      "cn": "Meskipun harga minyak sedikit turun, saya pikir itulah yang diinginkan presiden. Benar. Tapi yang pasti, pada tanggal 4 Juli, harga minyak sekitar -- oh, lihat ini -- 3,86 dolar. Dalam buku baru 'Regime Change', rekan penulis Maggie Haberman berbicara tentang siapa di dalam pemerintahan yang ingin terlibat dalam perang ini dan siapa yang tidak. Begini cara dia menggambarkannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "MAGGIE HABERMAN, CO-AUTHOR, \"REGIME CHANGE\": In our reporting -- and we write about this in the book -- none of Trump's senior advisors, none of his cabinet, really thought this was a good idea. But Vance was the only one who really vocally took issue with this, with Trump. And it irritated Trump. It cost Vance with Trump. But he was the only person who was really sort of rattling the cages.",
+      "cn": "Maggie Haberman, rekan penulis 'Regime Change': Menurut liputan kami -- kami juga menulisnya di buku -- tidak ada penasihat senior Trump dan anggota kabinet yang benar-benar menganggap ini ide bagus. Tapi Vance adalah satu-satunya yang secara terbuka menentangnya, langsung berseberangan dengan Trump. Ini membuat Trump marah dan merusak posisi Vance di mata Trump. Tapi dialah satu-satunya yang benar-benar berani menantang status quo."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What do you see in what's happening now in light of what she's saying about what happened when this all started?",
+      "cn": "Mengingat apa yang dia katakan tentang situasi saat semuanya dimulai, apa yang Anda lihat sekarang?"
+    },
+    {
+      "speaker": "Alex Thompson",
+      "text": "I think you're seeing a larger I mean, what she is talking about is a larger dynamic in this White House, is that people do not want to give Trump bad news. And so sometimes, he is making decisions based on the good news people are trying to share with him.",
+      "cn": "Saya pikir yang Anda lihat adalah lebih besar -- maksud saya, yang dia bicarakan adalah dinamika yang lebih besar di Gedung Putih, yaitu orang-orang tidak ingin memberikan kabar buruk kepada Trump. Jadi kadang-kadang, dia membuat keputusan berdasarkan kabar baik yang orang coba bagikan dengannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And if you give him the bad news, you end up holding the bag, it seems, because Vance apparently --",
+      "cn": "Jika Anda membawakannya kabar buruk, Anda akhirnya tampaknya akan menjadi kambing hitam, karena Vance jelas --"
+    },
+    {
+      "speaker": "Thompson",
+      "text": "I mean -- I mean exactly, like -- and it's -- and part of the reporting of this book is that Vance, his relationship with Trump was hurt by doing this. And you're seeing Trump having -- trotting -- trotting out Vance and being like, Well, now you fix it. You didn't even want to go in, but now it's your responsibility to fix this thing. MICHAEL SCHERER, STAFF WRITER, \"THE ATLANTIC\": There's also a shift that's happened.",
+      "cn": "Maksud saya -- persis seperti itu -- dan -- bagian dari laporan buku ini menunjukkan bahwa hubungan Vance dengan Trump rusak karenanya. Dan sekarang Anda melihat Trump menyuruh Vance keluar, seolah berkata, baiklah, sekarang kamu yang selesaikan. Kamu bahkan tidak ingin terlibat, tapi sekarang menyelesaikan ini adalah tanggung jawabmu. Kontributor The Atlantic, Michael Scherer: Juga terjadi perubahan."
+    },
+    {
+      "speaker": "Thompson",
+      "text": "You know, if we think back just three months ago, President Trump believed he had the hottest hand in history.",
+      "cn": "Anda tahu, jika kita ingat tiga bulan lalu, Presiden Trump percaya dia memiliki posisi terkuat dalam sejarah."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He had all the cards, as he likes to say.",
+      "cn": "Dia memiliki semua kartu, seperti yang suka dia katakan."
+    },
+    {
+      "speaker": "Scherer",
+      "text": "All the cards. He'd come out of Venezuela. He'd -- he'd remade the federal government. And -- and all the facts were on the table. He was presented with the reality of what it meant to go to Iran. But he just believed this was sort of his destiny. I think we're at a different stage of the presidency right now. It's very clear that this has humbled him, and he doesn't have the power, the sort of all-achieving power that he thought he had a few months ago.",
+      "cn": "Semua kartu. Dia baru saja keluar dari Venezuela. Dia -- dia merombak pemerintah federal. Dan -- semua fakta ada di atas meja. Dia menghadapi kenyataan apa artinya masuk ke Iran. Tapi dia hanya percaya ini sepertinya takdirnya. Saya pikir kita sekarang berada pada tahap yang berbeda dari masa kepresidenan. Jelas, hal ini membuatnya rendah hati, dia tidak lagi memiliki kekuatan mahakuasa yang dia pikir dia miliki beberapa bulan lalu."
+    },
+    {
+      "speaker": "Scherer",
+      "text": "And so, I -- you know, there are personality conflicts all the time in the White House.",
+      "cn": "Jadi, saya -- Anda tahu, selalu ada konflik kepribadian di Gedung Putih."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But we'll talk about this more, because we've got SCOTUS rulings today.",
+      "cn": "Ya. Tapi kita akan membahas ini lebih lanjut, karena hari ini ada putusan Mahkamah Agung."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Which are also going to ring fence his power. Maybe, maybe not. And then we've got the midterms. Becca, I do want to get one more word from you. It's one thing for Iran and the U.S. to -- to be going back and forth. There's somebody at the helm of a ship who has to decide to go forward or not. Are they? Are they afraid? Do they believe that they can sail through a ceasefire?",
+      "cn": "Putusan-putusan ini juga akan membatasi kekuasaannya. Mungkin, mungkin tidak. Lalu ada pemilihan paruh waktu. Becca, saya ingin mendengar Anda lagi. Satu hal adalah saling balas antara Iran dan AS. Tapi orang yang memegang kemudi harus memutuskan apakah akan maju. Apakah mereka takut? Apakah mereka percaya bisa mencapai gencatan senjata?"
+    },
+    {
+      "speaker": "Wasser",
+      "text": "Iran can believe that they control the strait. The U.S. can believe that the strait is open. But who actually decides? It's those commercial shippers? It's the people at the helm of the ship. And some are willing to actually take a chance. And some are perhaps a little bit reticent. And that is why --",
+      "cn": "Iran bisa percaya mereka mengendalikan selat. AS bisa percaya selat itu terbuka. Tapi siapa yang benar-benar memutuskan? Perusahaan pelayaran komersial? Orang yang memegang kemudi. Beberapa orang bersedia mengambil risiko. Beberapa mungkin sedikit ragu. Itulah mengapa --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. We're seeing some say there's different routes they can use.",
+      "cn": "Ya. Kita melihat beberapa orang mengatakan mereka bisa menggunakan rute yang berbeda."
+    },
+    {
+      "speaker": "Wasser",
+      "text": "Is it safe? There may still be mines in the water. And the U.S. is still providing armed overwatch. It's still trying to get ships out. And I think we might actually end up seeing an uptick in U.S. military activity, trying to protect the ships that are trying to make it in and out of the waterway, because of President Trump's desire to make sure that oil is flowing in and out, as needed.",
+      "cn": "Apakah aman? Mungkin masih ada ranjau di air. AS masih memberikan perlindungan bersenjata. Masih mencoba membuat kapal pergi. Saya pikir kita mungkin benar-benar akan melihat peningkatan aktivitas militer AS yang mencoba melindungi kapal yang mencoba masuk dan keluar dari jalur air, karena Presiden Trump ingin memastikan minyak keluar masuk sesuai permintaan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Becca Wasser, always love having you here. Appreciate your insight. Coming up on CNN, we're going to talk about what we mentioned earlier: the Supreme Court getting ready with their major decisions that could affect this White House. That's coming out this morning. Plus, the renovator in chief. President Trump's next project in his mission to make over D.C. And Haiti has a \"do not travel\" advisory, but the Trump administration is defending its decision to send some Haitians back home.",
+      "cn": "Baik. Becca Wasser, selalu senang Anda datang. Terima kasih atas wawasannya. Selanjutnya di CNN, kita akan membahas apa yang kita sebutkan sebelumnya: Mahkamah Agung siap membuat putusan besar yang bisa mempengaruhi Gedung Putih. Diumumkan pagi ini. Juga, Kepala Perenovasi. Proyek berikutnya Presiden Trump merenovasi Washington DC. Ada saran 'jangan bepergian' untuk Haiti, tapi pemerintahan Trump membela keputusannya memulangkan beberapa orang Haiti."
+    },
+    {
+      "speaker": "Markwayne Mullin",
+      "text": "So, that isn't -- that -- that advisory is to American citizens traveling to Haiti, not Haitians going back home.",
+      "cn": "Jadi, itu -- saran itu untuk warga AS yang bepergian ke Haiti, bukan untuk orang Haiti yang pulang."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right. It's almost 15 minutes past the hour. This is your morning roundup. Three firefighters confirmed dead, two injured as fires spread along the Colorado-Utah border. Utah's governor announcing firework restrictions ahead of July 4th, citing firefighters' strained resources. The National Weather Service issued the highest possible fire weather risk. Today, temperatures are expected to rise in the area.",
+      "cn": "Baik. Sekarang hampir pukul 15. Ini ringkasan pagi Anda. Tiga petugas pemadam kebakaran dikonfirmasi tewas, dua terluka, api besar menyebar di perbatasan Colorado-Utah. Gubernur Utah mengumumkan pembatasan kembang api sebelum 4 Juli, dengan alasan sumber daya pemadam kebakaran yang ketat. Badan Cuaca Nasional mengeluarkan risiko cuaca kebakaran tertinggi yang mungkin. Hari ini, suhu di wilayah itu diperkirakan naik."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And from New York to Seattle, millions took to the streets Sunday for the annual Pride parades, marking the anniversary of the historic Stonewall uprising. The celebrations this year carried a distinct weight: joy mixed with defiance as marchers gathered against the backdrop of a widening political battle. The Trump administration actively moving to roll back transgender rights, in particular. And tennis star Serena Williams will compete at the Wimbledon tomorrow in London.",
+      "cn": "Dari New York hingga Seattle, jutaan orang turun ke jalan pada hari Minggu untuk parade Pride tahunan, memperingati ulang tahun pemberontakan Stonewall yang bersejarah. Perayaan tahun ini memiliki bobot yang jelas: kegembiraan dan perlawanan berbaur, para peserta berkumpul di tengah latar belakang perjuangan politik yang semakin meluas. Pemerintahan Trump khususnya giat mendorong pencabutan hak transgender. Bintang tenis Serena Williams akan bertanding besok di London pada Kejuaraan Wimbledon."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Williams will be facing 20-year-old Maya Joint in the first round of the competition. And Williams will also compete alongside her sister, Venus Williams, in the doubles matches at Wimbledon. And the Reflecting Pool, now blocked off by security fences ahead of the July 4th holiday as the attempts to clean it up from algae blooms continue. Security cameras have also been installed as the Trump administration alleges people have been vandalizing the pool following a multimillion-dollar project.",
+      "cn": "Williams akan menghadapi Maya Joint yang berusia 20 tahun di babak pertama. Williams juga akan bermain ganda bersama saudara perempuannya Venus Williams di Kejuaraan Wimbledon. Sementara itu, kolam refleksi telah ditutup dengan pagar pengaman sebelum liburan 4 Juli, pembersihan ganggang terus berlanjut. Pemerintahan Trump mengklaim bahwa setelah proyek senilai jutaan dolar, seseorang telah merusak kolam tersebut, sehingga kamera pengawas juga dipasang."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The president also seems to be eyeing a new project: building a golf course on the Potomac River. He spent Sunday afternoon touring the East Potomac golf links and later said on social media the course would be shut down for renovations, which, weirdly, is in the group chat. Because, Michael, you were writing about this. I feel like the Reflecting Pool, golf things, they sound minor. But what do they tell us about, like, how the administration is operating?",
+      "cn": "Presiden juga tampaknya mempertimbangkan proyek baru: membangun lapangan golf di Sungai Potomac. Dia mengunjungi East Potomac Golf Course pada Minggu sore, lalu di media sosial mengatakan lapangan itu akan ditutup untuk renovasi, anehnya berita itu muncul di obrolan grup. Karena Michael, Anda pernah menulis tentang ini sebelumnya. Saya pikir hal-hal seperti kolam refleksi, lapangan golf terdengar sepele. Tapi apa yang bisa mereka ceritakan tentang cara kerja pemerintahan?"
+    },
+    {
+      "speaker": "Scherer",
+      "text": "It's about him. He's obsessed with this stuff. I mean, he spent all day -- all day yesterday --",
+      "cn": "Ini tentang dirinya sendiri. Dia terobsesi dengan hal-hal ini. Maksud saya, dia menghabiskan sepanjang hari -- kemarin sepanjang hari --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, developer's going to develop. Like --",
+      "cn": "Yah, pengembang ya harus mengembangkan. Seperti --"
+    },
+    {
+      "speaker": "Scherer",
+      "text": "Yes, this is what he likes to do. You know, you mentioned earlier the -- the supplemental request for the Iran War. There's $500 million in there for the park service to rebuild the seawall around the golf course, because that golf course floods every year. Whenever --",
+      "cn": "Ya, itulah yang dia suka lakukan. Anda tahu, Anda sebutkan sebelumnya -- permintaan alokasi tambahan perang Iran. Ada $500 juta untuk Dinas Taman merekonstruksi tembok laut di sekitar lapangan golf, karena lapangan itu kebanjiran setiap tahun. Setiap kali --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Just to be clear, the war funding bill --",
+      "cn": "Perlu diperjelas, RUU alokasi perang --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- has a clause for the golf course?",
+      "cn": "-- berisi ketentuan lapangan golf?"
+    },
+    {
+      "speaker": "Scherer",
+      "text": "Yes. And that's after he tried to get in that immigration supplemental this summer. He tried to get $1 billion for the East Wing modernization, they call it. The ballroom.",
+      "cn": "Ya. Dan itu setelah dia mencoba memasukkan alokasi tambahan imigrasi musim panas ini. Dia mencoba mendapatkan $1 miliar untuk modernisasi sayap timur, yang mereka sebut ballroom."
+    },
+    {
+      "speaker": "Scherer",
+      "text": "The ballroom construction.",
+      "cn": "Pembangunan ballroom."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, is that in or out?",
+      "cn": "Jadi, proyek ini termasuk atau dikecualikan?"
+    },
+    {
+      "speaker": "Bobic",
+      "text": "That's -- that's out. But they're not done.",
+      "cn": "Itu -- -- itu ditolak. Tapi mereka belum selesai."
+    },
+    {
+      "speaker": "Scherer",
+      "text": "That was out. No. And on top of that, when he put out his budget earlier this year, there was $10 billion for D.C. beautification, which Congress has not done anything with. So, he keeps asking for more and more money for his projects. So far, even Republicans are, like, what are you talking about?",
+      "cn": "Itu ditolak. Tidak. Dan selain itu, ketika dia mengajukan anggaran awal tahun ini, ada $10 miliar untuk mempercantik Washington D.C., dan Kongres tidak melakukan apa pun. Jadi, dia terus meminta lebih banyak dana untuk proyeknya. Sejauh ini, bahkan Partai Republik berkata, apa yang kamu bicarakan?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But sneaking them into these, like, pieces of must-pass legislation, basically.",
+      "cn": "Tapi pada dasarnya menyelipkannya ke dalam RUU yang harus disahkan ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's weird, because the Reflecting Pool is supposed to reflect Washington and where Washington is. And right now, this reflection is actually pretty accurate, right? Which is, like, high fences, surveillance, and some contracts that didn't turn out quite the way the administration wanted.",
+      "cn": "Ini aneh, karena kolam refleksi seharusnya mencerminkan Washington dan keadaannya saat ini. Dan sekarang, refleksi ini sebenarnya cukup akurat, kan? Yaitu pagar tinggi, pengawasan, dan beberapa kontrak yang tidak berjalan seperti yang diharapkan pemerintah."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Not my usual editorializing, but it's pretty obvious.",
+      "cn": "Ini bukan komentar biasa saya, tapi ini jelas."
+    },
+    {
+      "speaker": "Thompson",
+      "text": "They're bulldozing through red tape with all these no-bid contracts that some of whom are Trump's friends, in order to do all these things.",
+      "cn": "Mereka menerobos birokrasi dengan semua kontrak tanpa tender (beberapa di antaranya adalah teman Trump) untuk melakukan semua hal ini."
+    },
+    {
+      "speaker": "Thompson",
+      "text": "And then sometimes you've got shoddy contractors doing -- doing work.",
+      "cn": "Dan terkadang Anda mendapatkan kontraktor berkualitas rendah yang melakukan -- -- melakukan pekerjaan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But on July 4th, to see it like this, it's grim.",
+      "cn": "Tapi melihat ini pada tanggal 4 Juli sungguh menyedihkan."
+    },
+    {
+      "speaker": "Scherer",
+      "text": "They're also taking away from the rest of the country. I mean, the -- a lot of the park, even the modernization of the Reflecting Pool, that's being paid for from national fees that otherwise would have gone to parks like Yellowstone and Yosemite. When you pay a ticket to go into one of those parks, 20 percent of the fee goes to a national pot, and he's basically drained that pot for D.C. projects.",
+      "cn": "Mereka juga mengambil dana dari tempat lain di AS. Maksud saya, banyak taman, bahkan modernisasi kolam refleksi, dibayar dengan dana nasional yang seharusnya digunakan untuk taman seperti Yellowstone dan Yosemite. Saat Anda membeli tiket masuk ke salah satu taman itu, 20% dari biaya masuk ke dana nasional, dan dia pada dasarnya menguras dana itu untuk proyek Washington D.C."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, we're going to come back to, I don't know, something else, because that was kind of depressing. But I want to talk about what's happening in Venezuela. Give you the update there. There are rescue crews who are continuing to pull people out alive. Then, in the meantime, I'm going to turn to the World Cup. We want to know if the U.S. men's team actually has a shot this year.",
+      "cn": "Baiklah, kita akan kembali ke topik lain nanti, karena tadi agak menekan. Tapi saya ingin membicarakan apa yang terjadi di Venezuela. Memberi Anda kabar terbaru. Tim penyelamat terus menyelamatkan korban selamat. Sementara itu, saya akan beralih ke Piala Dunia. Kami ingin tahu apakah tim putra AS benar-benar memiliki harapan tahun ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And good morning to Miami, because that's where their next World Cup game will be: Friday morning between Argentina, the reigning champs, and Cape Verde. This year's Cinderella story.",
+      "cn": "Selamat pagi Miami, karena pertandingan Piala Dunia mereka berikutnya akan diadakan di sana: Jumat pagi, juara bertahan Argentina melawan Cape Verde. Ini adalah cerita Cinderella tahun ini."
+    },
+    {
+      "speaker": "Andy Scholes",
+      "text": "Do you give the U.S. any chance of winning?",
+      "cn": "Apakah Anda pikir tim AS memiliki peluang untuk menang?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "No, no. Sorry, guys.",
+      "cn": "Tidak, tidak. Maaf, teman-teman."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Because France (ph) are better.",
+      "cn": "Karena tim Prancis lebih kuat."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "I'm confident that they will -- they will go to the final with all support that the people give to them. Yes.",
+      "cn": "Saya percaya mereka akan mencapai final dengan dukungan rakyat. Ya."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "This is not the sport for -- for the -- for any U.S. team.",
+      "cn": "Olahraga ini tidak cocok untuk tim AS mana pun."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right. International visitors talking smack about the U.S. Men's Team. Team USA is gearing up to take on Bosnia Wednesday in California. This is fresh off winning their group stage, and the players say they're feeling the support, at least from the local crowds.",
+      "cn": "Baiklah. Pengunjung internasional berbicara tentang tim putra AS. Tim AS sedang bersiap untuk bermain melawan Bosnia dan Herzegovina di California pada hari Rabu. Mereka baru saja memenangkan babak grup, dan para pemain mengatakan mereka merasakan dukungan, setidaknya dari penonton lokal."
+    },
+    {
+      "speaker": "Sergino Dest",
+      "text": "I feel like there is pressure in a -- in a healthy type of way, because we all have belief and we -- we know that we can do it. So, you know, we want to do it, but like, pressure in a negative way, we don't really feel.",
+      "cn": "Saya pikir tekanan itu sehat, karena kami semua percaya dan tahu kami bisa melakukannya. Jadi, kami ingin melakukannya, tapi tekanan negatif, kami benar-benar tidak merasakannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right. Joining me now to discuss, Roger Bennett. He's the co-host of \"Men in Blazers.\" Good morning. And I feel like there's all manner of sports idiom. Pressure makes diamonds, something, something. How much should American fans believe right now? ROGER BENNETT, CO-HOST, \"MEN IN BLAZERS\": Oh, they should believe absolutely deeply. What is football if it is not delusion and belief and hope and joy and wonder? Audie, this is an amazing time to be alive. The World Cup is on home turf.",
+      "cn": "Baik. Bergabung dengan saya sekarang adalah Roger Bennett, co-host dari \"Men in Blazers\". Selamat pagi. Saya pikir ada berbagai idiom olahraga. Tekanan menghasilkan berlian, dll. Seberapa banyak yang harus dipercaya oleh penggemar AS sekarang? Roger Bennett: Oh, mereka harus percaya sepenuhnya. Apa artinya sepak bola tanpa delusi, keyakinan, harapan, kegembiraan, dan keajaiban? Audi, ini adalah era yang menakjubkan. Piala Dunia diadakan di kandang sendiri."
+    },
+    {
+      "speaker": "Bennett",
+      "text": "This team, look, if they're half as good as the women, we'd be utterly elated. They're about to play for the first time ever in a World Cup in the United States in prime time against, well, two teams, Bosnia and Herzegovina, who are very beatable. They're a very good team. They have their own strengths. They're going to drag us into a world of hurt. This is really about this team not so much winning the trophy, but winning our hearts.",
+      "cn": "Tim ini, jika mereka bisa setengah baik dari tim putri, kami akan sangat senang. Mereka akan bermain untuk pertama kalinya di Piala Dunia di tanah AS pada jam tayang utama, melawan dua tim, Bosnia dan Herzegovina dan Montenegro, yang mudah dikalahkan. Mereka adalah tim yang sangat bagus. Mereka memiliki keunggulan mereka. Mereka akan membuat kita menderita. Tim ini lebih tentang memenangkan hati kita daripada memenangkan piala."
+    },
+    {
+      "speaker": "Bennett",
+      "text": "If they can get into the round of 16, be amongst the 16 best teams in the nation [SIC] --",
+      "cn": "Jika mereka bisa mencapai 16 besar, menjadi salah satu dari 16 tim terbaik di negara ini -- --"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "-- they can write themselves into the epic lore of this journey, which is all we can ask for.",
+      "cn": "-- -- mereka bisa menuliskan diri mereka ke dalam legenda epik perjalanan ini, itulah yang bisa kita harapkan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, you're making it sound poetic. And what I'm hearing. though, is the journey is the destination, meaning maybe this is a reflection of how far the men's program and the effort to build up, you know, soccer infrastructure in the U.S. has finally come, compared to the women's team.",
+      "cn": "Jadi, Anda mengatakannya dengan puitis. Dan yang saya dengar adalah, perjalanan adalah tujuannya, artinya ini mungkin mencerminkan seberapa besar kemajuan yang akhirnya dicapai oleh program sepak bola pria AS dan upaya membangun infrastruktur sepak bola, dibandingkan dengan tim wanita."
+    },
+    {
+      "speaker": "Bennett",
+      "text": "Yes. I mean, the women's team had Title IX as one of the great built-in advantages, which has delivered them to become the gold standard. On the men's side, they're playing against nations where football, soccer has been a national obsession for centuries. We've been very much playing catch-up. America loves a dream team. This U.S. team has really been a \"dream on\" team for so long. But we have the most talented group of individuals we've ever been able to call upon. We've got home turf advantage.",
+      "cn": "Ya. Maksud saya, tim wanita memiliki keuntungan besar dari Title IX, yang menjadikan mereka standar emas. Sementara di pihak pria, mereka menghadapi negara-negara di mana sepak bola telah menjadi obsesi nasional selama berabad-abad. Kami terus berusaha mengejar. Amerika mencintai tim impian. Tim AS ini sejak lama adalah tim \"impian\". Tapi kami memiliki kelompok pemain paling berbakat yang pernah ada. Dan kami juga memiliki keunggulan kandang."
+    },
+    {
+      "speaker": "Bennett",
+      "text": "I was in Seattle to watch that game. It was utterly ecstatic, marching to the match with 15,000 fans. I was with Marshawn Lynch. We led the march there. That gives them an incredible advantage and they've played swaggy, buccaneering, joyous football. So, there's so much to believe in.",
+      "cn": "Saya menonton pertandingan itu di Seattle. Itu adalah euforia yang luar biasa, berbaris bersama 15.000 penggemar menuju stadion. Saya bersama Marshawn Lynch. Kami memimpin pawai. Itu memberi mereka keunggulan luar biasa, mereka bermain sepak bola yang anggun, berani, dan penuh kegembiraan. Jadi, ada banyak hal untuk dipercaya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right. I want to talk about victorious football. I want to talk about Lionel Messi, because, like, legendary performance right now. For you, how big a deal is this? Because to me, it's like he's great. And we knew he was going to be great, but it feels like maybe this is on a different level.",
+      "cn": "Baik. Saya ingin berbicara tentang sepak bola kemenangan. Saya ingin berbicara tentang Lionel Messi, karena, seperti sekarang, penampilan legendaris. Seberapa penting ini bagi Anda? Karena bagi saya, dia luar biasa. Kami tahu dia akan hebat, tapi rasanya kali ini mungkin berbeda."
+    },
+    {
+      "speaker": "Bennett",
+      "text": "I couldn't agree more. The man is 39 years of age. People thought the last World Cup, which he finally won amidst tears and wonder and a sense of great culmination, would be his last. But he's come back. He looks tiny, like he's just walked out of your local Supercuts. But when the ball comes to his feet, he walks for most of the game. He suddenly is a man transformed. No one is more alive in this planet than Lionel Messi when he's within 30 feet of the goal. And what he does then is humanly transcendent.",
+      "cn": "Saya setuju sepenuhnya. Dia sudah berusia 39 tahun. Orang mengira Piala Dunia terakhir  --  yang akhirnya dia menangkan dengan air mata, keajaiban, dan rasa kepuasan yang luar biasa  --  akan menjadi yang terakhir. Tapi dia kembali. Dia terlihat kecil, seperti baru keluar dari salon rambut di lingkungan Anda. Tapi saat bola di kakinya, dia berjalan di sebagian besar pertandingan. Dia tiba-tiba berubah menjadi orang lain. Ketika Lionel Messi berada dalam jarak 30 kaki dari gawang, tidak ada orang di bumi yang lebih hidup darinya. Apa yang dia lakukan melampaui batas manusia."
+    },
+    {
+      "speaker": "Bennett",
+      "text": "I don't like to be hyperbolic already, but he is, like -- it's like watching. And I think we all share this. There's a sense of global connection when he takes the ball and does what he does. And I think we all know at this point, he's just scored in his seventh straight game. His Argentina look absolutely delirious. It's like watching Mozart compose in real time. It's like watching Michelangelo sculpt in real time.",
+      "cn": "Saya tidak ingin melebih-lebihkan, tapi dia seperti  --  seperti menonton. Saya pikir kita semua setuju. Saat dia mengambil bola dan melakukan apa yang dia lakukan, ada rasa keterhubungan global. Dan saya pikir sekarang semua orang tahu, dia telah mencetak gol dalam tujuh pertandingan berturut-turut. Tim Argentina-nya terlihat gembira. Seperti menonton Mozart menggubah secara real-time. Seperti menonton Michelangelo memahat secara real-time."
+    },
+    {
+      "speaker": "Bennett",
+      "text": "You get the sense, Audie, you're watching one of the greats, like Wolf Blitzer in THE SITUATION ROOM, human being who we'll all know in --",
+      "cn": "Oti, apakah Anda merasa sedang melihat seorang tokoh besar, seperti Wolf Blitzer di \"The Situation Room\", seseorang yang kita semua kenal  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What's that about not liking hyperbole?",
+      "cn": "Bukankah kita sepakat untuk tidak melebih-lebihkan?"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "-- three centuries' time. In three centuries' time, we'll all be -- we'll all be talking about what we're watching at this World Cup with him at the lead.",
+      "cn": "--  tiga abad. Tiga abad dari sekarang, kita semua akan  --  kita semua akan membicarakan Piala Dunia yang dia pimpin untuk kita saksikan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We probably will. Can I ask, what's your big U.S. keepsake? Like, do you have a Waffle House jersey? Did you go to anywhere in particular where you saw good or funny U.S. culture merch?",
+      "cn": "Kemungkinan besar. Boleh saya tanya, apakah Anda mengoleksi suvenir khas Amerika? Misalnya, apakah Anda punya jersey Waffle House? Apakah Anda pernah pergi ke tempat tertentu dan melihat barang budaya Amerika yang menarik atau lucu?"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "Oh, well, you know, I'm a New York City boy. I know I sound like I'm from England, but I love America like Kenny Powers loves America. I'm in Atlanta right now, because England are about to come and play one of the darlings of this tournament, Democratic Republic of Congo. I'm currently half a block away from a Waffle House. And as soon as we finish, I'm going to go and get smothered and covered.",
+      "cn": "Oh, Anda tahu, saya anak New York. Saya tahu saya terdengar seperti orang Inggris, tapi saya cinta Amerika, seperti Kenny Powers cinta Amerika. Saya sekarang di Atlanta, karena tim Inggris akan menghadapi salah satu favorit turnamen ini  --  Republik Demokratik Kongo. Saya hanya setengah blok dari Waffle House. Begitu wawancara selesai, saya akan pergi makan besar."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's correct. Correct response. Roger Bennett, thank you so much. We're going to talk again soon. I appreciate it.",
+      "cn": "Benar. Jawaban tepat. Roger Bennett, terima kasih banyak. Kita akan bicara lagi segera. Saya sangat berterima kasih."
+    },
+    {
+      "speaker": "Bennett",
+      "text": "Big, big love. Courage.",
+      "cn": "Penuh cinta. Keberanian."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Straight ahead on CNN THIS MORNING, we're going to check in on the weather in Kentucky. People are dealing with incredible rain and flooding. There's now some cleanup underway. Then we're going to talk about whether there is a A.I. takeover in the future for airlines. And the question of the fine line between modernizing and safety. var CNN = CNN || {};",
+      "cn": "Selanjutnya di \"CNN This Morning\", kita akan melihat cuaca di Kentucky. Orang-orang menghadapi tantangan berat dari hujan lebat dan banjir. Pembersihan sudah dimulai. Lalu kita akan membahas apakah maskapai penerbangan akan diambil alih oleh AI di masa depan, dan batas tipis antara modernisasi dan keselamatan."
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Good morning, everybody. I'm Audie Cornish. I want to thank you for joining me on CNN THIS MORNING. It's now half past the hour. And here's what's happening right now. Four people confirmed dead after widespread flooding in Kentucky. The state's governor is saying that conditions, however, are improving. Now, this is following a declared state of emergency. Some areas received more than seven inches of rain. GOV. ANDY BESHEAR (D-KY): Really massive, devastating flooding.",
+      "cn": "Selamat pagi semuanya. Saya Oti Cornish. Terima kasih telah menonton \"CNN This Morning\". Ini pukul setengah. Berikut peristiwa yang terjadi: Banjir besar di Kentucky telah mengakibatkan empat kematian. Gubernur negara bagian mengatakan situasi membaik. Sebelumnya negara bagian telah menyatakan keadaan darurat. Beberapa daerah menerima curah hujan lebih dari tujuh inci. Gubernur Kentucky Andy Beshear: Banjir yang benar-benar besar dan menghancurkan."
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "But we've got a lot of great first responders who heroically got out there and rescued people. And I think we're starting to see at least a light at the end of the tunnel.",
+      "cn": "Tapi kami memiliki banyak petugas penyelamat hebat yang dengan berani melakukan penyelamatan. Saya pikir kita setidaknya mulai melihat cahaya di ujung terowongan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, the state still faces extensive infrastructure damage and will need to rebuild over the coming months. Alex Murdaugh will appear in court today. His first hearing since the South Carolina Supreme Court overturned his double murder conviction. The judge will hear arguments for his new trial, which will include motions for a change of venue and more DNA testing of evidence. Murdaugh was convicted of killing his wife and son. This was back in 2023.",
+      "cn": "Oleh karena itu, negara bagian masih menghadapi kerusakan infrastruktur yang luas, yang perlu dibangun kembali dalam beberapa bulan ke depan. Alex Murdaugh akan hadir di pengadilan hari ini. Ini adalah sidang pertamanya setelah Mahkamah Agung South Carolina membatalkan vonis pembunuhan gandanya. Hakim akan mendengarkan argumen untuk persidangan barunya, termasuk perubahan tempat persidangan dan mosi untuk pengujian DNA lebih lanjut pada bukti. Murdaugh dihukum pada tahun 2023 karena membunuh istri dan putranya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But the state supreme court ruled a local court clerk improperly influenced the jury and overturned the conviction. And the Trump administration defending the push to return hundreds of thousands of Haitians to their homeland, even though the U.S. State Department issued a do not travel advisory for Haiti earlier this year.",
+      "cn": "Tapi Mahkamah Agung negara bagian memutuskan bahwa seorang panitera pengadilan distrik secara tidak semestinya mempengaruhi juri, dan membatalkan vonis. Pemerintahan Trump sedang membela upaya untuk memulangkan puluhan ribu orang Haiti ke negara mereka, meskipun Departemen Luar Negeri AS mengeluarkan peringatan perjalanan untuk Haiti awal tahun ini."
+    },
+    {
+      "speaker": "Markwayne Mullin",
+      "text": "Well, that do not travel is not for Haitians. That's, do not travel for the United States, because they are kidnaping or trying to kidnap individuals from the United States. So, that isn't -- that advisory is to American citizens traveling to Haiti, not Haitians going back home.",
+      "cn": "Hmm, peringatan 'jangan bepergian' itu tidak ditujukan untuk orang Haiti. Itu untuk orang Amerika, jangan pergi ke Amerika, karena mereka menculik atau mencoba menculik orang dari Amerika. Jadi, peringatan itu untuk warga negara AS yang bepergian ke Haiti, bukan untuk orang Haiti yang pulang ke rumah."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Last week, the Supreme Court cleared the way for the administration to remove protections from Haitians and Syrians living legally in the U.S. And the search for survivors becoming more desperate in Venezuela as the death toll continues to grow. At least 1,450 people have died since last week's devastating earthquakes. Rescuers are working around the clock to pull survivors from the rubble. (VIDEO CLIP)",
+      "cn": "Minggu lalu, Mahkamah Agung membuka jalan bagi pemerintah untuk mencabut perlindungan bagi orang Haiti dan Suriah yang tinggal secara sah di AS. Sementara di Venezuela, upaya mencari korban selamat menjadi semakin mendesak seiring meningkatnya jumlah kematian. Setidaknya 1.450 orang tewas sejak gempa bumi dahsyat minggu lalu. Tim penyelamat bekerja siang malam untuk menyelamatkan korban selamat dari reruntuhan. (Klip video)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You're looking at this video shared by the president of El Salvador. He says Salvadorian crews rescued this 60-year-old woman after she was trapped under the rubble for 86 hours. CNN's Stefano Pozzebon is on the ground in Caracas. I actually paused because reading that number was so jarring. More than a thousand people dead. Can you talk about the challenges facing rescuers right now?",
+      "cn": "Anda sedang menonton video yang dibagikan oleh Presiden El Salvador. Dia mengatakan tim penyelamat El Salvador menyelamatkan seorang wanita berusia 60 tahun yang terperangkap di bawah reruntuhan selama 86 jam. CNN's Stefano Pozzebon berada di Caracas langsung. Saya berhenti sejenak karena membaca angka itu sangat mengejutkan. Lebih dari seribu orang tewas. Bisakah Anda berbicara tentang tantangan yang dihadapi tim penyelamat saat ini?"
+    },
+    {
+      "speaker": "Stefano Pozzebon",
+      "text": "Yes. And that number, unfortunately, Audie, will grow in the upcoming hours as we are now entering the fifth day since the tragedy. And so, the chances of rescuing someone and successfully rescuing someone are almost gone. Almost past our shoulders, unfortunately. We're coming to you live from the city of Caracas because I think this is, today, it's Monday morning. We're starting a new week here in Venezuela.",
+      "cn": "Ya. Sayangnya, Oti, angka ini akan bertambah dalam beberapa jam ke depan, karena kita sekarang sudah memasuki hari kelima pasca bencana. Jadi, peluang untuk berhasil menyelamatkan seseorang hampir tidak ada. Hampir sudah berlalu, sayangnya. Kami sedang melakukan siaran langsung di kota Caracas, karena saya pikir hari ini Senin pagi. Kami memulai minggu baru di Venezuela."
+    },
+    {
+      "speaker": "Stefano Pozzebon",
+      "text": "And there is more of a feeling of a nation coming to understand, coming to ask itself how to -- what to do with this tragedy. How to make it. How to process it. Of course, as much as possible as it can be. Clearly, for somebody who has lost everything in that tragedy, it's terrible. But also there is a -- there is another nation surrounding it that is still trying to understand it, to come -- to come to senses with the magnitude of this catastrophe. Like I said, we spent the day yesterday in La Guaira.",
+      "cn": "Sekarang lebih terasa bahwa negara ini mulai memahami, mulai bertanya pada diri sendiri bagaimana menghadapi tragedi ini. Bagaimana melewatinya. Bagaimana mencernanya. Tentu saja, sebisa mungkin. Jelas, ini mengerikan bagi mereka yang kehilangan segalanya dalam tragedi ini. Tapi di saat yang sama, ada negara lain di sekitarnya, yang masih berusaha memahaminya, berusaha menyadari besarnya bencana ini. Seperti yang saya katakan, kami menghabiskan hari kemarin di La Guaira."
+    },
+    {
+      "speaker": "Stefano Pozzebon",
+      "text": "That is the disaster zone where most of the damages have been confined and where there is still no power, no signal in most of the neighborhoods. Like I said, for someone who has lost the most important thing in life, this is the hour of pain. Take a listen. WILKER MOLAYA, FATHER SEARCHING FOR MISSING DAUGHTER (through translator): I pulled my daughter halfway out. I pulled my daughter halfway out. They're not going to move from there. I have nothing to lose. Let them kill me if they want.",
+      "cn": "Itu adalah daerah yang terkena dampak, sebagian besar kerusakan terkonsentrasi di sana, sebagian besar komunitas masih tanpa listrik dan sinyal. Seperti yang saya katakan, ini adalah saat yang menyakitkan bagi mereka yang kehilangan hal terpenting dalam hidup. Dengarkan. Wilker Moraya, ayah yang mencari putrinya yang hilang (melalui penerjemah): Saya menarik setengah tubuh putri saya. Saya menarik setengah tubuh putri saya. Mereka tidak akan pergi dari sana. Saya tidak punya apa-apa lagi untuk hilang. Jika mereka mau, bunuh saja saya."
+    },
+    {
+      "speaker": "Pozzebon",
+      "text": "That gentleman's daughter are joining the list of more than 1,400 people killed in this terrible double earthquake. For the rescue workers, it's, yes, it's still a race against time. Yesterday we spend the day speaking with rescue workers from L.A. County and Fairfax County in Virginia. They flew down here between Thursday night and Friday. And they were very busy trying to get to the bottom of the pile of rubble where we met them. They said that they want to keep working until everyone is accounted for.",
+      "cn": "The man's daughter was added to the list of more than 1,400 people who died in this terrible double earthquake. For rescue workers, yes, it is still a race against time. Yesterday we spent the day talking to rescue workers from Los Angeles County and Fairfax County, Virginia. They flew here between Thursday night and Friday. They were very busy trying to reach the bottom of the pile of rubble where we saw them. They said they want to keep working until everyone is found."
+    },
+    {
+      "speaker": "Pozzebon",
+      "text": "However, of course, the chance of finding someone alive now are really, really, really, really slim, unfortunately. Audie.",
+      "cn": "However, of course, the chances of finding survivors now are really, really, really slim, unfortunately. Otis."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's Stefano talking to us about the rescue effort in Venezuela as that death toll is rising. I want to turn to this, American Airlines flight bound for Bermuda was forced to abort its takeoff on Friday after a business jet crossed its path.",
+      "cn": "Okay, that's Stefano updating us on the rescue efforts in Venezuela, where the death toll is rising. I want to turn to this: on Friday, an American Airlines flight to Bermuda was forced to abort takeoff because a business jet crossed its runway."
+    },
+    {
+      "speaker": "Tower",
+      "text": "Four Quebec Sierra, you just crossed an active runway. Hold short of runway eight left.",
+      "cn": "Quebec Sierra Four, you just crossed an active runway. Stop before Runway Eight Left."
+    },
+    {
+      "speaker": "Bizjet Pilot",
+      "text": "You just told me to cross the runway, sir.",
+      "cn": "Sir, you just told me to cross the runway."
+    },
+    {
+      "speaker": "Tower",
+      "text": "No, we said Amerijet 461.",
+      "cn": "No, we are talking about Amerijet 461."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The two planes were just a third of a mile away from each other at one point. The FAA now investigating how the call sign mix-up nearly led to disaster. Now, this also comes as the FAA announces its plans to launch an ambitious A.I. powered initiative. The government has partnered with Airspace Intelligence to use their A.I. programing aimed at predicting potential aircraft conflicts hours in advance. Former FAA air traffic controller Harvey Skolnick joins us now. Harvey, welcome back.",
+      "cn": "The two planes were once only a third of a mile apart. The Federal Aviation Administration (FAA) is investigating how this call sign confusion nearly caused a disaster. Meanwhile, the FAA announced plans to launch an ambitious AI-driven program. The government has partnered with Airspace Intelligence to use its AI program, which aims to predict potential aircraft conflicts hours in advance. Former FAA air traffic controller Harvey Skolnick joins us now. Harvey, welcome back."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The good news is, I'm talking about a near miss and an aborted takeoff and not an actual crash, which a lot of times when I have you on, we're talking about. But it's a reminder of how difficult things have been when it comes to air safety. Is this A.I. thing going to help? Like, is this something where it feels like it's actually pretty necessary for this industry?",
+      "cn": "The good news is that I'm talking about a close call and an aborted takeoff, not an actual crash, and many times when I ask you to come on the show we're talking about crashes. But this reminds us how tough the situation has been in aviation safety. Will this AI project help? Like, does it feel like it's really necessary for the industry?"
+    },
+    {
+      "speaker": "Harvey Skolnick",
+      "text": "Well, if I could -- if I could address the problem of runway incursions for just a second. This has been a problem in the FAA for -- since I can remember. And whatever they've done with regard to new equipment, to new radars, ground radars, status lights on the ground, protocols and air traffic controllers' phraseology and rules, they just seem -- there's nothing that has seemed to have worked so far. All the A.I. and artificial intelligence that's being used today still hasn't put a dent in runway incursions.",
+      "cn": "Well, if I can -- if I can first talk about runway incursions. This problem has existed in the FAA for as long as I can remember. No matter what they've done with new equipment, new radar, ground radar, ground status lights, protocols, and air traffic controller terminology and rules, it seems -- nothing seems to have worked so far. All the artificial intelligence and AI used today still haven't reduced runway incursions."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Harvey, that's depressing.",
+      "cn": "Harvey, that's frustrating."
+    },
+    {
+      "speaker": "I -- Cornish",
+      "text": "I mean, can I -- like, can I press you a little bit? Like it feels as though you've got shortages, which we've talked about, with air traffic control. You've got this new technology that they say they want to start rolling out in the fall. Is there a sense of relief? Is this the rare industry where workers might say, you know what, we'll take any help we can get? Or are there real questions here that should be raised?",
+      "cn": "I mean, can I -- can I follow up with you? It feels like you mentioned the air traffic controller shortage, which we've discussed before. They said they want to start rolling out this new technology in the fall. Is there a sense of relief? Is this a rare industry where workers might say, you know, we'll take any help we can get? Or are there real issues that need to be raised here?"
+    },
+    {
+      "speaker": "Skolnick",
+      "text": "No, I think -- I think the air traffic controllers will certainly say they'll take all the help they can get. It's not as though that the FAA hasn't, over the years, continually been upgrading and introducing new equipment. And I'm sure the new software and new programs and new technologies are going to help. But in the end, I really do think that the biggest challenge to the U.S. airspace system is controller staffing. You know, I'm an advocate for air traffic controllers.",
+      "cn": "No, I think -- I think air traffic controllers would definitely say they welcome all the help they can get. It's not that the FAA hasn't been constantly upgrading and introducing new equipment over the years. I believe new software, procedures, and technology will help. But ultimately, I do think the biggest challenge facing the U.S. airspace system is controller staffing. You know, I'm an advocate for air traffic controllers."
+    },
+    {
+      "speaker": "Skolnick",
+      "text": "And I don't see where this is going to change the job that they do. They're still going to have to vector airplanes and when they get close to the airport, they're going to have to separate arrivals and departures, with en routes in arrivals and en routes in departures. And they still have to do the same job they've ever done. And their numbers are decreasing. People are retiring at a greater rate. And the target hiring of more -- of additional controllers seems to be lower than they first anticipated.",
+      "cn": "And I don't see how this will change their job. They still need to guide planes, they still need to separate arriving and departing flights when planes approach the airport, and the arrival and departure routes. They still need to do the work they've always done. And their numbers are decreasing. The proportion of retirees is higher. And the goal of hiring more additional controllers seems lower than their initial expectations."
+    },
+    {
+      "speaker": "Skolnick",
+      "text": "And that's the kind of thing that worries me.",
+      "cn": "That's exactly what worries me."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm not sure how much you know about this, but in the military they had a big problem with recruitment as well. That's way better now under this Hegseth Defense Department. When it comes to Duffy and recruiting here, what's going on? Have they changed the credentials required? Are they looking at new recruiting pools? Like, how is it going?",
+      "cn": "I'm not sure how much you know about this, but the military is also having big problems with recruitment. Now under Secretary of Defense Hegseth, things are much better. As for Duffy and recruitment here, how is it going? Have they changed the required qualifications? Are they looking for new sources of recruitment? Like, how is it progressing?"
+    },
+    {
+      "speaker": "Skolnick",
+      "text": "So, they have -- you know, they put out this request to have people that were gamers apply for the job. And they had a huge --",
+      "cn": "So, they -- you know, they put out a request for gamers to apply for this position. And then they received a huge number --"
+    },
+    {
+      "speaker": "Skolnick",
+      "text": "Video gamers, right? And so, when they -- the last announcement that they had, lots and lots of people applied, but they still only were going to hire 2,000 or so. So, the amount of people that apply have nothing to do with the amount of people that they hire. And I would say this, there are programs coming online that seem to get people from college initiatives into the workforce sooner than they would have to taking people off the street and having them go to school in Oklahoma City. I hear about that.",
+      "cn": "Video gamers, right? So, when they -- last time they announced, a lot of people applied, but they still only plan to hire about 2,000 people. So, the number of applicants is not related to the number of hires. What I'm saying is, there are some new programs coming online that seem to allow college graduates to enter the workforce earlier than before, rather than recruiting people off the street and sending them to school in Oklahoma City. I've heard about this."
+    },
+    {
+      "speaker": "Skolnick",
+      "text": "But I also hear -- I also hear people in the field telling me that the quality of train -- of the trainees just doesn't seem to meet the old standards. They don't know why, because I don't think those standards have changed. But I'll say this about training.",
+      "cn": "But I've also heard -- I've also heard from people on the ground that the quality of trainees seems to not meet the standards of the past. They don't know why, because I think those standards haven't changed. But let me say one thing about training."
+    },
+    {
+      "speaker": "Skolnick",
+      "text": "The most difficult job that an air traffic controller can do is training other controllers because it's live traffic, they're standing behind someone, you want to give that person an opportunity to go as far as they can, but not so far as they make a mistake in separating airplanes, because the person that's doing the training is the one responsible for that loss of separation. So, that's very, very difficult. And controllers are training sometimes more than 50 percent of the time that they're on duty each day.",
+      "cn": "The hardest job an air traffic controller can do is train other controllers, because it's real-time traffic, they stand behind someone, you want to give that person as many opportunities as possible, but you can't let them make mistakes in separating planes, because the person responsible for training is accountable for separation errors. So, it's very, very difficult. When controllers are on duty, sometimes more than 50% of their time is spent training."
+    },
+    {
+      "speaker": "Skolnick",
+      "text": "And that's still -- we're still talking about six-day weeks and ten-hour days.",
+      "cn": "And we're still talking about working six days a week, ten hours a day."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Harvey, as always, I really appreciate you sharing what you learned for your community. Thank you so much.",
+      "cn": "Yes. Harvey, as always, I really appreciate you sharing what you've learned for the community. Thank you very much."
+    },
+    {
+      "speaker": "Skolnick",
+      "text": "Thank you for having me, Audie.",
+      "cn": "Thank you for having me, Otis."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, next on CNN THIS MORNING, we're going to talk about President Trump, whether or not he has overplayed his political hand. REP. THOMAS MASSIE (R-KY): It will be an absolute shellacking if they don't wake up.",
+      "cn": "So, coming up on CNN This Morning, we'll discuss whether President Trump is overusing political tactics. Rep. Thomas Massie (R-KY): If they don't wake up, it will be a complete disaster."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Are the president's priorities becoming a liability for his party? And later on CNN, today, Luigi Mangione returns to the courtroom as his attorney discusses a possible plea deal. But is he going to take it?",
+      "cn": "Are the president's priorities becoming a burden for his party? Later on CNN, Luigi Mangione will return to court, and his lawyers will discuss possible plea deals. But will he accept?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, in just a few hours, the Supreme Court is expected to hand down decisions in some major cases as it wraps up its current term. Cases that test the boundaries of Donald Trump's presidential powers. They include challenges to mail-in ballots, transgender sports bans, and whether Trump can fire officials from independent agencies. And perhaps the most highly anticipated case is the attempt to end birthright citizenship via executive order.",
+      "cn": "因此，在短短几个小时内，最高法院预计将在结束当前任期时对一些重大案件作出裁决。这些案件考验着唐纳德·特朗普总统权力的边界。它们包括对邮寄选票、跨性别体育禁令的挑战，以及特朗普是否可以从独立机构解雇官员。而最受期待的案件可能是试图通过行政命令终止出生公民权。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Essentially, who gets to be an American? The move would undo more than a century of legal precedent that says babies born on American soil are automatically American citizens and could affect millions of children and their families. This is the argument from Trump.",
+      "cn": "本质上，谁有资格成为美国人？此举将推翻一个多世纪以来的法律先例，即在美国领土上出生的婴儿自动成为美国公民，并可能影响数百万儿童及其家庭。这是特朗普的论点。"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "All of this legislation, all of this, everything, having to do with birthright citizenship, it was at the end of the Civil War. The reason was it had to do with the babies of slaves and the protection of the babies of slaves. It didn't have to do with the protection of multi-millionaires and billionaires wanting to have their children get an American citizenship. It is the craziest thing I've ever seen.",
+      "cn": "所有这些立法，所有这一切，与出生公民权有关的一切，都是在内战结束时制定的。原因是它与奴隶的婴儿以及保护奴隶的婴儿有关。它与保护想要让子女获得美国公民身份的千万富翁和亿万富翁无关。这是我见过的最疯狂的事情。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Group chat is back. As I said, this is one of a couple of complex cases. Some of them are about the power of the presidency, right? One of them, Trump v Slaughter, independent agency leadership. The president wants to overturn the precedent of whether you can fire people with cause or not. And then there are these ones that culturally are kind of ingrained. My baby, born here, in an American hospital, is automatically a citizen, which is part of a longer term conservative project, no.",
+      "cn": "群聊回来了。正如我所说，这是几个复杂案件之一。其中一些涉及总统的权力，对吧？其中之一是特朗普诉斯劳特案，涉及独立机构领导层。总统想要推翻关于是否可以因故解雇人员的先例。然后还有一些在文化上根深蒂固的案件。我的孩子，在这里，在美国医院出生，自动成为公民，这是长期保守派计划的一部分，不是吗？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "MICHAEL SCHERER, STAFF WRITER, \"THE ATLANTIC\": Yes. And almost with -- certainly what's going to happen this week is it's going to be a split decision for the president. And it'll be interesting to see, the last few weeks, every time a decision has come out to hurt one party or the other, they attack the court as being somehow illegitimate or wrong. And this is --",
+      "cn": "《大西洋月刊》特约撰稿人迈克尔·谢勒：是的。几乎可以肯定，本周将会发生的是总统将面临一个分裂的裁决。有趣的是，过去几周，每当一个裁决伤害到某一方时，他们就会攻击法院，认为它在某种程度上不合法或错误。而这 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And the court saved them all for this week before they leave so they can play (ph), good luck.",
+      "cn": "是的。法院把他们所有的案件都留到了本周，在他们离开之前，这样他们就可以玩（音），祝你好运。"
+    },
+    {
+      "speaker": "Scherer",
+      "text": "Right. And they're going to throw --",
+      "cn": "对。他们会抛出 --  --"
+    },
+    {
+      "speaker": "Scherer",
+      "text": "They're going to throw a punch. I mean the betting money is that birthright citizenship, the president's going to lose. He'll win on transgender sports. He probably wins on the -- on the -- on the independent federal agencies.",
+      "cn": "他们会出拳。我的意思是，赌注是出生公民权，总统会输。他会在跨性别体育问题上赢。他很可能在独立联邦机构问题上赢。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Hold on. Let me get all my legal tabs here. So, you just mentioned transgender sports. This one's West Virginia state will decide if state bans on transgender students playing in girls' sports are permitted under the Constitution in federal law. What are you watching, Alex?",
+      "cn": "是的。等等。让我打开我所有的法律标签。你刚才提到了跨性别体育。这个案件是西弗吉尼亚州将决定州禁止跨性别学生参加女子体育项目是否符合宪法和联邦法律。你在关注什么，亚历克斯？"
+    },
+    {
+      "speaker": "Alex Thompson",
+      "text": "There is -- Democratic and Republican strategists are really watching a campaign finance case which the Supreme Court could further roll back restrictions on what the big parties can spend. And the upshot of this is that it would give the Republican National Committee a huge advantage in this midterm cycle, because the RNC has a ton more money, cash on hand, than the DNC, which is still in debt.",
+      "cn": "有 --  -- 民主党和共和党的策略师们真正关注的是一个竞选资金案件，最高法院可能进一步放宽对大党支出的限制。其结果是，这将给共和党全国委员会在中期选举周期中带来巨大优势，因为共和党全国委员会手头现金比仍处于债务中的民主党全国委员会多得多。"
+    },
+    {
+      "speaker": "Thompson",
+      "text": "And so, you could end up seeing a surge of over $100 million pour into those Republican races depending on what the Supreme Court does.",
+      "cn": "因此，根据最高法院的裁决，你可能会看到超过1亿美元的资金涌入那些共和党竞选活动中。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, it's funny, we're focusing on these things like Federal Reserve independence, right, or birthright citizenship. And meanwhile, something like mail-in ballots, Watson versus RNC. Reviewing state laws that allow election officials to receive mail-in ballots after election day. Meaning, you've sent it in, you've postmarked it before election day, but it doesn't arrive until election day. This is also extremely important.",
+      "cn": "有趣的是，我们关注的是美联储独立性或出生公民权这类问题。而与此同时，像邮寄选票、沃森诉共和党全国委员会案等事情，正在审查允许选举官员在选举日后接收邮寄选票的州法律。也就是说，你在选举日前寄出并盖了邮戳，但选票直到选举日才到达。这也极其重要。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Especially in the context of what you're talking about, the spending. IGOR BOBIC, CONGRESSIONAL REPORTER, \"NOTUS\": It's hugely important. It's a big priority of the president, who wants to limit these mail-in ballots. We've seen him complain about the California elections, where, obviously, you can send in a mail-in ballot late. And I think that they're trying to use this as a -- as a pre-November sort of setup to help them win these elections, Republicans are.",
+      "cn": "尤其是结合你提到的支出问题。国会记者伊戈尔·博比克表示：这非常重要。这是总统的一个重点优先事项，他希望限制这些邮寄选票。我们看到他对加州选举提出抱怨，在那里显然可以晚寄出邮寄选票。我认为他们正试图利用这一点作为11月前的某种铺垫，以帮助共和党赢得选举。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I think it's going to be a hugely -- a huge case to watch here this week.",
+      "cn": "我认为这将是本周一个非常重要的案件。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm going to turn to the elections in one second, but I want to ask you, Michael, one more thing. This is Mike Johnson talking about why he thinks birthright citizenship should end. Want you guys to hear it. REP. MIKE JOHNSON (R-LA): Like all good things, it can be abused. And birthright citizenship goes back to the, you know, root of the country, the history of the tradition. You look at the original intent of the Constitution and the founders and what they were doing, of course.",
+      "cn": "我马上要谈到选举，但迈克尔，我想再问你一件事。这是迈克·约翰逊在谈论为什么他认为出生公民权应该终止。请听一下。众议员迈克·约翰逊（路易斯安那州共和党人）：像所有美好的事物一样，它也可能被滥用。出生公民权可以追溯到国家的根源、历史和传统。当然，你要看宪法和开国元勋们的原始意图以及他们当时在做什么。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "They were facing a very different set of circumstances than we're facing now. We know that it's been abused in recent years because people have literally just come over the border just to have a baby. I don't think it's inconsistent at all. I think we can celebrate immigration, legal immigration. We are a nation of immigrants, as we all recognize.",
+      "cn": "他们当时面临的情况与我们现在截然不同。我们知道近年来它被滥用，因为人们真的只是越过边境来生孩子。我认为这完全不矛盾。我们可以庆祝移民，合法移民。我们是一个移民国家，这是我们都承认的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So this is, for them, always couched in the immigration conversation. Does anyone on this panel have kids other than me? Anyone?",
+      "cn": "所以对他们来说，这总是被置于移民讨论的语境中。这个小组里除了我还有人孩子吗？有人吗？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Do you remember being in the hospital? And do you remember thinking to yourself, I really want to fill out citizenship documents right now? Like, why would you piss off a whole bunch of parents before the election?",
+      "cn": "好吧。你还记得在医院的时候吗？你还记得当时在想，我现在真的很想填写公民身份文件吗？就像，为什么要在选举前惹恼一大群父母呢？"
+    },
+    {
+      "speaker": "Scherer",
+      "text": "The hilarious part about that clip is I'm old enough to remember when conservatives were about the original text of the Constitution. It wasn't a living and breathing document. His argument there is basically, because we have different people and new ways of travel, and people are coming into the U.S. that --",
+      "cn": "那段视频最搞笑的部分是，我年纪大到还记得保守派曾经主张宪法的原始文本。它不是一份活的、不断演变的文件。他的论点基本上是，因为我们现在有不同的人、新的旅行方式，人们正在进入美国 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We need to interpret it based on the now.",
+      "cn": "我们需要根据当下情况来解释它。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Which some Democrats would love to be hearing as an interpretation.",
+      "cn": "一些民主党人很乐意听到这样的解读。"
+    },
+    {
+      "speaker": "Scherer",
+      "text": "Right. But as -- yes, but we're just going to change what the Constitution means.",
+      "cn": "没错。但是 --  -- 是的，但我们就是要改变宪法的含义。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I mean originalist means something to someone. OK, I want to talk about one other thing. We were talking about the mail-in ballots thing. We were talking about the campaign finance thing. Over all of this, the Republican lawmakers who are on their way out, they are the loudest in issuing new warnings to Donald Trump, saying, look, his priorities are going to cost the GOP the midterms.",
+      "cn": "我的意思是，原旨主义对某些人来说是有意义的。好的，我想谈另一件事。我们刚才在讨论邮寄选票的事情，还有竞选资金的问题。在这些问题上，即将离任的共和党议员们是最积极地向唐纳德·特朗普发出新警告的，他们说，听着，他的优先事项会让共和党在中期选举中付出代价。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The latest concerns are spilling into the open after President Trump refused to sign a bipartisan housing bill at the last-minute last week. Why? Well, because he wants Congress to pass his controversial bill aimed at controlling elections first. Over the last few days, Senator Bill Cassidy, Congressman Thomas Massie, both lost their primaries to Trump-backed challengers. And they're like, look, he needs new focus. SEN. BILL CASSIDY (R-LA): Well, I can't tell you what his priorities are beyond the SAVE Act.",
+      "cn": "上周，特朗普总统在最后一刻拒绝签署一项两党住房法案后，最新的担忧浮出水面。为什么？因为他希望国会先通过他旨在控制选举的争议性法案。过去几天，参议员比尔·卡西迪和众议员托马斯·马西都在初选中输给了特朗普支持的挑战者。他们表示，他需要新的重点。参议员比尔·卡西迪（路易斯安那州共和党人）说：\"除了《拯救法案》，我无法告诉你他的优先事项是什么。\""
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I can tell you what I think they should be. And how do we make life more affordable for the average American? I voted to uphold the Constitution. The president was offended by that. REP. THOMAS MASSIE (R-KY): The problem is not the elections. We won the damn elections. The problem is, we're wasting our opportunity that the voters gave us. And the Republicans are going to pay for that in November. It will be an absolute shellacking if they don't wake up.",
+      "cn": "Saya bisa memberi tahu Anda apa yang saya pikir seharusnya. Bagaimana kita membuat hidup orang Amerika biasa lebih terjangkau? Saya memilih untuk menegakkan Konstitusi. Presiden tidak senang dengan itu. Anggota DPR Thomas Massie (R-KY) berkata: \"Masalahnya bukan pada pemilu. Kami memenangkan pemilu sialan itu. Masalahnya adalah kami menyia-nyiakan kesempatan yang diberikan pemilih kepada kami. Partai Republik akan membayarnya pada bulan November. Jika mereka tidak sadar, itu akan menjadi kekalahan total.\""
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right, group chat is back. There's a world of Republicans who say, look, we shouldn't listen to the shellacked about shellackings. These are people who struggled against Trump-appointed -- what's the word in Congress? Are they scared? Are they frustrated? Because there's always the dudes who speak out, and then there's the people who talk to you in the hallways.",
+      "cn": "Oke, grup chat kembali. Ada sekelompok Republikan yang berkata, dengar, kita tidak boleh mendengarkan mereka yang kalah telak berbicara tentang kekalahan telak. Orang-orang ini berjuang melawan orang-orang yang ditunjuk Trump -- -- bagaimana mengatakannya di Kongres? Apakah mereka takut? Apakah mereka frustrasi? Karena selalu ada orang yang berbicara di depan umum, dan ada yang berbicara dengan Anda di koridor."
+    },
+    {
+      "speaker": "Bobic",
+      "text": "Well, yes, I call them the YOLO caucus. You only live once caucus.",
+      "cn": "Ya, saya menyebut mereka kaukus YOLO. Kaukus You Only Live Once."
+    },
+    {
+      "speaker": "Bobic",
+      "text": "The guys who actually have the freedom to talk. But listen, Cassidy may be out front there on this, but a whole lot of Republicans I speak to agree with him.",
+      "cn": "Mereka yang benar-benar memiliki kebebasan berbicara. Tapi dengar, Cassidy mungkin yang terdepan dalam hal ini, tapi banyak Republikan yang saya ajak bicara setuju dengannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, that's the yellow caucus.",
+      "cn": "Jadi, itu kaukus kuning."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "They're the ones who are going to speak publicly.",
+      "cn": "Mereka adalah orang-orang yang akan berbicara di depan umum."
+    },
+    {
+      "speaker": "Bobic",
+      "text": "Yes. I mean, they see a president who's more focused on, you know, renovating a golf course, as opposed to signing a housing bill, a huge bipartisan housing bill that passed Congress overwhelmingly, that still hasn't gotten signed. Why?",
+      "cn": "Ya. Maksud saya, mereka melihat seorang presiden yang lebih fokus merenovasi lapangan golf daripada menandatangani RUU perumahan -- -- RUU perumahan bipartisan yang mendapat dukungan luar biasa di Kongres, masih belum ditandatangani. Mengapa?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Right. Well, to rob Democrats and a Senate that he's frustrated with of the photo op.",
+      "cn": "Benar. Yah, untuk menghilangkan kesempatan Demokrat dan Senat yang tidak dia sukai untuk berfoto."
+    },
+    {
+      "speaker": "Thompson",
+      "text": "I think -- I think the fear with Republicans, it's actually much more petulant than that. And that it was a completely emotional decision by Trump because he is obsessed with the SAVE act and he denied his party wins. And, you know, Republicans are basically resigned at this point that Donald Trump is just never going to be on message throughout the midterms. He's not going to be out front talking about specific policies to bring down prices.",
+      "cn": "Saya pikir -- -- Saya pikir kekhawatiran Republikan sebenarnya lebih bersifat sewenang-wenang dari itu. Ini adalah keputusan Trump yang sepenuhnya emosional karena dia terobsesi dengan SAVE Act dan menyangkal kemenangan partainya sendiri. Dan, Anda tahu, Republikan pada dasarnya sudah pasrah bahwa Donald Trump tidak akan pernah bermain sesuai aturan selama masa pemilu paruh waktu. Dia tidak akan tampil dan berbicara tentang kebijakan konkret untuk menurunkan harga."
+    },
+    {
+      "speaker": "Thompson",
+      "text": "And what you're seeing in some ways is a second term Trump that just has an exhausted legislative agenda.",
+      "cn": "Dalam beberapa hal, Anda melihat Trump masa jabatan kedua yang agenda legislatifnya sudah mandek."
+    },
+    {
+      "speaker": "Thompson",
+      "text": "They have not really proposed any big things.",
+      "cn": "Mereka sebenarnya tidak mengajukan inisiatif besar apa pun."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But is it because he knows he can rile up his supporters and really rally them around pet culture war issues? So, one of them, of course, is the SAVE Act, which does a myriad of other things other than voting. There's a lot of stuff stuck in there. Transgender sports. And then telling states, turn in all your voter rolls because we've got to compare notes. There's a lot of question marks there. Here's Senator Tillis on Sunday, again, part of this wounded bear caucus you're talking about.",
+      "cn": "Tapi apakah itu karena dia tahu cara menghasut para pendukungnya untuk bersatu di sekitar isu-isu perang budaya yang dia sukai? Jadi, salah satu isu itu tentu saja SAVE Act, yang mencakup banyak hal selain pemungutan suara. Banyak barang yang dimasukkan ke dalamnya. Olahraga transgender. Lalu meminta negara bagian menyerahkan semua daftar pemilih, karena kami akan mencocokkan informasi. Ada banyak tanda tanya di sini. Ini adalah bagian dari pidato Senator Tillis hari Minggu, yang termasuk dalam kategori \"beruang terluka\" yang Anda sebutkan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But here's how he sees this focus. SEN. THOM TILLIS (R-NC): Why are we doing more things to undermine our confidence in elections, rather than getting the strong message out that we'll win for Republicans this year? Talk about the emergence and the rise of the Democratic Socialists of America. Accept that the voting laws are going to be fundamentally what they are today. Win by them. Win buy the good results that Republicans have produced and stop undermining the confidence in the elections.",
+      "cn": "Tapi beginilah cara dia melihat fokus ini. Senator Thom Tillis (R-NC): Mengapa kita melakukan lebih banyak hal yang merusak kepercayaan pada pemilu, bukannya mengirimkan pesan kuat bahwa kita akan menang untuk Partai Republik tahun ini? Bicarakan tentang kebangkitan Sosialis Demokrat Amerika. Menerima undang-undang pemilu pada dasarnya akan mempertahankan status quo. Menang dengan undang-undang itu. Menang dengan hasil baik yang dicapai Partai Republik, berhenti merusak kepercayaan pada pemilu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The argument is not crazy, considering that just over the weekend a bunch of Democrats released a promise to America, we are capitalist, not socialist. Manifesto, if you will.",
+      "cn": "Argumen itu tidak gila, mengingat akhir pekan lalu, sekelompok Demokrat merilis \"Janji kepada Amerika\": Kami adalah kapitalis, bukan sosialis. Bisa dibilang sebuah manifesto."
+    },
+    {
+      "speaker": "Thompson",
+      "text": "A capitalist manifesto.",
+      "cn": "Sebuah manifesto kapitalis."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, a capitalist manifesto, ironically. But does it show that even though Trump's not on message, Democrats are not exactly getting to November together?",
+      "cn": "Ya, ironisnya, sebuah manifesto kapitalis. Tapi apakah ini menunjukkan bahwa meskipun Trump tidak bermain sesuai aturan, Demokrat juga tidak sepenuhnya bersatu menuju November?"
+    },
+    {
+      "speaker": "Scherer",
+      "text": "Yes, everything's not going well for the Democrats right now for a number of reasons. I mean, the problem we in -- they have in Maine as well as a -- is an issue. I think --",
+      "cn": "Ya, karena beberapa alasan, Demokrat tidak dalam posisi yang baik saat ini. Maksud saya, kami di Maine dan masalah yang mereka hadapi adalah sebuah masalah. Saya pikir -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The Maine Senate race.",
+      "cn": "Pemilihan Senator Maine."
+    },
+    {
+      "speaker": "Scherer",
+      "text": "The Maine Senate race. Yes.",
+      "cn": "Pemilihan Senator Maine. Ya."
+    },
+    {
+      "speaker": "Scherer",
+      "text": "The thing with Trump is, he's not convinced. And he is -- his aides have tried to convince him -- that the midterm elections are really something he should devote his energy to.",
+      "cn": "Masalah Trump adalah dia tidak yakin. Para pembantunya mencoba meyakinkannya bahwa pemilu paruh waktu memang sesuatu yang harus dia fokuskan."
+    },
+    {
+      "speaker": "Scherer",
+      "text": "He's not sure. He basically assumes he's going to lose the House. He doesn't think it matters much. So, he's trying to figure out what he can do -- what leverage he has here. And right now he's taking his own party hostage. I mean that housing bill is a messaging bill that's supposed to help Republicans go home and say, look, I do care about affordability. I'm doing stuff for you. He's hurting his own party because he thinks he can get the SAVE Act passed. The SAVE Act pass -- is not going to pass.",
+      "cn": "Dia tidak yakin. Dia pada dasarnya berasumsi akan kehilangan DPR. Dia pikir itu tidak penting. Jadi, dia mencoba mencari tahu apa yang bisa dia lakukan -- -- apa pengaruhnya di sini. Dan sekarang, dia menyandera partainya sendiri. Maksud saya, RUU perumahan itu adalah RUU pesan yang dimaksudkan untuk membantu Republikan pulang dan berkata, lihat, saya peduli dengan keterjangkauan. Saya bekerja untuk Anda. Dia menyakiti partainya sendiri karena dia pikir dia bisa meloloskan SAVE Act. SAVE Act tidak akan lolos."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Which Senator Thune and many other Republicans have said, we're not voting for it. Democrats surely are not.",
+      "cn": "Ya. Senator Thune dan banyak Republikan lainnya telah mengatakan, kami tidak akan memilihnya. Demokrat tentu saja juga tidak."
+    },
+    {
+      "speaker": "Thompson",
+      "text": "Well, I was just going to add, you know, he may think that he can stir up his base, but his own political team in that Maggie Haberman, Jonathan Swan book, his own political team has written memos back in December that he -- that voters feel that he is not focused enough on cost of living. And that was even before the Iran War.",
+      "cn": "Yah, saya hanya ingin menambahkan, Anda tahu, dia mungkin berpikir dia bisa menghasut basisnya, tapi menurut buku Maggie Haberman dan Jonathan Swan, tim politiknya sendiri menulis memo pada bulan Desember lalu yang mengatakan pemilih menganggap dia tidak cukup fokus pada biaya hidup. Itu bahkan sebelum perang Iran."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's before they get on the road and pay for gas and buy snacks and find all the expensing. All right, so, Alex, since you're back, it's been a while, what's in your group chat?",
+      "cn": "Itu sebelum mereka naik kendaraan, membayar bensin, membeli camilan, dan menemukan semua pengeluaran itu. Oke, Alex, karena Anda kembali, sudah lama tidak bertemu, apa yang ada di grup chat Anda?"
+    },
+    {
+      "speaker": "Thompson",
+      "text": "The new Larry David show, which basically drops \"Curb Your Enthusiasm\" into huge American history moment.",
+      "cn": "Acara Larry David yang baru pada dasarnya memasukkan Curb Your Enthusiasm ke dalam momen-momen besar sejarah Amerika."
+    },
+    {
+      "speaker": "Thompson",
+      "text": "For example, you have a -- you have Rosa Parks refusing to go to the back of the bus, but then Larry David sits next to her and annoys her so much that she ends up going back to the -- to the back of the bus. Stuff like that.",
+      "cn": "Misalnya, Rosa Parks menolak duduk di belakang bus, tetapi Larry David duduk di sebelahnya dan membuatnya sangat kesal sehingga akhirnya dia kembali ke belakang bus. Hal-hal seperti itu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, of course. Yes, stuff like that. Michael, what about you? What's in your group chat?",
+      "cn": "Ya, tentu. Ya, hal serupa. Michael, bagaimana denganmu? Apa yang ada di grup chatmu?"
+    },
+    {
+      "speaker": "Scherer",
+      "text": "I watched it over the weekend. It was very. I -- mine's a little less funny. I think the degree to which the Democrats are going back to their old pattern of moving to the left in a way that is going to endanger them is just a huge story that is just now emerging.",
+      "cn": "Saya menontonnya akhir pekan lalu. Sangat -- grup chat saya tidak semenarik itu. Saya pikir Partai Demokrat kembali ke pola lama mereka, yaitu berbelok ke kiri, dan ini akan membahayakan mereka sendiri, ini adalah berita besar yang baru muncul."
+    },
+    {
+      "speaker": "Scherer",
+      "text": "We had two years of Democrats saying we were wrong on trans, we were wrong on immigration issues, and now we're back to discussions about whether the police are good or not, about how we should pack the Supreme Court, about --",
+      "cn": "Selama dua tahun, Partai Demokrat mengatakan kami salah tentang isu transgender, salah tentang imigrasi, dan sekarang kami kembali ke diskusi tentang apakah polisi itu baik, tentang apakah kami harus memperluas Mahkamah Agung, tentang --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, which will be familiar if you're like in the Romney campaign or something. I just want to show this \"Axios\" headline, \"Dems Tea Party-Like Rebellion Built by a Decade of Frustration.\" This is the conversation. When you say moving to the left, some of them think, well, maybe we're just doing what MAGA did.",
+      "cn": "Ya, jika Anda mengikuti kampanye Romney dll, Anda akan merasa seperti pernah melihatnya. Saya hanya ingin menunjukkan judul Axios: 'Pemberontakan ala Tea Party Demokrat terakumulasi dari frustrasi selama sepuluh tahun.' Itulah percakapannya. Ketika Anda mengatakan berbelok ke kiri, beberapa orang berpikir, mungkin kita hanya melakukan apa yang dilakukan MAGA."
+    },
+    {
+      "speaker": "Scherer",
+      "text": "No. And if you remember back in 2018, 2019, it really hurt Democrats going into 2020. And it -- and it helped set the stage for a lot of the mistakes that Joe Biden made in his first couple years of office.",
+      "cn": "Tidak. Jika Anda ingat tahun 2018, 2019, itu benar-benar merugikan Partai Demokrat sebelum pemilu 2020. Dan -- dan itu menjadi dasar bagi banyak kesalahan yang dibuat Joe Biden di tahun-tahun awal pemerintahannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right. What's in your group chat, Igor?",
+      "cn": "Baiklah. Igor, apa yang ada di grup chatmu?"
+    },
+    {
+      "speaker": "Bobic",
+      "text": "My chat is dominated by the World Cup right now.",
+      "cn": "Grup chat saya sekarang terutama tentang Piala Dunia."
+    },
+    {
+      "speaker": "Bobic",
+      "text": "I am going to the USA versus Bosnia game, which is --",
+      "cn": "Saya akan menonton pertandingan AS vs Bosnia, itu --"
+    },
+    {
+      "speaker": "Bobic",
+      "text": "And having been born in Bosnia, this is going to be a really tough decision for me. Basically, whoever wins, I lose or I win. I don't know. I haven't decided.",
+      "cn": "Dan karena saya lahir di Bosnia, ini akan menjadi keputusan yang sangat sulit bagi saya. Pada dasarnya, siapa pun yang menang, saya kalah atau menang. Saya tidak tahu. Saya belum memutuskan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Wow. Oh my gosh. Wow.",
+      "cn": "Wow. Ya ampun. Wow."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm excited for you.",
+      "cn": "Saya senang untukmu."
+    },
+    {
+      "speaker": "Bobic",
+      "text": "Yes. Thank you so much. There's a lot to cheer for. One of the -- our players on the Bosnian national team, Esmir Bajraktarevic, was born in Wisconsin. He's the son of Bosnian refugees who --",
+      "cn": "Ya. Terima kasih banyak. Ada banyak hal untuk dirayakan. Salah satu pemain tim nasional Bosnia kami, Esmir Bajraktarević, lahir di Wisconsin. Dia adalah putra pengungsi Bosnia, mereka --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I like that you said that name, but in a Wisconsin accent.",
+      "cn": "Saya suka cara Anda mengucapkan nama itu, tetapi dengan aksen Wisconsin."
+    },
+    {
+      "speaker": "Bobic",
+      "text": "That's right. Listen, he -- his parents, you know, came from the Srebrenica genocide. So, there's a lot of tragedy there. This country is pumped up. First time that it's made the knockout stages. We're all rooting for them. It's going to be tough for me, though. (INAUDIBLE).",
+      "cn": "Benar. Dengar, dia -- orang tuanya, Anda tahu, melarikan diri dari genosida Srebrenica. Jadi, ada banyak tragedi di sana. Negara ini sekarang sangat bersemangat. Ini pertama kalinya mereka lolos ke babak gugur. Kami semua mendukung mereka. Tapi ini sulit bagi saya. (Tidak jelas)."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, love this. Igor, so glad to have you here. Thank you so much. Thank you guys for being in the group chat today. And thank you for kicking off the week with us. We've got the headlines coming up next. I'm Audie Cornish. var CNN = CNN || {};",
+      "cn": "Oh, saya suka ini. Igor, senang Anda ada di sini. Terima kasih banyak. Terima kasih telah bergabung dalam grup chat hari ini. Dan terima kasih telah memulai minggu ini bersama kami. Selanjutnya, berita utama. Saya Audi Cornish."
+    }
+  ]
+}
