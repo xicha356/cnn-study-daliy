@@ -3,15 +3,19 @@ src/generate.py  v4
 新增：
 - 保存完整原始文稿到 JSON（full_transcript 字段）
 - 词汇标注包含 excerpt（原文片段）用于前端高亮匹配
-- 周末自动回退 / HEAD→GET 修复 / JSON 多层容错
+- 按 CNN 源站所在美国东部时区选日期 / HEAD→GET 修复 / JSON 多层容错
 """
 
 import os, re, json, requests, sys, hashlib, copy
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 DEEPSEEK_API_KEY = os.environ.get('DEEPSEEK_API_KEY', '')
 DEEPSEEK_URL     = 'https://api.deepseek.com/v1/chat/completions'
+DEEPSEEK_MODEL = os.environ.get('DEEPSEEK_MODEL', 'deepseek-chat')
+DEEPSEEK_TEMPERATURE = float(os.environ.get('DEEPSEEK_TEMPERATURE', '0'))
+DEEPSEEK_RETRIES = max(1, int(os.environ.get('DEEPSEEK_RETRIES', '3')))
 ELEVENLABS_API_KEY = os.environ.get('ELEVENLABS_API_KEY', '')
 DEFAULT_ELEVENLABS_VOICE_ID = 'pNInz6obpgDQGcFmaJgB'  # Adam, American male
 ELEVENLABS_VOICE_ID = os.environ.get('ELEVENLABS_VOICE_ID', DEFAULT_ELEVENLABS_VOICE_ID)
@@ -25,7 +29,7 @@ OUTPUT_DIR       = Path('output')
 AUDIO_DIR        = OUTPUT_DIR / 'audio'
 I18N_DIR         = OUTPUT_DIR / 'i18n'
 OUTPUT_DIR.mkdir(exist_ok=True)
-CST = timezone(timedelta(hours=8))
+SOURCE_TZ = ZoneInfo(os.environ.get('SOURCE_TIMEZONE', 'America/New_York'))
 SUPPORTED_LOCALES = {
     'km': 'Khmer for Cambodian learners',
     'id': 'Indonesian',
@@ -39,13 +43,9 @@ def get_target_date() -> str:
     if d and re.match(r'^\d{4}-\d{2}-\d{2}$', d):
         print(f'  使用指定日期：{d}')
         return d
-    today = datetime.now(CST)
-    wd = today.weekday()
-    if wd == 5:   today -= timedelta(days=1)
-    elif wd == 6: today -= timedelta(days=2)
+    today = datetime.now(SOURCE_TZ)
     result = today.strftime('%Y-%m-%d')
-    if wd >= 5:
-        print(f'  今天是周末，自动使用最近工作日：{result}')
+    print(f'  按 CNN 源站时区 {SOURCE_TZ.key} 选择目标日期：{result}')
     return result
 
 
@@ -53,19 +53,25 @@ def should_force_regenerate() -> bool:
     return os.environ.get('FORCE_REGENERATE', '').strip().lower() in {'1', 'true', 'yes', 'y'}
 
 
+def is_valid_transcript_html(html: str) -> bool:
+    text = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', html))
+    return (
+        len(html) > 5000
+        and 'cnnBodyText' in html
+        and ('THIS IS A RUSH TRANSCRIPT' in text or re.search(r'Aired [A-Z][a-z]+ \d{1,2}, \d{4}', text))
+    )
+
+
 def find_available_date(start_date: str, max_lookback: int = 7) -> str:
     dt = datetime.strptime(start_date, '%Y-%m-%d')
     for i in range(max_lookback):
         candidate_dt = dt - timedelta(days=i)
         candidate = candidate_dt.strftime('%Y-%m-%d')
-        if candidate_dt.weekday() >= 5:
-            print(f'  {candidate} 是周末，跳过')
-            continue
         url = f'https://transcripts.cnn.com/show/ctmo/date/{candidate}/segment/01'
         print(f'  检查：{url}')
         try:
             r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
-            if r.status_code == 200 and len(r.text) > 500:
+            if r.status_code == 200 and is_valid_transcript_html(r.text):
                 print(f'  ✓ 找到有效日期：{candidate}')
                 return candidate
             print(f'  {candidate} 返回 {r.status_code}')
@@ -242,6 +248,7 @@ def generate_sentence_items(transcript: str) -> list[dict]:
             {'role': 'user', 'content': prompt},
         ],
         max_tokens=DEEPSEEK_MAX_TOKENS,
+        label='sentence-generation',
     )
     items = result.get('sentences') or []
     if not isinstance(items, list):
@@ -445,33 +452,136 @@ def extract_paragraphs(segments_data: list[dict]) -> list[dict]:
 
 
 # ── JSON 解析容错 ─────────────────────────────────────────────
-def parse_json_robust(raw: str) -> dict:
-    for attempt in [
-        lambda s: json.loads(s),
-        lambda s: json.loads(re.sub(r'^```(?:json)?\s*|\s*```$', '', s.strip(), flags=re.MULTILINE).strip()),
-    ]:
-        try:
-            return attempt(raw)
-        except (json.JSONDecodeError, Exception):
-            pass
+def strip_json_fences(raw: str) -> str:
+    return re.sub(r'^```(?:json)?\s*|\s*```$', '', raw.strip(), flags=re.MULTILINE).strip()
 
+
+def extract_json_object(raw: str) -> str:
     start = raw.find('{')
-    end   = raw.rfind('}')
+    end = raw.rfind('}')
     if start != -1 and end > start:
-        chunk = raw[start:end+1]
+        return raw[start:end + 1]
+    return raw
+
+
+def repair_json_string_quotes(raw: str) -> str:
+    result = []
+    in_string = False
+    escaped = False
+    length = len(raw)
+
+    def next_significant(index: int) -> str:
+        pos = index + 1
+        while pos < length and raw[pos].isspace():
+            pos += 1
+        return raw[pos] if pos < length else ''
+
+    for index, char in enumerate(raw):
+        if not in_string:
+            result.append(char)
+            if char == '"':
+                in_string = True
+                escaped = False
+            continue
+
+        if escaped:
+            result.append(char)
+            escaped = False
+            continue
+
+        if char == '\\':
+            result.append(char)
+            escaped = True
+            continue
+
+        if char == '"':
+            next_char = next_significant(index)
+            if next_char in {',', '}', ']', ':'} or not next_char:
+                in_string = False
+                result.append(char)
+            else:
+                result.append('\\"')
+            continue
+
+        if char == '\n':
+            result.append('\\n')
+            continue
+
+        if char == '\r':
+            continue
+
+        if char == '\t':
+            result.append('\\t')
+            continue
+
+        result.append(char)
+
+    return ''.join(result)
+
+
+def repair_json_candidate(raw: str) -> str:
+    candidate = extract_json_object(strip_json_fences(raw))
+    candidate = candidate.replace('\u201c', '"').replace('\u201d', '"')
+    candidate = candidate.replace('\u2018', "'").replace('\u2019', "'")
+    candidate = re.sub(r',(\s*[}\]])', r'\1', candidate)
+    candidate = repair_json_string_quotes(candidate)
+    open_braces = candidate.count('{') - candidate.count('}')
+    open_brackets = candidate.count('[') - candidate.count(']')
+    if open_brackets > 0:
+        candidate += ']' * open_brackets
+    if open_braces > 0:
+        candidate += '}' * open_braces
+    return candidate
+
+
+def parse_json_robust(raw: str) -> dict:
+    candidates = []
+    for candidate in [
+        raw,
+        strip_json_fences(raw),
+        extract_json_object(raw),
+        extract_json_object(strip_json_fences(raw)),
+        repair_json_candidate(raw),
+    ]:
+        candidate = candidate.strip()
+        if candidate and candidate not in candidates:
+            candidates.append(candidate)
+
+    last_error = None
+    for candidate in candidates:
         try:
-            return json.loads(chunk)
+            return json.loads(candidate)
         except json.JSONDecodeError as e:
-            print(f'  JSON错误 line {e.lineno} col {e.colno}：{repr(raw[max(0,e.pos-60):e.pos+60])}')
-            ob = chunk.count('{') - chunk.count('}')
-            ob2 = chunk.count('[') - chunk.count(']')
-            repaired = chunk + (']' * max(0, ob2)) + ('}' * max(0, ob))
-            try:
-                return json.loads(repaired)
-            except Exception:
-                pass
+            last_error = e
+        except Exception as e:
+            last_error = e
+
+    if isinstance(last_error, json.JSONDecodeError):
+        print(
+            f'  JSON错误 line {last_error.lineno} col {last_error.colno}：'
+            f'{repr(raw[max(0, last_error.pos - 60):last_error.pos + 60])}'
+        )
 
     raise ValueError(f'JSON 解析失败，原始内容前200字：\n{raw[:200]}')
+
+
+def ensure_mapping(value, label: str) -> dict:
+    if not isinstance(value, dict):
+        raise ValueError(f'{label} 不是 JSON 对象')
+    return value
+
+
+def postprocess_deepseek_response(payload: dict, label: str) -> dict:
+    payload = ensure_mapping(payload, label)
+    if label == 'article':
+        payload.setdefault('summary', '')
+        for key in ['vocabulary', 'sentences', 'topics', 'quiz']:
+            if not isinstance(payload.get(key), list):
+                payload[key] = []
+    elif label == 'batch-localization':
+        if not isinstance(payload.get('items'), list):
+            raise ValueError('本地化批次返回缺少 items 数组')
+    return payload
 
 
 # ── Prompt ────────────────────────────────────────────────────
@@ -480,7 +590,8 @@ SYSTEM = """你是专业英语精读教学助手，专注新闻英语。
 输出规则：
 1. 必须输出合法JSON，不使用Markdown代码块
 2. JSON字符串中的双引号用 \\\" 转义
-3. 例句中的双引号改为单引号"""
+3. 例句中的双引号改为单引号
+4. 不要输出半截 JSON，不要省略逗号、括号或字段"""
 
 def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
     safe = transcript.replace('\\', '\\\\').replace('"', '\\"')
@@ -541,48 +652,67 @@ def build_prompt(transcript: str, date_str: str, source_url: str) -> str:
 
 
 # ── 调用 DeepSeek ─────────────────────────────────────────────
+def build_retry_messages(messages: list[dict], error: Exception) -> list[dict]:
+    guidance = (
+        '上一条回复不是可解析的合法 JSON。'
+        '请只返回一个合法 JSON 对象，不要加 Markdown、解释、前后缀文本。'
+        f' 解析错误：{sanitize(str(error))[:220]}'
+    )
+    return messages + [{'role': 'user', 'content': guidance}]
+
+
+def call_deepseek_messages(
+    messages: list[dict],
+    max_tokens: int = 4096,
+    label: str = 'response',
+    log_response_length: bool = False,
+) -> dict:
+    if not DEEPSEEK_API_KEY:
+        raise RuntimeError('DEEPSEEK_API_KEY 未设置')
+    current_messages = messages
+    last_error = None
+
+    for attempt in range(1, DEEPSEEK_RETRIES + 1):
+        try:
+            resp = requests.post(
+                DEEPSEEK_URL,
+                headers={'Authorization': f'Bearer {DEEPSEEK_API_KEY}', 'Content-Type': 'application/json'},
+                json={
+                    'model': DEEPSEEK_MODEL,
+                    'max_tokens': max_tokens,
+                    'temperature': DEEPSEEK_TEMPERATURE,
+                    'response_format': {'type': 'json_object'},
+                    'messages': current_messages,
+                },
+                timeout=120
+            )
+            resp.raise_for_status()
+            raw = resp.json()['choices'][0]['message']['content']
+            if log_response_length:
+                print(f'  API返回：{len(raw)} 字符')
+            payload = parse_json_robust(raw)
+            return postprocess_deepseek_response(payload, label)
+        except Exception as e:
+            last_error = e
+            if attempt >= DEEPSEEK_RETRIES:
+                break
+            print(f'      ⚠ DeepSeek {label} 第 {attempt}/{DEEPSEEK_RETRIES} 次失败，重试中：{e}')
+            current_messages = build_retry_messages(messages, e)
+
+    raise RuntimeError(f'DeepSeek {label} 连续 {DEEPSEEK_RETRIES} 次失败：{last_error}')
+
+
 def call_deepseek(prompt: str) -> dict:
-    if not DEEPSEEK_API_KEY:
-        raise RuntimeError('DEEPSEEK_API_KEY 未设置')
     print('  调用 DeepSeek API...')
-    resp = requests.post(
-        DEEPSEEK_URL,
-        headers={'Authorization': f'Bearer {DEEPSEEK_API_KEY}', 'Content-Type': 'application/json'},
-        json={
-            'model': 'deepseek-chat',
-            'max_tokens': DEEPSEEK_MAX_TOKENS,
-            'temperature': 0.1,
-            'response_format': {'type': 'json_object'},
-            'messages': [
-                {'role': 'system', 'content': SYSTEM},
-                {'role': 'user',   'content': prompt}
-            ]
-        },
-        timeout=120
+    return call_deepseek_messages(
+        [
+            {'role': 'system', 'content': SYSTEM},
+            {'role': 'user', 'content': prompt},
+        ],
+        max_tokens=DEEPSEEK_MAX_TOKENS,
+        label='article',
+        log_response_length=True,
     )
-    resp.raise_for_status()
-    raw = resp.json()['choices'][0]['message']['content']
-    print(f'  API返回：{len(raw)} 字符')
-    return parse_json_robust(raw)
-
-
-def call_deepseek_messages(messages: list[dict], max_tokens: int = 4096) -> dict:
-    if not DEEPSEEK_API_KEY:
-        raise RuntimeError('DEEPSEEK_API_KEY 未设置')
-    resp = requests.post(
-        DEEPSEEK_URL,
-        headers={'Authorization': f'Bearer {DEEPSEEK_API_KEY}', 'Content-Type': 'application/json'},
-        json={
-            'model': 'deepseek-chat',
-            'max_tokens': max_tokens,
-            'temperature': 0.1,
-            'response_format': {'type': 'json_object'},
-            'messages': messages,
-        },
-        timeout=120
-    )
-    resp.raise_for_status()
-    return parse_json_robust(resp.json()['choices'][0]['message']['content'])
 
 
 def target_locales() -> list[str]:
@@ -726,6 +856,7 @@ Rules:
 - Preserve IDs exactly.
 - Keep names, English vocabulary terms, dates, percentages, and acronyms accurate.
 - Keep the output concise and natural for English learners.
+- If translated text would contain double quotes, replace them with single quotes unless JSON escaping is required.
 - Return only valid JSON: {{"items":[{{"id":"same id","text":"translated text"}}]}}
 
 Items:
@@ -737,6 +868,7 @@ Items:
                 {'role': 'user', 'content': prompt},
             ],
             max_tokens=8192,
+            label='batch-localization',
         )
     except Exception as e:
         mid = max(1, len(items) // 2)
@@ -772,6 +904,7 @@ def localize_single_text(item: dict, locale: str) -> dict[str, str]:
 Rules:
 - Preserve names, English vocabulary terms, dates, percentages, and acronyms accurately.
 - Keep the output concise and natural for English learners.
+- If translated text would contain double quotes, replace them with single quotes unless JSON escaping is required.
 - Return only valid JSON with this exact shape: {{"id":"{item_id}","text":"translated text"}}
 
 ID: {item_id}
@@ -783,6 +916,7 @@ Text: {text}"""
                 {'role': 'user', 'content': prompt},
             ],
             max_tokens=2048,
+            label='single-localization',
         )
     except Exception as e:
         print(f'      ⚠ {locale} 单项本地化失败：{item_id} ({e})')
@@ -818,7 +952,15 @@ def localize_article_fields(data: dict, locale: str) -> dict:
                 missing.append(field_id)
 
     if missing:
-        raise RuntimeError(f'{locale} 本地化字段缺失：{", ".join(missing[:8])}')
+        preview = ', '.join(missing[:8])
+        print(f'      ⚠ {locale} 本地化仍缺失 {len(missing)} 项，回退到原始内容：{preview}')
+        field_lookup = {field_id: (container, key) for container, key, field_id in fields}
+        base_lookup = {field_id: sanitize(str(get_localizable_value(container, key) or '')) for container, key, field_id in collect_localizable_fields(data)}
+        for field_id in missing:
+            container, key = field_lookup[field_id]
+            fallback_value = base_lookup.get(field_id, '')
+            if fallback_value:
+                set_localizable_value(container, key, fallback_value)
 
     for item in localized.get('vocabulary') or []:
         item['level'] = ' · '.join(
@@ -883,7 +1025,7 @@ def ensure_paragraph_translations(data: dict) -> bool:
         result = call_deepseek_messages([
             {'role': 'system', 'content': '你是严谨的新闻英语翻译助手，只输出合法 JSON。'},
             {'role': 'user', 'content': prompt},
-        ])
+        ], label='paragraph-translation')
         for item in result.get('items', []):
             try:
                 idx = int(item.get('index'))
