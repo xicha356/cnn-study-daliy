@@ -1,0 +1,1953 @@
+{
+  "date": "2026-07-02",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-02/segment/01",
+  "summary": "CNN《今晨》节目讨论特朗普新披露的财务报告，显示其重返白宫后通过加密货币、品牌商品等获利超10亿美元，引发腐败争议。嘉宾辩论透明度与利益冲突。节目还报道美国队世界杯2-0晋级16强，以及泰勒·斯威夫特与凯尔西的结婚传闻。",
+  "vocabulary": [
+    {
+      "word": "disclosure report",
+      "phonetic": "/dɪsˈkloʊʒər rɪˈpɔːrt/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "披露报告（财务公开文件）",
+      "en": "a formal document revealing financial details",
+      "excerpt": "a new disclosure report shows that Trump pulled in billions last year",
+      "example_cn": "一份新的披露报告显示特朗普去年赚了数十亿美元。"
+    },
+    {
+      "word": "side hustle",
+      "phonetic": "/saɪd ˈhʌsl/",
+      "pos": "noun phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "经济金融",
+      "level": "日常表达 · 基础",
+      "cn": "副业；兼职",
+      "en": "a secondary job or business that brings in extra income",
+      "excerpt": "Then there are the side hustles. That's $4 million for Trump-branded watches",
+      "example_cn": "还有那些副业：特朗普品牌手表赚了400万美元。"
+    },
+    {
+      "word": "crypto",
+      "phonetic": "/ˈkrɪptoʊ/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "科技医疗",
+      "level": "新闻常用 · 进阶",
+      "cn": "加密货币（cryptocurrency的简称）",
+      "en": "short for cryptocurrency",
+      "excerpt": "There's more than $1 billion in cryptocurrency ventures",
+      "example_cn": "加密货币投资超过10亿美元。"
+    },
+    {
+      "word": "portfolio",
+      "phonetic": "/pɔːrtˈfoʊlioʊ/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "经济金融",
+      "level": "新闻常用 · 进阶",
+      "cn": "投资组合；业务组合",
+      "en": "a range of investments or products held by a person or company",
+      "excerpt": "it details a vast portfolio of money-making operations",
+      "example_cn": "它详细列出了庞大的赚钱业务组合。"
+    },
+    {
+      "word": "royalty",
+      "phonetic": "/ˈrɔɪəlti/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "经济金融",
+      "level": "新闻常用 · 进阶",
+      "cn": "版税；特许权使用费",
+      "en": "payment to a creator or owner for the use of their property",
+      "excerpt": "the royalties. His properties also generated another $77 million",
+      "example_cn": "版税。他的房产又产生了7700万美元。"
+    },
+    {
+      "word": "ardent supporter",
+      "phonetic": "/ˈɑːrdənt səˈpɔːrtər/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "坚定的支持者",
+      "en": "a very enthusiastic and loyal supporter",
+      "excerpt": "this cash haul makes even some of his most ardent supporters queasy",
+      "example_cn": "这笔巨额收入甚至让他最坚定的支持者感到不安。"
+    },
+    {
+      "word": "queasy",
+      "phonetic": "/ˈkwiːzi/",
+      "pos": "adjective",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "日常表达 · 进阶",
+      "cn": "不安的；恶心的",
+      "en": "feeling uneasy or nauseated",
+      "excerpt": "makes even some of his most ardent supporters queasy",
+      "example_cn": "让他最坚定的支持者感到不安。"
+    },
+    {
+      "word": "grifty",
+      "phonetic": "/ˈɡrɪfti/",
+      "pos": "adjective",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "社会民生",
+      "level": "日常表达 · 进阶",
+      "cn": "欺诈性的；骗钱的",
+      "en": "characterized by dishonest schemes to make money",
+      "excerpt": "It's so grifty. I'm not going to lie. It's grifty.",
+      "example_cn": "这太骗钱了。我不撒谎，就是骗钱。"
+    },
+    {
+      "word": "whataboutism",
+      "phonetic": "/wɒtəˈbaʊtɪzəm/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 高阶",
+      "cn": "转移话题（以‘那又怎样’反驳批评）",
+      "en": "a rhetorical technique of responding to criticism by raising a different issue",
+      "excerpt": "And the whataboutism to follow?",
+      "example_cn": "接下来是转移话题吗？"
+    },
+    {
+      "word": "sleaze",
+      "phonetic": "/sliːz/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "社会民生",
+      "level": "新闻常用 · 进阶",
+      "cn": "肮脏；不道德行为（尤指政治腐败）",
+      "en": "dishonest or immoral behavior, especially in politics",
+      "excerpt": "Hunter Biden sleaze -- -style sleaze is just as slimy when the Trump boys do it",
+      "example_cn": "亨特·拜登式的肮脏，当特朗普的孩子们做同样的事时也一样令人恶心。"
+    },
+    {
+      "word": "exponentially",
+      "phonetic": "/ˌekspəˈnenʃəli/",
+      "pos": "adverb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "经济金融",
+      "level": "新闻常用 · 进阶",
+      "cn": "指数级地；急剧地",
+      "en": "in a way that increases very rapidly",
+      "excerpt": "The presidency is making Trump exponentially richer.",
+      "example_cn": "总统职位让特朗普急剧变得更富有。"
+    },
+    {
+      "word": "suss out",
+      "phonetic": "/sʌs aʊt/",
+      "pos": "phrasal verb",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "日常表达 · 进阶",
+      "cn": "弄清楚；查明",
+      "en": "to figure out or understand something",
+      "excerpt": "What's important here that I'm trying to suss out is why this term",
+      "example_cn": "我试图弄清楚的重要问题是为什么用这个词。"
+    },
+    {
+      "word": "nakedly",
+      "phonetic": "/ˈneɪkɪdli/",
+      "pos": "adverb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "赤裸裸地；公开地",
+      "en": "in an open and obvious way, without concealment",
+      "excerpt": "things that he is so nakedly making policy directives about",
+      "example_cn": "他如此赤裸裸地制定政策指令的事情。"
+    },
+    {
+      "word": "transparency",
+      "phonetic": "/trænsˈpærənsi/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "透明度；公开性",
+      "en": "the quality of being open and honest about actions and decisions",
+      "excerpt": "That's transparency. And then, if you have transparency, what are you going to get upset about?",
+      "example_cn": "那就是透明度。如果你有透明度，你还会生气什么呢？"
+    },
+    {
+      "word": "optics",
+      "phonetic": "/ˈɒptɪks/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "观感；公众形象",
+      "en": "the way something appears to the public",
+      "excerpt": "I think the optics here are really terrible for the American people.",
+      "example_cn": "我认为这对美国人民来说观感非常糟糕。"
+    },
+    {
+      "word": "grift",
+      "phonetic": "/ɡrɪft/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "社会民生",
+      "level": "新闻常用 · 进阶",
+      "cn": "骗局；欺诈",
+      "en": "a dishonest scheme to make money",
+      "excerpt": "But this is a grift, and I think everyone sees it as a grift.",
+      "example_cn": "但这就是个骗局，我认为每个人都看出来了。"
+    },
+    {
+      "word": "at the expense of",
+      "phonetic": "/æt ði ɪkˈspens əv/",
+      "pos": "prepositional phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "以……为代价",
+      "en": "causing harm or loss to someone or something",
+      "excerpt": "get richer at the expense of the American people",
+      "example_cn": "以美国人民为代价变得更富有。"
+    },
+    {
+      "word": "oversight",
+      "phonetic": "/ˈoʊvərsaɪt/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "监督；监管",
+      "en": "the responsibility to supervise or monitor something",
+      "excerpt": "Congress could have oversight",
+      "example_cn": "国会可以进行监督。"
+    },
+    {
+      "word": "apples and oranges",
+      "phonetic": "/ˈæpəlz ænd ˈɔːrɪndʒɪz/",
+      "pos": "idiom",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "风马牛不相及的事物",
+      "en": "two things that are completely different and cannot be compared",
+      "excerpt": "they are comparing apples and oranges here.",
+      "example_cn": "他们在这里比较的是风马牛不相及的事物。"
+    },
+    {
+      "word": "net worth",
+      "phonetic": "/net wɜːrθ/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "经济金融",
+      "level": "新闻常用 · 进阶",
+      "cn": "净资产",
+      "en": "the total value of a person's assets minus liabilities",
+      "excerpt": "When we look at the net worth of presidents after, that's where Trump is.",
+      "example_cn": "当我们看总统卸任后的净资产时，特朗普就在那个位置。"
+    },
+    {
+      "word": "policy directive",
+      "phonetic": "/ˈpɒləsi dɪˈrektɪv/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "政策指令",
+      "en": "an official order or instruction regarding policy",
+      "excerpt": "things that he is so nakedly making policy directives about",
+      "example_cn": "他如此赤裸裸地制定政策指令的事情。"
+    },
+    {
+      "word": "cash haul",
+      "phonetic": "/kæʃ hɔːl/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "经济金融",
+      "level": "新闻常用 · 进阶",
+      "cn": "大笔现金收入",
+      "en": "a large amount of money obtained, often suddenly",
+      "excerpt": "this cash haul makes even some of his most ardent supporters queasy",
+      "example_cn": "这笔巨额收入甚至让他最坚定的支持者感到不安。"
+    },
+    {
+      "word": "dismiss concerns",
+      "phonetic": "/dɪsˈmɪs kənˈsɜːrnz/",
+      "pos": "verb phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "驳回担忧；不理会关切",
+      "en": "to reject or ignore worries or objections",
+      "excerpt": "President Trump there, dismissing concerns that he is profiting off of his second term",
+      "example_cn": "特朗普总统不理会他正从第二任期获利的担忧。"
+    },
+    {
+      "word": "ardent",
+      "phonetic": "/ˈɑːrdənt/",
+      "pos": "adjective",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "热心的；热烈的",
+      "en": "very enthusiastic or passionate",
+      "excerpt": "even some of his most ardent supporters",
+      "example_cn": "甚至他一些最热心的支持者。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A new disclosure report shows that Trump pulled in billions last year.",
+      "cn": "一份新的财务披露报告显示，特朗普去年赚了数十亿美元。",
+      "structure": "主句（A new disclosure report shows）+ 宾语从句（that Trump pulled in billions last year）",
+      "analysis": "pulled in 是口语化表达，意为“赚取”；billions 后省略了 of dollars，新闻英语中常见这种省略。"
+    },
+    {
+      "en": "We are seeing the greatest onslaught of corruption in the history of mankind.",
+      "cn": "我们正在目睹人类历史上最严重的腐败冲击。",
+      "structure": "主谓宾结构（We are seeing the greatest onslaught）+ 后置定语（of corruption）+ 地点状语（in the history of mankind）",
+      "analysis": "onslaught 本义“猛攻”，这里比喻“大量涌现”；the greatest...in the history of mankind 是夸张修辞，强调程度。"
+    },
+    {
+      "en": "President Trump there dismissing concerns that he is profiting off of his second term, even as disclosures show he's cashing in.",
+      "cn": "特朗普总统在那里驳斥了有关他利用第二任期牟利的担忧，尽管披露显示他正在赚钱。",
+      "structure": "主句（President Trump dismissing concerns）+ 同位语从句（that he is profiting off of his second term）+ 让步状语从句（even as disclosures show he's cashing in）",
+      "analysis": "dismissing concerns 是现在分词短语作伴随状语；profit off of 意为“从……中获利”；cash in 是俚语，意为“赚钱”。"
+    },
+    {
+      "en": "A new disclosure report totals more than 927 pages, so it details a vast portfolio of money-making operations.",
+      "cn": "一份新的披露报告总计超过927页，详细列出了庞大的赚钱业务组合。",
+      "structure": "主句（A new disclosure report totals more than 927 pages）+ 结果状语从句（so it details a vast portfolio of money-making operations）",
+      "analysis": "total 作动词，意为“总计”；portfolio 原指“投资组合”，这里指“业务组合”；money-making 是复合形容词，意为“赚钱的”。"
+    },
+    {
+      "en": "There's more than $1 billion in cryptocurrency ventures, and the royalties.",
+      "cn": "加密货币投资和版税收入超过10亿美元。",
+      "structure": "There be 句型（There's more than $1 billion）+ 地点状语（in cryptocurrency ventures, and the royalties）",
+      "analysis": "royalties 指“版税”，这里可能指特朗普品牌授权收入；cryptocurrency ventures 指“加密货币企业/投资”。"
+    },
+    {
+      "en": "All in all, this cash haul makes even some of his most ardent supporters queasy.",
+      "cn": "总而言之，这笔巨额现金收入甚至让他一些最狂热的支持者感到不安。",
+      "structure": "插入语（All in all）+ 主句（this cash haul makes even some of his most ardent supporters queasy）",
+      "analysis": "cash haul 意为“现金收入”；ardent supporters 指“狂热支持者”；queasy 本义“恶心的”，这里比喻“不安的”。"
+    },
+    {
+      "en": "I say this as a true fan of theirs, but I didn't like it when Hunter Biden was doing it.",
+      "cn": "我作为他们的真正粉丝说这话，但我不喜欢亨特·拜登当时那样做。",
+      "structure": "主句（I say this）+ 方式状语（as a true fan of theirs）+ 转折并列句（but I didn't like it）+ 时间状语从句（when Hunter Biden was doing it）",
+      "analysis": "as a true fan of theirs 是介词短语作状语，表示“作为……的身份”；it 指代前文提到的“利用职权牟利”的行为。"
+    },
+    {
+      "en": "It does feel a little bit like, wait, what is going on?",
+      "cn": "这确实感觉有点像，等等，到底发生了什么？",
+      "structure": "主句（It does feel a little bit like）+ 直接引语（wait, what is going on?）",
+      "analysis": "does 用于强调谓语动词 feel；a little bit like 后接直接引语，口语中常见这种结构，表示“有点像……”。"
+    },
+    {
+      "en": "The thing people have asked me the most is, what do we mean when we say, 'makes money'?",
+      "cn": "人们最常问我的问题是，当我们说‘赚钱’时，到底是什么意思？",
+      "structure": "主句（The thing is）+ 定语从句（people have asked me the most）+ 表语从句（what do we mean when we say, 'makes money'?）",
+      "analysis": "the thing...is 是常见句式，后接表语从句；people have asked me the most 是省略关系代词 that 的定语从句。"
+    },
+    {
+      "en": "Anytime another company comes to them and says, Look, we want to sell crypto with your face on it, they make money off of that.",
+      "cn": "每当另一家公司来找他们说，‘看，我们想卖印有你头像的加密货币’，他们就从中赚钱。",
+      "structure": "时间状语从句（Anytime another company comes to them and says, Look, we want to sell crypto with your face on it）+ 主句（they make money off of that）",
+      "analysis": "Anytime 引导时间状语从句，相当于 whenever；with your face on it 是介词短语作定语，修饰 crypto；make money off of 意为“从……赚钱”。"
+    },
+    {
+      "en": "What's important here that I'm trying to suss out is why this term, and why things that he is so nakedly making policy directives about?",
+      "cn": "我试图弄清楚的重要问题是，为什么用这个词，以及为什么他如此赤裸裸地制定政策指令？",
+      "structure": "主语从句（What's important here that I'm trying to suss out）+ 系动词 is + 表语从句（why this term, and why things that he is so nakedly making policy directives about）",
+      "analysis": "suss out 是口语，意为“弄清楚”；nakedly 意为“赤裸裸地”；making policy directives about 中 about 后省略了宾语，指代前文提到的“事情”。"
+    },
+    {
+      "en": "I think after the first term, the president and the family took away, maybe, a lesson that Megyn Kelly and others have issue with.",
+      "cn": "我认为在第一任期后，总统和他的家人可能吸取了一个教训，而梅根·凯利等人对此有异议。",
+      "structure": "主句（I think）+ 宾语从句（after the first term, the president and the family took away, maybe, a lesson）+ 定语从句（that Megyn Kelly and others have issue with）",
+      "analysis": "took away a lesson 意为“吸取教训”；have issue with 是固定搭配，意为“对……有异议”。"
+    },
+    {
+      "en": "I think this is the lesson they learned, which is if we do everything out in the open and try not to hide anything, try not to have some naming rights deal or something that we don't talk about.",
+      "cn": "我认为这就是他们学到的教训：如果我们一切都公开，尽量不隐瞒任何事，尽量不做一些我们不谈论的冠名权交易之类的事。",
+      "structure": "主句（I think this is the lesson they learned）+ 非限制性定语从句（which is if we do everything out in the open and try not to hide anything, try not to have some naming rights deal or something that we don't talk about）",
+      "analysis": "out in the open 意为“公开地”；naming rights deal 指“冠名权交易”；or something 是口语中表示列举未尽。"
+    },
+    {
+      "en": "But I think the optics here are really terrible for the American people.",
+      "cn": "但我认为这对美国人民来说，观感真的很糟糕。",
+      "structure": "转折连词 But + 主句（I think the optics here are really terrible for the American people）",
+      "analysis": "optics 本义“光学”，这里比喻“公众观感”，是政治新闻常用词。"
+    },
+    {
+      "en": "He is just going to continue to do it and get richer at the expense of the American people.",
+      "cn": "他只会继续这样做，以牺牲美国人民为代价变得更富有。",
+      "structure": "主句（He is just going to continue to do it and get richer）+ 方式状语（at the expense of the American people）",
+      "analysis": "at the expense of 意为“以……为代价”，是常用短语。"
+    },
+    {
+      "en": "Congress could have oversight and spend the amount of time it spend digging into the money that the Hunter Biden made on a Burisma board into this.",
+      "cn": "国会可以进行监督，并花时间深入调查亨特·拜登在布瑞斯玛董事会赚的钱，就像他们花时间调查这件事一样。",
+      "structure": "主句（Congress could have oversight and spend the amount of time）+ 定语从句（it spend digging into the money）+ 定语从句（that the Hunter Biden made on a Burisma board）+ 状语（into this）",
+      "analysis": "spend time (in) doing sth. 是固定搭配；dig into 意为“深入调查”；Burisma board 指乌克兰布瑞斯玛能源公司董事会。"
+    },
+    {
+      "en": "We haven't even talked about the money his family is making.",
+      "cn": "我们甚至还没谈到他的家人在赚的钱。",
+      "structure": "主句（We haven't even talked about the money）+ 定语从句（his family is making）",
+      "analysis": "his family is making 是省略关系代词 that 的定语从句，修饰 the money。"
+    },
+    {
+      "en": "So, they are comparing apples and oranges here.",
+      "cn": "所以，他们这是在比较苹果和橙子（风马牛不相及的事物）。",
+      "structure": "主句（they are comparing apples and oranges here）",
+      "analysis": "compare apples and oranges 是习语，意为“比较两种截然不同的事物”。"
+    },
+    {
+      "en": "If you order federal regulators to stop being strict on crypto companies, and then let's put up that circ...",
+      "cn": "如果你命令联邦监管机构停止对加密货币公司严格监管，然后让我们提出那个……",
+      "structure": "条件状语从句（If you order federal regulators to stop being strict on crypto companies）+ 祈使句（and then let's put up that circ...）",
+      "analysis": "order sb. to do sth. 意为“命令某人做某事”；stop being strict on 意为“停止对……严格”；circ 可能是 circular 或 circumstance 的缩写，但原文不完整。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "特朗普财务披露与利益冲突争议",
+      "content": "特朗普2026年财务披露报告显示其通过加密货币（crypto）、品牌商品（Trump-branded products）等获利超10亿美元，引发关于总统利用职权牟利的争议。批评者称其为“grift”（骗局），支持者则强调透明度（transparency）。",
+      "keywords": "disclosure report · grift · transparency · crypto"
+    },
+    {
+      "title": "美国队世界杯晋级16强",
+      "content": "美国国家足球队在2026年世界杯中以2-0获胜，晋级16强（Round of 16）。节目报道了球迷的激动反应，称“World Cup dream still very much alive”。",
+      "keywords": "World Cup · Round of 16 · Team USA"
+    },
+    {
+      "title": "泰勒·斯威夫特与特拉维斯·凯尔西结婚传闻",
+      "content": "节目提及流行歌手泰勒·斯威夫特（Taylor Swift）与NFL球星特拉维斯·凯尔西（Travis Kelce）被传本周末在纽约结婚。该话题为娱乐新闻，引发广泛关注。",
+      "keywords": "Taylor Swift · Travis Kelce · marriage rumor"
+    },
+    {
+      "title": "帝国大厦求婚事件",
+      "content": "两名大胆的攀登者（daring climbers）登上帝国大厦（Empire State Building）顶端求婚，随后被捕。节目以“sky-high proposal”形容这一事件。",
+      "keywords": "Empire State Building · proposal · arrest"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "根据原文，'side hustle' 在语境中指的是什么？\n原文：'Then there are the side hustles. That's $4 million for Trump-branded watches.'",
+      "options": [
+        "A. 主要收入来源",
+        "B. 副业或兼职",
+        "C. 非法交易",
+        "D. 慈善活动"
+      ],
+      "answer": 1,
+      "explanation": "side hustle 指副业或兼职，这里指特朗普品牌手表等额外收入来源。"
+    },
+    {
+      "type": "vocab",
+      "question": "原文中 'grifty' 一词的含义是什么？\n原文：'It's so grifty. I'm not going to lie. It's grifty.'",
+      "options": [
+        "A. 慷慨的",
+        "B. 欺诈性的",
+        "C. 高效的",
+        "D. 合法的"
+      ],
+      "answer": 1,
+      "explanation": "grifty 意为欺诈性的、骗钱的，用于批评特朗普的赚钱方式。"
+    },
+    {
+      "type": "vocab",
+      "question": "短语 'apples and oranges' 在文中的意思是什么？\n原文：'they are comparing apples and oranges here.'",
+      "options": [
+        "A. 比较相似事物",
+        "B. 比较不同事物",
+        "C. 比较水果",
+        "D. 比较价格"
+      ],
+      "answer": 1,
+      "explanation": "apples and oranges 是习语，指风马牛不相及的事物，强调无法比较。"
+    },
+    {
+      "type": "comprehension",
+      "question": "根据对话，Mike Dubke 认为特朗普家族为何公开财务信息？",
+      "options": [
+        "A. 因为法律要求",
+        "B. 为了展示透明度",
+        "C. 为了炫耀财富",
+        "D. 为了吸引投资"
+      ],
+      "answer": 1,
+      "explanation": "Dubke 说 'if we do everything out in the open... that's transparency'，认为公开是为了展示透明度。"
+    },
+    {
+      "type": "comprehension",
+      "question": "Meghan Hays 对特朗普赚钱的主要批评是什么？",
+      "options": [
+        "A. 他赚得太少",
+        "B. 他以美国人民为代价获利",
+        "C. 他投资失败",
+        "D. 他隐瞒收入"
+      ],
+      "answer": 1,
+      "explanation": "Hays 说 'get richer at the expense of the American people'，批评他牺牲民众利益。"
+    },
+    {
+      "type": "comprehension",
+      "question": "节目中提到哪两个事件作为其他新闻话题？",
+      "options": [
+        "A. 世界杯和结婚传闻",
+        "B. 飓风和地震",
+        "C. 选举和弹劾",
+        "D. 股市和油价"
+      ],
+      "answer": 0,
+      "explanation": "节目报道了美国队世界杯晋级和泰勒·斯威夫特结婚传闻。"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Brad Smith",
+      "text": "That does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "CNN头条快讯到此结束。我是布拉德·史密斯。奥蒂·科尼什主持的《CNN今晨》节目现在开始。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "So, today in the group chat, from Bibles to sneakers and also crypto, a new disclosure report shows that Trump pulled in billions last year. Is he profiting too much off of the office?",
+      "cn": "那么，今天在群聊中，从圣经到运动鞋再到加密货币，一份新的财务披露报告显示，特朗普去年赚了数十亿美元。他是否从总统职位中获利过多？"
+    },
+    {
+      "speaker": "Ty Cobb",
+      "text": "We are seeing the greatest onslaught of corruption in the history of mankind.",
+      "cn": "我们正在目睹人类历史上最严重的腐败浪潮。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And every president thinks about his legacy. How will the nation's 250th birthday factor into Trump's? And a sky-high proposal. Two daring climbers go to the tippy-top of the Empire State Building, get engaged, and then get arrested. It's a historic win for Team USA. Their World Cup dream still very much alive.",
+      "cn": "每位总统都会考虑自己的政治遗产。美国建国250周年将如何影响特朗普的遗产？还有一个高空求婚计划。两名勇敢的攀登者登上帝国大厦顶端，求婚成功，然后被捕。这是美国队的历史性胜利。他们的世界杯梦想依然非常活跃。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I thought when I was screaming that I was going to pass out, like I was so excited. It's -- I cannot believe it. It's amazing.",
+      "cn": "我以为我尖叫时会晕过去，我太兴奋了。我简直不敢相信。太棒了。"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "We're all profiting. I'm profiting, because I have a lot of money and a lot of cash.",
+      "cn": "我们都在获利。我在获利，因为我有很多钱和大量现金。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right. So, President Trump there, dismissing concerns that he is profiting off of his second term, even as disclosures show he's cashing in. Good morning, everybody. I'm Audie Cornish, and here's where we start: the more than $1 billion President Trump just revealed he has made since returning to office last year. A new disclosure report totals more than 927 pages, so it details a vast portfolio of money-making operations. There's more than $1 billion in cryptocurrency ventures, and the royalties.",
+      "cn": "好了。特朗普总统在那里驳斥了他从第二任期获利的担忧，尽管披露显示他正在赚钱。大家早上好。我是奥蒂·科尼什，我们从这里开始：特朗普总统刚刚透露，自去年重返白宫以来，他已赚取超过10亿美元。一份新的财务披露报告总计超过927页，详细列出了庞大的赚钱业务组合。其中包括超过10亿美元的加密货币投资和版税。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "His properties also generated another $77 million. Then there are the side hustles. That's $4 million for Trump-branded watches, $200,000 for the Bibles, and about $67,000 for sneakers and fragrances. So, all in all, this cash haul makes even some of his most ardent supporters queasy. MEGYN KELLY, PODCAST HOST, \"THE MEGYN KELLY SHOW\": It's so grifty. I'm not going to lie. It's grifty. You know, the Trump family is grifty.",
+      "cn": "他的房产还带来了另外7700万美元的收入。然后是副业。特朗普品牌手表收入400万美元，圣经收入20万美元，运动鞋和香水收入约6.7万美元。所以，总的来说，这笔巨额收入甚至让一些他最坚定的支持者感到不安。播客《梅根·凯利秀》主持人梅根·凯利：这太贪婪了。我不想撒谎。就是贪婪。你知道，特朗普家族很贪婪。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There's been, like, story after story about all the money that his sons are making off of the government. I say this as a true fan of theirs, but I didn't like it when Hunter Biden was doing it. And I don't like it when the Trumps are doing it.",
+      "cn": "关于他的儿子们如何从政府中赚钱的故事一个接一个。作为他们的真正粉丝，我这么说，但我不喜欢亨特·拜登这样做。我也不喜欢特朗普家族这样做。"
+    },
+    {
+      "speaker": "Dana Perino",
+      "text": "It does feel a little bit like, wait, what is going on? And your children are involved in this? And if you remember, we spent a lot of time talking about Hunter Biden.",
+      "cn": "这确实让人有点感觉，等等，发生了什么？你的孩子也参与其中？如果你还记得，我们花了很多时间讨论亨特·拜登。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Joining me now in the group chat: Mike Dubke, former Trump White House communications director; and Meghan Hays, former director of message planning for the Biden White House. So, you guys are in a great position to talk about this. And the whataboutism to follow?",
+      "cn": "好的。现在加入群聊的是：前特朗普白宫通讯主任迈克·杜布克，以及前拜登白宫信息规划主任梅根·海斯。所以，你们非常适合讨论这个话题。接下来要谈的是\"那他们呢\"式的反驳吗？"
+    },
+    {
+      "speaker": "Mike Dubke",
+      "text": "I hear Hunter. We've got all the kids covered.",
+      "cn": "我听到亨特了。我们涵盖了所有子女。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You've got all the kids. So, first of all, you've got \"The New York Post\": \"Hunter Biden sleaze -- -style sleaze is just as slimy when the Trump boys do it;\" \"Trump Family and 'Honest Graft'.\" Spoiler alert: that's also not one that's excited about what Trump is doing.",
+      "cn": "你涵盖了所有子女。那么，首先，《纽约邮报》写道：\"亨特·拜登式的肮脏，当特朗普的孩子们做同样的事时也一样令人作呕\"；\"特朗普家族与'诚实的腐败'\"。剧透警告：这篇文章对特朗普的做法也并不兴奋。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And then \"Mother Jones.\" Look at this collection: \"The presidency is making Trump exponentially richer.\" The thing people have asked me the most is, what do we mean when we say, \"makes money\"? Like, how does he make his money? And just to be clear, that billion dollars, when it comes to crypto, it's basically every time someone buys a crypto coin, which is virtual, they make money off of that.",
+      "cn": "然后是《琼斯母亲》。看看这个合集：\"总统职位让特朗普的财富呈指数级增长。\"人们最常问我的是，当我们说\"赚钱\"时，到底是什么意思？比如，他是怎么赚钱的？需要明确的是，那十亿美元，当涉及加密货币时，基本上每次有人购买虚拟加密货币，他们就能从中获利。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Anytime another company comes to them and says, Look, we want to sell crypto with your face on it, they make money off of that. And we have not gotten to the trades: actively buying and selling stocks, making money from that; the dividends, et cetera. What's important here that I'm trying to suss out is why this term, and why things that he is so nakedly making policy directives about?",
+      "cn": "每当有其他公司来找他们，说我们想出售印有你头像的加密货币，他们就能从中获利。我们还没谈到交易：积极买卖股票赚钱；股息等等。我试图弄清楚的是，为什么用这个词，以及为什么他会如此赤裸裸地制定政策指令？"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "So, I think there's a -- there's a couple of questions there. Why this term? First and foremost, I think after the first term, the president and the family took away, maybe, a lesson that Megyn Kelly and others have issue with. But I think this is the lesson they learned, which is if we do everything out in the open and try not to hide anything, try not to have some naming rights deal or something that we don't talk about. But if we disclose everything and the American people can decide --",
+      "cn": "所以，我认为这里有几个问题。为什么用这个词？首先，我认为在第一任期后，总统和他的家人可能吸取了一个教训，梅根·凯利等人对此有异议。但我认为他们学到的教训是：如果我们把所有事情都公开，不试图隐瞒任何东西，不搞什么冠名权交易或我们避而不谈的事。但如果我们披露一切，让美国人民来决定 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's transparency.",
+      "cn": "那就是透明度。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "-- that's transparency. And then, if you have transparency, what are you going to get upset about?",
+      "cn": "--  -- 那就是透明度。然后，如果你有透明度，你还会为什么事生气呢？"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I think that's a lesson learned.",
+      "cn": "我认为这是一个学到的教训。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It is. And I want to -- you have a second point here. To follow up on that and to reinforce it, \"The New York Times,\" of course, did an interview with him earlier in this year. And someone said, Look, why are you doing all these deals now? And to your point, he said, Because I found out that nobody cared. MEGHAN HAYS,",
+      "cn": "是的。我想 --  -- 你还有第二点。接着这个话题并强化一下，《纽约时报》今年早些时候采访了他。有人问，你为什么现在做所有这些交易？正如你所说，他回答：因为我发现没人在乎。梅根·海斯，"
+    },
+    {
+      "speaker": "",
+      "text": "Well, I do think people care, because people care now, because they can't afford their health insurance. And he went into a war that no one asked for, so their gas prices went up. They can't afford their groceries. So, I think the optics here are really terrible for the American people. But again, it's easier to do it in your second term, because he's not running for reelection. So, he's not the one that suffers. He -- it's Congress that suffers. And the American people who are suffering here.",
+      "cn": "嗯，我确实认为人们在意，因为现在人们在意，因为他们负担不起医疗保险。而他发动了一场没人要求的战争，所以油价上涨了。他们买不起食品杂货。所以，我认为这对美国人民来说，局面真的很糟糕。但话说回来，在第二任期做这件事更容易，因为他不再竞选连任。所以，他不是那个受苦的人。他 --  -- 受苦的是国会。还有正在受苦的美国人民。"
+    },
+    {
+      "speaker": "",
+      "text": "But this is a grift, and I think everyone sees it as a grift. And he is right. No one -- there's not really anything anyone can do about it. So, he's just going to continue to do it and get richer at the expense of the American people.",
+      "cn": "但这是骗局，我认为每个人都视其为骗局。他说得对。没人 --  -- 对此任何人都无能为力。所以，他只会继续这样做，以牺牲美国人民的利益为代价变得更富有。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And to be clear, there is something someone could do about it. Congress could have oversight --",
+      "cn": "需要明确的是，有人可以对此采取行动。国会可以进行监督 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- and spend the amount of time it spend digging into the money that the -- that Hunter Biden made on a Burisma board into this. Seems -- I don't expect that to happen.",
+      "cn": "--  -- 并把花在调查亨特·拜登从布里斯马董事会赚的钱上的时间用在这上面。似乎 --  -- 我不指望这会发生。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I always thought -- I always thought Hunter's art was the worst grift.",
+      "cn": "我一直认为 --  -- 我一直认为亨特的画作是最糟糕的骗局。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "But here's -- here's the problem. Hunter wasn't the president of the United States. Donald Trump is the president of the United States and making a ton of money. We haven't even talked about the money his family is making.",
+      "cn": "但问题是 --  -- 问题是这样的。亨特不是美国总统。唐纳德·特朗普是美国总统，并且赚了一大笔钱。我们甚至还没谈到他的家人赚的钱。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "So, they are comparing apples and oranges here.",
+      "cn": "所以，他们这是在比较苹果和橙子。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, that's the other thing I want to ask about, Mike. So, one of the things people talk about is, well, what about this family? And Trump says this himself. The Clintons made all this money. The Obamas made all this money. So, I went to go look. When we look at the net worth of presidents after, that's where Trump is. OK? So, that's just -- that's just even looking at the fact that a lot of these people made their deals out of office. This is his net worth in his fifth year. The other thing is --",
+      "cn": "所以，这是我想问的另一件事，迈克。人们谈论的一件事是，嗯，那这个家庭呢？特朗普自己也这么说。克林顿一家赚了这么多钱。奥巴马一家赚了这么多钱。所以我去查了一下。当我们看总统卸任后的净资产时，特朗普就在那里。好吗？所以，这仅仅是 --  -- 这甚至考虑到这样一个事实：这些人中的很多都是在离任后做交易的。这是他第五年的净资产。另一件事是 --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Let's -- let's -- yes. But what was their net worth coming into office? You already had the -- I can't do billions.",
+      "cn": "让我们 --  -- 让我们 --  -- 是的。但他们上任时的净资产是多少？你已经有了 --  -- 我数不清几十亿。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Whatever the number of zeros that is already before you came in. So, I see that statistic and",
+      "cn": "无论你上任前已经有多少个零。所以，我看到那个统计数据，然后"
+    },
+    {
+      "speaker": "I -- Cornish",
+      "text": "So, you think -- yes, yes, so --",
+      "cn": "所以，你认为 --  -- 是的，是的，所以 --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "-- throw my statistic back out at you.",
+      "cn": "--  -- 把我的统计数据扔回给你。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "That they -- because if you've got that out of luck.",
+      "cn": "他们 --  -- 因为如果你侥幸得到了那个。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I want you to tell me who you think made $6 billion of that group.",
+      "cn": "我想让你告诉我，你认为那组人中谁赚了60亿美元。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "No, no, no. You said net worth.",
+      "cn": "不，不，不。你说的是净资产。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, a percentage, you feel, are comfortable --",
+      "cn": "所以，你觉得有一定比例的人过得舒适 --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Yes, you're showing a net worth there. And I'm not disagreeing --",
+      "cn": "是的，你展示的是净资产。我并不是不同意 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. So, do we think that's not a lot of money or",
+      "cn": "好的。那么，我们觉得那不算很多钱还是"
+    },
+    {
+      "speaker": "I -- Dubke",
+      "text": "No, no. We think -- we think.",
+      "cn": "不，不。我们觉得 --  -- 我们觉得。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- feel gross (ph) looking at that.",
+      "cn": "--  -- 看到那个感到恶心。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "We think that's a lot of money. But you're saying that's his net worth right now. If you're saying in the fifth year how much did you make, that was not that statistic.",
+      "cn": "我们认为那是一大笔钱。但你说的是他目前的净资产。如果你说的是第五年赚了多少，那并不是那个统计数字。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "That's the point I'm trying to make.",
+      "cn": "这就是我想表达的观点。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Point made. So now, we'll get to -- no,",
+      "cn": "观点已明。那么现在，我们来谈谈 --  -- 不，"
+    },
+    {
+      "speaker": "I -- Dubke",
+      "text": "All right. I'm going.",
+      "cn": "好吧，我走了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now we get to policy. So, if you order federal -- federal regulators to stop being strict on crypto companies. And then -- let's put up that circle graph again -- you make one point four off billion. To me, that seems like a direct policy problem. If you are doing stock trades in tech firms that you are taking with you and their CEOs abroad to do deals, that seems like a problem.",
+      "cn": "现在我们谈政策。所以，如果你命令联邦监管机构停止对加密货币公司严格监管。然后 --  -- 让我们再放上那个饼图 --  -- 你赚了14亿美元。对我来说，这看起来像是一个直接的政策问题。如果你在科技公司进行股票交易，而这些公司是你带着他们的CEO出国做交易时带走的，那似乎是个问题。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I'm not even getting to Mar-a-Lago, our second White House, where every French fry that goes in a mouth is money that goes to Trump, because it is his property. So, at what point does this actually become something that is a straight-out embarrassment? It's not walking off the Qatari plane. That's not what people seem to be mad at.",
+      "cn": "我甚至还没提到海湖庄园，我们的第二白宫，那里每一根薯条进嘴都是钱进特朗普的口袋，因为那是他的财产。那么，到什么程度这才会变成一件直接令人尴尬的事？不是走下卡塔尔飞机的事。那似乎不是人们生气的原因。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "To whom, though? That's what I want to know. To whom? To whom are you asking is the embarrassment. The American people?",
+      "cn": "但是对谁呢？我想知道。对谁？你问的是谁觉得尴尬。美国人民吗？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm going to go with the American people.",
+      "cn": "我选美国人民。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "To the -- to the president?",
+      "cn": "对总统来说？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm going to go with the American people.",
+      "cn": "我选美国人民。"
+    },
+    {
+      "speaker": "Ok. Cornish",
+      "text": "Especially those. Let's say you bought one of these meme coins. You're not making money right now, but guess who is?",
+      "cn": "尤其是那些。假设你买了其中一种模因币。你现在没赚钱，但猜猜谁赚了？"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Yes. The president is.",
+      "cn": "是的。总统赚了。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Well, he -- I mean, he has a cult who buys Bibles from the -- from Donald Trump. I mean, that -- that to me is also a weird juxtaposition. Like what kind of -- what --",
+      "cn": "嗯，他 --  -- 我是说，他有一群信徒从唐纳德·特朗普那里买圣经。我是说，这对我来说也是一种奇怪的并列。就像什么样的 --  -- 什么 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But I don't care, because he's not doing policy directives on Bibles.",
+      "cn": "但我不在乎，因为他没有在圣经上制定政策指令。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Well, there is some.",
+      "cn": "嗯，有一些。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What I care about is his sons have deals in Mideast countries that we are currently protecting via arms with our actual armed services. Like, it feels like my tax dollars are going to protect --",
+      "cn": "我在乎的是，他的儿子们在我们目前通过军队用武器保护的中东国家有交易。感觉我的税款被用来保护 --  --"
+    },
+    {
+      "speaker": "Hays",
+      "text": "But this is where it's really complex.",
+      "cn": "但这就是问题复杂的地方。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "But this is where it's really complex. And I think that it's hard to sort of pull out all that.",
+      "cn": "但这就是问题复杂的地方。我认为很难把所有事情都理清楚。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, please tell me, because my friends and family are asking.",
+      "cn": "是的，请告诉我，因为我的朋友和家人都在问。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "But I think that's the reason people are asking. I think it's the overall nature of seeing how much money he's made and seeing how corrupt he is and being -- I don't necessarily think you need to have a tangible thing. I think people need to say, I am suffering. I can't afford my stuff. But Donald Trump is making -- has made $6 billion since he came back into office. There is a problem there. But to your embarrassment question, Donald Trump is never going to feel embarrassment.",
+      "cn": "但我认为这就是人们问的原因。我认为这是看到他赚了多少钱以及他有多腐败的整体性质 --  -- 我不一定认为你需要一个具体的东西。我认为人们需要说，我在受苦。我买不起我的东西。但唐纳德·特朗普自重新上任以来已经赚了60亿美元。这有问题。但至于你提到的尴尬问题，唐纳德·特朗普永远不会感到尴尬。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "And I already think the American people half of the country is already embarrassed by Donald Trump. But I don't know how that matters. How does it all end?",
+      "cn": "而且我已经认为，美国人民中有一半人对唐纳德·特朗普感到尴尬。但我不明白这有什么关系。这一切会如何结束？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He says it doesn't matter.",
+      "cn": "他说这没关系。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "It doesn't. He keeps getting richer.",
+      "cn": "确实没关系。他越来越有钱。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Well, from -- from a public policy -- from a public policy standpoint, I could make the argument that the -- the conflict with Iran has probably depressed the value of whatever deals that they had made in that region. Because now you have a region. No, now you have a region --",
+      "cn": "嗯，从公共政策的角度来看，我可以论证，与伊朗的冲突可能已经降低了他们在该地区达成的任何交易的价值。因为现在你有一个地区 --  -- 不，现在你有一个地区 --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "-- that doesn't seem secure anymore.",
+      "cn": "--  -- 看起来不再安全了。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "You have money fleeing the UAE, fleeing Qatar, because those areas are now in open conflict or next to open conflict. So, if you're worried about a Trump Tower here or a Trump Tower there, or whatever the case may be, I could make the argument that those investments are now worth less because of the conflict in Iran.",
+      "cn": "资金正在逃离阿联酋和卡塔尔，因为这些地区现在处于公开冲突或接近公开冲突。所以，如果你担心这里或那里的特朗普大厦，或者任何其他情况，我可以论证，由于伊朗的冲突，这些投资现在价值更低。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "So, it goes directly against his self-interest.",
+      "cn": "所以，这直接违背了他的自身利益。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And neither of us will ever know if we're right.",
+      "cn": "而且我们俩永远不会知道我们是否正确。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Because there is now a ban on IRS audits forever on him and his family, based on the Justice Department deal, which is still under question.",
+      "cn": "因为根据司法部的协议，现在对他及其家人永久禁止国税局审计，该协议仍存在疑问。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Yes, still under question.",
+      "cn": "是的，仍存在疑问。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "I'm sure -- I'm sure --",
+      "cn": "我确信 --  -- 我确信 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Still under question.",
+      "cn": "仍有疑问。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Remember, it's still under question.",
+      "cn": "记住，这仍有疑问。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, we'll see if someone rises up.",
+      "cn": "所以，我们看看是否有人会站出来。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But let me -- let me turn to other things, because this policy stuff stretches even further, right? We're talking about the trade do-over. why the White House is refusing to renew a deal that they negotiated his first time around. Plus, there is this.",
+      "cn": "但让我 --  -- 让我转向其他事情，因为这些政策问题涉及面更广，对吧？我们正在讨论贸易重做。为什么白宫拒绝续签他们第一任期谈判达成的协议。另外，还有这个。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's right. Team USA advances to the next round after one of their best players, however, got a red card. So, how are they going to fare against Belgium in the next game? And then this wild video out of New York: two people climbing to the top of the Empire State Building spire. That's 1,500 feet in the air.",
+      "cn": "没错。美国队晋级下一轮，尽管他们的一名最佳球员吃到了红牌。那么，下一场他们对阵比利时将表现如何？还有这段纽约的疯狂视频：两个人爬上了帝国大厦尖顶。那是在1500英尺的高空。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Yes. What's all the hoopla going on over there?",
+      "cn": "是的。那边在闹什么？"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Two geniuses climbed to the top of the Empire State Building, to the top of the spire.",
+      "cn": "两个天才爬上了帝国大厦的顶端，爬到了尖顶上。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Oh, that's awesome. It's a little hot for that, isn't it?",
+      "cn": "哦，太棒了。不过天气有点热，不是吗？"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "It's just the beginning of this week.",
+      "cn": "这只是本周的开始。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, a historic win for the United States in the World Cup knockout round.",
+      "cn": "因此，美国队在世界杯淘汰赛中取得了一场历史性的胜利。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Tillman! Malik Tillman! Two-nil, the United States!",
+      "cn": "蒂尔曼！马利克·蒂尔曼！2-0，美国队！"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That is a spectacular free-kick goal by midfielder Malik Tillman in the second half that cemented Team USA's victory last night over Bosnia-Herzegovina. And the Americans advance to the Round of 16 against Belgium. This is happening on Monday. And last night's win was their first in a knockout match in 24 years. CNN's Coy Wire has more. (BEGIN VIDEOTAPE)",
+      "cn": "这是中场球员马利克·蒂尔曼在下半场打入的一记精彩任意球，帮助美国队昨晚战胜了波黑队。美国队晋级16强，将对阵比利时队。比赛将在周一进行。昨晚的胜利是美国队24年来首次在淘汰赛中获胜。CNN的科伊·怀尔带来详细报道。"
+    },
+    {
+      "speaker": "Coy Wire",
+      "text": "Well, if sports are an emotional roller coaster, this one skipped the breaks. American fans saw joy, then panic, relief, and now euphoria. Their World Cup dream is still very much alive, and it is full steam ahead. Fans wearing stars and stripes were flying high hours before kickoff. WIRE (voice-over): And once again, the U.S. team came out breathing fire. Breakout star Folarin Balogun lit the fuse early, burying the opener and breaking out the LeBron James celebration.",
+      "cn": "如果说体育是一场情绪的过山车，那么这次它跳过了刹车。美国球迷经历了喜悦、恐慌、宽慰，现在则是狂喜。他们的世界杯梦想依然非常鲜活，并且正在全速前进。开球前几个小时，身穿星条旗的球迷们就已经兴奋不已。美国队再次火力全开。新星弗拉林·巴洛贡早早点燃了导火索，打入首球，并模仿了勒布朗·詹姆斯的庆祝动作。"
+    },
+    {
+      "speaker": "Coy Wire",
+      "text": "King James saw it and gave it his royal seal of approval on social media. But then plot twist: Balogun given a red card. So, 30 nerve-wracking minutes of ten Americans against 11. But Malik Tillman uncorked a laser 20 meters out after a yellow card that hit the back of the net like it had a boarding pass. Cue the bedlam. The U.S. win 2-nil, first World Cup knockout win since 2002, and only their second one ever. America is marching on to the Round of 16.",
+      "cn": "勒布朗·詹姆斯看到了，并在社交媒体上给予了皇家认可。但随后剧情反转：巴洛贡被红牌罚下。于是，美国队10人对阵11人，经历了30分钟令人紧张的煎熬。但马利克·蒂尔曼在吃到黄牌后，从20米外射出一记激光，球像有登机牌一样直挂网窝。场面陷入疯狂。美国队2-0获胜，这是自2002年以来首次在世界杯淘汰赛中获胜，也是历史上第二次。美国队正在向16强迈进。"
+    },
+    {
+      "speaker": "Coy Wire",
+      "text": "I asked the soft-spoken Tillman how he felt after he scored that second goal. MALIK TILLMAN, U.S. SOCCER TEAM; I'm a different type of person on the pitch. Of course, maybe you know it. You don't really see my emotions. But then if you score a goal. I mean, I think also you guys saw my emotions. And then that's a great feeling. And, of course, a very proud moment for me. CHRIS RICHARDS, U.S. SOCCER TEAM; I think it's a proud moment, and it's a moment that we can get a lot of confidence from that.",
+      "cn": "我问了性格温和的蒂尔曼，打进第二个球后他感觉如何。马利克·蒂尔曼（美国足球队）：\"我在球场上是一个不同类型的人。当然，也许你知道。你不太能看到我的情绪。但当你进球时，我想你们也看到了我的情绪。那是一种很棒的感觉。当然，对我来说也是一个非常自豪的时刻。\"克里斯·理查兹（美国足球队）：\"我认为这是一个自豪的时刻，也是一个我们可以从中获得很多信心的时刻。\""
+    },
+    {
+      "speaker": "Coy Wire",
+      "text": "Because we've kept two clean sheets in the last four games, and I think before then we didn't quite have the best record when it came to clean sheets. So again, it gives us a lot of confidence going into the next round.",
+      "cn": "因为我们在过去四场比赛中保持了两次零封，而在此之前，我们在零封方面的记录并不算最好。所以，这再次给了我们进入下一轮很大的信心。"
+    },
+    {
+      "speaker": "Wire",
+      "text": "All right, next mountain to climb: Belgium in Seattle. And it comes with a glass case of emotions. Their top goal scorer, Balogun, suspended after that red card. For now, though, their fans are floating on cloud nine. Maybe on cloud ten. Audie, losing your leading man could crack a team, but it could also further forge one. Championship runs rarely run smooth. They are forged in moments exactly like this. (END VIDEOTAPE)",
+      "cn": "好了，下一座要攀登的高山：在西雅图对阵比利时。这场比赛伴随着复杂的情感。他们的头号射手巴洛贡因红牌停赛。不过目前，他们的球迷们正沉浸在极度的喜悦中。奥黛，失去核心球员可能会击垮一支球队，但也可能进一步锤炼一支球队。冠军之路很少一帆风顺。它们正是在这样的时刻锻造出来的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "They are, Coy. Also, notable that Folarin Balogun, who is this star player, is also a birthright citizen. His mother, who is Nigerian, was pregnant when the family was visiting New York in 2001. She wasn't allowed to board a plane back home because of her late- stage pregnancy. She gave birth to Folarin in Brooklyn. His mother says she believes it was fate. Now, after the break on CNN THIS MORNING, the wedding countdown. Taylor Swift and Travis Kelce reportedly getting married this weekend at MSG.",
+      "cn": "确实如此，科伊。另外值得注意的是，这位明星球员弗拉林·巴洛贡也是一位出生公民。他的母亲是尼日利亚人，2001年全家访问纽约时怀孕。由于怀孕晚期，她不被允许登机回国。她在布鲁克林生下了弗拉林。他的母亲说，她相信这是命运的安排。现在，CNN《今晨》节目之后，是婚礼倒计时。据报道，泰勒·斯威夫特和特拉维斯·凯尔斯本周末将在麦迪逊广场花园结婚。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Is it true, or will she stick to her lyrics and choose the rose garden over Madison Square? Plus, you know those sell-by dates on all the food we buy? Well, one state wants to get rid of those dates, and we're going to explain why. And as we go to a break, this is a live look at Chicago.",
+      "cn": "这是真的吗？还是她会坚持歌词，选择玫瑰园而不是麦迪逊广场？另外，你知道我们购买的所有食品上的保质期吗？有一个州想要取消这些日期，我们将解释原因。在休息之前，这是芝加哥的实时画面。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "Am I being gaslit? Am I being fooled? Like, is she actually getting married at MSG? I can't see it. But she's also a cheugy millennial. I love Taylor, to be clear.",
+      "cn": "我是不是被忽悠了？我是不是被骗了？比如，她真的要在麦迪逊广场花园结婚吗？我看不出来。但她也是个老土的千禧一代。澄清一下，我喜欢泰勒。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm sorry. The word \"cheugy.\" Anyway, Taylor Swift and Travis Kelce, are they getting married? Yes, everyone's talking about it, I guess. Points sign to yes. What's that phrase?",
+      "cn": "抱歉。那个词\"老土\"。总之，泰勒·斯威夫特和特拉维斯·凯尔西，他们要结婚了吗？是的，我想每个人都在谈论这件事。种种迹象表明是的。那句话怎么说来着？"
+    },
+    {
+      "speaker": "Commissioner Jessica Tisch",
+      "text": "In a briefing about major events happening this weekend in New York City, I would be remiss not to mention an event that we are tracking at Madison Square Garden on Friday night. The NYPD will, of course, have a detail in place, but I am not going to go into more specifics on that at this time.",
+      "cn": "在介绍本周末纽约市重大活动的简报中，我不能不提到我们正在追踪的周五晚上在麦迪逊广场花园举行的一个活动。当然，纽约警察局会安排警力，但我目前不会透露更多细节。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right. But fans know that Swift is a mastermind at ruses, so they aren't convinced.",
+      "cn": "好吧。但粉丝们知道斯威夫特是搞诡计的高手，所以他们并不相信。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "If she's actually having it there, She is using that venue because of the security it offers.",
+      "cn": "如果她真的在那里举行婚礼，她选择那个场地是因为它提供的安保措施。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "All of the wedding guests are going to arrive to Madison Square Garden, and they're going to be taken in busses to a secret wedding location.",
+      "cn": "所有婚礼宾客都将抵达麦迪逊广场花园，然后被大巴送到一个秘密的婚礼地点。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The wedding is being dubbed as America's royal wedding and is sure to reshape wedding trends for brides to be. So, we're bringing in Esther Lee, editorial director at \"The Knot.\" Thank you so much for being here. Good morning. We've had Dua Lipa and Callum Turner, Charli xcx, George Daniel, Selena Gomez, Benny Blanco. Still waiting word on Zendaya and Tom Holland, though something tells me that that one has happened.",
+      "cn": "这场婚礼被称为美国的皇室婚礼，必将重塑准新娘的婚礼潮流。因此，我们请来了《The Knot》的编辑总监Esther Lee。非常感谢你的到来。早上好。我们已经看到了杜阿·利帕和卡勒姆·特纳、查莉·XCX和乔治·丹尼尔、赛琳娜·戈麦斯和本尼·布兰科。仍在等待赞达亚和汤姆·霍兰德的消息，不过我有预感那件事已经发生了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "How do celebrity weddings impact the rest of us? ESTHER LEE, EDITORIAL DIRECTOR, \"THE KNOT\": So, it's so interesting to see pop culture filter through and infiltrate just the mainstream zeitgeist of weddings in general. What we do find is that more than 2 million couples got married across $100 billion of spend last year, and celebrities are no different. They're here to celebrate life milestones with their loved ones, Taylor Swift included this weekend.",
+      "cn": "名人婚礼对我们其他人有什么影响？《The Knot》编辑总监Esther Lee：看到流行文化渗透并融入婚礼的主流思潮，这非常有趣。我们发现，去年有超过200万对夫妇结婚，花费超过1000亿美元，名人也不例外。他们来这里与亲人一起庆祝人生里程碑，包括本周末的泰勒·斯威夫特。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I thought that after the pandemic, everybody was doing, like, smaller weddings. I mean, is it -- are weddings back? It doesn't have to be MSG, but are they big again?",
+      "cn": "我以为疫情过后，大家都办小型婚礼。我是说，婚礼 --  -- 又回来了吗？不一定非要在MSG，但婚礼又变得盛大了吗？"
+    },
+    {
+      "speaker": "Lee",
+      "text": "Weddings are certainly back. We are finding that, you know, of course, couples across the country still have an appetite to fall in love; to find their significant other; and of course, get married and have the big celebration that they've dreamt of. And so, \"The Knot\" is here to help them, of course, plan their weddings and to also help them source their vendors.",
+      "cn": "婚礼当然回来了。我们发现，当然，全国各地的夫妇仍然渴望坠入爱河；找到他们的另一半；当然，结婚并举办他们梦想中的盛大庆祝活动。因此，《The Knot》在这里帮助他们，当然，规划他们的婚礼，并帮助他们寻找供应商。"
+    },
+    {
+      "speaker": "Lee",
+      "text": "In fact, we find that couples are indeed hiring vendor teams just like Taylor right now, who is clearly building out a production for her wedding reception.",
+      "cn": "事实上，我们发现现在确实有像泰勒一样的新人正在雇佣婚礼团队，她显然正在为自己的婚宴打造一场盛大的制作。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, the average cost of a wedding in the U.S. right now, around $36,000. Then, our team did the math, and Swift and Kelce may be spending around 10 million for their wedding. Between renting MSG, decor, tents, flowers. Is there a way for anyone to save any more when it comes to a wedding in this economy?",
+      "cn": "是的，目前美国一场婚礼的平均花费约为3.6万美元。然后，我们的团队算了一笔账，斯威夫特和凯尔西可能会为他们的婚礼花费约1000万美元。包括租用麦迪逊广场花园、装饰、帐篷、鲜花。在当前经济形势下，办婚礼还有办法省钱吗？"
+    },
+    {
+      "speaker": "Lee",
+      "text": "Well, in this economy, Taylor and Travis will certainly have to spend because of the security and just the potential of building out an incredible space for 1,000 guests. That's what's speculated right now. The average guest count is actually far below that. It's 117. And typically, couples can save. What we recommend is that they look for the items on their list of priorities that are essential, like what are the must-haves versus the nice-to-haves?",
+      "cn": "嗯，在当前经济环境下，泰勒和特拉维斯肯定要花钱，因为安保以及为1000位宾客打造一个不可思议的空间的潜力。这是目前推测的。实际上平均宾客人数远低于此，是117人。通常，新人可以省钱。我们建议他们优先考虑清单上必需的项目，比如哪些是必须有的，哪些是锦上添花的？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, TMZ is reporting that there's a big build-out going on for this alleged wedding. This is Harvey Levin. I want you to take a listen.",
+      "cn": "所以，TMZ报道说这场所谓的婚礼正在大规模搭建。这是哈维·莱文，请听一下。"
+    },
+    {
+      "speaker": "Harvey Levin",
+      "text": "It seems like the wedding is going to be smaller, but this party is just a gigantic spectacle. They've got trees, and they've got a castle that they're putting up. So, they're going to try to transform Madison Square Garden into a wonderland.",
+      "cn": "看起来婚礼规模会小一些，但这场派对将是一场巨大的奇观。他们运来了树木，还搭建了一座城堡。所以，他们试图将麦迪逊广场花园变成一个仙境。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And then I went and looked it up, and I forgot that Sly Stone actually had his wedding at MSG way back when. Here he is explaining how he made that happen. GERALDO RIVERA, FORMER HOST, \"GOOD MORNING AMERICA\": How in the world did you -- did you plan a wedding in Madison Square Garden?",
+      "cn": "然后我去查了一下，忘了斯莱·斯通很久以前其实就在MSG举行了婚礼。这是他解释如何做到的。前《早安美国》主持人杰拉尔多·里维拉：你到底是怎么 --  -- 怎么在麦迪逊广场花园策划婚礼的？"
+    },
+    {
+      "speaker": "Sly Stone",
+      "text": "Yes, it's fun. And so, we just kind of enjoyed it and shared it with a lot of friends. Sometimes people are not aware of the friends that they really have. I felt like we had 23,000 friends in Madison Square Garden.",
+      "cn": "是的，很有趣。所以我们很享受，并与很多朋友分享。有时人们并不清楚自己真正拥有的朋友。我觉得我们在麦迪逊广场花园有2.3万个朋友。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, other than hoping she wears that, can you talk about, like, the dress and the idea of the dress in this day and age? Because everything, I feel like, is very multi-stage in weddings now. Like, there's a reception dress and a ceremony dress. And I've heard that she loves Vivienne Westwood. What are you hearing?",
+      "cn": "现在，除了希望她穿那件，你能谈谈礼服以及当今时代礼服的概念吗？因为我觉得现在婚礼上一切都是多阶段的。比如，有婚宴礼服和仪式礼服。我听说她喜欢薇薇安·韦斯特伍德。你听到了什么？"
+    },
+    {
+      "speaker": "Lee",
+      "text": "So, we've heard multiple names, including Vivienne, of course. Taylor, of course, has had her favorite designers throughout the years. It will be personalized. And we keep hearing this word in weddings, where couples are turning to something that speaks to them, including the attire. In Taylor's case, some of the names that we're hearing thus far include Oscar de la Renta, Ralph Lauren, Nicole + Felicia. There are some typical contenders out there that we would suspect.",
+      "cn": "我们听到了多个名字，当然包括薇薇安。泰勒多年来一直有她最喜欢的设计师。它会是个性化的。我们在婚礼中不断听到这个词，新人会选择能打动他们的东西，包括服装。就泰勒而言，我们目前听到的一些名字包括奥斯卡·德拉伦塔、拉夫·劳伦、妮可+费莉西亚。有一些我们猜测的典型竞争者。"
+    },
+    {
+      "speaker": "Lee",
+      "text": "However, knowing Taylor, it wouldn't surprise us if she found an under-the-radar designer to perhaps wear to her after-party, or just a dress swap in general. So, we won't know until we see it.",
+      "cn": "不过，了解泰勒的话，如果她找了一位不太知名的设计师来穿去派对，或者干脆换礼服，我们也不会惊讶。所以，我们只有看到才知道。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Esther Lee, thank you so much for the detail. And good luck this weekend for covering what is sure to be your Super Bowl.",
+      "cn": "好的，Esther Lee，非常感谢你的详细报道。祝你本周末报道顺利，这肯定是你的超级碗。"
+    },
+    {
+      "speaker": "Lee",
+      "text": "Thank you. It is our Super Bowl at \"The Knot,\" and we are thrilled.",
+      "cn": "谢谢。这是我们在《The Knot》的超级碗，我们非常激动。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, straight ahead on CNN THIS MORNING. Let's say you have Medicare. Some people can now get a GLP-1. So, who qualifies? How will the program work? We're going to answer your questions next. Plus, there is dangerous heat spreading across the country this holiday weekend, bringing some of the hottest temperatures in decades. var CNN = CNN || {};",
+      "cn": "好的，接下来在CNN今晨节目中。假设你有联邦医疗保险。现在有些人可以获得GLP-1药物。那么，谁符合条件？这个项目将如何运作？我们接下来将回答你的问题。此外，这个假日周末，危险的高温正在席卷全国，带来几十年来最热的温度。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Good morning, everybody. I'm Audie Cornish. I want to thank you for joining me on CNN THIS MORNING. It's now half past the hour. And here's what's happening right now. There is a heat wave, a dangerous one, moving in along the East Coast. More than 160 million people under heat alerts through July 4th weekend. That's according to the National Weather Service. So, some cities will feel their hottest temperatures in more than a decade.",
+      "cn": "大家早上好。我是Audie Cornish。感谢您收看CNN今晨节目。现在是半小时过一点。以下是正在发生的事情。一股危险的热浪正沿着东海岸移动。根据美国国家气象局的数据，超过1.6亿人处于高温警报之下，直至7月4日周末。因此，一些城市将感受到十多年来最热的温度。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "And then two daredevils facing charges after climbing to the top of the needle of the Empire State Building. The two evaded security to unfurl a banner about 1,450 feet above the city. SPEAKER 1: Yes, what's with all the hoopla going on over there? SPEAKER 2: Two geniuses climbed to the top of the Empire State Building at the top of the spire. It's a male, female dressed in black. They had some flag they were waving when they were up at the top. And he just proposed to her.",
+      "cn": "然后，两名冒险者在爬上帝国大厦的尖顶后面临指控。两人避开安保，在离城市约1450英尺的高度展开一面横幅。发言人1：是的，那边在闹什么？发言人2：两个天才爬到了帝国大厦的尖顶。一男一女，穿着黑色衣服。他们在顶上挥舞着一面旗帜。他刚刚向她求婚了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Investigators are still trying to figure out how they accessed a restricted area not open to the public. And an EMS recording obtained by an independent journalist appears to shed more light on Senator Mitch McConnell's hospitalization. In the audio, the dispatcher says the call is for a, quote, cardiac arrest and that the patient is unconscious. CNN has confirmed the address on the call matches the senator's address, and we have reached out to the D.C.",
+      "cn": "调查人员仍在试图弄清楚他们是如何进入不对公众开放的禁区的。一名独立记者获得的急救医疗录音似乎揭示了参议员米奇·麦康奈尔住院的更多细节。在录音中，调度员说电话是关于一起\"心脏骤停\"，患者失去知觉。CNN已确认电话中的地址与参议员的地址相符，我们已联系华盛顿特区消防和急救部门，寻求911电话录音和事件报告。麦康奈尔目前的状况仍未知。他的办公室尚未透露住院原因。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Fire and EMS Departments seeking a recording of the 911 call and the incident report. McConnell's current condition is still unknown. His office has not disclosed the reason for his hospitalization. And President Trump calling a mulligan on one of the signature trade deals of his first term. The White House announced yesterday that it will not renew the USMCA trade agreement with Mexico and Canada. The decision comes as no surprise. Here's President Trump just a few weeks ago.",
+      "cn": "特朗普总统对他第一任期内的标志性贸易协议之一宣布重来。白宫昨天宣布，不会续签与墨西哥和加拿大的《美墨加协定》。这一决定并不令人意外。以下是特朗普总统几周前的讲话。"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "I don't know that I'm going to renew it because, to be honest with you, the United States does much better. We don't need anything that Canada has. We don't need anything that Mexico has. But they need everything that we have.",
+      "cn": "我不知道我是否会续签，因为老实说，美国做得更好。我们不需要加拿大拥有的任何东西。我们不需要墨西哥拥有的任何东西。但他们需要我们所拥有的一切。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, in 2024, the U.S. imported more than $900 billion in goods from both Mexico and Canada. The White House blames the deal for worsening the U.S. trade deficits with Mexico and Canada. Now, the decision raises economic uncertainty for businesses. The supply chains they have run through all three countries. And critics fear significant changes could raise prices on everything from new cars, to lumber and groceries. Group chat is back. Mike is taking notes. What are you --",
+      "cn": "因此，在2024年，美国从墨西哥和加拿大进口了超过9000亿美元的商品。白宫指责该协议加剧了美国与墨西哥和加拿大的贸易逆差。现在，这一决定给企业带来了经济不确定性。它们的供应链贯穿这三个国家。批评者担心重大变化可能会推高从新车到木材和杂货等所有商品的价格。群聊又回来了。Mike在记笔记。你在 --  --"
+    },
+    {
+      "speaker": "Mike Dubke",
+      "text": "I am taking notes. I'm writing this down.",
+      "cn": "我在记笔记。我正在写下来。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I -- yes, that's fine. That's actually a badge of honor on this show.",
+      "cn": "我 --  -- 是的，没关系。在这个节目里，这其实是一种荣誉徽章。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Well, I appreciate that then.",
+      "cn": "嗯，那我谢谢了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, tell me what you think of this. I look at this as NAFTA 3.0, which we know they didn't really like NAFTA in the first place.",
+      "cn": "那么，告诉我你怎么看这个。我认为这是NAFTA 3.0，我们知道他们一开始就不太喜欢NAFTA。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And it sounds like they don't like the USMCA any much better.",
+      "cn": "而且听起来他们也不怎么喜欢USMCA。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "So, I think the most important part of this reporting is the unpredictability of what we're talking about here. This trade agreement goes through 2036, I believe. So, if we didn't renegotiate and do this the way that they want to, which is every year, which creates that unpredictability, which is terrible for business. You know, looking down the road, we should know what the deal is. But why is Trump doing this now? I think it's the transshipment of Chinese goods through Mexico. He feels that they're cheating.",
+      "cn": "所以，我认为这篇报道最重要的部分是我们所谈论的不确定性。这项贸易协定我认为是到2036年。所以，如果我们不按照他们想要的方式重新谈判，也就是每年一次，那就会造成不确定性，这对商业来说很糟糕。你知道，展望未来，我们应该知道协议内容。但特朗普为什么现在这么做？我认为是中国商品通过墨西哥转运。他觉得他们在作弊。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "It is the trade deficit that you're talking about. And he likes bilateral deals rather than these trilateral deals.",
+      "cn": "你谈到的就是贸易逆差。他喜欢双边协议，而不是这种三边协议。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I was about to say, he doesn't really like any group anything. And he's already in these one-on-one -- he's --",
+      "cn": "我正要说的，他其实不喜欢任何团体性的东西。而且他已经处于这些一对一的 --  -- 他 --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "He's not in a group chat.",
+      "cn": "他不在群聊里。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, I don't think so. His group chat is with America and Truth Social.",
+      "cn": "不，我不这么认为。他的群聊是和美国以及Truth Social。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, this would be reviewed every six years. It expires July 2036, as you said. So, that was many years of certainty, which could be out the window.",
+      "cn": "所以，这个协议每六年审查一次。如你所说，它于2036年7月到期。那是多年的确定性，现在可能化为乌有了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, how do Democrats talk about this? I think about this era of deal making, which was pushed by globalization as just a huge part of especially a centrist argument by the Clinton-style Democrat. Do you go to bat to this now in a populist age?",
+      "cn": "那么，民主党人对此如何谈论？我认为这个由全球化推动的交易时代，尤其是克林顿式民主党中间派论点的重要组成部分。在民粹主义时代，你还会为此辩护吗？"
+    },
+    {
+      "speaker": "Meghan Hays",
+      "text": "No, this is -- it's, to your point, this is going to create more uncertainty when people can't afford food and the majority of our fruits and vegetables come from Mexico. People can't afford housing. Lumber comes from Canada. The fact that he's so arrogant that he just said, we don't need anything from these two countries is completely false. We have cars that are made in Mexico that then come here and are assembled here then are considered made in the",
+      "cn": "不，这 --  -- 正如你所说，当人们买不起食物，而我们的大部分水果蔬菜来自墨西哥时，这会造成更多不确定性。人们买不起房子。木材来自加拿大。他如此傲慢，竟然说我们不需要这两个国家的任何东西，这完全是错误的。我们有在墨西哥制造的汽车，然后运到这里组装，然后被视为美国制造。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "There is so much that these two countries --",
+      "cn": "这两个国家有太多 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But to your point, Democrats might fight it. I mean there are some Democrats in border states, Washington, Michigan, Arizona, California. And then we had Representative Suzan DelBene on here yesterday. She's the head of the group that's supposed to help Democrats get elected. And she said that, online, \"Washington has particularly benefited from this agreement and is one of the states with the most to lose by withdrawing.\" She says withdrawing \"will harm our already war and tariff-ravaged economy, threaten jobs.",
+      "cn": "但正如你所说，民主党人可能会反对。我的意思是，边境州有一些民主党人，华盛顿、密歇根、亚利桑那、加利福尼亚。昨天我们邀请了众议员苏珊·德尔贝尼。她是旨在帮助民主党人当选的团体的负责人。她在网上说：\"华盛顿特别受益于这项协议，并且是退出后损失最大的州之一。\"她说退出\"将损害我们已经遭受战争和关税打击的经济，威胁就业。\""
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This is a gravely misguided step by the president.\" I am curious about how this intersects with tariffs, and that regime has not gone well.",
+      "cn": "\"这是总统一个严重错误的步骤。\"我很好奇这与关税如何交织，而那个体系进展并不顺利。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Well, I just think that it just is creating more uncertainty in our economy when people can't afford the uncertainty. And when you can't afford your groceries and our groceries are coming -- and a lot of it is coming from Mexico, that is a problem. So, it's not even -- to me, it's not even necessarily about the minutia of the actual trade agreement and figuring out the specifics of it.",
+      "cn": "嗯，我只是认为，当人们承受不起不确定性时，这只会给我们的经济带来更多不确定性。当你买不起杂货，而我们的杂货 --  -- 很多来自墨西哥，这就是问题。所以，对我来说，这甚至不一定关乎实际贸易协定的细节和具体条款。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Right. You see it as insult to economic injury.",
+      "cn": "对。你认为这是对经济伤害的侮辱。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Exactly. And he's just -- it's like he does not care literally about anybody, about the American people.",
+      "cn": "完全正确。他简直 --  -- 就像他根本不在乎任何人，不在乎美国人民。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "See, I am going to push back on that because where he -- where it is going to be bad for border states, which are mostly blue states, but we don't -- we won't get into that political conversation to the north.",
+      "cn": "你看，我要反驳这一点，因为这对边境州不利，这些州大多是蓝州，但我们不会深入讨论北方的政治话题。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Arizona and New Mexico. I mean --",
+      "cn": "亚利桑那和新墨西哥。我的意思是 --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "To the north. To the north.",
+      "cn": "往北。往北。"
+    },
+    {
+      "speaker": "Ok. Dubke",
+      "text": "Let me finish my sentence.",
+      "cn": "让我把话说完。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Texas is so big, though.",
+      "cn": "不过，得克萨斯州太大了。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Because when I said it, I realized I needed to say to the north.",
+      "cn": "因为当我说到它时，我意识到我需要说往北。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "But when we we're talking about autos, for instance, that that is part of the -- that is part of the upset with Mexican -- with Chinese manufacturing of automobile parts being shipped to Mexico, then put in as part of this agreement and then shipped to the United States. It's a way to skirt all of the tariffs on Chinese manufacturing, on goods and services, especially agricultural products that we ship both north and south from middle of America.",
+      "cn": "但当我们谈论汽车时，例如，这是对墨西哥 --  -- 对中国制造的汽车零部件运往墨西哥，然后作为协议的一部分再运往美国的不满的一部分。这是一种规避对中国制造商品和服务（尤其是农产品）所有关税的方式，这些商品从美国中部向北和向南运输。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Those shipments are -- we're being hurt with those shipments as well. So, there are two sides to this argument. But where I agree with you is on the uncertainty. The problem -- you want some level of certainty with trade agreements. And now to bring this up again --",
+      "cn": "这些运输 --  -- 我们也因此受到损害。所以，这个问题有两面性。但我同意你的是关于不确定性。问题在于 --  -- 你需要贸易协定有一定程度的确定性。而现在又提起这件事 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The only person who has benefited from the uncertainty is the president and the stock market right now. That's what we are seeing in the first (INAUDIBLE).",
+      "cn": "唯一从不确定性中受益的人是总统和现在的股市。这就是我们在第一部分（听不清）中看到的。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "As we talked about in the first bloc, where he's made bazillions of dollars.",
+      "cn": "正如我们在第一部分讨论的，他赚了数十亿美元。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, I want to talk about something else that affects you. For the first time ever, millions of people on Medicare can get weight loss drugs. Starting this week, certain Medicare enrollees will be able to get certain GLP-1 medications for, get this, $50 a month. Now, exactly how much the pilot program will cost, or how many people will sign up, that's unknown.",
+      "cn": "所以，我想谈谈另一件影响你的事情。有史以来第一次，数百万享受医疗保险的人可以获得减肥药。从本周开始，某些医疗保险参保者将能够获得某些GLP-1药物，每月只需50美元。现在，这个试点项目到底要花多少钱，或者有多少人会注册，这些都未知。"
+    },
+    {
+      "speaker": "Dr. Mehmet Oz",
+      "text": "This opens access to GLP-1 medications to lots more people with Medicare to help you lose weight as part of a healthy lifestyle, and you're going to pay a much lower cost than you'd typically find in other places.",
+      "cn": "这为更多享受医疗保险的人打开了获取GLP-1药物的渠道，帮助你在健康生活方式中减肥，而且你将支付比通常在其他地方低得多的费用。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right, joining me now, my friend, Julie Rovner, chief Washington correspondent for Kaiser Health News. I feel like this is something that really is going to be in group chats today. Who would be eligible under this pilot program, pilot, meaning the government isn't sure they want to be in the business of buying everybody their GLP-1s. But who would qualify?",
+      "cn": "好的，现在加入我的是我的朋友，凯撒健康新闻首席华盛顿记者朱莉·罗夫纳。我觉得这将是今天群聊中的热门话题。在这个试点项目中，谁有资格？试点意味着政府不确定是否要全面承担所有人的GLP-1药物费用。那么，谁符合条件呢？"
+    },
+    {
+      "speaker": "Julie Rovner",
+      "text": "That's right. Well, there are already people who are getting these drugs because they have -- they're not just overweight or obese, but they have other health problems that qualify them for the drug. So, those people, nothing changes. But there are somewhere in the neighborhood of three, four, five million Medicare beneficiaries who would like to take these drugs purely for weight loss. That's something that Medicare has banned since the beginning of its drug benefit in 2003.",
+      "cn": "没错。嗯，已经有人在服用这些药物，因为他们不仅超重或肥胖，还有其他健康问题使他们符合用药条件。所以，这些人没有变化。但大约有三四百万医疗保险受益人纯粹为了减肥而想服用这些药物。自2003年医疗保险药品福利开始以来，这一直是被禁止的。"
+    },
+    {
+      "speaker": "Julie Rovner",
+      "text": "And for the first time, they will be able to get these drugs, as Dr. Oz says, for $50 a month. But it only goes for a year and a half. And we don't know what happens after the end of this pilot program. So, are these people going to get on these drugs, lose a lot of weight, and then be told, sorry, you're going to have to pay full freight or you're going to have to go off them and maybe gain all the weight back.",
+      "cn": "而第一次，他们将能够以每月50美元的价格获得这些药物，正如奥兹医生所说。但这只持续一年半。我们不知道这个试点项目结束后会发生什么。那么，这些人开始服药，减掉大量体重，然后被告知，对不起，你必须支付全价，或者你必须停药，可能体重全部反弹。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And we should say, to qualify, you have to have a BMI of 35 or higher for people who are checking their BMIs. And right now we know, in terms of U.S. adults who are using GLP-1s, 76 percent of them right now are getting them from their doctor's office directly, right? Just 17 percent getting them from websites.",
+      "cn": "我们应该说明，要符合条件，你的身体质量指数必须达到35或更高，适用于那些检查自己BMI的人。目前我们知道，在美国使用GLP-1的成年人中，76%直接从医生办公室获得，对吧？只有17%从网站获得。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I guess one of the things I'm trying to figure out is, because there are other health benefits to GLP-1s, which we're only really coming to understand now, could this bring down the cost of health care in a population of people that have a lot of health issues?",
+      "cn": "我想弄清楚的一点是，因为GLP-1还有其他健康益处，我们现在才开始了解，这是否能降低那些有很多健康问题的人群的医疗成本？"
+    },
+    {
+      "speaker": "Rovner",
+      "text": "Well, that's exactly why both the Biden administration and now the Trump administration want to at least try this. We have all this sort of tantalizing research that suggests that GLP-1s do more than help people lose weight. They really can help with other underlying health problems, particularly health problems of the elderly, you know, propensity to heart attack and stroke and things that are really, really expensive.",
+      "cn": "嗯，这正是拜登政府和现在的特朗普政府想要至少尝试的原因。我们有这些诱人的研究表明，GLP-1不仅仅帮助人们减肥。它们确实有助于解决其他潜在的健康问题，特别是老年人的健康问题，比如心脏病发作和中风的倾向，这些都非常昂贵。"
+    },
+    {
+      "speaker": "Rovner",
+      "text": "So, they're hoping that, you know, that these drugs really can help in the long run bring down Medicare costs. Although, you know, as we know with people who are aging, eventually something is going to get you. So, it's not going to be a huge money saver if people live 20 or 30 years longer and government has to continue to pay for them.",
+      "cn": "所以，他们希望这些药物长期来看能帮助降低医疗保险成本。尽管，正如我们所知，随着人们年龄增长，最终总会有问题。所以，如果人们多活20或30年，政府继续为他们支付费用，这不会节省大量资金。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, before I let you go, which drugs specifically would be covered? What formats?",
+      "cn": "那么，在你离开之前，具体哪些药物会被覆盖？什么剂型？"
+    },
+    {
+      "speaker": "Rovner",
+      "text": "So, the government basically did a deal with the two biggest makers of these drugs, Eli Lilly, Novo Nordisk. Each of them will offer both a pill version and an injection version. And I think in both cases, the injection versions work a little bit better but are a little bit more trouble. So, you know, up to individual people. But again, you have to go through your doctor. You have to get prior authorization. It's not just for people with BMIs over 35.",
+      "cn": "政府基本上与两家最大的药物制造商达成了协议，礼来公司和诺和诺德公司。每家公司都将提供药片和注射两种版本。我认为在两种情况下，注射版本效果稍好，但麻烦一些。所以，这取决于个人。但同样，你必须通过医生，获得事先授权。这不仅仅适用于BMI超过35的人。"
+    },
+    {
+      "speaker": "Rovner",
+      "text": "If you have a lower BMI, but you also have a potential health problem, you can also qualify. So, as they always say, talk to your doctor.",
+      "cn": "如果你的BMI较低，但有潜在的健康问题，你也可以符合条件。所以，正如他们常说的，咨询你的医生。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And will this affect insurance companies or are they just watching and waiting?",
+      "cn": "这会影响保险公司吗，还是他们只是在观望等待？"
+    },
+    {
+      "speaker": "Rovner",
+      "text": "Right now they're just watching and waiting. This was supposed to start with insurance -- with the Medicare Part D plans, the prescription drug plans in Medicare. And they were worried about costs. So, they didn't sign up to do it. So, right now, the government has cut its own deal with the drug companies, which is why people will be able to get these drugs for $50 a month. But as we say, it only goes through the end of 2027.",
+      "cn": "目前他们只是在观望等待。原本这应该从保险开始 --  -- 从医疗保险D部分计划，即医疗保险中的处方药计划开始。他们担心成本问题，所以没有签约参与。因此，目前政府与制药公司达成了自己的协议，这就是为什么人们每月只需50美元就能获得这些药物。但正如我们所说，这只持续到2027年底。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Well, Julie, thanks for explaining it. Appreciate it. Hope to have you back.",
+      "cn": "好的。朱莉，谢谢你的解释。非常感谢。希望下次还能请你来。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And it is now 44 minutes past the hour. This is your morning roundup. We are still watching what's happening in Venezuela with rescue efforts continuing. But the death toll has risen to nearly 2,300 after last week's earthquakes. You've got one pathologist telling CNN the government is undercounting the number of dead. The quake struck more than a week ago. Crews, however, are still finding survivors in the rubble.",
+      "cn": "现在是整点过44分。这是你的早间新闻汇总。我们仍在关注委内瑞拉的救援工作进展。但上周地震后的死亡人数已升至近2300人。一位病理学家告诉CNN，政府低估了死亡人数。地震发生已超过一周，然而救援人员仍在废墟中发现幸存者。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "They're trying to, as you can see here, save a man they found buried beneath the rubble of a shopping mall parking lot. And rescuers are using a hose to try to give him food and fluids. And one week after choosing not to retry disgraced movie executive Harvey Weinstein, Manhattan D.A. Alvin Bragg is calling on lawmakers to help survivors of sexual assault get justice.",
+      "cn": "正如你在这里看到的，他们正试图救出一名被困在购物中心停车场废墟下的男子。救援人员用软管给他输送食物和液体。在决定不再重审声名狼藉的电影业高管哈维·韦恩斯坦一周后，曼哈顿地区检察官阿尔文·布拉格呼吁立法者帮助性侵幸存者伸张正义。"
+    },
+    {
+      "speaker": "Alvin Bragg",
+      "text": "One positive development is that the courage of survivors who have the power to come forward, given who he was at that time, I think that laid groundwork for other survivors to come forward. And that is, I would say, positive. But there's no winners here.",
+      "cn": "一个积极的进展是，幸存者挺身而出的勇气 --  -- 考虑到他当时的权势 --  -- 我认为这为其他幸存者站出来奠定了基础。我想说，这是积极的。但这里没有赢家。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Weinstein's conviction on rape and sexual assault charges, well, that was overturned in 2024. A New York appeals court ruled testimony from witnesses who said he used his Hollywood influence to take advantage of them was, quote, \"erroneously admitted.\" And in an effort to reduce food waste, a new law banning \"sell by\" labels on food takes effect in California today. That means foods sold in the state must now use one of two standardized labels.",
+      "cn": "韦恩斯坦因强奸和性侵指控被定罪，但在2024年被推翻。纽约上诉法院裁定，那些声称他利用好莱坞影响力占她们便宜的证人的证词是\"错误地被采纳的\"。为了减少食物浪费，一项禁止食品上使用\"销售截止日期\"标签的新法律今天在加州生效。这意味着该州销售的食品现在必须使用两种标准化标签之一。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, it's either got to say \"best if used by\" for peak quality or \"use by\" for product safety. The \"sell by\" was intended to be used for retailers to help them determine how long to keep food on the shelves but it can be confusing for consumers who throw out food that is still safe to consume. A bipartisan bill that would establish uniform food labels nationwide is actually pending in Congress. And next on CNN THIS MORNING, Trump wants the 250th birthday of the country to be a legacy defining centerpiece for him.",
+      "cn": "因此，要么标注\"最佳使用期限\"表示最佳品质，要么标注\"使用期限\"表示产品安全。\"销售截止日期\"原本用于零售商，帮助他们确定食品在货架上存放的时间，但这可能会让消费者感到困惑，他们可能会扔掉仍然安全可食用的食品。一项旨在建立全国统一食品标签的两党法案目前正在国会审议中。接下来在CNN《今晨》节目中，特朗普希望国家的250岁生日成为他定义遗产的核心事件。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Or will it be just a blip on the historical radar? Later on CNN, an update in the search for Nancy Guthrie. Why the FBI believes some of the ransom notes may have just been extortion attempts and not even legitimate.",
+      "cn": "还是只会成为历史雷达上的一个小点？稍后在CNN，更新南希·格思里的搜寻进展。为什么FBI认为部分赎金纸条可能只是敲诈企图，甚至并非真实。"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "By the way, on July 4th, it's going to be approximately 107 degrees out. And I'm going to go and I'm going to make a really long speech just to show that I can do anything.",
+      "cn": "顺便说一句，7月4日那天，气温大约会达到107华氏度。我会去发表一个非常长的演讲，只是为了证明我无所不能。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "President Trump promising the most unforgettable birthday party any nation has ever celebrated. So far, the Great American State Fair, however, has arguably been a bust. Sources tell CNN there's a lot of angst in the White House over those small crowd sizes. Still, the president is making America's 250th birthday celebration a legacy defining centerpiece of his second term, comparing himself to the nation's 26th president, Theodore Roosevelt.",
+      "cn": "特朗普总统承诺要举办一场任何国家都未曾有过的最令人难忘的生日派对。然而，到目前为止，这场\"伟大的美国州际博览会\"可以说是一场失败。消息人士告诉CNN，白宫对参与人数稀少感到非常焦虑。尽管如此，总统仍将美国250岁生日庆典作为其第二任期的标志性核心事件，并将自己与第26任总统西奥多·罗斯福相提并论。"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "Theodore Roosevelt reminds us all that to be a great nation and to be a free nation we must have courage. Without courage, you have nothing. As T.R. once put it, freedom is not a gift that lasts long in the hands of cowards. How about that? Doesn't last long in the hands of cowards. What a great statement.",
+      "cn": "西奥多·罗斯福提醒我们所有人，要成为一个伟大的国家、一个自由的国家，我们必须有勇气。没有勇气，你就一无所有。正如罗斯福所说，自由不是一份在懦夫手中能长久保存的礼物。怎么样？在懦夫手中不会长久。多么伟大的言论。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It is. And the group chat is back. I just want to play -- I actually wasn't sure we were going to do this story this week because I was like, it's really hot. Maybe people aren't going to this Great American Fair because it's really hot. I'll play -- I'll play for you just what they're saying on the internets, the people who have gone to the fair to try and have a good time down on the National Mall.",
+      "cn": "确实如此。群聊又回来了。我只想播放 --  -- 实际上我不确定这周我们是否要做这个故事，因为我想，天气太热了。也许人们不去这个伟大的美国博览会是因为天气太热。我来播放 --  -- 我来播放一下网友们的评论，那些去了博览会、试图在国家广场上找乐子的人怎么说。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "When I got inside, I felt like I was just aimlessly roaming. I didn't know what was going on. There was no schedule. Something needed to be scheduled like every hour. Show me like what was happening today. A big sign. Like a, you are here and here's where all the things are.",
+      "cn": "我进去之后，感觉自己就是在漫无目的地闲逛。我不知道发生了什么。没有时间表。需要每小时安排点什么。告诉我今天有什么活动。一个大牌子。比如，你在这里，所有东西都在这里。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "How did we have 250 years to plan the Great American State Fair and ended up with this hot mess? Forewarning, if you're a D.C. local and this was your Fourth of July plan, I'd plan something else.",
+      "cn": "我们有250年的时间来规划这个伟大的美国州际博览会，结果却搞成了这样一团糟？提前警告，如果你是华盛顿本地人，这曾是你的国庆计划，那我建议你另做打算。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Wow, I just got back from Donald Trump's Great American State Fair and it was incredible. There were so many people there. I couldn't believe it. I don't think I've ever seen that many people in one place at once.",
+      "cn": "哇，我刚从唐纳德·特朗普的伟大的美国州际博览会回来，太棒了。那里人山人海。我简直不敢相信。我想我从未见过这么多人同时聚集在一个地方。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The internet is undefeated, but we know this White House cares about crowd size.",
+      "cn": "互联网是无敌的，但我们知道白宫很在意参与人数。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Was that -- that was sarcasm, right?",
+      "cn": "那是 --  -- 那是讽刺，对吧？"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "OK. I just wanted to --",
+      "cn": "好吧。我只是想 --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Look, this is a great concept. I, as a -- as a kid, I snuck into the Erie County Fair, which is larger than most state fairs. And this is my shout out to western New York again. But state fairs are awesome. I didn't see any rides. I didn't see any animals. I didn't see --",
+      "cn": "听着，这是个很棒的概念。我小时候偷偷溜进过伊利县博览会，它比大多数州际博览会都大。这是我再次向纽约西部致敬。但州际博览会是很棒的。我没看到任何游乐设施。我没看到任何动物。我没看到 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There was a Ferris Wheel.",
+      "cn": "那里有一个摩天轮。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "It stopped -- it like stopped at one point because the generator broke.",
+      "cn": "它停下来了 --  -- 因为发电机坏了，它一度停在那里。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "OK, what -- all right.",
+      "cn": "好吧，那 --  -- 行。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I didn't see -- where are the animals? Where are the --",
+      "cn": "我没看到 --  -- 动物在哪里？那些 --  --"
+    },
+    {
+      "speaker": "Hays",
+      "text": "There was a rodeo at one point.",
+      "cn": "曾经有过一场牛仔竞技表演。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Where's the 4-H? I mean this actually really could have been a great, very cool concept.",
+      "cn": "4-H 在哪里？我是说，这本来可以是一个很棒、很酷的概念。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "And, unfortunately, it seems like it didn't get brought off in that way.",
+      "cn": "不幸的是，似乎并没有以那种方式实现。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But it's again on the list --",
+      "cn": "但它再次出现在名单上 --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "No demolition derby.",
+      "cn": "没有撞车大赛。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "On the list of cell phones, this one is high because there was an organization that was planning 250 events. It was bipartisan. It was approved by Congress. They had been planning. And then the Trump folks came in and said, no, we have our own group. And it's been this.",
+      "cn": "在手机名单上，这个排名很高，因为有一个组织原本计划了250场活动。它是两党合作的，得到了国会批准。他们一直在筹划。然后特朗普的人来了，说，不，我们有我们自己的团队。结果就成了这样。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Yes. But they also got funded. The other group got funded.",
+      "cn": "是的。但他们也获得了资金。另一个团体也获得了资金。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "What is there -- what are they -- where's the counter state fair then?",
+      "cn": "那么，有什么 --  -- 他们是什么 --  -- 那反州博览会又在哪儿呢？"
+    },
+    {
+      "speaker": "Hays",
+      "text": "So, where are they going to have it?",
+      "cn": "那么，他们打算在哪里举办？"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Like where -- but where are you going to have it.",
+      "cn": "比如在哪里 --  -- 但你们打算在哪里举办？"
+    },
+    {
+      "speaker": "I -- Hays",
+      "text": "The park service is run by the president --",
+      "cn": "公园管理局由总统管理 --  --"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Like, the president has --",
+      "cn": "比如，总统有 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Say that again. The park service --",
+      "cn": "再说一遍。公园管理局 --  --"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Is run by the president. That's something -- the Department of Interior. There you have it.",
+      "cn": "由总统管理。那是 --  -- 内政部。就是这样。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "So, it's a -- it's an executive branch function. But also, this is more about the corruption. They came in. They had their own organization. People are sponsoring it. More money going to them. And the execution here on something that could have been incredible is just so terrible. There's no one there. There's no food. There's no rides. There was no semblance of a state fair. And it's just really unfortunate because our country -- like, everyone deserves better here.",
+      "cn": "所以，这是一个行政部门职能。但这也更多是关于腐败。他们来了。他们有自己的组织。人们赞助他们。更多的钱流向了他们。而在这里执行本可以非常精彩的事情却如此糟糕。那里没有人。没有食物。没有游乐设施。没有一丝州博览会的样子。这真的很不幸，因为我们的国家 --  -- 每个人都应该得到更好的待遇。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Did they have a fried stick of butter?",
+      "cn": "他们有油炸黄油棒吗？"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "No. And that makes me sad.",
+      "cn": "没有。这让我很难过。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Not even -- they couldn't even afford butter.",
+      "cn": "甚至 --  -- 他们连黄油都买不起。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "That makes me sad that they didn't have that.",
+      "cn": "他们连那个都没有，这让我很难过。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It doesn't make me sad.",
+      "cn": "这并不让我难过。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I think what it is, is I -- look, positive, you can now see Ludacris, I think one of my producers told me, in Ohio, OK. Like other places are going to have really great 250 events. My family is going to be up in Plymouth, Massachusetts. Calls itself America's hometown. There's going to be awesome parades and everything there.",
+      "cn": "我觉得是这样的 --  -- 你看，积极的一面是，现在你可以看到卢达克里斯，我记得我的一个制作人告诉我，在俄亥俄州。其他地方也会有非常棒的250周年活动。我的家人会去马萨诸塞州的普利茅斯，那里自称是美国的故乡。那里会有很棒的游行和一切活动。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I'm very excited about that.",
+      "cn": "我对此非常兴奋。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It is disappointing that in the nation's capital what we've got is a green reflecting pool with barbed wire --",
+      "cn": "令人失望的是，在国家的首都，我们看到的只是一个带铁丝网的绿色倒影池 --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "See, now you're just going to the negatives.",
+      "cn": "看，你现在又在说消极的了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The generator out on the Ferris Wheel.",
+      "cn": "摩天轮上的发电机。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's hot as heck and there's not even fried butter, as you mentioned.",
+      "cn": "热得要命，而且就像你说的，连油炸黄油都没有。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "And the fireworks are getting pushed back to 11 p.m. because he wants to give a speech for 45 minutes --",
+      "cn": "烟花表演被推迟到晚上11点，因为他要发表45分钟的演讲 --  --"
+    },
+    {
+      "speaker": "Hays",
+      "text": "And the weather's going to be so terrible you won't be able to see from anyplace (ph).",
+      "cn": "而且天气会非常糟糕，你在任何地方都看不到。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "As anyone who has ever gone --",
+      "cn": "就像任何去过的人 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He's not in charge of the weather, OK? Let me do that.",
+      "cn": "他管不了天气，好吗？让我来说。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "No. But -- no. But you won't be able to do that. And so it's like --",
+      "cn": "不。但是 --  -- 不。但你做不到。所以这就像 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But the point is, it didn't have to be this way.",
+      "cn": "但关键是，事情本不必如此。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "But as somebody who's gone to the fireworks on The Mall in past years, one of the great things for me was, you have our fire -- the fireworks on the National Mall. But then every community around, the fireworks are going off.",
+      "cn": "但作为一个过去几年在国家广场看过烟花的人，对我来说最棒的事情之一是，我们有国家广场的烟花。然后周围的每个社区，烟花都在绽放。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "So, when the president's talking about this long speech, he's going to be ringed by fireworks by all these small communities, from Fairfax, to Maryland, to all over. I don't know how he's going to get his speech off. I don't think they're thinking this through.",
+      "cn": "所以，当总统谈论这个长篇演讲时，他会被所有这些小社区的烟花包围，从费尔法克斯到马里兰，再到各地。我不知道他怎么能完成演讲。我觉得他们没有考虑周全。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I mean I grew up in Boston, like, seeing the symphony and the fireworks on the esplanade (ph)",
+      "cn": "我在波士顿长大，比如在河滨大道看交响乐和烟花。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I care -- I like love July 4th, I can tell you.",
+      "cn": "我很在乎 --  -- 我热爱7月4日，我可以告诉你。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And as an immigrant, I love July 4th. I think that everybody feels like, why do the vibes have to be off on something that should have been politically neutral? And now the events, that Freedom 250 has made, and I'm saying Freedom 250 --",
+      "cn": "作为一名移民，我热爱7月4日。我觉得每个人都觉得，为什么本应政治中立的事情氛围会变得不对劲？而现在，\"自由250\"举办的活动 --  -- 我说的是\"自由250\" --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I know, you're drawing your line there.",
+      "cn": "我知道，你在这里划清界限。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I draw a line by congressionally approved versus not. I like that line because it's like my tax dollars and who represents me, is like, it didn't have to be this way. You didn't have to have a moment where Martina McBride, of all people, has to be like, you know what, I'm out. This is too political.",
+      "cn": "我根据国会批准与否来划清界限。我喜欢这条界限，因为这关系到我的税款和代表我的人，事情本不必如此。你本不必经历这样一个时刻，连玛蒂娜·麦克布莱德这样的人都要说，你知道吗，我退出。这太政治化了。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "But to your larger point, I think once you get outside the beltway, where America is going to be celebrating this, in small towns across the country, I mean, if you want a call-out, leave Washington --",
+      "cn": "但回到你更大的观点，我认为一旦你走出华盛顿特区，美国各地都会庆祝这个节日，在全国的小城镇里，我的意思是，如果你想被点名，就离开华盛顿 --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Don't go through DCA, though --",
+      "cn": "不过别走里根国家机场 --  --"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Because it will be shut down. But we --",
+      "cn": "因为那里会关闭。但我们 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, because airspace is shut down.",
+      "cn": "是的，因为空域会关闭。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "The airspace will be shut down. But leave Washington.",
+      "cn": "空域会关闭。但离开华盛顿吧。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It doesn't feel the tiniest bit defeatist to you to just say, welp, states, it's your turn because we couldn't do it.",
+      "cn": "你难道不觉得说\"好吧，各州，轮到你们了，因为我们做不到\"有一点点失败主义吗？"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "No, no, I -- laboratories of democracy.",
+      "cn": "不，不，我 --  -- 民主的实验室。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "But I think people are tired of Donald Trump's chaos and tired of all of this -- the antics anyways. And so I think that people have turned to their communities writ large the last year anyway. So, I think --",
+      "cn": "但我认为人们已经厌倦了唐纳德·特朗普的混乱，厌倦了这一切 --  -- 至少是那些滑稽行为。所以我认为过去一年里，人们已经转向了他们的社区。所以，我认为 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Or to the Taylor Swift wedding.",
+      "cn": "是的。或者转向泰勒·斯威夫特的婚礼。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "And so I think people are paying attention to what's going on in their communities. They'll enjoy their own parades and their own fireworks. And that's what's so great about our country.",
+      "cn": "所以我认为人们正在关注他们社区里发生的事情。他们会享受自己的游行和烟花。这就是我们国家的伟大之处。"
+    },
+    {
+      "speaker": "I -- Cornish",
+      "text": "And maybe that is a good thing for celebration of colonial independence.",
+      "cn": "也许这对庆祝殖民独立来说是件好事。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "We're resilient. We're resilient.",
+      "cn": "我们很有韧性。我们很有韧性。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Shout out to the colonies.",
+      "cn": "向殖民地致敬。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Meghan's right, Donald Trump, community builder.",
+      "cn": "梅根说得对，唐纳德·特朗普，社区建设者。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Oh, OK. Yes. That's --",
+      "cn": "哦，好吧。是的。那是 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Is that what's in your group chat? We're doing group chats next.",
+      "cn": "那是你群聊里的内容吗？我们接下来要聊群聊。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "So, in my group chat is McDonald's in honor of America's 250, has brought back the fried apple pie.",
+      "cn": "所以，在我的群聊里，麦当劳为了纪念美国250周年，重新推出了炸苹果派。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, my God, you are the second person in the group chat to bring up this fried apple creation.",
+      "cn": "哦，天哪，你是群里第二个提到这种油炸苹果派的人。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "No, it's -- they got rid of it. They got rid of it in 1992. It's now back.",
+      "cn": "不，它 --  -- 他们之前停售了。1992年停售的。现在又回来了。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "And it is also so delicious.",
+      "cn": "而且它非常好吃。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "But, you know, I love fast food almost as much as I love Bravo. So, that is why I'm talking about McDonald's fried apple pie. It is so good. I had it last night.",
+      "cn": "但是，你知道，我爱快餐几乎和爱Bravo一样多。所以这就是为什么我在谈论麦当劳的油炸苹果派。它太好吃了。我昨晚吃了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Shout out. I hope, I hope you can get spawn con (ph) of that. I hope the next time you come here you just have like an arm full of breakfast for us.",
+      "cn": "大声喊出来。我希望，我希望你能弄到那个。我希望下次你来的时候，你能给我们带一堆早餐。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "I should have -- I should have brought you one. I'm sorry.",
+      "cn": "我应该 --  -- 我应该给你带一个的。抱歉。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "They are very good. And they burn. They burn. You got to wait. Wait.",
+      "cn": "它们很好吃。但是烫嘴。烫嘴。你得等一等。等一等。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "For those that haven't had these as children, wait to eat the fried apple pie.",
+      "cn": "对于那些小时候没吃过这些的人，等一等再吃油炸苹果派。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We do not need pro tips. They sell them to you. Go on.",
+      "cn": "我们不需要专业提示。他们卖给你就是了。继续。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "No, I -- but it hurts. It's like the coffee. It burns you.",
+      "cn": "不，我 --  -- 但是会烫伤。就像咖啡一样。它会烫到你。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, that's good anyway. Now we have to apologize to McDonald's instead of thanking them. Go on.",
+      "cn": "嗯，那总归是好事。现在我们得向麦当劳道歉而不是感谢他们。继续吧。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "So, I tried to think of a public policy thing to tie this next -- my group chat into.",
+      "cn": "所以，我试着想一个公共政策话题来衔接下一个 --  -- 我的群聊内容。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Which is, there's a Norwegian study out that in Norway they have given eighth graders tablets. So, nobody's reading books anymore. And what they've found is that the retention level of the students is subpar to the rest of students in Europe because they're not reading books. And the reason I bring that up is because I was told that I had to watch \"Off Campus.\"",
+      "cn": "那就是，挪威有一项研究表明，在挪威，他们给八年级学生配备了平板电脑。所以，没人再读书了。他们发现，学生的知识保留水平低于欧洲其他学生，因为他们不读书了。我提起这个是因为有人告诉我必须看《校外》这部剧。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I was told by you that I had to watch \"Off Campus.\"",
+      "cn": "是你告诉我必须看《校外》的。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Yes, \"Off Campus.\" Not on an airplane. Not on an airplane.",
+      "cn": "是的，《校外》。不是在飞机上看。不是在飞机上看。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The college romance streaming right now on Amazon.",
+      "cn": "现在在亚马逊上播放的大学爱情剧。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "But not on an -- yes, but not on -- but not on an airplane, where I binge watch most of my stuff --",
+      "cn": "但不是在 --  -- 是的，但不是在 --  -- 但不是在飞机上看，我大部分剧都是在飞机上刷的 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, not on an airplane.",
+      "cn": "不，不是在飞机上看。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Because it's a little risque and I'd have to put my screen down.",
+      "cn": "因为有点露骨，我得把屏幕放下来。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "So, I started to watch it, and it became -- I had to turn it off halfway through.",
+      "cn": "所以，我开始看，但看到一半就不得不关掉了。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "It was too hot for me. It was -- it was --",
+      "cn": "对我来说太热了。这 --  -- 这 --  --"
+    },
+    {
+      "speaker": "Hays",
+      "text": "The prude of the group chat.",
+      "cn": "群聊里的假正经。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "So what -- so what I realized was, this had to be a series of books because it was so ridiculous. And it was.",
+      "cn": "所以我意识到，这必须是一系列书，因为它太荒谬了。而事实也确实如此。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "And it had to be by a Canadian author because there was a hockey fetish in it.",
+      "cn": "而且作者必须是加拿大人，因为书里有一种冰球情结。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There's eight books, I've learned.",
+      "cn": "我了解到，一共有八本书。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "This is the book. This is -- this is the deal. This is the beginning of the series.",
+      "cn": "就是这本书。就是 --  -- 就是这本。这是系列的开端。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Can I borrow it? I'll read it.",
+      "cn": "我能借一下吗？我会读的。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Oh, no, you don't have to borrow it.",
+      "cn": "哦，不，你不用借。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You'll just read the steamy parts.",
+      "cn": "你只会读那些火辣的部分。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "This is my gift to you.",
+      "cn": "这是我给你的礼物。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "So, this is summer reading for you.",
+      "cn": "那么，这就是你的夏日读物了。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "OK. This is number one?",
+      "cn": "好的，这是第一本吗？"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Because -- this is number one.",
+      "cn": "因为 --  -- 这是第一本。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I want you to start at the beginning. But I want you to take that to the beach.",
+      "cn": "我希望你从头开始读，但我要你把它带到海滩去。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Mike, all I've learned is not to send you like an eggplant emoji or something like that in the group chat.",
+      "cn": "迈克，我学到的就是不要在群聊里给你发茄子表情之类的东西。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It seems like you were puzzled -- you were puzzled by a lot of the modern detailed.",
+      "cn": "你似乎很困惑 --  -- 你对很多现代细节感到困惑。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Now I have a book club.",
+      "cn": "现在我有了一个读书俱乐部。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "I am not puzzled. I am not puzzled.",
+      "cn": "我不困惑。我不困惑。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Group chat book club.",
+      "cn": "群聊读书俱乐部。"
+    },
+    {
+      "speaker": "Dubke",
+      "text": "Book club. Yes, group chat book club.",
+      "cn": "读书俱乐部。是的，群聊读书俱乐部。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The Dubke Hays book club.",
+      "cn": "杜布克·海斯读书俱乐部。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We got it. Coming to Norway soon.",
+      "cn": "我们收到了。即将登陆挪威。"
+    },
+    {
+      "speaker": "Hays",
+      "text": "Thank you. That's so sweet.",
+      "cn": "谢谢。你真好。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Thank you for waking up with us. I'm Audie Cornish. var CNN = CNN || {};",
+      "cn": "感谢您与我们一同醒来。我是奥迪·科尼什。var CNN = CNN || {};"
+    }
+  ]
+}
