@@ -1,0 +1,1523 @@
+{
+  "date": "2026-07-03",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-03/segment/01",
+  "summary": "CNN This Morning រាយការណ៍ពីភាពចម្រូងចម្រាស និងបញ្ហាប្រឈមមុនពិធីបុណ្យខួប 250 ឆ្នាំរបស់សហរដ្ឋអាមេរិក៖ លោក Trump ជួសជុលអាងទឹក Lincoln Memorial បណ្តាលឱ្យមានការរិះគន់ អតីតកីឡាករអូឡាំពិកត្រូវបានចាប់ខ្លួនពីបទបំផ្លាញ; កំដៅខ្លាំងនៅភាគឦសានគំរាមកំហែងពិធីបុណ្យឯករាជ្យ ទីក្រុងជាច្រើនកែសម្រួលកាលវិភាគ; ចុងសប្តាហ៍រៀបការរបស់ Taylor Swift និង Travis Kelce ចាប់ផ្តើម; ការសម្តែងកងម៉ារីននៅ Times Square បន្ថែមភាពសប្បាយរីករាយ។",
+  "vocabulary": [
+    {
+      "word": "silent drill platoon",
+      "phonetic": "/ˈsaɪlənt drɪl pləˈtuːn/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យប្រើក្នុងបរិបទឯកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ពាក្យប្រើក្នុងបរិបទឯកទេស · កម្រិតខ្ពស់",
+      "cn": "ក្រុមហ្វឹកហាត់ស្ងាត់ (ការសម្តែងរបស់កងម៉ារីន)",
+      "en": "a group of Marines performing rifle routines without verbal commands",
+      "excerpt": "crowds in Times Square got an awesome display from the Marines' silent drill platoon",
+      "example_cn": "ហ្វូងមនុស្សនៅ Times Square បានទស្សនាការសម្តែងដ៏អស្ចារ្យរបស់ក្រុមហ្វឹកហាត់ស្ងាត់នៃកងម៉ារីន"
+    },
+    {
+      "word": "trademark rifle routine",
+      "phonetic": "/ˈtreɪdmɑːrk ˈraɪfl ruːˈtiːn/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "ការហ្វឹកហាត់កាំភ្លើងដ៏ល្បីល្បាញ",
+      "en": "a signature performance involving rifles",
+      "excerpt": "The 24 Marines carried out their trademark rifle routine in perfect sync",
+      "example_cn": "ទាហានម៉ារីន 24 នាក់បានបញ្ចប់ការហ្វឹកហាត់កាំភ្លើងដ៏ល្បីល្បាញរបស់ពួកគេដោយសមកាលកម្មយ៉ាងល្អឥតខ្ចោះ"
+    },
+    {
+      "word": "vanity project",
+      "phonetic": "/ˈvænəti ˈprɒdʒekt/",
+      "pos": "noun phrase",
+      "usage": "ការប្រើប្រាស់ប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ការប្រើប្រាស់ប្រចាំថ្ងៃ · កម្រិតខ្ពស់",
+      "cn": "គម្រោងរកមុខ; គម្រោងឥតប្រយោជន៍",
+      "en": "a project that someone undertakes to boost their own ego or reputation",
+      "excerpt": "Freedom 250 is his vanity project",
+      "example_cn": "សេរីភាព 250 គឺជាគម្រោងរកមុខរបស់គាត់"
+    },
+    {
+      "word": "scorch",
+      "phonetic": "/skɔːrtʃ/",
+      "pos": "verb",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "គ្រោះមហន្តរាយ និងបរិស្ថាន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ដុតកម្តៅ; ឆេះខ្ទេច",
+      "en": "to burn or become burnt on the surface",
+      "excerpt": "Will the dangerous weather scorch Fourth of July celebrations?",
+      "example_cn": "តើអាកាសធាតុគ្រោះថ្នាក់នឹងដុតកម្តៅពិធីបុណ្យឯករាជ្យឬទេ?"
+    },
+    {
+      "word": "death-defying stunt",
+      "phonetic": "/deθ dɪˈfaɪɪŋ stʌnt/",
+      "pos": "noun phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សង្គម និងជីវភាពប្រជាជន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ល្បិចប្រថុយជីវិត",
+      "en": "a dangerous act that seems to defy death",
+      "excerpt": "Why they say they pulled off the death-defying stunt",
+      "example_cn": "ហេតុអ្វីបានជាពួកគេអះអាងថាបានធ្វើល្បិចប្រថុយជីវិតនេះ?"
+    },
+    {
+      "word": "blistering",
+      "phonetic": "/ˈblɪstərɪŋ/",
+      "pos": "adjective",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "គ្រោះមហន្តរាយ និងបរិស្ថាន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ក្តៅខ្លាំង; ក្តៅក្រហាយ",
+      "en": "extremely hot",
+      "excerpt": "a celebration that may be wilting in the blistering summer sun",
+      "example_cn": "ពិធីបុណ្យដែលអាចនឹងក្រៀមក្រោះក្រោមពន្លឺថ្ងៃក្តៅក្រហាយ"
+    },
+    {
+      "word": "flashpoint",
+      "phonetic": "/ˈflæʃpɔɪnt/",
+      "pos": "noun",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ចំណុចផ្ទុះ; កេះ",
+      "en": "a place or situation where trouble or violence might erupt",
+      "excerpt": "Instead, it has become a flashpoint",
+      "example_cn": "ផ្ទុយទៅវិញ វាបានក្លាយជាចំណុចផ្ទុះ"
+    },
+    {
+      "word": "indict",
+      "phonetic": "/ɪnˈdaɪt/",
+      "pos": "verb",
+      "usage": "ប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ដាក់ពាក្យបណ្តឹង; ចោទប្រកាន់",
+      "en": "to formally accuse someone of a crime",
+      "excerpt": "A former Olympic canoeist has been indicted by a grand jury",
+      "example_cn": "អតីតកីឡាករកាណូអូឡាំពិកម្នាក់ត្រូវបានក្រុមចៅក្រមធំចោទប្រកាន់"
+    },
+    {
+      "word": "vandalize",
+      "phonetic": "/ˈvændəlaɪz/",
+      "pos": "verb",
+      "usage": "ប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការបំផ្លាញដោយចេតនា (ទ្រព្យសម្បត្តិសាធារណៈ)",
+      "en": "to deliberately damage or destroy property",
+      "excerpt": "for allegedly vandalizing it",
+      "example_cn": "សង្ស័យថាបានបំផ្លាញវាដោយចេតនា"
+    },
+    {
+      "word": "rope off",
+      "phonetic": "/roʊp ɒf/",
+      "pos": "phrasal verb",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "សង្គម និងជីវភាពរស់នៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ព័ទ្ធដោយខ្សែពួរ",
+      "en": "to enclose an area with ropes to keep people out",
+      "excerpt": "we will not allow our sacred monuments to be roped off",
+      "example_cn": "យើងនឹងមិនអនុញ្ញាតឱ្យវិមានដ៏ពិសិដ្ឋរបស់យើងត្រូវបានព័ទ្ធដោយខ្សែពួរឡើយ"
+    },
+    {
+      "word": "defaced",
+      "phonetic": "/dɪˈfeɪst/",
+      "pos": "adjective",
+      "usage": "ប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ត្រូវបានធ្វើឱ្យខូច; ត្រូវបានបំផ្លាញរូបរាង",
+      "en": "having its appearance spoiled or damaged",
+      "excerpt": "defaced or diminished",
+      "example_cn": "ត្រូវបានធ្វើឱ្យខូច ឬបន្ទាបបន្ថោក"
+    },
+    {
+      "word": "diminished",
+      "phonetic": "/dɪˈmɪnɪʃt/",
+      "pos": "adjective",
+      "usage": "ប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ប្រើក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ត្រូវបានបន្ទាបបន្ថោក; ត្រូវបានធ្វើឱ្យចុះខ្សោយ",
+      "en": "made to seem less important or valuable",
+      "excerpt": "defaced or diminished",
+      "example_cn": "ត្រូវបានបំផ្លាញ ឬបន្ទាបបន្ថោក"
+    },
+    {
+      "word": "disgruntled",
+      "phonetic": "/dɪsˈɡrʌntld/",
+      "pos": "adjective",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សង្គម និងជីវភាពប្រជាជន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "មិនពេញចិត្ត; មិនសប្បាយចិត្ត",
+      "en": "angry or dissatisfied",
+      "excerpt": "disgruntled individuals who think that they... have the right to decide",
+      "example_cn": "អ្នកមិនពេញចិត្តដែលគិតថាខ្លួនមានសិទ្ធិ"
+    },
+    {
+      "word": "structural renovation",
+      "phonetic": "/ˈstrʌktʃərəl ˌrenəˈveɪʃn/",
+      "pos": "noun phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សង្គម និងជីវភាពប្រជាជន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការជួសជុលរចនាសម្ព័ន្ធ",
+      "en": "renovation that involves the structure of a building or monument",
+      "excerpt": "the Obama administration did a renovation -- structural renovation of the Reflecting Pool",
+      "example_cn": "រដ្ឋាភិបាលលោកអូបាម៉ាបានធ្វើការជួសជុលរចនាសម្ព័ន្ធអាងទឹកឆ្លុះ"
+    },
+    {
+      "word": "flip out",
+      "phonetic": "/flɪp aʊt/",
+      "pos": "phrasal verb",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "សង្គម និងជីវភាពប្រជាជន",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ឆ្កួត; រំភើបខ្លាំង",
+      "en": "to become very angry or excited",
+      "excerpt": "people completely flipped out",
+      "example_cn": "មនុស្សទាំងអស់ឆ្កួតទាំងស្រុង"
+    },
+    {
+      "word": "algae",
+      "phonetic": "/ˈældʒiː/",
+      "pos": "noun",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "គ្រោះមហន្តរាយ និងបរិស្ថាន",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "សារាយ",
+      "en": "simple plants that grow in water",
+      "excerpt": "there's algae still in the pool",
+      "example_cn": "ក្នុងអាងក៏មានសារាយដែរ"
+    },
+    {
+      "word": "animating force",
+      "phonetic": "/ˈænɪmeɪtɪŋ fɔːrs/",
+      "pos": "noun phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "កម្លាំងជំរុញ; កត្តាជំរុញ",
+      "en": "the force that drives or motivates something",
+      "excerpt": "the animating force in even Democratic politics right now being about the Reflecting Pool",
+      "example_cn": "សូម្បីតែកម្លាំងជំរុញក្នុងនយោបាយប្រជាធិបតេយ្យក៏ទាក់ទងនឹងអាងទឹកឆ្លុះបញ្ចាំងដែរ"
+    },
+    {
+      "word": "no-bid process",
+      "phonetic": "/noʊ bɪd ˈprɒses/",
+      "pos": "noun phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "គ្មានដំណើរការដេញថ្លៃ (ចាត់តាំងអ្នកម៉ៅការដោយផ្ទាល់)",
+      "en": "a process where contracts are awarded without competitive bidding",
+      "excerpt": "It didn't go through a no-bid process for contracts",
+      "example_cn": "វាមិនបានឆ្លងកាត់ដំណើរការកិច្ចសន្យាគ្មានការដេញថ្លៃទេ"
+    },
+    {
+      "word": "sealant",
+      "phonetic": "/ˈsiːlənt/",
+      "pos": "noun",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "សង្គមនិងជីវភាពរស់នៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "សារធាតុផ្សាភ្ជាប់; សម្ភារៈផ្សាភ្ជាប់",
+      "en": "a substance used to seal a surface",
+      "excerpt": "The blue sealant that is peeling off",
+      "example_cn": "សារធាតុផ្សាភ្ជាប់ពណ៌ខៀវដែលកំពុងរបូត"
+    },
+    {
+      "word": "self-own",
+      "phonetic": "/self oʊn/",
+      "pos": "noun",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយការទូត",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · កម្រិតមធ្យម",
+      "cn": "ធ្វើខ្លួនឯងឱ្យអាម៉ាស់; ភាពអាម៉ាស់ដែលកើតពីខ្លួនឯង",
+      "en": "an embarrassing mistake that one makes for oneself",
+      "excerpt": "Is it a self-own?",
+      "example_cn": "តើនេះជាការធ្វើខ្លួនឯងឱ្យអាម៉ាស់មែនទេ?"
+    },
+    {
+      "word": "motorcade",
+      "phonetic": "/ˈmoʊtərkeɪd/",
+      "pos": "noun",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ក្បួនរថយន្ត (ជាពិសេសក្បួនរថយន្តរបស់អ្នកមានសិទ្ធិ)",
+      "en": "a procession of motor vehicles",
+      "excerpt": "his motorcade was driving up the center of the Reflecting Pool",
+      "example_cn": "ក្បួនរថយន្តរបស់គាត់កំពុងបើកតាមកណ្តាលអាងទឹកឆ្លុះបញ្ចាំង"
+    },
+    {
+      "word": "bipartisan",
+      "phonetic": "/ˌbaɪpɑːrtɪˈzæn/",
+      "pos": "adjective",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ពីរគណបក្ស; ឆ្លងគណបក្ស",
+      "en": "involving two political parties",
+      "excerpt": "This could have been a bipartisan project",
+      "example_cn": "នេះអាចជាគម្រោងសហការពីរគណបក្ស"
+    },
+    {
+      "word": "sponsorship package",
+      "phonetic": "/ˈspɒnsərʃɪp ˈpækɪdʒ/",
+      "pos": "noun phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សេដ្ឋកិច្ច និងហិរញ្ញវត្ថុ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "កញ្ចប់ឧបត្ថម្ភ",
+      "en": "a set of benefits offered to sponsors",
+      "excerpt": "they've also been selling these, like, sponsorship packages",
+      "example_cn": "ពួកគេកំពុងលក់កញ្ចប់ឧបត្ថម្ភទាំងនេះ"
+    },
+    {
+      "word": "facetime",
+      "phonetic": "/ˈfeɪstaɪm/",
+      "pos": "noun",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ពេលជួប; ឱកាសបង្ហាញមុខ",
+      "en": "time spent in the presence of an important person",
+      "excerpt": "some of those packages are facetime; like a photo with the president",
+      "example_cn": "កញ្ចប់ខ្លះរួមមានឱកាសជួប ដូចជាថតរូបជាមួយប្រធានាធិបតី"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The 24 Marines carried out their trademark rifle routine in perfect sync and without verbal commands, wowing the crowd.",
+      "cn": "ទាហានម៉ារីន ២៤ នាក់បានធ្វើឲ្យទស្សនិកជនភ្ញាក់ផ្អើល ដោយអនុវត្តការហ្វឹកហាត់កាំភ្លើងដ៏ល្បីរបស់ពួកគេ ដោយចង្វាក់ដូចគ្នាឥតខ្ចោះ និងគ្មានពាក្យបញ្ជា។",
+      "structure": "ប្រយោគដើម (The 24 Marines carried out...) + កន្សោមអម (in perfect sync and without verbal commands) + កន្សោមលទ្ធផល (wowing the crowd)",
+      "analysis": "កន្សោម 'wowing the crowd' ជា present participle phrase ធ្វើជាកន្សោមលទ្ធផល បង្ហាញពីលទ្ធផលធម្មជាតិនៃសកម្មភាព។ 'in perfect sync' មានន័យថា 'ចង្វាក់ដូចគ្នាឥតខ្ចោះ' 'without verbal commands' មានន័យថា 'គ្មានពាក្យបញ្ជា'។"
+    },
+    {
+      "en": "With temperatures expected to top 100 degrees this weekend in the Northeast, it's now -- it's not clear how many people will actually venture out for the big America 250 celebration.",
+      "cn": "ដោយសារសីតុណ្ហភាពនៅភាគឦសានត្រូវបានគេរំពឹងថានឹងលើសពី ១០០ អង្សាហ្វារិនហៃនៅចុងសប្តាហ៍នេះ វាមិនទាន់ច្បាស់ទេថាតើមានមនុស្សប៉ុន្មាននាក់នឹងប្រថុយចេញទៅចូលរួមពិធីបុណ្យខួប ២៥០ ឆ្នាំរបស់អាមេរិកដ៏ធំនេះ។",
+      "structure": "រចនាសម្ព័ន្ធ With (With temperatures expected...) + ប្រយោគដើម (it's not clear) + ប្រយោគប្រធាន (how many people...)",
+      "analysis": "'With temperatures expected to top...' ជា independent genitive structure បង្ហាញពីមូលហេតុ។ 'venture out' មានន័យថា 'ប្រថុយចេញទៅ'។ សញ្ញាដកវែងបង្ហាញពីការផ្អាកសំឡេង។"
+    },
+    {
+      "en": "In Philly, officials shortened the route of a Thursday morning parade, canceled an afternoon All-American Block Party, and pushed back the start time of an evening picnic and concert at Independence Mall.",
+      "cn": "នៅទីក្រុងហ្វីឡាដែលហ្វៀ មន្ត្រីបានកាត់បន្ថយផ្លូវដង្ហែពេលព្រឹកថ្ងៃព្រហស្បតិ៍ លុបចោលពិធីជប់លៀងសង្កាត់ទូទាំងទីក្រុងនៅពេលរសៀល និងពន្យារពេលចាប់ផ្តើមកម្មវិធីអាហារពេលល្ងាច និងការប្រគុំតន្ត្រីនៅឯមជ្ឈមណ្ឌលផ្សារទំនើបឯករាជ្យនៅពេលល្ងាច។",
+      "structure": "កន្សោមទីកន្លែង (In Philly) + ប្រយោគដើម (officials shortened..., canceled..., and pushed back...) កិរិយាសព្ទបីផ្សំគ្នា",
+      "analysis": "កន្សោមកិរិយាសព្ទបី (shortened, canceled, pushed back) បង្កើតជា parallelism បង្ហាញពីវិធានការកែសម្រួលជាបន្តបន្ទាប់។ 'pushed back' មានន័យថា 'ពន្យារពេល'។"
+    },
+    {
+      "en": "A former Olympic canoeist has been indicted by a grand jury for allegedly vandalizing it.",
+      "cn": "អតីតកីឡាករជិះទូកកាយ៉ាក់អូឡាំពិកម្នាក់ត្រូវបានគណៈវិនិច្ឆ័យធំចោទប្រកាន់ពីបទសង្ស័យបំផ្លាញវា។",
+      "structure": "ប្រយោគដើម (A former Olympic canoeist has been indicted) + កន្សោមវិធី (by a grand jury) + កន្សោមមូលហេតុ (for allegedly vandalizing it)",
+      "analysis": "'has been indicted' គឺជាសំឡេងអកម្មនៃ Present Perfect ។ 'for allegedly vandalizing it' ពាក្យ 'allegedly' មានន័យថា 'តាមការចោទប្រកាន់' បង្ហាញពីវត្ថុភាពនៃព័ត៌មាន។"
+    },
+    {
+      "en": "And we will not allow our sacred monuments to be roped off, defaced or diminished, or in any way impacted by disgruntled individuals who think that they, and not the rest of the nation, have the right to decide what should happen.",
+      "cn": "យើងនឹងមិនអនុញ្ញាតឱ្យវិមានដ៏ពិសិដ្ឋរបស់យើងត្រូវបានហ៊ុមព័ទ្ធ ធ្វើឱ្យខូច បន្ថយតម្លៃ ឬរងផលប៉ះពាល់តាមមធ្យោបាយណាមួយដោយបុគ្គលដែលមិនពេញចិត្ត ដែលគិតថាពួកគេ -- មិនមែនប្រជាជនដទៃទៀតនៃប្រទេស -- មានសិទ្ធិសម្រេចថាតើគួរកើតឡើងអ្វីខ្លះ។",
+      "structure": "ប្រយោគចម្បង (we will not allow...) + កម្មបំពេញបន្ថែម (to be roped off, defaced or diminished, or impacted) + ប្រយោគគុណនាម (who think that...) + ប្រយោគគុណនាម (that they... have the right to decide...) + ពាក្យបញ្ចូល (and not the rest of the nation)",
+      "analysis": "ប្រយោគវែងមានកិរិយាសព្ទអតីតកាលច្រើន (roped off, defaced, diminished, impacted) និងប្រយោគរណបច្រើន។ 'disgruntled' មានន័យថា 'មិនពេញចិត្ត'។ ពាក្យបញ្ចូល 'and not the rest of the nation' សង្កត់ធ្ងន់លើការប្រៀបធៀប។"
+    },
+    {
+      "en": "And I think it probably is now -- you probably have tourists now visiting the Reflecting Pool more than they probably have because of the news coverage from it.",
+      "cn": "ខ្ញុំគិតថាឥឡូវនេះប្រហែលជា -- ដោយសារតែការផ្សាយព័ត៌មាន អ្នកទស្សនាទៅកាន់អាងទឹក Reflection Pool ឥឡូវនេះប្រហែលជាច្រើនជាងមុន។",
+      "structure": "ប្រយោគចម្បង (I think) + ប្រយោគគុណនាម (it probably is now...) + ពាក្យបញ្ចូល (you probably have tourists...) + ប្រយោគហេតុផល (because of the news coverage)",
+      "analysis": "ការបញ្ចេញមតិបែបពាក្យសំដី សញ្ញាដកឃ្លាបង្ហាញពីការផ្លាស់ប្តូរគំនិត។ 'more than they probably have' ជារចនាសម្ព័ន្ធប្រៀបធៀប ដោយលុបពាក្យ 'visited'។"
+    },
+    {
+      "en": "But the issue seems to be that the president is thinking about it and caring about it a lot.",
+      "cn": "ប៉ុន្តែបញ្ហាហាក់ដូចជាប្រធានាធិបតីគិតច្រើនអំពីរឿងនេះ ហើយយកចិត្តទុកដាក់ផងដែរ។",
+      "structure": "ប្រយោគចម្បង (the issue seems to be) + ប្រយោគគុណនាម (that the president is thinking... and caring...)",
+      "analysis": "'seems to be that' នាំប្រយោគគុណនាម។ 'thinking about it and caring about it' ជាក្រុមកិរិយាសព្ទពីរដែលស្របគ្នា សង្កត់ធ្ងន់លើការយកចិត្តទុកដាក់របស់ប្រធានាធិបតី។"
+    },
+    {
+      "en": "And he spent quite a lot of time on it at a time in this period where we've been at war, where we continue to have whatever is going on in Iran at this point, even with the agreements to supposedly stop fighting.",
+      "cn": "ហើយគាត់បានចំណាយពេលច្រើនលើរឿងនេះក្នុងអំឡុងពេលដែលយើងកំពុងមានសង្គ្រាម យើងនៅតែមានព្រឹត្តិការណ៍ផ្សេងៗលើបញ្ហាអ៊ីរ៉ង់ ទោះបីជាមានកិច្ចព្រមព្រៀងដែលត្រូវបានចោទប្រកាន់ថាអាចបញ្ឈប់ការប្រយុទ្ធក៏ដោយ។",
+      "structure": "ប្រយោគចម្បង (he spent quite a lot of time on it) + ប្រយោគពេលវេលា (at a time) + ប្រយោគគុណនាម (where we've been at war, where we continue to have...) + ប្រយោគប្រឆាំង (even with the agreements...)",
+      "analysis": "ប្រយោគគុណនាមពីរដែលចាប់ផ្តើមដោយ 'where' កែប្រែ 'time' បង្ហាញពីបរិបទច្រើន។ 'whatever is going on' ជាប្រយោគនាមធ្វើជាកម្ម។ 'supposedly' មានន័យថា 'តាមការចោទប្រកាន់'។"
+    },
+    {
+      "en": "And that is confusing to a lot of people, I think, when they see that this is -- look, it's a reflection.",
+      "cn": "ខ្ញុំគិតថា ពេលដែលមនុស្សឃើញរឿងនេះ -- មើល វាគ្រាន់តែជាការឆ្លុះ -- វាធ្វើឱ្យមនុស្សជាច្រើនយល់ច្រឡំ។",
+      "structure": "ប្រយោគចម្បង (that is confusing) + ពាក្យបញ្ចូល (I think) + ប្រយោគពេលវេលា (when they see that...) + ពាក្យសម្រង់ផ្ទាល់ (look, it's a reflection)",
+      "analysis": "ការបញ្ចេញមតិបែបពាក្យសំដី 'I think' ជាពាក្យបញ្ចូល។ 'that this is -- look, it's a reflection' សញ្ញាដកឃ្លាបង្ហាញពីការកែតម្រូវខ្លួនឯង ឬការសង្កត់ធ្ងន់របស់អ្នកនិយាយ។"
+    },
+    {
+      "en": "And what's going to happen on Saturday night on July 4th, is that on the National Mall, the president is going to give a rally speech basically.",
+      "cn": "ហើយអ្វីដែលនឹងកើតឡើងនៅយប់ថ្ងៃសៅរ៍ទី 4 ខែកក្កដា គឺនៅលើ National Mall ប្រធានាធិបតីនឹងថ្លែងសុន្ទរកថាប្រមូលផ្តុំ។",
+      "structure": "ប្រយោគនាម (what's going to happen...) + កិរិយាសព្ទ (is) + ប្រយោគគុណនាម (that on the National Mall, the president is going to give...)",
+      "analysis": "'what's going to happen' ជាប្រយោគនាម។ 'basically' ជាគុណកិរិយា មានន័យថា 'ជាមូលដ្ឋាន' កែប្រែប្រយោគគុណនាមទាំងមូល។"
+    },
+    {
+      "en": "And because of that rally speech, not only is it going to be hot, but it's going to push the fireworks to later at night.",
+      "cn": "ដោយសារតែសុន្ទរកថាប្រមូលផ្តុំនោះ មិនត្រឹមតែអាកាសធាតុនឹងក្តៅប៉ុណ្ណោះទេ ប៉ុន្តែការបាញ់កាំជ្រួចនឹងត្រូវពន្យារពេលទៅពេលយប់ជ្រៅ។",
+      "structure": "ប្រយោគហេតុផល (because of that rally speech) + រចនាសម្ព័ន្ធស្របគ្នា (not only... but also...)",
+      "analysis": "'not only... but...' ភ្ជាប់ប្រយោគពីរដែលស្របគ្នា ហើយ 'not only' នៅដើមប្រយោគបណ្តាលឱ្យមានការបញ្ច្រាសផ្នែកខ្លះ (is it going to be hot)។ 'push... to later' មានន័យថា 'ពន្យារពេលទៅពេលក្រោយ'។"
+    },
+    {
+      "en": "And instead, families are making the decision, again, because of the heat, but because it doesn't seem like the fireworks will start until after 11 p.m.",
+      "cn": "ផ្ទុយទៅវិញ គ្រួសារកំពុងសម្រេចចិត្ត ម្តងទៀតដោយសារតែកម្តៅ ប៉ុន្តែក៏ដោយសារតែកាំជ្រួចហាក់ដូចជាមិនចាប់ផ្តើមរហូតដល់ក្រោយម៉ោង 11 យប់។",
+      "structure": "ប្រយោគចម្បង (families are making the decision) + ពាក្យបញ្ចូល (again) + ប្រយោគហេតុផល (because of the heat, but because...)",
+      "analysis": "'again' ជាពាក្យបញ្ចូល មានន័យថា ធ្វើម្តងទៀត។ 'because of... but because...' ភ្ជាប់មូលហេតុពីរ ទីពីរជាប្រយោគពេញលេញ។ 'it doesn't seem like' ជាកន្សោមពាក្យសាមញ្ញ ស្មើនឹង 'it seems that... not'។"
+    },
+    {
+      "en": "And the Trump administration, when they came in, they said, look, we don't think this group is doing a good job.",
+      "cn": "ហើយរដ្ឋាភិបាល Trump បាននិយាយពេលចូលកាន់តំណែងថា មើល យើងគិតថាក្រុមនេះមិនដំណើរការល្អទេ។",
+      "structure": "ប្រយោគចម្បង (the Trump administration said) + ប្រយោគរងបញ្ជាក់ពេលវេលា (when they came in) + សម្រង់ពាក្យផ្ទាល់ (look, we don't think...)",
+      "analysis": "'when they came in' ជាប្រយោគរងបញ្ជាក់ពេលវេលា 'they' សំដៅលើរដ្ឋាភិបាល Trump។ 'look' ជាពាក្យឧទានក្នុងការនិយាយ ដើម្បីទាក់ទាញចំណាប់អារម្មណ៍។"
+    },
+    {
+      "en": "And some of those packages are facetime; like a photo with the president.",
+      "cn": "កញ្ចប់ខ្លះក្នុងចំណោមនោះរួមមានឱកាសជួបផ្ទាល់; ដូចជាថតរូបជាមួយប្រធានាធិបតី។",
+      "structure": "ប្រយោគចម្បង (some of those packages are facetime) + ឧទាហរណ៍ (like a photo with the president)",
+      "analysis": "'facetime' នៅទីនេះមានន័យថា 'ឱកាសជួបផ្ទាល់' មិនមែនការហៅវីដេអូទេ។ សញ្ញាក្បៀសភ្ជាប់ពីរផ្នែក ផ្នែកទីពីរបង្ហាញឧទាហរណ៍។"
+    }
+  ],
+  "topics": [
+    {
+      "title": "ភាពចម្រូងចម្រាសនៃពិធីអបអរសាទរខួប 250 ឆ្នាំអាមេរិក",
+      "content": "ពិធីអបអរសាទរខួប 250 ឆ្នាំអាមេរិក (America 250) បណ្តាលឱ្យមានការបែងចែកនយោបាយដោយសារសកម្មភាព 'Freedom 250' ដែលដឹកនាំដោយរដ្ឋាភិបាល Trump។ អ្នករិះគន់ចាត់ទុកថាសកម្មភាពនេះជា 'គម្រោងមុខ' (vanity project) របស់ Trump ខណៈអ្នកគាំទ្រសង្កត់ធ្ងន់លើការរួបរួមជាតិ។ ពិធីនេះរួមមានកាំជ្រួចនៅ National Mall និងសុន្ទរកថារបស់ប្រធានាធិបតី ប៉ុន្តែប្រឈមនឹងបញ្ហាដោយសារកម្តៅខ្ពស់ និងសន្តិសុខ។",
+      "keywords": "America 250 · Freedom 250 · vanity project"
+    },
+    {
+      "title": "រឿងអាស្រូវជួសជុលស្រះទឹក Lincoln Memorial Reflecting Pool",
+      "content": "ការជួសជុលស្រះទឹក Lincoln Memorial Reflecting Pool ដោយរដ្ឋាភិបាល Trump បណ្តាលឱ្យមានភាពចម្រូងចម្រាស។ ការជួសជុលប្រើសារធាតុផ្សាភ្ជាប់ពណ៌ខៀវ (sealant) ដែលបណ្តាលឱ្យរបក ហើយកិច្ចសន្យាត្រូវបានចោទប្រកាន់ថាគ្មានការដេញថ្លៃ (no-bid process)។ អតីតកីឡាករកាណូអូឡាំពិកម្នាក់ត្រូវបានចាប់ខ្លួនពីបទបំផ្លាញ។ កាលពីសម័យ Obama ក៏ធ្លាប់ជួសជុលដែរ ប៉ុន្តែមានបញ្ហាដដែលៗ។",
+      "keywords": "Reflecting Pool · no-bid process · sealant"
+    },
+    {
+      "title": "កម្តៅខ្លាំងប៉ះពាល់ពិធីបុណ្យឯករាជ្យ",
+      "content": "ភាគឦសាននៃសហរដ្ឋអាមេរិកប្រឈមនឹងកម្តៅខ្លាំង (extreme heat) សីតុណ្ហភាពរំពឹងថាលើសពី 100 អង្សាហ្វារិនហៃ (ប្រហែល 38 អង្សាសេ) ដែលបង្ខំឱ្យតំបន់ជាច្រើនកែប្រែពិធីបុណ្យឯករាជ្យ។ ទីក្រុង Boston ប្តូរកម្មវិធីកាំជ្រួចមកម៉ោង 4 រសៀល ទីក្រុង Philadelphia កាត់បន្ថយផ្លូវដង្ហែ និងលុបចោលសកម្មភាពក្រៅ។ កាំជ្រួចនៅ National Mall ត្រូវបានពន្យារពេលដល់ក្រោយម៉ោង 11 យប់ ដោយសារសុន្ទរកថាប្រធានាធិបតី។",
+      "keywords": "extreme heat · Fourth of July · fireworks"
+    },
+    {
+      "title": "ពិធីមង្គលការ Taylor Swift និង Travis Kelce",
+      "content": "ចុងសប្តាហ៍នេះជាពិធីមង្គលការរបស់តារាចម្រៀងប៉ុប Taylor Swift និងតារា NFL Travis Kelce ដែលអ្នកគាំទ្រហៅថា 'ពិធីមង្គលការរាជវង្សអាមេរិក' (American royal wedding)។ ពិធីមង្គលការនេះក្លាយជាចំណុចសំខាន់របស់ប្រព័ន្ធផ្សព្វផ្សាយ ផ្ទុយពីពិធីបុណ្យជាតិ។",
+      "keywords": "Taylor Swift · Travis Kelce · American royal wedding"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "ពាក្យ 'vanity project' ក្នុងអត្ថបទដើមមានន័យជិតបំផុតនឹងអ្វី?\n(អត្ថបទដើម៖ 'Freedom 250 is his vanity project.')",
+      "options": [
+        "A. គម្រោងសប្បុរសធម៌",
+        "B. គម្រោងមុខ",
+        "C. គម្រោងសហការ",
+        "D. គម្រោងសម្ងាត់"
+      ],
+      "answer": 1,
+      "explanation": "vanity project សំដៅលើគម្រោងដែលធ្វើឡើងដើម្បីបំពេញចិត្តអំនួតផ្ទាល់ខ្លួន ឬលើកកម្ពស់រូបភាព ជាញឹកញាប់មានន័យអវិជ្ជមាន។ ក្នុងអត្ថបទដើម អ្នករិះគន់ចាត់ទុក Freedom 250 ជា vanity project របស់ Trump មានន័យថា 'គម្រោងមុខ'។"
+    },
+    {
+      "type": "vocab",
+      "question": "ឃ្លា 'no-bid process' ក្នុងអត្ថបទមានន័យដូចម្តេច?\n(អត្ថបទដើម៖ 'It didn't go through a no-bid process for contracts.')",
+      "options": [
+        "A. ការដេញថ្លៃជាសាធារណៈ",
+        "B. ការចុះកិច្ចសន្យាផ្ទាល់ដោយគ្មានការដេញថ្លៃ",
+        "C. ការដេញថ្លៃច្រើនដង",
+        "D. ការដេញថ្លៃសម្ងាត់"
+      ],
+      "answer": 1,
+      "explanation": "no-bid process សំដៅលើការផ្តល់កិច្ចសន្យាដោយផ្ទាល់ដោយគ្មានការដេញថ្លៃប្រកួតប្រជែង ដែលជារឿយៗត្រូវបានរិះគន់ថាខ្វះតម្លាភាព។ អត្ថបទប្រៀបធៀបការជួសជុលសម័យលោកអូបាម៉ា (មានការដេញថ្លៃ) និងសម័យលោកត្រាំ។"
+    },
+    {
+      "type": "vocab",
+      "question": "តើ 'flashpoint' ក្នុងអត្ថបទសំដៅលើអ្វី?\n(អត្ថបទដើម៖ 'Instead, it has become a flashpoint.')",
+      "options": [
+        "A. ចំណុចភ្លឺ",
+        "B. ចំណុចផ្ទុះ",
+        "C. ចំណុចបត់",
+        "D. ចំណុចសំខាន់"
+      ],
+      "answer": 1,
+      "explanation": "flashpoint ដើមឡើយមានន័យថាចំណុចឆេះ ប៉ុន្តែក្នុងន័យធៀប វាសំដៅលើចំណុចផ្ទុះជម្លោះ ឬភាពចម្រូងចម្រាស។ ក្នុងអត្ថបទ អាងទឹក Reflection Pool ក្លាយជា flashpoint នៃភាពចម្រូងចម្រាសខាងនយោបាយ។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើអ្វីជាភាពខុសគ្នាសំខាន់រវាងការជួសជុល Reflection Pool របស់លោកត្រាំ និងសម័យលោកអូបាម៉ា?",
+      "options": [
+        "A. លោកត្រាំប្រើសម្ភារៈថ្លៃជាង",
+        "B. កិច្ចសន្យារបស់លោកត្រាំមិនបានធ្វើការដេញថ្លៃទេ",
+        "C. គម្រោងរបស់លោកអូបាម៉ាជោគជ័យជាង",
+        "D. គម្រោងរបស់លោកត្រាំបញ្ចប់មុនកាលកំណត់"
+      ],
+      "answer": 1,
+      "explanation": "អត្ថបទបញ្ជាក់ថា ការជួសជុលសម័យលោកអូបាម៉ាត្រូវបានផ្តល់ថវិកាតាមរយៈកញ្ចប់ជំរុញសេដ្ឋកិច្ច និងធ្វើការដេញថ្លៃ រីឯការជួសជុលរបស់លោកត្រាំប្រើកិច្ចសន្យាគ្មានការដេញថ្លៃ (no-bid process) ហើយដោយសារកំណត់ពេលផ្ទាល់ខ្លួន ធ្វើឱ្យសារធាតុផ្សាភ្ជាប់របក។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើកម្តៅខ្លាំងប៉ះពាល់ដល់ការប្រារព្ធទិវាឯករាជ្យយ៉ាងដូចម្តេច?",
+      "options": [
+        "A. រាល់សកម្មភាពត្រូវបានលុបចោល",
+        "B. ការបាញ់កាំជ្រួចនៅបូស្តុនត្រូវបានប្តូរទៅម៉ោង 4 រសៀល",
+        "C. កាំជ្រួចនៅវ៉ាស៊ីនតោនត្រូវបានប្តូរមុន",
+        "D. ទីក្រុង Philadelphia បង្កើនសកម្មភាពក្រៅផ្ទះ"
+      ],
+      "answer": 1,
+      "explanation": "អត្ថបទបញ្ជាក់ថា កម្មវិធី Pops Fireworks Spectacular នៅបូស្តុនត្រូវបានប្តូរពីថ្ងៃត្រង់ទៅម៉ោង 4 រសៀល; ទីក្រុងហ្វីឡាដែលហ្វៀកាត់បន្ថយផ្លូវដង្ហែ លុបចោលសកម្មភាពពេលរសៀល និងពន្យារពេលការប្រគំតន្ត្រី។ កាំជ្រួចនៅវ៉ាស៊ីនតោនត្រូវបានពន្យារពេលរហូតដល់ក្រោយម៉ោង 11 យប់ ដោយសារសុន្ទរកថារបស់ប្រធានាធិបតី។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើអត្ថបទបង្ហាញទស្សនៈអ្វីខ្លះអំពីពិធីមង្គលការរបស់ Taylor Swift?",
+      "options": [
+        "A. ពិធីមង្គលការមិនទាក់ទងនឹងពិធីបុណ្យជាតិទេ",
+        "B. ពិធីមង្គលការត្រូវបានគេហៅថាជាពិធីមង្គលការរាជវង្សអាមេរិក",
+        "C. ពិធីមង្គលការត្រូវបានគេរិះគន់ថាខ្ជះខ្ជាយ",
+        "D. ពិធីមង្គលការត្រូវបានប្រារព្ធឡើងនៅទីក្រុង Washington"
+      ],
+      "answer": 1,
+      "explanation": "អត្ថបទបានដកស្រង់សម្តីអ្នកគាំទ្រដែលហៅពិធីមង្គលការថាជា 'American royal wedding' ហើយបានដាក់វាស្របគ្នានឹងពិធីបុណ្យជាតិ ដែលជាចំណុចផ្តោតមួយទៀតនៃការយកចិត្តទុកដាក់របស់ប្រព័ន្ធផ្សព្វផ្សាយ។"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "In New York, crowds in Times Square got an awesome display from the Marines' silent drill platoon. The 24 Marines carried out their trademark rifle routine in perfect sync and without verbal commands, wowing the crowd. This is all part of the celebrations for America's 250th birthday. We have a lot that we'll continue to track over the coming days in that celebration, of course. That does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "នៅទីក្រុងញូវយ៉ក ហ្វូងមនុស្សនៅ Times Square បានរីករាយនឹងការសម្តែងដ៏អស្ចារ្យរបស់ក្រុម Silent Drill Platoon នៃកងម៉ារីន។ ទាហានម៉ារីន 24 នាក់បានធ្វើសមយុទ្ធកាំភ្លើងដ៏ល្បីរបស់ពួកគេដោយគ្មានការបញ្ជាដោយពាក្យសំដី ដោយធ្វើឱ្យទស្សនិកជនភ្ញាក់ផ្អើល។ នេះជាផ្នែកមួយនៃការប្រារព្ធខួប 250 ឆ្នាំរបស់សហរដ្ឋអាមេរិក។ ជាការពិតណាស់ នៅប៉ុន្មានថ្ងៃខាងមុខ យើងនឹងបន្តតាមដានព្រឹត្តិការណ៍ជាច្រើននៃការប្រារព្ធពិធីនេះ។ CNN Headlines បញ្ចប់ត្រឹមនេះ។ ខ្ញុំគឺ Brad Smith។ កម្មវិធី CNN This Morning ដែលដឹកនាំដោយ Audie Cornish ចាប់ផ្តើមឥឡូវនេះ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Today in the group chat, on the eve of America's 250th birthday, are Trump's celebrations in the capital pushing us further apart?",
+      "cn": "ថ្ងៃនេះនៅក្នុងការជជែកជាក្រុម មុនខួប 250 ឆ្នាំរបស់សហរដ្ឋអាមេរិក តើការប្រារព្ធពិធីរបស់លោក Trump នៅរដ្ឋធានីធ្វើឱ្យយើងបែកបាក់គ្នាកាន់តែខ្លាំងឬទេ?"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "Freedom 250 is his vanity project.",
+      "cn": "Freedom 250 គឺជាគម្រោងឥតប្រយោជន៍របស់គាត់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Extreme and punishing heat. Will the dangerous weather scorch Fourth of July celebrations? And those Empire State Building climbers now facing federal charges? Why they say they pulled off the death-defying stunt. And it's the big day. Taylor Swift and Travis Kelce reportedly set to get married tonight. The final preparations for the event of the season.",
+      "cn": "កំដៅខ្លាំង និងគ្រោះថ្នាក់។ តើអាកាសធាតុគ្រោះថ្នាក់នឹងបំផ្លាញការប្រារព្ធពិធីទី 4 ខែកក្កដាដែរឬទេ? អ្នកឡើងអគារ Empire State ឥឡូវនេះប្រឈមនឹងការចោទប្រកាន់សហព័ន្ធ? ហេតុអ្វីបានជាពួកគេអះអាងថាបានបញ្ចប់ស្នាដៃដ៏ប្រថុយប្រថាននេះ? ហើយថ្ងៃនេះជាថ្ងៃធំ។ យោងតាមរបាយការណ៍ Taylor Swift និង Travis Kelce នឹងរៀបការនៅយប់នេះ។ ការរៀបចំចុងក្រោយសម្រាប់ព្រឹត្តិការណ៍ដ៏ធំនៃរដូវកាលនេះ។"
+    },
+    {
+      "speaker": "Smitty Kovach",
+      "text": "This is like an all-time wedding. I mean this is like the American royal wedding.",
+      "cn": "នេះគឺជាពិធីមង្គលការនៃសតវត្សរ៍។ ខ្ញុំចង់និយាយថា វាដូចជាពិធីមង្គលការរាជវង្សអាមេរិក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "On the eve of America's 250th birthday bash, the heat is on. Good morning, everybody. I'm Audie Cornish. We're going to start with a celebration that may be wilting in the blistering summer sun. With temperatures expected to top 100 degrees this weekend in the Northeast, it's now -- it's not clear how many people will actually venture out for the big America 250 celebration. Turnout is already low in D.C. Other cities are making last-minute adjustments.",
+      "cn": "នៅមុនពិធីបុណ្យខួប 250 ឆ្នាំរបស់សហរដ្ឋអាមេរិក រលកកម្តៅបានមកដល់។ សួស្តីព្រឹក។ ខ្ញុំគឺ Audie Cornish។ យើងចាប់ផ្តើមជាមួយនឹងការប្រារព្ធពិធីដែលអាចនឹងក្រៀមក្រំក្រោមពន្លឺថ្ងៃដ៏ក្តៅ។ ដោយសារសីតុណ្ហភាពនៅភាគឦសានត្រូវបានគេរំពឹងថានឹងលើសពី 100 អង្សាហ្វារិនហៃនៅចុងសប្តាហ៍នេះ វាមិនទាន់ច្បាស់ថាតើមានមនុស្សប៉ុន្មាននាក់នឹងប្រថុយចូលរួមក្នុងពិធីបុណ្យខួប 250 ឆ្នាំរបស់សហរដ្ឋអាមេរិកដ៏ធំនេះ។ ចំនួនអ្នកចូលរួមនៅវ៉ាស៊ីនតោនឌីស៊ីមានកម្រិតទាបរួចទៅហើយ។ ទីក្រុងផ្សេងទៀតកំពុងធ្វើការកែសម្រួលនាទីចុងក្រោយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In my hometown of Boston, the Pops Fireworks Spectacular will now start at 4 p.m. instead of noon on Saturday. In Philly, officials shortened the route of a Thursday morning parade, canceled an afternoon All-American Block Party, and pushed back the start time of an evening picnic and concert at Independence Mall. Now, of course, it wouldn't be a party here without politics. And we're talking about the Reflecting Pool in front of the Lincoln Memorial, which was supposed to be the centerpiece of America 250.",
+      "cn": "នៅស្រុកកំណើតរបស់ខ្ញុំគឺបូស្តុន ពិធីបាញ់កាំជ្រួចដ៏ពេញនិយមនឹងចាប់ផ្តើមនៅម៉ោង 4 រសៀលថ្ងៃសៅរ៍ ជំនួសឱ្យពេលថ្ងៃត្រង់។ នៅទីក្រុងហ្វីឡាដែលហ្វៀ មន្ត្រីបានកាត់បន្ថយផ្លូវដង្ហែរពេលព្រឹកថ្ងៃព្រហស្បតិ៍ លុបចោលពិធីជប់លៀងសង្កាត់ទូទាំងទីក្រុងនៅពេលរសៀល និងពន្យារពេលចាប់ផ្តើមការប្រគុំតន្ត្រី និងពិធីជប់លៀងពេលល្ងាចនៅ Independence Square។ ជាការពិតណាស់ គ្មានពិធីជប់លៀងណាដែលគ្មាននយោបាយទេ។ យើងកំពុងនិយាយអំពីអាងទឹក Lincoln Memorial ដែលត្រូវបានគេសន្មត់ថាជាចំណុចកណ្តាលនៃខួប 250 ឆ្នាំរបស់សហរដ្ឋអាមេរិក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Instead, it has become a flashpoint. A former Olympic canoeist has been indicted by a grand jury for allegedly vandalizing it.",
+      "cn": "ផ្ទុយទៅវិញ វាបានក្លាយជាចំណុចផ្ទុះ។ អតីតកីឡាករជិះទូកកាយ៉ាក់អូឡាំពិកម្នាក់ត្រូវបានចោទប្រកាន់ដោយគណៈវិនិច្ឆ័យធំពីបទបំផ្លាញអាងទឹកនេះ។"
+    },
+    {
+      "speaker": "Jeanine Pirro",
+      "text": "And we will not allow our sacred monuments to be roped off, defaced or diminished, or in any way impacted by disgruntled individuals who think that they, and not the rest of the nation, have the right to decide what should happen.",
+      "cn": "យើងនឹងមិនអនុញ្ញាតឱ្យវិមានដ៏ពិសិដ្ឋរបស់យើងត្រូវបានរារាំង បំផ្លាញ ឬចុះខ្សោយ ឬរងផលប៉ះពាល់តាមមធ្យោបាយណាមួយដោយបុគ្គលដែលមិនពេញចិត្តដែលគិតថាពួកគេ -- -- មិនមែនប្រជាជនដទៃទៀតនៃប្រទេសនេះ -- -- មានសិទ្ធិសម្រេចថាតើអ្វីគួរកើតឡើងនោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, today in the group chat, Isaac Dovere, CNN senior reporter; Xochiti Hinojosa, CNN political commentator and former director of public affairs at the DOJ; and Jesse Arm, pollster and vice president of external affairs at the Manhattan Institute.",
+      "cn": "ដូច្នេះ ថ្ងៃនេះនៅក្នុងការជជែកជាក្រុម មានអ្នកយកព័ត៌មានជាន់ខ្ពស់ CNN Isaac Dover; អ្នកអត្ថាធិប្បាយនយោបាយ CNN និងអតីតនាយកកិច្ចការសាធារណៈនៃក្រសួងយុត្តិធម៌ Xochitl Hinojosa; និងអ្នកជំនាញស្ទង់មតិ និងអនុប្រធានកិច្ចការខាងក្រៅនៃវិទ្យាស្ថាន Manhattan Jesse Arm។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, I would say it's not like we think people are laying in bed at night being like, \"The Reflecting Pool, what went wrong?\" It's more like, what is the symbolism of this thing? And Jesse, I want to turn to you, because you were pointing out something that I saw and noticed, as well, which is that back in 2010, using money for the economic stimulus program, the Obama administration did a renovation -- structural renovation of the Reflecting Pool. And people completely flipped out. It didn't go well.",
+      "cn": "ដូច្នេះ ខ្ញុំគិតថាមិនមែនថាមនុស្សដេកលើគ្រែហើយគិតថា 'អាងទឹក មានបញ្ហាអ្វី?' ទេ។ វាដូចជា តើនិមិត្តសញ្ញានៃរឿងនេះគឺជាអ្វី? Jesse ខ្ញុំចង់ឱ្យអ្នកនិយាយ ព្រោះអ្នកបានចង្អុលបង្ហាញពីអ្វីដែលខ្ញុំក៏បានកត់សម្គាល់ដែរ គឺតាំងពីឆ្នាំ 2010 រដ្ឋបាល Obama បានប្រើប្រាស់ថវិកាពីកញ្ចប់ជំរុញសេដ្ឋកិច្ចដើម្បីជួសជុលអាងទឹកនេះជាលក្ខណៈរចនាសម្ព័ន្ធ។ លទ្ធផលគឺមនុស្សខឹងសម្បារយ៉ាងខ្លាំង។ ការជួសជុលនោះមិនបានល្អទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It took two years. What's different about this one?",
+      "cn": "ការជួសជុលនោះចំណាយពេលពីរឆ្នាំ។ តើអ្វីខុសគ្នានៅពេលនេះ?"
+    },
+    {
+      "speaker": "Jesse Arm",
+      "text": "Well, yes, two-year renovation, I think $34 million spent. And it didn't go so well. I think you can find a CNN segment from, like, 2012 talking about how there's algae still in the pool.",
+      "cn": "អញ្ចឹង បាទ ការជួសជុលពីរឆ្នាំ ខ្ញុំគិតថាចំណាយ 34 លានដុល្លារ។ ហើយវាមិនល្អទេ។ ខ្ញុំគិតថាអ្នកអាចរកឃើញរបាយការណ៍ CNN ពីឆ្នាំ 2012 ដែលនិយាយអំពីសារាយនៅក្នុងអាងទឹក។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "So, this is a difficult problem to solve. I've spent -- you know, we've all spent, I think, a lot of time talking about it. But I do think, to some extent, this is a little bit of, like, maybe cable news directing the conversation toward where we want a lot of the outrage to go and be. I don't see, like, the animating force in even Democratic politics right now being about the Reflecting Pool. My mom watches a lot of cable news.",
+      "cn": "ដូច្នេះ វាជាបញ្ហាពិបាកដោះស្រាយ។ ខ្ញុំបានចំណាយ -- -- អ្នកដឹងទេ យើងទាំងអស់គ្នាបានចំណាយពេលច្រើនពិភាក្សាអំពីវា។ ប៉ុន្តែខ្ញុំពិតជាគិតថា ក្នុងកម្រិតខ្លះ វាដូចជាព័ត៌មានខ្សែកាបកំពុងដឹកនាំការយល់ឃើញ ដោយដឹកនាំកំហឹងរបស់មនុស្សគ្រប់គ្នាទៅកាន់ទិសដៅដែលយើងចង់បាន។ ខ្ញុំមិនគិតថាឥឡូវនេះចលនាស្នូលនៃនយោបាយប្រជាធិបតេយ្យគឺអំពីអាងទឹកនោះទេ។ ម្តាយរបស់ខ្ញុំមើលព័ត៌មានខ្សែកាបច្រើន។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "She doesn't like Trump. I'm sure she's very concerned about the algae this weekend.",
+      "cn": "គាត់មិនចូលចិត្ត Trump ទេ។ ខ្ញុំប្រាកដថានៅចុងសប្តាហ៍នេះគាត់ព្រួយបារម្ភយ៉ាងខ្លាំងអំពីបញ្ហាសារាយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, then, let me ask this question before you try and make the segment not exist, because we're at the start of the show. One thing that's different is the economic stimulus program was paid for by the taxpayers, right? It didn't go through a no-bid process for contracts. The blue sealant that is peeling off is only put there because Trump thought it would look better ahead of America 250. So again, self- imposed deadline, self-imposed issue. Is it a self-own?",
+      "cn": "ដូច្នេះ មុនពេលអ្នកព្យាយាមធ្វើឱ្យផ្នែកនេះបាត់ទៅ សូមឱ្យខ្ញុំសួរសំណួរមួយ ព្រោះកម្មវិធីទើបតែចាប់ផ្តើម។ ភាពខុសគ្នាមួយគឺថា កញ្ចប់ជំរុញសេដ្ឋកិច្ចត្រូវបានបង់ដោយអ្នកជាប់ពន្ធ មែនទេ? កិច្ចសន្យាមិនត្រូវបានដេញថ្លៃទេ។ ឥឡូវនេះ សារធាតុស៊ីលីកុនពណ៌ខៀវដែលកំពុងរបកត្រូវបានលាបដោយសារតែ Trump គិតថាវានឹងធ្វើឱ្យអាងទឹកមើលទៅល្អជាងមុនសម្រាប់ខួប 250 ឆ្នាំរបស់សហរដ្ឋអាមេរិក។ ដូច្នេះ កាលបរិច្ឆេទកំណត់ដែលកំណត់ដោយខ្លួនឯង បញ្ហាដែលបង្កើតដោយខ្លួនឯង។ តើនេះជាការធ្វើបាបខ្លួនឯងទេ?"
+    },
+    {
+      "speaker": "Xochiti Hinojosa",
+      "text": "Well, and I think part of it -- I think you're right that I don't think Americans are sitting around thinking about the Reflecting Pool in Washington,",
+      "cn": "អញ្ចឹង ខ្ញុំគិតថាផ្នែកខ្លះ -- -- ខ្ញុំគិតថាអ្នកនិយាយត្រូវ ខ្ញុំមិនគិតថាជនជាតិអាមេរិកអង្គុយគិតអំពីអាងទឹកនៅវ៉ាស៊ីនតោនទេ។"
+    },
+    {
+      "speaker": "D.C. Cornish",
+      "text": "Yes. Remember when his motorcade was driving up the center --",
+      "cn": "បាទ។ ចាំពីពេលដែលក្បួនរថយន្តរបស់គាត់បើកកាត់កណ្តាល -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- of the Reflecting Pool.",
+      "cn": "-- -- កណ្តាលអាងទឹក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I was, like, why?",
+      "cn": "ខ្ញុំឆ្ងល់ថា ហេតុអ្វី?"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "And I think it probably is now -- you probably have tourists now visiting the Reflecting Pool more than they probably have because of the news coverage from it.",
+      "cn": "ហើយខ្ញុំគិតថាឥឡូវនេះវាអាចជាការពិត -- -- ដោយសារតែការរាយការណ៍ព័ត៌មាន ឥឡូវនេះអ្នកទស្សនាអាងទឹកប្រហែលជាច្រើនជាងមុន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Not closely, though, and don't touch it.",
+      "cn": "បាទ។ ប៉ុន្តែកុំចូលទៅជិតពេក ហើយកុំប៉ះវា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Jeanine Pirro is on it.",
+      "cn": "Jeanne Pirro កំពុងរាយការណ៍អំពីរឿងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That's them. Can we show that again? That's them.",
+      "cn": "គឺពួកគេហើយ។ តើអាចលេងម្តងទៀតបានទេ? គឺពួកគេហើយ។"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "-- may be -- may be prosecuted.",
+      "cn": "-- -- អាច -- -- អាចនឹងត្រូវប្តឹង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Getting ready. Raising awareness for an issue, as you said, that nobody asked for or cared about, which is, can the Reflecting Pool look bluer? And the motorcade went on there.",
+      "cn": "កំពុងរៀបចំ។ ការលើកកម្ពស់ការយល់ដឹងអំពីបញ្ហាមួយ ដូចដែលអ្នកបាននិយាយ ដែលគ្មាននរណាសុំ និងគ្មាននរណាខ្វល់ នោះគឺ៖ តើអាងទឹកឆ្លុះអាចក្លាយជាពណ៌ខៀវជាងនេះបានទេ? បន្ទាប់មកក្បួនរថយន្តក៏បើកឆ្លងកាត់។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "We keep saying Americans aren't thinking about this, aren't caring about it. But the issue seems to be that the president is thinking about it and caring about it a lot. And he spent quite a lot of time on it at a time in this period where we've been at war, where we continue to have whatever is going on in Iran at this point, even with the agreements to supposedly stop fighting. We've got inflation still high, jobs numbers yesterday that weren't great.",
+      "cn": "យើងតែងតែនិយាយថាជនជាតិអាមេរិកមិនខ្វល់ពីរឿងនេះ មិនចាប់អារម្មណ៍រឿងនេះទេ។ ប៉ុន្តែបញ្ហាហាក់ដូចជាប្រធានាធិបតីយកចិត្តទុកដាក់ និងខ្វល់ខ្វាយយ៉ាងខ្លាំងចំពោះរឿងនេះ។ ហើយគាត់បានចំណាយពេលច្រើនលើរឿងនេះក្នុងអំឡុងពេលដែលយើងកំពុងធ្វើសង្គ្រាម ហើយអ៊ីរ៉ង់ក៏មានរឿងដដែលៗ ទោះបីជាមានកិច្ចព្រមព្រៀងឈប់បាញ់ក៏ដោយ។ អតិផរណានៅតែខ្ពស់ ហើយទិន្នន័យការងារកាលពីម្សិលមិញក៏មិនល្អដែរ។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "And this is becoming not just an ongoing problem for the president, but something that he clearly is going to continue spending time on and also is going to continue spending taxpayer money on.",
+      "cn": "នេះមិនត្រឹមតែជាបញ្ហាបន្តរបស់ប្រធានាធិបតីប៉ុណ្ណោះទេ ប៉ុន្តែជាក់ស្តែងគាត់នឹងបន្តចំណាយពេលលើរឿងនេះ ហើយក៏នឹងបន្តចំណាយលុយអ្នកជាប់ពន្ធផងដែរ។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "And that is confusing to a lot of people, I think, when they see that this is -- look, it's a reflection. I'm not a pool specialist, but --",
+      "cn": "ខ្ញុំគិតថានេះធ្វើឱ្យមនុស្សជាច្រើនយល់ច្រឡំ នៅពេលដែលពួកគេឃើញរឿងនេះ -- -- មើល នេះគ្រាន់តែជាការឆ្លុះប៉ុណ្ណោះ។ ខ្ញុំមិនមែនជាអ្នកជំនាញអាងទឹកទេ ប៉ុន្តែ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. No, that's OK. But the only reason I'm asking, once it gets into the legal system, we're now turning something --",
+      "cn": "បាទ។ ទេ មិនអីទេ។ ប៉ុន្តែហេតុផលតែមួយគត់ដែលខ្ញុំសួរគឺ នៅពេលដែលចូលទៅក្នុងប្រព័ន្ធច្បាប់ យើងបានប្រែក្លាយរឿងទៅជា -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- that didn't need to be here where it is.",
+      "cn": "-- -- រឿងនេះមិនចាំបាច់មកទីនេះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I want to ask about another thing, which is the divisions over America 250 during Freedom 250, I think are kind of telling. This could have been a bipartisan project. And the Trump administration, when they came in, they said, look, we don't think this group is doing a good job. We think they're wasting money. We don't think they're doing things on time. We're going to be taking some of that money.",
+      "cn": "ខ្ញុំចង់សួររឿងមួយទៀត គឺការបែកបាក់ជុំវិញ 'America 250' ក្នុងអំឡុង 'Salute to America' ដែលខ្ញុំគិតថាបង្ហាញពីចំណុចសំខាន់។ នេះអាចជាគម្រោងពីរគណបក្ស។ រដ្ឋបាលលោក Trump ឡើងកាន់អំណាច ហើយពួកគេនិយាយថា មើល យើងគិតថាអង្គការនេះធ្វើការមិនល្អ។ យើងគិតថាពួកគេខ្ជះខ្ជាយលុយ។ យើងគិតថាពួកគេមិនបានបំពេញការងារទាន់ពេលទេ។ យើងនឹងដកថវិកាមួយចំនួន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But in the process, they've also been selling these, like, sponsorship packages, right? And some of those packages are facetime; like a photo with the president.",
+      "cn": "ប៉ុន្តែក្នុងដំណើរការនេះ ពួកគេក៏កំពុងលក់កញ្ចប់ឧបត្ថម្ភទាំងនេះដែរ មែនទេ? កញ្ចប់ខ្លះរួមមានឱកាសជួបជាមួយប្រធានាធិបតី និងថតរូបជាដើម។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "And what's going to happen on Saturday night on July 4th, is that on the National Mall, the president is going to give a rally speech basically. Right? And because of that rally speech, not only is it going to be hot, but it's going to push the fireworks to later at night. So, this thing that -- you know, fireworks are the -- what Americans unite around on July 4th.",
+      "cn": "នៅយប់ថ្ងៃសៅរ៍ទី 4 ខែកក្កដា ប្រធានាធិបតីនឹងថ្លែងសុន្ទរកថាប្រមូលផ្តុំនៅ National Mall មែនទេ? ដោយសារតែសុន្ទរកថាប្រមូលផ្តុំនេះ មិនត្រឹមតែអាកាសធាតុនឹងក្តៅប៉ុណ្ណោះទេ ប៉ុន្តែការបាញ់កាំជ្រួចនឹងត្រូវពន្យារពេលទៅពាក់កណ្តាលអធ្រាត្រ។ ដូច្នេះ រឿងនេះ -- -- អ្នកដឹងទេ កាំជ្រួចគឺជានិមិត្តសញ្ញានៃការរួបរួមរបស់ជនជាតិអាមេរិកនៅថ្ងៃទី 4 ខែកក្កដា។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "And instead, families are making the decision, again, because of the heat, but because it doesn't seem like the fireworks will start until after 11 p.m.",
+      "cn": "ផ្ទុយទៅវិញ គ្រួសារកំពុងធ្វើការសម្រេចចិត្ត ដោយសារតែអាកាសធាតុក្តៅ ហើយកាំជ្រួចហាក់ដូចជាមិនចាប់ផ្តើមរហូតដល់ម៉ោង 11 យប់ឡើយ។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "To not go to the fireworks --",
+      "cn": "មិនទៅមើលកាំជ្រួច -- --"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "-- and then dealing with the fact that the kids are going to get woken up by the fireworks.",
+      "cn": "-- -- ហើយបន្ទាប់មកត្រូវដោះស្រាយជាមួយកូនដែលត្រូវកាំជ្រួចដាស់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Here's what Trump has to say. Him and also D.C. Mayor Muriel Bowser. They're talking about the heat here, and there are concerns for the celebrations.",
+      "cn": "នេះជាអ្វីដែលលោក Trump និយាយ។ លោក និងអភិបាលក្រុងវ៉ាស៊ីនតោនឌីស៊ី លោកស្រី Muriel Bowser កំពុងនិយាយអំពីកម្តៅខ្ពស់នៅទីនេះ និងការព្រួយបារម្ភអំពីពិធីបុណ្យ។"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "On July 4th, it's going to be approximately 107 degrees out. And I'm going to go, and I'm going to make a really long speech just to show that I can do anything. MAYOR MURIEL BOWSER (D),",
+      "cn": "នៅថ្ងៃទី 4 ខែកក្កដា សីតុណ្ហភាពនឹងឡើងដល់ប្រហែល 107 អង្សាហ្វារិនហៃ។ ខ្ញុំនឹងទៅ ខ្ញុំនឹងថ្លែងសុន្ទរកថាដ៏វែងមួយ ដើម្បីបញ្ជាក់ថាខ្ញុំអាចធ្វើអ្វីបានទាំងអស់។ អភិបាលក្រុងវ៉ាស៊ីនតោនឌីស៊ី លោកស្រី Muriel Bowser (គណបក្សប្រជាធិបតេយ្យ)៖"
+    },
+    {
+      "speaker": "Washington",
+      "text": "The thing to remember, especially with this heat, is that's a long, long day. So, people have to really watch the heat, watch what they're drinking and, and get home as soon as the fireworks are over.",
+      "cn": "អ្វីដែលត្រូវចងចាំគឺ ជាពិសេសក្នុងកម្តៅខ្ពស់នេះ ថ្ងៃនេះនឹងវែងណាស់។ ដូច្នេះ មនុស្សត្រូវតែប្រុងប្រយ័ត្នពីកម្តៅ ផឹកទឹកឱ្យបានច្រើន ហើយត្រឡប់ទៅផ្ទះវិញឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន បន្ទាប់ពីកាំជ្រួចចប់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In the end, maybe this is moot, because it's just too hot out. No, honestly, like, it's like dangerous. You're not --",
+      "cn": "ចុងក្រោយ ប្រហែលជារឿងទាំងអស់នេះមិនសំខាន់ទេ ព្រោះនៅខាងក្រៅក្តៅពេក។ ទេ និយាយឱ្យត្រង់ទៅ វាគ្រោះថ្នាក់ណាស់។ អ្នកមិន -- --"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "Even coming in this morning, I was struck by hot it was already.",
+      "cn": "សូម្បីតែពេលមកដល់ព្រឹកនេះ ខ្ញុំភ្ញាក់ផ្អើលដែលអាកាសធាតុក្តៅដល់ម្លេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No backpacks. Only a certain kind of water bottle.",
+      "cn": "មិនអាចយកកាបូបស្ពាយបានទេ។ អាចយកតែដបទឹកប្រភេទជាក់លាក់ប៉ុណ្ណោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There's going to be no folding chairs. No this, no that. I understand the security concerns. But I think the reality is, if you're a person with any frailties whatsoever or, you know, lungs, you look at these triple digits; and you don't think, Let me -- let me go sit out there for what he himself has described, a very long speech.",
+      "cn": "មិនអាចយកកៅអីបត់បានទេ។ មិនអាចយករបស់នេះ មិនអាចយករបស់នោះ។ ខ្ញុំយល់ពីការពិចារណាអំពីសុវត្ថិភាព។ ប៉ុន្តែខ្ញុំគិតថាការពិតគឺ ប្រសិនបើអ្នកមានអាការៈមិនស្រួលខ្លួន ឬអ្នកដឹងទេ មានសួត ហើយឃើញសីតុណ្ហភាព 30-40 អង្សាសេនេះ អ្នកនឹងមិនគិតថា អនុញ្ញាតឱ្យខ្ញុំ -- អនុញ្ញាតឱ្យខ្ញុំទៅអង្គុយនៅខាងក្រៅយូរបែបនេះ ដើម្បីស្តាប់អ្វីដែលគាត់ផ្ទាល់បាននិយាយថាជាសុន្ទរកថាដ៏វែងមួយ។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "Yes. And it's obviously not Trump's fault it's going to be hot outside.",
+      "cn": "បាទ។ ហើយអាកាសធាតុក្តៅនៅខាងក្រៅច្បាស់ជាមិនមែនជាកំហុសរបស់លោក Trump ទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No. That's why I'm showing the map, my man.",
+      "cn": "ទេ។ ដូច្នេះខ្ញុំបង្ហាញផែនទីឱ្យអ្នកមើល បងប្រុស។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "Well, no, this is the thing. I think, you know, on the one hand it's a little bit of a challenge, because it's like the president shouldn't spend public tax dollars doing things to, like, make the Reflecting Pool blue or get rid of the algae, or improving parks, or redeveloping fountains.",
+      "cn": "អញ្ចឹង ទេ បញ្ហាគឺនៅត្រង់នេះ។ ខ្ញុំគិតថា អ្នកដឹងទេ ម្យ៉ាងវិញទៀតវាមានបញ្ហាប្រឈមបន្តិច ព្រោះប្រធានាធិបតីមិនគួរចំណាយលុយសាធារណៈដើម្បីធ្វើរឿងដូចជាធ្វើឱ្យអាងទឹកឆ្លុះក្លាយជាពណ៌ខៀវ កម្ចាត់សារាយ កែលម្អសួនច្បារ ឬសាងសង់ប្រភពទឹកឡើងវិញនោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, we said aesthetic versus structural.",
+      "cn": "ទេ យើងកំពុងនិយាយអំពីបញ្ហាសោភ័ណភាព និងរចនាសម្ព័ន្ធ។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "But on the other hand, it's also like Trump shouldn't seek out private sponsorships for some of these events in America 250 [SIC]. So, I do feel like there's a little bit of a push and pull there. But --",
+      "cn": "ប៉ុន្តែម្យ៉ាងវិញទៀត លោក Trump ក៏មិនគួរស្វែងរកការឧបត្ថម្ភឯកជនសម្រាប់សកម្មភាពខួប 250 ឆ្នាំរបស់អាមេរិកដែរ។ ដូច្នេះខ្ញុំពិតជាគិតថាមានភាពផ្ទុយគ្នានៅទីនេះ។ ប៉ុន្តែ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But you mean -- you're saying critics are saying those things.",
+      "cn": "ប៉ុន្តែអ្នកចង់មានន័យថា -- -- អ្នកកំពុងនិយាយថាអ្នករិះគន់កំពុងនិយាយពាក្យទាំងនោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I can't tell if you're saying those things or critics.",
+      "cn": "ខ្ញុំមិនអាចបែងចែកបានទេថាតើអ្នកកំពុងនិយាយពាក្យទាំងនេះ ឬអ្នករិះគន់កំពុងនិយាយ។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "I'm not saying those things. Critics are pointing those things out. I don't really take issue with either using some amount of public funds to do things like improve fountains in D.C., get them working again that haven't been after a long time, or to seek out private sponsorships for some of these American 250 [SIC] events. The downside, though -- and Republicans should understand this -- is that -- and this leads into the Freedom 250 versus America 250 tension.",
+      "cn": "ខ្ញុំមិនបាននិយាយពាក្យទាំងនោះទេ។ អ្នករិះគន់បានចង្អុលបង្ហាញ។ ខ្ញុំមិនប្រឆាំងនឹងការប្រើប្រាស់ថវិកាសាធារណៈមួយចំនួនដើម្បីកែលម្អប្រភពទឹកនៅ Washington DC ឱ្យដំណើរការឡើងវិញ ឬស្វែងរកការឧបត្ថម្ភឯកជនសម្រាប់សកម្មភាពខួប 250 ឆ្នាំរបស់អាមេរិកទេ។ ប៉ុន្តែផ្នែកអវិជ្ជមាន -- -- គណបក្សសាធារណរដ្ឋគួរតែយល់ -- -- គឺ -- -- វានាំឱ្យមានភាពតានតឹងរវាង 'Liberty 250' និង 'America 250'។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "It's hard to get Hollywood celebrities and stars to come do performances when a Republican is leading the show in Washington, D.C. I would have probably just said from the get-go, it's going to be really difficult to do that. Let's bring in the military bands. Let's bring in the flyovers and let's do this.",
+      "cn": "នៅពេលដែលគណបក្សសាធារណរដ្ឋដឹកនាំសកម្មភាពនៅ Washington វាពិបាកក្នុងការអញ្ជើញតារាហូលីវូដមកសម្តែង។ ខ្ញុំប្រហែលជានិយាយតាំងពីដំបូងថា វាពិបាកធ្វើណាស់។ សូមឱ្យយើងអញ្ជើញក្រុមតន្ត្រីយោធា រៀបចំការហោះហើរឆ្លងកាត់ ហើយធ្វើដូច្នេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, yes. And we should say we're reporting, actually, from a Democrat claim in the House, that the organizers may have redirected funds or duped donors -- that's the accusation from Democrats right now -- into putting money into the Freedom 250 coffers. You're going to say?",
+      "cn": "បាទ បាទ។ យើងគួរតែបញ្ជាក់ថា យើងពិតជាកំពុងរាយការណ៍ពីការអះអាងរបស់គណបក្សប្រជាធិបតេយ្យក្នុងសភាតំណាងរាស្ត្រថា អ្នករៀបចំអាចនឹងកេងបន្លំថវិកា ឬបោកប្រាស់អ្នកបរិច្ចាគ -- -- នេះជាការចោទប្រកាន់បច្ចុប្បន្នរបស់គណបក្សប្រជាធិបតេយ្យ -- -- ដោយដាក់ថវិកាចូលទៅក្នុងរតនាគាររបស់ 'Liberty 250'។ តើអ្នកចង់និយាយអ្វី?"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "Well, I mean, it actually wouldn't be hard to have celebrities or -- I don't know -- Democratic governors or senators and have it be a bipartisan event if the president, from the beginning, tried to make it a bipartisan event. You saw what he said. He's making this an endurance speech. It's, like, to show that he is some strong man.",
+      "cn": "អញ្ចឹង ខ្ញុំចង់មានន័យថា ប្រសិនបើប្រធានាធិបតីព្យាយាមធ្វើឱ្យសកម្មភាពនេះក្លាយជាសកម្មភាពទ្វេបក្សតាំងពីដំបូង នោះវាមិនពិបាកក្នុងការអញ្ជើញអ្នកល្បីល្បាញ ឬ -- -- ខ្ញុំមិនដឹង -- -- អភិបាលរដ្ឋ ឬសមាជិកព្រឹទ្ធសភាមកពីគណបក្សប្រជាធិបតេយ្យទេ។ អ្នកបានឃើញអ្វីដែលគាត់និយាយ។ គាត់កំពុងប្រែក្លាយសុន្ទរកថានេះទៅជាសុន្ទរកថាដែលមានការស៊ូទ្រាំ។ ដូចជាដើម្បីបង្ហាញថាគាត់ជាមនុស្សខ្លាំង។"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "And that's how he is. Right?",
+      "cn": "គាត់គឺបែបនោះ មែនទេ?"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "And it started with the UFC fight. It was his 80th birthday. It wasn't a celebration at 250. It was the president's 80th birthday party. This is what it seems like now. There is a speech that the president will, as Isaac said, will -- it will become a MAGA rally campaign speech versus a unifying speech bringing everybody together.",
+      "cn": "ហើយវាចាប់ផ្តើមតាំងពីការប្រកួត UFC។ នោះជាខួបកំណើតអាយុ 80 ឆ្នាំរបស់គាត់។ នេះមិនមែនជាការប្រារព្ធខួប 250 ឆ្នាំទេ ប៉ុន្តែជាពិធីខួបកំណើតអាយុ 80 ឆ្នាំរបស់ប្រធានាធិបតី។ ឥឡូវនេះវាមើលទៅដូច្នេះ។ ប្រធានាធិបតីនឹងថ្លែងសុន្ទរកថា ដូចដែល Isaac បាននិយាយ ដែលនឹងក្លាយទៅជាសុន្ទរកថាយុទ្ធនាការបែប MAGA rally ជំនួសឱ្យសុន្ទរកថាបង្រួបបង្រួមមនុស្សគ្រប់គ្នា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We don't know what it will be yet. What we do know, what it will be --",
+      "cn": "យើងមិនទាន់ដឹងថាវានឹងទៅជាយ៉ាងណាទេ។ ប៉ុន្តែអ្វីដែលយើងដឹងគឺ -- --"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "I have yet to see the president make one unifying speech.",
+      "cn": "ខ្ញុំមិនទាន់ឃើញប្រធានាធិបតីថ្លែងសុន្ទរកថាបង្រួបបង្រួមណាមួយទេ។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "We should point out that the Democratic governors were invited. Even the Hollywood superstars were invited.",
+      "cn": "យើងគួរតែចង្អុលបង្ហាញថា អភិបាលរដ្ឋមកពីគណបក្សប្រជាធិបតេយ្យត្រូវបានអញ្ជើញ សូម្បីតែតារាហូលីវូដក៏ត្រូវបានអញ្ជើញដែរ។"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "But they pulled out, because a lot of -- this is - (CROSSTALK)",
+      "cn": "ប៉ុន្តែពួកគេបានដកខ្លួនចេញ ពីព្រោះច្រើន -- -- នេះគឺ -- -- (ការសន្ទនាឆ្លង)"
+    },
+    {
+      "speaker": "Arm",
+      "text": "Well, they pulled -- they pulled out.",
+      "cn": "អញ្ចឹង ពួកគេបានដកខ្លួនចេញ -- -- ពួកគេបានដកខ្លួនចេញ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can I -- can I interrupt? There's something to what she's saying about the fact that Trump stays on message, and his message is rarely a unifying one.",
+      "cn": "តើខ្ញុំអាច -- -- ខ្ញុំអាចរំខានបន្តិចបានទេ? អ្វីដែលនាងនិយាយគឺត្រឹមត្រូវមួយចំណុច គឺលោក Trump ប្រកាន់ខ្ជាប់នូវសាររបស់គាត់ ហើយសាររបស់គាត់កម្រមានការបង្រួបបង្រួមណាស់។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "But the president wasn't going to speak.",
+      "cn": "ប៉ុន្តែប្រធានាធិបតីដើមឡើយមិនមានគម្រោងថ្លែងសុន្ទរកថាទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And now -- I know. But now he's decided to speak extra long. I didn't need that.",
+      "cn": "ឥឡូវ -- -- ខ្ញុំដឹង។ ប៉ុន្តែឥឡូវគាត់សម្រេចចិត្តថ្លែងយ៉ាងវែងជាពិសេស។ ខ្ញុំមិនត្រូវការនោះទេ។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "Because the star -- people pulled out.",
+      "cn": "ពីព្រោះតារា -- -- មនុស្សបានដកខ្លួនចេញ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, send Lee Greenwood out there. That's fine. OK, listen, stay with me. We're going to talk about a couple of things. One quite serious, which is that immigration enforcement continues. We're talking about thousands of arrests in just a handful of days. Why ICE is keeping it on the D.L. Plus, Palm Beach Airport about to get the Trump rebrand. How the president could profit from that. And in the meantime, that skyscraper-scaling daredevil couple. Well, they've been charged with a couple of felonies.",
+      "cn": "ទេ សូមឱ្យ Lee Greenwood ឡើងឆាក។ នោះមិនមានបញ្ហាទេ។ មិនអីទេ ស្តាប់ កុំព្យួរខ្សែ។ យើងនឹងនិយាយអំពីរឿងមួយចំនួន។ រឿងមួយធ្ងន់ធ្ងរគឺ ការអនុវត្តច្បាប់អន្តោប្រវេសន៍នៅតែបន្ត។ យើងកំពុងនិយាយអំពីការចាប់ខ្លួនរាប់ពាន់ដងក្នុងរយៈពេលតែប៉ុន្មានថ្ងៃប៉ុណ្ណោះ។ ហេតុអ្វីបានជា ICE រក្សាការសម្ងាត់អំពីរឿងនេះ។ ម្យ៉ាងទៀត ព្រលានយន្តហោះ Palm Beach នឹងត្រូវប្តូរម៉ាកយីហោរបស់ Trump។ តើប្រធានាធិបតីទទួលបានផលប្រយោជន៍ពីរឿងនេះដោយរបៀបណា។ ក្នុងពេលជាមួយគ្នានេះ គូស្នេហ៍អ្នកផ្សងព្រេងដែលឡើងភ្នំអគារខ្ពស់ៗ។ អញ្ចឹង ពួកគេត្រូវបានចោទប្រកាន់ពីបទឧក្រិដ្ឋធ្ងន់ធ្ងរមួយចំនួន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Do prosecutors have a case?",
+      "cn": "តើព្រះរាជអាជ្ញាមានភស្តុតាងទេ?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Based off my reading of this complaint, the D.A.'s office overcharged here. It's nice to have somebody wearing black bats doing a message of peace instead of a -- you know, a message of -- of -- of destruction and war. And, you know, no one was hurt here.",
+      "cn": "យោងតាមការអានពាក្យបណ្តឹងនេះរបស់ខ្ញុំ ការិយាល័យព្រះរាជអាជ្ញាស្រុកនៅទីនេះកំពុងចោទប្រកាន់ហួសហេតុ។ មាននរណាម្នាក់ស្លៀកឈុតប្រចៀវខ្មៅផ្សព្វផ្សាយសារសន្តិភាព ជំនួសឱ្យ -- -- អ្នកដឹងទេ -- -- សារបំផ្លិចបំផ្លាញ និងសង្គ្រាម។ ហើយអ្នកដឹងទេ គ្មាននរណាម្នាក់រងរបួសទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, it is now 15 minutes past the hour. This is your morning roundup. In Iran, they are paying tribute to former supreme leader Ali Khamenei with a weeklong funeral across five cities. He was killed in February, on the first day of U.S.-Israeli strikes on Iran. The big question this morning: will his son, Mojtaba Khamenei, the new supreme leader, make an appearance? He was injured in the same attack that killed his father; other members of his family, as well. He has not been seen in public since.",
+      "cn": "ដូច្នេះ ឥឡូវនេះម៉ោង 15 នាទីក្រោយម៉ោង។ នេះជាសេចក្តីសង្ខេបព័ត៌មានពេលព្រឹករបស់អ្នក។ នៅអ៊ីរ៉ង់ ពួកគេកំពុងរៀបចំពិធីបុណ្យសពរយៈពេលមួយសប្តាហ៍ឆ្លងកាត់ប្រាំទីក្រុងសម្រាប់អតីតមេដឹកនាំកំពូល Ali Khamenei។ គាត់ត្រូវបានសម្លាប់កាលពីខែកុម្ភៈនៅថ្ងៃដំបូងនៃការវាយប្រហាររបស់អាមេរិក និងអ៊ីស្រាអែលលើអ៊ីរ៉ង់។ សំណួរធំនៅព្រឹកនេះគឺ៖ តើកូនប្រុសរបស់គាត់ មេដឹកនាំកំពូលថ្មី Mojtaba Khamenei នឹងបង្ហាញមុខទេ? គាត់បានរងរបួសក្នុងការវាយប្រហារដដែលដែលបណ្តាលឱ្យឪពុកគាត់ស្លាប់។ សមាជិកគ្រួសារផ្សេងទៀតរបស់គាត់ក៏បានរងរបួសដែរ។ ចាប់តាំងពីពេលនោះមក គាត់មិនបានបង្ហាញមុខជាសាធារណៈទៀតទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And travelers heading to Palm Beach International Airport getting an early look at a major rebranding. Overnight, new I-95 signs went up, renaming the hub \"President Donald J. Trump International Airport.\" The signage went up ahead of the official name switch, which is set for July 9th. And that influencer couple who scaled the top of the Empire State Building to get engaged, are speaking out about why they did it and what that banner meant.",
+      "cn": "អ្នកដំណើរដែលធ្វើដំណើរទៅកាន់ព្រលានយន្តហោះអន្តរជាតិ Palm Beach បានឃើញការប្តូរម៉ាកយីហោដ៏ធំមួយជាមុន។ មួយយប់នេះ ផ្លាកសញ្ញា I-95 ថ្មីត្រូវបានដំឡើង ដោយប្តូរឈ្មោះមជ្ឈមណ្ឌលនេះទៅជា 'ព្រលានយន្តហោះអន្តរជាតិប្រធានាធិបតី Donald J. Trump'។ ផ្លាកសញ្ញាទាំងនេះត្រូវបានដំឡើងមុនពេលការប្តូរឈ្មោះជាផ្លូវការ ដែលកំណត់នៅថ្ងៃទី 9 ខែកក្កដា។ ហើយគូស្នេហ៍អ្នកមានឥទ្ធិពលលើបណ្តាញសង្គមដែលបានឡើងលើកំពូលអគារ Empire State Building ដើម្បីសុំរៀបការ កំពុងនិយាយជាសាធារណៈអំពីមូលហេតុដែលពួកគេធ្វើដូច្នេះ និងអត្ថន័យនៃបដានោះ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Why did you choose that message?",
+      "cn": "ហេតុអ្វីបានជាអ្នកជ្រើសរើសព័ត៌មាននោះ?"
+    },
+    {
+      "speaker": "Ivan Beerkus",
+      "text": "Because we believe in love.",
+      "cn": "ព្រោះយើងជឿលើស្នេហា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We also have new details this morning about how they pulled it off. Authorities say video showing the pair hid in the observatory before it closed. Then, in the early dawn hours, they popped through a hatch, cut through the locks to ascend to the top of the spire. They're now facing felony charges of burglary, reckless endangerment, and criminal mischief. The mischief. The group chat is back. Do we believe in love?",
+      "cn": "ព្រឹកនេះយើងមានព័ត៌មានលម្អិតថ្មីៗអំពីរបៀបដែលពួកគេទទួលបានជោគជ័យ។ អាជ្ញាធរបាននិយាយថា វីដេអូបង្ហាញថាគូស្នេហ៍នេះបានលាក់ខ្លួននៅក្នុងកន្លែងសង្កេតការណ៍មុនពេលបិទ។ បន្ទាប់មក នៅពេលព្រលឹម ពួកគេបានចេញពីទ្វារយន្តហោះ កាត់សោ ហើយឡើងទៅលើកំពូលប៉ម។ ឥឡូវនេះពួកគេប្រឈមមុខនឹងការចោទប្រកាន់ពីបទលួច បង្កគ្រោះថ្នាក់ដោយធ្វេសប្រហែស និងការបំផ្លិចបំផ្លាញឧក្រិដ្ឋកម្ម។ ការបំផ្លិចបំផ្លាញ។ ក្រុមជជែកបានត្រលប់មកវិញហើយ។ តើយើងជឿលើស្នេហាទេ?"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "We believe in love. I'm not sure I would scale the Empire State Building in order to -- I don't think that is a proposal.",
+      "cn": "យើងជឿលើស្នេហា។ ប៉ុន្តែខ្ញុំមិនប្រាកដថាខ្ញុំនឹងឡើងអគារ Empire State ដើម្បីសុំរៀបការទេ -- -- ខ្ញុំមិនគិតថានោះជាការសុំរៀបការទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You don't believe in using city resources to believe in love?",
+      "cn": "តើអ្នកមិនជឿលើការប្រើប្រាស់ធនធានទីក្រុងដើម្បីជឿលើស្នេហាទេ?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This is actually -- I learned this is the first time they've actually been criminally charged. They've done this in other countries. They almost always get let go.",
+      "cn": "តាមពិត ខ្ញុំបានដឹងថានេះជាលើកទីមួយហើយដែលពួកគេត្រូវបានចោទប្រកាន់ពីបទឧក្រិដ្ឋ។ ពួកគេធ្លាប់ធ្វើបែបនេះនៅក្នុងប្រទេសដទៃទៀត ប៉ុន្តែស្ទើរតែតែងតែត្រូវបានដោះលែង។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "Doesn't this smell like a little bit, like, preplanned, like we're all supposed to be talking about this? They all made their way up to the top.",
+      "cn": "តើនេះមិនមែនជាការរៀបចំទុកជាមុនទេ ដូចជាយើងទាំងអស់គ្នាគួរតែនិយាយអំពីវា? ពួកគេទាំងពីរបានឡើងទៅលើកំពូល។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. It's a stunt. That's what they do.",
+      "cn": "បាទ វាជាការបង្កើតចំណាប់អារម្មណ៍។ ពួកគេធ្វើការងារនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I just don't know if I should have to pay for -- like, should cities have to expend resources on the stunt?",
+      "cn": "ខ្ញុំគ្រាន់តែមិនដឹងថាតើខ្ញុំគួរតែចំណាយសម្រាប់រឿងនេះទេ -- -- ឧទាហរណ៍ តើទីក្រុងគួរតែចំណាយធនធានសម្រាប់ការបង្កើតចំណាប់អារម្មណ៍បែបនេះទេ?"
+    },
+    {
+      "speaker": "Arm",
+      "text": "Oh, no. I'm -- I'm for bringing down the hammer on -- on the Empire State scalers.",
+      "cn": "អូ ទេ។ ខ្ញុំ -- -- ខ្ញុំគាំទ្រការដាក់ទណ្ឌកម្មយ៉ាងតឹងរ៉ឹងលើអ្នកដែល -- -- អ្នកដែលឡើងអគារ Empire State ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Start to the day. We don't believe in love. Godspeed to that company -- that couple. And enjoy your engagement. After the break on CNN THIS MORNING, in the words of \"Hamilton,\" who lives, who dies, who tells your story? How will Americans choose to tell our story on the nation's 250th birthday? Plus, we're going to talk about the speculation, the anticipation. Are Taylor and Travis getting ready to walk down the aisle? Good morning to you all. It is extremely hot out.",
+      "cn": "ថ្ងៃថ្មីបានចាប់ផ្តើមហើយ។ យើងមិនជឿលើស្នេហាទេ។ សូមជូនពរក្រុមហ៊ុននោះ -- -- គូស្នេហ៍នោះ។ សូមរីករាយជាមួយពិធីភ្ជាប់ពាក់របស់អ្នក។ បន្ទាប់ពីការផ្សាយពាណិជ្ជកម្មនៅក្នុងកម្មវិធី CNN This Morning តាមពាក្យរបស់ Hamilton តើអ្នកណារស់ អ្នកណាស្លាប់ អ្នកណានិទានរឿងរបស់អ្នក? នៅថ្ងៃខួបកំណើត 250 ឆ្នាំរបស់អាមេរិក តើជនជាតិអាមេរិកនឹងជ្រើសរើសនិទានរឿងរបស់យើងដោយរបៀបណា? លើសពីនេះទៀត យើងត្រូវនិយាយអំពីការស្មាន និងការរំពឹងទុកទាំងនោះ។ តើ Taylor និង Travis ត្រៀមខ្លួនរៀបការហើយឬនៅ? អរុណសួស្តីអ្នកទាំងអស់គ្នា។ នៅខាងក្រៅក្តៅណាស់។"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "Everything with MSG is, like, a whole decoy. And really, they're going to have everyone on jets going elsewhere. Where, I don't know, but I think it's almost -- it's a little too obvious at this point.",
+      "cn": "អ្វីៗទាំងអស់នៅ Madison Square Garden ហាក់ដូចជាការបោកបញ្ឆោត។ តាមពិត ពួកគេនឹងឱ្យមនុស្សគ្រប់គ្នាជិះយន្តហោះទៅកន្លែងផ្សេង។ ខ្ញុំមិនដឹងថាទៅណាទេ ប៉ុន្តែខ្ញុំគិតថាវាស្ទើរតែ -- -- ឥឡូវនេះវាច្បាស់ពេកហើយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, conspiracy I can get down with: where are Taylor and Travis going to get married? They might actually be getting married at Madison Square Garden. The wedding weekend seems to be in full swing. Last night there were tents set up outside the Garden, a steady stream of large SUVs seen arriving, reportedly for the rehearsal dinner. For Swifties, the anticipation has reached new heights.",
+      "cn": "មិនអីទេ ទ្រឹស្តីសមគំនិតដែលខ្ញុំអាចទទួលយកបានគឺ៖ Taylor និង Travis នឹងរៀបការនៅឯណា? ពួកគេអាចនឹងរៀបការនៅ Madison Square Garden ពិតប្រាកដ។ ចុងសប្តាហ៍អាពាហ៍ពិពាហ៍ហាក់ដូចជាកំពុងដំណើរការយ៉ាងសកម្ម។ កាលពីយប់មិញ មានតង់ត្រូវបានដំឡើងនៅខាងក្រៅ Garden ហើយរថយន្ត SUV ធំៗជាច្រើនបានមកដល់ ដែលត្រូវបានគេរាយការណ៍ថាសម្រាប់អាហារពេលល្ងាចសាកល្បង។ សម្រាប់អ្នកគាំទ្រ Swifties ការរំពឹងទុកបានឈានដល់កម្រិតថ្មីមួយ។"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "We are just team Taylor and Travis for life. Love Travis, so it's really exciting. I'm really happy for them.",
+      "cn": "យើងតែងតែគាំទ្រ Taylor និង Travis ។ ស្រឡាញ់ Travis ដូច្នេះពិតជារំភើបណាស់។ ខ្ញុំសប្បាយចិត្តសម្រាប់ពួកគេ។"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "Oh my gosh, all the Taylor Swift, all the Swifties out here rooting her on. Come on. She's going to be a bride. It's the best.",
+      "cn": "អួព្រះជួយ Taylor Swift ទាំងអស់ អ្នកគាំទ្រ Swifties ទាំងអស់នៅទីនេះដើម្បីលើកទឹកចិត្តនាង។ លើកទឹកចិត្ត។ នាងនឹងក្លាយជាកូនក្រមុំហើយ។ នេះពិតជាអស្ចារ្យណាស់។"
+    },
+    {
+      "speaker": "Kovach",
+      "text": "This is like the American royal wedding. We've all seen her love stories over the years and really rooted for some over others. And we're really happy that that she found her forever.",
+      "cn": "នេះដូចជាពិធីមង្គលការរាជវង្សអាមេរិក។ ប៉ុន្មានឆ្នាំនេះ យើងបានឃើញរឿងស្នេហារបស់នាង ហើយពិតជាគាំទ្រខ្លះៗ។ យើងរីករាយដែលនាងបានរកឃើញស្នេហាដ៏អស់កល្បរបស់នាង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can't say it better than that, but we found someone who might be able to. Ralphie Aversa, \"USA Today\" senior entertainment correspondent. Good morning. How are you doing? I know it's been a long couple of days. RALPHIE AVERSA, SENIOR ENTERTAINMENT CORRESPONDENT, \"USA TODAY\": Oh, my. Oh, please. I saw you talking about the scalers. I was actually on my way to Madison Square Garden earlier this week to kind of check out the perimeter of the world's most famous arena when that happened.",
+      "cn": "និយាយបានល្អឥតខ្ចោះ ប៉ុន្តែយើងបានរកឃើញអ្នកដែលអាចនិយាយបានល្អជាងនេះ។ អ្នកសារព័ត៌មានជាន់ខ្ពស់ផ្នែកកម្សាន្តរបស់ USA Today លោក Ralfie Avisa ។ អរុណសួស្តី។ អ្នកសុខសប្បាយទេ? ខ្ញុំដឹងថាប៉ុន្មានថ្ងៃនេះយូរណាស់។ Ralfie Avisa អ្នកសារព័ត៌មានជាន់ខ្ពស់ផ្នែកកម្សាន្តរបស់ USA Today៖ អួព្រះជួយ។ អូ សូម។ ខ្ញុំឃើញអ្នកកំពុងនិយាយអំពីអ្នកឡើងភ្នំទាំងនោះ។ តាមពិត ដើមសប្តាហ៍នេះ ខ្ញុំកំពុងទៅ Madison Square Garden ដើម្បីមើលស្ថានភាពជុំវិញកន្លែងដ៏ល្បីល្បាញបំផុតរបស់ពិភពលោក ហើយរឿងនោះក៏កើតឡើង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I ended up running down 33rd Street to see what was going on. So, Audie, it's been a week, but it's always great to join you.",
+      "cn": "ខ្ញុំបានបញ្ចប់ការរត់ទៅផ្លូវ 33 ដើម្បីមើលថាមានអ្វីកើតឡើង។ ដូច្នេះ Audi សប្តាហ៍នេះយូរណាស់ ប៉ុន្តែការនៅជាមួយអ្នកតែងតែល្អ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Did you see anyone? We were hearing reports. Well, Selena Gomez actually posted on Instagram -- on Instagram, I think, from the back of an SUV. But we mentioned some names: Jack Antonoff, Lena Dunham, other people who we're actually now seeing; some besties we're seeing outside the building.",
+      "cn": "តើអ្នកបានឃើញនរណាម្នាក់ទេ? យើងបានឮរបាយការណ៍។ អឺ តាមពិត Selena Gomez បានបង្ហោះនៅលើ Instagram -- -- នៅលើ Instagram ខ្ញុំគិតថាពីកៅអីខាងក្រោយរថយន្ត SUV ។ ប៉ុន្តែយើងបានលើកឡើងឈ្មោះខ្លះ៖ Jack Antonoff, Lena Dunham និងអ្នកផ្សេងទៀតដែលយើងពិតជាឃើញឥឡូវនេះ។ យើងឃើញមិត្តស្រីខ្លះនៅខាងក្រៅអគារ។"
+    },
+    {
+      "speaker": "Aversa",
+      "text": "\"USA Today\" can confirm that Patrick Mahomes is in the New York City area. Of course, quarterback for the Kansas City Chiefs, who's thrown Travis Kelce quite a few touchdowns. \"USA Today\" can also confirm that Steve Spagnuolo -- here we are talking about Taylor Swift and Travis Kelce. And we're talking about the coaching staff, as well. The defensive coordinator for the Chiefs is also in the New York City area. He was spotted in midtown Manhattan with his wife.",
+      "cn": "USA Today អាចបញ្ជាក់ថា Patrick Mahomes កំពុងនៅក្នុងតំបន់ទីក្រុងញូវយ៉ក។ ជាការពិតណាស់ គាត់គឺជា quarterback របស់ Kansas City Chiefs ដែលបានបញ្ជូនបាល់ touchdown ជាច្រើនទៅកាន់ Travis Kelce ។ USA Today ក៏អាចបញ្ជាក់ថា Steve Spagnuolo -- -- យើងកំពុងនិយាយអំពី Taylor Swift និង Travis Kelce ។ យើងក៏កំពុងនិយាយអំពីក្រុមគ្រូបង្វឹកផងដែរ។ អ្នកសម្របសម្រួលការពាររបស់ Chiefs ក៏កំពុងនៅក្នុងតំបន់ទីក្រុងញូវយ៉កដែរ។ មានគេឃើញគាត់ជាមួយប្រពន្ធនៅកណ្តាលក្រុង Manhattan ។"
+    },
+    {
+      "speaker": "Aversa",
+      "text": "Of course, he had two stints coaching with the New York football Giants, as well. So, yes, we are seeing a number of their celebrity friends, a number of their sport friends, and of course, some family members, as well, all being spotted throughout the tri-state area as we gear up for what we are thinking is -- all signs point to -- a wedding celebration tonight at Madison Square Garden.",
+      "cn": "ជាការពិតណាស់ គាត់ក៏ធ្លាប់បង្វឹកក្រុម New York Giants ពីរដងដែរ។ ដូច្នេះ បាទ យើងឃើញមិត្តភក្តិល្បីៗជាច្រើនរបស់ពួកគេ មិត្តភក្តិក្នុងវិស័យកីឡា ហើយជាការពិតណាស់ សមាជិកគ្រួសារខ្លះ ត្រូវបានគេឃើញនៅក្នុងតំបន់រដ្ឋទាំងបី ខណៈដែលយើងកំពុងរៀបចំសម្រាប់ពិធីអាពាហ៍ពិពាហ៍នៅយប់នេះនៅ Madison Square Garden -- -- សញ្ញាទាំងអស់ចង្អុលទៅរករឿងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I was hearing that they've actually done a bunch of donations ahead of this wedding to -- in a bunch of different cities. I'm going to throw some images up so people can see where this money was going to, upwards of $26 million. This is actually something I feel like I've seen with some other celebrities, as well. Can you talk about this trend?",
+      "cn": "ខ្ញុំបានឮថាពួកគេបានបរិច្ចាគយ៉ាងច្រើនដល់ទីក្រុងជាច្រើនមុនពេលរៀបការ។ ខ្ញុំនឹងបង្ហាញរូបភាពខ្លះ ដើម្បីឱ្យអ្នកឃើញថាលុយនេះទៅណា សរុបចំនួន 26 លានដុល្លារ។ តាមពិត ខ្ញុំធ្លាប់ឃើញរឿងនេះនៅក្នុងតារាល្បីៗដទៃទៀតដែរ។ តើអ្នកអាចនិយាយអំពីនិន្នាការនេះបានទេ?"
+    },
+    {
+      "speaker": "Aversa",
+      "text": "Yes. Well, we can talk about the $26 million in the numerology there: 26, 13 plus 13. Two 13 joining, Taylor's lucky number. So, of course, we have to break that down, as well. I did think the timing of this, though, Audie, was also interesting. You know, this news broke around the time that Staten Island Congresswoman Nicole Malliotakis came out and criticized Taylor and Travis for having this wedding on a holiday weekend.",
+      "cn": "បាទ។ យើងអាចនិយាយអំពីលេខ 26 លានក្នុង numerology: 26, 13 បូក 13 ។ 13 ពីររួមគ្នា លេខសំណាងរបស់ Taylor ។ ដូច្នេះ ជាការពិតណាស់ យើងក៏ត្រូវវិភាគវាដែរ។ ប៉ុន្តែ Audé ខ្ញុំគិតថាពេលវេលានេះគួរឱ្យចាប់អារម្មណ៍ផងដែរ។ អ្នកដឹងទេ ព័ត៌មាននេះបានចេញមកប្រហែលពេលដែលសមាជិកសភា Nicole Malliotakis មកពី Staten Island បានរិះគន់ Taylor និង Travis ដែលរៀបការនៅចុងសប្តាហ៍ថ្ងៃឈប់សម្រាក។"
+    },
+    {
+      "speaker": "Aversa",
+      "text": "And thus, a number of New York police officers will now be working overtime and through the holiday weekend. Obviously, there's a lot already happening in this area with the World Cup and with all of the America 250 celebrations. So, yes, we have been seeing this with other celebrities. And we saw it with Taylor and Travis here. A number of different charities, national and local, to some of the different areas that they have worked and lived in.",
+      "cn": "ដូច្នេះ ប៉ូលិសញូវយ៉កជាច្រើននឹងធ្វើការបន្ថែមម៉ោងនៅចុងសប្តាហ៍ថ្ងៃឈប់សម្រាកនេះ។ ជាក់ស្តែង តំបន់នេះមានព្រឹត្តិការណ៍ជាច្រើនរួចទៅហើយ ដូចជាព្រឹត្តិការណ៍ World Cup និងពិធីខួប 250 ឆ្នាំរបស់អាមេរិកទាំងអស់។ ដូច្នេះ បាទ យើងបានឃើញរឿងនេះនៅក្នុងតារាល្បីៗដទៃទៀតដែរ។ យើងក៏ឃើញវានៅក្នុង Taylor និង Travis ដែរ។ ពួកគេបានបរិច្ចាគប្រាក់ដល់អង្គការសប្បុរសធម៌មួយចំនួននៅទូទាំងប្រទេស និងមូលដ្ឋាន ដែលទាក់ទងនឹងតំបន់ផ្សេងៗដែលពួកគេធ្លាប់ធ្វើការ និងរស់នៅ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "One other thing I want to play for you: Swifties who think they've seen the first images of the decor. Take a listen. We'll talk on the other side.",
+      "cn": "មានរឿងមួយទៀតដែលខ្ញុំចង់ឲ្យអ្នកស្តាប់៖ អ្នកគាំទ្រ Swift គិតថាពួកគេបានឃើញរូបភាពដំបូងនៃការតុបតែង។ ស្តាប់មើល។ យើងនឹងនិយាយពីវាពេលក្រោយ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "First images of Taylor Swift and Travis Kelce's wedding decorations. And look at these roses. Look at the color. Madison Square Garden is all decked out in rose blush. That's right, best friend. The color of the season is now rose blush.",
+      "cn": "រូបភាពដំបូងនៃការតុបតែងពិធីមង្គលការរបស់ Taylor Swift និង Travis Kelce។ មើលផ្កាកុលាបទាំងនេះ។ មើលពណ៌។ Madison Square Garden ត្រូវបានតុបតែងទាំងស្រុងជាពណ៌ផ្កាកុលាប។ ត្រូវហើយមិត្តល្អ។ ពណ៌នៃរដូវកាលនេះគឺពណ៌ផ្កាកុលាប។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, so is any of this true? I don't know what to do with that. I think I've seen drone images that are a little more impactful, but people are looking for any clue. And you know, it's interesting. I don't ascribe to the royal wedding aspect. America does not have royals. I'm OK saying that around Independence Day. But because it's football and music, like there's something about that, right? In our culture where this is somehow the kind of pinnacle of a kind of success.",
+      "cn": "អញ្ចឹងតើទាំងនេះពិតទេ? ខ្ញុំមិនដឹងថាត្រូវធ្វើអ្វីទេ។ ខ្ញុំគិតថាខ្ញុំបានឃើញរូបភាពពីយន្តហោះគ្មានមនុស្សបើកដែលមានឥទ្ធិពលជាងនេះ ប៉ុន្តែមនុស្សកំពុងស្វែងរកតម្រុយណាមួយ។ អ្នកដឹងទេ វាគួរឱ្យអស់សំណើច។ ខ្ញុំមិនយល់ស្របនឹងគំនិតរៀបការបែបរាជវង្សទេ។ អាមេរិកគ្មានរាជវង្សទេ។ ការនិយាយបែបនេះនៅជុំវិញថ្ងៃឯករាជ្យខ្ញុំគិតថាមិនអីទេ។ ប៉ុន្តែដោយសារវាជាបាល់ទាត់ និងតន្ត្រី វាពិសេសបន្តិចមែនទេ? នៅក្នុងវប្បធម៌របស់យើង វាហាក់ដូចជាកំពូលនៃភាពជោគជ័យមួយចំនួន។"
+    },
+    {
+      "speaker": "Aversa",
+      "text": "And the two reported marrying at a venue that marries sports and entertainment quite a bit, with the Knicks, and the Rangers, and college sports, and all of the different concerts and other events that have been held at this venue in midtown Manhattan. So, absolutely, I agree 100 percent. It's funny you talk about drones.",
+      "cn": "មានសេចក្តីរាយការណ៍ថាគូស្វាមីភរិយាថ្មីបានរៀបការនៅកន្លែងដែលតែងតែរួមបញ្ចូលកីឡា និងការកម្សាន្ត ដែលជាកន្លែងដែលក្រុម Knicks, Rangers, កីឡាមហាវិទ្យាល័យ និងការប្រគំតន្ត្រី និងព្រឹត្តិការណ៍ផ្សេងៗត្រូវបានប្រារព្ធឡើងនៅកណ្តាលក្រុង Manhattan។ ដូច្នេះ ពិតណាស់ ខ្ញុំយល់ស្រប 100%។ អ្នកនិយាយពីយន្តហោះគ្មានមនុស្សបើកគួរឱ្យចាប់អារម្មណ៍។"
+    },
+    {
+      "speaker": "Aversa",
+      "text": "You know, again, when these rumors started bubbling up, and we started hearing about them probably about a month and a half ago at this point, I was not shocked, in part because Taylor and Travis and their wedding party, you know, in part won't have to worry about drones snooping in on their wedding.",
+      "cn": "អ្នកដឹងទេ ម្តងទៀត នៅពេលដែលពាក្យចចាមអារ៉ាមទាំងនេះចាប់ផ្តើមផ្សព្វផ្សាយ ហើយយើងចាប់ផ្តើមឮពីវាប្រហែលមួយខែកន្លះមុន ខ្ញុំមិនភ្ញាក់ផ្អើលទេ មួយផ្នែកដោយសារតែ Taylor និង Travis និងក្រុមរៀបការរបស់ពួកគេ អ្នកដឹងទេ មួយផ្នែកដោយសារតែមិនបារម្ភពីយន្តហោះគ្មានមនុស្សបើកថតរូបពិធីមង្គលការរបស់ពួកគេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Ralphie, always a joy to talk to you. I hope you're not just stuck out there in the heat waiting to see it all, but thank you for being with us.",
+      "cn": "អូខេ Ralfie តែងតែរីករាយក្នុងការជជែកជាមួយអ្នក។ សង្ឃឹមថាអ្នកមិនជាប់គាំងក្នុងកម្តៅខ្លាំងរង់ចាំមើលរឿងនេះទេ ប៉ុន្តែអរគុណដែលនៅជាមួយយើង។"
+    },
+    {
+      "speaker": "Aversa",
+      "text": "I'll stay hydrated. Thanks, Audie.",
+      "cn": "ខ្ញុំនឹងរក្សាជាតិទឹក។ អរគុណ Otis។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The other person who will stay hydrated: Elizabeth Wagmeister, who will be outside Madison Square Garden for CNN. She's going to break down all the details of the expected wedding. We're talking venues, ceremony, dress. Guest performances. And there's going to be a special CNN All Access event. It's called \"Love Story: Taylor Swift and Travis Kelce.\" That's going to air at 1 p.m. Eastern at CNN.com/Watch. Or you can hit us up on the CNN app.",
+      "cn": "មនុស្សម្នាក់ទៀតដែលនឹងរក្សាជាតិទឹកគឺ Elizabeth Wagmeister ដែលនឹងរាយការណ៍សម្រាប់ CNN នៅខាងក្រៅ Madison Square Garden។ នាងនឹងវិភាគព័ត៌មានលម្អិតទាំងអស់នៃពិធីមង្គលការដែលគេរង់ចាំច្រើននេះ។ យើងនឹងពិភាក្សាពីទីកន្លែង ពិធី សម្លៀកបំពាក់ ការសម្តែងរបស់ភ្ញៀវ។ វាក៏នឹងមានព្រឹត្តិការណ៍ពិសេស CNN All-Platform មួយដែលមានឈ្មោះថា 'Love Story: Taylor Swift and Travis Kelce'។ កម្មវិធីនេះនឹងចាក់ផ្សាយនៅម៉ោង 1 រសៀល ម៉ោងភាគខាងកើត នៅលើ CNN.com/Watch ឬអ្នកក៏អាចមើលនៅលើកម្មវិធី CNN បានដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, straight ahead on the show this morning, underdog or frontrunner? Is Jon Ossoff becoming the Democrat to watch in his midterm race? Plus, brutal temperatures setting up for a sweltering Fourth. How it is impacting the celebrations where you are. var CNN = CNN || {};",
+      "cn": "អូខេ កម្មវិធីព្រឹកនេះជិតចាប់ផ្តើមហើយ តើជាសេះខ្មៅ ឬអ្នកនាំមុខ? តើ Jon Ossoff នឹងក្លាយជាអ្នកប្រជាធិបតេយ្យដែលគួរតាមដានក្នុងការបោះឆ្នោតពាក់កណ្តាលអាណត្តិដែរឬទេ? លើសពីនេះ សីតុណ្ហភាពក្តៅខ្លាំងកំពុងបង្កើតមូលដ្ឋានសម្រាប់ថ្ងៃទី 4 ខែកក្កដាដែលក្តៅហើយសើម។ តើនេះប៉ះពាល់ដល់ការប្រារព្ធពិធីនៅតំបន់របស់អ្នកយ៉ាងដូចម្តេច?"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Good morning. I'm Audie Cornish. Thank you for joining me on CNN THIS MORNING. It's now half past the hour. And here's what's happening right now. That dangerous heat wave tightening its grip on the eastern U.S., leaving more than 160 million Americans under extreme heat risk today. Temperatures will soar near 100 degrees in major cities, including New York, Philadelphia, Boston, and here in D.C. with a feels like temperature of a brutal 110.",
+      "cn": "អរុណសួស្តី។ ខ្ញុំគឺ Otis Cornish។ សូមអរគុណដែលបានទស្សនា 'CNN This Morning'។ ឥឡូវនេះម៉ោងកន្លះហើយ។ នេះជាអ្វីដែលកំពុងកើតឡើង។ រលកកម្តៅគ្រោះថ្នាក់កំពុងរឹតបន្តឹងការគ្រប់គ្រងលើភាគខាងកើតសហរដ្ឋអាមេរិក ដោយមានជនជាតិអាមេរិកជាង 160 លាននាក់ប្រឈមនឹងកម្តៅខ្លាំងនៅថ្ងៃនេះ។ សីតុណ្ហភាពនៅទីក្រុងធំៗនឹងកើនឡើងជិត 100 អង្សាហ្វារិនហៃ រួមទាំងទីក្រុងញូវយ៉ក ហ្វីឡាដេលហ្វៀ បូស្តុន និងវ៉ាស៊ីនតោនឌីស៊ី ដោយមានអារម្មណ៍ដូចជា 110 អង្សាហ្វារិនហៃដ៏ឃោរឃៅ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "That means parades and fireworks have been canceled or postponed from Delaware to New Jersey, New York and Pennsylvania. And Energy Secretary Chris Wright directed all data centers in the mid-Atlantic to use their backup power supplies instead of drawing electricity from the public grid that way there's enough power for residential air conditioning. And in Venezuela they're celebrating a miraculous rescue more than a week after those devastating earthquakes.",
+      "cn": "នេះមានន័យថាក្បួនដង្ហែ និងការបាញ់កាំជ្រួចពីរដ្ឋ Delaware ដល់ New Jersey, New York និង Pennsylvania ត្រូវបានលុបចោល ឬពន្យារពេល។ រដ្ឋមន្ត្រីថាមពល Chris Wright បានណែនាំមជ្ឈមណ្ឌលទិន្នន័យទាំងអស់នៅក្នុងតំបន់ Mid-Atlantic ឱ្យប្រើប្រាស់ថាមពលបម្រុងជំនួសឱ្យការទាញថាមពលពីបណ្តាញអគ្គិសនីសាធារណៈ ដើម្បីធានាថាមានអគ្គិសនីគ្រប់គ្រាន់សម្រាប់ម៉ាស៊ីនត្រជាក់ក្នុងផ្ទះ។ នៅ Venezuela ប្រជាជនកំពុងអបអរការជួយសង្គ្រោះដោយអព្ភូតហេតុ បន្ទាប់ពីការរញ្ជួយដីដ៏បំផ្លិចបំផ្លាញជាងមួយសប្តាហ៍។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "A mall security guard was pulled from the rubble Thursday. Officials say he survived in an air pocket. His rescue comes as the death toll continues to rise. More than 2,200 victims have been found so far. And today, Pope Leo XIV will accept the Philadelphia Liberty Medal. The pope, who's been honored for promoting liberty around the world, will attend the ceremony virtually. Leo is the first American pope. He will not visit the U.S. at all during its 250th year, despite the president's invitation.",
+      "cn": "កាលពីថ្ងៃព្រហស្បតិ៍ ឆ្មាំសន្តិសុខផ្សារទំនើបម្នាក់ត្រូវបានជួយសង្គ្រោះពីក្រោមគំនរបាក់បែក។ មន្ត្រីបាននិយាយថាគាត់បានរស់រានមានជីវិតនៅក្នុងហោប៉ៅខ្យល់។ ការជួយសង្គ្រោះរបស់គាត់កើតឡើងនៅពេលដែលចំនួនអ្នកស្លាប់នៅតែកើនឡើង។ បច្ចុប្បន្ននេះមានអ្នកស្លាប់ជាង 2,200 នាក់ត្រូវបានរកឃើញ។ ថ្ងៃនេះ សម្តេចប៉ាប Leo XIV នឹងទទួលបានមេដាយសេរីភាព Philadelphia។ សម្តេចប៉ាបដែលត្រូវបានគេទទួលស្គាល់ចំពោះការលើកកម្ពស់សេរីភាពនៅទូទាំងពិភពលោកនឹងចូលរួមពិធីនេះតាមប្រព័ន្ធនិម្មិត។ Leo គឺជាសម្តេចប៉ាបអាមេរិកដំបូងគេ។ ទោះបីជាមានការអញ្ជើញពីប្រធានាធិបតីក៏ដោយ ក៏គាត់នឹងមិនទៅទស្សនាសហរដ្ឋអាមេរិកក្នុងឱកាសខួប 250 ឆ្នាំរបស់អាមេរិកដែរ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Leo will visit an Italian island that is an migrant hotspot on July 4th. And Senator Jon Ossoff almost didn't run for another Senate term, but now his campaign is in full swing and going viral online. New polling from Fox has Senator Ossoff out front with an early, double digit lead in Georgia's Senate race. Behind the scenes there's growing chatter that if Democrats are looking for their next national leader, Ossoff's name belongs on the short list. And the group chat is back to talk about it.",
+      "cn": "Leo នឹងទៅទស្សនាកោះអ៊ីតាលីដែលជាចំណុចក្តៅនៃអន្តោប្រវេសន៍នៅថ្ងៃទី 4 ខែកក្កដា។ សមាជិកព្រឹទ្ធសភា Jon Ossoff ស្ទើរតែមិនបានឈរឈ្មោះបោះឆ្នោតឡើងវិញទេ ប៉ុន្តែឥឡូវនេះយុទ្ធនាការរបស់គាត់កំពុងដំណើរការពេញលេញ ហើយកំពុងពេញនិយមតាមអ៊ីនធឺណិត។ ការស្ទង់មតិថ្មីបំផុតរបស់ Fox បង្ហាញថាសមាជិកព្រឹទ្ធសភា Ossoff កំពុងនាំមុខដោយភាគរយពីរខ្ទង់ដំបូងក្នុងការប្រកួតប្រជែងព្រឹទ្ធសភារដ្ឋ Georgia។ មានការពិភាក្សាកាន់តែខ្លាំងឡើងនៅពីក្រោយឆាកថា ប្រសិនបើគណបក្សប្រជាធិបតេយ្យកំពុងស្វែងរកមេដឹកនាំជាតិបន្ទាប់ ឈ្មោះរបស់ Ossoff គួរតែស្ថិតក្នុងបញ្ជីបេក្ខជន។ ការជជែកជាក្រុមបានត្រលប់មកនិយាយពីរឿងនេះវិញហើយ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Why? Because Isaac Dovere has been writing about this. You actually went down there to talk to Ossoff.",
+      "cn": "ហេតុអ្វី? ព្រោះ Isaac Dover បានសរសេរអំពីរឿងនេះ។ អ្នកពិតជាបានទៅទីនោះ ហើយនិយាយជាមួយ Ossoff។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What is he doing differently than the conversation we've been stuck having here? Democratic socialists on the rise. Moderates upset. Who is he in the spectrum?",
+      "cn": "តើអ្វីដែលគាត់ធ្វើខុសពីការសន្ទនាដែលយើងកំពុងធ្វើនៅទីនេះ? អ្នកសង្គមនិយមប្រជាធិបតេយ្យកំពុងងើបឡើង។ អ្នកស្រាលមធ្យមមានអារម្មណ៍មិនស្រួល។ តើគាត់ស្ថិតនៅទីណាក្នុងវិសាលគម?"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "Well, you know, I asked him about that and he said, I'm not really interested in getting into Democratic factions. I couldn't get him going on it. We sat for quite a while in Savannah last week, and then his rally in Savannah on Saturday that I attended. What he does talk about is not really the big base issues or the national issues that are coming up. Everything he does on the stump, and even in the conversation with me, he very carefully directs back toward the issue of corruption.",
+      "cn": "មែនហើយ អ្នកដឹងទេ ខ្ញុំបានសួរគាត់សំណួរនេះ ហើយគាត់និយាយថា ខ្ញុំមិនចាប់អារម្មណ៍ក្នុងការជ្រៀតជ្រែកក្នុងក្រុមបក្សប្រជាធិបតេយ្យទេ។ ខ្ញុំមិនអាចឲ្យគាត់និយាយបន្តទៀតបានទេ។ សប្តាហ៍មុនយើងបានចំណាយពេលច្រើននៅ Savannah ហើយបន្ទាប់មកថ្ងៃសៅរ៍ខ្ញុំបានចូលរួមការជួបជុំរបស់គាត់នៅ Savannah។ អ្វីដែលគាត់និយាយមិនមែនជាបញ្ហាមូលដ្ឋានធំៗ ឬបញ្ហាជាតិដែលនឹងកើតឡើងនោះទេ។ អ្វីគ្រប់យ៉ាងដែលគាត់ធ្វើក្នុងសុន្ទរកថាយុទ្ធនាការរបស់គាត់ សូម្បីតែការសន្ទនាជាមួយខ្ញុំ គឺប្រុងប្រយ័ត្នខ្លាំងណាស់ក្នុងការនាំប្រធានបទត្រឡប់ទៅរកអំពើពុករលួយវិញ។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "And not just talking about corruption --",
+      "cn": "ហើយមិនត្រឹមតែនិយាយពីអំពើពុករលួយ -- --"
+    },
+    {
+      "speaker": "Ok. Dovere",
+      "text": "And corruption of the Trump presidency. But also linking that very directly to how it affects people's lives. So, look, he had a line that got a lot of people laughing at the beginning of the rally where he said, oh, the Iranians closed the Strait of Hormuz again and so the -- his quote was, the president threw his toys out of the stroller and didn't pass the housing bill. But again, that's -- or didn't sign the housing bill. That's making it about how it's relevant to people's lives.",
+      "cn": "ប៉ុន្តែអំពើពុករលួយរបស់រដ្ឋបាល Trump។ ហើយក៏ភ្ជាប់វាដោយផ្ទាល់ទៅនឹងរបៀបដែលជីវិតមនុស្សត្រូវបានប៉ះពាល់។ ដូច្នេះ អ្នកឃើញទេ គាត់បាននិយាយអ្វីមួយនៅដើមការជួបជុំដែលធ្វើឲ្យមនុស្សជាច្រើនសើច គាត់និយាយថា អូ អ៊ីរ៉ង់បានបិទច្រកសមុទ្រ Hormuz ម្តងទៀត ដូច្នេះ -- -- ពាក្យរបស់គាត់គឺ ប្រធានាធិបតីបានគប់របស់ក្មេងលេងចេញពីរទេះកូនក្មេង ហើយមិនបានអនុម័តច្បាប់លំនៅដ្ឋានទេ។ ប៉ុន្តែម្តងទៀត នោះគឺ -- -- ឬមិនបានចុះហត្ថលេខាលើច្បាប់លំនៅដ្ឋាន។ វាភ្ជាប់វាទៅនឹងរបៀបដែលវាទាក់ទងនឹងជីវិតមនុស្ស។"
+    },
+    {
+      "speaker": "Ok. Dovere",
+      "text": "He talked about -- when he talks about the ballroom being constructed, he says, what's going on is donors who got tax cuts are writing checks to -- for the ballroom, but those tax cuts paid, Ossoff says, and it's true when you look at the math of it, for the subsidy cuts on Obamacare that made health care prices go up for people. And he's always talking about things like that, but also highlighting things that many people haven't been even thinking about when it comes to the questions around corruption.",
+      "cn": "គាត់និយាយពី -- -- នៅពេលគាត់និយាយពីសាលរាំដែលកំពុងសាងសង់ គាត់និយាយថា អ្វីដែលកំពុងកើតឡើងគឺ អ្នកបរិច្ចាគដែលទទួលបានការកាត់បន្ថយពន្ធកំពុងសរសេរមូលប្បទានប័ត្រសម្រាប់សាលរាំ ប៉ុន្តែការកាត់បន្ថយពន្ធទាំងនោះបានចំណាយ ហើយ Ossoff និយាយថា ហើយនៅពេលអ្នកពិនិត្យមើលការគណនា វាពិតជាដូច្នេះមែន ការកាត់បន្ថយប្រាក់ឧបត្ថម្ភសម្រាប់ Obamacare បានធ្វើឲ្យតម្លៃថែទាំសុខភាពរបស់មនុស្សកើនឡើង។ គាត់តែងតែនិយាយពីរឿងបែបនេះ ប៉ុន្តែក៏សង្កត់ធ្ងន់លើរឿងជាច្រើនដែលមនុស្សមិនធ្លាប់គិតពេលគិតពីអំពើពុករលួយ។"
+    },
+    {
+      "speaker": "Ok. Dovere",
+      "text": "There is, for example, in Albania, something going on right now called the flamingo revolution. And it's because Jared Kushner and Ivanka Trump have been trying to buy an island to develop a resort there. It is causing such protests in Albania that it may topple the government there. And yet it is not something that is being talked about here.",
+      "cn": "ឧទាហរណ៍ នៅ Albania ឥឡូវនេះកំពុងមានអ្វីដែលគេហៅថាបដិវត្តន៍ Flamingo។ នេះគឺដោយសារតែ Jared Kushner និង Ivanka Trump បានព្យាយាមទិញកោះមួយដើម្បីអភិវឌ្ឍរមណីយដ្ឋាន។ នេះបានបង្កឱ្យមានការតវ៉ាយ៉ាងខ្លាំងនៅ Albania រហូតដល់អាចផ្តួលរំលំរដ្ឋាភិបាលនៅទីនោះ។ ទោះយ៉ាងណា នៅទីនេះគ្មាននរណានិយាយពីរឿងនេះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, you know -- exactly. So let me bring it to this side of the table because I think that's what's interesting. Taking something like corruption, which is a big amorphous concept, I think, for a lot of people. Even I, on air, you know, I'm trying to explain, this is how this crypto deal works. This is how this contract works. It's complicated. So, what do you think of using that as a way in to the voter?",
+      "cn": "អញ្ចឹង អ្នកដឹងទេ  --  --  ពិតប្រាកដណាស់។ ដូច្នេះសូមឲ្យខ្ញុំនាំប្រធានបទមកខាងនេះ ព្រោះខ្ញុំគិតថាវាគួរឱ្យចាប់អារម្មណ៍។ រឿងដូចជាអំពើពុករលួយ ខ្ញុំគិតថាជាគំនិតធំមួយដែលមិនច្បាស់លាស់សម្រាប់មនុស្សជាច្រើន។ សូម្បីតែខ្ញុំផ្ទាល់ ក្នុងការផ្សាយផ្ទាល់ អ្នកដឹងទេ ខ្ញុំព្យាយាមពន្យល់ពីរបៀបដែលការជួញដូរ cryptocurrency នេះដំណើរការ។ តើកិច្ចសន្យានេះដំណើរការយ៉ាងដូចម្តេច។ វាស្មុគស្មាញណាស់។ ដូច្នេះ តើអ្នកគិតថាការប្រើចំណុចនេះជាចំណុចចូលដើម្បីទាក់ទងអ្នកបោះឆ្នោតយ៉ាងដូចម្តេច?"
+    },
+    {
+      "speaker": "Xochitl Hinojosa",
+      "text": "Yes. All the polling I have seen is that Americans care about corruption, but they really care about it when you talk about how this family or the Trump administration or this billionaire is getting rich and richer and richer either through deals, et cetera, and your average American is paying higher prices.",
+      "cn": "បាទ/ចាស។ ការស្ទង់មតិទាំងអស់ដែលខ្ញុំបានឃើញបង្ហាញថា ជនជាតិអាមេរិកយកចិត្តទុកដាក់អំពីអំពើពុករលួយ ប៉ុន្តែនៅពេលអ្នកនិយាយអំពីគ្រួសារនេះ ឬរដ្ឋាភិបាល Trump ឬរបៀបដែលមហាសេដ្ឋីនេះកាន់តែមានអ្នកមានតាមរយៈការជួញដូរជាដើម ខណៈដែលជនជាតិអាមេរិកធម្មតាកំពុងចំណាយតម្លៃខ្ពស់ជាង ពួកគេពិតជាយកចិត្តទុកដាក់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, they have to be connected to taking the hit financially.",
+      "cn": "ដូច្នេះ ត្រូវតែភ្ជាប់ពួកគេទៅនឹងការខាតបង់ផ្នែកសេដ្ឋកិច្ច។"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "They are taking the hit. They are doing something on the backs of the working people.",
+      "cn": "ពួកគេកំពុងទទួលរងការខាតបង់។ ពួកគេកំពុងធ្វើអ្វីមួយដោយចំណាយលើប្រជាជនកម្មករ។"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "I will say that it's smart for him to talk about that because we all know that the number one issue is the economy. That's what American voters care about. But when you're looking at Ossoff moving forward and his potential future, the other thing you know about the Democratic Party is, they want a fighter. They don't want someone who's going to talk about love and unity in a primary.",
+      "cn": "ខ្ញុំចង់និយាយថា គាត់ឆ្លាតណាស់ដែលនិយាយរឿងនេះ ព្រោះយើងទាំងអស់គ្នាដឹងថាបញ្ហាលេខមួយគឺសេដ្ឋកិច្ច។ នោះហើយជាអ្វីដែលអ្នកបោះឆ្នោតអាមេរិកខ្វល់ខ្វាយ។ ប៉ុន្តែពេលអ្នកមើលឃើញការរីកចម្រើនរបស់ Ossoff និងអនាគតដ៏មានសក្តានុពលរបស់គាត់ អ្វីដែលអ្នកដឹងទៀតអំពីគណបក្សប្រជាធិបតេយ្យគឺពួកគេចង់បានអ្នកប្រយុទ្ធ។ ពួកគេមិនចង់បានអ្នកដែលនិយាយអំពីសេចក្តីស្រឡាញ់ និងការរួបរួមក្នុងការបោះឆ្នោតបឋមនោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Are you sure? Because let's look at Ossoff's campaign image, the \"o\" for Ossoff looks suspiciously like, I don't know, an o that feels like one, that reminds one of hope and change.",
+      "cn": "អ្នកប្រាកដទេ? ព្រោះតោះមើលរូបភាពយុទ្ធនាការរបស់ Ossoff អក្សរ \"o\" នៅក្នុងឈ្មោះ Ossoff មើលទៅដូចជា ខ្ញុំមិនដឹងទេ អក្សរ \"o\" ដែលធ្វើឲ្យនឹកដល់ Hope and Change ។"
+    },
+    {
+      "speaker": "Jesse Arm",
+      "text": "Three stipes through it.",
+      "cn": "មានបីបន្ទាត់ពីលើ។"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "But I will say -- but in the primary, yes, but it --",
+      "cn": "ប៉ុន្តែខ្ញុំចង់និយាយថា -- -- ក្នុងការបោះឆ្នោតបឋម បាទ ប៉ុន្តែវា -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, this is what the -- when they go low --",
+      "cn": "ដូច្នេះ នេះជាពេលដែល -- -- ពួកគេបន្ទាបឥរិយាបថ -- --"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "That -- I don't think -- I think Democrats have retired that.",
+      "cn": "នោះ -- -- ខ្ញុំមិនគិតថា -- -- ខ្ញុំគិតថាគណបក្សប្រជាធិបតេយ្យបានបោះបង់វាហើយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, not so much. Let me let you get a word in.",
+      "cn": "ទេ មិនធ្ងន់ធ្ងរប៉ុន្មានទេ។ សូមឲ្យខ្ញុំនិយាយបន្តិច។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Are we looking at another Obama? And if you are, is that good or bad news for Republicans in the age of Trump? We're in a way different time now where you fight off a candidate like this with a Romney.",
+      "cn": "តើយើងកំពុងមើល Obama ម្នាក់ទៀតមែនទេ? បើដូច្នេះ តើនេះល្អ ឬអាក្រក់សម្រាប់គណបក្សសាធារណរដ្ឋក្នុងសម័យ Trump? ឥឡូវនេះយើងស្ថិតក្នុងសម័យខុសគ្នាទាំងស្រុង អ្នកត្រូវប្រើមនុស្សដូច Romney ដើម្បីប្រកួតប្រជែងជាមួយបេក្ខជនបែបនេះ។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "Ossoff has managed to maintain relatively inoffensive so far --",
+      "cn": "Ossoff រហូតមកដល់ពេលនេះទទួលបានជោគជ័យក្នុងការរក្សាភាពមធ្យម -- --"
+    },
+    {
+      "speaker": "Arm",
+      "text": "To both the mainstream liberal majority of the Democratic coalition, as well as the ascendant far left flank.",
+      "cn": "ទាំងសម្រាប់ពួកសេរីនិយមភាគច្រើនក្នុងសម្ព័ន្ធគណបក្សប្រជាធិបតេយ្យ និងសម្រាប់ពួកឆ្វេងនិយមជ្រុលដែលកំពុងងើបឡើង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And we're going to show the cash on hand while you're speaking.",
+      "cn": "ពេលអ្នកកំពុងនិយាយ យើងនឹងបង្ហាញសាច់ប្រាក់ដែលមាននៅនឹងដៃ។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "Yes. Yes. That works. Look, I think that Ossoff, ultimately the big challenge for him will be that the far left ascendant flank will continue to demand more and more and more. And as they extract that from him, there will be a price to play (ph) with the more moderate majority of the Democratic Party. Ultimately --",
+      "cn": "បាទ។ បាទ។ វាដំណើរការ។ ស្តាប់ ខ្ញុំគិតថាបញ្ហាប្រឈមធំបំផុតដែល Ossoff នឹងប្រឈមមុខនៅទីបំផុតគឺថា ពួកឆ្វេងនិយមជ្រុលនឹងបន្តទាមទារបន្ថែមទៀត។ ពេលពួកគេទទួលបានពីគាត់ គាត់នឹងត្រូវចំណាយជាមួយពួកមធ្យមនិយមភាគច្រើនក្នុងគណបក្សប្រជាធិបតេយ្យ។ នៅទីបំផុត -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In a Senate race or do you mean for 2028?",
+      "cn": "ក្នុងការបោះឆ្នោតព្រឹទ្ធសភា ឬអ្នកសំដៅដល់ឆ្នាំ 2028?"
+    },
+    {
+      "speaker": "Arm",
+      "text": "Oh, no, no, no, I think he's going to win the Senate race.",
+      "cn": "អូ ទេ ទេ ទេ ខ្ញុំគិតថាគាត់នឹងឈ្នះការបោះឆ្នោតព្រឹទ្ធសភា។"
+    },
+    {
+      "speaker": "Ok. Arm",
+      "text": "But we're already talking about 2028, and that's part of the --",
+      "cn": "ប៉ុន្តែយើងកំពុងនិយាយអំពីឆ្នាំ 2028 រួចហើយ ហើយនេះក៏ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, I was going to say --",
+      "cn": "បាទ ខ្ញុំកំពុងនិយាយ -- --"
+    },
+    {
+      "speaker": "Arm",
+      "text": "That's part of the allure of this guy. Republicans really had a damaging dynamic where the popular incumbent governor of Georgia endorsed one candidate. The president endorsed somebody else. They're both coming out of that bruised. You know, Mike Collins is going to be the nominee. This was supposed to be one of the biggest pickup opportunities for Republicans this cycle. And now Ossoff is poised to run away with it because he is having this viral moment. But we'll see if he can sustain it. I don't know that he --",
+      "cn": "នេះក៏ជាភាពទាក់ទាញរបស់បុរសនេះដែរ។ គណបក្សសាធារណរដ្ឋពិតជាមានសក្ដានុពលបំផ្លាញមួយ៖ អភិបាលរដ្ឋដ៏ពេញនិយមម្នាក់នៅ Georgia បានគាំទ្របេក្ខជនម្នាក់ ហើយប្រធានាធិបតីបានគាំទ្រម្នាក់ទៀត។ អ្នកទាំងពីររងរបួសដោយសាររឿងនេះ។ អ្នកដឹងទេ Mike Collins នឹងក្លាយជាអ្នកតែងតាំង។ នេះគួរតែជាឱកាសធំបំផុតមួយរបស់គណបក្សសាធារណរដ្ឋក្នុងវដ្តនេះ។ ហើយឥឡូវនេះ Ossoff ដោយសារពេលវេលាផ្សព្វផ្សាយដ៏ឆ្លងរបស់គាត់ ត្រៀមខ្លួនឈ្នះយ៉ាងងាយស្រួល។ ប៉ុន្តែយើងនឹងមើលថាតើគាត់អាចរក្សាវាបានដែរឬទេ។ ខ្ញុំមិនដឹងថាគាត់ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, viral without being all about the internet, which I find interesting as well.",
+      "cn": "បាទ ការផ្សព្វផ្សាយដោយមិនពឹងផ្អែកទាំងស្រុងលើអ៊ីនធឺណិត ខ្ញុំគិតថាវាគួរឱ្យចាប់អារម្មណ៍។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "Yes. And, look, he's done some of the things that are like basic stuff. People, Republicans -- from Republicans to people on the far left talk about his constituent services in Georgia. But it is really stunning. Georgia is a purple state at best. It's really like a red state that has elected some Democrats.",
+      "cn": "បាទ។ ហើយគាត់បានធ្វើរឿងមូលដ្ឋានមួយចំនួន។ មនុស្ស -- -- ពីគណបក្សសាធារណរដ្ឋរហូតដល់ពួកឆ្វេងនិយមជ្រុល -- -- កំពុងនិយាយអំពីសេវាកម្មអ្នកបោះឆ្នោតរបស់គាត់នៅ Georgia ។ ប៉ុន្តែវាពិតជាគួរឱ្យភ្ញាក់ផ្អើល។ Georgia គឺជារដ្ឋពណ៌ស្វាយនៅពេលល្អបំផុត។ តាមពិតវាដូចជារដ្ឋក្រហមដែលបោះឆ្នោតជ្រើសរើសអ្នកប្រជាធិបតេយ្យមួយចំនួន។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "And Ossoff is running comfortably there. Now. I asked him, does he think of himself as being in a strong position? He said, I'm the underdog. But look, you showed that money there. The polling that's there. It is -- it is striking to see.",
+      "cn": "ហើយ Ossoff កំពុងធ្វើយុទ្ធនាការយ៉ាងស្រួលនៅទីនោះ។ ឥឡូវនេះ ខ្ញុំសួរគាត់ថាតើគាត់គិតថាខ្លួនឯងស្ថិតក្នុងជំហរខ្លាំងឬ? គាត់និយាយថា ខ្ញុំជាអ្នកខ្សោយ។ ប៉ុន្តែអ្នកឃើញទេ អ្នកបង្ហាញមូលនិធិទាំងនោះ។ ការស្ទង់មតិនៅទីនោះ។ នេះ -- -- នេះគួរឱ្យកត់សម្គាល់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, the vibe is not underdog.",
+      "cn": "បាទ វាមិនមានអារម្មណ៍ដូចអ្នកខ្សោយទេ។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "They're -- the last time a Democrat was elected to a second full term in the Senate from Georgia was Sam Nunn in 1990.",
+      "cn": "លើកចុងក្រោយដែលអ្នកប្រជាធិបតេយ្យម្នាក់ត្រូវបានជ្រើសរើសឡើងវិញជាសមាជិកព្រឹទ្ធសភាពី Georgia គឺ Sam Nunn ក្នុងឆ្នាំ 1990 ។"
+    },
+    {
+      "speaker": "Ok. Dovere",
+      "text": "And this race is being thought of by Democrats as basically a shoo-in at this point. We'll see if it remains that way. But it is a real testament to what Ossoff has been able to pull off. And the way that, you know, he gets this -- he has -- he said to me no on the presidential stuff. He -- it comes because he pops up once a month with these speeches and gets people talking.",
+      "cn": "បច្ចុប្បន្ននេះ អ្នកប្រជាធិបតេយ្យគិតថាការបោះឆ្នោតនេះជាការឈ្នះដែលស្ទើរតែប្រាកដ។ យើងនឹងរង់ចាំមើលថាតើវាដូច្នេះឬអត់។ ប៉ុន្តែនេះពិតជាបង្ហាញពីសមត្ថភាពរបស់ Ossoff ។ ហើយអ្នកដឹងទេ គាត់ -- -- គាត់មិនបញ្ចេញមតិអំពីប្រធានាធិបតីចំពោះខ្ញុំទេ។ គាត់ -- -- នេះដោយសារតែរៀងរាល់ខែគាត់ថ្លែងសុន្ទរកថា ដែលធ្វើឲ្យមនុស្សពិភាក្សា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Well, we love a good, he's running story. So, I'm sure we'll be back. I want to turn back to America's 250th birthday. The country is, frankly, still arguing over its founding. We've gone from debates about confederate monuments, to fights over critical race theory and diversity, equity, inclusion, and how history should be taught in schools. And now there's this new Gallup poll showing just 33 percent of U.S.",
+      "cn": "ល្អ។ យើងចូលចិត្តស្តាប់រឿងយុទ្ធនាការរបស់គាត់។ ខ្ញុំជឿថាយើងនឹងនិយាយគ្នាទៀត។ ខ្ញុំចង់ត្រលប់ទៅប្រធានបទខួបកំណើត 250 ឆ្នាំរបស់អាមេរិក។ និយាយដោយត្រង់ទៅ ប្រទេសនេះនៅតែជជែកគ្នាអំពីបញ្ហាគ្រឹះរបស់ខ្លួន។ ពីការជជែកអំពីវិមានសហព័ន្ធ រហូតដល់ការតស៊ូជុំវិញទ្រឹស្តីពូជសាសន៍ដ៏សំខាន់ ភាពចម្រុះ សមធម៌ ការរួមបញ្ចូល និងការអប់រំប្រវត្តិសាស្ត្រនៅក្នុងសាលា។ ឥឡូវនេះការស្ទង់មតិថ្មីរបស់ Gallup បង្ហាញថាមានតែ 33% នៃអាមេរិក"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "adults are extremely proud to be an American, but that is the lowest level recorded on that question in 25 years. So, what does that tell us about where America is in its own story? So, I'm bringing in Leah Wright, CNN political historian and associate professor of history at Johns Hopkin's University, and Alexander Heffner, host of the PBS show \"The Open Mind.\" He's also the co-author of a documentary, \"History of the United States.\" So, I wanted to talk to you guys because with this Trump administration, they",
+      "cn": "មនុស្សពេញវ័យមានមោទនភាពក្នុងការធ្វើជាជនជាតិអាមេរិក ដែលជាកំណត់ត្រាទាបបំផុតក្នុងរយៈពេល 25 ឆ្នាំ។ ដូច្នេះ តើនេះប្រាប់យើងថាអាមេរិកស្ថិតនៅទីណាក្នុងរឿងរ៉ាវរបស់ខ្លួន? ដូច្នេះ ខ្ញុំបានអញ្ជើញអ្នកប្រវត្តិសាស្រ្តនយោបាយ CNN សាស្ត្រាចារ្យរងប្រវត្តិសាស្រ្តនៅសាកលវិទ្យាល័យ Johns Hopkins គឺ Leah Wright និងពិធីករកម្មវិធី PBS \"Open Mind\" គឺ Alexander Heffner។ គាត់ក៏ជាសហអ្នកនិពន្ធភាពយន្តឯកសារ \"American History\" ផងដែរ។ ខ្ញុំចង់និយាយជាមួយអ្នកទាំងពីរ ពីព្រោះរដ្ឋបាល Trump"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "have made restoring pride in our country actually a kind of guiding light. When you look at some of the executive orders, for instance, one of the things they do is try to correct for what they see as too much dogma in politics.",
+      "cn": "ពិតជាបានដាក់ការស្តារមោទនភាពជាតិជាគោលការណ៍ណែនាំ។ សូមក្រឡេកមើលបទបញ្ជាប្រតិបត្តិមួយចំនួន ឧទាហរណ៍ ពួកគេព្យាយាមកែតម្រូវនូវអ្វីដែលពួកគេយល់ថាជាលទ្ធិច្រើនពេកនៅក្នុងនយោបាយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "One of them saying, they want to \"instead focus on the greatness of the achievements and progress of the American people, respect of natural features, beauty, abundance, and grandeur of the American landscape.\" If that's the case, and I want to start with you, Leah, why are we seeing this Gallup poll number and pride actually dip further?",
+      "cn": "បទបញ្ជាមួយក្នុងចំណោមនោះបាននិយាយថា ពួកគេចង់ \"បង្វែរការយកចិត្តទុកដាក់ទៅលើសមិទ្ធផល និងវឌ្ឍនភាពដ៏អស្ចារ្យរបស់ប្រជាជនអាមេរិក ដោយគោរពដល់ទេសភាពធម្មជាតិ ភាពស្រស់ស្អាត ភាពសម្បូរបែប និងភាពអស្ចារ្យនៃទេសភាពអាមេរិក។\" បើដូច្នេះ ខ្ញុំចង់សួរអ្នកជាមុនសិន Leah ហេតុអ្វីបានជាយើងឃើញលេខ Gallup poll និងមោទនភាពធ្លាក់ចុះបន្ថែមទៀត?"
+    },
+    {
+      "speaker": "Leah Wright",
+      "text": "Well, I think one of the things to point out here is that the Trump administration's actions are having the exact opposite effect, at least amongst the public, and how the public understands and wants to understand American history and America at 250. Now, for the Trump administration, this is their vision of what America should be. And that's not unusual.",
+      "cn": "ខ្ញុំគិតថា ចំណុចមួយដែលត្រូវចង្អុលបង្ហាញគឺថា សកម្មភាពរបស់រដ្ឋបាល Trump បានបង្កើតផលប៉ះពាល់ផ្ទុយស្រឡះ យ៉ាងហោចណាស់នៅក្នុងចំណោមសាធារណជន និងរបៀបដែលសាធារណជនយល់ និងចង់យល់ពីប្រវត្តិសាស្រ្តអាមេរិក និងអាមេរិកអាយុ 250 ឆ្នាំ។ សម្រាប់រដ្ឋបាល Trump នេះគឺជាចក្ខុវិស័យរបស់ពួកគេចំពោះអ្វីដែលអាមេរិកគួរតែជា។ នេះមិនមែនជារឿងចម្លែកទេ។"
+    },
+    {
+      "speaker": "Leah Wright",
+      "text": "We've had a lot of -- you know, we've had a lot of work, a lot of ,scholarship that shows us that arounds -- that around America's anniversaries there tends to be a push from administrations to whitewash American history, to focus simply on the great acts, but a very specific great acts by specific great people, predominantly white men. But that's not the mood that Americans are in today. Americans want to hear about all of the messy, complicated aspects of American history, of United States history.",
+      "cn": "យើងមានច្រើន -- -- អ្នកដឹងទេ យើងមានការស្រាវជ្រាវច្រើន លទ្ធផលសិក្សាច្រើនដែលបង្ហាញថា នៅជុំវិញខួបអាមេរិក រដ្ឋាភិបាលតែងតែជំរុញឱ្យមានការលាបពណ៌ប្រវត្តិសាស្រ្តអាមេរិក ដោយផ្តោតតែលើទង្វើដ៏អស្ចារ្យ ប៉ុន្តែគ្រាន់តែជាទង្វើដ៏អស្ចារ្យជាក់លាក់របស់មនុស្សអស្ចារ្យជាក់លាក់ ភាគច្រើនជាបុរសស្បែកស។ ប៉ុន្តែនេះមិនមែនជាអារម្មណ៍របស់ជនជាតិអាមេរិកសព្វថ្ងៃនេះទេ។ ជនជាតិអាមេរិកចង់ឮពីទិដ្ឋភាពដ៏ច្របូកច្របល់ និងស្មុគស្មាញទាំងអស់នៃប្រវត្តិសាស្រ្តអាមេរិក ប្រវត្តិសាស្រ្តនៃសហរដ្ឋអាមេរិក។"
+    },
+    {
+      "speaker": "Leah Wright",
+      "text": "They understand just simply by virtue of their experience within the United States. Even the experience today of, you know, of inequality, lack of social mobility.",
+      "cn": "ពួកគេយល់ពីចំណុចនេះតាមរយៈបទពិសោធន៍របស់ពួកគេនៅអាមេរិកប៉ុណ្ណោះ។ សូម្បីតែបទពិសោធន៍សព្វថ្ងៃនេះ អ្នកដឹងទេ វិសមភាព កង្វះចលនាសង្គម។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. But can I jump here on that because --",
+      "cn": "បាទ។ ប៉ុន្តែខ្ញុំអាចជ្រៀតបានទេ ព្រោះ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I do wonder, what you're talking about is this feeling that the social contract is frayed, right?",
+      "cn": "ខ្ញុំពិតជាកំពុងគិតថា អ្វីដែលអ្នកកំពុងនិយាយគឺជាអារម្មណ៍នៃកិច្ចសន្យាសង្គមដែលត្រូវបានចុះខ្សោយ មែនទេ?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That somehow the -- we're not holding up our end of the bargain here as institutions. I want to come to you, Alex, because I'm looking at this polling where it says, do you think the American dream still holds true? Fifty-one percent said once held true but no longer. Just 15 percent said never held true. So, I don't think I'm looking at a populist that is like, the American dream is always BS.",
+      "cn": "ដូចម្ដេចក៏ដោយ យើងក្នុងនាមជាស្ថាប័នមិនបានបំពេញការសន្យារបស់យើងទេ។ ខ្ញុំចង់សួរអ្នក Alex ព្រោះខ្ញុំឃើញការស្ទង់មតិនេះនិយាយថា តើអ្នកគិតថាសុបិនអាមេរិកនៅតែពិតដែរឬទេ? 51% និយាយថាធ្លាប់ពិត ប៉ុន្តែលែងពិតទៀតហើយ។ មានតែ 15% ទេដែលនិយាយថាមិនដែលពិត។ ដូច្នេះ ខ្ញុំមិនគិតថាខ្ញុំឃើញអ្នកប្រជានិយមនិយាយថា សុបិនអាមេរិកតែងតែជារឿងមិនពិតនោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There's plenty of people who seem to have thought, yes, there was a lot of things sort of promised and being here and we don't think we're trending in that direction. ALEXANDER HEFFNER, HOST, PBS \"THE OPEN MIND\": Audie, I call this a kind of delinquency of futility, or you could also call it the futility of delinquency in American politics. Many people have commented on the paralysis as a result of the partizan division, the ad hominems, the viciousness of the discourse. And it's not even that it's so bellicose.",
+      "cn": "មានមនុស្សជាច្រើនដែលហាក់ដូចជាគិតថា បាទ មានរឿងជាច្រើនត្រូវបានសន្យា ប៉ុន្តែយើងមានអារម្មណ៍ថាមិនបានដើរទៅរកទិសដៅនោះទេ។ ពិធីករកម្មវិធី PBS \"Open Mind\" Alexander Heffner: Audi ខ្ញុំហៅវាថាជាការខកខានដោយឥតប្រយោជន៍ ឬអ្នកក៏អាចហៅវាថាជាការខកខានដោយឥតប្រយោជន៍ក្នុងនយោបាយអាមេរិក។ មនុស្សជាច្រើនបានអត្ថាធិប្បាយអំពីការខ្វិនដោយសារតែការបែងចែកបក្សពួក ការវាយប្រហារផ្ទាល់ខ្លួន និងពាក្យសម្ដីអាក្រក់។ ហើយនេះមិនមែនគ្រាន់តែជាបញ្ហានៃការឈ្លានពាននោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's that it has strung us up in a constant state of impasse that we can't feel the achievement of the present. And I always think it's important to return to those founding documents and to hold them up for both the aspirations and the resentments that we experience and have experienced as a country. But I think part of the problem is the gaslighting.",
+      "cn": "វាធ្វើឱ្យយើងជាប់គាំងជាបន្តបន្ទាប់ មិនអាចមានអារម្មណ៍ពីសមិទ្ធផលនាពេលបច្ចុប្បន្នបានទេ។ ខ្ញុំតែងតែគិតថា ការត្រលប់ទៅឯកសារបង្កើតប្រទេសទាំងនោះវិញគឺសំខាន់ ដោយប្រើវាជាឯកសារយោងសម្រាប់សេចក្តីប្រាថ្នា និងការអាក់អន់ចិត្តដែលយើងធ្លាប់មាន និងកំពុងមានក្នុងនាមជាប្រទេសមួយ។ ប៉ុន្តែខ្ញុំគិតថាបញ្ហាមួយផ្នែកគឺការបំភ្លឺឧស្ម័ន (gaslighting)។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You know, when you look at something like the Emoluments Clause, earlier you were talking about corruption in the Trump administration, and the fact that the United States Supreme Court, during the Trump administration's first go, essentially said, that doesn't exist. And now we have a president who's flying on a plane, in Air Force One, recently debuted that is a gift from Qatar. So, there are things that just don't add up in the republic right now.",
+      "cn": "អ្នកដឹងទេ ពេលអ្នកឃើញអ្វីដូចជា \"Emoluments Clause\" កាលពីមុនអ្នកកំពុងនិយាយអំពីអំពើពុករលួយរបស់រដ្ឋបាល Trump និងរបៀបដែលតុលាការកំពូលអាមេរិកក្នុងអាណត្តិទីមួយរបស់រដ្ឋបាល Trump បាននិយាយជាមូលដ្ឋានថាវាមិនមានទេ។ ហើយឥឡូវនេះប្រធានាធិបតីរបស់យើងជិះយន្តហោះ Air Force One ដែលជាអំណោយពីកាតា។ ដូច្នេះ មានអ្វីមួយខុសនៅក្នុងសាធារណរដ្ឋនេះឥឡូវនេះ។"
+    },
+    {
+      "speaker": "Heffner",
+      "text": "And let's just be honest about this. We have to be equal opportunity critics. And the golden rule of American political life ought to be intellectual honesty. So, when people talk about Speaker Pelosi --",
+      "cn": "សូមឱ្យយើងស្មោះត្រង់ចំពោះចំណុចនេះ។ យើងត្រូវតែជាអ្នករិះគន់ដោយស្មើភាព។ ច្បាប់មាសនៃជីវិតនយោបាយអាមេរិកគួរតែជាភាពស្មោះត្រង់ខាងបញ្ញា។ ដូច្នេះ ពេលមនុស្សនិយាយអំពីប្រធានសភា Pelosi -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, let me jump in here then --",
+      "cn": "អញ្ចឹង ខ្ញុំសូមជ្រៀតបន្តិច -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Just because you're in the modern politics, and I brought you guys on because it's been a time for historians in the last couple of years. I imagine your group chats are all a mess. And I remember a few years ago when the 1619 Project came out, we never heard the end of it. The backlash, the arguing, what should be taught in schools. As we speak, people are talking about textbooks. I think the Trump administration, and many supporters have pushed back harder on 1776 as the time.",
+      "cn": "គ្រាន់តែដោយសារអ្នកស្ថិតក្នុងនយោបាយទំនើប ខ្ញុំបានអញ្ជើញអ្នកមក ពីព្រោះប៉ុន្មានឆ្នាំចុងក្រោយនេះគឺជាសម័យរបស់អ្នកប្រវត្តិសាស្រ្ត។ ខ្ញុំគិតថាការជជែកជាក្រុមរបស់អ្នកប្រាកដជារញ៉េរញ៉ៃណាស់។ ខ្ញុំចាំបានថាកាលពីប៉ុន្មានឆ្នាំមុន ពេលដែលគម្រោង 1619 ចេញមក យើងបានឮវាមិនចេះចប់។ ការប្រឆាំង ការជជែកវែកញែក អ្វីដែលសាលាគួរបង្រៀន។ សូម្បីតែពេលយើងកំពុងនិយាយគ្នានេះ មនុស្សកំពុងពិភាក្សាអំពីសៀវភៅសិក្សា។ ខ្ញុំគិតថារដ្ឋបាល Trump និងអ្នកគាំទ្រជាច្រើនបានប្រឆាំងយ៉ាងខ្លាំងក្លាជាងនេះចំពោះឆ្នាំ 1776 ជាចំណុចចាប់ផ្តើម។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Very quick to you both, to your mind, what year do you see as historians yourself? Is there a particular era you look at and think, that was the real start of America. It doesn't have to be either of those two numbers, or it can be. And can I go to you, Leah.",
+      "cn": "សួរអ្នកទាំងពីរយ៉ាងរហ័ស ក្នុងនាមជាអ្នកប្រវត្តិសាស្រ្ត តើអ្នកគិតថាឆ្នាំណាជាការចាប់ផ្តើមពិតប្រាកដរបស់អាមេរិក? តើមានសម័យកាលជាក់លាក់ណាមួយដែលធ្វើឱ្យអ្នកមានអារម្មណ៍ថានោះជាការចាប់ផ្តើមពិតប្រាកដរបស់អាមេរិក? មិនចាំបាច់ជាឆ្នាំទាំងពីរនោះទេ អាចជាឆ្នាំផ្សេងទៀត។ តើខ្ញុំអាចសួរអ្នកជាមុនបានទេ Leah?"
+    },
+    {
+      "speaker": "Wright",
+      "text": "1852 Frederick Douglass' speech, July 5th speech on the anniversary of the 76th anniversary of the Declaration -- signing of the Declaration of Independence, because it's Douglass who's the first person to really call out in a really concentrated way this idea of the hypocrisy of liberty, a nation for liberty and justice for all that is intimately and violently rejecting that premise for the bulk of the people. So, that becomes the story of the nation. That's the one that we remember.",
+      "cn": "សុន្ទរកថារបស់ Frederick Douglass ឆ្នាំ 1852 នៅថ្ងៃទី 5 ខែកក្កដា ក្នុងខួបលើកទី 76 នៃការចុះហត្ថលេខាលើសេចក្តីប្រកាសឯករាជ្យ ពីព្រោះ Douglass គឺជាមនុស្សដំបូងគេដែលពិតជាចង្អុលបង្ហាញពីភាពលាក់ពុតនៃសេរីភាពនេះ ដែលជាប្រទេសដែលប្រកាសសេរីភាព និងយុត្តិធម៌សម្រាប់ទាំងអស់គ្នា ប៉ុន្តែបដិសេធយ៉ាងស្និទ្ធស្នាល និងហឹង្សាចំពោះការអនុវត្តចំពោះមនុស្សភាគច្រើន។ ដូច្នេះ នេះបានក្លាយជារឿងរ៉ាវរបស់ប្រទេសនេះ។ នេះជារឿងដែលយើងចងចាំ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's one for you. Every historian has one. Alexander Heffner, for you, when do you think this country began?",
+      "cn": "ល្អ នេះជាសំណួរសម្រាប់អ្នក។ អ្នកប្រវត្តិសាស្រ្តគ្រប់រូបមានចម្លើយមួយ។ Alexander Heffner តើអ្នកគិតថាប្រទេសនេះចាប់ផ្តើមនៅពេលណា?"
+    },
+    {
+      "speaker": "Heffner",
+      "text": "Yes. 1776, we didn't achieve the blessings of liberty -- life, liberty and happiness for some decades and centuries. But I think that the founding period is indisputable as a matter of fact. I think part of what created the controversy of reevaluating that was, we have to be true to facts. So, if we're talking about the founding of this new nation, birthed from our mother country, England, it was 1776 and the Continental Congress.",
+      "cn": "បាទ។ ឆ្នាំ 1776 យើងបានសម្រេចនូវអត្ថប្រយោជន៍នៃសេរីភាព -- -- ជីវិត សេរីភាព និងសុភមង្គល -- តែប៉ុន្មានទសវត្សរ៍ ឬសូម្បីតែរាប់សតវត្សក្រោយមក។ ប៉ុន្តែខ្ញុំគិតថាសម័យបង្កើតប្រទេសជាការពិតដែលមិនអាចប្រកែកបាន។ ខ្ញុំគិតថាផ្នែកដែលមានជម្លោះនៃការវាយតម្លៃឡើងវិញនេះកើតចេញពីការពិតដែលយើងត្រូវតែស្មោះត្រង់ចំពោះការពិត។ ដូច្នេះ ប្រសិនបើយើងនិយាយអំពីការបង្កើតប្រទេសថ្មីនេះដែលកើតចេញពីប្រទេសម្តាយអង់គ្លេស នោះគឺឆ្នាំ 1776 និងសមាជទ្វីប (Continental Congress)។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Well, here from the desk where we write the rough draft of history, usually, I want to thank you guys for being here. I hope you have a good Independence Day holiday.",
+      "cn": "ល្អ។ ដូច្នេះ នៅកន្លែងដែលយើងជាធម្មតាសរសេរសេចក្តីព្រាងដំបូងនៃប្រវត្តិសាស្រ្ត ខ្ញុំចង់អរគុណអ្នកទាំងពីរដែលបានមក។ សង្ឃឹមថាអ្នកមានថ្ងៃឈប់សម្រាកឯករាជ្យដ៏រីករាយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And we're going to kick off America 250 with Anderson Cooper and Andy Cohen as they count down to midnight for historic ball drop honoring the nation's birthday. \"Independence Eve Live with Anderson Cooper and Andy Cohen.\" Coverage begins tonight at 8 p.m. on CNN or, of course, stream it on the CNN app. Next, we're going to be talking about the president on defense, why he says he did nothing wrong when it comes to the profits he has made in the crypto industry. Later on CNN, your holiday travel.",
+      "cn": "យើងនឹងចាប់ផ្តើមការប្រារព្ធខួប 250 ឆ្នាំរបស់អាមេរិកជាមួយ Anderson Cooper និង Andy Cohen ដែលនឹងរាប់ថយក្រោយពាក់កណ្តាលអធ្រាត្រសម្រាប់ការទម្លាក់បាល់ប្រវត្តិសាស្រ្តដើម្បីរំលឹកដល់កំណើតរបស់ប្រទេស។ \"Independence Day Eve Live: Anderson Cooper & Andy Cohen\"។ ការផ្សាយនឹងចាប់ផ្តើមនៅម៉ោង 8 យប់នេះតាម CNN ហើយពិតណាស់អាចមើលបានតាមកម្មវិធី CNN ផងដែរ។ បន្ទាប់មក យើងនឹងពិភាក្សាអំពីការការពាររបស់ប្រធានាធិបតី ហេតុអ្វីបានជាគាត់និយាយថាគាត់មិនបានធ្វើអ្វីខុសក្នុងការរកប្រាក់ចំណេញពីឧស្សាហកម្មរូបិយប័ណ្ណគ្រីបតូ។ ក្រោយមកនៅលើ CNN សូមតាមដានការធ្វើដំណើរថ្ងៃឈប់សម្រាករបស់អ្នក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We know you're on the road. And we're going to be live from Atlanta's airport. Millions of Americans plan to head out this Fourth.",
+      "cn": "យើងដឹងថាអ្នកកំពុងធ្វើដំណើរ។ យើងនឹងផ្សាយបន្តផ្ទាល់ពីអាកាសយានដ្ឋាន Atlanta ។ ជនជាតិអាមេរិករាប់លាននាក់គ្រោងធ្វើដំណើរនៅថ្ងៃទី 4 ខែកក្កដានេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, the president, not shying away from the fact that he made more than $2 billion in his first year back in the White House. And this includes more than $1.4 billion in crypto ventures. When asked about it on CNBC where he spoke, the president says, look, there's nothing to see here.",
+      "cn": "ដូច្នេះ ប្រធានាធិបតីមិនបានជៀសវាងពីការពិតដែលថាគាត់រកបានជាង 20 ពាន់លានដុល្លារក្នុងឆ្នាំដំបូងនៃការវិលត្រឡប់ទៅសេតវិមានវិញ រួមទាំងការវិនិយោគរូបិយប័ណ្ណគ្រីបតូជាង 14 ពាន់លានដុល្លារ។ ពេលគាត់ត្រូវបានសួរអំពីរឿងនេះក្នុងបទសម្ភាសន៍ជាមួយ CNBC ប្រធានាធិបតីបាននិយាយថា មើលទៅ គ្មានអ្វីដែលត្រូវមើលនៅទីនេះទេ។"
+    },
+    {
+      "speaker": "Joe Kernan",
+      "text": "In the disclosure this week the amount of money that you and the family made in crypto, it was an outsized number. I was just asking, did you -- were you in -- know about the crypto ventures?",
+      "cn": "នៅក្នុងការបង្ហាញព័ត៌មាននៃសប្តាហ៍នេះ ចំនួនទឹកប្រាក់ដែលអ្នក និងក្រុមគ្រួសាររកបានពីរូបិយប័ណ្ណគ្រីបតូគឺជាចំនួនដ៏ធំសម្បើម។ ខ្ញុំគ្រាន់តែចង់សួរថា តើអ្នក -- -- តើអ្នកដឹងពីការវិនិយោគរូបិយប័ណ្ណគ្រីបតូទាំងនេះទេ?"
+    },
+    {
+      "speaker": "Kernan",
+      "text": "So, that was just something --",
+      "cn": "ដូច្នេះ វាគ្រាន់តែជា -- --"
+    },
+    {
+      "speaker": "Trump",
+      "text": "I could know about it.",
+      "cn": "ខ្ញុំប្រហែលជាដឹង។"
+    },
+    {
+      "speaker": "Trump",
+      "text": "I mean, there's nothing illegal. There's nothing wrong with it.",
+      "cn": "ខ្ញុំចង់និយាយថា វាមិនខុសច្បាប់ទេ។ វាមិនមានអ្វីខុសទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Group chat is back. I wanted to play this because we made such a deal out of it yesterday. And he actually got to speak. And I think, interestingly, with a business outlet, right? These are guys. They're no -- they're not foreign to outsized paydays. What do you make of how he's defending it?",
+      "cn": "ក្រុមជជែកបានត្រឡប់មកវិញហើយ។ ខ្ញុំចង់លេងវា ព្រោះយើងបាននិយាយច្រើនពីវាកាលពីម្សិលមិញ។ ហើយគាត់ពិតជាមានឱកាសនិយាយ។ ខ្ញុំគិតថា គួរឱ្យចាប់អារម្មណ៍ នៅពេលប្រឈមមុខនឹងប្រព័ន្ធផ្សព្វផ្សាយពាណិជ្ជកម្ម មែនទេ? មនុស្សទាំងនេះ -- -- ពួកគេមិនចម្លែកនឹងប្រាក់ខែច្រើនទេ។ តើអ្នកគិតយ៉ាងណាចំពោះវិធីដែលគាត់ការពារខ្លួន?"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "Do most Americans know people who made $1.4 billion, $2 billion over the last 15 months or 16 months? I think that that's really what this comes down to for a lot of people. It's, do most Americans know people whose sons got a good deal on a tungsten mine in Kazakhstan? No. What most Americans are seeing is prices that they are fighting with and struggling with. And that is the real --",
+      "cn": "តើជនជាតិអាមេរិកភាគច្រើនស្គាល់អ្នកដែលរកបាន 1.4 ពាន់លាន 2 ពាន់លានដុល្លារក្នុងរយៈពេល 15 ឬ 16 ខែកន្លងមកទេ? ខ្ញុំគិតថានេះជាបញ្ហាស្នូលដែលមនុស្សជាច្រើនផ្តោតអារម្មណ៍។ តើជនជាតិអាមេរិកភាគច្រើនស្គាល់អ្នកដែលកូនប្រុសបានរកឃើញតម្លៃថោកនៅអណ្តូងរ៉ែ tungsten នៅកាហ្សាក់ស្ថានទេ? ទេ។ ជនជាតិអាមេរិកភាគច្រើនឃើញតម្លៃដែលពួកគេកំពុងតស៊ូ និងពិបាក។ នោះហើយជា -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. We were playing tape yesterday where Megyn Kelly was like, this is grifty (ph). I don't like what the sons are doing. I don't like -- so there's this world of people who were the Hunter Biden hunters who are now, like, OK, guys, wait a second, this doesn't feel good that we have to defend it. But I do want to bring up this one thing. Mary Trump, longtime Trump critic, but she was on \"AC360\" and she brought up this issue, which I had not thought about. MARY TRUMP, Donald",
+      "cn": "បាទ។ យើងបានលេងវីដេអូរបស់ Megan Kelly កាលពីម្សិលមិញ ដែលនាងនិយាយថា វាគួរឱ្យសង្ស័យ។ ខ្ញុំមិនចូលចិត្តអាកប្បកិរិយារបស់កូនប្រុសទេ។ ខ្ញុំមិនចូលចិត្ត -- -- ដូច្នេះមានក្រុមមនុស្សដែលធ្លាប់ជាអ្នកប្រមាញ់ Hunter Biden ឥឡូវនេះនិយាយថា មិត្តអើយ ចាំបន្តិច វាមិនល្អទេ យើងត្រូវតែការពារគាត់។ ប៉ុន្តែខ្ញុំពិតជាចង់លើកឡើងរឿងមួយ។ Mary Trump អ្នករិះគន់ Trump យូរមកហើយ បានចូលរួមកម្មវិធី AC360 ហើយលើកសំណួរនេះ ដែលខ្ញុំមិនបានគិតពីមុន។ Mary Trump, Donald -- --"
+    },
+    {
+      "speaker": "Trump'S Neice",
+      "text": "The problem here is not so much the ways in which Donald and his family continue to rig the system in their favor, it's the number of people who are willing either to look the other way or to enable it. This is the president of the United States endangering the national security of American citizens because he is willing to take money from any foreign entity, no matter how potentially hostile it might be to American interests.",
+      "cn": "បញ្ហាមិនមែនថា Donald និងក្រុមគ្រួសាររបស់គាត់បន្តរៀបចំប្រព័ន្ធតាមរបៀបដែលផ្តល់ផលប្រយោជន៍ដល់ខ្លួនឯងទេ តែថាតើមានមនុស្សប៉ុន្មាននាក់ដែលសុខចិត្តមើលរំលង ឬអត់ឱនចំពោះអាកប្បកិរិយានេះ។ នេះគឺជាប្រធានាធិបតីសហរដ្ឋអាមេរិកដែលកំពុងធ្វើឱ្យប៉ះពាល់ដល់សន្តិសុខជាតិរបស់ពលរដ្ឋអាមេរិក ព្រោះគាត់សុខចិត្តយកលុយពីអង្គភាពបរទេសណាមួយ មិនថាអង្គភាពនោះអាចមានអរិភាពយ៉ាងណាចំពោះផលប្រយោជន៍អាមេរិកក៏ដោយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. I'd like to fact check that. I can't, because, guess what, the IRS is barred from ever looking at the Trump family financial records in terms of audits. It says in that last deal they made, \"plaintiffs hereby release, waive, acquit and forever discharge defendants and are hereby forever barred and precluded from prosecuting or pursuing any claims.\" We might not actually know the sources of some of this money.",
+      "cn": "យល់ព្រម។ ខ្ញុំចង់ផ្ទៀងផ្ទាត់សេចក្តីថ្លែងនេះ។ ប៉ុន្តែខ្ញុំមិនអាចទេ ព្រោះទាយមើល IRS ត្រូវបានហាមឃាត់មិនឱ្យមើលកំណត់ត្រាហិរញ្ញវត្ថុរបស់គ្រួសារ Trump ទាក់ទងនឹងការត្រួតពិនិត្យ។ នៅក្នុងកិច្ចព្រមព្រៀងចុងក្រោយដែលពួកគេបានធ្វើ វាសរសេរថា: 'ដើមបណ្តឹងសូមលើកលែង បោះបង់ ដោះលែង និងលើកលែងជាអចិន្ត្រៃយ៍ចំពោះចុងចោទ ហើយសូមហាមឃាត់ និងរារាំងជាអចិន្ត្រៃយ៍មិនឱ្យដាក់ ឬតាមដានការទាមទារណាមួយ។' យើងប្រហែលជាមិនដឹងពីប្រភពនៃប្រាក់មួយចំនួននេះទេ។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "Yes. I mean most Americans don't know people who have made billions of dollars off of crypto. Most Americans also don't know the president of the United States. But most Americans also are totally willing to accept the fact that Trump is a --",
+      "cn": "បាទ។ ខ្ញុំចង់និយាយថា ជនជាតិអាមេរិកភាគច្រើនមិនស្គាល់អ្នកដែលរកបានរាប់ពាន់លានដុល្លារពីរូបិយប័ណ្ណគ្រីបតូទេ។ ជនជាតិអាមេរិកភាគច្រើនក៏មិនស្គាល់ប្រធានាធិបតីសហរដ្ឋអាមេរិកដែរ។ ប៉ុន្តែជនជាតិអាមេរិកភាគច្រើនក៏សុខចិត្តទទួលយកថា Trump គឺជា -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But they're also not running Mideast policy, right? No, no, pause for a second.",
+      "cn": "ប៉ុន្តែពួកគេក៏មិនទទួលខុសត្រូវលើគោលនយោបាយមជ្ឈិមបូព៌ាដែរ មែនទេ? ទេ ទេ ចាំបន្តិច។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "If you're in charge of policy, isn't that what's supposed to make it distinct?",
+      "cn": "ប្រសិនបើអ្នកទទួលខុសត្រូវលើគោលនយោបាយ តើនេះមិនគួរជាអ្វីដែលធ្វើឱ្យវាខុសគ្នាទេ?"
+    },
+    {
+      "speaker": "Arm",
+      "text": "Yes, well, I think, again, most Americans sort of take the effort to be rich, stay rich, get richer with Donald Trump baked into the equation. I don't think anybody who voted for him or voted against him in 2024 is going to be shocked by these developments. This is kind of (INAUDIBLE) response.",
+      "cn": "បាទ អញ្ចឹង ខ្ញុំគិតថា ម្តងទៀត ជនជាតិអាមេរិកភាគច្រើនចាត់ទុកថា Donald Trump ខិតខំរកលុយ រក្សាលុយ និងក្លាយជាអ្នកមានថែមទៀត ជារឿងធម្មតា។ ខ្ញុំគិតថាអ្នកណាដែលបោះឆ្នោតឱ្យ ឬប្រឆាំងគាត់ក្នុងឆ្នាំ 2024 នឹងមិនភ្ញាក់ផ្អើលចំពោះព្រឹត្តិការណ៍ទាំងនេះទេ។ វាជាប្រតិកម្ម (មិនអាចស្តាប់បាន) ជាមូលដ្ឋាន។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "I mean he said years ago, long before he ever ran for president, I'm the only person who could run for president and actually make money on it. So, this is part of the equation.",
+      "cn": "ខ្ញុំចង់និយាយថា គាត់បាននិយាយជាច្រើនឆ្នាំមុន មុនពេលឈរឈ្មោះជាប្រធានាធិបតីថា ខ្ញុំជាមនុស្សតែម្នាក់គត់ដែលអាចឈរឈ្មោះជាប្រធានាធិបតី ហើយរកលុយពីវាបាន។ ដូច្នេះ វាជាផ្នែកមួយនៃរឿងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Well, promises made, promises kept.",
+      "cn": "បាទ។ អញ្ចឹង ការសន្យាត្រូវបានធ្វើ ការសន្យាត្រូវបានរក្សា។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "Yes, and he talked about making money from foreign adversaries. I do think that is something that Trump looks at the balance sheet and sort of says, let's have these guys pay us, rather than us doling out money to the rest of the world. And certain populist --",
+      "cn": "បាទ គាត់ក៏បាននិយាយអំពីការរកលុយពីសត្រូវបរទេសដែរ។ ខ្ញុំពិតជាគិតថា Trump នឹងមើលតារាងតុល្យការ ហើយនិយាយថា ឱ្យមនុស្សទាំងនេះចំណាយលុយឱ្យយើង ជំនួសឱ្យយើងផ្តល់ជំនួយដល់ពិភពលោកផ្សេងទៀត។ អ្នកនិយមប្រជាជនមួយចំនួន -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Xochitl, let me let you get a word in here. I love when these men are talking, but just in case.",
+      "cn": "Xochitl សូមឱ្យខ្ញុំនិយាយបន្តិច។ ខ្ញុំចូលចិត្តស្តាប់បុរសទាំងនេះនិយាយ ប៉ុន្តែក្នុងករណីណាក៏ដោយ។"
+    },
+    {
+      "speaker": "Hinajosa",
+      "text": "Yes. No, I -- Donald Trump ran for president in what it seems like now for two reasons. One, it was a get out of jail free card because you cannot prosecute a sitting president. Two is to essentially benefit financially off the presidency.",
+      "cn": "បាទ។ ទេ ខ្ញុំ -- -- Donald Trump ឈរឈ្មោះជាប្រធានាធិបតីឥឡូវនេះ ហាក់ដូចជាមានហេតុផលពីរ។ មួយគឺថាវាជាសំបុត្ររួចពីគុក ព្រោះអ្នកមិនអាចប្តឹងប្រធានាធិបតីដែលកំពុងកាន់តំណែងបានទេ។ ទីពីរគឺជាមូលដ្ឋានដើម្បីទទួលបានផលប្រយោជន៍សេដ្ឋកិច្ចពីតំណែងប្រធានាធិបតី។"
+    },
+    {
+      "speaker": "Hinajosa",
+      "text": "The difference, while he might say it is not illegal, the difference is that, if this were a Democratic president and there was a Republican Congress, you would have oversight -- the Oversight Committee and all sorts of oversight of his family about their -- the financial dealings within this administration under potential contracts.",
+      "cn": "ភាពខុសគ្នាគឺថា ទោះបីជាគាត់អាចនិយាយថាវាមិនខុសច្បាប់ក៏ដោយ ភាពខុសគ្នាគឺថា ប្រសិនបើនេះជាប្រធានាធិបតីបក្សប្រជាធិបតេយ្យ ហើយសាធារណរដ្ឋគ្រប់គ្រងសភា អ្នកនឹងមានការត្រួតពិនិត្យ -- -- គណៈកម្មាធិការត្រួតពិនិត្យ និងការត្រួតពិនិត្យផ្សេងៗលើគ្រួសាររបស់គាត់ ទាក់ទងនឹងប្រតិបត្តិការហិរញ្ញវត្ថុរបស់ពួកគេក្រោមកិច្ចសន្យាដែលអាចកើតមានជាមួយរដ្ឋបាលនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. Well, let me end there because --",
+      "cn": "បាទ។ អញ្ចឹង ខ្ញុំនឹងឈប់ត្រឹមនេះ ព្រោះ -- --"
+    },
+    {
+      "speaker": "Arm",
+      "text": "(INAUDIBLE) Congress well have that.",
+      "cn": "(មិនអាចស្តាប់បាន) សភានឹងមានរឿងនោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, I was about to say, we're heading to the midterms, so you may get your wish. Let me do group chats because Alex is new to the group chat. And I need to understand your vibe. So, what are people talking about in your world?",
+      "cn": "បាទ ខ្ញុំទើបតែនឹងនិយាយថា យើងកំពុងឆ្ពោះទៅរកការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ ដូច្នេះបំណងប្រាថ្នារបស់អ្នកអាចក្លាយជាការពិត។ សូមឱ្យខ្ញុំធ្វើក្រុមជជែក ព្រោះ Alex ជាអ្នកថ្មីក្នុងក្រុមជជែក។ ខ្ញុំត្រូវដឹងពីបរិយាកាសរបស់អ្នក។ ដូច្នេះ នៅក្នុងពិភពលោករបស់អ្នក តើមនុស្សកំពុងនិយាយអំពីអ្វី?"
+    },
+    {
+      "speaker": "Arm",
+      "text": "Yes. Well, I've been reading this new Dave Portnoy book, which is kind of a best seller now.",
+      "cn": "បាទ។ អញ្ចឹង ខ្ញុំកំពុងអានសៀវភៅថ្មីរបស់ Dave Portnoy ដែលឥឡូវនេះជាសៀវភៅលក់ដាច់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "He talked about maybe running for office, Dave Portnoy.",
+      "cn": "គាត់និយាយអំពីការឈរឈ្មោះជាតំណាងរាស្ត្រ Dave Portnoy។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "You took the words out of my mouth.",
+      "cn": "អ្នកបាននិយាយអ្វីដែលខ្ញុំចង់និយាយ។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "This is the other thing sort of in my group chat. Actually more so than the book, because as Portnoy says in his book, books are for losers and overrated anyway.",
+      "cn": "នេះពិតជារឿងមួយទៀតនៅក្នុងក្រុមជជែករបស់ខ្ញុំ។ តាមពិតវាធ្ងន់ធ្ងរជាងសៀវភៅនោះទៅទៀត ព្រោះដូចដែលលោក Portnoy បាននិយាយនៅក្នុងសៀវភៅរបស់គាត់ សៀវភៅគឺសម្រាប់អ្នកចាញ់ ហើយត្រូវបានគេវាយតម្លៃខ្ពស់ពេក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Sure. Sure. Open (INAUDIBLE).",
+      "cn": "ពិតប្រាកដណាស់។ ពិតប្រាកដណាស់។ បើក (ស្តាប់មិនច្បាស់)។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "He's talking about running for mayor of New York City against Zohran Mamdani.",
+      "cn": "គាត់កំពុងនិយាយអំពីការឈរឈ្មោះបោះឆ្នោតជាអភិបាលក្រុងញូវយ៉ក ប្រកួតជាមួយ Zoran Mamdani។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "That was something he made headlines with this week. Curtis Sliwa bit back, I think saw someone running into his lane potentially there. So, you know --",
+      "cn": "នេះជារឿងដែលគាត់ឡើងចំណងជើងកាសែតក្នុងសប្តាហ៍នេះ។ Curtis Sliwa បានតបតវិញ ខ្ញុំគិតថាដោយសារឃើញនរណាម្នាក់អាចចូលទៅក្នុងផ្លូវរបស់គាត់។ ដូច្នេះ អ្នកដឹងទេ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Someone got a beret and they started the starting gun.",
+      "cn": "នរណាម្នាក់ពាក់មួក beret ហើយបន្ទាប់មកពួកគេបានបាញ់កាំភ្លើងចាប់ផ្តើម។"
+    },
+    {
+      "speaker": "Arm",
+      "text": "It should be interesting.",
+      "cn": "គួរតែសប្បាយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Xochitl, what about you?",
+      "cn": "Xochitl ចុះអ្នកវិញ?"
+    },
+    {
+      "speaker": "Hinajosa",
+      "text": "So, my group chat is actually called \"shake it off.\" And it is all about Taylor.",
+      "cn": "ក្រុមជជែករបស់ខ្ញុំពិតជាឈ្មោះថា 'Shake It Off'។ ទាំងអស់អំពី Taylor។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Xochitl -- of course.",
+      "cn": "Xochitl -- -- ពិតប្រាកដណាស់។"
+    },
+    {
+      "speaker": "Hinojosa",
+      "text": "And it is all about Taylor Swift. We already covered it. But I want to say, people are wondering who is invited. More importantly, who is not invited to the wedding. Things like the dress, what the decor looks like, all those fun things.",
+      "cn": "អ្វីៗទាំងអស់នេះវិលជុំវិញ Taylor Swift។ យើងបានរាយការណ៍រួចហើយ។ ប៉ុន្តែខ្ញុំចង់និយាយថា មនុស្សកំពុងឆ្ងល់ថាអ្នកណាត្រូវបានអញ្ជើញ។ សំខាន់ជាងនេះទៅទៀត អ្នកណាដែលមិនត្រូវបានអញ្ជើញឱ្យចូលរួមពិធីមង្គលការ។ ហើយក៏មានរឿងសប្បាយៗដូចជា សម្លៀកបំពាក់ រចនាប័ទ្មតុបតែងជាដើម។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. OK. We'll come back to it tomorrow. Isaac, (INAUDIBLE).",
+      "cn": "ល្អ ល្អ។ យើងនឹងនិយាយពីរឿងនេះនៅថ្ងៃស្អែក។ Isaac (ស្តាប់មិនច្បាស់)។"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "I mean I guess pretty -- it's the World Cup. This game tonight with Argentina and Cape Verde and what is going to happen there. Could there be a major upset? Perhaps. Or will it just be like a showcase for Lionel Messi to do all of his stuff?",
+      "cn": "ខ្ញុំចង់និយាយថា ខ្ញុំគិតថាវាពិតជា -- -- នេះគឺ World Cup។ យប់នេះការប្រកួតរវាង Argentina និង Cape Verde តើនឹងមានអ្វីកើតឡើង? តើនឹងមានការភ្ញាក់ផ្អើលធំដែរឬទេ? ប្រហែលជា។ ឬក៏នេះគ្រាន់តែជាឆាកសម្រាប់ Lionel Messi បង្ហាញជំនាញទាំងអស់របស់គាត់?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Love the Cinderella story. Love it. Yes. Baby, just say yes. I'm Audie Cornish. The headlines are next. Thank you so much for being with us here on CNN. var CNN = CNN || {};",
+      "cn": "ចូលចិត្តរឿង Cinderella នេះណាស់។ ចូលចិត្តខ្លាំងណាស់។ បាទ សម្លាញ់ គ្រាន់តែយល់ព្រម។ ខ្ញុំគឺ Oti Cornish។ បន្ទាប់មកជាចំណងជើងព័ត៌មាន។ សូមអរគុណយ៉ាងជ្រាលជ្រៅដែលបានទស្សនា CNN។"
+    }
+  ]
+}
