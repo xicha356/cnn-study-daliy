@@ -1,0 +1,1259 @@
+{
+  "date": "2026-07-06",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-06/segment/01",
+  "summary": "CNN《ព្រឹកនេះ》រាយការណ៍៖ ប្រធានាធិបតីអាមេរិក Trump អន្តរាគមន៍ក្នុង FIFA ធ្វើឱ្យការព្យួរកាតក្រហមរបស់តារាបាល់ទាត់អាមេរិក Folarin Balogun ត្រូវបានដកចេញ បង្កឱ្យមានភាពចម្រូងចម្រាស។ គ្រូបង្វឹកបែលហ្ស៊ិកបាននិយាយលេងសើចថាវាដូចជាថ្ងៃអាប់ព្រីល។ កម្មវិធីក៏បានពិភាក្សាអំពីពួកជាតិនិយមស្បែកសដើរក្បួននៅវ៉ាស៊ីនតោន ការចំណាយជួសជុលអាងទឹក Lincoln Memorial កើនឡើង ការផ្លាស់ប្តូរការបោះឆ្នោតសមាជិកព្រឹទ្ធសភារដ្ឋ Michigan ពិធីបុណ្យសពមេដឹកនាំកំពូលអ៊ីរ៉ង់ ការត្រៀមខ្លួនរបស់ Trump សម្រាប់កិច្ចប្រជុំកំពូល NATO ការចុះចតបន្ទាន់របស់យន្តហោះទឹកនៅទន្លេ East River ញូវយ៉ក ជាដើម។",
+  "vocabulary": [
+    {
+      "word": "red card reversal",
+      "phonetic": "/rɛd kɑːd rɪˈvɜːrsəl/",
+      "pos": "noun phrase",
+      "usage": "ប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "វប្បធម៌ និងកីឡា",
+      "level": "ប្រើក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការដកប័ណ្ណក្រហម (ក្នុងការប្រកួតបាល់ទាត់)",
+      "en": "the overturning of a red card penalty",
+      "excerpt": "The red card reversal heard round the world",
+      "example_cn": "ការដកប័ណ្ណក្រហមដែលធ្វើឲ្យពិភពលោកភ្ញាក់ផ្អើល"
+    },
+    {
+      "word": "crying foul",
+      "phonetic": "/ˈkraɪɪŋ faʊl/",
+      "pos": "phrase",
+      "usage": "ពាក្យផ្សំ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "វប្បធម៌ និងកីឡា",
+      "level": "ពាក្យផ្សំ · កម្រិតខ្ពស់",
+      "cn": "ការតវ៉ា; ការត្អូញត្អែរ (ដើមឡើយសំដៅលើការស្រែកថាល្មើសច្បាប់ក្នុងកីឡា)",
+      "en": "protesting or complaining about unfair treatment",
+      "excerpt": "some fans and coaches are crying foul",
+      "example_cn": "អ្នកគាំទ្រ និងគ្រូបង្វឹកមួយចំនួនកំពុងតវ៉ា"
+    },
+    {
+      "word": "trump card",
+      "phonetic": "/trʌmp kɑːrd/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យផ្សំ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំ · កម្រិតខ្ពស់",
+      "cn": "សន្លឹកបៀឈ្នះ; អាវុធសម្ងាត់ (នៅទីនេះសំដៅលើនាមត្រកូល Trump)",
+      "en": "a decisive advantage or secret weapon",
+      "excerpt": "Definitely think that Trump played a trump card",
+      "example_cn": "ប្រាកដជាគិតថា Trump បានលេងសន្លឹកបៀឈ្នះ"
+    },
+    {
+      "word": "intimidation",
+      "phonetic": "/ɪnˌtɪmɪˈdeɪʃən/",
+      "pos": "noun",
+      "usage": "ប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សង្គម និងជីវភាព",
+      "level": "ប្រើក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការបំភិតបំភ័យ; ការគំរាមកំហែង",
+      "en": "the act of frightening someone to make them do something",
+      "excerpt": "Is it free speech or intimidation?",
+      "example_cn": "នេះជាសេរីភាពក្នុងការបញ្ចេញមតិ ឬការគំរាមកំហែង?"
+    },
+    {
+      "word": "Reflecting Pool",
+      "phonetic": "/rɪˈflektɪŋ puːl/",
+      "pos": "noun phrase",
+      "usage": "ព័ត៌មានផ្ទៃខាងក្រោយ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "សង្គម និងជីវភាព",
+      "level": "ព័ត៌មានផ្ទៃខាងក្រោយ · មូលដ្ឋាន",
+      "cn": "អាងទឹកឆ្លុះ (សំដៅលើអាងទឹកទេសភាពនៅមុខវិមាន Lincoln)",
+      "en": "a shallow pool designed to reflect a monument",
+      "excerpt": "The Reflecting Pool may need to be drained this week",
+      "example_cn": "អាងទឹកឆ្លុះអាចត្រូវការបង្ហូរទឹកនៅសប្តាហ៍នេះ"
+    },
+    {
+      "word": "ballooning",
+      "phonetic": "/bəˈluːnɪŋ/",
+      "pos": "adjective",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សេដ្ឋកិច្ច និងហិរញ្ញវត្ថុ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ដែលកើនឡើងយ៉ាងខ្លាំង; ដែលកើនឡើងយ៉ាងឆាប់រហ័ស",
+      "en": "increasing rapidly in size or cost",
+      "excerpt": "ballooning from the initial estimate of under $2 million",
+      "example_cn": "បានកើនឡើងយ៉ាងខ្លាំងពីការប៉ាន់ស្មានដំបូងក្រោម 2 លានដុល្លារ"
+    },
+    {
+      "word": "backer",
+      "phonetic": "/ˈbækər/",
+      "pos": "noun",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "អ្នកគាំទ្រ; អ្នកឧបត្ថម្ភ",
+      "en": "a person or organization that supports someone or something",
+      "excerpt": "one candidate gets an important backer",
+      "example_cn": "បេក្ខជនម្នាក់ទទួលបានអ្នកគាំទ្រសំខាន់"
+    },
+    {
+      "word": "suspend",
+      "phonetic": "/səˈspend/",
+      "pos": "verb",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ផ្អាក; បញ្ឈប់ (ការបោះឆ្នោត ការប្រកួត ។ល។)",
+      "en": "to temporarily stop an activity or a person from participating",
+      "excerpt": "I may be suspending this campaign",
+      "example_cn": "ខ្ញុំអាចផ្អាកការបោះឆ្នោតនេះ"
+    },
+    {
+      "word": "sideline",
+      "phonetic": "/ˈsaɪdlaɪn/",
+      "pos": "verb",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "វប្បធម៌ និងកីឡា",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ធ្វើឱ្យចេញពីការប្រកួត; ធ្វើឱ្យនៅក្រៅ",
+      "en": "to prevent someone from playing or participating",
+      "excerpt": "sidelining the suspension of U.S. soccer star Folarin Balogun",
+      "example_cn": "ធ្វើឱ្យការព្យួរកីឡាករអាមេរិក Folarin Balogun គ្មានប្រសិទ្ធភាព"
+    },
+    {
+      "word": "obscure",
+      "phonetic": "/əbˈskjʊr/",
+      "pos": "adjective",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "អាថ៌កំបាំង; មិនសូវស្គាល់",
+      "en": "not well known; difficult to understand",
+      "excerpt": "citing an obscure FIFA rule",
+      "example_cn": "ដកស្រង់ច្បាប់ FIFA ដែលមិនសូវស្គាល់"
+    },
+    {
+      "word": "applaud",
+      "phonetic": "/əˈplɔːd/",
+      "pos": "verb",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "សរសើរ; ទះដៃអបអរ",
+      "en": "to express approval or praise",
+      "excerpt": "Trump applauded the move on social media",
+      "example_cn": "លោក Trump សរសើរសកម្មភាពនេះនៅលើបណ្តាញសង្គម"
+    },
+    {
+      "word": "precedent-shattering",
+      "phonetic": "/ˈpresɪdənt ˈʃætərɪŋ/",
+      "pos": "adjective",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "បំបែកគំរូ; បដិវត្តន៍",
+      "en": "breaking established precedents; unprecedented",
+      "excerpt": "it is precedent-shattering",
+      "example_cn": "នេះគឺជាការបំបែកគំរូ"
+    },
+    {
+      "word": "put his finger on the scale",
+      "phonetic": "/pʊt hɪz ˈfɪŋɡər ɒn ðə skeɪl/",
+      "pos": "phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "ដាក់សម្ពាធ; អន្តរាគមន៍ (ដើម្បីផ្តល់ផលប្រយោជន៍ដល់ខ្លួន)",
+      "en": "to unfairly influence the outcome of something",
+      "excerpt": "to kind of put his finger on the scale",
+      "example_cn": "ដាក់សម្ពាធបន្តិច"
+    },
+    {
+      "word": "asterisk",
+      "phonetic": "/ˈæstərɪsk/",
+      "pos": "noun",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "វប្បធម៌កីឡា",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "សញ្ញាផ្កាយ (ប្រៀបធៀបទៅនឹងកំណត់ត្រាដែលមានស្នាមប្រឡាក់ ឬត្រូវការកំណត់សម្គាល់)",
+      "en": "a symbol used to indicate a footnote or that something is questionable",
+      "excerpt": "they may have an asterisk now",
+      "example_cn": "ឥឡូវនេះពួកគេអាចមានសញ្ញាផ្កាយ (សំដៅលើលទ្ធផលដែលមានជម្លោះ)"
+    },
+    {
+      "word": "taint",
+      "phonetic": "/teɪnt/",
+      "pos": "verb",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ធ្វើឱ្យសៅហ្មង; បំផ្លាញ",
+      "en": "to spoil or affect negatively",
+      "excerpt": "whether this taints things",
+      "example_cn": "តើនេះធ្វើឱ្យសៅហ្មងរឿងនោះទេ?"
+    },
+    {
+      "word": "enrage",
+      "phonetic": "/ɪnˈreɪdʒ/",
+      "pos": "verb",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ធ្វើឱ្យខឹង",
+      "en": "to make very angry",
+      "excerpt": "it's enraged Belgium in the process",
+      "example_cn": "នេះធ្វើឱ្យបែលហ្ស៊ិកខឹង"
+    },
+    {
+      "word": "ramp up",
+      "phonetic": "/ræmp ʌp/",
+      "pos": "phrasal verb",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "បន្ថែម; ពង្រឹង",
+      "en": "to increase or intensify",
+      "excerpt": "you're going to see that ramped up further",
+      "example_cn": "អ្នកនឹងឃើញការកើនឡើងបន្ថែមទៀត"
+    },
+    {
+      "word": "mourner",
+      "phonetic": "/ˈmɔːrnər/",
+      "pos": "noun",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សង្គម-ប្រជាជន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "អ្នកកាន់ទុក្ខ",
+      "en": "a person who attends a funeral or shows grief",
+      "excerpt": "Mourners lining the streets in Iran",
+      "example_cn": "អ្នកកាន់ទុក្ខតម្រង់ជួរវែងនៅតាមដងផ្លូវអ៊ីរ៉ង់"
+    },
+    {
+      "word": "funeral procession",
+      "phonetic": "/ˈfjuːnərəl prəˈseʃən/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សង្គម-ប្រជាជន",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "ក្បួនបុណ្យសព; ពិធីដង្ហែសព",
+      "en": "a formal movement of people accompanying a dead body to burial",
+      "excerpt": "the funeral procession of Iran's late supreme leader",
+      "example_cn": "ក្បួនបុណ្យសពរបស់អតីតមេដឹកនាំកំពូលអ៊ីរ៉ង់"
+    },
+    {
+      "word": "get ... across the finish line",
+      "phonetic": "/ɡet ... əˈkrɔːs ðə ˈfɪnɪʃ laɪn/",
+      "pos": "phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "ធ្វើឲ្យ...ឆ្លងកាត់; បញ្ចប់ (ច្បាប់។ល។)",
+      "en": "to successfully complete or pass something",
+      "excerpt": "get Trump's SAVE Act across the finish line",
+      "example_cn": "ធ្វើឲ្យច្បាប់ SAVE របស់លោក Trump ឆ្លងកាត់"
+    },
+    {
+      "word": "mortar",
+      "phonetic": "/ˈmɔːrtər/",
+      "pos": "noun",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "គ្រោះមហន្តរាយ និងបរិស្ថាន",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "កាំភ្លើងត្បាល់; គ្រាប់កាំជ្រួច (នៅទីនេះសំដៅលើកាំជ្រួច)",
+      "en": "a type of firework that shoots into the air",
+      "excerpt": "we just had a firework hit our plane. We're just hoping it was just a mortar",
+      "example_cn": "យើងទើបតែត្រូវបានកាំជ្រួចបាញ់មកបុក។ យើងគ្រាន់តែសង្ឃឹមថាវាជាកាំជ្រួចតែប៉ុណ្ណោះ"
+    },
+    {
+      "word": "simmering tensions",
+      "phonetic": "/ˈsɪmərɪŋ ˈtenʃənz/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "ស្ថានការណ៍តានតឹងដែលអាចផ្ទុះឡើងបានភ្លាមៗ",
+      "en": "tensions that are about to become worse",
+      "excerpt": "simmering tensions in the Middle East",
+      "example_cn": "ស្ថានការណ៍តានតឹងដែលអាចផ្ទុះឡើងបានភ្លាមៗនៅមជ្ឈិមបូព៌ា"
+    },
+    {
+      "word": "hard landing",
+      "phonetic": "/hɑːrd ˈlændɪŋ/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "បច្ចេកវិទ្យា និងវេជ្ជសាស្ត្រ",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់",
+      "cn": "ការចុះចតយ៉ាងខ្លាំង (ពេលយន្តហោះចុះចតមានកម្លាំងប៉ះទង្គិចខ្លាំង)",
+      "en": "a landing that is rough or forceful",
+      "excerpt": "A small seaplane making a hard landing in New York's East River",
+      "example_cn": "យន្តហោះទឹកតូចមួយបានចុះចតយ៉ាងខ្លាំងនៅទន្លេ East River ក្នុងទីក្រុងញូវយ៉ក"
+    },
+    {
+      "word": "first responders",
+      "phonetic": "/fɜːrst rɪˈspɒndərz/",
+      "pos": "noun phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "គ្រោះមហន្តរាយ និងបរិស្ថាន",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "អ្នកឆ្លើយតបដំបូង (ប៉ូលិស, ពន្លត់អគ្គិភ័យ, អ្នកសង្គ្រោះបន្ទាន់)",
+      "en": "emergency personnel who arrive first at an incident",
+      "excerpt": "eight people were removed from the aircraft by first responders",
+      "example_cn": "មនុស្សប្រាំបីនាក់ត្រូវបានអ្នកឆ្លើយតបដំបូងជួយសង្គ្រោះពីយន្តហោះ"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The red card reversal heard round the world, boosting Team USA before a critical World Cup match and forcing the U.S. Men's coach to respond to reports of an assist from the White House.",
+      "cn": "ដំណឹងនៃការដកប័ណ្ណក្រហមនេះបានផ្សព្វផ្សាយពេញពិភពលោក ដោយបានលើកទឹកចិត្តក្រុមអាមេរិកមុនការប្រកួត World Cup ដ៏សំខាន់ និងបង្ខំឱ្យគ្រូបង្វឹកក្រុមបុរសអាមេរិកឆ្លើយតបនឹងរបាយការណ៍អំពីជំនួយពីសេតវិមាន។",
+      "structure": "ប្រយោគចម្បងគឺជាឃ្លានាម 'The red card reversal heard round the world' បន្ទាប់មកដោយឃ្លាកិរិយាសព្ទបច្ចុប្បន្នកាលពីរដែលស្របគ្នា 'boosting...' និង 'forcing...' ជាកិរិយាវិសេសន៍អម។",
+      "analysis": "1. 'heard round the world' គឺជាឃ្លាកិរិយាសព្ទអតីតកាលធ្វើជាគុណនាមដាក់ក្រោយ ពន្យល់ 'reversal' មានន័យថា \"ផ្សព្វផ្សាយពេញពិភពលោក\"។ 2. 'boosting' និង 'forcing' គឺជាកិរិយាសព្ទបច្ចុប្បន្នកាល បង្ហាញលទ្ធផល ឬអម។ 3. 'assist from the White House' គឺជាកន្សោមសង្ខេបក្នុងសារព័ត៌មាន សំដៅលើការអន្តរាគមន៍ពីសេតវិមាន។"
+    },
+    {
+      "en": "The suspension was supposedly not able to be reviewed.",
+      "cn": "ការព្យួរនេះត្រូវបានគេអះអាងថាមិនអាចពិនិត្យឡើងវិញបានទេ។",
+      "structure": "ប្រយោគសាមញ្ញ ប្រធាន 'The suspension' កិរិយាសព្ទ 'was' កន្សោម 'not able to be reviewed' 'supposedly' ជាគុណកិរិយាពន្យល់ប្រយោគទាំងមូល។",
+      "analysis": "1. 'supposedly' មានន័យថា \"តាមការអះអាង\" បង្កប់ថាការពិតអាចផ្ទុយ។ 2. 'not able to be reviewed' គឺជាទម្រង់អវិជ្ជមាននៃ 'be able to' ក្នុងសំឡេងកម្ម មានន័យថា \"មិនអាចពិនិត្យឡើងវិញបាន\"។"
+    },
+    {
+      "en": "A source, however, tells CNN President Trump personally called FIFA's president to ask for a review.",
+      "cn": "ទោះយ៉ាងណា ប្រភពមួយបានប្រាប់ CNN ថាប្រធានាធិបតី Trump ផ្ទាល់បានទូរស័ព្ទទៅប្រធាន FIFA ដើម្បីស្នើសុំឱ្យពិនិត្យឡើងវិញ។",
+      "structure": "ប្រយោគចម្បង 'A source tells CNN' បន្ទាប់មកដោយឃ្លាបន្ទាប់បន្សំដែលដក 'that' ចេញ 'President Trump personally called FIFA's president to ask for a review'។",
+      "analysis": "1. 'however' ជាពាក្យបញ្ចូល បង្ហាញការផ្ទុយ។ 2. 'personally' សង្កត់ធ្ងន់លើការធ្វើដោយផ្ទាល់។ 3. 'to ask for a review' គឺជាឃ្លាកិរិយាសព្ទគ្មានកំណត់ធ្វើជាកិរិយាវិសេសន៍គោលបំណង។"
+    },
+    {
+      "en": "And then, a few days later, the penalty was set aside by an independent commission, citing an obscure FIFA rule.",
+      "cn": "បន្ទាប់មក ប៉ុន្មានថ្ងៃក្រោយមក ទណ្ឌកម្មនេះត្រូវបានគណៈកម្មការឯករាជ្យមួយដកចេញ ដោយយោងទៅលើច្បាប់ FIFA ដែលមិនសូវស្គាល់។",
+      "structure": "ប្រយោគចម្បង 'the penalty was set aside by an independent commission' បន្ទាប់មកដោយឃ្លាកិរិយាសព្ទបច្ចុប្បន្នកាល 'citing an obscure FIFA rule' ជាកិរិយាវិសេសន៍អម។",
+      "analysis": "1. 'set aside' មានន័យថា \"ដកចេញ\"។ 2. 'citing' គឺជាកិរិយាសព្ទបច្ចុប្បន្នកាល បង្ហាញថាគណៈកម្មការបានយោងច្បាប់ពេលដក។ 3. 'obscure' មានន័យថា \"មិនសូវស្គាល់\"។"
+    },
+    {
+      "en": "Belgium's manager, meantime, compared the announcement to April Fool's Day.",
+      "cn": "ក្នុងពេលជាមួយគ្នានេះ គ្រូបង្វឹកក្រុមបែលហ្ស៊ិកបានប្រៀបធៀបការប្រកាសនេះទៅនឹងថ្ងៃបោកខែមេសា។",
+      "structure": "ប្រយោគសាមញ្ញ ប្រធាន 'Belgium's manager' កិរិយាសព្ទ 'compared' កម្មវត្ថុ 'the announcement' ឃ្លាបុព្វបទ 'to April Fool's Day' ជាកម្មវត្ថុបំពេញបន្ថែម។",
+      "analysis": "1. 'meantime' ជាពាក្យបញ្ចូល មានន័យថា \"ក្នុងពេលជាមួយគ្នា\"។ 2. 'compare A to B' មានន័យថា \"ប្រៀបធៀប A ទៅនឹង B\" បង្កប់អត្ថន័យថាគួរឱ្យអស់សំណើច។"
+    },
+    {
+      "en": "I didn't realize that at FIFA headquarters, July 5th was the equivalent of April 1st in Europe.",
+      "cn": "ខ្ញុំមិនបានដឹងថានៅទីស្នាក់ការកណ្តាល FIFA ថ្ងៃទី 5 ខែកក្កដាគឺស្មើនឹងថ្ងៃទី 1 ខែមេសានៅអឺរ៉ុបទេ។",
+      "structure": "ប្រយោគចម្បង 'I didn't realize' បន្ទាប់មកដោយឃ្លាបន្ទាប់បន្សំដែលដឹកនាំដោយ 'that' ក្នុងឃ្លាបន្ទាប់បន្សំ 'at FIFA headquarters' ជាកិរិយាវិសេសន៍ទីកន្លែង ប្រធាន 'July 5th' កិរិយាសព្ទ 'was' កន្សោម 'the equivalent of April 1st in Europe'។",
+      "analysis": "1. 'the equivalent of' មានន័យថា \"ស្មើនឹង\"។ 2. ដកស្រង់សម្តីគ្រូបង្វឹកបែលហ្ស៊ិក ដែលនិយាយចំអកឱ្យការសម្រេចចិត្តរបស់ FIFA ដូចជារឿងកំប្លែងថ្ងៃបោកខែមេសា។"
+    },
+    {
+      "en": "The Belgian Football Association isn't defending itself, nor is it defending the national team.",
+      "cn": "សហព័ន្ធបាល់ទាត់បែលហ្ស៊ិកមិនកំពុងការពារខ្លួនឯងទេ ហើយក៏មិនកំពុងការពារក្រុមជម្រើសជាតិដែរ។",
+      "structure": "រចនាសម្ព័ន្ធស្របគ្នា ឃ្លាទីមួយ 'The Belgian Football Association isn't defending itself' ឃ្លាទីពីរ 'nor is it defending the national team' ជារចនាសម្ព័ន្ធបញ្ច្រាស។",
+      "analysis": "1. 'nor' ដឹកនាំការបញ្ច្រាសអវិជ្ជមាន លំដាប់ធម្មតាគឺ 'it is not defending the national team either'។ 2. សង្កត់ធ្ងន់ថាជំហររបស់សហព័ន្ធគឺការពារបាល់ទាត់ទាំងមូល។"
+    },
+    {
+      "en": "It's defending football in general.",
+      "cn": "វាកំពុងការពារបាល់ទាត់ទាំងមូល។",
+      "structure": "ប្រយោគសាមញ្ញ ប្រធាន 'It' កិរិយាសព្ទ 'is defending' កម្មវត្ថុ 'football in general'។",
+      "analysis": "1. 'in general' មានន័យថា \"ជាទូទៅ\"។ 2. ភ្ជាប់ទៅនឹងប្រយោគមុន ដើម្បីបញ្ជាក់ពីគោលដៅខ្ពស់ជាងរបស់សហព័ន្ធបាល់ទាត់។"
+    },
+    {
+      "en": "We know that Howard Lutnick, the commerce secretary, was involved in this talks.",
+      "cn": "យើងដឹងថា រដ្ឋមន្ត្រីពាណិជ្ជកម្ម Howard Lutnick បានចូលរួមក្នុងការចរចាទាំងនេះ។",
+      "structure": "ប្រយោគចម្បង 'We know' តាមដោយ 'that' នាំឃ្លាបន្ទាប់បន្សំជាកម្មវត្ថុ ក្នុងឃ្លាបន្ទាប់បន្សំ ប្រធាន 'Howard Lutnick' ពាក្យសមមូល 'the commerce secretary' កិរិយាសព្ទ 'was involved in' កម្មវត្ថុ 'this talks'។",
+      "analysis": "1. 'the commerce secretary' ជាពាក្យសមមូល បញ្ជាក់ពីតួនាទី។ 2. 'be involved in' មានន័យថា \"ចូលរួម\"។"
+    },
+    {
+      "en": "He's this type of guy: he's the let me call them, let me talk to them, let me see what I can do.",
+      "cn": "គាត់ជាមនុស្សប្រភេទនេះ៖ សូមឲ្យខ្ញុំទូរស័ព្ទទៅពួកគេ សូមឲ្យខ្ញុំនិយាយជាមួយពួកគេ សូមឲ្យខ្ញុំមើលថាតើខ្ញុំអាចធ្វើអ្វីបាន។",
+      "structure": "ប្រយោគចម្បង 'He's this type of guy' បន្ទាប់ពីសញ្ញាចុចពីរ មានប្រយោគបង្គាប់បីដែលស្របគ្នា ពន្យល់ពី 'type of guy'។",
+      "analysis": "1. សញ្ញាចុចពីរប្រើសម្រាប់ពន្យល់។ 2. រចនាសម្ព័ន្ធ 'let me' បីបង្ហាញពីចរិតចង់ធ្វើអន្តរាគមន៍។"
+    },
+    {
+      "en": "The FIFA president created this FIFA Peace Prize to give to Trump when he was upset about not getting the Nobel Peace Prize.",
+      "cn": "ប្រធាន FIFA បានបង្កើតពានរង្វាន់សន្តិភាពពិភពលោកនេះ ដើម្បីប្រគល់ឲ្យ Trump នៅពេលដែលគាត់ខកចិត្តដោយមិនបានទទួលពានរង្វាន់ណូបែលសន្តិភាព។",
+      "structure": "ប្រយោគចម្បង 'The FIFA president created this FIFA Peace Prize to give to Trump' តាមដោយ 'when' នាំឃ្លាបន្ទាប់បន្សំជាកាលៈទេសៈ។",
+      "analysis": "1. 'to give to Trump' ជាឃ្លា infinitive ធ្វើជាកម្មវត្ថុនៃគោលបំណង។ 2. 'when he was upset about not getting...' បញ្ជាក់ពីផ្ទៃរឿង។ 3. 'upset about' មានន័យថា \"ខកចិត្តនឹង\"។"
+    },
+    {
+      "en": "It was only a matter of time, right?",
+      "cn": "វាគ្រាន់តែជាបញ្ហានៃពេលវេលាប៉ុណ្ណោះ មែនទេ?",
+      "structure": "ប្រយោគសាមញ្ញ ប្រធាន 'It' កិរិយាសព្ទ 'was' កន្សោម 'only a matter of time' សំណួរបន្ថែម 'right?'។",
+      "analysis": "1. 'a matter of time' ជាឃ្លាថេរ មានន័យថា \"រឿងដែលនឹងកើតឡើងមិនយូរមិនឆាប់\"។ 2. 'right?' ជាសំណួរបន្ថែមបែបវោហារស័ព្ទ ស្វែងរកការយល់ស្រប។"
+    },
+    {
+      "en": "The fact that this call was controversial, it did allow for the president.",
+      "cn": "ការពិតដែលថាការហៅទូរស័ព្ទនេះមានភាពចម្រូងចម្រាស ពិតជាបានផ្តល់ឱកាសដល់ប្រធានាធិបតី។",
+      "structure": "ប្រធាន 'The fact' តាមដោយ 'that' នាំឃ្លាបន្ទាប់បន្សំសមមូល 'this call was controversial' ប្រយោគចម្បង 'it did allow for the president' ដែល 'it' សំដៅលើ 'the fact'។",
+      "analysis": "1. 'that' នាំឃ្លាបន្ទាប់បន្សំសមមូល ពន្យល់ពីខ្លឹមសារនៃ 'fact'។ 2. 'did' បង្ហាញពីការសង្កត់ធ្ងន់។ 3. 'allow for' មានន័យថា \"ផ្តល់ឱកាសឲ្យ\"។"
+    },
+    {
+      "en": "It gave the president an opportunity to kind of put his finger on the scale.",
+      "cn": "វាបានផ្តល់ឱកាសដល់ប្រធានាធិបតី ក្នុងការដាក់ឥទ្ធិពល។",
+      "structure": "ប្រយោគចម្បង 'It gave the president an opportunity' តាមដោយឃ្លា infinitive 'to kind of put his finger on the scale' ធ្វើជាគុណនាមពន្យល់ 'opportunity'។",
+      "analysis": "1. 'kind of' ជាពាក្យបញ្ចូលបែបវោហារស័ព្ទ មានន័យថា \"បន្តិច\"។ 2. 'put his finger on the scale' ជាសំនៀង មានន័យថា \"ដាក់ឥទ្ធិពល អន្តរាគមន៍\"។"
+    },
+    {
+      "en": "Now, obviously, some of the criticism that we've heard from opponents are that this is a bad precedent that could be set, but also whether or not the U.S. wins, whether the U.S. wins tonight or not, they may have an asterisk now, just based off of this action.",
+      "cn": "ឥឡូវនេះ ជាក់ស្តែង ការរិះគន់ខ្លះដែលយើងបានឮពីគូប្រជែងគឺថា នេះអាចបង្កើតគំរូអាក្រក់មួយ ហើយមិនថាក្រុមអាមេរិកឈ្នះយប់នេះឬអត់ទេ ពួកគេអាចនឹងត្រូវបានគេដាក់សញ្ញាផ្កាយដោយផ្អែកលើសកម្មភាពនេះតែប៉ុណ្ណោះ។",
+      "structure": "ប្រយោគចម្បង 'some of the criticism are that...' ដែល 'that we've heard from opponents' ជាឃ្លាបន្ទាប់បន្សំពន្យល់ 'criticism' 'that this is a bad precedent that could be set' ជាឃ្លាបន្ទាប់បន្សំជាកន្សោម ដែល 'that could be set' ជាឃ្លាបន្ទាប់បន្សំពន្យល់ 'precedent'។ តាមដោយ 'but also' នាំរចនាសម្ព័ន្ធស្របគ្នា រួមមាន 'whether or not...' និង 'whether...or not' ជាឃ្លាបន្ទាប់បន្សំប្រយោគ។",
+      "analysis": "1. 'precedent' មានន័យថា \"គំរូ\"។ 2. 'asterisk' មានន័យថា \"សញ្ញាផ្កាយ\" ប្រៀបធៀបទៅនឹងស្នាមប្រឡាក់លើសមិទ្ធផល។ 3. 'based off of' ជាកន្សោមបែបវោហារស័ព្ទ ស្មើនឹង 'based on'។"
+    },
+    {
+      "en": "You really want to hope that that's not the case.",
+      "cn": "អ្នកពិតជាសង្ឃឹមថាវាមិនមែនជាករណីនោះទេ។",
+      "structure": "ប្រយោគចម្បង 'You really want to hope' តាមដោយ 'that' នាំឃ្លាបន្ទាប់បន្សំជាកម្មវត្ថុ 'that's not the case'។",
+      "analysis": "1. 'want to hope' មានន័យថាប្រាថ្នា។ 2. 'that's not the case' ជាកន្សោមថេរ មានន័យថា \"ស្ថានភាពមិនមែនដូច្នោះទេ\"។"
+    },
+    {
+      "en": "But with all the rumors about the FIFA president going around and the fact that Trump's got his nose in everything, I wouldn't be surprised.",
+      "cn": "ប៉ុន្តែដោយគិតពីពាក្យចចាមអារ៉ាមទាំងអស់អំពីប្រធាន FIFA ដែលកំពុងផ្សព្វផ្សាយ និងការពិតដែលថា Trump ជ្រៀតជ្រែកគ្រប់យ៉ាង ខ្ញុំនឹងមិនភ្ញាក់ផ្អើលទេ។",
+      "structure": "ឃ្លាបុព្វបទ 'with all the rumors... and the fact...' ធ្វើជាកន្សោមបង្ហាញពីមូលហេតុ ប្រយោគចម្បង 'I wouldn't be surprised'។ 'rumors about the FIFA president going around' ជារចនាសម្ព័ន្ធ 'with + noun + present participle'; 'the fact that Trump's got his nose in everything' ជា 'the fact' បន្ទាប់មកដោយ appositive clause។",
+      "analysis": "1. 'with...going around' បង្ហាញពីស្ថានភាពអម។ 2. 'got his nose in everything' ជាពាក្យស្លោក មានន័យថា \"ជ្រៀតជ្រែកគ្រប់យ៉ាង\"។"
+    },
+    {
+      "en": "Everybody gets a red card.",
+      "cn": "គ្រប់គ្នានឹងទទួលបានកាតក្រហម។",
+      "structure": "ប្រយោគសាមញ្ញ ប្រធាន 'Everybody' កិរិយាសព្ទ 'gets' កម្មបទ 'a red card'។",
+      "analysis": "1. ប្រយោគនេះជាសេចក្តីថ្លែងទូទៅ ប៉ុន្តែក្នុងបរិបទនេះបង្កប់ន័យថាកាតក្រហមជារឿងធម្មតា។"
+    },
+    {
+      "en": "Everybody has the right to go to the president and ask for help.",
+      "cn": "គ្រប់គ្នាមានសិទ្ធិទៅជួបប្រធានាធិបតីដើម្បីសុំជំនួយ។",
+      "structure": "ប្រយោគសាមញ្ញ ប្រធាន 'Everybody' កិរិយាសព្ទ 'has' កម្មបទ 'the right' បន្ទាប់មកដោយ infinitive phrase 'to go to the president and ask for help' ធ្វើជាគុណនាម។",
+      "analysis": "1. 'have the right to do' មានន័យថា \"មានសិទ្ធិធ្វើអ្វីមួយ\"។ 2. 'go to the president' ក្នុងបរិបទនេះសំដៅជាក់លាក់ទៅលើការទៅជួប Trump។"
+    },
+    {
+      "en": "Maybe this is a favored nation.",
+      "cn": "ប្រហែលជានេះជាប្រទេសដែលទទួលបានការពេញចិត្ត។",
+      "structure": "ប្រយោគសាមញ្ញ ប្រធាន 'this' កិរិយាសព្ទតភ្ជាប់ 'is' បំពេញ 'a favored nation'។",
+      "analysis": "1. 'favored nation' ជាពាក្យលេងសើច មានន័យទាំង \"ប្រទេសដែលទទួលបានការពេញចិត្ត\" និងបង្កប់ន័យ \"ការប្រព្រឹត្តជាប្រទេសដែលពេញចិត្តបំផុត\"។"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Trump ជ្រៀតជ្រែកក្នុងព្រឹត្តិការណ៍កាតក្រហម FIFA",
+      "content": "ប្រធានាធិបតីអាមេរិក Trump ត្រូវបានគេចោទប្រកាន់ថាបានទូរស័ព្ទផ្ទាល់ទៅប្រធាន FIFA ដើម្បីស្នើឱ្យពិនិត្យឡើងវិញនូវកាតក្រហមរបស់តារាបាល់ទាត់អាមេរិក Folarin Balogun។ គណៈកម្មាធិការឯករាជ្យ FIFA បានដកទណ្ឌកម្មព្យួរដោយយោងតាមច្បាប់ទី 27 ដែលបណ្តាលឱ្យក្រុមបែលហ្ស៊ិកតវ៉ា។ Trump បានសរសើរសកម្មភាពនេះនៅលើបណ្តាញសង្គម ប៉ុន្តែអ្នករិះគន់យល់ថាវាបង្កើតគំរូអាក្រក់ ហើយអាចធ្វើឱ្យជ័យជម្នះរបស់ក្រុមអាមេរិកបាត់បង់ពន្លឺ។",
+      "keywords": "red card reversal · FIFA · Trump · Folarin Balogun · Rule 27"
+    },
+    {
+      "title": "អ្នកជាតិនិយមស្បែកសដើរក្បួននៅវ៉ាស៊ីនតោន",
+      "content": "នៅថ្ងៃទី 4 ខែកក្កដា អ្នកជាតិនិយមស្បែកសបានដើរក្បួននៅតាមដងផ្លូវក្នុងទីក្រុងវ៉ាស៊ីនតោន ឌី.ស៊ី. ដែលបង្កឱ្យមានការជជែកដេញដោលអំពីសេរីភាពក្នុងការបញ្ចេញមតិ និងការបំភិតបំភ័យ។ សេតវិមានបានថ្លែងអំពីរឿងនេះ ប៉ុន្តែមិនបានថ្កោលទោសយ៉ាងច្បាស់លាស់ទេ។ ព្រឹត្តិការណ៍នេះបង្ហាញពីការបែកបាក់គ្នាជាបន្តបន្ទាប់ក្នុងសង្គមអាមេរិកលើបញ្ហាពូជសាសន៍។",
+      "keywords": "white nationalists · July Fourth · free speech · intimidation"
+    },
+    {
+      "title": "ថ្លៃជួសជុលអាងទឹក Lincoln Memorial កើនឡើងយ៉ាងខ្លាំង",
+      "content": "ថ្លៃជួសជុលអាងទឹក Lincoln Memorial បានកើនឡើងពីការប៉ាន់ស្មានដំបូងក្រោម 2 លានដុល្លារ ទៅជាង 16 លានដុល្លារ។ Trump ធ្លាប់បានសន្យាថានឹងជួសជុលអាងទឹកនេះក្នុងឱកាសខួប 250 ឆ្នាំនៃការបង្កើតប្រទេស ប៉ុន្តែបន្ទាប់ពីជួសជុលរួច ថ្នាំលាបពណ៌ខៀវនៅបាតអាងបានរបូត ហើយសារាយក៏លេចឡើងវិញ ដែលបញ្ហានៅតែមិនទាន់ដោះស្រាយ។",
+      "keywords": "Reflecting Pool · Lincoln Memorial · cost overrun · algae"
+    },
+    {
+      "title": "ពិធីបុណ្យសពមេដឹកនាំកំពូលអ៊ីរ៉ង់",
+      "content": "ពិធីបុណ្យសពរបស់មេដឹកនាំកំពូលអ៊ីរ៉ង់ដែលទើបទទួលមរណភាពត្រូវបានប្រារព្ធឡើងនៅទីក្រុងតេហេរ៉ង់ ដោយមានអ្នកកាន់ទុក្ខយ៉ាងច្រើនកុះករតាមដងផ្លូវ។ អ្នកយកព័ត៌មាន CNN បានរាយការណ៍នៅកន្លែងកើតហេតុ។ ព្រឹត្តិការណ៍នេះអាចប៉ះពាល់ដល់នយោបាយក្នុងស្រុកអ៊ីរ៉ង់ និងស្ថានភាពនៅមជ្ឈិមបូព៌ា។",
+      "keywords": "អ៊ីរ៉ង់ · មេដឹកនាំកំពូល · ពិធីដង្ហែសព · តេហេរ៉ង់"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "តើ 'crying foul' ក្នុងអត្ថបទដើមមានន័យដូចម្តេច?",
+      "options": [
+        "A. យំខ្លាំងៗ",
+        "B. តវ៉ា; ត្អូញត្អែរ",
+        "C. ប៉ះខុសច្បាប់",
+        "D. ផ្លុំកញ្ចែ"
+      ],
+      "answer": 1,
+      "explanation": "crying foul ជាពាក្យផ្សំថេរ មានន័យថា 'ការតវ៉ា' ឬ 'ការត្អូញត្អែរ' មកពីការស្រែកថាប៉ះខុសច្បាប់ក្នុងកីឡា។ ក្នុងអត្ថបទ អ្នកគាំទ្រ និងគ្រូបង្វឹកបានសម្តែងការមិនពេញចិត្តចំពោះការអន្តរាគមន៍របស់លោក Trump។"
+    },
+    {
+      "type": "vocab",
+      "question": "តើ 'precedent-shattering' ក្នុងអត្ថបទដើមមានន័យដូចម្តេច?",
+      "options": [
+        "A. ដែលធ្វើតាមគំរូមុន",
+        "B. ដែលបំបែកគំរូមុន",
+        "C. មិនសំខាន់",
+        "D. ធម្មតា"
+      ],
+      "answer": 1,
+      "explanation": "precedent-shattering ផ្សំពី precedent (គំរូមុន) និង shattering (បំបែក) មានន័យថា 'ដែលបំបែកគំរូមុន' ពិពណ៌នាអំពីការអន្តរាគមន៍របស់លោក Trump ក្នុងព្រឹត្តិការណ៍ FIFA ដែលមិនធ្លាប់មានពីមុន។"
+    },
+    {
+      "type": "vocab",
+      "question": "តើឃ្លា 'put his finger on the scale' ក្នុងអត្ថបទមានន័យដូចម្តេច?",
+      "options": [
+        "A. ថ្លឹងទម្ងន់",
+        "B. ជះឥទ្ធិពល",
+        "C. ចោទប្រកាន់",
+        "D. វាស់"
+      ],
+      "answer": 1,
+      "explanation": "put his finger on the scale ជាពាក្យផ្សំថេរ មានន័យត្រង់ថា 'ដាក់ម្រាមដៃលើជញ្ជីង' ប្រៀបធៀបទៅនឹងការជះឥទ្ធិពលដោយអយុត្តិធម៌ដើម្បីផ្លាស់ប្តូរលទ្ធផល។ ក្នុងអត្ថបទ សំដៅលើការអន្តរាគមន៍របស់លោក Trump ក្នុងការសម្រេចចិត្តរបស់ FIFA។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើតាមរបាយការណ៍ FIFA បានលុបចោលប័ណ្ណក្រហមរបស់ Balogun ដោយផ្អែកលើអ្វី?",
+      "options": [
+        "A. សំណើរបស់លោក Trump",
+        "B. គណៈកម្មាធិការឯករាជ្យបានដកស្រង់ Rule 27",
+        "C. ការយល់ព្រមពីក្រុមបែលហ្ស៊ិក",
+        "D. ការតវ៉ារបស់អ្នកគាំទ្រ"
+      ],
+      "answer": 1,
+      "explanation": "របាយការណ៍បានបញ្ជាក់ថា គណៈកម្មាធិការឯករាជ្យរបស់ FIFA បានដកស្រង់ច្បាប់មួយដែលមិនសូវស្គាល់ (Rule 27) ដើម្បីលុបចោលការព្យួរ។ ទោះបីជាមានការសង្ស័យថាលោក Trump បានអន្តរាគមន៍ក៏ដោយ ក៏ហេតុផលផ្លូវការគឺផ្អែកលើច្បាប់។"
+    },
+    {
+      "type": "comprehension",
+      "question": "គ្រូបង្វឹកបែលហ្ស៊ិក Rudi Garcia មានអាកប្បកិរិយាយ៉ាងណាចំពោះការដកប័ណ្ណក្រហម?",
+      "options": [
+        "A. គាំទ្រ",
+        "B. ចំអក",
+        "C. អព្យាក្រឹត",
+        "D. មិនខ្វល់"
+      ],
+      "answer": 1,
+      "explanation": "គ្រូបង្វឹកបែលហ្ស៊ិកបានប្រៀបធៀបការសម្រេចចិត្តរបស់ FIFA ទៅនឹង 'ថ្ងៃអាប់ព្រីល' ដោយចំអកឱ្យភាពមិនសមហេតុផលរបស់វា។ នៅក្នុងអត្ថបទដើមគាត់បាននិយាយថា 'ថ្ងៃទី 5 ខែកក្កដា គឺស្មើនឹងថ្ងៃទី 1 ខែមេសានៅអឺរ៉ុប'។"
+    },
+    {
+      "type": "comprehension",
+      "question": "អំពីអាងទឹកឆ្លុះរូប Lincoln Memorial តើមួយណាត្រឹមត្រូវ?",
+      "options": [
+        "A. ថ្លៃជួសជុលទាបជាងថវិកា",
+        "B. លទ្ធផលជួសជុលល្អឥតខ្ចោះ",
+        "C. ថ្លៃដើមពី 2 លានដុល្លារ កើនដល់ 16 លានដុល្លារ",
+        "D. លោក Trump បោះបង់ការសន្យាជួសជុល"
+      ],
+      "answer": 2,
+      "explanation": "របាយការណ៍បានបង្ហាញថា ថ្លៃជួសជុលបានកើនឡើងពីការប៉ាន់ស្មានដំបូងក្រោម 2 លានដុល្លារ ទៅជាង 16 លានដុល្លារ ហើយបន្ទាប់ពីជួសជុលរួច មានបញ្ហាដូចជាសារាយជាដើម។"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Erica Hill",
+      "text": "Today in the group chat, the U.S. men's team's star player suspended until President Trump entered the chat. Now that one-game ban has been lifted, and some fans and coaches are crying foul.",
+      "cn": "ថ្ងៃនេះនៅក្នុងការជជែកជាក្រុម កីឡាករផ្កាយរបស់ក្រុមបាល់ទាត់បុរសអាមេរិកត្រូវបានព្យួរការ រហូតដល់ប្រធានាធិបតី Trump ចូលរួមក្នុងការជជែក។ ឥឡូវនេះ ការព្យួរការនោះត្រូវបានដកចេញ ហើយអ្នកគាំទ្រ និងគ្រូបង្វឹកមួយចំនួនមិនពេញចិត្តនឹងរឿងនេះទេ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Definitely think that Trump played a trump card.",
+      "cn": "ពិតជាគិតថា Trump បានលេងសន្លឹកបៀរឈ្នះ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "White nationalists marching through the streets of D.C. on July Fourth. Is it free speech or intimidation? The White House take. The Reflecting Pool may need to be drained this week for yet another round of repairs. So just how much more could this latest fix cost taxpayers? In a crucial Michigan Senate race, one candidate gets an important backer; another drops out. So, how will this change the face of that race? MICHIGAN STATE SENATOR MALLORY MCMORROW (D),",
+      "cn": "ពួកជាតិនិយមស្បែកសបានដើរក្បួននៅតាមដងផ្លូវក្នុងទីក្រុងវ៉ាស៊ីនតោន ឌី.ស៊ី. នៅថ្ងៃទី ៤ ខែកក្កដា។ តើនេះជាសេរីភាពក្នុងការបញ្ចេញមតិ ឬជាការបំភិតបំភ័យ? ទស្សនៈរបស់សេតវិមាន។ អាងទឹក Reflection Pool ប្រហែលជាត្រូវបង្ហូរទឹកម្តងទៀតនៅសប្តាហ៍នេះ សម្រាប់ការជួសជុលជុំថ្មី។ តើការជួសជុលថ្មីបំផុតនេះនឹងធ្វើឱ្យអ្នកជាប់ពន្ធចំណាយប្រាក់ប៉ុន្មានទៀត? នៅក្នុងការបោះឆ្នោតព្រឹទ្ធសភាដ៏សំខាន់មួយនៅរដ្ឋ Michigan បេក្ខជនម្នាក់ទទួលបានអ្នកគាំទ្រសំខាន់ម្នាក់; ម្នាក់ទៀតដកខ្លួន។ តើនេះនឹងផ្លាស់ប្តូរមុខមាត់នៃការបោះឆ្នោតនេះយ៉ាងដូចម្តេច? សមាជិកព្រឹទ្ធសភារដ្ឋ Michigan Mallory McMorrow (ប្រជាធិបតេយ្យ):"
+    },
+    {
+      "speaker": "Former Candidate",
+      "text": "I may be suspending this campaign, but I am not leaving the fight.",
+      "cn": "ខ្ញុំអាចផ្អាកយុទ្ធនាការនេះ ប៉ុន្តែខ្ញុំនឹងមិនចាកចេញពីការតស៊ូនេះទេ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The red card reversal heard round the world, boosting Team USA before a critical World Cup match and forcing the U.S. Men's coach to respond to reports of an assist from the White House.",
+      "cn": "ដំណឹងដកកាតក្រហមបានផ្សព្វផ្សាយពេញពិភពលោក ធ្វើឱ្យក្រុមអាមេរិកមានកម្លាំងចិត្តមុនការប្រកួត World Cup ដ៏សំខាន់ និងបង្ខំឱ្យគ្រូបង្វឹកក្រុមបាល់ទាត់បុរសអាមេរិកឆ្លើយតបនឹងរបាយការណ៍អំពីការជួយពីសេតវិមាន។"
+    },
+    {
+      "speaker": "Mauricio Pochettino",
+      "text": "I am listening different coaches, different, you know, federation that talk about, oh, the president called the -- this, that. No. Everything want to be involved, is not surprise me.",
+      "cn": "ខ្ញុំឮគ្រូបង្វឹកផ្សេងៗ សមាគមបាល់ទាត់ផ្សេងៗនិយាយថា អូ ប្រធានាធិបតីបានទូរស័ព្ទនេះ ទូរស័ព្ទនោះ។ ទេ។ គាត់ចង់ជ្រៀតជ្រែកគ្រប់រឿង ខ្ញុំមិនភ្ញាក់ផ្អើលទេ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Doesn't surprise him. Good morning, everyone. I'm Erica Hill, in for Audie Cornish. The U.S. has a huge World Cup showdown, of course, tonight with Belgium. And now, one of their stars will be on the pitch after FIFA on Sunday shocked the tournament by sidelining the suspension of U.S. soccer star Folarin Balogun, who was supposed to sit out due to that red card in the previous game. The suspension was supposedly not able to be reviewed.",
+      "cn": "រឿងនេះមិនធ្វើឱ្យគាត់ភ្ញាក់ផ្អើលទេ។ សួស្តីព្រឹក។ ខ្ញុំគឺ Erica Hill ជំនួស Audi Cornish ។ យប់នេះ ក្រុមអាមេរិកពិតជាមានការប្រកួត World Cup ដ៏សំខាន់មួយប្រឆាំងនឹងបែលហ្ស៊ិក។ ឥឡូវនេះ តារារបស់ពួកគេម្នាក់នឹងចូលលេង ដោយសារតែ FIFA បានធ្វើឱ្យការប្រកួតភ្ញាក់ផ្អើលនៅថ្ងៃអាទិត្យ ដោយដកការព្យួរការរបស់តារាបាល់ទាត់អាមេរិក Folarin Balogun ដែលត្រូវបានគេរំពឹងថានឹងត្រូវព្យួរការដោយសារកាតក្រហមក្នុងការប្រកួតមុន។ ការព្យួរការនេះត្រូវបានគេចាត់ទុកថាមិនអាចពិនិត្យឡើងវិញបានទេ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "A source, however, tells CNN President Trump personally called FIFA's president to ask for a review. And then, a few days later, the penalty was set aside by an independent commission, citing an obscure FIFA rule. I believe it's Rule 27. Trump applauded the move on social media, posting, \"Thank you to FIFA for doing what was right and reversing a great injustice.\" Belgium's manager, meantime, compared the announcement to April Fool's Day.",
+      "cn": "ទោះយ៉ាងណា ប្រភពមួយបានប្រាប់ CNN ថា ប្រធានាធិបតី Trump ផ្ទាល់បានទូរស័ព្ទទៅប្រធាន FIFA ដើម្បីស្នើសុំឱ្យពិនិត្យឡើងវិញ។ បន្ទាប់មក ប៉ុន្មានថ្ងៃក្រោយមក គណៈកម្មាធិការឯករាជ្យមួយបានដកទណ្ឌកម្មដោយយោងទៅលើច្បាប់ FIFA ដែលមិនសូវច្បាស់មួយ។ ខ្ញុំជឿថាជាច្បាប់ទី 27 ។ Trump បានសរសើរសកម្មភាពនេះនៅលើបណ្តាញសង្គម ដោយប្រកាសថា៖ \"សូមអរគុណ FIFA ដែលបានធ្វើរឿងត្រឹមត្រូវ កែតម្រូវភាពអយុត្តិធម៌ដ៏ធំមួយ។\" ក្នុងពេលជាមួយគ្នានេះ គ្រូបង្វឹកក្រុមបែលហ្ស៊ិកបានប្រៀបធៀបការប្រកាសនេះទៅនឹងថ្ងៃអាប់ព្រីល។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "RUDI GARCIA, BELGIUM HEAD COACH (through translator): I didn't realize that at FIFA headquarters, July 5th was the equivalent of April 1st in Europe. The Belgian Football Association isn't defending itself, nor is it defending the national team. It's defending football in general.",
+      "cn": "Rudi Garcia គ្រូបង្វឹកក្រុមបែលហ្ស៊ិក (តាមរយៈអ្នកបកប្រែ)៖ ខ្ញុំមិនបានដឹងថានៅទីស្នាក់ការ FIFA ថ្ងៃទី 5 ខែកក្កដាគឺស្មើនឹងថ្ងៃទី 1 ខែមេសានៅអឺរ៉ុបទេ។ សមាគមបាល់ទាត់បែលហ្ស៊ិកមិនការពារខ្លួនទេ ហើយក៏មិនការពារក្រុមជម្រើសជាតិដែរ។ វាការពារបាល់ទាត់។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Joining me now in the group chat, Mario Parker, managing editor, economy and government at Bloomberg News; Joey Garrison, White House reporter, \"USA Today\"; and Eleanor Mueller, White -- White House reporter at \"Semafor.\" So, CNN, you know, according to the reporting, there's some reporting that Trump made a phone call. FIFA says this was an independent commission that made this decision.",
+      "cn": "ឥឡូវនេះ ចូលរួមជាមួយយើងក្នុងការជជែកជាក្រុមគឺ Mario Parker និពន្ធនាយកផ្នែកសេដ្ឋកិច្ច និងរដ្ឋាភិបាលនៃ Bloomberg News, Joey Garrison អ្នកយកព័ត៌មានសេតវិមាននៃ USA Today និង Eleanor Mueller អ្នកយកព័ត៌មានសេតវិមាននៃ Semafor ។ ដូច្នេះ CNN យោងតាមរបាយការណ៍ មានរបាយការណ៍ខ្លះថា Trump បានទូរស័ព្ទ។ FIFA និយាយថា វាជាការសម្រេចចិត្តរបស់គណៈកម្មាធិការឯករាជ្យ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Eleanor, what are you hearing this morning? ELEANOR MUELLER, WHITE HOUSE REPORTER, \"SEMAFOR\": Well, it's on brand for Trump, right? To take issue with something and believe he can change it. We know that Howard Lutnick, the commerce secretary, was involved in this talks. He -- he's this type of guy. He's the let me call them. Let me talk to them. Let me see what I can do. And it also, I mean, is proof, I think, of this relationship between Trump and the FIFA president.",
+      "cn": "Eleanor តើអ្នកបានឮអ្វីខ្លះនៅព្រឹកនេះ? Eleanor Mueller អ្នកយកព័ត៌មានសេតវិមាន Semafor៖ មែនហើយ នេះស្របនឹងរចនាប័ទ្មរបស់ Trump មែនទេ? មានមតិលើអ្វីមួយ ហើយជឿថាគាត់អាចផ្លាស់ប្តូរវាបាន។ យើងដឹងថារដ្ឋមន្ត្រីក្រសួងពាណិជ្ជកម្ម Howard Lutnick បានចូលរួមក្នុងការចរចាទាំងនេះ។ គាត់គឺជាមនុស្សប្រភេទនោះ។ គាត់ជាមនុស្សដែលនិយាយថា 'អោយខ្ញុំទូរស័ព្ទទៅពួកគេ អោយខ្ញុំនិយាយជាមួយពួកគេ អោយខ្ញុំមើលថាតើខ្ញុំអាចធ្វើអ្វីបាន'។ ហើយខ្ញុំគិតថានេះក៏បង្ហាញពីទំនាក់ទំនងរវាង Trump និងប្រធាន FIFA ផងដែរ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The FIFA president created this FIFA Peace Prize to give to Trump when he was upset about not getting the Nobel Peace Prize. And so, in some ways, this makes a lot of sense. Of course, that doesn't change the fact that it is precedent-shattering.",
+      "cn": "ប្រធាន FIFA បានបង្កើតពានរង្វាន់សន្តិភាព FIFA ហើយប្រគល់ឱ្យ Trump នៅពេលដែលគាត់មិនពេញចិត្តដែលមិនបានទទួលពានរង្វាន់ណូបែលសន្តិភាព។ ដូច្នេះ ក្នុងកម្រិតខ្លះ វាសមហេតុផលណាស់។ ជាការពិតណាស់ នេះមិនបានផ្លាស់ប្តូរការពិតដែលថានេះបង្កើតគំរូមួយនោះទេ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It is -- it was remarkable, I will say, Mario, that so much of what we have seen so far in the tournament, the president didn't seem to be all that interested. It felt delightfully nonpolitical. Are those days now over, Mario?",
+      "cn": "Mario ខ្ញុំចង់និយាយថា រហូតមកដល់ពេលនេះ ភាគច្រើននៃអ្វីដែលយើងបានឃើញក្នុងការប្រកួត ប្រធានាធិបតីហាក់ដូចជាមិនសូវចាប់អារម្មណ៍ទេ។ នេះមានអារម្មណ៍ថាមិនមាននយោបាយ និងរីករាយ។ Mario តើថ្ងៃទាំងនោះបានបញ្ចប់ហើយឬនៅ?"
+    },
+    {
+      "speaker": "Mario Parker",
+      "text": "Yes, those days are over. It was only a matter of time, right? I mean, we're two weeks or three weeks out from when the president visited the NBA finals in New York, for example, as well. We know that the president hosted a UFC fight on the White House grounds. He's a sports aficionado. The fact that this call was controversial, it did allow for the president. It gave the president an opportunity to kind of put his finger on the scale.",
+      "cn": "បាទ ថ្ងៃទាំងនោះបានបញ្ចប់ហើយ។ វាគ្រាន់តែជាបញ្ហានៃពេលវេលាប៉ុណ្ណោះ មែនទេ? ខ្ញុំចង់និយាយថា ឧទាហរណ៍ ការទៅលេងការប្រកួតវគ្គផ្តាច់ព្រ័ត្រ NBA នៅញូវយ៉ករបស់ប្រធានាធិបតីក៏ប្រហែលពីរ ឬបីសប្តាហ៍មុនដែរ។ យើងដឹងថាប្រធានាធិបតីបានរៀបចំការប្រកួត UFC នៅទីធ្លាសេតវិមាន។ គាត់ជាអ្នកចូលចិត្តកីឡា។ ការទូរស័ព្ទនេះមានភាពចម្រូងចម្រាស ប៉ុន្តែវាពិតជាផ្តល់ឱកាសឱ្យប្រធានាធិបតីមានឥទ្ធិពល។"
+    },
+    {
+      "speaker": "Mario Parker",
+      "text": "Now, obviously, some of the -- the criticism that we've heard from opponents are that this is a bad precedent that could be set, but also whether or not the U.S. wins, whether the -- whether the U.S. wins tonight or not, they may have an asterisk now, just based off of this action.",
+      "cn": "ឥឡូវនេះ ជាក់ស្តែង យើងឮការរិះគន់ខ្លះពីគូប្រជែងថា នេះអាចបង្កើតគំរូអាក្រក់ ហើយមិនថាក្រុមអាមេរិកឈ្នះយប់នេះឬអត់ទេ ឥឡូវនេះពួកគេអាចមានសញ្ញាផ្កាយមួយ ដោយផ្អែកលើសកម្មភាពនេះតែប៉ុណ្ណោះ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "In terms of that asterisk, it's interesting, I think, some of the comments that we heard from fans. I mean, certainly, we heard, you know, coaches, managers speaking out here, but CNN spoke to some fans, as well. Just take a listen to their take.",
+      "cn": "អំពីសញ្ញាផ្កាយនោះ ខ្ញុំគិតថាមតិយោបល់របស់អ្នកគាំទ្រខ្លះដែលយើងបានឮគឺគួរឱ្យចាប់អារម្មណ៍។ ជាការពិតណាស់ យើងបានឮសុន្ទរកថារបស់គ្រូបង្វឹក អ្នកគ្រប់គ្រង ប៉ុន្តែ CNN ក៏បានសម្ភាសអ្នកគាំទ្រខ្លះដែរ។ ស្តាប់ទស្សនៈរបស់ពួកគេ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "You really want to hope that that's not the case. But with all the rumors about the FIFA president going around and the fact that Trump's got his nose in everything, I wouldn't be surprised.",
+      "cn": "អ្នកពិតជាសង្ឃឹមថាស្ថានភាពមិនមែនបែបនេះទេ។ ប៉ុន្តែដោយពិចារណាលើពាក្យចចាមអារ៉ាមផ្សេងៗអំពីប្រធាន FIFA និងការពិតដែលថា Trump ជ្រៀតជ្រែកគ្រប់យ៉ាង ខ្ញុំនឹងមិនភ្ញាក់ផ្អើលទេ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Everybody gets a red card. Everybody has the right to go to the president and ask for help. I don't know.",
+      "cn": "អ្នករាល់គ្នានឹងទទួលបានកាតក្រហម។ អ្នករាល់គ្នាមានសិទ្ធិទៅរកប្រធានាធិបតីដើម្បីសុំជំនួយ។ ខ្ញុំមិនដឹងទេ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Maybe this is a favored nation.",
+      "cn": "ប្រហែលជានេះជាប្រទេសដែលគេពេញចិត្ត។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "You know, we look at -- when we look at where we are at, Joey, you know, Mario mentioned, like, there is a question of whether this taints things. How does the White House look at this? Is this exactly the outcome that they may have wanted, that President Trump would want? To be able to say, oh, I picked up the phone? JOEY GARRISON, WHITE HOUSE REPORTER, \"USA TODAY\": Well, I think President Trump certainly enjoys that narrative; that maybe he did have something to do with this -- this change.",
+      "cn": "អ្នកដឹងទេ នៅពេលយើងពិនិត្យមើលស្ថានភាពបច្ចុប្បន្នរបស់យើង Joey Mario បានលើកឡើងថា មានសំណួរថាតើនេះនឹងធ្វើឱ្យខូចកេរ្តិ៍ឈ្មោះឬអត់។ តើសេតវិមានមើលឃើញយ៉ាងណាចំពោះរឿងនេះ? តើនេះជាអ្វីដែលពួកគេចង់បាន អ្វីដែលប្រធានាធិបតី Trump ចង់បាន? អាចនិយាយបានថា អូ ខ្ញុំបានទូរស័ព្ទ? Joey Garrison អ្នកយកព័ត៌មានសេតវិមាន USA Today៖ មែនហើយ ខ្ញុំគិតថាប្រធានាធិបតី Trump ពិតជាចូលចិត្តការនិទានរឿងនេះ; ប្រហែលជាគាត់ពិតជាមានទំនាក់ទំនងជាមួយការផ្លាស់ប្តូរនេះ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "You know, the White House, or a U.S. official says that the right outcome was ultimately picked here. Officials who talked to me said that Trump simply wanted to, quote, \"better understand\" the rules for FIFA when it comes to appeals during the World Cup. But it's hard not to think that Trump's call to the FIFA president played a role. But -- but yes, I mean, as -- as others have said here, I mean, Trump loves nothing better to -- than to use his contacts and to show that he can get a quick result.",
+      "cn": "អ្នកដឹងទេ សេតវិមាន ឬមន្ត្រីអាមេរិកម្នាក់បាននិយាយថា ទីបំផុតលទ្ធផលត្រឹមត្រូវត្រូវបានជ្រើសរើស។ មន្ត្រីដែលខ្ញុំបាននិយាយជាមួយបាននិយាយថា Trump គ្រាន់តែចង់ 'ស្វែងយល់ឱ្យកាន់តែច្បាស់' អំពីច្បាប់របស់ FIFA ទាក់ទងនឹងការប្តឹងឧទ្ធរណ៍ក្នុងអំឡុង World Cup ។ ប៉ុន្តែវាពិបាកក្នុងការមិនគិតថាការទូរស័ព្ទរបស់ Trump ទៅប្រធាន FIFA មានឥទ្ធិពល។ ប៉ុន្តែ -- ប៉ុន្តែបាទ ខ្ញុំចង់និយាយថា ដូចដែលអ្នកផ្សេងទៀតបាននិយាយនៅទីនេះ អ្វីដែល Trump ចូលចិត្តបំផុតគឺការប្រើបណ្តាញទំនាក់ទំនងរបស់គាត់ និងបង្ហាញថាគាត់អាចទទួលបានលទ្ធផលយ៉ាងឆាប់រហ័ស។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "But yes, it's enraged Belgium in the process. And if the U.S. does win, you know, I think you're going to see that ramped up further, especially if he were to score a goal tonight.",
+      "cn": "ប៉ុន្តែត្រូវហើយ ដំណើរការនេះបានធ្វើឱ្យបែលហ្ស៊ិកខឹងសម្បារ។ ប្រសិនបើអាមេរិកពិតជាឈ្នះ ខ្ញុំគិតថាអ្នកនឹងឃើញស្ថានភាពនេះកាន់តែធ្ងន់ធ្ងរ ជាពិសេសប្រសិនបើគាត់ស៊ុតបញ្ចូលទីយប់នេះ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "We will be watching to see. Much more to come ahead this morning on CNN THIS MORNING. Mourners lining the streets in Iran. CNN is on the ground in Tehran for the funeral procession of Iran's late supreme leader. Plus, House Speaker Mike Johnson has a new plan to get Trump's SAVE Act across the finish line. But can he actually get everyone on board? And a Delta flight hit by fireworks on Saturday as it landed at Chicago Midway. Air traffic controllers say there had been multiple reports of similar incidents.",
+      "cn": "យើងនឹងរង់ចាំមើល។ ព្រឹកនេះ CNN THIS MORNING នៅមានខ្លឹមសារបន្ថែមទៀត។ អ្នកកាន់ទុក្ខបានបំពេញផ្លូវនានាក្នុងប្រទេសអ៊ីរ៉ង់។ CNN នៅទីក្រុងតេអេរ៉ង់រាយការណ៍ផ្ទាល់អំពីពិធីបុណ្យសពរបស់មេដឹកនាំកំពូលអ៊ីរ៉ង់ដែលទើបទទួលមរណភាព។ លើសពីនេះ ប្រធានសភាតំណាងរាស្ត្រលោក Mike Johnson មានផែនការថ្មីដើម្បីជំរុញឱ្យ 'ច្បាប់សង្គ្រោះ' របស់លោក Trump ឆ្លងកាត់បន្ទាត់បញ្ចប់។ ប៉ុន្តែតើគាត់ពិតជាអាចឱ្យអ្នកទាំងអស់គ្នាយល់ព្រមបានទេ? ហើយនៅថ្ងៃសៅរ៍ យន្តហោះ Delta Air Lines មួយគ្រឿងត្រូវបានបាញ់ដោយគ្រាប់រ៉ុក្កែតពេលចុះចតនៅអាកាសយានដ្ឋានអន្តរជាតិ Chicago Midway ។ អ្នកត្រួតពិនិត្យចរាចរណ៍ផ្លូវអាកាសបាននិយាយថា មានរបាយការណ៍អំពីឧប្បត្តិហេតុស្រដៀងគ្នាជាច្រើនពីមុនមក។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The FAA now investigating.",
+      "cn": "ស្ថាប័នគ្រប់គ្រងអាកាសចរណ៍សហព័ន្ធកំពុងធ្វើការស៊ើបអង្កេត។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Tower, we just had a firework hit our plane. We're just hoping it was just a mortar that went off underneath, but definitely felt a big bang.",
+      "cn": "ប៉មត្រួតពិនិត្យ យើងទើបតែត្រូវបានគ្រាប់កាំជ្រួចបាញ់មកបុកយន្តហោះ។ យើងសង្ឃឹមថាវាគ្រាន់តែជាការផ្ទុះកាំភ្លើងត្បាល់នៅខាងក្រោម ប៉ុន្តែយើងពិតជាមានអារម្មណ៍ថាមានសំឡេងខ្លាំងមួយ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Eleven minutes past the hour. Now here's your morning roundup. President Trump preparing for his trip to Turkey for a critical NATO summit as the alliance faces continued stress over the Ukraine war, simmering tensions in the Middle East, and Trump's repeated attacks on allies and the alliance itself for not supporting the war with Iran. Trump is set to meet with Ukraine's president on the sidelines of the conference.",
+      "cn": "ឥឡូវនេះម៉ោង ១១ នាទីក្រោយម៉ោង។ នេះជាសេចក្ដីសង្ខេបពេលព្រឹករបស់អ្នក។ ប្រធានាធិបតី Trump កំពុងរៀបចំធ្វើដំណើរទៅកាន់ប្រទេសទួរគីសម្រាប់កិច្ចប្រជុំកំពូលណាតូដ៏សំខាន់មួយ ខណៈពេលដែលសម្ព័ន្ធភាពកំពុងប្រឈមមុខនឹងសម្ពាធជាបន្តបន្ទាប់ពីសង្គ្រាមអ៊ុយក្រែន ភាពតានតឹងកើនឡើងនៅមជ្ឈិមបូព៌ា និងការវាយប្រហារម្តងហើយម្តងទៀតរបស់ Trump ទៅលើសម្ព័ន្ធមិត្ត និងសម្ព័ន្ធភាពខ្លួនឯងដែលមិនគាំទ្រសង្គ្រាមជាមួយអ៊ីរ៉ង់។ Trump នឹងជួបជាមួយប្រធានាធិបតីអ៊ុយក្រែននៅក្នុងរវាងកិច្ចប្រជុំ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "LaGuardia Tower, mayday, mayday, mayday! The plane down on the water.",
+      "cn": "ប៉មត្រួតពិនិត្យ LaGuardia សុំជំនួយ សុំជំនួយ សុំជំនួយ! យន្តហោះធ្លាក់ចូលទឹកហើយ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "A small seaplane making a hard landing in New York's East River on Sunday. Officials say eight people were removed from the aircraft by first responders. Just two suffered minor injuries. The FAA is now investigating. Repairing the Lincoln Memorial Reflecting Pool is now expected to cost taxpayers upwards of $16 million. That is, of course, ballooning from the initial estimate of under $2 million.",
+      "cn": "កាលពីថ្ងៃអាទិត្យ យន្តហោះទឹកតូចមួយបានចុះចតយ៉ាងលំបាកនៅក្នុងទន្លេ East River ក្នុងទីក្រុងញូវយ៉ក។ មន្ត្រីបាននិយាយថា អ្នកជួយសង្គ្រោះបានទាញមនុស្សប្រាំបីនាក់ចេញពីយន្តហោះ។ មានតែពីរនាក់ប៉ុណ្ណោះដែលរងរបួសស្រាល។ ស្ថាប័នគ្រប់គ្រងអាកាសចរណ៍សហព័ន្ធកំពុងធ្វើការស៊ើបអង្កេត។ ការជួសជុលអាងទឹក Lincoln Memorial Reflecting Pool ត្រូវបានគេរំពឹងថានឹងចំណាយថវិកាអ្នកបង់ពន្ធរហូតដល់ ១៦ លានដុល្លារ។ នេះពិតជាការកើនឡើងយ៉ាងខ្លាំងពីការប៉ាន់ស្មានដំបូងដែលមានតិចជាង ២ លានដុល្លារ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Trump had pledged to restore the pool in time for the nation's 250th birthday, but shortly after, the bottom was repainted American flag blue, the green algae returned. Pieces of the coating began peeling off the bottom. Interior Secretary Doug Burgum told CNN, though, he's 100 percent sure vandals caused all that damage.",
+      "cn": "Trump ធ្លាប់បានសន្យាថានឹងជួសជុលអាងទឹកនេះសម្រាប់ខួប ២៥០ ឆ្នាំនៃការបង្កើតប្រទេស ប៉ុន្តែមិនយូរប៉ុន្មាន បាតអាងត្រូវបានលាបពណ៌ខៀវទង់ជាតិអាមេរិកឡើងវិញ ហើយសារាយបៃតងបានត្រលប់មកវិញ។ បំណែកថ្នាំលាបចាប់ផ្តើមរបូតចេញពីបាតអាង។ ទោះយ៉ាងណា រដ្ឋមន្ត្រីក្រសួងមហាផ្ទៃ Doug Burgum បានប្រាប់ CNN ថាគាត់ប្រាកដ ១០០% ថាអ្នកបំផ្លាញគឺជាអ្នកបង្កការខូចខាតទាំងអស់។"
+    },
+    {
+      "speaker": "Doug Burgum",
+      "text": "This is, like, a strong material, and it's the size of eight football fields. And the only way you can end up with actual slices in one spot and not the other, is that someone physically cut it.",
+      "cn": "នេះជាសម្ភារៈរឹងមាំ មានទំហំប៉ុនទីលានបាល់ទាត់ចំនួនប្រាំបី។ ហើយមូលហេតុតែមួយគត់ដែលអ្នកអាចឃើញស្នាមកាត់ពិតប្រាកដនៅកន្លែងមួយ ប៉ុន្តែមិនមែននៅកន្លែងផ្សេងទៀតទេ គឺដោយសារតែមាននរណាម្នាក់កាត់វាដោយចេតនា។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The administration has not offered evidence to support that claim, but despite being asked multiple times. Burgum says the contractors will finish the repairs, noting they did a, quote, \"fantastic job.\" After the break here on CNN THIS MORNING, Taylor and Travis, of course, have said their \"I do's\" now. The dress, the guest list, who caught the bouquet. The new details we have for you this morning.",
+      "cn": "រដ្ឋាភិបាលមិនបានផ្តល់ភស្តុតាងដើម្បីគាំទ្រការអះអាងនេះទេ ទោះបីជាត្រូវបានសួរច្រើនដងក៏ដោយ។ Burgum បាននិយាយថា អ្នកម៉ៅការនឹងបញ្ចប់ការជួសជុល ហើយបានកត់សម្គាល់ថាពួកគេធ្វើការ 'ពូកែណាស់'។ បន្ទាប់ពីការផ្សាយពាណិជ្ជកម្មនៅក្នុងកម្មវិធី CNN This Morning ពិតណាស់ Taylor និង Travis ឥឡូវនេះបាននិយាយថា 'ខ្ញុំព្រម' ហើយ។ រ៉ូបអាពាហ៍ពិពាហ៍ បញ្ជីភ្ញៀវ អ្នកណាចាប់បានភួងផ្កា។ ព័ត៌មានលម្អិតចុងក្រោយសម្រាប់អ្នកនៅព្រឹកនេះ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Plus, raucous fans, altitude, home team advantage, all of that adding up to a match for the ages between England and Mexico. And good morning, Baltimore. Sun starting to come up there. We hope it will peak through. See you back in a couple minutes.",
+      "cn": "លើសពីនេះ អ្នកគាំទ្រដែលរំខាន កម្ពស់ខ្ពស់ អត្ថប្រយោជន៍ពីទឹកដីកំណើត ទាំងអស់នេះរួមគ្នាបង្កើតការប្រកួតដ៏អស្ចារ្យមួយរវាងអង់គ្លេស និងម៉ិកស៊ិក។ អរុណសួស្តី Baltimore។ ព្រះអាទិត្យកំពុងរះឡើង។ សង្ឃឹមថាវានឹងជ្រាបចូលពពក។ ជួបគ្នាប៉ុន្មាននាទីទៀត។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Well, now that it's official, Taylor Swift and Travis Kelce are newlyweds. Fans are still waiting for some more details about the wedding spectacle that took place inside Madison Square Garden. Some of the guests -- musicians, actors, athletes, and more -- are starting to share little tiny tidbits of their experiences on social media, including the sister of Kansas City Chiefs lineman Trey Smith, who revealed she caught Taylor's bouquet.",
+      "cn": "ហើយឥឡូវនេះ វាជាការសម្រេចហើយ Taylor Swift និង Travis Kelce គឺជាគូស្វាមីភរិយាថ្មី។ អ្នកគាំទ្រនៅតែរង់ចាំព័ត៌មានលម្អិតបន្ថែមអំពីពិធីមង្គលការដ៏អស្ចារ្យនេះដែលប្រារព្ធឡើងនៅ Madison Square Garden។ ភ្ញៀវខ្លះ -- តន្ត្រីករ តារាសម្តែង អត្តពលិក ជាដើម -- បានចាប់ផ្តើមចែករំលែកបទពិសោធន៍របស់ពួកគេនៅលើប្រព័ន្ធផ្សព្វផ្សាយសង្គម រួមទាំងប្អូនស្រីរបស់ខ្សែប្រយុទ្ធ Kansas City Chiefs ឈ្មោះ Trey Smith ដែលបានបង្ហាញថានាងបានចាប់បានភួងផ្ការបស់ Taylor។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Fans already using that picture, of course, to go down deep in the rabbit hole, speculating on the color scheme of the wedding. All the things you can pull from that little bouquet. Kansas City Chiefs Coach Andy Reid, by the way, recounting to CNN what he thought was the most memorable moment of the night.",
+      "cn": "អ្នកគាំទ្រពិតណាស់បានចាប់ផ្តើមប្រើរូបថតនោះដើម្បីស្វែងយល់ស៊ីជម្រៅ ទាយពណ៌ចម្រុះនៃពិធីមង្គលការ។ អ្វីគ្រប់យ៉ាងដែលអ្នកអាចសន្និដ្ឋានបានពីភួងផ្កាតូចនោះ។ និយាយអញ្ចឹង គ្រូបង្វឹក Kansas City Chiefs លោក Andy Reid បានប្រាប់ CNN អំពីអ្វីដែលគាត់គិតថាជាពេលវេលាដែលមិនអាចបំភ្លេចបានបំផុតនៅរាត្រីនោះ។"
+    },
+    {
+      "speaker": "Andy Reid",
+      "text": "I would probably tell you, Adam Sandler doing a phenomenal job with the vows -- or the ceremony. And -- and just how he went about bringing a little bit of humor, but also some sensitivity to the -- to what was going on.",
+      "cn": "ខ្ញុំអាចប្រាប់អ្នកថា Adam Sandler បានធ្វើការងារដ៏អស្ចារ្យក្នុងការដឹកនាំពាក្យសច្ចា -- ឬនិយាយថា ពិធី -- ហើយ -- ហើយរបៀបដែលគាត់នាំយកការកំប្លែងបន្តិច និងភាពរសើបខ្លះចូលទៅក្នុង -- ចូលទៅក្នុងអ្វីដែលកំពុងកើតឡើង។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Joining me now, Brian West. He, of course, is the Taylor Swift reporter for \"USA Today.\" Brian, great to have you with us this morning, especially because you have some new details this morning about what went down, including a little Taylor karaoke during the night? BRIAN WEST, TAYLOR SWIFT REPORTER, \"USA TODAY\": Good morning, Erica. We do have some details that are coming out. And for something that has been shrouded in secrecy, especially among the guests, what's really interesting is kind of the flow.",
+      "cn": "ឥឡូវនេះចូលរួមជាមួយយើងគឺ Bryan West។ គាត់ពិតណាស់ជាអ្នកសារព័ត៌មាន Taylor Swift របស់ USA Today។ Bryan រីករាយដែលអ្នកមកនៅព្រឹកនេះ ជាពិសេសដោយសារតែអ្នកមានព័ត៌មានលម្អិតថ្មីៗអំពីព្រឹត្តិការណ៍កាលពីយប់មិញ រួមទាំងវគ្គ Taylor karaoke នៅរាត្រីនោះ? Bryan West អ្នកសារព័ត៌មាន Taylor Swift របស់ USA Today: អរុណសួស្តី Erica។ យើងពិតជាមានព័ត៌មានលម្អិតខ្លះដែលកំពុងចេញមក។ សម្រាប់អ្វីដែលត្រូវបានរុំព័ទ្ធដោយអាថ៌កំបាំង ជាពិសេសក្នុងចំណោមភ្ញៀវ អ្វីដែលគួរឱ្យចាប់អារម្មណ៍ពិតប្រាកដគឺលំហូរនៃព្រឹត្តិការណ៍។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, everybody saw that long line, the caravan of cars that was pulling up. As soon as guests entered, they went into these tents that you see there. The -- the workers pulled the tent behind them. They were able to walk up this area. I'm told that the esthetic was very peach, apricot, kind of a pink color. There were cutouts of Taylor and Travis on either side that were them, their entire ages. There was pictures of them as a couple.",
+      "cn": "ដូច្នេះ អ្នករាល់គ្នាបានឃើញជួរវែងនោះ រថយន្តមួយជួរមកដល់។ ពេលភ្ញៀវចូល ពួកគេដើរចូលទៅក្នុងតង់ដែលអ្នកបានឃើញ។ បុគ្គលិកទាញតង់បិទពីក្រោយពួកគេ។ ពួកគេអាចដើរឡើងលើតំបន់នេះ។ ខ្ញុំត្រូវបានគេប្រាប់ថា សោភ័ណភាពមានពណ៌ peach, apricot ពណ៌ផ្កាឈូក។ នៅសងខាងមានរូបស្រមោលរបស់ Taylor និង Travis ពេញមួយជីវិតរបស់ពួកគេ។ ហើយមានរូបថតរបស់ពួកគេជាគូស្នេហ៍។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "As they walked out into Madison Square Garden, though, we're told that it was intimate. It didn't feel like an arena or a stadium. Adam Sandler appeared as the officiant. They exchanged vows that were both funny and heartfelt. He offered his best piece of advice, being, of course, kiss often. Then afterwards, they went to the reception, which was in a different area. I'm told they couldn't tell which area of the floor that they were in. It was lush. There was greenery everywhere.",
+      "cn": "ទោះយ៉ាងណា ពេលពួកគេដើរចូលទៅក្នុង Madison Square Garden យើងត្រូវបានគេប្រាប់ថា បរិយាកាសមានភាពស្និទ្ធស្នាល។ វាមិនមានអារម្មណ៍ដូចជាកន្លែងប្រកួត ឬពហុកីឡដ្ឋានទេ។ Adam Sandler បានបង្ហាញខ្លួនជាអ្នករៀបអាពាហ៍ពិពាហ៍។ ពួកគេបានផ្លាស់ប្តូរពាក្យសច្ចាដែលទាំងកំប្លែង និងគួរឱ្យរំជួលចិត្ត។ គាត់បានផ្តល់ដំបូន្មានល្អបំផុត ពិតណាស់គឺត្រូវថើបគ្នាឱ្យបានញឹកញាប់។ បន្ទាប់មក ពួកគេបានទៅកន្លែងទទួលភ្ញៀវនៅតំបន់មួយទៀត។ ខ្ញុំត្រូវបានគេប្រាប់ថាពួកគេមិនអាចប្រាប់បានថាពួកគេនៅតំបន់ណាទេ។ វាប្រណីត មានរុក្ខជាតិបៃតងគ្រប់ទីកន្លែង។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "There was arcade games where you could win tickets for raffles, for designer handbags, Cartier watches. There was also a lot of food there. Tall, five-foot story, illuminated trees. And then that's what I'm told, for the reception, that Taylor and Travis were up there. They were singing. Stevie Nicks perform. Paul McCartney performed. And then there was, of course, dancing and karaoke, inviting people like Sabrina Carpenter, Ice Spice on stage to come up and sing.",
+      "cn": "មានម៉ាស៊ីនលេងហ្គេមអាកាដេ អាចឈ្នះសំបុត្រឆ្នោត រង្វាន់ជាកាបូបអ្នករចនា នាឡិកា Cartier។ ហើយមានអាហារច្រើន។ ដើមឈើភ្លឺកម្ពស់ប្រាំហ្វីត។ បន្ទាប់មកខ្ញុំត្រូវបានគេប្រាប់ថា នៅកន្លែងទទួលភ្ញៀវ Taylor និង Travis ច្រៀងនៅលើឆាក។ Stevie Nicks សម្តែង។ Paul McCartney សម្តែង។ ហើយបន្ទាប់មកពិតណាស់មានការរាំ និង karaoke ដោយអញ្ជើញមនុស្សដូចជា Sabrina Carpenter, Ice Spice ឡើងច្រៀង។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "I mean, you've got quite the cast of characters to choose from for your karaoke. I'm just wondering if anybody did \"Islands in the Stream,\" because it's a classic. When you talk about -- I'm floored by the -- the carnival games where you could win a Cartier watch, a designer handbag. We had this list, almost a run of show, if you will, that was posted by AMC CEO Adam Aron, just literally going through everything that happened. And then that was quickly deleted.",
+      "cn": "ខ្ញុំចង់និយាយថា karaoke របស់អ្នកមានតួអង្គច្រើនណាស់។ ខ្ញុំគ្រាន់តែឆ្ងល់ថាតើមានអ្នកណាច្រៀង 'Islands in the Stream' ទេ ព្រោះវាជាបទចាស់។ ពេលអ្នកនិយាយអំពី -- ខ្ញុំភ្ញាក់ផ្អើលនឹងហ្គេមកាណូតទាំងនោះ ដែលអ្នកអាចឈ្នះនាឡិកា Cartier កាបូបអ្នករចនា។ យើងមានបញ្ជីមួយ ស្ទើរតែអាចនិយាយបានថាជាតារាងលំហូរ ដែលចេញផ្សាយដោយនាយកប្រតិបត្តិ AMC លោក Adam Aron ដោយរាយបញ្ជីអ្វីគ្រប់យ៉ាងដែលបានកើតឡើង។ ហើយវាត្រូវបានលុបចោលយ៉ាងឆាប់រហ័ស។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "How accurate do you think it was? And how much do you think this may have disrupted the actual rollout strategy from Taylor and Travis?",
+      "cn": "តើអ្នកគិតថាវាត្រឹមត្រូវប៉ុណ្ណា? តើអ្នកគិតថាវាអាចរំខានដល់យុទ្ធសាស្ត្រចេញផ្សាយព័ត៌មានពិតប្រាកដរបស់ Taylor និង Travis កម្រិតណា?"
+    },
+    {
+      "speaker": "West",
+      "text": "So, I do think it was pretty accurate. Adam Aron is known for tweeting a lot. I think that is his favorite form of social media. And the fact that it was deleted is what is the most glaring. So, I imagine somebody maybe from her team or his team was like, hey, this needs to be deleted. But of course, in today's day and age of technology, once it's out there, everybody grabs it. And then that's what they cling onto. And something that has been completely secret. Not a lot of details have emerged.",
+      "cn": "ដូច្នេះ ខ្ញុំពិតជាគិតថាវាត្រឹមត្រូវណាស់។ Adam Aron ល្បីថាប្រកាស Tweet ច្រើន។ ខ្ញុំគិតថានោះជាទម្រង់ប្រព័ន្ធផ្សព្វផ្សាយសង្គមដែលគាត់ចូលចិត្ត។ ហើយការពិតដែលវាត្រូវបានលុបចោលគឺគួរឱ្យកត់សម្គាល់បំផុត។ ដូច្នេះ ខ្ញុំស្មានថាប្រហែលជាមាននរណាម្នាក់នៅក្នុងក្រុមរបស់នាង ឬក្រុមរបស់គាត់បាននិយាយថា ហេ ត្រូវតែលុបវាចោល។ ប៉ុន្តែពិតណាស់ ក្នុងយុគសម័យបច្ចេកវិទ្យាបច្ចុប្បន្ន ពេលដែលវាត្រូវបានចេញផ្សាយ អ្នករាល់គ្នាចាប់យកវា។ ហើយបន្ទាប់មកពួកគេក៏មិនព្រមលែងដែរ។ ហើយរឿងនេះត្រូវបានរក្សាទុកជាសម្ងាត់ទាំងស្រុង។ មិនមានព័ត៌មានលម្អិតច្រើនត្រូវបានបង្ហាញទេ។"
+    },
+    {
+      "speaker": "West",
+      "text": "And out of a thousand people guest list, that's pretty rare and amazing feat in and of itself. What I would say is just this was probably affecting the rollout strategy, especially because, you know, the photos and videos. I imagine that Taylor will release those when she's ready. Since it hasn't been so close to the Fourth, I'm wondering if it's not today, if they're going to hold onto it. Remember, the engagement photos were 13 days.",
+      "cn": "ក្នុងចំណោមបញ្ជីភ្ញៀវមួយពាន់នាក់ នេះជាសមិទ្ធផលដ៏កម្រ និងអស្ចារ្យ។ ខ្ញុំចង់និយាយថា វាអាចប៉ះពាល់ដល់យុទ្ធសាស្ត្រចេញផ្សាយ ជាពិសេសដោយសារតែ អ្នកដឹងទេ រូបថត និងវីដេអូទាំងនោះ។ ខ្ញុំទាយថា Taylor នឹងចេញផ្សាយវានៅពេលនាងត្រៀមខ្លួន។ ដោយសារវាជិតថ្ងៃបុណ្យជាតិ ខ្ញុំឆ្ងល់ថាតើបើមិនមែនថ្ងៃនេះទេ តើពួកគេនឹងរក្សាទុកវាឬអត់។ ចាំថារូបថតភ្ជាប់ពាក្យត្រូវបានចេញផ្សាយ ១៣ ថ្ងៃក្រោយមក។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, maybe we'll have to wait 13 days, since I'm told that's her favorite number. It's hard to miss, though. AMC had this direct partnership, right, with Taylor Swift for the Eras Tour, right? The CEO was there. There were -- some of our correspondents spotted signs that there was filming in the area. The fact that we haven't even had a single picture. We've had one press release, essentially, from Taylor's team.",
+      "cn": "ដូច្នេះ ប្រហែលជាយើងត្រូវរង់ចាំ ១៣ ថ្ងៃ ព្រោះខ្ញុំបានឮថានោះជាលេខដែលនាងចូលចិត្ត។ ទោះយ៉ាងណា វាពិបាកនឹងខកខានណាស់។ AMC មានកិច្ចសហការផ្ទាល់ជាមួយ Taylor Swift ក្នុងដំណើរកម្សាន្ត Eras មែនទេ? CEO ក៏នៅទីនោះដែរ។ មាន -- អ្នកសារព័ត៌មានខ្លះរបស់យើងបានរកឃើញសញ្ញានៃការថតនៅក្នុងតំបន់នោះ។ តាមពិត យើងមិនទាន់ឃើញរូបថតតែមួយសន្លឹកទេ។ យើងឃើញតែសេចក្តីប្រកាសព័ត៌មានមួយពីក្រុមរបស់ Taylor ប៉ុណ្ណោះ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Is this all building up to the wedding itself being packaged into some sort of a documentary? I mean, are we going to have to, you know, pay for this at Disney or Netflix or something?",
+      "cn": "តើអ្វីៗទាំងអស់នេះកំពុងត្រៀមខ្ចប់ពិធីមង្គលការខ្លួនឯងទៅជាភាពយន្តឯកសារប្រភេទណាមួយឬ? ខ្ញុំចង់និយាយថា តើយើងត្រូវចំណាយលុយមើលនៅលើ Disney ឬ Netflix ឬ?"
+    },
+    {
+      "speaker": "West",
+      "text": "So, Swifties are already excited at the opportunity that could be a documentary, docuseries. I could also see this maybe being a music video. A lot of country stars do that. A lot of singers do that, where they take their wedding footage kind of on a montage. So, with Taylor, I could see her putting those together, maybe a 30- second clip. It is entirely possible, though, that she does, you know, turn this into a documentary. She did that with her concert, the Eras Tour.",
+      "cn": "ដូច្នេះ Swifties បានរំភើបរួចហើយចំពោះឱកាសដែលអាចក្លាយជាភាពយន្តឯកសារ ឬរឿងភាគឯកសារ។ ខ្ញុំក៏គិតថាវាអាចជាវីដេអូតន្ត្រីផងដែរ។ តារាចម្រៀងប្រទេសជាច្រើនធ្វើបែបនេះ។ តារាចម្រៀងជាច្រើនធ្វើបែបនេះ ពួកគេយកឈុតរៀបការមកធ្វើជា montage ។ ដូច្នេះសម្រាប់ Taylor ខ្ញុំអាចស្រមៃថានាងយកឈុតទាំងនោះមកតម្រៀបគ្នា អាចជាវីដេអូរយៈពេល 30 វិនាទី។ ទោះយ៉ាងណា វាអាចទៅរួចដែលនាងនឹងធ្វើវាជាភាពយន្តឯកសារ។ នាងធ្លាប់ធ្វើបែបនេះជាមួយកម្មវិធីប្រគំតន្ត្រី Eras Tour របស់នាងពីមុនមក។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "All right, well, maybe we'll get a clip first, teasing to the full doc later on. Brian, good to have you. Thank you.",
+      "cn": "អញ្ចឹង ប្រហែលជាយើងនឹងឃើញវីដេអូខ្លីមួយមុន បន្ទាប់មកទើបឃើញភាពយន្តឯកសារពេញលេញ។ Brian រីករាយដែលអ្នកមកចូលរួម។ អរគុណ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Straight ahead here on CNN THIS MORNING, she was a candidate who wanted to find a lane between the far left and establishment Dems. Now, she is ending her bid for Senate. So, is there any room left in the middle for Democrats? Plus --",
+      "cn": "បន្ទាប់មកនៅក្នុងកម្មវិធី CNN This Morning នាងធ្លាប់ជាបេក្ខជនដែលចង់ស្វែងរកផ្លូវកណ្តាលរវាងពួកឆ្វេងនិយមជ្រុល និងគណបក្សប្រជាធិបតេយ្យបែបប្រពៃណី។ ឥឡូវនេះ នាងកំពុងបញ្ចប់យុទ្ធនាការឈរឈ្មោះជាសមាជិកព្រឹទ្ធសភារបស់នាង។ ដូច្នេះ តើគណបក្សប្រជាធិបតេយ្យនៅតែមានកន្លែងនៅកណ្តាលដែរឬទេ? ហើយ -- --"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "A red card is a red card. And if there's a rule that you miss a game, you miss a game.",
+      "cn": "កាតក្រហមគឺជាកាតក្រហម។ ប្រសិនបើច្បាប់គឺអ្នកខកខានការប្រកួតមួយ អ្នកខកខានការប្រកួតមួយ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It's a red card until it's not, apparently. The red card reversal heard round the world. Can Belgium do anything to fight the lifted ban? Plus, residents in D.C. experiencing the worst air quality in the world on Sunday, prompting a code red air quality alert from city officials. Why? Well, this 40 minutes of fireworks had a whole lot to do with it.",
+      "cn": "ជាក់ស្តែង កាតក្រហមមិនមែនជាកាតក្រហមទេ រហូតដល់វាមិនមែន។ ដំណឹងនៃការដកកាតក្រហមបានផ្សព្វផ្សាយពាសពេញពិភពលោក។ តើបែលហ្ស៊ិកអាចធ្វើអ្វីខ្លះដើម្បីប្រឆាំងនឹងការហាមឃាត់ដែលត្រូវបានលុបចោល? ហើយអ្នករស់នៅទីក្រុងវ៉ាស៊ីនតោនឌីស៊ីបានជួបប្រទះគុណភាពខ្យល់អាក្រក់បំផុតនៅលើពិភពលោកកាលពីថ្ងៃអាទិត្យ ដែលជំរុញឱ្យមន្ត្រីទីក្រុងចេញការជូនដំណឹងគុណភាពខ្យល់កម្រិតក្រហម។ ហេតុអ្វី? អញ្ចឹង កាំជ្រួចរយៈពេល 40 នាទីនេះមានទំនាក់ទំនងច្រើនណាស់។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "The reversal is a little weird, and the timing is a little strange.",
+      "cn": "ការបញ្ច្រាសនេះគឺចម្លែកបន្តិច ហើយពេលវេលាក៏ចម្លែកដែរ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "I'd be really annoyed if I was a Belgium fan. It's good for the USA, though.",
+      "cn": "ប្រសិនបើខ្ញុំជាអ្នកគាំទ្របែលហ្ស៊ិក ខ្ញុំនឹងខឹងខ្លាំងណាស់។ ប៉ុន្តែនេះជារឿងល្អសម្រាប់ក្រុមសហរដ្ឋអាមេរិក។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "As questions continue to swirl over just how U.S. soccer star Folarin Balogun was cleared to play, the U.S. coach is trying to steer the conversation back to where he wants it: to the game.",
+      "cn": "នៅពេលដែលសំណួរអំពីរបៀបដែលតារាបាល់ទាត់អាមេរិក Folarin Balogun ត្រូវបានអនុញ្ញាតឱ្យចូលរួមប្រកួតនៅតែបន្ត គ្រូបង្វឹកក្រុមជម្រើសជាតិអាមេរិកកំពុងព្យាយាមនាំប្រធានបទត្រឡប់ទៅកាន់ទិសដៅដែលគាត់ចង់បាន៖ ការប្រកួតខ្លួនឯង។"
+    },
+    {
+      "speaker": "Pochettino",
+      "text": "We need to celebrate that we -- you know, I think it's fair, that decision not to punish more us, because I think it was enough. And now focus on the game.",
+      "cn": "យើងត្រូវអបអរ -- -- អ្នកដឹងទេ ខ្ញុំគិតថាវាសមរម្យក្នុងការនិយាយថា ការសម្រេចចិត្តមិនដាក់ទណ្ឌកម្មបន្ថែមលើយើងទៀតទេ ព្រោះខ្ញុំគិតថាវាគ្រប់គ្រាន់ហើយ។ ឥឡូវផ្តោតលើការប្រកួត។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, FIFA's decision here means the Americans will, of course, get their leading scorer back for this pivotal Round of 16 showdown with Belgium tonight in Seattle. Balogun posting this image of himself, no caption, shortly after learning he would play. Meantime, the Royal Belgian Football Association said in a statement they are investigating all available legal -- or all potential legal options. Joining us now, Roger Bennett.",
+      "cn": "ដូច្នេះ ការសម្រេចចិត្តរបស់ FIFA នេះមានន័យថា ជនជាតិអាមេរិកពិតជានឹងឱ្យអ្នកស៊ុតបញ្ចូលទីលេខមួយរបស់ពួកគេត្រឡប់មកវិញ សម្រាប់ការប្រកួតវគ្គ 16 ក្រុមចុងក្រោយដ៏សំខាន់ជាមួយបែលហ្ស៊ិកនៅយប់នេះនៅ Seattle។ Balogun បានចេញផ្សាយរូបថតខ្លួនឯងនេះដោយគ្មានអត្ថបទភ្លាមៗបន្ទាប់ពីដឹងថាគាត់អាចលេងបាន។ ក្នុងពេលជាមួយគ្នានេះ សហព័ន្ធបាល់ទាត់រាជាណាចក្របែលហ្ស៊ិកបាននិយាយនៅក្នុងសេចក្តីថ្លែងការណ៍មួយថា ពួកគេកំពុងស៊ើបអង្កេតរាល់ផ្លូវច្បាប់ដែលអាចធ្វើទៅបាន -- ឬនិយាយថាជម្រើសផ្លូវច្បាប់ដែលអាចធ្វើទៅបានទាំងអស់។ ឥឡូវនេះភ្ជាប់ទៅ Roger Bennett។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "He's the founder of Men in Blazers Media Network and author of the book \"We Are the World Cup: A Personal History of the World's Greatest Sporting Event.\" It's great to have you here. So, as I mentioned, you know, the Royal Belgian Football Association, they had also said they were astonished. Currently investigating all potential legal options. var CNN = CNN || {};",
+      "cn": "គាត់ជាស្ថាបនិកនៃបណ្តាញផ្សព្វផ្សាយ Men in Blazers និងជាអ្នកនិពន្ធសៀវភៅ 'We Are the World Cup: A Personal History of the World's Biggest Sporting Event'។ រីករាយដែលបានជួបអ្នក។ ដូច្នេះ ដូចដែលខ្ញុំបានលើកឡើង សហព័ន្ធបាល់ទាត់រាជាណាចក្របែលហ្ស៊ិកក៏បាននិយាយថាពួកគេមានការភ្ញាក់ផ្អើលផងដែរ។ បច្ចុប្បន្នកំពុងស៊ើបអង្កេតជម្រើសផ្លូវច្បាប់ដែលអាចធ្វើទៅបានទាំងអស់។"
+    },
+    {
+      "speaker": "Erica Hill",
+      "text": "Mentioned, you know, the Royal Belgian Football Association. They had also said they were astonished. Currently investigating all potential legal options. And then we just heard this morning from the United European Football Association, which governs -- is the governing body of soccer in Europe, \"expressing our disbelief in such an unprecedented, incomprehensible and unjustifiable decision.\" I mean, are there any other options, certainly any legal options, as the Royal Belgian Football Association is alluding to",
+      "cn": "បានលើកឡើងថា អ្នកដឹងទេ សហព័ន្ធបាល់ទាត់រាជាណាចក្របែលហ្ស៊ិក។ ពួកគេក៏បាននិយាយថាពួកគេមានការភ្ញាក់ផ្អើលផងដែរ។ បច្ចុប្បន្នកំពុងស៊ើបអង្កេតជម្រើសផ្លូវច្បាប់ដែលអាចធ្វើទៅបានទាំងអស់។ ហើយបន្ទាប់មកយើងទើបតែឮពីសហភាពសមាគមបាល់ទាត់អឺរ៉ុប ឬ UEFA ដែលជាស្ថាប័នគ្រប់គ្រងបាល់ទាត់អឺរ៉ុប បាននិយាយថា 'យើងមិនជឿលើការសម្រេចចិត្តដែលមិនធ្លាប់មានពីមុនមក មិនអាចយល់បាន និងមិនសមហេតុផលនេះទេ'។ ខ្ញុំចង់និយាយថា តើមានជម្រើសផ្សេងទៀតទេ រួមទាំងជម្រើសផ្លូវច្បាប់ ដូចដែលសហព័ន្ធបាល់ទាត់រាជាណាចក្របែលហ្ស៊ិកបានបញ្ជាក់?"
+    },
+    {
+      "speaker": "Erica Hill",
+      "text": "at this point?",
+      "cn": "នៅចំណុចនេះ?"
+    },
+    {
+      "speaker": "Roger Bennett",
+      "text": "This is why we watch football, erica, because we love legislative courtroom drama. Now this is something that feels ripped from the",
+      "cn": "នេះជាមូលហេតុដែលយើងមើលបាល់ទាត់ Erica ព្រោះយើងស្រឡាញ់រឿងល្ខោនតុលាការ។ ឥឡូវនេះរឿងនេះមានអារម្មណ៍ដូចជាមកពី"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "You know, home cooking is the best cooking. I mean, it's totally unprecedented. And I'm kind of torn between being an American fan, despite my accent, I love this nation like Kenny Powers loves this nation. And as an American fan, emotionally, I'm like, this is the greatest thing ever. And as a rational fan of the football and the World Cup as an integral operation with rules and regulations in which it seems almost outlandish, insane that this man has been cleared.",
+      "cn": "អ្នកដឹងទេ អាហារធ្វើនៅផ្ទះគឺល្អបំផុត។ ខ្ញុំចង់និយាយថា នេះពិតជាមិនធ្លាប់មានពីមុនមក។ ខ្ញុំមានអារម្មណ៍ច្របូកច្របល់បន្តិច ក្នុងនាមជាអ្នកគាំទ្រអាមេរិក ទោះបីខ្ញុំមានសំឡេងបរទេសក៏ដោយ ខ្ញុំស្រឡាញ់ប្រទេសនេះដូច Kenny Powers ស្រឡាញ់ប្រទេសនេះដែរ។ ក្នុងនាមជាអ្នកគាំទ្រអាមេរិក ខាងអារម្មណ៍ ខ្ញុំគិតថានេះជារឿងល្អបំផុតដែលមិនធ្លាប់មាន។ ប៉ុន្តែក្នុងនាមជាអ្នកគាំទ្របាល់ទាត់ និង World Cup ដែលសមហេតុផល ដែលមើលឃើញថាវាជាប្រព័ន្ធប្រតិបត្តិការទាំងមូលដែលមានច្បាប់ និងបទបញ្ជា ការដែលបុរសម្នាក់នេះត្រូវបានអនុញ្ញាតឱ្យលេងហាក់ដូចជាស្ទើរតែមិនសមហេតុផល ឆ្កួត។"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "The very last because of, as a \"New York Times\" is reporting, a White House phone call to the head of FIFA to repeal a ban that has no right to appeal against. So, our -- our great goal scorer is free on the eve of probably the biggest game in modern U.S. men's national team football history. And it feels great for many American fans.",
+      "cn": "ចំណុចចុងក្រោយនេះ យោងតាមកាសែត New York Times គឺដោយសារតែសេតវិមានបានទូរស័ព្ទទៅប្រធាន FIFA ដើម្បីស្នើសុំឱ្យដកការហាមឃាត់ដែលមិនអាចប្តឹងឧទ្ធរណ៍បាន។ ដូច្នេះ អ្នកស៊ុតបញ្ចូលទីដ៏អស្ចារ្យរបស់យើងត្រូវបានដោះលែងនៅមុនថ្ងៃនៃការប្រកួតដែលអាចជាការប្រកួតដ៏សំខាន់បំផុតក្នុងប្រវត្តិសាស្ត្រទំនើបរបស់ក្រុមបាល់ទាត់បុរសអាមេរិក។ នេះធ្វើឱ្យអ្នកគាំទ្រអាមេរិកជាច្រើនមានអារម្មណ៍ល្អណាស់។"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "We do have to ask ourselves, Erica, if it was the other way around, if we were playing France and Macron had put the call in to get Mbappe, their best striker, ready to play, or Saudi Arabia or Qatar had done something, how would we feel? And the crazy thing is, the U.S. were doing so well in this tournament. We were playing so well. There was an element that going into battle today with Belgium, not like this. This is going to scare and stain the U.S. journey in the long term forever.",
+      "cn": "យើងពិតជាត្រូវសួរខ្លួនឯង Erica ថាប្រសិនបើស្ថានភាពបញ្ច្រាស ប្រសិនបើយើងលេងជាមួយបារាំង ហើយ Macron ទូរស័ព្ទទៅឱ្យកីឡាករវាយប្រហារល្អបំផុតរបស់ពួកគេ Mbappé ចូលលេង ឬអារ៉ាប៊ីសាអូឌីត ឬកាតាធ្វើអ្វីស្រដៀងគ្នា តើយើងនឹងគិតយ៉ាងណា? រឿងឆ្កួតគឺ ក្រុមអាមេរិកលេងបានល្អណាស់ក្នុងព្រឹត្តិការណ៍នេះ។ យើងលេងបានល្អណាស់។ ការប្រកួតថ្ងៃនេះជាមួយបែលហ្ស៊ិក មិនគួរមានលក្ខណៈបែបនេះទេ។ នេះនឹងធ្វើឱ្យដំណើររបស់ក្រុមអាមេរិកមានស្រមោល និងស្នាមប្រឡាក់ជារៀងរហូតក្នុងរយៈពេលវែង។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes. You're not the first to say. It's basically -- it's going to be an asterisk no matter what happens. When we look at the matchup for tonight, Belgium, of course, beat the U.S. in a friendly, 5-2, back in March. What do you think the U.S.' chances are?",
+      "cn": "បាទ។ អ្នកមិនមែនជាមនុស្សដំបូងដែលនិយាយដូច្នេះទេ។ ជាមូលដ្ឋាន មិនថាមានអ្វីកើតឡើងទេ វានឹងក្លាយជាស្នាមប្រឡាក់។ ពេលយើងមើលការប្រកួតយប់នេះ បែលហ្ស៊ិកពិតជាបានឈ្នះសហរដ្ឋអាមេរិក 5-2 ក្នុងការប្រកួតមិត្តភាពកាលពីខែមីនា។ តើអ្នកគិតថាឱកាសរបស់ក្រុមអាមេរិកមានប៉ុន្មាន?"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "This is a game with an echo in history. In 2014, in Brazil, the United States played at the same stage, Belgium. They were then at their peak. This was a game many viewers may remember. It's the Tim Howard game when he played his lights out, the most saves ever in a -- in a World Cup game. We lost in agony at the end. Unbelievably, four of the Belgian players are still the core of their team. They're now an aging core. They're like a crime caper. Old guys coming back for one more crime.",
+      "cn": "ការប្រកួតនេះមានអត្ថន័យក្នុងប្រវត្តិសាស្ត្រ។ នៅឆ្នាំ 2014 នៅប្រេស៊ីល ក្រុមអាមេរិកបានប្រកួតជាមួយបែលហ្ស៊ិកក្នុងវគ្គដូចគ្នា។ ពេលនោះបែលហ្ស៊ិកស្ថិតក្នុងកំពូលរបស់ពួកគេ។ អ្នកទស្សនាជាច្រើនប្រហែលជាចងចាំការប្រកួតនោះ។ វាជាការប្រកួតរបស់ Tim Howard ដែលលេងអស្ចារ្យ បង្កើតកំណត់ត្រាច្រើនបំផុតក្នុងការសង្គ្រោះបាល់ក្នុង World Cup មួយប្រកួត។ យើងចាញ់ដោយឈឺចាប់នៅទីបញ្ចប់។ មិនគួរឱ្យជឿ ក្រុមបែលហ្ស៊ិកនៅតែមានកីឡាករស្នូលបួននាក់ ប៉ុន្តែពួកគេមានអាយុច្រើនហើយ។ ដូចជារឿងឧក្រិដ្ឋកម្ម ពួកចាស់ៗត្រឡប់មកវិញដើម្បីធ្វើការងារមួយទៀត។"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "So, it's veteran experience against this young, very athletic United States team with Flo Balogun asterisk. And I do believe this is the agony for me. I thought the U.S. were going to win this whatever this major, major game, get through this stage, round of 16 in which we traditionally stumble. But it's going to be a matchup with extra layers, football, intrigue, courtroom drama and that geopolitical level over the top of it. The World Cup contains multitudes.",
+      "cn": "ដូច្នេះ វាជាបទពិសោធន៍របស់អ្នកចាស់ ទល់នឹងក្រុមអាមេរិកវ័យក្មេង និងមានសមត្ថភាពខ្ពស់នេះ បូករួមទាំងស្នាមប្រឡាក់របស់ Flo Balogun។ ខ្ញុំជឿថាវាឈឺចាប់សម្រាប់ខ្ញុំ។ ខ្ញុំធ្លាប់គិតថាក្រុមអាមេរិកនឹងឈ្នះការប្រកួតដ៏ធំនេះ ឆ្លងកាត់វគ្គ 16 ក្រុមចុងក្រោយដែលជាប្រពៃណីយើងតែងតែដួល។ ប៉ុន្តែនេះនឹងក្លាយជាការប្រកួតពហុស្រទាប់ ដែលពាក់ព័ន្ធនឹងបាល់ទាត់ ការឃុបឃិត រឿងល្ខោនតុលាការ និងវិមាត្រភូមិសាស្ត្រនយោបាយ។ World Cup រួមបញ្ចូលអ្វីៗទាំងអស់។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes, it certainly does. It had felt delightfully non-political up until this point. We'll see if we can maintain that. Before I let you go, as you noted, huge U.S. soccer fan. But we do hear your accent. So, let's talk a little England-Mexico, if we could. I admitted to you in the break, I had to go to bed because I had to get up for this show. I am guessing, though, you stayed up late and watched it all.",
+      "cn": "បាទ ពិតមែន។ មុននេះ វាមានភាពមិនទាក់ទងនឹងនយោបាយដ៏រីករាយ។ យើងមើលថាតើយើងអាចរក្សាវាបានដែរឬទេ។ មុនពេលអ្នកទៅ ដូចដែលអ្នកបាននិយាយ អ្នកគឺជាអ្នកគាំទ្របាល់ទាត់អាមេរិកដ៏ខ្លាំងក្លា។ ប៉ុន្តែយើងពិតជាឮសំឡេងបរទេសរបស់អ្នក។ ដូច្នេះ យើងនិយាយអំពីអង់គ្លេសទល់នឹងម៉ិកស៊ិក។ ខ្ញុំបានសារភាពចំពោះអ្នកពេលសម្រាកថា ខ្ញុំត្រូវចូលគេង ព្រោះខ្ញុំត្រូវក្រោករៀបចំកម្មវិធីនេះ។ ប៉ុន្តែខ្ញុំស្មានថាអ្នកបានមើលការប្រកួតទាំងអស់រហូតដល់ចប់។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "How are you feeling this morning?",
+      "cn": "តើអ្នកមានអារម្មណ៍យ៉ាងណានៅព្រឹកនេះ?"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "How am I feeling? We'll sleep after the final in two weeks' time.",
+      "cn": "តើខ្ញុំមានអារម្មណ៍យ៉ាងណា? យើងនឹងគេងបន្ទាប់ពីការប្រកួតផ្តាច់ព្រាត់ពីរសប្តាហ៍ទៀត។"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "This is one that -- this is one of the greatest World Cups of my lifetime. As you say, it's been the people's World Cup. Just a World Cup of wonder. Off the field, the world falling in love with America again. America falling in love with global football. The game last night in the Azteca, England going to this kind of \"Game of Thrones\" fortress, high altitude, smog. The most intimidating venue in world football. And somehow emerging barely intact with a victory. You're watching football.",
+      "cn": "នេះជា World Cup ដ៏អស្ចារ្យបំផុតមួយក្នុងជីវិតរបស់ខ្ញុំ។ ដូចដែលអ្នកបាននិយាយ វាជា World Cup របស់ប្រជាជន។ World Cup នៃអច្ឆរិយៈ។ នៅខាងក្រៅទីលាន ពិភពលោកបានស្រឡាញ់អាមេរិកម្តងទៀត។ អាមេរិកស្រឡាញ់បាល់ទាត់ពិភពលោក។ កាលពីយប់មិញនៅកីឡដ្ឋាន Azteca អង់គ្លេសបានចូលទៅក្នុងបន្ទាយ 'Game of Thrones' នេះ កម្ពស់ខ្ពស់ ពោរពេញដោយផ្សែង។ វាជាទីលានដ៏គួរឱ្យខ្លាចបំផុតក្នុងពិភពបាល់ទាត់។ ប៉ុន្តែពួកគេស្ទើរតែចាកចេញដោយគ្មានរបួសជាមួយនឹងជ័យជម្នះ។ អ្នកកំពុងមើលបាល់ទាត់។"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "I know, as we watch it, Erica, that it will be talked about for generations. It's that beautiful. We're watching it played out before our eyes. It is like the odyssey, a Greek epic poem. And God bless the English. They were up all night. In England time, they're normally hungover. They kept drinking, kept powering through. And this World Cup is just a human gift.",
+      "cn": "ខ្ញុំដឹង Erica ពេលយើងមើល ការប្រកួតនេះនឹងត្រូវបាននិយាយដោយមនុស្សជាច្រើនជំនាន់។ វាស្រស់ស្អាតណាស់។ យើងបានឃើញវាកើតឡើងដោយផ្ទាល់ភ្នែក។ ដូចជា Odyssey វីរភាពក្រិក។ ព្រះប្រទានពរដល់ជនជាតិអង់គ្លេស។ ពួកគេមិនបានដេកពេញមួយយប់។ តាមម៉ោងអង់គ្លេស ពួកគេធម្មតានៅតែស្រវឹង។ ពួកគេបានផឹកស្រាជាបន្តបន្ទាប់ ហើយបន្តទៅមុខ។ World Cup នេះគឺជាអំណោយរបស់មនុស្សជាតិ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It's great. I mean, that's how you power for the hangover, right, you just got to keep going.",
+      "cn": "អស្ចារ្យ។ ខ្ញុំចង់និយាយថា នេះជារបៀបដែលអ្នកយកឈ្នះការហៀរស្រវឹងមែនទេ? អ្នកគ្រាន់តែបន្តទៅមុខ។"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "There -- again, Erica, you're giving out tips to all your viewers.",
+      "cn": "មើលទៅ Erica អ្នកកំពុងផ្តល់យោបល់ដល់ទស្សនិកជនម្តងទៀតហើយ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It's an important lesson from the Brits. You know, we're here to help on so many levels at CNN THIS MORNING. All the information you need to start your day and your week.",
+      "cn": "នេះជាបទពិសោធន៍សំខាន់ពីជនជាតិអង់គ្លេស។ អ្នកដឹងទេ យើងផ្តល់ជំនួយពីកម្រិតជាច្រើននៅក្នុងកម្មវិធី CNN This Morning។ ព័ត៌មានទាំងអស់ដែលអ្នកត្រូវការដើម្បីចាប់ផ្តើមថ្ងៃថ្មី និងសប្តាហ៍ថ្មី។"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "Well played. Well played.",
+      "cn": "និយាយបានល្អ។ និយាយបានល្អ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Roger, it's great to have you with us. Thank you.",
+      "cn": "Roger រីករាយដែលអ្នកមក។ អរគុណ។"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "You too. Courage. Thank you.",
+      "cn": "សូមអរគុណអ្នកវិញដែរ។ ភាពក្លាហាន។ អរគុណ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Just a reminder, you can check out Roger's book, \"We Are the World Cup: A Personal History of the World's Greatest Sporting Event.\" Well, while the country was celebrating 250 years over the weekend, a crowd of masked members of the white nationalist group Patriot Front marched through D.C. Patriot Front is considered one of the most active white nationalist groups in the country. Members were heard chanting \"life, liberty, victory and reclaim America.\" Some of them carrying confederate flags.",
+      "cn": "រំលឹកបន្តិច អ្នកអាចមើលសៀវភៅរបស់ Roger ដែលមានចំណងជើងថា We Are the World Cup: A Personal History of the World's Biggest Sporting Event។ នៅពេលដែលប្រទេសនេះប្រារព្ធខួប 250 ឆ្នាំ ក្រុមស្បែកសនិយមជ្រុលដែលពាក់ម៉ាស់ឈ្មោះ Patriot Front បានដើរក្បួននៅទីក្រុង Washington។ Patriot Front ត្រូវបានគេចាត់ទុកថាជាអង្គការស្បែកសនិយមជ្រុលសកម្មបំផុតមួយនៅសហរដ្ឋអាមេរិក។ គេអាចឮសមាជិកស្រែកថា 'ជីវិត សេរីភាព ជ័យជំនះ យកមកវិញនូវអាមេរិក'។ ពួកគេខ្លះក៏កាន់ទង់ជាតិ Confederate ផងដែរ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "There's also this photo we're about to show you. This photo, which has gone viral. It shows a young African American woman sitting on the subway, surrounded by members of the group. The group chat is back with us. This photo, I mean, you talk about a photo that is worth a thousand words. There is so much in that. I know, Mario, you told us, you know, we always ask our guests what's going to be in your -- in your group chat for later in the show. This was in your group chat.",
+      "cn": "ហើយមានរូបថតនេះដែលយើងនឹងបង្ហាញ។ រូបថតនេះបានរាលដាលយ៉ាងឆាប់រហ័ស។ នៅក្នុងរូបថត ស្ត្រីជនជាតិអាមេរិកដើមកំណើតអាហ្វ្រិកវ័យក្មេងម្នាក់អង្គុយនៅលើរថភ្លើងក្រោមដី ដោយត្រូវបានហ៊ុំព័ទ្ធដោយសមាជិកនៃអង្គការនោះ។ ការជជែកជាក្រុមរបស់យើងបានត្រលប់មកវិញហើយ។ រូបថតនេះ ខ្ញុំចង់និយាយថា រូបថតមួយស្មើនឹងពាក្យមួយពាន់។ វាមានអត្ថន័យច្រើនណាស់។ ខ្ញុំដឹង Mario អ្នកប្រាប់យើងថា យើងតែងតែសួរភ្ញៀវថាតើពួកគេនឹងនិយាយអ្វីនៅក្នុងការជជែកជាក្រុមនៅពេលក្រោយ។ រូបថតនេះស្ថិតនៅក្នុងការជជែកជាក្រុមរបស់អ្នក។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "What was the conversation? MARIO PARKER, MANAGING EDITOR, ECONOMY/GOVERNMENT, \"BLOOMBERG NEWS\": Absolutely. Well, first of all, my cousin sent it to me on Saturday after I turned my face away from my phone. My mother yesterday was talking about it too as well. Both African American women. Not lost on me at all. Just speaking about kind of the dissonance that we see here.",
+      "cn": "តើពួកគេនិយាយអ្វីខ្លះ? Mario Parker និពន្ធនាយកផ្នែកសេដ្ឋកិច្ច/រដ្ឋាភិបាលនៃ Bloomberg News៖ ពិតណាស់។ ដំបូង បងប្អូនជីដូនមួយរបស់ខ្ញុំបានផ្ញើវាមកខ្ញុំកាលពីថ្ងៃសៅរ៍ បន្ទាប់ពីខ្ញុំបានយកមុខចេញពីទូរស័ព្ទ។ ម្តាយរបស់ខ្ញុំក៏កំពុងនិយាយអំពីវាកាលពីម្សិលមិញដែរ។ ពួកគេទាំងពីរជាស្ត្រីជនជាតិអាមេរិកដើមកំណើតអាហ្វ្រិក។ ខ្ញុំយល់ទាំងស្រុង។ គ្រាន់តែនិយាយអំពីភាពមិនស៊ីសង្វាក់គ្នាដែលយើងឃើញនៅទីនេះ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Just so much captured in this photo, the courage of the young woman just standing -- sitting there, if you will, the posture that she has, as my mother mentioned, ten toes firmly down to the ground there. And just the iconic -- the iconic part of this photo. I mean it kind of harkens back to, on this 250th anniversary of our country, harkens back to so many other photos that we've seen throughout history as well.",
+      "cn": "រូបថតនេះចាប់យកបានច្រើនណាស់ ភាពក្លាហានរបស់ស្ត្រីវ័យក្មេងនោះ -- -- គ្រាន់តែអង្គុយនៅទីនោះ ប្រសិនបើអ្នកចង់ ឥរិយាបថរបស់នាង ដូចដែលម្តាយខ្ញុំបានលើកឡើង ម្រាមជើងទាំងដប់ជាប់នឹងដីយ៉ាងរឹងមាំ។ ហើយក៏មានអត្ថន័យជានិមិត្តរូបនៃរូបថតនេះផងដែរ។ ខ្ញុំចង់និយាយថា វារំលឹកយើង ក្នុងឱកាសខួប 250 ឆ្នាំរបស់ប្រទេសយើង រំលឹកយើងពីរូបថតជាច្រើនទៀតដែលយើងធ្លាប់ឃើញក្នុងប្រវត្តិសាស្ត្រ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "And so, it just resonated with my family, my friends, and just resonated throughout my group chat as well right there.",
+      "cn": "ដូច្នេះ វាបានធ្វើឲ្យមានការរំជួលចិត្តក្នុងចំណោមគ្រួសារ មិត្តភក្តិ និងក្នុងការជជែកជាក្រុមរបស់ខ្ញុំ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "And understandably. There were also, you know, the questions about what this represents. My colleague, Dana Bash, yesterday, she asked Interior Secretary Doug Burgum if he would recommend to the president that he condemn this group. This again, white nationalist group. Here's his response.",
+      "cn": "អាចយល់បានថា ក៏មានអ្នកដែលចោទសួរថាតើនេះតំណាងឲ្យអ្វីដែរ។ មិត្តរួមការងាររបស់ខ្ញុំ Dana Bash បានសួររដ្ឋមន្ត្រីក្រសួងមហាផ្ទៃ Doug Burgum កាលពីម្សិលមិញថា តើគាត់នឹងណែនាំប្រធានាធិបតីឲ្យថ្កោលទោសក្រុមនេះដែរឬទេ -- -- ជាថ្មីម្តងទៀត ក្រុមស្បែកសនិយមជ្រុលនេះ។ នេះជាការឆ្លើយតបរបស់គាត់។"
+    },
+    {
+      "speaker": "Doug Burgum",
+      "text": "A part of my response to that is that there are protests on The Mall that people say things that I think are reprehensible about President Trump, and yet they're allowed to go on because of free speech in our country.",
+      "cn": "ផ្នែកមួយនៃការឆ្លើយតបរបស់ខ្ញុំចំពោះរឿងនេះគឺថា នៅលើ National Mall មានការតវ៉ា ហើយមនុស្សនិយាយអ្វីដែលខ្ញុំគិតថាគួរឲ្យថ្កោលទោសចំពោះប្រធានាធិបតី Trump ប៉ុន្តែដោយសារសេរីភាពក្នុងការបញ្ចេញមតិរបស់ប្រទេសយើង ពួកគេត្រូវបានអនុញ្ញាតឲ្យបន្ត។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, it's tough to forget that in the wake of the assassination of Charlie Kirk, President Trump actually issued a presidential memorandum, and he directed the National Joint Terrorism Task Force to focus on, in his words, \"domestic terrorists whose common ideologies include anti-Americanism, anti-capitalism, anti-Christianity.\" You have masked -- masked, it's important to note -- white nationalists marching through the capital. Confederate flags.",
+      "cn": "ដូច្នេះ វាពិបាកក្នុងការបំភ្លេចថា បន្ទាប់ពីការធ្វើឃាត Charlie Kirk ប្រធានាធិបតី Trump ពិតជាបានចេញសេចក្តីណែនាំរបស់ប្រធានាធិបតី ដោយគាត់បានណែនាំក្រុមការងារប្រឆាំងភេរវកម្មរួមជាតិឲ្យផ្តោតលើ តាមពាក្យរបស់គាត់ 'ភេរវករក្នុងស្រុកដែលមនោគមវិជ្ជារួមមាន ប្រឆាំងអាមេរិក ប្រឆាំងមូលធននិយម ប្រឆាំងគ្រិស្តសាសនា'។ អ្នកមានអ្នកពាក់ម៉ាស់ -- -- សំខាន់ត្រូវកត់សម្គាល់ -- -- អ្នកស្បែកសនិយមជ្រុលពាក់ម៉ាស់ដើរកាត់រដ្ឋធានី។ ទង់ជាតិ Confederate ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The administration, Eleanor, is saying this is protected free speech. Is there a double standard?",
+      "cn": "Eleanor រដ្ឋាភិបាលនិយាយថានេះជាសេរីភាពក្នុងការបញ្ចេញមតិដែលត្រូវបានការពារ។ តើមានស្តង់ដារពីរទេ?"
+    },
+    {
+      "speaker": "Eleanor Mueller",
+      "text": "It's a fantastic question. And I think it's unfortunate that Congress is out for the next week because I think a lot of people would have liked to hear what Republicans in the House and the Senate would have had to say. I'm sure that some of them would have taken this line that the interior secretary took, said that it was free speech and that there was nothing the administration could do. But I am also sure that we would have seen others denounce this group and what it stands for.",
+      "cn": "នេះជាសំណួរល្អណាស់។ ខ្ញុំគិតថាជាអកុសល សភានឹងឈប់សម្រាកនៅសប្តាហ៍ក្រោយ ពីព្រោះខ្ញុំគិតថាមនុស្សជាច្រើនចង់ស្តាប់ពីសមាជិកគណបក្សសាធារណរដ្ឋនៅក្នុងសភាតំណាងរាស្ត្រ និងព្រឹទ្ធសភាថាតើពួកគេនឹងនិយាយអ្វី។ ខ្ញុំប្រាកដថាពួកគេខ្លះនឹងប្រកាន់ជំហររបស់រដ្ឋមន្ត្រីក្រសួងមហាផ្ទៃថា នេះជាសេរីភាពក្នុងការបញ្ចេញមតិ ហើយរដ្ឋាភិបាលមិនអាចធ្វើអ្វីបានទេ។ ប៉ុន្តែខ្ញុំក៏ប្រាកដដែរថាយើងនឹងឃើញអ្នកផ្សេងទៀតថ្កោលទោសក្រុមនេះ និងអ្វីដែលវាតំណាង។"
+    },
+    {
+      "speaker": "Eleanor Mueller",
+      "text": "I was on The Mall with the president on Saturday night. I saw the folks in attendance. Mostly supporters, right? I think Trump has very purposefully turned this 250th anniversary of America into a partisan exercise, a political exercise. And, you know, clearly, the participants in this march, these -- the members of this white supremacy group have felt comfortable coming forward amid that context. And so, whether or not we see further comments, further weighing in from the White House, I think, remains to be seen.",
+      "cn": "ខ្ញុំនៅជាមួយប្រធានាធិបតីនៅ National Mall កាលពីយប់ថ្ងៃសៅរ៍។ ខ្ញុំបានឃើញមនុស្សនៅទីនោះ។ ភាគច្រើនជាអ្នកគាំទ្រ មែនទេ? ខ្ញុំគិតថា Trump បានធ្វើយ៉ាងច្បាស់លាស់ក្នុងការប្រែក្លាយពិធីរំលឹកខួប 250 ឆ្នាំរបស់អាមេរិកទៅជាព្រឹត្តិការណ៍បក្សពួក ព្រឹត្តិការណ៍នយោបាយ។ ហើយជាក់ស្តែង អ្នកចូលរួមក្នុងក្បួនដង្ហែនេះ សមាជិកនៃក្រុមស្បែកសនិយមជ្រុលទាំងនេះ មានអារម្មណ៍ស្រួលក្នុងការចេញមកក្រៅក្នុងបរិបទនេះ។ ដូច្នេះ មិនថាយើងឃើញមតិយោបល់ ឬសេចក្តីថ្លែងការណ៍បន្ថែមពីសេតវិមានឬអត់ទេ ខ្ញុំគិតថានៅតែត្រូវរង់ចាំមើល។"
+    },
+    {
+      "speaker": "Eleanor Mueller",
+      "text": "But either way, it speaks volumes that, again, these are people who have felt comfortable coming out and being part of the celebration on Saturday given that Trump has made it so much about himself and his role in American exceptionalism.",
+      "cn": "ប៉ុន្តែទោះយ៉ាងណា វាបង្ហាញយ៉ាងច្បាស់ថា មនុស្សទាំងនេះមានអារម្មណ៍ស្រួលក្នុងការចេញមកក្រៅ និងក្លាយជាផ្នែកមួយនៃពិធីបុណ្យថ្ងៃសៅរ៍ ដោយសារតែ Trump បានភ្ជាប់អ្វីៗទាំងអស់នេះយ៉ាងជិតស្និទ្ធជាមួយខ្លួនគាត់ និងតួនាទីរបស់គាត់ក្នុងភាពពិសេសរបស់អាមេរិក។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It's interesting they feel comfortable coming out, but, Joey, do not feel comfortable showing their faces. How much do you think this could potentially continue to be a part of the conversation in Washington? Do you see some lawmakers picking this up? You know, as Eleanor noted, Congress out of session at this point, but do you think we'll hear more about it into the week? JOEY GARRISON, WHITE HOUSE REPORTER, \"USA TODAY\": Yes, I mean, I think we could.",
+      "cn": "គួរឲ្យចាប់អារម្មណ៍ថា ពួកគេមានអារម្មណ៍ស្រួលក្នុងការចេញមកក្រៅ ប៉ុន្តែ Joy ពួកគេមិនហ៊ានបង្ហាញមុខទេ។ តើអ្នកគិតថានេះអាចក្លាយជាផ្នែកមួយនៃការពិភាក្សានៅ Washington កម្រិតណា? អ្នកឃើញសមាជិកសភាខ្លះលើកយករឿងនេះទេ? អ្នកដឹងទេ ដូចដែល Eleanor បាននិយាយ សភាបច្ចុប្បន្នកំពុងឈប់សម្រាក ប៉ុន្តែតើអ្នកគិតថាយើងនឹងឮបន្ថែមទៀតអំពីរឿងនេះនៅសប្តាហ៍នេះទេ? Joy Garrison អ្នកយកព័ត៌មានសេតវិមានរបស់ USA Today៖ បាទ ខ្ញុំគិតថាអាចទៅរួច។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "I mean it was very striking that, you know, Washington, D.C., is a very diverse city. And people -- these white nationalists were marching in the Capitol Hill neighborhoods as they went towards the National Mall. And, you know, 250 years after the founding of this country, I think the images that we saw, particularly the really pointed image in the metro subway car, just shows how many in this country don't accept the multiculturalism that we have become.",
+      "cn": "ខ្ញុំចង់និយាយថា គួរឲ្យកត់សម្គាល់ណាស់ដែល Washington D.C. ជាទីក្រុងចម្រុះណាស់។ ហើយអ្នកស្បែកសនិយមជ្រុលទាំងនេះបានដើរកាត់សង្កាត់ Capitol Hill ទៅកាន់ National Mall។ ហើយបន្ទាប់ពីប្រទេសនេះបានបង្កើតឡើង 250 ឆ្នាំ ខ្ញុំគិតថារូបភាពដែលយើងឃើញ ជាពិសេសរូបថតដ៏មុតស្រួចនៅក្នុងរថភ្លើងក្រោមដី គ្រាន់តែបង្ហាញថាមនុស្សប៉ុន្មាននាក់នៅក្នុងប្រទេសនេះមិនទទួលយកពហុវប្បធម៌ដែលយើងបានបង្កើតឡើងនោះទេ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "And so, I think it does start a larger conversation as we move into this week.",
+      "cn": "ដូច្នេះ ខ្ញុំគិតថានៅពេលយើងចូលសប្តាហ៍នេះ វាពិតជាបើកការពិភាក្សាដ៏ទូលំទូលាយមួយ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes. One could hope that it would, right, about what is actually acceptable, what is not, and what it means to be an American.",
+      "cn": "បាទ។ មនុស្សអាចសង្ឃឹមដូច្នេះ មែនទេ អំពីអ្វីដែលពិតជាអាចទទួលយកបាន និងអ្វីដែលមិនមែន និងអត្ថន័យនៃការធ្វើជាជនជាតិអាមេរិក។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It's good to have all of you with us for that chat. Much more ahead here on CNN THIS MORNING. President Trump reviewing Republicans line -- previewing, rather, the Republican line of attack heading into the midterms.",
+      "cn": "រីករាយដែលអ្នកទាំងអស់គ្នាអាចចូលរួមពិភាក្សាជាមួយយើង។ កម្មវិធី CNN This Morning នៅមានទៀត។ ប្រធានាធិបតី Trump កំពុងពិនិត្យមើលផ្លូវរបស់គណបក្សសាធារណរដ្ឋ -- -- ច្បាស់ជាងនេះទៅទៀត កំពុងមើលជាមុននូវផ្លូវវាយប្រហាររបស់គណបក្សសាធារណរដ្ឋមុនការបោះឆ្នោតពាក់កណ្តាលអាណត្តិ។"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "America will never be a communist country.",
+      "cn": "អាមេរិកនឹងមិនក្លាយជាប្រទេសកុម្មុយនិស្តទេ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Democrats say they're a big tent. Says it include candidates that the president is now trying to label as communists. I'll ask Democratic Congressman Greg Landsman about that next. And also, take a look at this. Lava spewing into the sky in Sicily. Mount Etna erupting right now.",
+      "cn": "គណបក្សប្រជាធិបតេយ្យនិយាយថាពួកគេជាតង់ធំ។ ពួកគេនិយាយថានេះរួមបញ្ចូលទាំងបេក្ខជនដែលប្រធានាធិបតីកំពុងព្យាយាមដាក់ស្លាកថាកុម្មុយនិស្តឥឡូវនេះ។ បន្ទាប់ ខ្ញុំនឹងសួរសមាជិកសភាតំណាងរាស្ត្រគណបក្សប្រជាធិបតេយ្យ Greg Landsman អំពីរឿងនេះ។ ម្យ៉ាងទៀត មើលនេះ។ កម្អែភ្នំភ្លើងនៅ Sicily បាញ់ទៅលើមេឃ។ ភ្នំភ្លើង Etna កំពុងផ្ទុះ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "A massive funeral procession for Iran's supreme leader, Ali Khamenei, underway in Tehran at this hour. This is the third, the largest day of public mourning. CNN's Frederik Pleitgen is in Tehran, inside that very loud, crowded procession. Just a reminder, of course, CNN operates in Iran with the permission of the government but maintains full editorial control of its reports. (BEGIN VIDEOTAPE)",
+      "cn": "ពិធីបុណ្យសពដ៏ធំរបស់មេដឹកនាំកំពូលអ៊ីរ៉ង់ អាលី ខាមេណេអ៊ី កំពុងធ្វើឡើងនៅទីក្រុងតេហេរ៉ង់។ នេះជាថ្ងៃទីបី ហើយជាថ្ងៃដែលមានការកាន់ទុក្ខជាសាធារណៈធំជាងគេ។ លោក ហ្វ្រេដឌ្រិច ផ្លេតហ្គេន នៃ CNN នៅទីក្រុងតេហេរ៉ង់ ក្នុងហ្វូងមនុស្សដែលមានសម្លេងរំខាន និងកកកុញ។ ជាការរំលឹក CNN ដំណើរការនៅអ៊ីរ៉ង់ដោយមានការអនុញ្ញាតពីរដ្ឋាភិបាល ប៉ុន្តែរក្សាការគ្រប់គ្រងផ្នែកវិចារណកថាពេញលេញលើរបាយការណ៍របស់ខ្លួន។ (ចាប់ផ្តើមវីដេអូ)"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "This is truly a historic moment that we're witnessing here in Tehran as scores of people have come out to commemorate Iran's late supreme leader, Ayatollah Ali Khamenei, who, of course, was killed in a U.S.-Israeli airstrike along with several family members at the beginning of the U.S. and Israel's war against Iran. And as you can see, on the ground here there is a lot of sorrow, but there is also a lot of anger.",
+      "cn": "នេះពិតជាពេលវេលាប្រវត្តិសាស្ត្រមួយ ដែលយើងឃើញមនុស្សរាប់មិនអស់នៅទីក្រុងតេហេរ៉ង់មកគោរពវិញ្ញាណក្ខន្ធអតីតមេដឹកនាំកំពូលអ៊ីរ៉ង់ អាយ៉ាតូឡា អាលី ខាមេណេអ៊ី ដែលត្រូវបានសម្លាប់ក្នុងការវាយប្រហារតាមអាកាសរបស់សហរដ្ឋអាមេរិក និងអ៊ីស្រាអែល រួមជាមួយសមាជិកគ្រួសារមួយចំនួន នៅពេលដែលសង្រ្គាមរបស់សហរដ្ឋអាមេរិក និងអ៊ីស្រាអែលប្រឆាំងនឹងអ៊ីរ៉ង់បានចាប់ផ្តើម។ ដូចដែលអ្នកឃើញ មានភាពសោកសៅច្រើន ប៉ុន្តែក៏មានកំហឹងច្រើនផងដែរ។"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "The chants of \"death to America,\" we're hearing right now, and \"death to Israel\" have been going on almost nonstop, with people vowing revenge against the United States. UNIDENTIFIED FEMALE (through translator): We have come here to seek the revenge for the blood of our leader and we will not abandon this goal for a second. We will continue until we take the revenge from the killer of our leader.",
+      "cn": "ពាក្យស្លោក \"ស្លាប់អាមេរិក\" និង \"ស្លាប់អ៊ីស្រាអែល\" ដែលយើងឮស្ទើរតែមិនឈប់ ហើយមនុស្សស្បថថានឹងសងសឹកអាមេរិក។ ស្ត្រីមិនបញ្ចេញឈ្មោះ (តាមរយៈអ្នកបកប្រែ)៖ យើងមកទីនេះដើម្បីស្វែងរកការសងសឹកចំពោះឈាមរបស់មេដឹកនាំយើង ហើយយើងនឹងមិនបោះបង់គោលដៅនេះមួយវិនាទីឡើយ។ យើងនឹងបន្តរហូតដល់យើងសងសឹកពីអ្នកដែលសម្លាប់មេដឹកនាំយើង។"
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "Of course, we always have to point out that everybody is mourning today. Not everybody is out here. There are people who are deeply opposed to the rule of Ayatollah Ali Khamenei. But as you can see here, right now, the government has galvanized its supporters. They have come out here en masse. And the message that they're sending, of course, is also directed at the United States. That if negotiations fail, Iran is ready for another fight.",
+      "cn": "ជាការពិតណាស់ យើងត្រូវតែចង្អុលបង្ហាញថា ថ្ងៃនេះអ្នករាល់គ្នាកំពុងកាន់ទុក្ខ។ ប៉ុន្តែមិនមែនអ្នករាល់គ្នានៅទីនេះទេ។ អ្នកខ្លះប្រឆាំងយ៉ាងខ្លាំងចំពោះការគ្រប់គ្រងរបស់អាយ៉ាតូឡា អាលី ខាមេណេអ៊ី។ ប៉ុន្តែដូចដែលអ្នកឃើញឥឡូវនេះ រដ្ឋាភិបាលបានប្រមូលអ្នកគាំទ្ររបស់ខ្លួន។ ពួកគេចេញមកយ៉ាងច្រើន។ សាររបស់ពួកគេក៏សំដៅទៅលើអាមេរិកផងដែរ៖ ប្រសិនបើការចរចាបរាជ័យ អ៊ីរ៉ង់បានត្រៀមខ្លួនប្រយុទ្ធម្តងទៀត។"
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "Now, these processions are going to go on for another several days and then culminate when the supreme leader is laid to rest in the city of Mashhad in eastern Iran. Fred Pleitgen CNN, Tehran. (END VIDEOTAPE)",
+      "cn": "ឥឡូវនេះ ការដង្ហែទាំងនេះនឹងបន្តជាច្រើនថ្ងៃ ហើយនឹងឈានដល់កំពូលនៅពេលដែលមេដឹកនាំកំពូលត្រូវបានបញ្ចុះនៅក្នុងទីក្រុងម៉ាសហាត ភាគខាងកើតអ៊ីរ៉ង់។ CNN លោក ហ្វ្រេដ ផ្លេតហ្គេន រាយការណ៍ពីទីក្រុងតេហេរ៉ង់។ (បញ្ចប់វីដេអូ)"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Well, President Trump has made it clear he's putting his elections overhaul bill above everything else on Capitol Hill right now",
+      "cn": "ប្រធានាធិបតី ត្រាំ បានបញ្ជាក់យ៉ាងច្បាស់ថា លោកចាត់ទុកច្បាប់កំណែទម្រង់ការបោះឆ្នោតជាបញ្ហាសំខាន់បំផុតនៅក្នុងសភានាពេលបច្ចុប្បន្ន។"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "We want to keep America great, and we will do so by approving the SAVE America Act, which means all voters must show voter I.D.. You won't have cheating on the elections anymore. It's very simple",
+      "cn": "យើងចង់រក្សាភាពអស្ចារ្យរបស់អាមេរិក ហើយតាមរយៈច្បាប់ \"ជួយសង្គ្រោះអាមេរិក\" យើងអាចសម្រេចបាន ដែលមានន័យថាអ្នកបោះឆ្នោតទាំងអស់ត្រូវតែបង្ហាញប័ណ្ណសម្គាល់អ្នកបោះឆ្នោត។ នឹងមិនមានការក្លែងបន្លំក្នុងការបោះឆ្នោតទៀតទេ។ វាសាមញ្ញណាស់។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Now, House Speaker Mike Johnson says he's got a plan to save the SAVE Act again after sending Congress home early for the July 4th recess. REP. MIKE JOHNSON (R-LA): I just decided it was best to send everybody home to go celebrate July 4th in their districts. We'll come back, gather everybody together. The big urgency is to get SAVE America passed. The president has that as a top priority, and so do I. We've passed it three times in the House.",
+      "cn": "ប្រធានសភាតំណាងរាស្ត្រ ម៉ៃឃើល ចនសុន បាននិយាយថា បន្ទាប់ពីសភាបានចូលវិស្សមកាលមុនកាលកំណត់សម្រាប់ថ្ងៃទី 4 ខែកក្កដា លោកមានផែនការដើម្បីជួយសង្គ្រោះច្បាប់ \"ជួយសង្គ្រោះ\" ម្តងទៀត។ សមាជិកសភាគណបក្សសាធារណរដ្ឋ ម៉ៃឃើល ចនសុន បាននិយាយថា៖ \"ខ្ញុំគ្រាន់តែសម្រេចចិត្តថា វាជាការល្អបំផុតដើម្បីឱ្យអ្នករាល់គ្នាត្រឡប់ទៅផ្ទះវិញដើម្បីអបអរថ្ងៃបុណ្យឯករាជ្យទី 4 ខែកក្កដា។ យើងនឹងត្រឡប់មកវិញ ហើយប្រមូលផ្តុំអ្នករាល់គ្នា។ អាទិភាពទីមួយគឺការអនុម័តច្បាប់ 'ជួយសង្គ្រោះអាមេរិក'។ ប្រធានាធិបតីបានចាត់ទុកវាជាអាទិភាពកំពូល ហើយខ្ញុំក៏ដូចគ្នា។ យើងបានអនុម័តវាបីដងរួចហើយនៅក្នុងសភាតំណាងរាស្ត្រ។\""
+    },
+    {
+      "speaker": "Hill",
+      "text": "We're going to try one more time on a budget reconciliation bill, and I think that will be the way to get it through the Senate and finally to the president's desk.",
+      "cn": "យើងនឹងព្យាយាមម្តងទៀតដើម្បីអនុម័តច្បាប់តាមរយៈដំណើរការថវិកាសម្រុះសម្រួល ដែលខ្ញុំគិតថានឹងធ្វើឱ្យវាឆ្លងកាត់ព្រឹទ្ធសភា ហើយទីបំផុតទៅដល់តុរបស់ប្រធានាធិបតី។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Joining me now to discuss, Democratic Congressman Greg Landsman of Ohio. Congressman, nice to have you with us this morning. So, the House, of course, is out until next week. Then you have eight legislative days until another five-week recess. What are the chances that the speaker is going to be able to cobble together enough Republicans to get another reconciliation bill through? REP. GREG LANDSMAN (D-OH): I doesn't look great. I mean, you know, they are now fighting with each other.",
+      "cn": "ឥឡូវនេះ សូមស្វាគមន៍សមាជិកសភាគណបក្សប្រជាធិបតេយ្យមកពីរដ្ឋអូហៃអូ លោក ហ្គ្រេហ្គ ឡេនស្មែន សម្រាប់ការពិភាក្សា។ សមាជិកសភា រីករាយដែលបានជួបលោកនៅព្រឹកនេះ។ ជាការពិតណាស់ សភាតំណាងរាស្ត្រនឹងមិនប្រជុំរហូតដល់សប្តាហ៍ក្រោយ។ បន្ទាប់មក លោកមានរយៈពេលប្រាំបីថ្ងៃនីតិបញ្ញត្តិ ហើយបន្ទាប់មកវិស្សមកាលរយៈពេលប្រាំសប្តាហ៍ទៀត។ តើប្រធានសភាមានឱកាសប៉ុន្មានក្នុងការប្រមូលសមាជិកគណបក្សសាធារណរដ្ឋឱ្យបានគ្រប់គ្រាន់ ដើម្បីអនុម័តច្បាប់សម្រុះសម្រួលមួយទៀត? សមាជិកសភាគណបក្សប្រជាធិបតេយ្យមកពីរដ្ឋអូហៃអូ លោក ហ្គ្រេហ្គ ឡេនស្មែន បាននិយាយថា៖ \"មើលទៅមិនសូវមានសុទិដ្ឋិនិយមទេ។ ខ្ញុំចង់និយាយថា ឥឡូវនេះពួកគេកំពុងឈ្លោះគ្នា។\""
+    },
+    {
+      "speaker": "Hill",
+      "text": "He has a hard time getting anything onto the floor. I mean, the Congress has been shut down, essentially, many, many times this session. So, I think it's low. But, you know, the -- if Trump wants this bill, which has nothing to do with health care or schools or utility bills or what Americans are dealing with every day, just voter suppression, he'll probably get it, though it's not going to pass the Senate. They don't -- they don't have the votes.",
+      "cn": "គាត់ពិបាកណាស់ក្នុងការដាក់ច្បាប់ណាមួយចូលក្នុងរបៀបវារៈ។ ខ្ញុំចង់និយាយថា សភាបានជាប់គាំងជាច្រើនដងរួចមកហើយក្នុងសម័យប្រជុំនេះ។ ដូច្នេះ ខ្ញុំគិតថាឱកាសទាបណាស់។ ប៉ុន្តែប្រសិនបើ ត្រាំ ចង់បានច្បាប់នេះ ដែលមិនទាក់ទងនឹងការថែទាំសុខភាព សាលារៀន ថ្លៃទឹកភ្លើង ឬកិច្ចការប្រចាំថ្ងៃរបស់ជនជាតិអាមេរិក ប៉ុន្តែគ្រាន់តែបង្ក្រាបអ្នកបោះឆ្នោត គាត់អាចទទួលបានវា ទោះបីជាវាមិនឆ្លងកាត់ព្រឹទ្ធសភាក៏ដោយ។ ពួកគេមិនមានសំឡេងគ្រប់គ្រាន់ទេ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "What are your conversations behind the scenes? I'm not asking for names. But I'm always curious, what are the conversations with your colleagues across the aisle about this concerted effort by the president, which the speaker has, of course, picked up and is running with, to focus solely on this bill?",
+      "cn": "តើលោកមានការសន្ទនាអ្វីខ្លះនៅពីក្រោយឆាក? ខ្ញុំមិនសួរឈ្មោះទេ។ ប៉ុន្តែខ្ញុំតែងតែចង់ដឹងថា តើការសន្ទនារវាងលោក និងសហការីឆ្លងបក្សរបស់លោក អំពីប្រធានាធិបតី និងប្រធានសភាដែលខិតខំជំរុញច្បាប់នេះយ៉ាងដូចម្តេច?"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "Yes, they don't like it. I mean they all have priorities that they're working on. A lot of it has to do with their districts, things that they care about. This is not top of mind for any of their constituents. No one is focused on this. They're focused on housing. For example, we got this bipartisan housing bill done to, you know, accelerate the production, the building of new housing to bring the cost of housing down.",
+      "cn": "បាទ ពួកគេមិនចូលចិត្តវាទេ។ ខ្ញុំចង់និយាយថា ពួកគេម្នាក់ៗមានអាទិភាពផ្ទាល់ខ្លួន។ ភាគច្រើនទាក់ទងនឹងមណ្ឌលបោះឆ្នោតរបស់ពួកគេ ដែលជាអ្វីដែលពួកគេយកចិត្តទុកដាក់។ នេះមិនមែនជាអាទិភាពសម្រាប់អ្នកបោះឆ្នោតរបស់ពួកគេទេ។ គ្មាននរណាម្នាក់យកចិត្តទុកដាក់លើរឿងនេះទេ។ ពួកគេយកចិត្តទុកដាក់លើលំនៅដ្ឋាន។ ឧទាហរណ៍ យើងបានបញ្ចប់ច្បាប់លំនៅដ្ឋានទ្វេបក្ស ដើម្បីពន្លឿនការសាងសង់ផ្ទះថ្មី និងកាត់បន្ថយថ្លៃលំនៅដ្ឋាន។"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "And then he, you know, canceled the signing ceremony, said he wasn't going to sign the housing bill. That it boring. That it was a big yawn because the only thing that matters is this voter suppression bill. It's just not where they are. You know, they don't -- they don't actually like this president. And in large part, it's because Trump doesn't really like them.",
+      "cn": "បន្ទាប់មកគាត់បានលុបចោលពិធីចុះហត្ថលេខា ដោយនិយាយថាគាត់នឹងមិនចុះហត្ថលេខាលើច្បាប់លំនៅដ្ឋានទេ។ នោះគឺគួរឱ្យធុញ នោះជាការធុញធំ ពីព្រោះរឿងតែមួយគត់ដែលសំខាន់គឺច្បាប់បង្ក្រាបអ្នកបោះឆ្នោតនេះ។ នេះមិនមែនជាការផ្តោតអារម្មណ៍របស់ពួកគេទាល់តែសោះ។ តាមពិតពួកគេមិនចូលចិត្តប្រធានាធិបតីនេះទេ។ ភាគច្រើនដោយសារតែ ត្រាំ ក៏មិនចូលចិត្តពួកគេដែរ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "A bold statement. We'll -- I'd be interested to hear their take on that. When we -- when we look at where things stand, there is also, that we heard from Speaker Johnson, say that he's working on a legislative fix when it comes to the ruling from the Supreme Court over birthright citizenship. What do you see as a possible legislative fix that the speaker could come up with?",
+      "cn": "នេះជាសេចក្តីថ្លែងការណ៍ដិតមួយ។ យើងចង់ដឹងពីទស្សនៈរបស់ពួកគេចំពោះរឿងនេះ។ នៅពេលយើងពិនិត្យមើលស្ថានភាពបច្ចុប្បន្ន យើងក៏បានឮប្រធានសភា ចនសុន និយាយថា លោកកំពុងបង្កើតដំណោះស្រាយនីតិបញ្ញត្តិទាក់ទងនឹងសេចក្តីសម្រេចរបស់តុលាការកំពូលស្តីពីសញ្ជាតិតាមកំណើត។ តើលោកគិតថាប្រធានសភាអាចស្នើដំណោះស្រាយនីតិបញ្ញត្តិបែបណា?"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "Who knows? I mean, you know, the -- a couple things. One is, why is he not focused on the American people? I -- the American people are struggling. And millions have already lost their health care. And, you know, it's become unaffordable for tens of millions of Americans. Why not try to get a legislative fix on health care, on utility costs, on food costs, on, you know, all kinds of issues that Americans are struggling with. This is not an issue that they're struggling with.",
+      "cn": "អ្នកណាដឹង? ខ្ញុំចង់និយាយថា អ្នកដឹងទេ មានរឿងពីរបី។ ទីមួយ ហេតុអ្វីបានជាគាត់មិនផ្តោតលើប្រជាជនអាមេរិក? ខ្ញុំ -- ប្រជាជនអាមេរិកកំពុងតស៊ូ។ មនុស្សរាប់លាននាក់បានបាត់បង់ការធានារ៉ាប់រងសុខភាពរួចហើយ។ ហើយអ្នកដឹងទេ សម្រាប់ជនជាតិអាមេរិករាប់សិបលាននាក់ ការធានារ៉ាប់រងសុខភាពបានក្លាយទៅជាមិនអាចទទួលបាន។ ហេតុអ្វីមិនស្វែងរកដំណោះស្រាយនីតិបញ្ញត្តិលើការថែទាំសុខភាព ថ្លៃទឹកភ្លើង ថ្លៃម្ហូបអាហារ និងបញ្ហាផ្សេងៗដែលជនជាតិអាមេរិកកំពុងតស៊ូ? នេះមិនមែនជាបញ្ហាដែលពួកគេកំពុងតស៊ូនោះទេ។"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "People have opinions about birthright, but it's not something that impacts their lives every day. So, I don't know why he's not working on the things that matter most to most Americans. And then, you know, the idea that they're going to, you know, create some legislation. They don't do any legislation. And they passed the one big spending bill, which spent, you know, $4.5 trillion, mostly on tax cuts for the super wealthy, cut health care by $1 trillion.",
+      "cn": "មនុស្សមានទស្សនៈលើសញ្ជាតិតាមកំណើត ប៉ុន្តែនេះមិនមែនជាអ្វីដែលប៉ះពាល់ដល់ជីវិតប្រចាំថ្ងៃរបស់ពួកគេទេ។ ដូច្នេះ ខ្ញុំមិនដឹងថាហេតុអ្វីបានជាគាត់មិនដោះស្រាយអ្វីដែលសំខាន់បំផុតសម្រាប់ជនជាតិអាមេរិកភាគច្រើន។ បន្ទាប់មក អ្នកដឹងទេ ពួកគេមានបំណងបង្កើតច្បាប់មួយចំនួន។ ពួកគេមិនបង្កើតច្បាប់ទាល់តែសោះ។ ពួកគេបានអនុម័តច្បាប់ចំណាយដ៏ធំមួយ ដែលចំណាយ 4.5 លានលានដុល្លារ ជាចម្បងសម្រាប់កាត់បន្ថយពន្ធសម្រាប់អ្នកមានបំផុត និងកាត់បន្ថយការធានារ៉ាប់រងសុខភាព 1 លានលានដុល្លារ។"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "They passed the second bill to add another $70 billion to ICE, bringing the total for ICE to $240 billion. That's a quarter of a trillion dollars. That's it. So, the idea that they're convening experts or, you know, looking at it from all different angles, I think he said yesterday, is laughable. They don't -- they don't really do policy.",
+      "cn": "ពួកគេបានអនុម័តច្បាប់ទីពីរ ដែលបង្កើនថវិកា ICE 70 ពាន់លានដុល្លារ ដែលធ្វើឱ្យថវិកាសរុបរបស់ ICE ឡើងដល់ 240 ពាន់លានដុល្លារ។ នោះគឺមួយភាគបួននៃលានលានដុល្លារ។ មានតែប៉ុណ្ណឹងទេ។ ដូច្នេះ គំនិតដែលពួកគេប្រមូលអ្នកជំនាញ ឬពិនិត្យមើលបញ្ហាពីមុំផ្សេងៗ ខ្ញុំគិតថាអ្វីដែលគាត់និយាយកាលពីម្សិលមិញ គឺគួរឱ្យអស់សំណើច។ ពួកគេមិនពិតជាបង្កើតគោលនយោបាយទេ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "There is, of course, a big focus on November at this point as things are picking up speed heading into the midterms. We have seen a rise in further left Democratic candidates. We saw Democratic socialists winning here in New York City. Also last week in Colorado. President Trump really seems to be leaning into that, also looking to label some Democratic socialists as communists, which is something he brought up during his speech on July 4th.",
+      "cn": "ពិតណាស់ បច្ចុប្បន្ននេះ នៅពេលដែលការបោះឆ្នោតពាក់កណ្តាលអាណត្តិជិតមកដល់ ខែវិច្ឆិកាក្លាយជាចំណុចសំខាន់។ យើងឃើញការកើនឡើងនៃបេក្ខជនគណបក្សប្រជាធិបតេយ្យដែលមានទំនោរទៅខាងឆ្វេង។ យើងឃើញអ្នកសង្គមនិយមប្រជាធិបតេយ្យឈ្នះនៅទីក្រុងញូវយ៉ក។ កាលពីសប្តាហ៍មុនក៏មាននៅរដ្ឋកូឡូរ៉ាដូដែរ។ ប្រធានាធិបតី Trump ហាក់ដូចជាកំពុងប្រើប្រាស់ចំណុចនេះដោយព្យាយាមដាក់ស្លាកអ្នកសង្គមនិយមប្រជាធិបតេយ្យមួយចំនួនថាជាអ្នកកុម្មុយនិស្ត ដែលគាត់បានលើកឡើងនៅក្នុងសុន្ទរកថាថ្ងៃទី 4 ខែកក្កដា។"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "Warriors did not fight communism on battlefields across the world only to have that menace rear its ugly head right back here in America. We like to stop a threat like that immediately and before it begins. It's like a cancer. You got to cut it out. You got to cut it out fast.",
+      "cn": "ពួកអ្នកចម្បាំងមិនបានប្រយុទ្ធជាមួយកុម្មុយនិស្តនៅលើសមរភូមិជុំវិញពិភពលោកទេ ប៉ុន្តែបានអនុញ្ញាតឱ្យការគំរាមកំហែងនេះកើតឡើងវិញនៅក្នុងសហរដ្ឋអាមេរិក។ យើងចូលចិត្តបញ្ឈប់ការគំរាមកំហែងនេះភ្លាមៗ មុនពេលវាចាប់ផ្តើម។ វាដូចជាជំងឺមហារីក។ អ្នកត្រូវតែកាត់វាចេញ។ អ្នកត្រូវតែកាត់វាចេញឱ្យលឿន។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "This seems to be something that we're going to hear more and more from the president, from Republicans as well. Democrats want to be a big tent party, as I know. Sometimes a united message seems to be challenging for your party. Is there a plan for that messaging from the president?",
+      "cn": "នេះហាក់ដូចជាអ្វីដែលយើងនឹងឮកាន់តែច្រើនឡើងពីប្រធានាធិបតី និងគណបក្សសាធារណរដ្ឋ។ គណបក្សប្រជាធិបតេយ្យចង់ក្លាយជាគណបក្សធំមួយ ខ្ញុំដឹង។ ពេលខ្លះសារឯកភាពហាក់ដូចជាប្រឈមសម្រាប់គណបក្សរបស់អ្នក។ តើខាងប្រធានាធិបតីមានផែនការអំពីសារនេះទេ?"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "You know, he's such a divisive figure. I mean, you know, that's an understatement. But it's sad because on, you know, a July 4th weekend where most of us spent the weekend out in our communities, you know, I did several parades and spent a ton of time with constituents. And I was just really appreciative of how excited people were to be together. These, you know, these are Democrats and Republicans and independents. People don't care anything about politics. And they're just -- they're Americans.",
+      "cn": "អ្នកដឹងទេ គាត់ជាមនុស្សដែលបែកបាក់គ្នាខ្លាំងណាស់។ ខ្ញុំចង់និយាយថា អ្នកដឹងទេ នេះគឺនិយាយស្រាលពេកហើយ។ ប៉ុន្តែគួរឱ្យសោកស្តាយ នៅចុងសប្តាហ៍ថ្ងៃទី 4 ខែកក្កដា ពួកយើងភាគច្រើននៅក្នុងសហគមន៍ ខ្ញុំបានចូលរួមក្បួនដង្ហែរមួយចំនួន ហើយចំណាយពេលច្រើនជាមួយអ្នកបោះឆ្នោត។ ខ្ញុំពិតជាដឹងគុណដែលមនុស្សរំភើបដែលបានជួបជុំគ្នា។ មនុស្សទាំងនេះ អ្នកដឹងទេ មានទាំងអ្នកប្រជាធិបតេយ្យ អ្នកសាធារណរដ្ឋ និងអ្នកឯករាជ្យ។ មនុស្សមិនខ្វល់ពីនយោបាយទាល់តែសោះ។ ពួកគេគ្រាន់តែជាជនជាតិអាមេរិកប៉ុណ្ណោះ។"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "And it's just such a great weekend. And to spend that weekend, you know, talking about, you know, how divided we are and this threat, you know, that we present to one another, as opposed to lifting us up, which I think the American people desperately want, is a leader that's going to bring us together and lift us up. And hopefully that's next. And that we'll have a nominee that does that, that is that kind of, you know, person that wants to bring us back together.",
+      "cn": "នោះពិតជាចុងសប្តាហ៍ដ៏ស្រស់ស្អាតមួយ។ ហើយនៅក្នុងចុងសប្តាហ៍នេះ ការនិយាយអំពីរបៀបដែលយើងបែកបាក់គ្នា និងការគំរាមកំហែងដែលយើងបង្កើតដល់គ្នាទៅវិញទៅមក ជំនួសឱ្យការលើកកម្ពស់យើង ខ្ញុំគិតថាអ្វីដែលប្រជាជនអាមេរិកចង់បានយ៉ាងខ្លាំងគឺអ្នកដឹកនាំដែលអាចបង្រួបបង្រួមយើង និងលើកកម្ពស់យើង។ សង្ឃឹមថាអ្នកបន្ទាប់នឹងក្លាយជាមនុស្សបែបនោះ។ សង្ឃឹមថាយើងមានបេក្ខជនដែលអាចធ្វើដូច្នេះបាន ជាអ្នកដែលចង់បង្រួបបង្រួមយើងឡើងវិញ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Who is the leader of the Democratic Party, in your mind, right now?",
+      "cn": "តាមការយល់ឃើញរបស់អ្នក តើអ្នកណាជាអ្នកដឹកនាំគណបក្សប្រជាធិបតេយ្យនាពេលបច្ចុប្បន្ន?"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "I mean, you know, Hakeem is at the top of the list. Hakeem Jeffries. But, you know, when you don't have the White House, there -- you're a little rudderless, right? And that happens all the time. What you're going to see after the midterms is, my hope, you know, a great debate among dozens of potential candidates. And these are people who want to be the president of the United States running in the Democratic primary. And my hope is that the debate is about the future of the country and where we're going to go.",
+      "cn": "ខ្ញុំចង់និយាយថា អ្នកដឹងទេ Hakeem គឺជាជម្រើសដំបូង។ Hakeem Jeffries។ ប៉ុន្តែ អ្នកដឹងទេ ពេលដែលអ្នកគ្មានសេតវិមាន អ្នកនឹងបាត់បង់ទិសដៅបន្តិច មែនទេ? រឿងនេះកើតឡើងញឹកញាប់។ អ្វីដែលអ្នកនឹងឃើញបន្ទាប់ពីការបោះឆ្នោតពាក់កណ្តាលអាណត្តិគឺ ខ្ញុំសង្ឃឹមថា ការជជែកដេញដោលគ្នាយ៉ាងខ្លាំងក្លារវាងបេក្ខជនសក្តានុពលរាប់សិបនាក់។ មនុស្សទាំងនេះគឺជាអ្នកដែលចង់ក្លាយជាប្រធានាធិបតីសហរដ្ឋអាមេរិក ដោយចូលរួមក្នុងការបោះឆ្នោតបឋមរបស់គណបក្សប្រជាធិបតេយ្យ។ ខ្ញុំសង្ឃឹមថាការជជែកដេញដោលនេះគឺអំពីអនាគតរបស់ប្រទេស និងកន្លែងដែលយើងនឹងទៅ។"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "And we haven't had a big debate like that in a long time. And whoever emerges will be -- will be the nominee and the leader and hopefully the next president of the United States.",
+      "cn": "យើងមិនបានធ្វើការជជែកដេញដោលធំបែបនេះយូរមកហើយ។ អ្នកណាក៏ដោយដែលឈ្នះនៅទីបំផុត នឹងក្លាយជាអ្នកតែងតាំង ជាអ្នកដឹកនាំ ហើយសង្ឃឹមថាជាប្រធានាធិបតីសហរដ្ឋអាមេរិកបន្ទាប់។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Congressman Greg Landsman, appreciate your time this morning. Thank you. The group chat is back with us now. As we -- let's continue on this road of the future of the Democratic Party and where the voices are. And I think a good place to start with that is the Michigan Senate race. So, just yesterday, State Senator Mallory McMorrow dropped out of the race. She released this video statement on her social page.",
+      "cn": "សមាជិកសភា Greg Landsman សូមអរគុណដែលបានចំណាយពេលនៅព្រឹកនេះ។ សូមអរគុណ។ ការជជែកជាក្រុមរបស់យើងបានត្រលប់មកវិញហើយ។ យើងបន្តស្វែងយល់ពីអនាគតរបស់គណបក្សប្រជាធិបតេយ្យ និងទិសដៅនៃសំឡេងផ្សេងៗ។ ខ្ញុំគិតថាការប្រកួតប្រជែងព្រឹទ្ធសភានៅរដ្ឋ Michigan គឺជាចំណុចចាប់ផ្តើមដ៏ល្អ។ កាលពីម្សិលមិញ សមាជិកព្រឹទ្ធសភារដ្ឋ Mallory McMorrow បានដកខ្លួនចេញពីការប្រកួតប្រជែង។ នាងបានចេញផ្សាយសេចក្តីថ្លែងការណ៍ជាវីដេអូនេះនៅលើប្រព័ន្ធផ្សព្វផ្សាយសង្គម។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Her opponent Abdul ElSsayed, of course, also releasing a video statement thanking her for her democracy but asking supporters to support him. I want to play a little bit of what she had to say. STATE SENATOR MALLORY MCMORROW (D-MI): So, here's what we do next. Every day through November 3rd we win this Senate seat and we send Mike Rogers back to Florida for good. Whoever wins this primary on August 4th will have my full support.",
+      "cn": "គូប្រជែងរបស់នាង Abdul El-Sayed ក៏បានចេញផ្សាយសេចក្តីថ្លែងការណ៍ជាវីដេអូ ដោយអរគុណនាងចំពោះការរួមចំណែករបស់នាងចំពោះលទ្ធិប្រជាធិបតេយ្យ ប៉ុន្តែបានសុំឱ្យអ្នកគាំទ្រប្តូរមកគាំទ្រគាត់វិញ។ ខ្ញុំចង់ចាក់ផ្សាយវគ្គមួយនៃសុន្ទរកថារបស់នាង។ សមាជិកព្រឹទ្ធសភារដ្ឋ Mallory McMorrow (គណបក្សប្រជាធិបតេយ្យ Michigan)៖ ដូច្នេះ អ្វីដែលយើងត្រូវធ្វើបន្ទាប់គឺ៖ ចាប់ពីថ្ងៃនេះរហូតដល់ថ្ងៃទី 3 ខែវិច្ឆិកា រាល់ថ្ងៃយើងត្រូវឈ្នះអាសនៈព្រឹទ្ធសភានេះ ហើយរុញ Mike Rogers ឱ្យត្រឡប់ទៅរដ្ឋ Florida ជារៀងរហូត។ អ្នកណាក៏ដោយដែលឈ្នះការបោះឆ្នោតបឋមនៅថ្ងៃទី 4 ខែសីហា ខ្ញុំនឹងគាំទ្រយ៉ាងពេញទំហឹង។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Joey, there has been a lot of attention, of course, on this race. What does McMorrow dropping out, what does it change right now?",
+      "cn": "Joey ការប្រកួតប្រជែងនេះពិតជាទទួលបានការចាប់អារម្មណ៍ច្រើន។ McMorrow ដកខ្លួន តើវានឹងនាំមកនូវការផ្លាស់ប្តូរអ្វីខ្លះ?"
+    },
+    {
+      "speaker": "Garrison",
+      "text": "Well, she had already been dropping in the polls, but she has -- still is polling at about 10 percent. I think there's a big fight right now between Haley Stevens, who's more the establishment- backed candidate, supported by Schumer, and El-Sayed, who is backed by the progressive wing and recently got the endorsement of AOC.",
+      "cn": "មែនហើយ ការគាំទ្រក្នុងការស្ទង់មតិរបស់នាងកំពុងធ្លាក់ចុះ ប៉ុន្តែបច្ចុប្បន្ននាងនៅតែមានការគាំទ្រប្រហែល 10% ។ ខ្ញុំគិតថាឥឡូវនេះវាជាការប្រកួតប្រជែងដ៏ខ្លាំងក្លារវាង Haley Stevens និង El-Sayed។ Stevens ទទួលបានការគាំទ្រពីក្រុមបង្កើតច្រើនជាង ដោយទទួលបានការគាំទ្រពី Schumer រីឯ El-Sayed វិញទទួលបានការគាំទ្រពីក្រុមរីកចម្រើន ហើយថ្មីៗនេះទទួលបានការគាំទ្រពី AOC។"
+    },
+    {
+      "speaker": "Garrison",
+      "text": "You know, where are those moral voters going to swing over? I mean that I think for Stevens, that's now the path for her trying to win this by arguing, hey, I'm the more electable candidate in a general election against Rogers. But all the momentum seems to be on the more progressive side of El-Sayed. And in recent polling that's shown. And, you know, we -- in your previous segment, you saw the attacks from President Trump warning of communism in the country.",
+      "cn": "តើអ្នកបោះឆ្នោតដែលយកចិត្តទុកដាក់ខាងសីលធម៌ទាំងនោះនឹងទៅខាងណា? ខ្ញុំគិតថាសម្រាប់ Stevens មធ្យោបាយដើម្បីឈ្នះឥឡូវនេះគឺការសង្កត់ធ្ងន់ថានាងអាចឈ្នះបានច្រើនជាងក្នុងការប្រកួតប្រជែងទូទៅប្រឆាំងនឹង Rogers។ ប៉ុន្តែសន្ទុះទាំងអស់ហាក់ដូចជាពេញចិត្ត El-Sayed ដែលរីកចម្រើនជាង។ ការស្ទង់មតិថ្មីៗក៏បង្ហាញពីរឿងនេះដែរ។ ហើយនៅក្នុងវគ្គមុន អ្នកបានឃើញការវាយប្រហាររបស់ប្រធានាធិបតី Trump ដែលព្រមានអំពីការគំរាមកំហែងកុម្មុយនិស្តនៅអាមេរិក។"
+    },
+    {
+      "speaker": "Garrison",
+      "text": "He's really pointing to these rise in Democratic socialist candidates from Democrats. And, you know, that would fit into the president's narrative. And so, you know, I think all these questions are going to be kind of battled out here in the next month before that August 4th primary in Michigan.",
+      "cn": "តាមពិតគាត់កំពុងចង្អុលទៅការកើនឡើងនៃបេក្ខជនសង្គមនិយមប្រជាធិបតេយ្យនៅក្នុងគណបក្សប្រជាធិបតេយ្យ។ នេះស្របនឹងនិទានរបស់ប្រធានាធិបតី។ ដូច្នេះ ខ្ញុំគិតថាបញ្ហាទាំងអស់នេះនឹងត្រូវបានដោះស្រាយក្នុងកម្រិតខ្លះក្នុងរយៈពេលមួយខែខាងមុខ មុនពេលការបោះឆ្នោតបឋមនៅរដ្ឋ Michigan នៅថ្ងៃទី 4 ខែសីហា។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Mario, we still -- you know, as Joey was just mentioning, the endorsement of AOC, of course for El-Sayed and a number of other progressives who have gotten behind him. Notable endorsements. As we look at this place, this race, rather, playing out, Mario, how much of it is a snapshot of the -- of the battle within the Democratic Party?",
+      "cn": "Mario ដូចដែល Joey ទើបតែបានលើកឡើង ការគាំទ្ររបស់ AOC ចំពោះ El-Sayed និងអ្នករីកចម្រើនផ្សេងទៀតគឺគួរឱ្យកត់សម្គាល់។ ពេលយើងពិនិត្យមើលការប្រកួតប្រជែងនេះ Mario តើវាឆ្លុះបញ្ចាំងពីការតស៊ូក្នុងគណបក្សប្រជាធិបតេយ្យកម្រិតណា?"
+    },
+    {
+      "speaker": "Parker",
+      "text": "I think it's a lot of that. It's a big snapshot of that ideological battle that's taking place. If you speak to some of the progressives, DSA, Democratic Socialists of America, its important. El-sayed is not a member, though he has some of that backing and is aligned with them. They're looking for something new after President Trump was able to win two elections, right, from -- at the hands of moderate, more moderate Democrats. Now, here's the distinction that I think is kind of missing here.",
+      "cn": "ខ្ញុំគិតថាវាឆ្លុះបញ្ចាំងច្រើន។ វាបង្ហាញយ៉ាងច្បាស់ពីការតស៊ូមនោគមវិជ្ជាដែលកំពុងកើតឡើង។ ប្រសិនបើអ្នកនិយាយជាមួយអ្នករីកចម្រើនខ្លះ DSA (សង្គមនិយមប្រជាធិបតេយ្យអាមេរិក) នេះសំខាន់ណាស់។ El-Sayed ទោះបីជាមិនមែនជាសមាជិកក៏ដោយ ក៏ទទួលបានការគាំទ្រខ្លះ ហើយស្របនឹងជំហររបស់ពួកគេ។ បន្ទាប់ពីប្រធានាធិបតី Trump អាចឈ្នះការបោះឆ្នោតពីរដង -- -- ហើយចាញ់ដោយអ្នកសម្របសម្រួល អ្នកប្រជាធិបតេយ្យដែលសម្របសម្រួលជាង -- -- ពួកគេកំពុងស្វែងរកអ្វីថ្មី។ ឥឡូវនេះ ខ្ញុំគិតថាមានការខ្វះខាតភាពខុសគ្នានៅទីនេះ។"
+    },
+    {
+      "speaker": "Parker",
+      "text": "These races that we saw in Colorado and New York as well, these are House races, right? So, when you're Chuck Schumer looking at a place like Michigan, which is a quintessential purple state, a Democratic governor, that Trump won that state in 2024 as well, whether or not a statewide race, right, for a Senate candidate, whether or not that will fly, and you can convince independents to get on board with a more progressive candidate rather than a more moderate candidate.",
+      "cn": "ការប្រកួតប្រជែងដែលយើងឃើញនៅរដ្ឋ Colorado និង New York គឺជាអាសនៈសភាតំណាងរាស្ត្រ មែនទេ? ដូច្នេះ ពេលដែល Chuck Schumer ប្រឈមមុខនឹងរដ្ឋដូចជា Michigan -- -- ជារដ្ឋពណ៌ស្វាយធម្មតា ដែលមានអភិបាលរដ្ឋមកពីគណបក្សប្រជាធិបតេយ្យ ប៉ុន្តែ Trump ក៏ឈ្នះរដ្ឋនេះក្នុងឆ្នាំ 2024 ដែរ -- -- តើក្នុងការប្រកួតប្រជែងព្រឹទ្ធសភាទូទាំងរដ្ឋ តើអាចបញ្ចុះបញ្ចូលអ្នកបោះឆ្នោតឯករាជ្យឱ្យគាំទ្របេក្ខជនរីកចម្រើនជាង ជំនួសឱ្យអ្នកសម្របសម្រួលជាងនោះទេ នេះជាសំណួរ។"
+    },
+    {
+      "speaker": "Parker",
+      "text": "I think what you're seeing from Schumer and the establishment is some doubts there.",
+      "cn": "ខ្ញុំគិតថាអ្វីដែលអ្នកឃើញពី Schumer និងក្រុមបង្កើតគឺមានការសង្ស័យខ្លះ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "And that is -- Eleanor, that is ultimately the concern, right? And that's certainly what we heard in the wake of New York City, but also in the wake of Colorado, from more establishment Democrats who were very focused on purple areas, right? Not on, in their words, turning a blue seat cobalt, right, safe seats there, but focused on places like Michigan. But, of course, they're not going to be the only ones focused there.",
+      "cn": "Eleanor នេះគឺជាកង្វល់ចុងក្រោយ មែនទេ? នេះពិតជាអ្វីដែលយើងបានឮពីអ្នកប្រជាធិបតេយ្យក្រុមបង្កើតដែលផ្តោតលើតំបន់ពណ៌ស្វាយបន្ទាប់ពីទីក្រុង New York និងបន្ទាប់ពីរដ្ឋ Colorado មែនទេ? តាមពាក្យរបស់ពួកគេ មិនមែនដើម្បីប្រែក្លាយអាសនៈពណ៌ខៀវទៅជាពណ៌ខៀវចាស់ ពោលគឺអាសនៈមានសុវត្ថិភាពនោះទេ ប៉ុន្តែផ្តោតលើកន្លែងដូចជា Michigan។ ប៉ុន្តែពិតណាស់ ពួកគេនឹងមិនមែនជាអ្នកតែមួយគត់ដែលផ្តោតលើទីនោះទេ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "I mean, is the Democratic machine positioned well enough, Eleanor, to counter some of these attacks, even just the communism label from President Trump?",
+      "cn": "ខ្ញុំចង់និយាយថា Eleanor តើម៉ាស៊ីនគណបក្សប្រជាធិបតេយ្យមានកម្លាំងគ្រប់គ្រាន់ដើម្បីទប់ទល់នឹងការវាយប្រហារទាំងនេះ ឬសូម្បីតែស្លាកសញ្ញាកុម្មុយនិស្តដែលប្រធានាធិបតី Trump ដាក់?"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "It's a fantastic question. And I think it's worth noting, too, that McMorrow, of course, is by no means a moderate. She was endorsed by Warren, if not Sanders and AOC. And the Democratic establishment, I think, is grappling with this across races. I think we saw it in the fall a lot in Democratic House races. To Mario's point, it is even more -- the stakes are even higher in these Senate races because, yes, again, this is a purple seat.",
+      "cn": "នេះជាសំណួរល្អ។ ខ្ញុំគិតថាគួរកត់សម្គាល់ផងដែរថា McMorrow ពិតជាមិនមែនជាអ្នកសម្របសម្រួលទេ។ នាងទទួលបានការគាំទ្រពី Warren ទោះបីជាមិនមែនពី Sanders និង AOC ក៏ដោយ។ ខ្ញុំគិតថាក្រុមបង្កើតគណបក្សប្រជាធិបតេយ្យកំពុងតស៊ូជាមួយបញ្ហាអន្តរជាតិសាសន៍។ ខ្ញុំគិតថាយើងបានឃើញច្រើននៅក្នុងការបោះឆ្នោតសភាតំណាងរាស្ត្ររដូវស្លឹកឈើជ្រុះ។ ដូចដែល Mario បាននិយាយ ការប្រកួតប្រជែងព្រឹទ្ធសភាទាំងនេះមានភាគហ៊ុនខ្ពស់ជាង ពីព្រោះ បាទ នេះគឺជាអាសនៈពណ៌ស្វាយមួយទៀត។"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "It is a state where you have to appeal to voters who may have voted for Trump just two years ago. And what folks we spoke with in the fall when we wrote about this initially when it was popping up in the House told us was, there's just so much enthusiasm on the Democratic side and there's so much frustration with Trump that a lot of it is being expressed via these more farther left positions.",
+      "cn": "នេះជារដ្ឋដែលអ្នកត្រូវទាក់ទាញអ្នកបោះឆ្នោតដែលអាចបោះឆ្នោតឱ្យ Trump កាលពីពីរឆ្នាំមុន។ មនុស្សដែលយើងបានសម្ភាសនៅពេលយើងសរសេរអំពីប្រធានបទនេះដំបូងក្នុងរដូវស្លឹកឈើជ្រុះបានប្រាប់យើងថា មានការសាទរច្រើនណាស់ពីខាងគណបក្សប្រជាធិបតេយ្យ ការមិនពេញចិត្តច្រើនចំពោះ Trump ដែលភាគច្រើនត្រូវបានបង្ហាញតាមរយៈជំហរឆ្វេងនិយមជាង។"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "Clearly, Trump thinks it's a winning argument to denounce them as communism, to warn people about the dangers of adhering to these kinds of stances. But whether or not that's borne out in November, I think, is kind of anyone's guess at this point.",
+      "cn": "ជាក់ស្តែង Trump គិតថាការថ្កោលទោសវាថាជាកុម្មុយនិស្ត ការព្រមានមនុស្សអំពីគ្រោះថ្នាក់នៃការប្រកាន់ជំហរបែបនេះគឺជាអំណះអំណាងឈ្នះ។ ប៉ុន្តែថាតើវានឹងត្រូវបានបញ្ជាក់នៅក្នុងខែវិច្ឆិកាឬអត់ ខ្ញុំគិតថាគ្មាននរណាអាចនិយាយបានច្បាស់នៅពេលនេះទេ។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "As we move into the group chat, as I noted earlier in the show, of course, NATO Summit this week in Turkey. President Trump will be making his way there. He is set to meet with President Zelenskyy on the sidelines. Joey, this is in your group chat.",
+      "cn": "ពេលយើងចូលទៅក្នុងការជជែកជាក្រុម ដូចដែលខ្ញុំបាននិយាយនៅដើមកម្មវិធី សប្តាហ៍នេះកិច្ចប្រជុំកំពូលណាតូនៅតួកគី។ ប្រធានាធិបតី Trump នឹងទៅទីនោះ។ គាត់គ្រោងជួបជាមួយប្រធានាធិបតី Zelensky នៅក្នុងរវាងកិច្ចប្រជុំ។ Joey នេះជាខ្លឹមសារការជជែកជាក្រុមរបស់អ្នក។"
+    },
+    {
+      "speaker": "Garrison",
+      "text": "Yes. I'm really curious whether Zelenskyy is able to use this meeting on Wednesday to really kind of convince President Trump to refocus on Russia's war in Ukraine. You know, for the past several months, Trump has been really solely kind of concentrated his foreign policy on the war in Iran. And, you know, that's often put this on the sidelines. Can Zelenskyy change the conversation here?",
+      "cn": "បាទ។ ខ្ញុំឆ្ងល់ថាតើ Zelensky អាចប្រើកិច្ចប្រជុំថ្ងៃពុធដើម្បីបញ្ចុះបញ្ចូលប្រធានាធិបតី Trump ឱ្យផ្តោតអារម្មណ៍ឡើងវិញលើសង្គ្រាមរុស្ស៊ីនៅអ៊ុយក្រែនបានទេ។ អ្នកដឹងទេ ប៉ុន្មានខែកន្លងមក គោលនយោបាយការបរទេសរបស់ Trump ពិតជាផ្តោតតែលើសង្គ្រាមអ៊ីរ៉ង់ប៉ុណ្ណោះ។ ហើយនេះច្រើនតែទុកបញ្ហានេះមួយឡែក។ តើ Zelensky អាចផ្លាស់ប្តូរប្រធានបទបានទេ?"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Well, we'll be watching to see. We have about 30 seconds for you guys to share. Eleanor, \"Love Island U.K.\" A little bit of a departure from Zelenskyy.",
+      "cn": "មិនអីទេ យើងនឹងរង់ចាំមើល។ យើងនៅសល់ពេលប្រហែល 30 វិនាទីសម្រាប់អ្នកចែករំលែក។ Eleanor, Love Island UK។ ខុសពី Zelensky បន្តិច។"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "A little bit of a departure. Someone said recently that people with stressful jobs don't watch prestige television, they watch reality TV. And I think that's true.",
+      "cn": "ខុសគ្នាបន្តិច។ ថ្មីៗនេះមានគេនិយាយថា មនុស្សដែលមានសម្ពាធការងារខ្ពស់មិនមើលរឿងភាគល្អទេ ពួកគេមើលកម្មវិធីពិត។ ខ្ញុំគិតថានេះជាការពិត។"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "And if you're watching \"Love Island,\" best episode of this season, Casa Amor. If you know, you know.",
+      "cn": "ប្រសិនបើអ្នកកំពុងមើល Love Island រដូវកាលនេះភាគល្អបំផុតគឺ Casa Amor។ អ្នកដឹងទេបើអ្នកដឹង។"
+    },
+    {
+      "speaker": "Hill",
+      "text": "OK. And, Mario, you get last word for something that I know is in Boris Sanchez's, my good friend's group chat, because he wants LeBron in Miami.",
+      "cn": "មិនអីទេ។ Mario ពាក្យចុងក្រោយសម្រាប់អ្នក ខ្ញុំដឹងថារឿងនេះនៅក្នុងការជជែកជាក្រុមរបស់មិត្តខ្ញុំ Boris Sanchez ពីព្រោះគាត់ចង់ឱ្យ LeBron ទៅ Miami។"
+    },
+    {
+      "speaker": "Parker",
+      "text": "Yes. Where LeBron goes next. Does he go to the Golden State Warriors? Does he go back home to Cleveland?",
+      "cn": "បាទ។ LeBron ទៅណាបន្ទាប់? តើគាត់នឹងទៅ Golden State Warriors ទេ? ឬត្រឡប់ទៅស្រុកកំណើត Cleveland?"
+    },
+    {
+      "speaker": "Hill",
+      "text": "We will be watching it all. Great to have all of you with us this morning. Thank you. Thanks to all of you for watching. I'm Erica Hill. The headlines are next. var CNN = CNN || {};",
+      "cn": "យើងនឹងតាមដានពេញមួយដំណើរ។ រីករាយដែលមានអ្នកនៅជាមួយយើងព្រឹកនេះ។ សូមអរគុណ។ សូមអរគុណអ្នកទស្សនាទាំងអស់។ ខ្ញុំគឺ Erica Hill។ បន្ទាប់ទៀតគឺព័ត៌មានសំខាន់ៗ។"
+    }
+  ]
+}

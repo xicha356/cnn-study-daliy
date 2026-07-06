@@ -1,0 +1,1259 @@
+{
+  "date": "2026-07-06",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-06/segment/01",
+  "summary": "CNN《今晨》报道：美国总统特朗普介入FIFA，使美国球星Folarin Balogun的红牌停赛被撤销，引发争议。比利时教练讽刺此举如同愚人节。节目还讨论了白人民族主义者在华盛顿游行、林肯纪念堂倒影池维修费用飙升、密歇根州参议员竞选变化、伊朗最高领袖葬礼、特朗普准备参加北约峰会、纽约东河水上飞机迫降等新闻。",
+  "vocabulary": [
+    {
+      "word": "red card reversal",
+      "phonetic": "/rɛd kɑːd rɪˈvɜːrsəl/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "文化体育",
+      "level": "新闻常用 · 进阶",
+      "cn": "红牌撤销（足球比赛中取消红牌处罚）",
+      "en": "the overturning of a red card penalty",
+      "excerpt": "The red card reversal heard round the world",
+      "example_cn": "震惊世界的红牌撤销"
+    },
+    {
+      "word": "crying foul",
+      "phonetic": "/ˈkraɪɪŋ faʊl/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "文化体育",
+      "level": "固定搭配 · 进阶",
+      "cn": "抗议；鸣不平（原指体育比赛中喊犯规）",
+      "en": "protesting or complaining about unfair treatment",
+      "excerpt": "some fans and coaches are crying foul",
+      "example_cn": "一些球迷和教练在抗议"
+    },
+    {
+      "word": "trump card",
+      "phonetic": "/trʌmp kɑːrd/",
+      "pos": "noun phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "王牌；杀手锏（此处双关特朗普姓氏）",
+      "en": "a decisive advantage or secret weapon",
+      "excerpt": "Definitely think that Trump played a trump card",
+      "example_cn": "肯定认为特朗普打出了王牌"
+    },
+    {
+      "word": "intimidation",
+      "phonetic": "/ɪnˌtɪmɪˈdeɪʃən/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "社会民生",
+      "level": "新闻常用 · 进阶",
+      "cn": "恐吓；威胁",
+      "en": "the act of frightening someone to make them do something",
+      "excerpt": "Is it free speech or intimidation?",
+      "example_cn": "这是言论自由还是恐吓？"
+    },
+    {
+      "word": "Reflecting Pool",
+      "phonetic": "/rɪˈflektɪŋ puːl/",
+      "pos": "noun phrase",
+      "usage": "专名背景",
+      "difficulty": "基础",
+      "domain": "社会民生",
+      "level": "专名背景 · 基础",
+      "cn": "倒影池（指林肯纪念堂前的景观池）",
+      "en": "a shallow pool designed to reflect a monument",
+      "excerpt": "The Reflecting Pool may need to be drained this week",
+      "example_cn": "倒影池本周可能需要排水"
+    },
+    {
+      "word": "ballooning",
+      "phonetic": "/bəˈluːnɪŋ/",
+      "pos": "adjective",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "经济金融",
+      "level": "新闻常用 · 进阶",
+      "cn": "急剧膨胀的；激增的",
+      "en": "increasing rapidly in size or cost",
+      "excerpt": "ballooning from the initial estimate of under $2 million",
+      "example_cn": "从最初不到200万美元的估算急剧膨胀"
+    },
+    {
+      "word": "backer",
+      "phonetic": "/ˈbækər/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "支持者；赞助人",
+      "en": "a person or organization that supports someone or something",
+      "excerpt": "one candidate gets an important backer",
+      "example_cn": "一位候选人获得重要支持者"
+    },
+    {
+      "word": "suspend",
+      "phonetic": "/səˈspend/",
+      "pos": "verb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "法律司法",
+      "level": "新闻常用 · 进阶",
+      "cn": "暂停；中止（竞选、比赛等）",
+      "en": "to temporarily stop an activity or a person from participating",
+      "excerpt": "I may be suspending this campaign",
+      "example_cn": "我可能会暂停这次竞选"
+    },
+    {
+      "word": "sideline",
+      "phonetic": "/ˈsaɪdlaɪn/",
+      "pos": "verb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "文化体育",
+      "level": "新闻常用 · 进阶",
+      "cn": "使退出比赛；使靠边站",
+      "en": "to prevent someone from playing or participating",
+      "excerpt": "sidelining the suspension of U.S. soccer star Folarin Balogun",
+      "example_cn": "使美国球星Folarin Balogun的停赛失效"
+    },
+    {
+      "word": "obscure",
+      "phonetic": "/əbˈskjʊr/",
+      "pos": "adjective",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "晦涩的；不为人知的",
+      "en": "not well known; difficult to understand",
+      "excerpt": "citing an obscure FIFA rule",
+      "example_cn": "引用一条晦涩的FIFA规则"
+    },
+    {
+      "word": "applaud",
+      "phonetic": "/əˈplɔːd/",
+      "pos": "verb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "称赞；鼓掌",
+      "en": "to express approval or praise",
+      "excerpt": "Trump applauded the move on social media",
+      "example_cn": "特朗普在社交媒体上称赞这一举动"
+    },
+    {
+      "word": "precedent-shattering",
+      "phonetic": "/ˈpresɪdənt ˈʃætərɪŋ/",
+      "pos": "adjective",
+      "usage": "新闻常用",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 高阶",
+      "cn": "打破先例的；开创性的",
+      "en": "breaking established precedents; unprecedented",
+      "excerpt": "it is precedent-shattering",
+      "example_cn": "这是打破先例的"
+    },
+    {
+      "word": "put his finger on the scale",
+      "phonetic": "/pʊt hɪz ˈfɪŋɡər ɒn ðə skeɪl/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "高阶",
+      "domain": "通用",
+      "level": "固定搭配 · 高阶",
+      "cn": "施加影响；干预（使结果偏向自己）",
+      "en": "to unfairly influence the outcome of something",
+      "excerpt": "to kind of put his finger on the scale",
+      "example_cn": "有点施加影响"
+    },
+    {
+      "word": "asterisk",
+      "phonetic": "/ˈæstərɪsk/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "文化体育",
+      "level": "新闻常用 · 进阶",
+      "cn": "星号（比喻记录有污点或需备注）",
+      "en": "a symbol used to indicate a footnote or that something is questionable",
+      "excerpt": "they may have an asterisk now",
+      "example_cn": "他们现在可能有个星号（指成绩有争议）"
+    },
+    {
+      "word": "taint",
+      "phonetic": "/teɪnt/",
+      "pos": "verb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "玷污；破坏",
+      "en": "to spoil or affect negatively",
+      "excerpt": "whether this taints things",
+      "example_cn": "这是否玷污了事情"
+    },
+    {
+      "word": "enrage",
+      "phonetic": "/ɪnˈreɪdʒ/",
+      "pos": "verb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "激怒",
+      "en": "to make very angry",
+      "excerpt": "it's enraged Belgium in the process",
+      "example_cn": "这激怒了比利时"
+    },
+    {
+      "word": "ramp up",
+      "phonetic": "/ræmp ʌp/",
+      "pos": "phrasal verb",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "增加；加强",
+      "en": "to increase or intensify",
+      "excerpt": "you're going to see that ramped up further",
+      "example_cn": "你会看到进一步加剧"
+    },
+    {
+      "word": "mourner",
+      "phonetic": "/ˈmɔːrnər/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "社会民生",
+      "level": "新闻常用 · 进阶",
+      "cn": "哀悼者",
+      "en": "a person who attends a funeral or shows grief",
+      "excerpt": "Mourners lining the streets in Iran",
+      "example_cn": "哀悼者在伊朗街头排成长队"
+    },
+    {
+      "word": "funeral procession",
+      "phonetic": "/ˈfjuːnərəl prəˈseʃən/",
+      "pos": "noun phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "社会民生",
+      "level": "固定搭配 · 进阶",
+      "cn": "送葬队伍；葬礼游行",
+      "en": "a formal movement of people accompanying a dead body to burial",
+      "excerpt": "the funeral procession of Iran's late supreme leader",
+      "example_cn": "伊朗已故最高领袖的送葬队伍"
+    },
+    {
+      "word": "get ... across the finish line",
+      "phonetic": "/ɡet ... əˈkrɔːs ðə ˈfɪnɪʃ laɪn/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "固定搭配 · 进阶",
+      "cn": "使...通过；完成（立法等）",
+      "en": "to successfully complete or pass something",
+      "excerpt": "get Trump's SAVE Act across the finish line",
+      "example_cn": "使特朗普的SAVE法案通过"
+    },
+    {
+      "word": "mortar",
+      "phonetic": "/ˈmɔːrtər/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "灾害环境",
+      "level": "新闻常用 · 进阶",
+      "cn": "迫击炮；烟花弹（此处指烟花）",
+      "en": "a type of firework that shoots into the air",
+      "excerpt": "we just had a firework hit our plane. We're just hoping it was just a mortar",
+      "example_cn": "我们刚被烟花击中。我们只希望那只是个烟花弹"
+    },
+    {
+      "word": "simmering tensions",
+      "phonetic": "/ˈsɪmərɪŋ ˈtenʃənz/",
+      "pos": "noun phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "固定搭配 · 进阶",
+      "cn": "一触即发的紧张局势",
+      "en": "tensions that are about to become worse",
+      "excerpt": "simmering tensions in the Middle East",
+      "example_cn": "中东一触即发的紧张局势"
+    },
+    {
+      "word": "hard landing",
+      "phonetic": "/hɑːrd ˈlændɪŋ/",
+      "pos": "noun phrase",
+      "usage": "专业术语",
+      "difficulty": "进阶",
+      "domain": "科技医疗",
+      "level": "专业术语 · 进阶",
+      "cn": "硬着陆（飞机着陆时冲击较大）",
+      "en": "a landing that is rough or forceful",
+      "excerpt": "A small seaplane making a hard landing in New York's East River",
+      "example_cn": "一架小型水上飞机在纽约东河硬着陆"
+    },
+    {
+      "word": "first responders",
+      "phonetic": "/fɜːrst rɪˈspɒndərz/",
+      "pos": "noun phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "灾害环境",
+      "level": "固定搭配 · 进阶",
+      "cn": "第一响应者（警察、消防、急救人员）",
+      "en": "emergency personnel who arrive first at an incident",
+      "excerpt": "eight people were removed from the aircraft by first responders",
+      "example_cn": "八人被第一响应者从飞机中救出"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The red card reversal heard round the world, boosting Team USA before a critical World Cup match and forcing the U.S. Men's coach to respond to reports of an assist from the White House.",
+      "cn": "这张红牌被撤销的消息传遍世界，在关键的世界杯比赛前提振了美国队，并迫使美国男足主教练回应有关白宫协助的报道。",
+      "structure": "主句为名词短语 'The red card reversal heard round the world'，后接两个并列的现在分词短语 'boosting...' 和 'forcing...' 作伴随状语。",
+      "analysis": "1. 'heard round the world' 是过去分词短语作后置定语，修饰 'reversal'，意为“传遍世界”。2. 'boosting' 和 'forcing' 是现在分词，表示结果或伴随。3. 'assist from the White House' 是新闻压缩表达，指白宫干预。"
+    },
+    {
+      "en": "The suspension was supposedly not able to be reviewed.",
+      "cn": "该停赛原本据称无法被复审。",
+      "structure": "简单句，主语 'The suspension'，系动词 'was'，表语 'not able to be reviewed'，'supposedly' 为副词修饰全句。",
+      "analysis": "1. 'supposedly' 意为“据称”，暗示事实可能相反。2. 'not able to be reviewed' 是 'be able to' 的否定被动形式，表示“无法被复审”。"
+    },
+    {
+      "en": "A source, however, tells CNN President Trump personally called FIFA's president to ask for a review.",
+      "cn": "然而，一位消息人士告诉CNN，特朗普总统亲自致电国际足联主席要求复审。",
+      "structure": "主句 'A source tells CNN'，后接省略 'that' 的宾语从句 'President Trump personally called FIFA's president to ask for a review'。",
+      "analysis": "1. 'however' 为插入语，表示转折。2. 'personally' 强调亲自。3. 'to ask for a review' 是不定式短语作目的状语。"
+    },
+    {
+      "en": "And then, a few days later, the penalty was set aside by an independent commission, citing an obscure FIFA rule.",
+      "cn": "然后，几天后，该处罚被一个独立委员会撤销，引用了一条晦涩的国际足联规则。",
+      "structure": "主句 'the penalty was set aside by an independent commission'，后接现在分词短语 'citing an obscure FIFA rule' 作伴随状语。",
+      "analysis": "1. 'set aside' 意为“撤销”。2. 'citing' 是现在分词，表示委员会在撤销时引用了规则。3. 'obscure' 意为“晦涩的，不为人知的”。"
+    },
+    {
+      "en": "Belgium's manager, meantime, compared the announcement to April Fool's Day.",
+      "cn": "与此同时，比利时主教练将这一公告比作愚人节。",
+      "structure": "简单句，主语 'Belgium's manager'，谓语 'compared'，宾语 'the announcement'，介词短语 'to April Fool's Day' 作宾语补足语。",
+      "analysis": "1. 'meantime' 为插入语，意为“与此同时”。2. 'compare A to B' 意为“把A比作B”，暗示荒谬。"
+    },
+    {
+      "en": "I didn't realize that at FIFA headquarters, July 5th was the equivalent of April 1st in Europe.",
+      "cn": "我没有意识到在国际足联总部，7月5日相当于欧洲的4月1日。",
+      "structure": "主句 'I didn't realize'，后接 'that' 引导的宾语从句，从句中 'at FIFA headquarters' 为地点状语，主语 'July 5th'，系动词 'was'，表语 'the equivalent of April 1st in Europe'。",
+      "analysis": "1. 'the equivalent of' 意为“等同于”。2. 引用比利时教练的话，讽刺国际足联的决定像愚人节玩笑。"
+    },
+    {
+      "en": "The Belgian Football Association isn't defending itself, nor is it defending the national team.",
+      "cn": "比利时足协不是在为自己辩护，也不是在为国家队辩护。",
+      "structure": "并列结构，第一分句 'The Belgian Football Association isn't defending itself'，第二分句 'nor is it defending the national team' 为倒装结构。",
+      "analysis": "1. 'nor' 引导否定倒装，正常语序为 'it is not defending the national team either'。2. 强调足协的立场是维护足球整体。"
+    },
+    {
+      "en": "It's defending football in general.",
+      "cn": "它是在维护整个足球运动。",
+      "structure": "简单句，主语 'It'，谓语 'is defending'，宾语 'football in general'。",
+      "analysis": "1. 'in general' 意为“总体上”。2. 承接前句，说明足协的更高目标。"
+    },
+    {
+      "en": "We know that Howard Lutnick, the commerce secretary, was involved in this talks.",
+      "cn": "我们知道商务部长霍华德·卢特尼克参与了这些谈判。",
+      "structure": "主句 'We know'，后接 'that' 引导的宾语从句，从句中主语 'Howard Lutnick'，同位语 'the commerce secretary'，谓语 'was involved in'，宾语 'this talks'。",
+      "analysis": "1. 'the commerce secretary' 是同位语，说明身份。2. 'be involved in' 意为“参与”。"
+    },
+    {
+      "en": "He's this type of guy: he's the let me call them, let me talk to them, let me see what I can do.",
+      "cn": "他是那种人：让我打电话给他们，让我和他们谈谈，让我看看我能做什么。",
+      "structure": "主句 'He's this type of guy'，冒号后为三个并列的祈使句，解释 'type of guy'。",
+      "analysis": "1. 冒号用于解释说明。2. 三个 'let me' 结构表示主动干预的性格。"
+    },
+    {
+      "en": "The FIFA president created this FIFA Peace Prize to give to Trump when he was upset about not getting the Nobel Peace Prize.",
+      "cn": "国际足联主席设立了这个世界和平奖，在特朗普因未获诺贝尔和平奖而沮丧时颁给了他。",
+      "structure": "主句 'The FIFA president created this FIFA Peace Prize to give to Trump'，后接 'when' 引导的时间状语从句。",
+      "analysis": "1. 'to give to Trump' 是不定式短语作目的状语。2. 'when he was upset about not getting...' 说明背景。3. 'upset about' 意为“对……感到沮丧”。"
+    },
+    {
+      "en": "It was only a matter of time, right?",
+      "cn": "这只是时间问题，对吧？",
+      "structure": "简单句，主语 'It'，系动词 'was'，表语 'only a matter of time'，附加问句 'right?'。",
+      "analysis": "1. 'a matter of time' 是固定短语，意为“迟早的事”。2. 'right?' 是口语化的附加问句，寻求认同。"
+    },
+    {
+      "en": "The fact that this call was controversial, it did allow for the president.",
+      "cn": "这通电话具有争议性这一事实，确实给了总统机会。",
+      "structure": "主语 'The fact' 后接 'that' 引导的同位语从句 'this call was controversial'，主句 'it did allow for the president'，其中 'it' 指代 'the fact'。",
+      "analysis": "1. 'that' 引导同位语从句，说明 'fact' 的内容。2. 'did' 表示强调。3. 'allow for' 意为“为……提供机会”。"
+    },
+    {
+      "en": "It gave the president an opportunity to kind of put his finger on the scale.",
+      "cn": "这给了总统一个机会，可以说是施加影响。",
+      "structure": "主句 'It gave the president an opportunity'，后接不定式短语 'to kind of put his finger on the scale' 作定语修饰 'opportunity'。",
+      "analysis": "1. 'kind of' 是口语化插入语，意为“有点，可以说”。2. 'put his finger on the scale' 是习语，意为“施加影响，干预”。"
+    },
+    {
+      "en": "Now, obviously, some of the criticism that we've heard from opponents are that this is a bad precedent that could be set, but also whether or not the U.S. wins, whether the U.S. wins tonight or not, they may have an asterisk now, just based off of this action.",
+      "cn": "现在，显然，我们从对手那里听到的一些批评是，这可能开创一个糟糕的先例，而且无论美国队今晚是否获胜，他们现在可能都要被打上星号，仅仅基于这一行动。",
+      "structure": "主句 'some of the criticism are that...'，'that we've heard from opponents' 是定语从句修饰 'criticism'，'that this is a bad precedent that could be set' 是表语从句，其中 'that could be set' 是定语从句修饰 'precedent'。后接 'but also' 引导的并列结构，包含 'whether or not...' 和 'whether...or not' 两个让步状语从句。",
+      "analysis": "1. 'precedent' 意为“先例”。2. 'asterisk' 意为“星号”，比喻成绩有污点。3. 'based off of' 是口语化表达，相当于 'based on'。"
+    },
+    {
+      "en": "You really want to hope that that's not the case.",
+      "cn": "你真的很希望情况并非如此。",
+      "structure": "主句 'You really want to hope'，后接 'that' 引导的宾语从句 'that's not the case'。",
+      "analysis": "1. 'want to hope' 表示愿望。2. 'that's not the case' 是固定表达，意为“情况不是那样”。"
+    },
+    {
+      "en": "But with all the rumors about the FIFA president going around and the fact that Trump's got his nose in everything, I wouldn't be surprised.",
+      "cn": "但考虑到所有关于国际足联主席的谣言在流传，以及特朗普插手一切的事实，我不会感到惊讶。",
+      "structure": "介词短语 'with all the rumors... and the fact...' 作原因状语，主句 'I wouldn't be surprised'。'rumors about the FIFA president going around' 是 'with + 名词 + 现在分词' 结构；'the fact that Trump's got his nose in everything' 是 'the fact' 后接同位语从句。",
+      "analysis": "1. 'with...going around' 表示伴随情况。2. 'got his nose in everything' 是习语，意为“插手一切”。"
+    },
+    {
+      "en": "Everybody gets a red card.",
+      "cn": "每个人都会得到红牌。",
+      "structure": "简单句，主语 'Everybody'，谓语 'gets'，宾语 'a red card'。",
+      "analysis": "1. 此句为一般性陈述，但在此语境中暗示红牌是常见现象。"
+    },
+    {
+      "en": "Everybody has the right to go to the president and ask for help.",
+      "cn": "每个人都有权去找总统寻求帮助。",
+      "structure": "简单句，主语 'Everybody'，谓语 'has'，宾语 'the right'，后接不定式短语 'to go to the president and ask for help' 作定语。",
+      "analysis": "1. 'have the right to do' 意为“有权做某事”。2. 'go to the president' 在此语境中特指找特朗普。"
+    },
+    {
+      "en": "Maybe this is a favored nation.",
+      "cn": "也许这是一个受偏爱的国家。",
+      "structure": "简单句，主语 'this'，系动词 'is'，表语 'a favored nation'。",
+      "analysis": "1. 'favored nation' 是双关语，既指“受优待的国家”，也暗指“最惠国待遇”。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "特朗普干预FIFA红牌事件",
+      "content": "美国总统特朗普被指亲自致电FIFA主席，要求复审美国球星Folarin Balogun的红牌。FIFA独立委员会引用Rule 27撤销停赛，引发比利时队抗议。特朗普在社交媒体上称赞此举，但批评者认为这开创了不良先例，可能使美国队的胜利蒙上阴影。",
+      "keywords": "red card reversal · FIFA · Trump · Folarin Balogun · Rule 27"
+    },
+    {
+      "title": "白人民族主义者在华盛顿游行",
+      "content": "7月4日，白人民族主义者在华盛顿特区街头游行，引发关于言论自由与恐吓的辩论。白宫对此表态，但未明确谴责。该事件凸显美国社会在种族问题上的持续分裂。",
+      "keywords": "white nationalists · July Fourth · free speech · intimidation"
+    },
+    {
+      "title": "林肯纪念堂倒影池维修费用飙升",
+      "content": "林肯纪念堂倒影池的维修费用从最初估计的不到200万美元飙升至1600万美元以上。特朗普曾承诺在建国250周年之际修复该池，但修复后池底蓝色涂层脱落，藻类重现，问题仍未解决。",
+      "keywords": "Reflecting Pool · Lincoln Memorial · cost overrun · algae"
+    },
+    {
+      "title": "伊朗最高领袖葬礼",
+      "content": "伊朗已故最高领袖的葬礼在德黑兰举行，大量哀悼者上街送行。CNN记者在现场报道。这一事件可能影响伊朗国内政治及中东局势。",
+      "keywords": "Iran · supreme leader · funeral procession · Tehran"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "原文中 'crying foul' 的含义是？",
+      "options": [
+        "A. 大声哭泣",
+        "B. 抗议；鸣不平",
+        "C. 犯规",
+        "D. 吹哨"
+      ],
+      "answer": 1,
+      "explanation": "crying foul 是固定搭配，意为'抗议'或'鸣不平'，源自体育比赛中喊犯规。原文中球迷和教练对特朗普干预表示不满。"
+    },
+    {
+      "type": "vocab",
+      "question": "原文 'precedent-shattering' 的意思是？",
+      "options": [
+        "A. 遵循先例的",
+        "B. 打破先例的",
+        "C. 无关紧要的",
+        "D. 常见的"
+      ],
+      "answer": 1,
+      "explanation": "precedent-shattering 由 precedent（先例）和 shattering（打破）组成，意为'打破先例的'，形容特朗普干预FIFA事件前所未有。"
+    },
+    {
+      "type": "vocab",
+      "question": "短语 'put his finger on the scale' 在文中的含义是？",
+      "options": [
+        "A. 称重",
+        "B. 施加影响",
+        "C. 指责",
+        "D. 测量"
+      ],
+      "answer": 1,
+      "explanation": "put his finger on the scale 是固定搭配，字面意思'把手指放在秤上'，比喻不公平地施加影响以改变结果。文中指特朗普干预FIFA决定。"
+    },
+    {
+      "type": "comprehension",
+      "question": "根据报道，FIFA撤销Balogun红牌的依据是什么？",
+      "options": [
+        "A. 特朗普的请求",
+        "B. 独立委员会引用Rule 27",
+        "C. 比利时队的同意",
+        "D. 球迷抗议"
+      ],
+      "answer": 1,
+      "explanation": "报道指出，FIFA独立委员会引用了一条晦涩的规则（Rule 27）撤销了停赛。虽然特朗普的介入被怀疑，但官方理由是依据规则。"
+    },
+    {
+      "type": "comprehension",
+      "question": "比利时教练Rudi Garcia对红牌撤销的态度是？",
+      "options": [
+        "A. 支持",
+        "B. 讽刺",
+        "C. 中立",
+        "D. 无所谓"
+      ],
+      "answer": 1,
+      "explanation": "比利时教练将FIFA的决定比作'愚人节'，讽刺其荒谬。原文中他说'July 5th was the equivalent of April 1st in Europe'。"
+    },
+    {
+      "type": "comprehension",
+      "question": "关于林肯纪念堂倒影池，以下哪项正确？",
+      "options": [
+        "A. 维修费用低于预算",
+        "B. 修复后效果完美",
+        "C. 费用从200万飙升至1600万美元",
+        "D. 特朗普放弃修复承诺"
+      ],
+      "answer": 2,
+      "explanation": "报道指出，维修费用从最初估计的不到200万美元飙升至1600万美元以上，且修复后出现藻类等问题。"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Erica Hill",
+      "text": "Today in the group chat, the U.S. men's team's star player suspended until President Trump entered the chat. Now that one-game ban has been lifted, and some fans and coaches are crying foul.",
+      "cn": "今天在群聊中，美国男足的明星球员被禁赛，直到特朗普总统加入聊天。现在，那一场禁赛已被解除，一些球迷和教练对此表示不满。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Definitely think that Trump played a trump card.",
+      "cn": "绝对认为特朗普打出了一张王牌。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "White nationalists marching through the streets of D.C. on July Fourth. Is it free speech or intimidation? The White House take. The Reflecting Pool may need to be drained this week for yet another round of repairs. So just how much more could this latest fix cost taxpayers? In a crucial Michigan Senate race, one candidate gets an important backer; another drops out. So, how will this change the face of that race? MICHIGAN STATE SENATOR MALLORY MCMORROW (D),",
+      "cn": "白人至上主义者于七月四日在华盛顿特区街头游行。这是言论自由还是恐吓？白宫的看法。倒影池本周可能需要再次排水进行新一轮维修。那么这次最新的修复还要让纳税人多花多少钱？在密歇根州一场关键的参议院竞选中，一位候选人获得了重要支持者；另一位退出。那么，这将如何改变这场竞选的面貌？密歇根州参议员马洛里·麦克莫罗（民主党）："
+    },
+    {
+      "speaker": "Former Candidate",
+      "text": "I may be suspending this campaign, but I am not leaving the fight.",
+      "cn": "我可能会暂停这次竞选，但我不会离开这场斗争。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The red card reversal heard round the world, boosting Team USA before a critical World Cup match and forcing the U.S. Men's coach to respond to reports of an assist from the White House.",
+      "cn": "红牌撤销的消息传遍世界，在关键的世界杯比赛前提振了美国队，并迫使美国男足教练回应有关白宫助攻的报道。"
+    },
+    {
+      "speaker": "Mauricio Pochettino",
+      "text": "I am listening different coaches, different, you know, federation that talk about, oh, the president called the -- this, that. No. Everything want to be involved, is not surprise me.",
+      "cn": "我听到不同的教练、不同的足协在谈论，哦，总统打了这个电话、那个电话。不。什么事都想掺和，我并不惊讶。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Doesn't surprise him. Good morning, everyone. I'm Erica Hill, in for Audie Cornish. The U.S. has a huge World Cup showdown, of course, tonight with Belgium. And now, one of their stars will be on the pitch after FIFA on Sunday shocked the tournament by sidelining the suspension of U.S. soccer star Folarin Balogun, who was supposed to sit out due to that red card in the previous game. The suspension was supposedly not able to be reviewed.",
+      "cn": "这并不让他惊讶。大家早上好。我是埃里卡·希尔，代替奥迪·科尼什。美国队今晚当然有一场重要的世界杯对决，对阵比利时。现在，他们的一位球星将上场，因为国际足联在周日震惊了赛事，撤销了对美国足球明星弗拉林·巴洛贡的禁赛，他本应因上一场比赛中的红牌而停赛。该禁赛原本被认为不可复审。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "A source, however, tells CNN President Trump personally called FIFA's president to ask for a review. And then, a few days later, the penalty was set aside by an independent commission, citing an obscure FIFA rule. I believe it's Rule 27. Trump applauded the move on social media, posting, \"Thank you to FIFA for doing what was right and reversing a great injustice.\" Belgium's manager, meantime, compared the announcement to April Fool's Day.",
+      "cn": "然而，一位消息人士告诉CNN，特朗普总统亲自致电国际足联主席要求复审。然后，几天后，一个独立委员会引用了一条晦涩的国际足联规则取消了处罚。我相信是第27条规则。特朗普在社交媒体上赞扬了这一举动，发帖称：\"感谢国际足联做了正确的事，纠正了一个巨大的不公。\"与此同时，比利时主教练将这一宣布比作愚人节。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "RUDI GARCIA, BELGIUM HEAD COACH (through translator): I didn't realize that at FIFA headquarters, July 5th was the equivalent of April 1st in Europe. The Belgian Football Association isn't defending itself, nor is it defending the national team. It's defending football in general.",
+      "cn": "鲁迪·加西亚，比利时主教练（通过翻译）：我没有意识到在国际足联总部，7月5日相当于欧洲的4月1日。比利时足协不是在为自己辩护，也不是在为国家队辩护。它是在为足球辩护。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Joining me now in the group chat, Mario Parker, managing editor, economy and government at Bloomberg News; Joey Garrison, White House reporter, \"USA Today\"; and Eleanor Mueller, White -- White House reporter at \"Semafor.\" So, CNN, you know, according to the reporting, there's some reporting that Trump made a phone call. FIFA says this was an independent commission that made this decision.",
+      "cn": "现在加入我们群聊的是彭博新闻经济与政府执行编辑马里奥·帕克、《今日美国》白宫记者乔伊·加里森以及《Semafor》白宫记者埃莉诺·穆勒。那么，CNN，根据报道，有一些报道称特朗普打了一个电话。国际足联表示，这是一个独立委员会做出的决定。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Eleanor, what are you hearing this morning? ELEANOR MUELLER, WHITE HOUSE REPORTER, \"SEMAFOR\": Well, it's on brand for Trump, right? To take issue with something and believe he can change it. We know that Howard Lutnick, the commerce secretary, was involved in this talks. He -- he's this type of guy. He's the let me call them. Let me talk to them. Let me see what I can do. And it also, I mean, is proof, I think, of this relationship between Trump and the FIFA president.",
+      "cn": "埃莉诺，你今天早上听到了什么？埃莉诺·穆勒，白宫记者，\"塞马福\"：嗯，这很符合特朗普的风格，对吧？对某事有意见，并相信他能改变它。我们知道商务部长霍华德·卢特尼克参与了这些谈判。他 --  -- 他就是那种人。他是那种\"让我给他们打电话，让我和他们谈谈，让我看看我能做什么\"的人。而且，我认为这也证明了特朗普与国际足联主席之间的关系。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The FIFA president created this FIFA Peace Prize to give to Trump when he was upset about not getting the Nobel Peace Prize. And so, in some ways, this makes a lot of sense. Of course, that doesn't change the fact that it is precedent-shattering.",
+      "cn": "国际足联主席设立了国际足联和平奖，在特朗普因未获诺贝尔和平奖而不满时颁给了他。所以，从某种程度上说，这很有道理。当然，这并没有改变一个事实，那就是这开创了先例。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It is -- it was remarkable, I will say, Mario, that so much of what we have seen so far in the tournament, the president didn't seem to be all that interested. It felt delightfully nonpolitical. Are those days now over, Mario?",
+      "cn": "马里奥，我要说的是，到目前为止，我们在比赛中看到的大部分内容，总统似乎并不那么感兴趣。这感觉非常非政治化，令人愉快。马里奥，那些日子现在结束了吗？"
+    },
+    {
+      "speaker": "Mario Parker",
+      "text": "Yes, those days are over. It was only a matter of time, right? I mean, we're two weeks or three weeks out from when the president visited the NBA finals in New York, for example, as well. We know that the president hosted a UFC fight on the White House grounds. He's a sports aficionado. The fact that this call was controversial, it did allow for the president. It gave the president an opportunity to kind of put his finger on the scale.",
+      "cn": "是的，那些日子结束了。这只是时间问题，对吧？我的意思是，比如，总统访问纽约的NBA总决赛也是两三周前的事了。我们知道总统在白宫场地主持了一场UFC比赛。他是个体育爱好者。这个电话有争议，但它确实让总统有机会施加影响。"
+    },
+    {
+      "speaker": "Mario Parker",
+      "text": "Now, obviously, some of the -- the criticism that we've heard from opponents are that this is a bad precedent that could be set, but also whether or not the U.S. wins, whether the -- whether the U.S. wins tonight or not, they may have an asterisk now, just based off of this action.",
+      "cn": "现在，显然，我们听到对手的一些批评是，这可能开创一个不好的先例，而且无论美国队今晚是否获胜，他们现在可能都会有一个星号，仅仅基于这一行动。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "In terms of that asterisk, it's interesting, I think, some of the comments that we heard from fans. I mean, certainly, we heard, you know, coaches, managers speaking out here, but CNN spoke to some fans, as well. Just take a listen to their take.",
+      "cn": "关于那个星号，我认为我们听到的一些球迷评论很有趣。当然，我们听到了教练、经理的发言，但CNN也采访了一些球迷。听听他们的看法。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "You really want to hope that that's not the case. But with all the rumors about the FIFA president going around and the fact that Trump's got his nose in everything, I wouldn't be surprised.",
+      "cn": "你真的希望情况不是这样。但考虑到关于国际足联主席的各种传言，以及特朗普插手一切的事实，我不会感到惊讶。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Everybody gets a red card. Everybody has the right to go to the president and ask for help. I don't know.",
+      "cn": "每个人都会得到一张红牌。每个人都有权去找总统寻求帮助。我不知道。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Maybe this is a favored nation.",
+      "cn": "也许这是一个受偏爱的国家。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "You know, we look at -- when we look at where we are at, Joey, you know, Mario mentioned, like, there is a question of whether this taints things. How does the White House look at this? Is this exactly the outcome that they may have wanted, that President Trump would want? To be able to say, oh, I picked up the phone? JOEY GARRISON, WHITE HOUSE REPORTER, \"USA TODAY\": Well, I think President Trump certainly enjoys that narrative; that maybe he did have something to do with this -- this change.",
+      "cn": "你知道，当我们审视我们现在的处境时，乔伊，马里奥提到，有一个问题是这是否会玷污事情。白宫如何看待这一点？这是否正是他们可能想要的结果，特朗普总统想要的结果？能够说，哦，我打了电话？乔伊·加里森，白宫记者，\"今日美国\"：嗯，我认为特朗普总统当然喜欢这种说法；也许他确实与这个改变有关。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "You know, the White House, or a U.S. official says that the right outcome was ultimately picked here. Officials who talked to me said that Trump simply wanted to, quote, \"better understand\" the rules for FIFA when it comes to appeals during the World Cup. But it's hard not to think that Trump's call to the FIFA president played a role. But -- but yes, I mean, as -- as others have said here, I mean, Trump loves nothing better to -- than to use his contacts and to show that he can get a quick result.",
+      "cn": "你知道，白宫或一位美国官员表示，最终选出了正确的结果。与我交谈的官员表示，特朗普只是想要\"更好地了解\"国际足联在世界杯期间关于申诉的规则。但很难不认为特朗普给国际足联主席的电话起了作用。但是 --  -- 但是是的，我的意思是，正如其他人在这里所说，特朗普最喜欢的就是利用他的人脉，并展示他能迅速取得结果。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "But yes, it's enraged Belgium in the process. And if the U.S. does win, you know, I think you're going to see that ramped up further, especially if he were to score a goal tonight.",
+      "cn": "但没错，这一过程激怒了比利时。如果美国真的赢了，我认为你会看到这种情况进一步加剧，尤其是如果他今晚进球的话。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "We will be watching to see. Much more to come ahead this morning on CNN THIS MORNING. Mourners lining the streets in Iran. CNN is on the ground in Tehran for the funeral procession of Iran's late supreme leader. Plus, House Speaker Mike Johnson has a new plan to get Trump's SAVE Act across the finish line. But can he actually get everyone on board? And a Delta flight hit by fireworks on Saturday as it landed at Chicago Midway. Air traffic controllers say there had been multiple reports of similar incidents.",
+      "cn": "我们将拭目以待。今天早上CNN THIS MORNING还有更多内容。哀悼者挤满了伊朗的街道。CNN在德黑兰现场报道伊朗已故最高领袖的葬礼队伍。此外，众议院议长迈克·约翰逊有一个新计划，要让特朗普的《拯救法案》通过终点线。但他真的能让所有人都同意吗？还有，周六一架达美航空航班在芝加哥中途机场降落时被烟花击中。空中交通管制员表示，此前已有多次类似事件的报告。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The FAA now investigating.",
+      "cn": "美国联邦航空管理局正在调查。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Tower, we just had a firework hit our plane. We're just hoping it was just a mortar that went off underneath, but definitely felt a big bang.",
+      "cn": "塔台，我们刚刚被烟花击中了飞机。我们只希望是下面有迫击炮爆炸，但确实感觉到了一声巨响。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Eleven minutes past the hour. Now here's your morning roundup. President Trump preparing for his trip to Turkey for a critical NATO summit as the alliance faces continued stress over the Ukraine war, simmering tensions in the Middle East, and Trump's repeated attacks on allies and the alliance itself for not supporting the war with Iran. Trump is set to meet with Ukraine's president on the sidelines of the conference.",
+      "cn": "现在是整点过11分。以下是你的早间简报。特朗普总统正准备前往土耳其参加一次关键的北约峰会，而此时联盟正面临乌克兰战争带来的持续压力、中东紧张局势的升温，以及特朗普反复抨击盟友和联盟本身不支持对伊朗的战争。特朗普将在会议间隙与乌克兰总统会面。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "LaGuardia Tower, mayday, mayday, mayday! The plane down on the water.",
+      "cn": "拉瓜迪亚塔台，求救，求救，求救！飞机落水了。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "A small seaplane making a hard landing in New York's East River on Sunday. Officials say eight people were removed from the aircraft by first responders. Just two suffered minor injuries. The FAA is now investigating. Repairing the Lincoln Memorial Reflecting Pool is now expected to cost taxpayers upwards of $16 million. That is, of course, ballooning from the initial estimate of under $2 million.",
+      "cn": "周日，一架小型水上飞机在纽约东河硬着陆。官员称，急救人员将八人从飞机中救出。只有两人受轻伤。美国联邦航空管理局正在调查。修复林肯纪念堂倒影池预计将花费纳税人高达1600万美元。这当然比最初估计的不到200万美元大幅增加。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Trump had pledged to restore the pool in time for the nation's 250th birthday, but shortly after, the bottom was repainted American flag blue, the green algae returned. Pieces of the coating began peeling off the bottom. Interior Secretary Doug Burgum told CNN, though, he's 100 percent sure vandals caused all that damage.",
+      "cn": "特朗普曾承诺在建国250周年之际修复该池，但不久后，池底被重新漆成美国国旗蓝色，绿藻又回来了。涂层碎片开始从池底剥落。不过，内政部长道格·伯古姆告诉CNN，他百分之百确定是破坏者造成了所有损坏。"
+    },
+    {
+      "speaker": "Doug Burgum",
+      "text": "This is, like, a strong material, and it's the size of eight football fields. And the only way you can end up with actual slices in one spot and not the other, is that someone physically cut it.",
+      "cn": "这是一种坚固的材料，面积有八个足球场那么大。而你能在一个地方而不是另一个地方看到实际切口，唯一的原因就是有人故意切割了它。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The administration has not offered evidence to support that claim, but despite being asked multiple times. Burgum says the contractors will finish the repairs, noting they did a, quote, \"fantastic job.\" After the break here on CNN THIS MORNING, Taylor and Travis, of course, have said their \"I do's\" now. The dress, the guest list, who caught the bouquet. The new details we have for you this morning.",
+      "cn": "政府并未提供证据支持这一说法，尽管多次被问及。伯古姆表示，承包商将完成维修，并指出他们做得\"非常出色\"。在CNN《今晨》节目广告之后，当然，泰勒和特拉维斯现在已互道\"我愿意\"。婚纱、宾客名单、谁接到了捧花。今早为您带来最新细节。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Plus, raucous fans, altitude, home team advantage, all of that adding up to a match for the ages between England and Mexico. And good morning, Baltimore. Sun starting to come up there. We hope it will peak through. See you back in a couple minutes.",
+      "cn": "此外，喧闹的球迷、高海拔、主场优势，所有这些共同造就了英格兰与墨西哥之间的一场世纪对决。早安，巴尔的摩。太阳开始升起。希望它能穿透云层。几分钟后见。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Well, now that it's official, Taylor Swift and Travis Kelce are newlyweds. Fans are still waiting for some more details about the wedding spectacle that took place inside Madison Square Garden. Some of the guests -- musicians, actors, athletes, and more -- are starting to share little tiny tidbits of their experiences on social media, including the sister of Kansas City Chiefs lineman Trey Smith, who revealed she caught Taylor's bouquet.",
+      "cn": "好了，现在已成定局，泰勒·斯威夫特和特拉维斯·凯尔西是新婚夫妇了。粉丝们仍在等待更多关于这场在麦迪逊广场花园举行的婚礼盛况的细节。一些宾客 --  -- 音乐人、演员、运动员等 --  -- 开始在社交媒体上分享他们经历的点滴，包括堪萨斯城酋长队前锋特雷·史密斯的妹妹，她透露自己接到了泰勒的捧花。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Fans already using that picture, of course, to go down deep in the rabbit hole, speculating on the color scheme of the wedding. All the things you can pull from that little bouquet. Kansas City Chiefs Coach Andy Reid, by the way, recounting to CNN what he thought was the most memorable moment of the night.",
+      "cn": "粉丝们当然已经开始利用那张照片深入探究，猜测婚礼的配色方案。所有你能从那束小花束中推断出的东西。顺便说一句，堪萨斯城酋长队教练安迪·里德向CNN讲述了他认为当晚最难忘的时刻。"
+    },
+    {
+      "speaker": "Andy Reid",
+      "text": "I would probably tell you, Adam Sandler doing a phenomenal job with the vows -- or the ceremony. And -- and just how he went about bringing a little bit of humor, but also some sensitivity to the -- to what was going on.",
+      "cn": "我可能会告诉你，亚当·桑德勒在主持誓词 --  -- 或者说仪式 --  -- 方面做得非常出色。而且 --  -- 而且他如何带入一点幽默，同时也带一些敏感度到 --  -- 到正在发生的事情中。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Joining me now, Brian West. He, of course, is the Taylor Swift reporter for \"USA Today.\" Brian, great to have you with us this morning, especially because you have some new details this morning about what went down, including a little Taylor karaoke during the night? BRIAN WEST, TAYLOR SWIFT REPORTER, \"USA TODAY\": Good morning, Erica. We do have some details that are coming out. And for something that has been shrouded in secrecy, especially among the guests, what's really interesting is kind of the flow.",
+      "cn": "现在加入我们的是布莱恩·韦斯特。他当然是《今日美国》的泰勒·斯威夫特记者。布莱恩，很高兴今早你能来，尤其是因为你有关于昨晚活动的一些新细节，包括当晚的泰勒卡拉OK环节？《今日美国》泰勒·斯威夫特记者布莱恩·韦斯特：早上好，埃里卡。我们确实有一些细节正在流出。对于一件一直笼罩在神秘之中的事情，尤其是在宾客之间，真正有趣的是流程。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, everybody saw that long line, the caravan of cars that was pulling up. As soon as guests entered, they went into these tents that you see there. The -- the workers pulled the tent behind them. They were able to walk up this area. I'm told that the esthetic was very peach, apricot, kind of a pink color. There were cutouts of Taylor and Travis on either side that were them, their entire ages. There was pictures of them as a couple.",
+      "cn": "所以，大家都看到了那长长的队伍，一列汽车驶来。宾客一进入，就走进你看到的那些帐篷里。工作人员把帐篷拉在他们身后。他们能够走上这个区域。我被告知，美学风格非常桃色、杏色，一种粉红色。两边有泰勒和特拉维斯的剪影，是他们整个年龄段的。还有他们作为情侣的照片。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "As they walked out into Madison Square Garden, though, we're told that it was intimate. It didn't feel like an arena or a stadium. Adam Sandler appeared as the officiant. They exchanged vows that were both funny and heartfelt. He offered his best piece of advice, being, of course, kiss often. Then afterwards, they went to the reception, which was in a different area. I'm told they couldn't tell which area of the floor that they were in. It was lush. There was greenery everywhere.",
+      "cn": "然而，当他们走进麦迪逊广场花园时，我们被告知氛围很私密。感觉不像一个竞技场或体育场。亚当·桑德勒作为主婚人出现。他们交换了既有趣又感人的誓言。他给出了最好的建议，当然是经常接吻。之后，他们去了招待会，在另一个区域。我被告知他们无法分辨自己在哪个区域。那里很奢华，到处都是绿植。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "There was arcade games where you could win tickets for raffles, for designer handbags, Cartier watches. There was also a lot of food there. Tall, five-foot story, illuminated trees. And then that's what I'm told, for the reception, that Taylor and Travis were up there. They were singing. Stevie Nicks perform. Paul McCartney performed. And then there was, of course, dancing and karaoke, inviting people like Sabrina Carpenter, Ice Spice on stage to come up and sing.",
+      "cn": "有街机游戏，可以赢取抽奖券，奖品是设计师手袋、卡地亚手表。还有很多食物。五英尺高的发光树。然后我被告知，在招待会上，泰勒和特拉维斯在上面唱歌。史蒂薇·尼克斯表演了。保罗·麦卡特尼表演了。然后当然还有跳舞和卡拉OK，邀请像萨布丽娜·卡彭特、冰辣妹这样的人上台唱歌。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "I mean, you've got quite the cast of characters to choose from for your karaoke. I'm just wondering if anybody did \"Islands in the Stream,\" because it's a classic. When you talk about -- I'm floored by the -- the carnival games where you could win a Cartier watch, a designer handbag. We had this list, almost a run of show, if you will, that was posted by AMC CEO Adam Aron, just literally going through everything that happened. And then that was quickly deleted.",
+      "cn": "我的意思是，你的卡拉OK有这么多角色可选。我只是想知道有没有人唱《溪流中的岛屿》，因为那是经典。当你谈到 --  -- 我被那些嘉年华游戏惊呆了，你可以赢卡地亚手表、设计师手袋。我们有一份清单，几乎可以说是流程表，由AMC首席执行官亚当·阿伦发布，逐项列出了发生的一切。然后它很快被删除了。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "How accurate do you think it was? And how much do you think this may have disrupted the actual rollout strategy from Taylor and Travis?",
+      "cn": "你认为它有多准确？你认为这在多大程度上可能打乱了泰勒和特拉维斯的实际发布策略？"
+    },
+    {
+      "speaker": "West",
+      "text": "So, I do think it was pretty accurate. Adam Aron is known for tweeting a lot. I think that is his favorite form of social media. And the fact that it was deleted is what is the most glaring. So, I imagine somebody maybe from her team or his team was like, hey, this needs to be deleted. But of course, in today's day and age of technology, once it's out there, everybody grabs it. And then that's what they cling onto. And something that has been completely secret. Not a lot of details have emerged.",
+      "cn": "所以，我确实认为它相当准确。亚当·阿伦以发推文多而闻名。我认为那是他最喜欢的社交媒体形式。而它被删除的事实是最引人注目的。所以，我猜想可能是她团队或他团队中的某个人说，嘿，这个需要删除。但当然，在当今科技时代，一旦它被发布出去，每个人都会抓住它。然后他们就紧抓着不放。而这件事一直是完全保密的。没有太多细节被透露出来。"
+    },
+    {
+      "speaker": "West",
+      "text": "And out of a thousand people guest list, that's pretty rare and amazing feat in and of itself. What I would say is just this was probably affecting the rollout strategy, especially because, you know, the photos and videos. I imagine that Taylor will release those when she's ready. Since it hasn't been so close to the Fourth, I'm wondering if it's not today, if they're going to hold onto it. Remember, the engagement photos were 13 days.",
+      "cn": "在千人的宾客名单中，这本身就是一个相当罕见且了不起的成就。我想说的是，这可能影响了发布策略，尤其是因为，你知道，那些照片和视频。我猜泰勒会在她准备好的时候发布它们。既然离国庆节这么近，我在想如果不是今天，他们会不会保留它。记住，订婚照是13天后发布的。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, maybe we'll have to wait 13 days, since I'm told that's her favorite number. It's hard to miss, though. AMC had this direct partnership, right, with Taylor Swift for the Eras Tour, right? The CEO was there. There were -- some of our correspondents spotted signs that there was filming in the area. The fact that we haven't even had a single picture. We've had one press release, essentially, from Taylor's team.",
+      "cn": "所以，也许我们要等13天，因为我听说那是她最喜欢的数字。不过，这很难错过。AMC与泰勒·斯威夫特在Eras巡演上有直接合作，对吧？CEO也在那里。有一些 --  -- 我们的一些记者发现该区域有拍摄的迹象。事实上，我们连一张照片都没有看到。我们基本上只看到泰勒团队发的一篇新闻稿。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Is this all building up to the wedding itself being packaged into some sort of a documentary? I mean, are we going to have to, you know, pay for this at Disney or Netflix or something?",
+      "cn": "这一切是否都在为婚礼本身打包成某种纪录片做准备？我的意思是，我们是不是得在迪士尼或Netflix上付费观看？"
+    },
+    {
+      "speaker": "West",
+      "text": "So, Swifties are already excited at the opportunity that could be a documentary, docuseries. I could also see this maybe being a music video. A lot of country stars do that. A lot of singers do that, where they take their wedding footage kind of on a montage. So, with Taylor, I could see her putting those together, maybe a 30- second clip. It is entirely possible, though, that she does, you know, turn this into a documentary. She did that with her concert, the Eras Tour.",
+      "cn": "所以，Swifties已经对可能成为纪录片或纪录剧集的机会感到兴奋。我也觉得这可能会是一个音乐视频。很多乡村歌手都这样做。很多歌手都这样做，他们把婚礼镜头做成蒙太奇。所以，对于泰勒，我可以想象她把那些剪辑在一起，可能是一个30秒的片段。不过，她完全有可能把它变成一部纪录片。她之前对她的演唱会Eras巡演就这么做过。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "All right, well, maybe we'll get a clip first, teasing to the full doc later on. Brian, good to have you. Thank you.",
+      "cn": "好吧，也许我们会先看到一个片段，之后才看到完整的纪录片。布莱恩，很高兴你来做客。谢谢。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Straight ahead here on CNN THIS MORNING, she was a candidate who wanted to find a lane between the far left and establishment Dems. Now, she is ending her bid for Senate. So, is there any room left in the middle for Democrats? Plus --",
+      "cn": "接下来在CNN《今晨》节目中，她曾是一位想在极左和建制派民主党之间找到中间路线的候选人。现在，她正在结束她的参议员竞选。那么，民主党在中间还有空间吗？另外 --  --"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "A red card is a red card. And if there's a rule that you miss a game, you miss a game.",
+      "cn": "红牌就是红牌。如果规则是你错过一场比赛，你就错过一场比赛。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It's a red card until it's not, apparently. The red card reversal heard round the world. Can Belgium do anything to fight the lifted ban? Plus, residents in D.C. experiencing the worst air quality in the world on Sunday, prompting a code red air quality alert from city officials. Why? Well, this 40 minutes of fireworks had a whole lot to do with it.",
+      "cn": "显然，红牌直到不是红牌为止。红牌撤销的消息传遍了世界。比利时能做些什么来对抗取消的禁令吗？另外，华盛顿特区的居民在周日经历了全球最差的空气质量，促使城市官员发布了红色空气质量警报。为什么？嗯，这40分钟的烟花有很大关系。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "The reversal is a little weird, and the timing is a little strange.",
+      "cn": "这个反转有点奇怪，时机也有点诡异。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "I'd be really annoyed if I was a Belgium fan. It's good for the USA, though.",
+      "cn": "如果我是比利时球迷，我会非常恼火。不过这对美国队来说是好事。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "As questions continue to swirl over just how U.S. soccer star Folarin Balogun was cleared to play, the U.S. coach is trying to steer the conversation back to where he wants it: to the game.",
+      "cn": "随着关于美国足球明星弗拉林·巴洛贡如何获准参赛的疑问持续发酵，美国队主教练正试图将话题引回他想要的方向：比赛本身。"
+    },
+    {
+      "speaker": "Pochettino",
+      "text": "We need to celebrate that we -- you know, I think it's fair, that decision not to punish more us, because I think it was enough. And now focus on the game.",
+      "cn": "我们需要庆祝 --  -- 你知道，我认为公平地说，那个不再进一步处罚我们的决定，因为我觉得已经够了。现在专注于比赛。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, FIFA's decision here means the Americans will, of course, get their leading scorer back for this pivotal Round of 16 showdown with Belgium tonight in Seattle. Balogun posting this image of himself, no caption, shortly after learning he would play. Meantime, the Royal Belgian Football Association said in a statement they are investigating all available legal -- or all potential legal options. Joining us now, Roger Bennett.",
+      "cn": "所以，国际足联的这项决定意味着，美国人当然会让他们的头号射手回归，参加今晚在西雅图与比利时的关键16强对决。巴洛贡在得知自己可以上场后不久，发布了这张自己的照片，没有配文。与此同时，比利时皇家足球协会在一份声明中表示，他们正在调查所有可用的法律 --  -- 或者说所有潜在的法律选项。现在连线罗杰·贝内特。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "He's the founder of Men in Blazers Media Network and author of the book \"We Are the World Cup: A Personal History of the World's Greatest Sporting Event.\" It's great to have you here. So, as I mentioned, you know, the Royal Belgian Football Association, they had also said they were astonished. Currently investigating all potential legal options. var CNN = CNN || {};",
+      "cn": "他是《西装男》媒体网络的创始人，也是《我们是世界杯：世界最大体育赛事的个人史》一书的作者。很高兴你能来。那么，正如我提到的，比利时皇家足球协会，他们也表示感到震惊。目前正在调查所有潜在的法律选项。"
+    },
+    {
+      "speaker": "Erica Hill",
+      "text": "Mentioned, you know, the Royal Belgian Football Association. They had also said they were astonished. Currently investigating all potential legal options. And then we just heard this morning from the United European Football Association, which governs -- is the governing body of soccer in Europe, \"expressing our disbelief in such an unprecedented, incomprehensible and unjustifiable decision.\" I mean, are there any other options, certainly any legal options, as the Royal Belgian Football Association is alluding to",
+      "cn": "提到，你知道，比利时皇家足球协会。他们也表示感到震惊。目前正在调查所有潜在的法律选项。然后我们今早刚刚听到欧洲足球协会联盟，也就是欧洲足球的管理机构，表示\"对这一前所未有、不可理解且不合理的决定表示难以置信\"。我的意思是，还有没有其他选项，当然包括法律选项，正如比利时皇家足球协会所暗示的那样？"
+    },
+    {
+      "speaker": "Erica Hill",
+      "text": "at this point?",
+      "cn": "在这一点上？"
+    },
+    {
+      "speaker": "Roger Bennett",
+      "text": "This is why we watch football, erica, because we love legislative courtroom drama. Now this is something that feels ripped from the",
+      "cn": "这就是我们看足球的原因，埃里卡，因为我们热爱立法法庭剧。现在这件事感觉像是从"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "You know, home cooking is the best cooking. I mean, it's totally unprecedented. And I'm kind of torn between being an American fan, despite my accent, I love this nation like Kenny Powers loves this nation. And as an American fan, emotionally, I'm like, this is the greatest thing ever. And as a rational fan of the football and the World Cup as an integral operation with rules and regulations in which it seems almost outlandish, insane that this man has been cleared.",
+      "cn": "你知道，家常菜是最好的菜。我的意思是，这完全是史无前例的。我有点纠结，作为一个美国球迷，尽管我有口音，但我爱这个国家，就像肯尼·鲍尔斯爱这个国家一样。作为一个美国球迷，情感上，我觉得这是有史以来最棒的事。而作为一个理性的足球和世界杯球迷，将其视为一个有规则和规章的整体运作，这个人被获准参赛似乎几乎荒谬、疯狂。"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "The very last because of, as a \"New York Times\" is reporting, a White House phone call to the head of FIFA to repeal a ban that has no right to appeal against. So, our -- our great goal scorer is free on the eve of probably the biggest game in modern U.S. men's national team football history. And it feels great for many American fans.",
+      "cn": "最后这一点，据《纽约时报》报道，是因为白宫给国际足联主席打了电话，要求撤销一项不可上诉的禁令。于是，我们伟大的射手在美国男足现代史上可能最重要的一场比赛前夕获得了自由。这对许多美国球迷来说感觉棒极了。"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "We do have to ask ourselves, Erica, if it was the other way around, if we were playing France and Macron had put the call in to get Mbappe, their best striker, ready to play, or Saudi Arabia or Qatar had done something, how would we feel? And the crazy thing is, the U.S. were doing so well in this tournament. We were playing so well. There was an element that going into battle today with Belgium, not like this. This is going to scare and stain the U.S. journey in the long term forever.",
+      "cn": "我们确实要问问自己，埃丽卡，如果情况反过来，如果我们对阵法国，马克龙打电话让他们的最佳前锋姆巴佩上场，或者沙特阿拉伯或卡塔尔做了类似的事，我们会怎么想？疯狂的是，美国队在这届赛事中表现如此出色。我们踢得那么好。今天与比利时一战，本不该是这样的。这将在长期内永远给美国队的征程蒙上阴影和污点。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes. You're not the first to say. It's basically -- it's going to be an asterisk no matter what happens. When we look at the matchup for tonight, Belgium, of course, beat the U.S. in a friendly, 5-2, back in March. What do you think the U.S.' chances are?",
+      "cn": "是的。你不是第一个这么说的人。基本上，无论发生什么，这都会成为一个污点。当我们看今晚的对阵时，比利时当然在3月份的一场友谊赛中以5-2击败了美国。你认为美国队的机会有多大？"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "This is a game with an echo in history. In 2014, in Brazil, the United States played at the same stage, Belgium. They were then at their peak. This was a game many viewers may remember. It's the Tim Howard game when he played his lights out, the most saves ever in a -- in a World Cup game. We lost in agony at the end. Unbelievably, four of the Belgian players are still the core of their team. They're now an aging core. They're like a crime caper. Old guys coming back for one more crime.",
+      "cn": "这场比赛在历史上有回响。2014年在巴西，美国队在同一阶段对阵比利时。当时比利时处于巅峰。许多观众可能还记得那场比赛。那是蒂姆·霍华德的比赛，他发挥神勇，创造了世界杯单场扑救纪录。我们最后痛苦地输掉了比赛。难以置信的是，比利时队中仍有四名球员是核心，但他们现在年龄偏大。就像一场犯罪大戏，老家伙们回来再干一票。"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "So, it's veteran experience against this young, very athletic United States team with Flo Balogun asterisk. And I do believe this is the agony for me. I thought the U.S. were going to win this whatever this major, major game, get through this stage, round of 16 in which we traditionally stumble. But it's going to be a matchup with extra layers, football, intrigue, courtroom drama and that geopolitical level over the top of it. The World Cup contains multitudes.",
+      "cn": "所以，这是老将经验对阵这支年轻、运动能力极强的美国队，再加上弗洛·巴洛贡的污点。我相信这对我来说是痛苦的。我原以为美国队会赢下这场重大比赛，通过这个我们传统上会跌倒的16强阶段。但这将是一场多层次的较量，涉及足球、阴谋、法庭剧，以及地缘政治层面。世界杯包罗万象。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes, it certainly does. It had felt delightfully non-political up until this point. We'll see if we can maintain that. Before I let you go, as you noted, huge U.S. soccer fan. But we do hear your accent. So, let's talk a little England-Mexico, if we could. I admitted to you in the break, I had to go to bed because I had to get up for this show. I am guessing, though, you stayed up late and watched it all.",
+      "cn": "是的，确实如此。在此之前，它一直令人愉快地非政治化。我们看看能否保持这一点。在你走之前，正如你所说，你是美国足球的超级粉丝。但我们确实听出了你的口音。所以，我们聊聊英格兰对墨西哥吧。我在休息时向你承认，我不得不去睡觉，因为我得起床准备这个节目。不过我猜你熬夜看完了全部比赛。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "How are you feeling this morning?",
+      "cn": "你今天早上感觉如何？"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "How am I feeling? We'll sleep after the final in two weeks' time.",
+      "cn": "我感觉如何？两周后决赛结束我们再睡吧。"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "This is one that -- this is one of the greatest World Cups of my lifetime. As you say, it's been the people's World Cup. Just a World Cup of wonder. Off the field, the world falling in love with America again. America falling in love with global football. The game last night in the Azteca, England going to this kind of \"Game of Thrones\" fortress, high altitude, smog. The most intimidating venue in world football. And somehow emerging barely intact with a victory. You're watching football.",
+      "cn": "这是我一生中最伟大的世界杯之一。正如你所说，这是人民的世界杯。一个奇迹的世界杯。场外，世界重新爱上美国。美国爱上全球足球。昨晚在阿兹特克球场的比赛，英格兰进入了这个\"权力的游戏\"般的堡垒，高海拔、烟雾弥漫。这是世界足坛最令人生畏的场地。但他们几乎完好无损地带着胜利离开。你在看足球。"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "I know, as we watch it, Erica, that it will be talked about for generations. It's that beautiful. We're watching it played out before our eyes. It is like the odyssey, a Greek epic poem. And God bless the English. They were up all night. In England time, they're normally hungover. They kept drinking, kept powering through. And this World Cup is just a human gift.",
+      "cn": "我知道，埃丽卡，当我们观看时，这场比赛将被几代人谈论。它如此美妙。我们亲眼目睹它上演。就像奥德赛，一部希腊史诗。上帝保佑英格兰人。他们整夜未眠。按英国时间，他们通常宿醉未醒。他们一直喝酒，一直坚持。这届世界杯就是一份人类的礼物。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It's great. I mean, that's how you power for the hangover, right, you just got to keep going.",
+      "cn": "太棒了。我的意思是，这就是你克服宿醉的方法，对吧，你只需要继续前进。"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "There -- again, Erica, you're giving out tips to all your viewers.",
+      "cn": "你看，埃里卡，你又给观众们支招了。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It's an important lesson from the Brits. You know, we're here to help on so many levels at CNN THIS MORNING. All the information you need to start your day and your week.",
+      "cn": "这是来自英国人的重要经验。你知道，我们在《CNN今晨》节目中从多个层面提供帮助。你开始新一天和新一周所需的所有信息。"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "Well played. Well played.",
+      "cn": "说得好。说得好。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Roger, it's great to have you with us. Thank you.",
+      "cn": "罗杰，很高兴你能来。谢谢。"
+    },
+    {
+      "speaker": "Bennett",
+      "text": "You too. Courage. Thank you.",
+      "cn": "也谢谢你。勇气。谢谢。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Just a reminder, you can check out Roger's book, \"We Are the World Cup: A Personal History of the World's Greatest Sporting Event.\" Well, while the country was celebrating 250 years over the weekend, a crowd of masked members of the white nationalist group Patriot Front marched through D.C. Patriot Front is considered one of the most active white nationalist groups in the country. Members were heard chanting \"life, liberty, victory and reclaim America.\" Some of them carrying confederate flags.",
+      "cn": "提醒一下，你可以看看罗杰的书《我们是世界杯：世界最大体育赛事的个人史》。就在这个国家庆祝250周年之际，一群蒙面的白人至上主义组织\"爱国阵线\"成员在华盛顿游行。爱国阵线被认为是美国最活跃的白人至上主义组织之一。可以听到成员们高喊\"生命、自由、胜利，夺回美国\"。其中一些人还举着邦联旗。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "There's also this photo we're about to show you. This photo, which has gone viral. It shows a young African American woman sitting on the subway, surrounded by members of the group. The group chat is back with us. This photo, I mean, you talk about a photo that is worth a thousand words. There is so much in that. I know, Mario, you told us, you know, we always ask our guests what's going to be in your -- in your group chat for later in the show. This was in your group chat.",
+      "cn": "还有这张我们即将展示的照片。这张照片已经疯传。照片中，一位年轻的非裔美国女性坐在地铁上，被该组织成员包围。我们的群聊又回来了。这张照片，我的意思是，一张照片胜过千言万语。其中蕴含了太多信息。我知道，马里奥，你告诉我们，我们总是问嘉宾稍后会在群聊里聊什么。这张照片就在你的群聊里。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "What was the conversation? MARIO PARKER, MANAGING EDITOR, ECONOMY/GOVERNMENT, \"BLOOMBERG NEWS\": Absolutely. Well, first of all, my cousin sent it to me on Saturday after I turned my face away from my phone. My mother yesterday was talking about it too as well. Both African American women. Not lost on me at all. Just speaking about kind of the dissonance that we see here.",
+      "cn": "聊了什么？马里奥·帕克，《彭博新闻》经济/政府版块执行编辑：当然。首先，我表弟周六在我把脸从手机上移开后发给了我。我妈妈昨天也在谈论这件事。她们都是非裔美国女性。我完全理解。只是谈论我们在这里看到的那种不协调感。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Just so much captured in this photo, the courage of the young woman just standing -- sitting there, if you will, the posture that she has, as my mother mentioned, ten toes firmly down to the ground there. And just the iconic -- the iconic part of this photo. I mean it kind of harkens back to, on this 250th anniversary of our country, harkens back to so many other photos that we've seen throughout history as well.",
+      "cn": "这张照片捕捉到了太多东西，那位年轻女性的勇气 --  -- 只是坐在那里，如果你愿意的话，她的姿态，正如我妈妈提到的，十只脚趾牢牢地踩在地上。还有这张照片的标志性意义。我的意思是，它让人回想起，在我们国家250周年之际，让人回想起历史上我们见过的许多其他照片。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "And so, it just resonated with my family, my friends, and just resonated throughout my group chat as well right there.",
+      "cn": "所以，这在我的家人、朋友中引起了共鸣，也在我的群聊中引起了共鸣。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "And understandably. There were also, you know, the questions about what this represents. My colleague, Dana Bash, yesterday, she asked Interior Secretary Doug Burgum if he would recommend to the president that he condemn this group. This again, white nationalist group. Here's his response.",
+      "cn": "可以理解的是，也有人质疑这代表什么。我的同事达娜·巴什昨天问内政部长道格·伯古姆，他是否会建议总统谴责这个团体 --  -- 再次强调，这个白人至上主义团体。以下是他回应。"
+    },
+    {
+      "speaker": "Doug Burgum",
+      "text": "A part of my response to that is that there are protests on The Mall that people say things that I think are reprehensible about President Trump, and yet they're allowed to go on because of free speech in our country.",
+      "cn": "我对此的部分回应是，在国家广场上有抗议活动，人们说了一些我认为对特朗普总统应受谴责的话，但由于我们国家的言论自由，他们被允许继续。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "So, it's tough to forget that in the wake of the assassination of Charlie Kirk, President Trump actually issued a presidential memorandum, and he directed the National Joint Terrorism Task Force to focus on, in his words, \"domestic terrorists whose common ideologies include anti-Americanism, anti-capitalism, anti-Christianity.\" You have masked -- masked, it's important to note -- white nationalists marching through the capital. Confederate flags.",
+      "cn": "所以，很难忘记在查理·柯克遇刺后，特朗普总统实际上发布了一份总统备忘录，他指示国家联合反恐工作组重点关注，用他的话来说，\"意识形态包括反美、反资本主义、反基督教的国内恐怖分子\"。你们有蒙面 --  -- 重要的是要注意 --  -- 蒙面的白人至上主义者穿过首都。邦联旗。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "The administration, Eleanor, is saying this is protected free speech. Is there a double standard?",
+      "cn": "埃莉诺，政府说这是受保护的言论自由。是否存在双重标准？"
+    },
+    {
+      "speaker": "Eleanor Mueller",
+      "text": "It's a fantastic question. And I think it's unfortunate that Congress is out for the next week because I think a lot of people would have liked to hear what Republicans in the House and the Senate would have had to say. I'm sure that some of them would have taken this line that the interior secretary took, said that it was free speech and that there was nothing the administration could do. But I am also sure that we would have seen others denounce this group and what it stands for.",
+      "cn": "这是个很好的问题。我认为不幸的是国会下周休会，因为我想很多人会想听听众议院和参议院的共和党人会怎么说。我确信他们中的一些人会采取内政部长的立场，说这是言论自由，政府无能为力。但我也确信我们会看到其他人谴责这个团体及其所代表的东西。"
+    },
+    {
+      "speaker": "Eleanor Mueller",
+      "text": "I was on The Mall with the president on Saturday night. I saw the folks in attendance. Mostly supporters, right? I think Trump has very purposefully turned this 250th anniversary of America into a partisan exercise, a political exercise. And, you know, clearly, the participants in this march, these -- the members of this white supremacy group have felt comfortable coming forward amid that context. And so, whether or not we see further comments, further weighing in from the White House, I think, remains to be seen.",
+      "cn": "周六晚上我和总统在国家广场。我看到了在场的人。主要是支持者，对吧？我认为特朗普非常刻意地将美国建国250周年纪念变成了一场党派活动、一场政治活动。而且，显然，这次游行的参与者，这些白人至上主义团体的成员，在这种背景下感到自在地站出来。所以，无论我们是否看到白宫进一步的评论或表态，我认为还有待观察。"
+    },
+    {
+      "speaker": "Eleanor Mueller",
+      "text": "But either way, it speaks volumes that, again, these are people who have felt comfortable coming out and being part of the celebration on Saturday given that Trump has made it so much about himself and his role in American exceptionalism.",
+      "cn": "但无论如何，这充分说明，这些人感到自在地站出来并成为周六庆祝活动的一部分，因为特朗普把这一切都与他本人及其在美国例外论中的作用紧密联系在一起。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It's interesting they feel comfortable coming out, but, Joey, do not feel comfortable showing their faces. How much do you think this could potentially continue to be a part of the conversation in Washington? Do you see some lawmakers picking this up? You know, as Eleanor noted, Congress out of session at this point, but do you think we'll hear more about it into the week? JOEY GARRISON, WHITE HOUSE REPORTER, \"USA TODAY\": Yes, I mean, I think we could.",
+      "cn": "有趣的是，他们感到自在地站出来，但乔伊，他们却不敢露脸。你认为这在多大程度上可能继续成为华盛顿讨论的一部分？你看到一些议员会提起这件事吗？你知道，正如埃莉诺所说，国会目前休会，但你认为本周我们会听到更多关于这件事的消息吗？《今日美国》白宫记者乔伊·加里森：是的，我认为有可能。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "I mean it was very striking that, you know, Washington, D.C., is a very diverse city. And people -- these white nationalists were marching in the Capitol Hill neighborhoods as they went towards the National Mall. And, you know, 250 years after the founding of this country, I think the images that we saw, particularly the really pointed image in the metro subway car, just shows how many in this country don't accept the multiculturalism that we have become.",
+      "cn": "我的意思是，非常引人注目的是，华盛顿特区是一个非常多元化的城市。而这些白人至上主义者穿过国会山社区前往国家广场。而且，在这个国家建国250年后，我认为我们看到的画面，特别是地铁车厢里那张非常尖锐的照片，只是表明这个国家有多少人不接受我们已经形成的多元文化主义。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "And so, I think it does start a larger conversation as we move into this week.",
+      "cn": "因此，我认为随着我们进入本周，这确实开启了一场更广泛的讨论。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Yes. One could hope that it would, right, about what is actually acceptable, what is not, and what it means to be an American.",
+      "cn": "是的。人们可以希望如此，对吧，关于什么才是真正可接受的，什么不是，以及作为美国人意味着什么。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "It's good to have all of you with us for that chat. Much more ahead here on CNN THIS MORNING. President Trump reviewing Republicans line -- previewing, rather, the Republican line of attack heading into the midterms.",
+      "cn": "很高兴大家能和我们一起讨论。CNN《今晨》节目还有更多内容。特朗普总统正在审查共和党的路线 --  -- 更确切地说，是预览共和党在中期选举前的攻击路线。"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "America will never be a communist country.",
+      "cn": "美国永远不会成为一个共产主义国家。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Democrats say they're a big tent. Says it include candidates that the president is now trying to label as communists. I'll ask Democratic Congressman Greg Landsman about that next. And also, take a look at this. Lava spewing into the sky in Sicily. Mount Etna erupting right now.",
+      "cn": "民主党人说他们是一个大帐篷。他们说这包括总统现在试图贴上共产主义标签的候选人。接下来我将就此询问民主党众议员格雷格·兰兹曼。另外，看看这个。西西里岛的岩浆喷向天空。埃特纳火山正在喷发。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "A massive funeral procession for Iran's supreme leader, Ali Khamenei, underway in Tehran at this hour. This is the third, the largest day of public mourning. CNN's Frederik Pleitgen is in Tehran, inside that very loud, crowded procession. Just a reminder, of course, CNN operates in Iran with the permission of the government but maintains full editorial control of its reports. (BEGIN VIDEOTAPE)",
+      "cn": "伊朗最高领袖阿里·哈梅内伊的盛大葬礼队伍此刻正在德黑兰进行。这是第三天，也是公开哀悼规模最大的一天。CNN的弗雷德里克·普莱特根在德黑兰，身处那个非常喧闹拥挤的队伍中。当然，提醒一下，CNN在伊朗经政府许可运营，但对其报道保持完全的编辑控制权。（开始录像带）"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "This is truly a historic moment that we're witnessing here in Tehran as scores of people have come out to commemorate Iran's late supreme leader, Ayatollah Ali Khamenei, who, of course, was killed in a U.S.-Israeli airstrike along with several family members at the beginning of the U.S. and Israel's war against Iran. And as you can see, on the ground here there is a lot of sorrow, but there is also a lot of anger.",
+      "cn": "这确实是一个历史性时刻，我们在德黑兰目睹了无数人前来悼念伊朗已故最高领袖阿亚图拉·阿里·哈梅内伊，他当然是在美国和以色列对伊朗战争开始时，与几名家人一起在美国和以色列的空袭中丧生。正如你所见，这里有很多悲伤，但也有很多愤怒。"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "The chants of \"death to America,\" we're hearing right now, and \"death to Israel\" have been going on almost nonstop, with people vowing revenge against the United States. UNIDENTIFIED FEMALE (through translator): We have come here to seek the revenge for the blood of our leader and we will not abandon this goal for a second. We will continue until we take the revenge from the killer of our leader.",
+      "cn": "我们听到的\"美国去死\"和\"以色列去死\"的口号几乎不停歇，人们发誓要对美国进行报复。身份不明的女性（通过翻译）：我们来这里是为了寻求为我们领袖的血复仇，我们一秒也不会放弃这个目标。我们将继续直到我们从杀害我们领袖的人那里复仇。"
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "Of course, we always have to point out that everybody is mourning today. Not everybody is out here. There are people who are deeply opposed to the rule of Ayatollah Ali Khamenei. But as you can see here, right now, the government has galvanized its supporters. They have come out here en masse. And the message that they're sending, of course, is also directed at the United States. That if negotiations fail, Iran is ready for another fight.",
+      "cn": "当然，我们必须指出，今天每个人都在哀悼。但不是所有人都在这里。有些人强烈反对阿亚图拉·阿里·哈梅内伊的统治。但正如你现在所见，政府已经动员了其支持者。他们大量涌出。他们传递的信息当然也针对美国：如果谈判失败，伊朗已准备好再次战斗。"
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "Now, these processions are going to go on for another several days and then culminate when the supreme leader is laid to rest in the city of Mashhad in eastern Iran. Fred Pleitgen CNN, Tehran. (END VIDEOTAPE)",
+      "cn": "现在，这些游行将持续数天，最终在最高领袖安葬于伊朗东部马什哈德市时达到高潮。CNN的弗雷德·普莱特根，德黑兰报道。（结束录像带）"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Well, President Trump has made it clear he's putting his elections overhaul bill above everything else on Capitol Hill right now",
+      "cn": "特朗普总统已明确表示，他将选举改革法案视为当前国会山最重要的事务。"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "We want to keep America great, and we will do so by approving the SAVE America Act, which means all voters must show voter I.D.. You won't have cheating on the elections anymore. It's very simple",
+      "cn": "我们希望保持美国的伟大，而通过《拯救美国法案》就能实现这一点，这意味着所有选民必须出示选民身份证。选举中就不会再有作弊行为。这非常简单。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Now, House Speaker Mike Johnson says he's got a plan to save the SAVE Act again after sending Congress home early for the July 4th recess. REP. MIKE JOHNSON (R-LA): I just decided it was best to send everybody home to go celebrate July 4th in their districts. We'll come back, gather everybody together. The big urgency is to get SAVE America passed. The president has that as a top priority, and so do I. We've passed it three times in the House.",
+      "cn": "众议院议长迈克·约翰逊表示，在国会因7月4日休会提前放假后，他有一个计划来再次拯救《拯救法案》。共和党众议员迈克·约翰逊说：\"我只是决定最好让大家回家庆祝7月4日独立日。我们会回来，把所有人召集起来。当务之急是通过《拯救美国法案》。总统将其列为最高优先事项，我也是。我们已经在众议院通过了三次。\""
+    },
+    {
+      "speaker": "Hill",
+      "text": "We're going to try one more time on a budget reconciliation bill, and I think that will be the way to get it through the Senate and finally to the president's desk.",
+      "cn": "我们将再次尝试通过预算和解法案，我认为这将使其在参议院获得通过，并最终送到总统的办公桌上。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Joining me now to discuss, Democratic Congressman Greg Landsman of Ohio. Congressman, nice to have you with us this morning. So, the House, of course, is out until next week. Then you have eight legislative days until another five-week recess. What are the chances that the speaker is going to be able to cobble together enough Republicans to get another reconciliation bill through? REP. GREG LANDSMAN (D-OH): I doesn't look great. I mean, you know, they are now fighting with each other.",
+      "cn": "现在请来俄亥俄州民主党众议员格雷格·兰兹曼进行讨论。众议员，很高兴今天早上能邀请到您。众议院当然要到下周才复会。然后你们有八个立法日，之后又是五周的休会期。议长有多大可能凑齐足够多的共和党人，让另一项和解法案通过？俄亥俄州民主党众议员格雷格·兰兹曼说：\"看起来不太乐观。我的意思是，他们现在正在互相争斗。\""
+    },
+    {
+      "speaker": "Hill",
+      "text": "He has a hard time getting anything onto the floor. I mean, the Congress has been shut down, essentially, many, many times this session. So, I think it's low. But, you know, the -- if Trump wants this bill, which has nothing to do with health care or schools or utility bills or what Americans are dealing with every day, just voter suppression, he'll probably get it, though it's not going to pass the Senate. They don't -- they don't have the votes.",
+      "cn": "他很难把任何法案提交到议事日程上。我的意思是，国会在本届会期中基本上已经多次停摆。所以，我认为可能性很低。但是，如果特朗普想要这项与医疗、学校、水电费或美国人日常事务无关、只是压制选民的法案，他可能会得到它，尽管它不会在参议院通过。他们没有足够的票数。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "What are your conversations behind the scenes? I'm not asking for names. But I'm always curious, what are the conversations with your colleagues across the aisle about this concerted effort by the president, which the speaker has, of course, picked up and is running with, to focus solely on this bill?",
+      "cn": "你们在幕后进行了哪些对话？我不是要问名字。但我一直很好奇，你和你的跨党派同事之间，关于总统和议长全力推动这项法案的对话是怎样的？"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "Yes, they don't like it. I mean they all have priorities that they're working on. A lot of it has to do with their districts, things that they care about. This is not top of mind for any of their constituents. No one is focused on this. They're focused on housing. For example, we got this bipartisan housing bill done to, you know, accelerate the production, the building of new housing to bring the cost of housing down.",
+      "cn": "是的，他们不喜欢它。我的意思是，他们都有自己的优先事项。很多都与他们的选区有关，是他们关心的事情。这对他们的选民来说并不是首要问题。没有人关注这个。他们关注的是住房。例如，我们完成了两党住房法案，以加速新房建设，降低住房成本。"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "And then he, you know, canceled the signing ceremony, said he wasn't going to sign the housing bill. That it boring. That it was a big yawn because the only thing that matters is this voter suppression bill. It's just not where they are. You know, they don't -- they don't actually like this president. And in large part, it's because Trump doesn't really like them.",
+      "cn": "然后他取消了签字仪式，说他不会签署住房法案。那很无聊，那是个大哈欠，因为唯一重要的是这项压制选民的法案。这根本不是他们的重点。他们实际上并不喜欢这位总统。很大程度上是因为特朗普也不喜欢他们。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "A bold statement. We'll -- I'd be interested to hear their take on that. When we -- when we look at where things stand, there is also, that we heard from Speaker Johnson, say that he's working on a legislative fix when it comes to the ruling from the Supreme Court over birthright citizenship. What do you see as a possible legislative fix that the speaker could come up with?",
+      "cn": "这是一个大胆的说法。我们很想知道他们对此的看法。当我们审视现状时，我们还听到议长约翰逊说，他正在就最高法院关于出生公民权的裁决制定立法解决方案。你认为议长可能提出什么样的立法解决方案？"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "Who knows? I mean, you know, the -- a couple things. One is, why is he not focused on the American people? I -- the American people are struggling. And millions have already lost their health care. And, you know, it's become unaffordable for tens of millions of Americans. Why not try to get a legislative fix on health care, on utility costs, on food costs, on, you know, all kinds of issues that Americans are struggling with. This is not an issue that they're struggling with.",
+      "cn": "谁知道呢？我是说，你知道，有几件事。第一，为什么他不关注美国人民？我 --  -- 美国人民正在挣扎。数百万人已经失去了医保。而且，你知道，对于数千万美国人来说，医保已经变得负担不起。为什么不在医保、水电费、食品费用，以及美国人正在挣扎的各种问题上寻求立法解决方案？这不是他们正在挣扎的问题。"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "People have opinions about birthright, but it's not something that impacts their lives every day. So, I don't know why he's not working on the things that matter most to most Americans. And then, you know, the idea that they're going to, you know, create some legislation. They don't do any legislation. And they passed the one big spending bill, which spent, you know, $4.5 trillion, mostly on tax cuts for the super wealthy, cut health care by $1 trillion.",
+      "cn": "人们对出生公民权有看法，但这并不是每天影响他们生活的事情。所以，我不知道他为什么不处理对大多数美国人最重要的事情。然后，你知道，他们打算制定一些立法。他们根本不立法。他们通过了一项庞大的支出法案，花费了4.5万亿美元，主要是为超级富豪减税，削减了1万亿美元的医保。"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "They passed the second bill to add another $70 billion to ICE, bringing the total for ICE to $240 billion. That's a quarter of a trillion dollars. That's it. So, the idea that they're convening experts or, you know, looking at it from all different angles, I think he said yesterday, is laughable. They don't -- they don't really do policy.",
+      "cn": "他们通过了第二项法案，为ICE增加了700亿美元，使ICE的总预算达到2400亿美元。那是四分之一万亿美元。仅此而已。所以，他们召集专家或从不同角度审视问题的想法，我认为他昨天说的，是可笑的。他们并不真正制定政策。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "There is, of course, a big focus on November at this point as things are picking up speed heading into the midterms. We have seen a rise in further left Democratic candidates. We saw Democratic socialists winning here in New York City. Also last week in Colorado. President Trump really seems to be leaning into that, also looking to label some Democratic socialists as communists, which is something he brought up during his speech on July 4th.",
+      "cn": "当然，目前随着中期选举临近，11月成为焦点。我们看到更左翼的民主党候选人崛起。我们看到民主社会主义者在纽约市获胜。上周在科罗拉多州也是如此。特朗普总统似乎真的在利用这一点，试图将一些民主社会主义者贴上共产主义者的标签，这是他在7月4日演讲中提到的。"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "Warriors did not fight communism on battlefields across the world only to have that menace rear its ugly head right back here in America. We like to stop a threat like that immediately and before it begins. It's like a cancer. You got to cut it out. You got to cut it out fast.",
+      "cn": "勇士们没有在世界各地的战场上与共产主义作战，却让这种威胁在美国本土重新抬头。我们喜欢立即阻止这种威胁，在它开始之前。它就像癌症。你必须切除它。你必须快速切除它。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "This seems to be something that we're going to hear more and more from the president, from Republicans as well. Democrats want to be a big tent party, as I know. Sometimes a united message seems to be challenging for your party. Is there a plan for that messaging from the president?",
+      "cn": "这似乎是我们将越来越多地从总统和共和党人那里听到的。民主党人希望成为一个大帐篷政党，我知道。有时统一的信息对你们的政党来说似乎具有挑战性。总统方面有关于这种信息的计划吗？"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "You know, he's such a divisive figure. I mean, you know, that's an understatement. But it's sad because on, you know, a July 4th weekend where most of us spent the weekend out in our communities, you know, I did several parades and spent a ton of time with constituents. And I was just really appreciative of how excited people were to be together. These, you know, these are Democrats and Republicans and independents. People don't care anything about politics. And they're just -- they're Americans.",
+      "cn": "你知道，他是一个如此分裂的人物。我是说，你知道，这还说得轻了。但可悲的是，在7月4日的周末，我们大多数人都在社区里度过，我参加了几个游行，花了很多时间与选民在一起。我真的很感激人们能聚在一起是多么兴奋。这些人，你知道，有民主党人、共和党人和独立人士。人们根本不关心政治。他们只是 --  -- 他们是美国人。"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "And it's just such a great weekend. And to spend that weekend, you know, talking about, you know, how divided we are and this threat, you know, that we present to one another, as opposed to lifting us up, which I think the American people desperately want, is a leader that's going to bring us together and lift us up. And hopefully that's next. And that we'll have a nominee that does that, that is that kind of, you know, person that wants to bring us back together.",
+      "cn": "那真是一个美好的周末。而在这个周末，谈论我们有多么分裂，以及我们彼此构成的威胁，而不是提升我们，我认为美国人民迫切希望的是一个能团结我们、提升我们的领导人。希望下一个就是。希望我们有一个能这样做的候选人，一个想把我们重新团结起来的人。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Who is the leader of the Democratic Party, in your mind, right now?",
+      "cn": "在你看来，现在谁是民主党的领袖？"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "I mean, you know, Hakeem is at the top of the list. Hakeem Jeffries. But, you know, when you don't have the White House, there -- you're a little rudderless, right? And that happens all the time. What you're going to see after the midterms is, my hope, you know, a great debate among dozens of potential candidates. And these are people who want to be the president of the United States running in the Democratic primary. And my hope is that the debate is about the future of the country and where we're going to go.",
+      "cn": "我是说，你知道，哈基姆是首选。哈基姆·杰弗里斯。但是，你知道，当你没有白宫时，你会有点失去方向，对吧？这种情况经常发生。中期选举后你会看到的是，我希望，几十位潜在候选人之间的激烈辩论。这些人都是想成为美国总统的人，参加民主党初选。我希望这场辩论是关于国家的未来以及我们将走向何方。"
+    },
+    {
+      "speaker": "Landsman",
+      "text": "And we haven't had a big debate like that in a long time. And whoever emerges will be -- will be the nominee and the leader and hopefully the next president of the United States.",
+      "cn": "我们已经很久没有进行过这样的大辩论了。无论谁最终胜出，都将是提名人、领导者，并有望成为下一任美国总统。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Congressman Greg Landsman, appreciate your time this morning. Thank you. The group chat is back with us now. As we -- let's continue on this road of the future of the Democratic Party and where the voices are. And I think a good place to start with that is the Michigan Senate race. So, just yesterday, State Senator Mallory McMorrow dropped out of the race. She released this video statement on her social page.",
+      "cn": "众议员格雷格·兰兹曼，感谢您今早抽出时间。谢谢。我们的群聊现在回来了。我们继续探讨民主党的未来以及各方声音的走向。我认为密歇根州的参议员竞选是一个很好的切入点。就在昨天，州参议员马洛里·麦克莫罗退出了竞选。她在社交媒体上发布了这段视频声明。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Her opponent Abdul ElSsayed, of course, also releasing a video statement thanking her for her democracy but asking supporters to support him. I want to play a little bit of what she had to say. STATE SENATOR MALLORY MCMORROW (D-MI): So, here's what we do next. Every day through November 3rd we win this Senate seat and we send Mike Rogers back to Florida for good. Whoever wins this primary on August 4th will have my full support.",
+      "cn": "她的对手阿卜杜勒·埃尔-赛义德也发布了一段视频声明，感谢她为民主所做的贡献，但请求支持者转而支持他。我想播放一段她讲话的片段。州参议员马洛里·麦克莫罗（密歇根州民主党人）：那么，我们接下来要做的就是：从今天到11月3日，每一天我们都要赢得这个参议院席位，把迈克·罗杰斯永远赶回佛罗里达。无论谁在8月4日的初选中获胜，我都会全力支持。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Joey, there has been a lot of attention, of course, on this race. What does McMorrow dropping out, what does it change right now?",
+      "cn": "乔伊，这场竞选当然备受关注。麦克莫罗退出，现在会带来什么变化？"
+    },
+    {
+      "speaker": "Garrison",
+      "text": "Well, she had already been dropping in the polls, but she has -- still is polling at about 10 percent. I think there's a big fight right now between Haley Stevens, who's more the establishment- backed candidate, supported by Schumer, and El-Sayed, who is backed by the progressive wing and recently got the endorsement of AOC.",
+      "cn": "嗯，她的民调支持率本来就在下降，但目前仍有大约10%的支持率。我认为现在主要是在黑莉·史蒂文斯和埃尔-赛义德之间展开激烈竞争。史蒂文斯更受建制派支持，得到了舒默的背书；而埃尔-赛义德则得到进步派的支持，最近还获得了AOC的认可。"
+    },
+    {
+      "speaker": "Garrison",
+      "text": "You know, where are those moral voters going to swing over? I mean that I think for Stevens, that's now the path for her trying to win this by arguing, hey, I'm the more electable candidate in a general election against Rogers. But all the momentum seems to be on the more progressive side of El-Sayed. And in recent polling that's shown. And, you know, we -- in your previous segment, you saw the attacks from President Trump warning of communism in the country.",
+      "cn": "那些道德选民会倒向哪一边呢？我认为对史蒂文斯来说，她现在争取胜利的途径是强调自己在大选中对阵罗杰斯时更具当选可能性。但所有的势头似乎都偏向更进步的埃尔-赛义德一方。最近的民调也显示了这一点。而且，在之前的环节中，你看到了特朗普总统的攻击，他警告美国存在共产主义威胁。"
+    },
+    {
+      "speaker": "Garrison",
+      "text": "He's really pointing to these rise in Democratic socialist candidates from Democrats. And, you know, that would fit into the president's narrative. And so, you know, I think all these questions are going to be kind of battled out here in the next month before that August 4th primary in Michigan.",
+      "cn": "他实际上是在指向民主党中民主社会主义候选人的崛起。这符合总统的叙事。所以，我认为所有这些问题都将在未来一个月内，在密歇根州8月4日初选之前得到某种程度的解决。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Mario, we still -- you know, as Joey was just mentioning, the endorsement of AOC, of course for El-Sayed and a number of other progressives who have gotten behind him. Notable endorsements. As we look at this place, this race, rather, playing out, Mario, how much of it is a snapshot of the -- of the battle within the Democratic Party?",
+      "cn": "马里奥，正如乔伊刚才提到的，AOC对埃尔-赛义德以及其他一些进步人士的背书，都是值得注意的。当我们审视这场竞选时，马里奥，它在多大程度上反映了民主党内部的斗争？"
+    },
+    {
+      "speaker": "Parker",
+      "text": "I think it's a lot of that. It's a big snapshot of that ideological battle that's taking place. If you speak to some of the progressives, DSA, Democratic Socialists of America, its important. El-sayed is not a member, though he has some of that backing and is aligned with them. They're looking for something new after President Trump was able to win two elections, right, from -- at the hands of moderate, more moderate Democrats. Now, here's the distinction that I think is kind of missing here.",
+      "cn": "我认为很大程度上反映了这一点。它很好地展现了正在进行的意识形态斗争。如果你和一些进步人士、DSA（美国民主社会主义者）交谈，这很重要。埃尔-赛义德虽然不是成员，但他得到了部分支持，并且与他们立场一致。在特朗普总统能够赢得两次选举之后 --  -- 而且是在温和派、更温和的民主党人手中输掉的 --  -- 他们正在寻求新的东西。现在，我认为这里缺少一个区别。"
+    },
+    {
+      "speaker": "Parker",
+      "text": "These races that we saw in Colorado and New York as well, these are House races, right? So, when you're Chuck Schumer looking at a place like Michigan, which is a quintessential purple state, a Democratic governor, that Trump won that state in 2024 as well, whether or not a statewide race, right, for a Senate candidate, whether or not that will fly, and you can convince independents to get on board with a more progressive candidate rather than a more moderate candidate.",
+      "cn": "我们在科罗拉多州和纽约州看到的这些竞选都是众议院席位，对吧？所以，当查克·舒默面对像密歇根这样的州时 --  -- 这是一个典型的紫色州，有一位民主党州长，但特朗普在2024年也赢得了该州 --  -- 那么，在全州范围内的参议员竞选中，是否能够说服独立选民支持一个更进步的候选人，而不是一个更温和的候选人，这还是个问题。"
+    },
+    {
+      "speaker": "Parker",
+      "text": "I think what you're seeing from Schumer and the establishment is some doubts there.",
+      "cn": "我认为你从舒默和建制派那里看到的是有些怀疑。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "And that is -- Eleanor, that is ultimately the concern, right? And that's certainly what we heard in the wake of New York City, but also in the wake of Colorado, from more establishment Democrats who were very focused on purple areas, right? Not on, in their words, turning a blue seat cobalt, right, safe seats there, but focused on places like Michigan. But, of course, they're not going to be the only ones focused there.",
+      "cn": "埃莉诺，这最终就是担忧所在，对吧？这当然也是我们在纽约市之后，以及在科罗拉多之后，从更多关注紫色地区的建制派民主党人那里听到的，对吧？用他们的话说，不是要把蓝色席位变成深蓝色，即安全席位，而是关注像密歇根这样的地方。但当然，他们不会是唯一关注那里的。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "I mean, is the Democratic machine positioned well enough, Eleanor, to counter some of these attacks, even just the communism label from President Trump?",
+      "cn": "我的意思是，埃莉诺，民主党的机器是否足够强大，能够应对这些攻击，甚至只是特朗普总统贴上的共产主义标签？"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "It's a fantastic question. And I think it's worth noting, too, that McMorrow, of course, is by no means a moderate. She was endorsed by Warren, if not Sanders and AOC. And the Democratic establishment, I think, is grappling with this across races. I think we saw it in the fall a lot in Democratic House races. To Mario's point, it is even more -- the stakes are even higher in these Senate races because, yes, again, this is a purple seat.",
+      "cn": "这是个很好的问题。我认为也值得注意，麦克莫罗当然绝不是温和派。她得到了沃伦的支持，即使不是桑德斯和AOC。我认为民主党建制派正在跨种族问题上挣扎。我想我们在秋季的众议院选举中看到了很多。正如马里奥所说，这些参议院选举的赌注更高，因为，是的，这又是一个紫色席位。"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "It is a state where you have to appeal to voters who may have voted for Trump just two years ago. And what folks we spoke with in the fall when we wrote about this initially when it was popping up in the House told us was, there's just so much enthusiasm on the Democratic side and there's so much frustration with Trump that a lot of it is being expressed via these more farther left positions.",
+      "cn": "这是一个你必须吸引可能两年前投票给特朗普的选民的州。我们在秋季最初写这个话题时采访的人告诉我们，民主党方面有如此多的热情，对特朗普有如此多的不满，以至于很多都通过更左的立场表达出来。"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "Clearly, Trump thinks it's a winning argument to denounce them as communism, to warn people about the dangers of adhering to these kinds of stances. But whether or not that's borne out in November, I think, is kind of anyone's guess at this point.",
+      "cn": "显然，特朗普认为将之谴责为共产主义、警告人们坚持这类立场的危险是一个制胜论点。但这是否会在11月得到验证，我认为目前谁也说不准。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "As we move into the group chat, as I noted earlier in the show, of course, NATO Summit this week in Turkey. President Trump will be making his way there. He is set to meet with President Zelenskyy on the sidelines. Joey, this is in your group chat.",
+      "cn": "当我们进入群聊时，正如我在节目早些时候提到的，本周北约峰会在土耳其举行。特朗普总统将前往那里。他计划在会议间隙与泽连斯基总统会面。乔伊，这是你的群聊内容。"
+    },
+    {
+      "speaker": "Garrison",
+      "text": "Yes. I'm really curious whether Zelenskyy is able to use this meeting on Wednesday to really kind of convince President Trump to refocus on Russia's war in Ukraine. You know, for the past several months, Trump has been really solely kind of concentrated his foreign policy on the war in Iran. And, you know, that's often put this on the sidelines. Can Zelenskyy change the conversation here?",
+      "cn": "是的。我很好奇泽连斯基能否利用周三的会议真正说服特朗普总统重新关注俄罗斯在乌克兰的战争。你知道，过去几个月，特朗普的外交政策真的只集中在伊朗战争上。而这常常把这个问题搁置一边。泽连斯基能改变话题吗？"
+    },
+    {
+      "speaker": "Hill",
+      "text": "Well, we'll be watching to see. We have about 30 seconds for you guys to share. Eleanor, \"Love Island U.K.\" A little bit of a departure from Zelenskyy.",
+      "cn": "好吧，我们将拭目以待。我们还有大约30秒让你们分享。埃莉诺，《爱情岛英国版》。和泽连斯基有点不同。"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "A little bit of a departure. Someone said recently that people with stressful jobs don't watch prestige television, they watch reality TV. And I think that's true.",
+      "cn": "有点不同。最近有人说，工作压力大的人不看高端剧，他们看真人秀。我认为这是真的。"
+    },
+    {
+      "speaker": "Mueller",
+      "text": "And if you're watching \"Love Island,\" best episode of this season, Casa Amor. If you know, you know.",
+      "cn": "如果你在看《爱情岛》，这一季最好的一集是卡萨·阿莫尔。懂的都懂。"
+    },
+    {
+      "speaker": "Hill",
+      "text": "OK. And, Mario, you get last word for something that I know is in Boris Sanchez's, my good friend's group chat, because he wants LeBron in Miami.",
+      "cn": "好的。马里奥，最后一句留给你，我知道这件事在我好友鲍里斯·桑切斯的群聊里，因为他想让勒布朗去迈阿密。"
+    },
+    {
+      "speaker": "Parker",
+      "text": "Yes. Where LeBron goes next. Does he go to the Golden State Warriors? Does he go back home to Cleveland?",
+      "cn": "是的。勒布朗下一步去哪？他会去金州勇士吗？还是回老家克利夫兰？"
+    },
+    {
+      "speaker": "Hill",
+      "text": "We will be watching it all. Great to have all of you with us this morning. Thank you. Thanks to all of you for watching. I'm Erica Hill. The headlines are next. var CNN = CNN || {};",
+      "cn": "我们会全程关注。很高兴今天早上有你们陪伴。谢谢。感谢各位收看。我是埃里卡·希尔。接下来是头条新闻。"
+    }
+  ]
+}
