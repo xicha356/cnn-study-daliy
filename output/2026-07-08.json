@@ -1,0 +1,1549 @@
+{
+  "date": "2026-07-08",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-08/segment/01",
+  "summary": "特朗普宣布与伊朗的谅解备忘录'结束'，称伊朗为'败类'，并暗示可能重启冲突。此前美军打击了80多个伊朗目标并重新制裁伊朗石油。在NATO峰会上，特朗普还抱怨盟友未公平分担军费。分析人士认为特朗普意在施压而非真正重启战争。同时，以色列可能获得对黎巴嫩真主党采取行动的绿灯。",
+  "vocabulary": [
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "noun phrase",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "专业术语 · 高阶",
+      "cn": "谅解备忘录（MOU）",
+      "en": "a non-binding agreement outlining the terms and details of an understanding between parties",
+      "excerpt": "President Trump says the memorandum of understanding with Iran is over.",
+      "example_cn": "特朗普总统表示与伊朗的谅解备忘录已经结束。"
+    },
+    {
+      "word": "reimpose",
+      "phonetic": "/ˌriːɪmˈpoʊz/",
+      "pos": "verb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "重新实施（制裁等）",
+      "en": "to impose again, especially a restriction or penalty",
+      "excerpt": "reimposed sanctions on Iranian oil in retaliation for attacks on ships near the Strait of Hormuz.",
+      "example_cn": "重新对伊朗石油实施制裁，以报复在霍尔木兹海峡附近对船只的袭击。"
+    },
+    {
+      "word": "crushing response",
+      "phonetic": "/ˈkrʌʃɪŋ rɪˈspɑːns/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "毁灭性回应",
+      "en": "a response that is overwhelmingly destructive or decisive",
+      "excerpt": "Iran said it would deliver a, quote, 'crushing response.'",
+      "example_cn": "伊朗表示将发出'毁灭性回应'。"
+    },
+    {
+      "word": "scum",
+      "phonetic": "/skʌm/",
+      "pos": "noun",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "败类；人渣",
+      "en": "a contemptible or worthless person or group",
+      "excerpt": "They're scum. You know what scum is? They're scum.",
+      "example_cn": "他们是败类。你知道败类是什么吗？他们是败类。"
+    },
+    {
+      "word": "cuckoo",
+      "phonetic": "/ˈkuːkuː/",
+      "pos": "adjective",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "疯狂的；愚蠢的",
+      "en": "crazy or foolish",
+      "excerpt": "He called them scum. He said that they were cuckoo",
+      "example_cn": "他称他们为败类，说他们疯了。"
+    },
+    {
+      "word": "retaliatory strikes",
+      "phonetic": "/rɪˈtæliətɔːri straɪks/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "报复性打击",
+      "en": "military attacks carried out in response to an attack",
+      "excerpt": "We did see last night the president ordering up those retaliatory strikes on Iran.",
+      "example_cn": "我们昨晚确实看到总统下令对伊朗进行报复性打击。"
+    },
+    {
+      "word": "sanctions waivers",
+      "phonetic": "/ˈsæŋkʃənz ˈweɪvərz/",
+      "pos": "noun phrase",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "专业术语 · 高阶",
+      "cn": "制裁豁免",
+      "en": "official permissions to bypass sanctions",
+      "excerpt": "He also pulled back those sanctions waivers that he had put on the sales of Iranian oil.",
+      "example_cn": "他还撤回了对伊朗石油销售的制裁豁免。"
+    },
+    {
+      "word": "glimmer of hope",
+      "phonetic": "/ˈɡlɪmər əv hoʊp/",
+      "pos": "noun phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "一线希望",
+      "en": "a small sign of hope",
+      "excerpt": "Although the president does say that there's a glimmer of hope that these negotiations can continue.",
+      "example_cn": "尽管总统确实说谈判还有一线希望可以继续。"
+    },
+    {
+      "word": "conciliatory",
+      "phonetic": "/kənˈsɪliətɔːri/",
+      "pos": "adjective",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "安抚的；和解的",
+      "en": "intended to gain goodwill or to reduce hostility",
+      "excerpt": "perhaps a more conciliatory president would come here",
+      "example_cn": "也许一位更愿意和解的总统会来到这里。"
+    },
+    {
+      "word": "grievances",
+      "phonetic": "/ˈɡriːvənsɪz/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "不满；抱怨",
+      "en": "feelings of resentment over something believed to be unfair",
+      "excerpt": "all of his grievances and all of his frustrations at NATO have not waned one bit.",
+      "example_cn": "他对北约的所有不满和挫折感丝毫没有减弱。"
+    },
+    {
+      "word": "disproportionately",
+      "phonetic": "/ˌdɪsprəˈpɔːrʃənətli/",
+      "pos": "adverb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "不成比例地",
+      "en": "to an extent that is too large or too small in comparison with something else",
+      "excerpt": "We pay disproportionately.",
+      "example_cn": "我们支付的比例过高。"
+    },
+    {
+      "word": "ratchet up",
+      "phonetic": "/ˈrætʃɪt ʌp/",
+      "pos": "phrasal verb",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "逐步增加；加剧",
+      "en": "to increase something in a series of steps",
+      "excerpt": "I think President Trump is just trying to ratchet up the visible frustration",
+      "example_cn": "我认为特朗普总统只是想逐步加剧可见的挫败感。"
+    },
+    {
+      "word": "regime of control",
+      "phonetic": "/reɪˈʒiːm əv kənˈtroʊl/",
+      "pos": "noun phrase",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "专业术语 · 高阶",
+      "cn": "控制体系",
+      "en": "a system or method of exercising authority or domination",
+      "excerpt": "where they can gradually establish a regime of control.",
+      "example_cn": "在那里他们可以逐步建立一个控制体系。"
+    },
+    {
+      "word": "green light",
+      "phonetic": "/ɡriːn laɪt/",
+      "pos": "noun phrase",
+      "usage": "固定搭配",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "固定搭配 · 基础",
+      "cn": "绿灯；许可",
+      "en": "permission to proceed with an action",
+      "excerpt": "Does that mean Israel still has a kind of green light to continue its fight with Hezbollah in Lebanon?",
+      "example_cn": "这是否意味着以色列仍有继续与黎巴嫩真主党作战的绿灯？"
+    },
+    {
+      "word": "Gordian knot",
+      "phonetic": "/ˈɡɔːrdiən nɑːt/",
+      "pos": "noun phrase",
+      "usage": "固定搭配",
+      "difficulty": "高阶",
+      "domain": "通用",
+      "level": "固定搭配 · 高阶",
+      "cn": "戈尔迪之结；棘手问题",
+      "en": "an extremely difficult or complex problem",
+      "excerpt": "And it is at the center of this kind of Gordian knot of international issues",
+      "example_cn": "它处于这种国际问题棘手难题的中心。"
+    },
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "停火",
+      "en": "a temporary suspension of fighting",
+      "excerpt": "If the ceasefire is over, Does that mean Israel still has a kind of green light",
+      "example_cn": "如果停火结束，这是否意味着以色列仍有某种绿灯？"
+    },
+    {
+      "word": "playbook",
+      "phonetic": "/ˈpleɪbʊk/",
+      "pos": "noun",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "日常表达 · 进阶",
+      "cn": "策略手册；惯用做法",
+      "en": "a set of strategies or tactics used by someone",
+      "excerpt": "Yes, it is. No, that is the playbook here.",
+      "example_cn": "是的，这就是他的惯用做法。"
+    },
+    {
+      "word": "concede",
+      "phonetic": "/kənˈsiːd/",
+      "pos": "verb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "承认（失败）；让步",
+      "en": "to admit that something is true or that you have been defeated",
+      "excerpt": "He will do that, and he'll never concede anything.",
+      "example_cn": "他会那样做，而且从不做出任何让步。"
+    },
+    {
+      "word": "on the table",
+      "phonetic": "/ɒn ðə ˈteɪbəl/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "固定搭配 · 基础",
+      "cn": "摆在桌面上；待讨论",
+      "en": "available for discussion or consideration",
+      "excerpt": "he says, yes, of course, it's still on the table.",
+      "example_cn": "他说，是的，当然，它仍然摆在桌面上。"
+    },
+    {
+      "word": "live with",
+      "phonetic": "/lɪv wɪð/",
+      "pos": "phrasal verb",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "接受；忍受",
+      "en": "to accept or tolerate something unpleasant",
+      "excerpt": "Try to get to something that he can actually live with",
+      "example_cn": "试图达成他实际上能够接受的结果。"
+    },
+    {
+      "word": "in the driver's seat",
+      "phonetic": "/ɪn ðə ˈdraɪvərz siːt/",
+      "pos": "phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "处于主导地位",
+      "en": "in a position of control or authority",
+      "excerpt": "I think President Trump would like to feel that he's in the driver's seat.",
+      "example_cn": "我认为特朗普总统希望感觉自己处于主导地位。"
+    },
+    {
+      "word": "go after",
+      "phonetic": "/ɡoʊ ˈæftər/",
+      "pos": "phrasal verb",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "追捕；攻击",
+      "en": "to pursue or attack someone",
+      "excerpt": "We feel free to go after them again, now.",
+      "example_cn": "我们现在可以自由地再次攻击他们。"
+    },
+    {
+      "word": "NATO summit",
+      "phonetic": "/ˈneɪtoʊ ˈsʌmɪt/",
+      "pos": "noun phrase",
+      "usage": "专名背景",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "专名背景 · 进阶",
+      "cn": "北约峰会",
+      "en": "a meeting of the heads of state of NATO member countries",
+      "excerpt": "Details out of the NATO summit.",
+      "example_cn": "北约峰会的细节。"
+    },
+    {
+      "word": "Strait of Hormuz",
+      "phonetic": "/streɪt əv ˈhɔːrmʌz/",
+      "pos": "noun phrase",
+      "usage": "专名背景",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "专名背景 · 进阶",
+      "cn": "霍尔木兹海峡",
+      "en": "a narrow strait between the Persian Gulf and the Gulf of Oman, a strategic oil shipping route",
+      "excerpt": "attacks on ships near the Strait of Hormuz.",
+      "example_cn": "在霍尔木兹海峡附近对船只的袭击。"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "The comments this morning from President Trump come after the U.S. military hit more than 80 Iranian targets on Tuesday and, in its biggest move yet, reimposed sanctions on Iranian oil in retaliation for attacks on ships near the Strait of Hormuz.",
+      "cn": "特朗普总统今早的言论是在美军周二打击了80多个伊朗目标，并采取了迄今最大规模的行动，即重新对伊朗石油实施制裁以报复霍尔木兹海峡附近船只遭袭之后发表的。",
+      "structure": "主句（The comments...come after...）+ 时间状语从句（after the U.S. military hit...and...reimposed...），其中and连接两个并列谓语，in its biggest move yet为插入语，in retaliation for...为介词短语作目的状语。",
+      "analysis": "1. 'come after'表示时间先后；2. 'in its biggest move yet'中yet用于最高级后加强语气；3. 'in retaliation for'是新闻常用表达，意为'作为对...的报复'；4. 句子通过时间状语从句和插入语压缩了大量信息。"
+    },
+    {
+      "en": "Iran said it would deliver a, quote, 'crushing response.'",
+      "cn": "伊朗表示将给予，引用其原话，'毁灭性回应'。",
+      "structure": "主句（Iran said）+ 宾语从句（it would deliver...），其中quote为插入语，引导直接引语。",
+      "analysis": "1. 'quote'在新闻中用于引出直接引语，相当于'引用原话'；2. 'crushing response'是新闻常用短语，意为'毁灭性回应'；3. 句子虽短但包含直接引语插入结构。"
+    },
+    {
+      "en": "But as far as Trump is concerned, he is done negotiating with Iran.",
+      "cn": "但就特朗普而言，他已经不再与伊朗谈判了。",
+      "structure": "as far as...is concerned为固定短语作状语，主句为he is done negotiating with Iran。",
+      "analysis": "1. 'as far as...is concerned'意为'就...而言'；2. 'be done doing sth.'是口语化表达，意为'完成某事'或'不再做某事'；3. 此句是新闻中常见的表态性句子。"
+    },
+    {
+      "en": "And they're vicious, violent people, and if they had a nuclear weapon, they'd use it.",
+      "cn": "他们是恶毒、暴力的人，如果他们拥有核武器，他们会使用它。",
+      "structure": "并列句（And they're...people, and...），第二个分句包含if引导的虚拟条件句（if they had..., they'd use...）。",
+      "analysis": "1. 'vicious, violent'是并列形容词修饰people；2. 虚拟语气表示与现在事实相反的假设；3. 此句体现了特朗普的强烈语气。"
+    },
+    {
+      "en": "But what that actually means for the negotiations and for the war are a little bit unclear.",
+      "cn": "但这实际上对谈判和战争意味着什么还不太清楚。",
+      "structure": "主语从句（what that actually means...）作主语，谓语为are a little bit unclear。",
+      "analysis": "1. 主语从句what...means作主语，谓语用单数或复数均可，此处用are可能为口语化；2. 'a little bit'是程度副词；3. 新闻中常用此类表达不确定性。"
+    },
+    {
+      "en": "Most accounts suggest that those talks had been very, very slow going, even though they were up against this 60-day deadline.",
+      "cn": "大多数报道表明，这些谈判进展非常非常缓慢，尽管它们面临60天的最后期限。",
+      "structure": "主句（Most accounts suggest）+ 宾语从句（that those talks had been...），从句中包含even though引导的让步状语从句。",
+      "analysis": "1. 'accounts'在此意为'报道、说法'；2. 'slow going'是固定搭配，意为'进展缓慢'；3. 'up against'意为'面临、面对'；4. 过去完成时had been表示在某个过去时间之前的状态。"
+    },
+    {
+      "en": "But the president sort of shrugging that off as a waste of time and really entering this summit furious at Iran for being dishonest negotiators, in his view, because they were firing on those commercial vessels in the Strait of Hormuz.",
+      "cn": "但总统有点不以为然，认为那是浪费时间，并且真的带着对伊朗的愤怒进入这次峰会，在他看来，伊朗是不诚实的谈判者，因为他们向霍尔木兹海峡的那些商船开火。",
+      "structure": "主句（the president sort of shrugging...and...entering...），其中shrugging和entering为并列的现在分词短语作谓语，for being...为介词短语作原因状语，in his view为插入语，because引导原因状语从句。",
+      "analysis": "1. 'shrug off'意为'对...不以为然、不予理会'；2. 'sort of'是口语化程度副词；3. 'furious at...for...'结构表示'因...对...愤怒'；4. 此句为新闻中常见的描述性长句，包含多个修饰成分。"
+    },
+    {
+      "en": "Remember, it was only three weeks ago that the president signed this agreement and said that, if the conflict continued, it would result in economic catastrophe.",
+      "cn": "记住，仅仅三周前总统签署了这项协议，并说如果冲突继续，将导致经济灾难。",
+      "structure": "祈使句（Remember）+ 强调句（it was...that...），强调时间状语only three weeks ago，that从句中包含and连接的两个谓语（signed和said），said后接宾语从句（that...），宾语从句中包含if引导的条件状语从句。",
+      "analysis": "1. 'Remember'是祈使句，用于提醒听众；2. 强调句结构'it was...that...'；3. 'result in'意为'导致'；4. 此句通过强调句突出时间对比。"
+    },
+    {
+      "en": "You know, none of those political pressures on the president to end the war have gone away.",
+      "cn": "你知道，那些要求总统结束战争的政治压力一个都没有消失。",
+      "structure": "插入语（You know）+ 主句（none of those political pressures...have gone away），其中on the president to end the war为介词短语和不定式短语作定语修饰pressures。",
+      "analysis": "1. 'You know'是口语化插入语；2. 'none of...'作主语，谓语动词用单复数均可，此处用have为口语化；3. 'go away'意为'消失'；4. 此句体现了新闻中口语与书面语的混合。"
+    },
+    {
+      "en": "We did see last night the president ordering up those retaliatory strikes on Iran.",
+      "cn": "我们昨晚确实看到总统下令对伊朗进行那些报复性打击。",
+      "structure": "主句（We did see...），其中did表示强调，ordering up...为现在分词短语作宾语补足语。",
+      "analysis": "1. 'did see'中did用于强调动词；2. 'order up'意为'下令进行'；3. 'retaliatory strikes'是新闻常用短语，意为'报复性打击'；4. 此句为强调结构。"
+    },
+    {
+      "en": "And you've already seen the Iranians sort of list out the ways that they view the United States having violated this agreement.",
+      "cn": "而且你已经看到伊朗人有点列出他们认为美国违反这项协议的方式。",
+      "structure": "主句（you've already seen）+ 宾语（the Iranians sort of list out the ways）+ 定语从句（that they view the United States having violated this agreement），其中that在从句中作宾语，view...having violated为'认为...违反了'。",
+      "analysis": "1. 'sort of'是口语化程度副词；2. 'list out'意为'列出'；3. 'view...having done'结构意为'认为...做了某事'；4. 此句包含定语从句和复杂宾语结构。"
+    },
+    {
+      "en": "You know, it all adds up to a furious President Trump.",
+      "cn": "你知道，这一切都导致了一个愤怒的特朗普总统。",
+      "structure": "插入语（You know）+ 主句（it all adds up to...）。",
+      "analysis": "1. 'add up to'意为'导致、意味着'；2. 'furious'是形容词，修饰President Trump；3. 此句是总结性句子，简洁有力。"
+    },
+    {
+      "en": "But it was evident, listening to him this morning, that all of his grievances and all of his frustrations at NATO have not waned one bit.",
+      "cn": "但今早听他讲话，很明显，他对北约的所有不满和沮丧一点都没有减弱。",
+      "structure": "主句（it was evident...that...），其中it为形式主语，that从句为真正主语，listening to him this morning为现在分词短语作状语。",
+      "analysis": "1. 'it is evident that...'是常用句型；2. 'listening to him this morning'是分词短语作时间状语；3. 'wane'意为'减弱'；4. 'one bit'用于否定句，意为'一点也（不）'。"
+    },
+    {
+      "en": "So, this is all sort of exactly the scenario that the NATO chief, Mark Rutte, other European leaders had wanted to avoid at the summit.",
+      "cn": "所以，这完全就是北约秘书长马克·吕特和其他欧洲领导人在峰会上希望避免的那种情况。",
+      "structure": "主句（this is...the scenario）+ 定语从句（that the NATO chief...had wanted to avoid...），其中Mark Rutte为同位语。",
+      "analysis": "1. 'sort of exactly'是口语化表达，意为'几乎完全'；2. 'scenario'意为'情景、局面'；3. 定语从句中had wanted为过去完成时，表示'原本希望'；4. 此句包含同位语和定语从句。"
+    },
+    {
+      "en": "But it seems pretty clear that President Trump is going to be airing all of these grievances as he's now meeting with NATO leaders behind closed doors.",
+      "cn": "但似乎很明显，特朗普总统将在与北约领导人闭门会晤时表达所有这些不满。",
+      "structure": "主句（it seems pretty clear that...），其中it为形式主语，that从句为真正主语，从句中包含as引导的时间状语从句。",
+      "analysis": "1. 'it seems clear that...'是常用句型；2. 'air grievances'意为'表达不满'；3. 'behind closed doors'意为'秘密地、闭门'；4. 此句为新闻中常见的预测性句子。"
+    },
+    {
+      "en": "I think President Trump is just trying to ratchet up the visible frustration; try to put more pressure on the Iranians; see if he can get them back to a situation where they're not attacking anything.",
+      "cn": "我认为特朗普总统只是想加剧明显的挫败感；试图对伊朗人施加更多压力；看看他能否让他们回到不攻击任何东西的状态。",
+      "structure": "主句（I think）+ 宾语从句（President Trump is just trying to...; try to...; see if...），从句中包含三个并列的谓语动词（trying, try, see），其中see后接if引导的宾语从句，宾语从句中包含where引导的定语从句修饰situation。",
+      "analysis": "1. 'ratchet up'意为'逐步增加'；2. 'visible frustration'意为'明显的挫败感'；3. 'get sb. back to a situation where...'意为'让某人回到...的状态'；4. 此句为口语化长句，包含多个并列动作。"
+    },
+    {
+      "en": "But the problem is that we may want it or not want it, but if we are not prepared militarily, physically to defeat the regime and prevent them from doing this sort of thing, this is where this is going to go.",
+      "cn": "但问题在于，我们可能想要或不想要它，但如果我们没有在军事上、实际上准备好击败该政权并阻止他们做这类事情，这就是事情的发展方向。",
+      "structure": "主句（the problem is that...），that引导表语从句，从句中包含but连接的并列句，第二个分句包含if引导的条件状语从句，主句为this is where...。",
+      "analysis": "1. 'the problem is that...'是常用句型；2. 'militarily, physically'是并列副词修饰prepared；3. 'defeat the regime and prevent them from...'是并列不定式短语；4. 'this is where this is going to go'是口语化表达，意为'这就是事情的发展方向'。"
+    },
+    {
+      "en": "He may get forced into it, but I don't think he really wants to.",
+      "cn": "他可能会被迫卷入，但我认为他并不真的想。",
+      "structure": "并列句（He may get forced into it, but I don't think...），第二个分句包含宾语从句（he really wants to），省略了动词。",
+      "analysis": "1. 'get forced into'意为'被迫卷入'；2. 'I don't think he really wants to'中to后省略了get forced into it；3. 此句为口语化表达，简洁明了。"
+    },
+    {
+      "en": "So, he's trying to be tougher now to back up his negotiators, to see whether he can get things back where they were with this MOU a few weeks ago.",
+      "cn": "所以，他现在试图更强硬，以支持他的谈判代表，看看他能否让事情回到几周前签署谅解备忘录时的状态。",
+      "structure": "主句（he's trying to be tougher now）+ 目的状语（to back up...to see...），其中see后接whether引导的宾语从句，宾语从句中包含where引导的地点状语从句。",
+      "analysis": "1. 'back up'意为'支持'；2. 'get things back where they were'意为'让事情回到原来的状态'；3. 'MOU'是memorandum of understanding的缩写；4. 此句包含多个目的状语和从句。"
+    },
+    {
+      "en": "And I think that is what he's going to do with the Iranians here, step by step.",
+      "cn": "我认为这就是他在这里对伊朗人将要做的，一步一步地。",
+      "structure": "主句（I think）+ 宾语从句（that is what he's going to do...），其中what引导表语从句，step by step为状语。",
+      "analysis": "1. 'what he's going to do'是表语从句；2. 'step by step'意为'逐步地'；3. 此句为总结性句子，简洁明了。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊关系与核协议",
+      "content": "特朗普宣布与伊朗的谅解备忘录（MOU）'结束'，指责伊朗为'败类'并称谈判是浪费时间。此前美军打击了80多个伊朗目标，并重新实施石油制裁。伊朗威胁将做出'毁灭性回应'。分析认为特朗普意在施压而非重启战争，但局势紧张。",
+      "keywords": "memorandum of understanding · crushing response · sanctions waivers"
+    },
+    {
+      "title": "北约峰会与特朗普的抱怨",
+      "content": "在土耳其安卡拉举行的北约峰会上，特朗普抱怨盟友未公平分担军费，称美国'支付比例过高'。他威胁要重新考虑对北约的承诺，但分析认为这是其惯用施压策略。北约秘书长希望避免公开冲突。",
+      "keywords": "NATO summit · grievances · disproportionately"
+    },
+    {
+      "title": "霍尔木兹海峡的战略重要性",
+      "content": "霍尔木兹海峡（Strait of Hormuz）连接波斯湾和阿曼湾，是全球最重要的石油运输通道。伊朗试图通过控制该海峡建立'控制体系'，而美国则通过军事打击和制裁维护航行自由。近期冲突导致油价波动。",
+      "keywords": "Strait of Hormuz · regime of control · retaliatory strikes"
+    },
+    {
+      "title": "以色列与真主党的冲突",
+      "content": "美伊谅解备忘录破裂后，以色列可能获得对黎巴嫩真主党（Hezbollah）采取军事行动的'绿灯'。真主党是伊朗支持的武装组织，与以色列长期敌对。分析认为以色列将视局势变化而行动。",
+      "keywords": "green light · Hezbollah · ceasefire"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "原文中 'reimposed sanctions on Iranian oil' 中 'reimposed' 最接近的意思是？",
+      "options": [
+        "A. 重新实施",
+        "B. 取消",
+        "C. 加强",
+        "D. 提议"
+      ],
+      "answer": 0,
+      "explanation": "reimpose 由前缀 re-（再次）和 impose（实施）组成，意为'重新实施'。文中指美国在取消制裁后再次对伊朗石油实施制裁。"
+    },
+    {
+      "type": "vocab",
+      "question": "特朗普称伊朗为 'scum'，这个词在语境中的含义是？",
+      "options": [
+        "A. 勇敢的人",
+        "B. 败类",
+        "C. 聪明的人",
+        "D. 朋友"
+      ],
+      "answer": 1,
+      "explanation": "scum 原意为'浮渣'，引申为'败类、人渣'，是强烈的贬义词。特朗普用此词表达对伊朗的极度不满。"
+    },
+    {
+      "type": "vocab",
+      "question": "短语 'ratchet up' 在 'ratchet up the visible frustration' 中的意思是？",
+      "options": [
+        "A. 减少",
+        "B. 逐步增加",
+        "C. 消除",
+        "D. 忽略"
+      ],
+      "answer": 1,
+      "explanation": "ratchet up 意为'逐步增加'，像棘轮一样一步步上升。文中指特朗普逐步加剧公开的挫败感。"
+    },
+    {
+      "type": "comprehension",
+      "question": "根据报道，特朗普宣布与伊朗的谅解备忘录'结束'的直接原因是什么？",
+      "options": [
+        "A. 伊朗拒绝谈判",
+        "B. 伊朗攻击霍尔木兹海峡附近的船只",
+        "C. 伊朗发展核武器",
+        "D. 北约盟友施压"
+      ],
+      "answer": 1,
+      "explanation": "报道明确指出，特朗普的言论是在美军打击伊朗目标并重新实施制裁之后，而制裁是为了报复伊朗对霍尔木兹海峡附近船只的袭击。"
+    },
+    {
+      "type": "comprehension",
+      "question": "前大使 Kurt Volker 认为特朗普对伊朗的强硬表态主要目的是什么？",
+      "options": [
+        "A. 重启战争",
+        "B. 施压伊朗回到谈判桌",
+        "C. 取悦北约盟友",
+        "D. 降低油价"
+      ],
+      "answer": 1,
+      "explanation": "Volker 表示特朗普是在'逐步加剧可见的挫败感'，试图'给伊朗施加更多压力'，并'看看能否让他们回到不攻击任何东西的状态'，即施压而非重启战争。"
+    },
+    {
+      "type": "comprehension",
+      "question": "关于以色列与真主党的冲突，报道暗示了什么？",
+      "options": [
+        "A. 以色列将立即停火",
+        "B. 以色列可能获得攻击真主党的自由",
+        "C. 真主党将攻击以色列",
+        "D. 美国将阻止以色列行动"
+      ],
+      "answer": 1,
+      "explanation": "报道中 Volker 说'以色列肯定会这样理解'，即如果停火结束，以色列会认为有了'绿灯'，可以自由地再次攻击真主党。"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Brad Smith",
+      "text": "That does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "CNN头条快报到此结束。我是布拉德·史密斯。奥蒂·科尼什主持的《CNN今晨》节目现在开始。"
+    },
+    {
+      "speaker": "Announcer",
+      "text": "This is CNN breaking news",
+      "cn": "这里是CNN突发新闻。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "We are following breaking news right now out of the Middle East, where President Trump says the memorandum of understanding with Iran is over.",
+      "cn": "我们正在关注中东地区的突发新闻，特朗普总统表示与伊朗的谅解备忘录已经结束。"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "As far as I'm concerned, it's just a waste of time dealing with them.",
+      "cn": "在我看来，与他们打交道只是浪费时间。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Good morning, everybody. I'm Audie Cornish, and this is where we begin. Details out of the NATO summit. Now, the comments this morning from President Trump come after the U.S. military hit more than 80 Iranian targets on Tuesday and, in its biggest move yet, reimposed sanctions on Iranian oil in retaliation for attacks on ships near the Strait of Hormuz. Iran said it would deliver a, quote, \"crushing response.\" But as far as Trump is concerned, he is done negotiating with Iran.",
+      "cn": "大家早上好。我是奥蒂·科尼什，这是我们开始的地方。北约峰会的细节。现在，特朗普总统今早的评论是在美军周二打击了80多个伊朗目标之后发表的，并且作为其迄今最大举措，重新对伊朗石油实施制裁，以报复霍尔木兹海峡附近船只遭袭事件。伊朗表示将给予\"毁灭性回应\"。但就特朗普而言，他已结束与伊朗的谈判。"
+    },
+    {
+      "speaker": "Trump",
+      "text": "To me, I think it's over. I don't want to deal with them anymore. They're scum. You know what scum is? They're scum. They're sick people. They're led by sick people. And they're vicious, violent people. And if they had a nuclear weapon, they'd use it. As far as I'm concerned, it's over. I'll speak to our negotiators. They want to negotiate. They're good people, Steve Witkoff, Jared Kushner. But they have to come back to me. As far as I'm concerned, it's just a waste of time dealing with them.",
+      "cn": "对我来说，我认为结束了。我不想再和他们打交道。他们是渣滓。你知道渣滓是什么吗？他们是渣滓。他们是病态的人。他们被病态的人领导。他们是恶毒、暴力的人。如果他们拥有核武器，他们会使用它。在我看来，结束了。我会和我们的谈判代表谈谈。他们想谈判。他们是好人，史蒂夫·维特科夫、贾里德·库什纳。但他们必须向我汇报。在我看来，与他们打交道只是浪费时间。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, we're bringing in CNN senior White House reporter Kevin Liptak, who is in Turkey for this summit. Kevin, can you talk about what this means for the state of what was known as a ceasefire, even though it was just a memorandum?",
+      "cn": "现在我们连线CNN驻白宫高级记者凯文·利普塔克，他正在土耳其报道此次峰会。凯文，你能谈谈这对所谓的停火状态意味着什么吗？尽管那只是一份备忘录。"
+    },
+    {
+      "speaker": "Kevin Liptak",
+      "text": "Yes, I think it's clear that President Trump thinks this deal has totally collapsed. But what that actually means for the negotiations and for the war are a little bit unclear. You know, the president said that he would allow the negotiators to continue these discussions with Iran to try and get some nuclear concessions. Most accounts suggest that those talks had been very, very slow going, even though they were up against this 60-day deadline.",
+      "cn": "是的，我认为很明显特朗普总统认为这项协议已经完全破裂。但这实际上对谈判和战争意味着什么，还不太清楚。你知道，总统表示他会允许谈判代表继续与伊朗进行这些讨论，试图获得一些核让步。大多数说法表明，这些谈判进展非常非常缓慢，尽管他们面临60天的最后期限。"
+    },
+    {
+      "speaker": "Kevin Liptak",
+      "text": "But the president sort of shrugging that off as a waste of time and really entering this summit furious at Iran for being dishonest negotiators, in his view, because they were firing on those commercial vessels in the Strait of Hormuz. He called them scum. He said that they were cuckoo and suggesting that he's prepared to resume this conflict. But what that looks like, not particularly clear.",
+      "cn": "但总统对此不屑一顾，认为这是浪费时间，并且带着对伊朗作为不诚实谈判者的愤怒进入此次峰会，在他看来，因为他们向霍尔木兹海峡的那些商船开火。他称他们为渣滓。他说他们疯了，暗示他准备恢复这场冲突。但这具体是什么样子，还不太清楚。"
+    },
+    {
+      "speaker": "Kevin Liptak",
+      "text": "Remember, it was only three weeks ago that the president signed this agreement and said that, if the conflict continued, it would result in economic catastrophe. You know, none of those political pressures on the president to end the war have gone away. And so, how he proceeds from here at this point, not exactly clear. We did see last night the president ordering up those retaliatory strikes on Iran. He also pulled back those sanctions waivers that he had put on the sales of Iranian oil.",
+      "cn": "记住，仅仅三周前，总统签署了这项协议，并表示如果冲突继续，将导致经济灾难。你知道，那些要求总统结束战争的政治压力并没有消失。因此，他接下来如何行动，目前还不完全清楚。我们昨晚确实看到总统下令对伊朗进行那些报复性打击。他还撤销了他对伊朗石油销售实施的制裁豁免。"
+    },
+    {
+      "speaker": "Kevin Liptak",
+      "text": "And you've already seen the Iranians sort of list out the ways that they view the United States having violated this agreement. And so, this is all, I think, falling apart rather quickly. Although the president does say that there's a glimmer of hope that these negotiations can continue. You know, it all adds up to a furious President Trump. He was angry at Iran, but he's also angry at NATO.",
+      "cn": "你已经看到伊朗人列出了他们认为美国违反协议的方式。所以，我认为这一切正在迅速瓦解。尽管总统说谈判还有一线希望，但这一切都让特朗普总统非常愤怒。他对伊朗感到愤怒，也对北约感到愤怒。"
+    },
+    {
+      "speaker": "Kevin Liptak",
+      "text": "You know, there had been some hope, a glimmer of hope, perhaps, that perhaps a more conciliatory president would come here, because he's in a country that's governed by a friend of his, the Turkish president, Recep Tayyip Erdogan. He said that that's the only reason that he came to this summit at all. But it was evident, listening to him this morning, that all of his grievances and all of his frustrations at NATO have not waned one bit. Listen to what he said here.",
+      "cn": "曾有一线希望，也许一位更愿意和解的总统会来到这里，因为他所在的国家由他的朋友土耳其总统雷杰普·塔伊普·埃尔多安治理。他说这是他来参加这次峰会的唯一原因。但今天早上听他讲话时，很明显他对北约的所有不满和挫折感丝毫没有减弱。听听他在这里说了什么。"
+    },
+    {
+      "speaker": "Trump",
+      "text": "We're having the big meeting in a little while, and I'm going to -- I'm going to relate my -- my problems. When we wanted them -- we didn't want them badly. But we did say, if you want to join us. And they all said, no. But when they could have, they weren't there for us. And we've been there for them. We're going to work something out, I think, one way or the other. But we've been treated unfairly. We pay disproportionately.",
+      "cn": "我们很快就要开大会了，我要 --  -- 我要陈述我的问题。当我们希望他们 --  -- 我们并不是非常需要他们。但我们确实说过，如果你们想加入我们。他们都说，不。但当他们本可以的时候，他们却没有支持我们。而我们一直支持他们。我想，我们会以某种方式解决这个问题。但我们受到了不公平的对待。我们支付的比例过高。"
+    },
+    {
+      "speaker": "Liptak",
+      "text": "So, this is all sort of exactly the scenario that the NATO chief, Mark Rutte, other European leaders had wanted to avoid at the summit. But it seems pretty clear that President Trump is going to be airing all of these grievances as he's now meeting with NATO leaders behind closed doors -- Audie.",
+      "cn": "所以，这完全就是北约秘书长马克·吕特和其他欧洲领导人希望避免在峰会上出现的情况。但很明显，特朗普总统现在与北约领导人闭门会晤时，将倾诉所有这些不满 --  -- 奥迪。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. That's Kevin Liptak, speaking to us from Ankara in Turkey. I want to bring in now Kurt Volker, former U.S. ambassador to NATO. Thank you so much for being here on what is now turning into an eventful day. The president saying that the ceasefire that they had negotiated, their memorandum of understanding, is over after some attacks on ships in the Strait of Hormuz. I want to play a bit for the president, for you to hear, and then we'll talk on the other side.",
+      "cn": "好的。那是凯文·利普塔克，在土耳其安卡拉向我们报道。现在我想请前美国驻北约大使库尔特·沃尔克加入。非常感谢你来到这个现在变得多事的节目。总统说，在霍尔木兹海峡发生一些船只袭击事件后，他们谈判达成的停火协议和谅解备忘录已经结束。我想播放一段总统的讲话，让你听听，然后我们再讨论。"
+    },
+    {
+      "speaker": "Trump",
+      "text": "They can talk, but I think they're wasting their time. Frankly, I don't want to waste my time with them. Now, I'll let our wonderful negotiators keep talking if they want, but I don't see it.",
+      "cn": "他们可以谈，但我认为他们在浪费时间。坦率地说，我不想和他们浪费时间。现在，如果我们的优秀谈判代表想继续谈，我会让他们谈，但我不看好。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, Ambassador, you know what it's like to have to keep talking. What does this mean for people who had been tasked with continuing this conversation?",
+      "cn": "好的，大使，你知道不得不继续谈判是什么感觉。这对那些负责继续对话的人来说意味着什么？"
+    },
+    {
+      "speaker": "Kurt Volker",
+      "text": "Right. I think President Trump is just trying to ratchet up the visible frustration; try to put more pressure on the Iranians; see if he can get them back to a situation where they're not attacking anything. What happened is the Iranians attacked some vessels that were trying to go through the Omani side of the Strait of Hormuz. The Iranians don't want that. They want them to go through Iranian waters, where they can gradually establish a regime of control. Of course, we don't want that.",
+      "cn": "是的。我认为特朗普总统只是想加剧明显的挫败感；试图对伊朗施加更多压力；看看能否让他们回到不攻击任何东西的状态。发生的事情是伊朗袭击了一些试图通过霍尔木兹海峡阿曼一侧的船只。伊朗不希望那样。他们希望船只通过伊朗水域，在那里他们可以逐步建立控制制度。当然，我们不希望那样。"
+    },
+    {
+      "speaker": "Kurt Volker",
+      "text": "But the problem is that we may want it or not want it. But if we are not prepared militarily, physically to defeat the regime and prevent them from doing this sort of thing, this is where this is going to go. I don't think President Trump really wants to restart the war. He may get forced into it, but I don't think he really wants to. So, he's trying to be tougher now to back up his negotiators, to see whether he can get things back where they were with this MOU a few weeks ago.",
+      "cn": "但问题是，我们可能希望或不希望。但如果我们没有在军事上、物理上准备好击败该政权并阻止他们做这类事情，那么情况就会这样发展。我认为特朗普总统并不真的想重启战争。他可能会被迫这样做，但我不认为他真的想。所以，他现在试图更强硬，以支持他的谈判代表，看看能否让事情回到几周前谅解备忘录时的状态。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. You were asked, I think, just last night about Greenland. And you said that Trump has a kind of routine. He complains, he criticizes. He says people aren't doing enough, and he keeps threats on the table. And I thought, gee, that's kind of applicable to this exact moment.",
+      "cn": "是的。我想就在昨晚，你被问到了格陵兰岛。你说特朗普有一套惯例。他抱怨，他批评。他说人们做得不够，他把威胁摆在桌面上。我想，天哪，这正好适用于此刻。"
+    },
+    {
+      "speaker": "Volker",
+      "text": "Yes, it is. No, that is the playbook here. He will do that, and he'll never concede anything. So, even with Greenland, for example, I don't think he was planning to bring up Greenland at the summit at all. But somebody asked him about it. So, he says, yes, of course, it's still on the table. Of course it should be ours. And I think that is what he's going to do with the Iranians here, step by step. Keep putting the pressure on about the strait. Keep putting pressure on about the nuclear issue.",
+      "cn": "是的，确实如此。不，这就是他的策略。他会这么做，而且绝不会让步。所以，即使以格陵兰为例，我认为他根本没打算在峰会上提起格陵兰。但有人问了他。于是他说，是的，当然，它仍然在谈判桌上。当然它应该是我们的。我认为他对伊朗也会这样，一步一步来。继续在霍尔木兹海峡问题上施压。继续在核问题上施压。"
+    },
+    {
+      "speaker": "Volker",
+      "text": "Try to get to something that he can actually live with, which is no fighting, so that oil prices and gasoline prices stay down.",
+      "cn": "试图达成一个他能接受的结果，即不发生冲突，这样油价和汽油价格就能保持低位。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "If the ceasefire is over, Does that mean Israel still has a kind of green light to continue its fight with Hezbollah in Lebanon? Volker: Well, I think that's a very good point, because the Israelis will certainly take it that way. I think President Trump would like to feel that he's in the driver's seat. And so, if Israel is going to attack or not, he would like to be the one who says so.",
+      "cn": "如果停火结束，这是否意味着以色列仍然有某种绿灯，可以继续与黎巴嫩真主党作战？沃尔克：嗯，我认为这是个很好的问题，因为以色列肯定会这么理解。我认为特朗普总统希望感觉自己掌控着局面。所以，无论以色列是否发动攻击，他都希望由自己来决定。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But I think the Israelis are going to look at this and say, OK, if anything happens, Hezbollah does anything at all, We have a green light. We feel free to go after them again, now.",
+      "cn": "但我认为以色列会这样看待：好吧，如果发生任何事，真主党有任何举动，我们就有了绿灯。我们现在可以自由地再次打击他们。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's interesting that this NATO summit is happening -- is happening in Ankara. People look at Turkey, in a lot of ways, as a sort of gateway between the East and the West. And it is at the center of this kind of Gordian knot of international issues, right? You've got Zelenskyy there, trying to get support in its war against Russia. You've got Turkey asking the U.S. for access to F-35 fighter jets, kind of the most advanced fighter jets, and Israel saying, no, don't give it to them.",
+      "cn": "有趣的是，这次北约峰会正在安卡拉举行。人们在很多方面将土耳其视为东西方之间的门户。而它正处于这种复杂的国际问题的中心，对吧？泽连斯基在那里，试图为其对抗俄罗斯的战争争取支持。土耳其向美国请求获得F-35战斗机，这种最先进的战斗机，而以色列说，不，不要给他们。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It feels like the president actually -- there's a lot of spinning plates here.",
+      "cn": "感觉总统实际上 --  -- 这里有很多事情要同时处理。"
+    },
+    {
+      "speaker": "Volker",
+      "text": "Yes, well, there are. And just look at the geography. I mean, if you pull up a map, you've got the Black Sea, Ukraine and Russia to the North. You've got Iran and Iraq to the East. You've got Syria and Lebanon to the South. Further down, you've got Israel on the other side of the mediterranean. It is a region that has a lot of issues. And Turkey is a very large country, very capable country, militarily, economically. And they play a role in all of these issues that we care about. Most of the time, U.S.",
+      "cn": "是的，确实如此。看看地理位置。如果你打开地图，北边是黑海、乌克兰和俄罗斯。东边是伊朗和伊拉克。南边是叙利亚和黎巴嫩。再往南，地中海对岸是以色列。这是一个问题很多的地区。土耳其是一个很大的国家，军事和经济上都非常有能力。它在所有这些我们关心的问题中都扮演着角色。大多数时候，美国"
+    },
+    {
+      "speaker": "Volker",
+      "text": "and Turkish interests are actually aligned, but there are few cases where they diverge. And in all of these cases, it's really important that we are talking to the Turks and working with them, because it could go very badly if we don't.",
+      "cn": "和土耳其的利益实际上是一致的，但也有一些分歧。在所有这些情况下，与土耳其对话并合作非常重要，因为如果不这样做，情况可能会变得非常糟糕。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And we should say, despite their requests, we're seeing reports, CNN reporting now that the defense secretary, Hegseth, has actually canceled his trip to Israel, where he was supposed to sort of soothe concerns about this potential sale. What are you going to be listening for now? Is it J.D. Vance that has to come out and say technical talks are still going, if the Iran -- Iranians play nice? Is it Hegseth? Kind of what are you expecting to see today?",
+      "cn": "我们应该指出，尽管他们提出了请求，但我们看到报道，CNN现在报道说，国防部长赫格塞斯实际上取消了他的以色列之行，他本应在那里安抚对这笔潜在军售的担忧。你现在会关注什么？是J.D.万斯必须出来说技术谈判仍在进行，如果伊朗 --  -- 伊朗人表现好的话？还是赫格塞斯？你今天预计会看到什么？"
+    },
+    {
+      "speaker": "Volker",
+      "text": "Well, a couple of things. One of them, let's not forget it's the NATO summit meeting. So, I think it would be important for NATO to say something condemning the Iranian attacks on shipping and supporting freedom of navigation in the Persian Gulf. Very important that NATO stay aligned with the U.S. as we go through this, even if they're not contributing militarily to show the direction that we want to go in.",
+      "cn": "嗯，有几件事。其中之一，别忘了这是北约峰会。所以，我认为北约发表声明谴责伊朗对航运的袭击并支持波斯湾航行自由将很重要。北约在此过程中与美国保持一致非常重要，即使他们没有提供军事贡献，也要表明我们希望前进的方向。"
+    },
+    {
+      "speaker": "Volker",
+      "text": "The second thing is, I think the Iranians are going to listen to President Trump and try to judge: is this just one more threat that he then winds down a couple of days from now? Or is it going to be something different this time? They're going to be watching that. And in -- and in doing so, I think they're going to stand down on any attacks for a little while. They had, you know, a quick one just recently, but I think they're going to stand down and see whether the U.S. really wants to escalate this or not.",
+      "cn": "第二点是，我认为伊朗人会听取特朗普总统的意见，并试图判断：这只是一个几天后就会平息的威胁？还是这次会有所不同？他们会密切关注这一点。而且，在这样做的过程中，我认为他们会暂时停止任何攻击。他们最近刚有过一次快速行动，但我想他们会先停下来，看看美国是否真的想升级局势。"
+    },
+    {
+      "speaker": "Volker",
+      "text": "They're probably betting that we don't. And I think things will 00 will be quieter for a while.",
+      "cn": "他们可能赌我们不会升级。我认为事情会平静一段时间。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. That's Ambassador Kurt -- former ambassador Kurt Volker. Thank you so much for your time. Appreciate it.",
+      "cn": "好的。以上是前大使库尔特·沃尔克。非常感谢您的时间。谢谢。"
+    },
+    {
+      "speaker": "Volker",
+      "text": "It is appreciated (ph).",
+      "cn": "不客气。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And coming up on CNN THIS MORNING, we are monitoring the situation in New York. Construction crews are working to stabilize a high rise.",
+      "cn": "在CNN《今晨》节目中，我们将关注纽约的情况。施工人员正在努力稳定一栋高层建筑。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "It was crazy. And everybody -- everybody was panicking.",
+      "cn": "太疯狂了。每个人都在恐慌。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Why officials are confident that they can keep a building from buckling. Plus, Democrats still trying to answer for Israel. Now it's coming to a head on Michigan's debate stage. And why Senator Mitch McConnell's team is being secretive about his health. Questions being raised about whether they owe it to voters to explain what's going on.",
+      "cn": "为什么官员们有信心防止大楼倒塌？此外，民主党人仍在努力为以色列问题辩护。现在这个问题在密歇根州的辩论舞台上到了紧要关头。还有，为什么米奇·麦康奈尔的团队对他的健康状况保密？人们质疑他们是否有责任向选民解释情况。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Mitch McConnell talked to the GOP leaders on the phone. I feel like we have a \"Weekend at Bernie's\" situation going on right here. ABDUL EL-SAYED (D),",
+      "cn": "米奇·麦康奈尔在电话中与共和党领导人交谈。我觉得我们现在就像电影《周末夜狂欢》里的情况。阿卜杜勒·埃尔-赛义德（民主党）说："
+    },
+    {
+      "speaker": "Michigan Senatorial Candidate",
+      "text": "If you want somebody who's electable, the last three polls in a row show that I'm the most electable Democrat in November. Why? Because you got to actually fight for something. REP. HALEY STEVENS (D-MI),",
+      "cn": "如果你想要一个能当选的人，最近连续三次民调显示，我是11月最有可能当选的民主党人。为什么？因为你必须真正为某件事而战。众议员海莉·史蒂文斯（密歇根州民主党）说："
+    },
+    {
+      "speaker": "Michigan Senatorial Candidate",
+      "text": "I worked really hard to make sure that Kamala Harris was going to get elected, and that Donald Trump would be stopped. And my opponent did nothing.",
+      "cn": "我努力确保卡玛拉·哈里斯能够当选，并阻止唐纳德·特朗普。而我的对手什么都没做。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You're looking at the last two candidates remaining in the Democratic primary for Senate in Michigan. They were in a heated debate on Tuesday night. This is ahead of their primary, which is on August 4th. Abdul El-Sayed and Congresswoman Haley Stevens are fighting to replace retiring Senator Gary Peters. The race is critical for Democrats, who are hoping to flip the Senate in November. It's also exposing a rift in the national party between more moderate establishment party forces and a progressive insurgency.",
+      "cn": "你现在看到的是密歇根州参议院民主党初选中最后剩下的两位候选人。他们在周二晚上进行了一场激烈的辩论。这发生在8月4日初选之前。阿卜杜勒·埃尔-赛义德和众议员海莉·史蒂文斯正在争夺接替即将退休的参议员加里·彼得斯。这场竞选对民主党至关重要，他们希望在11月翻转参议院。这也暴露了全国党内更温和的建制派势力与进步派叛乱之间的裂痕。"
+    },
+    {
+      "speaker": "El-Sayed",
+      "text": "Chuck Schumer desperately wants one of us to be the next senator, and it's not me. So, if you want your politics dictated to you by AIPAC or Chuck Schumer, then I'm not your guy.",
+      "cn": "查克·舒默拼命希望我们中的一人成为下一任参议员，但那个人不是我。所以，如果你希望你的政治由AIPAC或查克·舒默来主导，那么我不是你要找的人。"
+    },
+    {
+      "speaker": "Stevens",
+      "text": "There are many who want to make this run for U.S. Senate about Washington, D.C., insider deals and what's going on with our party leadership. Friends, this is about the future of Michigan.",
+      "cn": "有很多人想让这次美国参议院竞选围绕华盛顿特区的内部交易和我们的政党领导层发生的事情展开。朋友们，这关乎密歇根州的未来。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, joining me now in the group chat, Isaac Dovere, CNN senior reporter; Terry Schilling, president of the American Principles Project; and Antjuan Seawright, Democratic strategist. Isaac, I want to start with you, because there's a handful of Senate races were all watching very closely. And yet you call this one the apex for Democrats? Why?",
+      "cn": "现在加入我们群聊的是CNN高级记者艾萨克·多维尔、美国原则项目主席特里·席林和民主党策略师安特万·西赖特。艾萨克，我想先问你，因为有几场参议院竞选我们都在密切关注。但你称这场竞选是民主党的巅峰？为什么？"
+    },
+    {
+      "speaker": "Edward-Isaac Dovere",
+      "text": "Yes. Well, look, this is really where you see, in this primary, especially now with Mallory McMorrow dropping out at the beginning of the week, this just playing out in full contrast of the different things that are going on in the Democratic Party, this fight that is happening. The fight for both the hearts of Democrats and the minds of Democrats, who they want to believe they are.",
+      "cn": "是的。嗯，看，这正是你在这场初选中看到的，尤其是现在马洛里·麦克莫罗在本周初退出后，这充分展现了民主党内部正在发生的不同事情之间的对比，这场斗争。这场斗争既关乎民主党人的心灵，也关乎他们的思想，他们希望相信自己是谁。"
+    },
+    {
+      "speaker": "Edward-Isaac Dovere",
+      "text": "Is it a bipartisan, workhorse version of things, the way that Haley Stevens supporters sell forward, or is it this progressive fighter model that that that Abdul El-Sayed has put himself forward as? And in the minds --",
+      "cn": "是像海莉·史蒂文斯支持者所推崇的那种两党合作、勤勉工作的模式，还是阿卜杜勒·埃尔-赛义德所展现的那种进步斗士模式？在人们心中 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Whether or not those things are even at odds.",
+      "cn": "这些是否甚至相互矛盾。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm sure the moderates would say, like, we're fighting up a storm.",
+      "cn": "我敢肯定温和派会说，我们正在激烈斗争。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "They would. And there's a lot that overlaps in terms of policy for both of them. And then it's also about the minds, where they're thinking, this is a race. There is no way that anybody really can see that Democrats can take the majority of the Senate, which is already a stretch, if they lose this seat in Michigan.",
+      "cn": "他们会的。而且在政策方面，两人有很多重叠之处。这也关乎思想，他们在思考，这是一场竞选。如果民主党失去密歇根州的这个席位，没有人真的认为他们能赢得参议院多数，这本来就已经很困难了。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "And so, part of what even played out on the debate stage, what you're playing before we started is this conversation of who will be the strongest candidate to go up against Mike Rogers, former congressman who very nearly won the Senate seat against Elissa Slotkin in 2024.",
+      "cn": "因此，在辩论舞台上展现的部分内容，以及我们在节目开始前播放的内容，就是关于谁将成为最强大的候选人，去对抗前众议员迈克·罗杰斯，他在2024年差点击败埃莉萨·斯洛特金赢得参议院席位。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. I want to play for you guys a little snippet of the debate, just so the audience can hear a little bit about what was talked about. Here's an exchange they had about -- even though it's the state of Michigan -- U.S. policy on Israel.",
+      "cn": "好的，我想给大家播放一段辩论的片段，让观众了解一下讨论的内容。这是他们关于 --  -- 尽管是密歇根州 --  -- 美国对以色列政策的一段交锋。"
+    },
+    {
+      "speaker": "El-Sayed",
+      "text": "For too long, our foreign policy has been handed to us by the likes of the state of Israel and AIPAC, who has made sure that Democrats and Republicans are doing their bidding. I don't take that money. They are spending against me, because they've called me the most dangerous candidate for the U.S.-Israel relationship.",
+      "cn": "长期以来，我们的外交政策一直由以色列和AIPAC这样的势力主导，他们确保民主党和共和党都按他们的意愿行事。我不拿他们的钱。他们正在花钱反对我，因为他们称我是美以关系中最危险的候选人。"
+    },
+    {
+      "speaker": "Stevens",
+      "text": "Well, Abdul, I would say no one is afraid of you. And in fact, the GOP is spending thousands of dollars to prop up your campaign, because they think it -- they will make it easier for Mike Rogers to win if you are the nominee.",
+      "cn": "嗯，阿卜杜勒，我要说没人怕你。事实上，共和党正在花数千美元支持你的竞选，因为他们认为 --  -- 如果你成为提名人，会让迈克·罗杰斯更容易获胜。"
+    },
+    {
+      "speaker": "El-Sayed",
+      "text": "Well, you know, if Congresswoman Stevens makes it or Mike Rogers wins, either way, Israel will win. AIPAC is perfectly fine with either of my two opponents, because they know that they will have a comfortable, reliable vote in the U.S. Senate.",
+      "cn": "你知道，无论史蒂文斯众议员胜出还是迈克·罗杰斯获胜，以色列都会赢。AIPAC对我的两个对手都很满意，因为他们知道在参议院会得到舒适可靠的投票。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I wanted to play that, one, because the \"no one is afraid of you\" was like, kind of quite the dig. And I want to be clear for the audience, it's not like we're verifying the claims they're making in this debate. Antjuan, what do you see in sort of how they're going at each other? Is it reflective of anything or is this a Michigan race?",
+      "cn": "我想播放这段，一是因为\"没人怕你\"这句话挺伤人的。我想向观众说明，我们并不是在核实他们在辩论中的说法。安特万，你怎么看他们互相攻击的方式？这反映了什么，还是只是密歇根州的竞选？"
+    },
+    {
+      "speaker": "Antjuan Seawright",
+      "text": "This is a race solely about Michigan. But I will add, this is a race solely about the future of our country. Take Michigan out of it. I think where there's no pathway for the majority and for us to have the majority in the Senate without us maintaining the state of Michigan in our column. I would also add, we continue to have these conversations of style versus substance in our primaries. And quite frankly, I think it's doing a disservice to the overall goal. And that's to win in November.",
+      "cn": "这完全是一场关于密歇根州的竞选。但我要补充，这也完全是一场关于我们国家未来的竞选。抛开密歇根州不谈，我认为如果我们不守住密歇根州，就没有途径获得参议院多数席位。我还要补充，我们在初选中一直在进行风格与实质的讨论。坦白说，我认为这对总体目标不利。我们的目标是在11月获胜。"
+    },
+    {
+      "speaker": "Antjuan Seawright",
+      "text": "Say what you want about the Republicans, but they seem to be united after primaries. We have a problem doing that. And I hope that Michigan is not one of those examples. The truth of the matter is Michigan is a battleground state in 2028. And so, we have to set the tone in 2026. That's why this primary is so important.",
+      "cn": "随便你怎么说共和党，但他们似乎在初选后团结一致。我们在这方面有问题。我希望密歇根州不是这样的例子。事实是，密歇根州是2028年的战场州。所以，我们必须在2026年定下基调。这就是为什么这次初选如此重要。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "I think people forget that there were strong divisions within Michigan in the 2024 election cycle that caused us not to put Michigan in the winning column for Democrats.",
+      "cn": "我认为人们忘记了，在2024年选举周期中，密歇根州内部存在严重分歧，导致民主党未能将密歇根州纳入胜选阵营。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Are you guys united?",
+      "cn": "你们团结吗？"
+    },
+    {
+      "speaker": "Terry Schilling",
+      "text": "Look, yes, no. Mike Rogers, the party's aligned behind him. I think the big thing that I took away from that debate last night is that it's a lot of style over substance, right? They're not talking about exciting policies that are going to transform Americans' lives. They're talking over about campaign disclosures, financial disclosures. They're talking about who can win, who's best seated to win. Well, the reality is --",
+      "cn": "听着，是也不是。迈克·罗杰斯，党内都支持他。我认为我从昨晚的辩论中得到的最大收获是，很多都是风格而非实质，对吧？他们没有谈论能够改变美国人生活的激动人心的政策。他们在谈论竞选披露、财务披露。他们在谈论谁能赢，谁最适合赢。但现实是 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, maybe because the policies are actually quite similar.",
+      "cn": "嗯，也许是因为政策实际上非常相似。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "I disagree with they're not talking about issues, because I think that both candidates are talking about the affordability crisis that Republicans have created. They're both talking about this.",
+      "cn": "我不同意他们不谈议题的说法，因为我认为两位候选人都在谈论共和党造成的负担能力危机。他们都在谈论这个。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You're saying they're not clashing on it, right? Like they basically --",
+      "cn": "你是说他们没有在这个问题上交锋，对吧？基本上他们 --  --"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Well, that's the point.",
+      "cn": "嗯，这就是关键。"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "I'm saying, actually, that they're -- they don't have exciting plans. If I had a plan that I actually thought was going to transform people's lives, I'm not going to talk about my campaign disclosures or my candidate's campaign disclosures. I'm going to talk -- or certainly not",
+      "cn": "我是说，实际上，他们 --  -- 他们没有令人兴奋的计划。如果我有计划，一个我认为能真正改变人们生活的计划，我不会谈论我的竞选披露或我候选人的竞选披露。我会谈论 --  -- 当然不会 --  --"
+    },
+    {
+      "speaker": "Aipac. Seawright",
+      "text": "I think that's where you may be wrong. With all due respect, Terry, they are talking about the affordability issue. They all talk -- they're all talking about health care. They're all talking about the 100,000 manufacturing jobs that have been lost under this administration.",
+      "cn": "我认为你可能错了。恕我直言，特里，他们正在谈论负担能力问题。他们都在谈论 --  -- 他们都在谈论医疗保健。他们都在谈论本届政府下流失的10万个制造业工作岗位。"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "Well, what's their policy?",
+      "cn": "那么他们的政策是什么？"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "And this -- and this do-nothing majority.",
+      "cn": "还有这个 --  -- 这个无所作为的多数派。"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "All right. They talked a lot about it. What was their policy on --",
+      "cn": "好吧。他们谈了很多。他们的政策是什么 --  --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "No, how are they going to solve those things?",
+      "cn": "不，他们打算如何解决这些问题？"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Costs, lowering costs.",
+      "cn": "成本，降低成本。"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "How are they going to lower costs.",
+      "cn": "他们打算如何降低成本。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "For -- dealing with the health care crisis. The 18.2 million Americans --",
+      "cn": "为了应对医疗危机。1820万美国人 --  --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "How are they dealing with the -- with the crisis?",
+      "cn": "他们如何应对这场危机？"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Well, they're going to -- I just told you. We're going to pass a --",
+      "cn": "嗯，他们打算 --  -- 我刚才告诉过你。我们将通过一项 --  --"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "No. We're going to pass those ACA subsidies that Republicans refused to pass to make sure that premiums --",
+      "cn": "不。我们将通过那些共和党拒绝通过的《平价医疗法案》补贴，以确保保费 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, hold on one second.",
+      "cn": "所以，稍等一下。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Premiums, co-pays and deductibles do not rise.",
+      "cn": "保费、共付额和免赔额不会上涨。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You guys right now are having the argument we plan to listen to in 2028.",
+      "cn": "你们现在争论的内容，我们打算在2028年再听。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Don't want to jump the gun.",
+      "cn": "不想操之过急。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "No, this is a 2026 argument.",
+      "cn": "不，这是2026年的争论。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We're still -- well, I want to talk about the primaries, because we are not there yet. The argument you're talking about is the argument they have to make in a general. This is what we do different from Republicans. It's getting there. The journey is the destination right now. And what are we learning?",
+      "cn": "我们还在 --  -- 嗯，我想谈谈初选，因为我们还没到那一步。你提到的争论是他们在普选中必须进行的。这就是我们与共和党人的不同之处。我们正在接近目标。现在，过程就是终点。我们学到了什么？"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "We're learning that the Democrats have a lot that they're fighting over. Look, the -- it is not a coincidence that AIPAC and Israel was such an issue in that debate last night. It is an issue that is roiling the Democratic Party right now.",
+      "cn": "我们了解到民主党人有很多争论点。看，昨晚的辩论中AIPAC和以色列成为如此重要的问题并非巧合。这是一个正在搅动民主党的议题。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And Republicans, it's come up here and there. Yes.",
+      "cn": "是的。共和党人那边，这个问题也时有出现。是的。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "And it's an issue. And in Michigan especially, there is a large Arab American population. There's a large Jewish population. There is a lot of different views of what should be done there. El-Sayed has said over and over that he is anti-AIPAC. And he said to me in an interview I did with him last week that the -- the only way that anybody could support Israel is if there's money supporting them. There is a lot of AIPAC-related money that's going to Haley Stevens.",
+      "cn": "这是一个问题。尤其是在密歇根州，有大量的阿拉伯裔美国人人口。也有大量的犹太人口。对于应该采取什么行动，存在许多不同观点。埃尔-赛义德一再表示他反对AIPAC。他在上周我对他进行的采访中告诉我，任何人支持以色列的唯一方式就是有资金支持他们。有大量与AIPAC相关的资金流向海莉·史蒂文斯。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "But it's also an issue that that El-Sayed has said speaks to deeper progressive values --",
+      "cn": "但埃尔-赛义德也表示，这个问题反映了更深层次的进步价值观 --  --"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "-- of where people are. And that's not what Stevens thinks. And it's not clear where voters are on this.",
+      "cn": "--  -- 即人们的立场。而史蒂文斯并不这么认为。选民在这个问题上的立场也不明确。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It is not. And let me pause on that particular conversation for this reason. Rahm Emanuel, someone who has been out there, former Democratic operative, is planning to make a speech and talk about Israel. I think this is going to be an interesting --",
+      "cn": "确实不明确。让我暂停一下这个具体的对话，原因如下。拉姆·伊曼纽尔，一位前民主党活动人士，计划发表演讲谈论以色列。我认为这将是一个有趣的 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In Israel. I think this is going to be an interesting moment for the party, where someone tries to figure out, how do you thread the needle and navigate a conversation around this that is bedeviling both parties? So, let's pause on this, because we are definitely going to come back to it. And in the meantime, I just want to give you guys an update on a couple of things. The president's lawsuit against \"The Washington Post\" thrown out. Why a judge said the Trump administration did not provide enough evidence.",
+      "cn": "在以色列。我认为这对民主党来说将是一个有趣的时刻，有人试图弄清楚如何巧妙地处理这个困扰两党的话题。所以，我们先暂停一下，因为我们肯定会再回到这个话题。与此同时，我想给大家更新几件事。总统对《华盛顿邮报》的诉讼被驳回。法官称特朗普政府没有提供足够的证据。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Plus, there's this. (CHEERING)",
+      "cn": "另外，还有这个。（欢呼声）"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Argentina's epic comeback to keep their World Cup dreams alive.",
+      "cn": "阿根廷史诗级逆转，让他们的世界杯梦想得以延续。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It is now 28 minutes past the hour. This is your morning roundup. Now I want to show you right now live images. Construction crews working through the night, because they need to shore up a high rise in midtown Manhattan.",
+      "cn": "现在是整点过后28分钟。这是你的早间新闻汇总。现在我想向你展示实时画面。建筑工人通宵工作，因为他们需要加固曼哈顿中城的一栋高层建筑。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "We're getting reports from the construction that two columns buckled on the 21st floor.",
+      "cn": "我们从施工现场得到消息，21层的两根柱子发生了弯曲。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "Construction company has done a roll call. All construction workers are accounted for at this time.",
+      "cn": "建筑公司已经进行了点名。目前所有建筑工人都已确认安全。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Did you hear that word, \"buckled\"? The building was evacuated after two columns bent on Tuesday. This is the former headquarters of Pfizer, which is being converted into apartments. Several other buildings were also cleared out as a precaution.",
+      "cn": "你听到那个词了吗，\"弯曲\"？周二两根柱子弯曲后，大楼被疏散。这里曾是辉瑞公司的总部，正在改造成公寓。作为预防措施，附近几栋建筑也被清空。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "It was a disaster the way they were -- they were running out of the hotel. It was crazy. And everybody -- everybody was panicking. A lot of people was [SIC] panicking.",
+      "cn": "那简直是一场灾难 --  -- 他们当时正从酒店里跑出来。太疯狂了。每个人 --  -- 每个人都在恐慌。很多人都在恐慌。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And the New York City building commissioner says crews at the time were trying to add 11 new floors to the building, which already had 22 floors. var CNN = CNN || {};",
+      "cn": "纽约市建筑专员表示，当时施工人员正试图在这栋已有22层的大楼上再加建11层。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "City building commissioner says crews at the time were trying to add 11 new floors to the building, which already had 22 floors. President Trump's $3.8 billion defamation lawsuit against \"The Washington Post,\" now thrown out by a judge. The president's media and technology group brought the suit in 2023 over a \"Post\" article alleging securities fraud. But a federal judge in Florida ruled that Trump media failed to present evidence of actual malice.",
+      "cn": "市建筑专员表示，当时施工人员正试图在这栋已有22层的大楼上再加建11层。特朗普总统对《华盛顿邮报》提起的38亿美元诽谤诉讼，现已被法官驳回。总统的媒体科技集团于2023年就该报一篇指控证券欺诈的文章提起诉讼。但佛罗里达州的一名联邦法官裁定，特朗普媒体未能提供实际恶意的证据。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "And the World Cup now down to eight teams after a pair of crazy finishes to the round of 16 Tuesday, led by Messi. Defending champion Argentina stunned Egypt, scoring three second half goals to come back from a two-goal deficit. In the meantime, Switzerland took down Colombia in a penalty kick shootout after the game ended in a tie. And it will be the first time the Swiss will have reached the World Cup quarter finals since 1954. And today the nominations will be announced for the 78th Emmy Awards.",
+      "cn": "世界杯在周二16强赛的两场疯狂结局后，现已决出八强，梅西领衔。卫冕冠军阿根廷震惊埃及，下半场连进三球，从两球落后中逆转。与此同时，瑞士在点球大战中击败哥伦比亚，此前比赛以平局结束。这将是瑞士自1954年以来首次闯入世界杯四分之一决赛。今天，第78届艾美奖提名将公布。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "\"The Pitt\" and \"Hacks\" expected to bring in a number of nods. Yesterday, the Emmy's announced \"Law and Order SVU\" star Mariska Hargitay will host the show, and she will be the first female host in 15 years. Who knew? Straight ahead on CNN THIS MORNING ,we're going to continue to follow that breaking news out of the Middle East. That's where the president has just said that the ceasefire with Iran is over. We're going to try and figure out what that means. Plus, this.",
+      "cn": "《匹兹堡》和《绝望写手》预计将获得多项提名。昨天，艾美奖宣布《法律与秩序：特殊受害者》主演玛莉丝卡·哈吉塔将主持颁奖礼，她将是15年来首位女性主持人。谁知道呢？接下来在CNN《今晨》节目中，我们将继续关注中东的突发新闻。总统刚刚表示与伊朗的停火已经结束。我们将试图解读这意味着什么。此外，还有这个。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "We have a very short window here to pull ourselves together and find somebody.",
+      "cn": "我们只有很短的时间来振作起来，找到一个人。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The Platner problem. In Maine, his top backer now says he should drop out, but do Democrats have enough time to run a successful campaign to beat Senator Susan Collins? And in the meantime, good morning to Chicago. This is a look at the sunrise over the city's skyline.",
+      "cn": "普拉特纳的问题。在缅因州，他最大的支持者现在说他应该退出，但民主党人有足够的时间成功竞选击败参议员苏珊·柯林斯吗？与此同时，芝加哥早上好。这是城市天际线上的日出景象。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, we continue to follow this breaking news out of the Middle East. President Trump saying that the memorandum of understanding with Iran is over. So that means this truce is uncertain right now. It follows a flare-up overnight between the U.S. and Iran. The U.S. hitting 80 targets. And Iran promising a crushing response. President Trump, however, says he is done talking.",
+      "cn": "所以，我们继续关注中东的突发新闻。特朗普总统表示与伊朗的谅解备忘录已经结束。这意味着停火现在不确定。此前一夜之间美国和伊朗之间爆发冲突。美国打击了80个目标。伊朗承诺做出毁灭性回应。然而，特朗普总统表示他不再谈判。"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "As far as I'm concerned, it's just a waste of time dealing with them. They're liars. Everyone's agreed, no nuclear weapon. We make a deal. They go outside, talk to the press. They say, we never even talked about it. There's something wrong with them. They're cuckoo.",
+      "cn": "就我而言，与他们打交道只是浪费时间。他们是骗子。所有人都同意，没有核武器。我们达成协议。他们走出去，对媒体说，我们甚至从未讨论过。他们有问题。他们疯了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I'm going to bring in CNN international diplomatic editor Nic Robertson, who is in Ankara. And, Nic, leading up to this, we had the president talking about the funeral proceedings that had been happening in Iran. You had the technical talks that were supposed to keep going for 60 days. How did this break down? What is known right now?",
+      "cn": "我将连线CNN国际外交编辑尼克·罗伯逊，他在安卡拉。尼克，在此之前，总统谈到了伊朗正在举行的葬礼程序。原本应该持续60天的技术谈判。这是如何破裂的？目前知道什么？"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "Well, the president did acknowledge that the negotiators do want to keep talking. And I think a lot of people will hold on to that and say, that's a positive right there. And what we've seen in the past is the Qatari and Pakistani mediators who are in the middle of this, working diligently, slowly behind the scenes, one step at a time, trying to talk both sides down, trying to de-escalate at times, getting the original ceasefire, eventually getting that MOU after almost two months of hard diplomatic lifting.",
+      "cn": "嗯，总统确实承认谈判代表希望继续对话。我认为很多人会抓住这一点，说这是积极的。过去我们看到，卡塔尔和巴基斯坦的调解人参与其中，勤奋工作，在幕后缓慢推进，一步一步地试图让双方冷静下来，有时试图缓和局势，最终达成最初的停火，经过近两个月的艰难外交努力，最终达成了那份谅解备忘录。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "I don't think they're going to want to drop it. But it really does depend on what the president has to say and where he has committed his direction of travel on this. And we've seen that he does want to try to make a deal. But I think putting it in the context of the NATO summit here, you know, the secretary general, Mark Rutte, said he expected it to be a topic of conversation. The president sort of put it on the agenda yesterday before the strikes because he felt NATO nations should have stepped up more to help.",
+      "cn": "我认为他们不会想放弃。但这确实取决于总统要说什么以及他在这方面的方向。我们看到他确实想尝试达成协议。但我认为将其置于北约峰会的背景下，秘书长马克·吕特表示他预计这将成为讨论话题。总统在昨天袭击前就将其列入议程，因为他认为北约国家应该提供更多帮助。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "But the picture here is, they really want to focus on Ukraine. And President Zelenskyy is desperate to get more air defense missiles to stop the big, ballistic missiles that are killing people in Ukraine. And over the past few months there's a sense in Europe that the U.S., Iran, Israel war has been a distraction, consuming the very resources that Ukraine really needs, missile defense systems, and that this will be a deviation off the track of what NATO really wants to focus on today.",
+      "cn": "但情况是，他们真的想专注于乌克兰。泽连斯基总统迫切希望获得更多防空导弹来阻止在乌克兰造成人员伤亡的大型弹道导弹。过去几个月，欧洲有一种感觉，美国、伊朗、以色列的战争分散了注意力，消耗了乌克兰真正需要的资源，即导弹防御系统，这将偏离北约今天真正想关注的轨道。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "There's no doubt it will get discussion. But, of course, here we are talking about it. And really the thrust here is to get on and support Ukraine.",
+      "cn": "毫无疑问，这将引发讨论。但当然，我们在这里谈论它。真正的重点是继续支持乌克兰。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Nic, one other thing, though. When it comes to Ukraine, they've become the leading kind of battlefield experts on asymmetrical warfare and drones. And this is the exact issue the U.S. is dealing with when it comes to Iran. Is there any card to be played, so to speak, by Zelenskyy?",
+      "cn": "尼克，还有一件事。谈到乌克兰，他们已成为非对称战争和无人机方面的领先战场专家。而这正是美国在处理伊朗问题时面临的问题。泽连斯基是否有任何牌可打？"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "Zelenskyy clearly believes that he does have cards to play with the drones, their manufacturer, the long distance drones that are reaching more than a thousand, certainly 2,000 miles inside of Russia, hitting sensitive Russian targets. And we saw President Zelenskyy pretty much when Iran began hitting the United States' friends and allies in the gulf, he went out to Saudi, he went out to others in the gulf and said, we've got these defensive capabilities against drones. Here's how they work.",
+      "cn": "泽连斯基显然认为他确实有牌可打，那就是无人机及其制造商，那些远程无人机能够深入俄罗斯境内超过一千英里，甚至两千英里，打击俄罗斯的敏感目标。我们看到，当伊朗开始打击美国在海湾地区的朋友和盟友时，泽连斯基总统前往沙特和其他海湾国家，表示他们拥有针对无人机的防御能力，并展示了这些能力如何运作。"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "And he signed contracts. So, I think Zelenskyy, and certainly his European supporters here would recognize that he is at the cutting edge, that drone technology changes quickly on the battlefield. His country is a battlefield. He has the space, the technology, the people, the equipment to be at the cutting edge. So, he has something to offer. But he needs the money and he needs the resources against these ballistic missiles. And that's, you know, where he -- the card that he's short of.",
+      "cn": "他还签署了合同。所以，我认为泽连斯基，当然还有他在欧洲的支持者，会认识到他处于前沿地位，无人机技术在战场上变化迅速。他的国家就是一个战场。他拥有空间、技术、人员和设备来保持前沿地位。因此，他有一些东西可以提供。但他需要资金和资源来应对这些弹道导弹。这就是他缺少的那张牌。"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "And he's made that very clear just yesterday in his comments here, saying that Europe needs an air defense missile system capability, needs to be able to do it at scale, and quickly.",
+      "cn": "就在昨天，他在评论中明确表示，欧洲需要具备防空导弹系统的能力，并且需要能够大规模、快速地实现这一点。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's Nic Robertson, speaking to us about the news out of the NATO Summit. You heard him there talking about Ukraine. We're also following reporting about the president saying that his memorandum of understanding is off and his frustrations with Iran. I want to turn to some domestic politics because the balance of the Senate is in question. Graham Platner's Senate candidacy hanging on by a thread this morning up in Maine. This is after a new sexual assault allegation against the democratic candidate.",
+      "cn": "好的，这是尼克·罗伯逊就北约峰会的最新消息向我们发表讲话。你听到他谈论乌克兰。我们也在关注总统表示他的谅解备忘录作废以及对伊朗的不满的报道。我想转向一些国内政治，因为参议院的平衡存在疑问。格雷厄姆·普拉特纳的参议员候选资格今天早上在缅因州岌岌可危。此前，针对这位民主党候选人又出现了一项性侵犯指控。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "His original accuser now coming forward, telling CNN's Jake Tapper that Platner was a violent boyfriend.",
+      "cn": "他最初的指控者现在站出来，告诉CNN的杰克·塔珀，普拉特纳是一个暴力的男友。"
+    },
+    {
+      "speaker": "Lyndsey Fifield",
+      "text": "The things that he does in private, in his relationships with women, the things that he has done to women, coercive control, lying, deception, abuse, and really horrible things that we've -- that we've -- that we know about him -- sorry, we know that, that you can't be that way in private and not have it translate into how you would govern.",
+      "cn": "他在私下里、在与女性的关系中做的事情，他对女性做的事情，强制控制、撒谎、欺骗、虐待，以及我们知道的关于他的真正可怕的事情 --  -- 抱歉，我们知道，你不能在私下里那样做而不影响你如何治理国家。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And Platner is facing widespread calls to drop out of the race from the Democratic Party. That includes one of his biggest supporters, Bernie Sanders. In a statement, Sanders writes, \"I have spoken with Graham Platner about the best path forward for Maine. In light of these very serious allegations,\" Sanders says, \"I have recommended that he step down.\" The group chat is back. I think this is one of those stories that is actually in political group chats as more and more information drips out.",
+      "cn": "普拉特纳面临来自民主党的广泛退选呼声。这包括他最大的支持者之一伯尼·桑德斯。在一份声明中，桑德斯写道：\"我已经与格雷厄姆·普拉特纳讨论了缅因州的最佳前进道路。鉴于这些非常严重的指控，\"桑德斯说，\"我建议他辞职。\"群聊又回来了。我认为这是那些随着更多信息泄露而实际上出现在政治群聊中的故事之一。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But let me let people understand what's happening here. I think according to my notes, he has to withdraw by the 13th. And the reason why that's important is the secretary of state cannot allow a new name on the ballot until there's a vacancy. So, this is why everyone is on Platner watch. But how is Platner spending his time?",
+      "cn": "但让我让人们理解这里发生了什么。我认为根据我的笔记，他必须在13日之前退出。这之所以重要，是因为在出现空缺之前，州务卿不能允许新名字出现在选票上。所以，这就是为什么每个人都在关注普拉特纳。但普拉特纳在做什么呢？"
+    },
+    {
+      "speaker": "Edward-Isaac Dovere",
+      "text": "Well, he's spending his time huddled in private trying to figure out what to do. Look, there are two sets of things here.",
+      "cn": "嗯，他正私下里聚在一起，试图弄清楚该怎么做。看，这里有两件事。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, it sounded like he was busy pressuring the Democratic Party again (ph).",
+      "cn": "嗯，听起来他好像又在忙着向民主党施压。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "Well, right. I mean that's the thing. And so, thing number one is, a lot of Democrats who were very gung ho about him, until the revelations this week, do need to face their own questions of why everything else was allowed with Platner and they were for him. The Nazi tattoo, the Reddit post with all the political views saying black people don't tip, the previous allegations from women that were all waved off and said it's not enough to be an issue for him, but that this, all of a sudden, was.",
+      "cn": "嗯，没错。我的意思是，问题就在这里。所以，第一点是，很多之前对普拉特纳非常热衷的民主党人，在本周的爆料之后，确实需要面对自己的疑问：为什么普拉特纳之前的种种行为都被允许，而他们却支持他？纳粹纹身、Reddit上那些表达政治观点的帖子说黑人不给小费、之前女性的指控都被一笔带过，说不足以成为他的问题，但这件事突然就成了问题。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "The other thing is, when it comes to the -- replacing Platner on the ballot, perhaps, we have a situation here where Platner is holding -- he is saying that after being accused of sexual assault and abusing women, that he now has the right to have some control that he forces on the Democratic Party.",
+      "cn": "另一件事是，关于在选票上替换普拉特纳，我们目前的情况是，普拉特纳坚持认为 --  -- 在被指控性侵和虐待女性之后，他现在有权施加一些控制，迫使民主党接受。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "To name a successor.",
+      "cn": "指定一个继任者。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "To name a successor. And even though people keep saying to him, no, no, no, no, no, he is saying, yes, I can keep doing this, right.",
+      "cn": "指定一个继任者。尽管人们一直对他说，不，不，不，不，不，他却说，是的，我可以继续这样做，对吧。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And in the meantime you've got the former Maine state Senate president, Troy Jackson, the first person to officially explore a run. I think we have a couple of other faces and names that we're going to put up later. But in terms of this process, it feels pretty clear that everyone is saying withdraw.",
+      "cn": "与此同时，前缅因州参议院议长特洛伊·杰克逊是第一个正式探索参选的人。我想我们稍后还会列出其他一些面孔和名字。但就这个过程而言，很明显每个人都在说退出。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Why do you think there's a delay here?",
+      "cn": "你认为为什么会有延迟？"
+    },
+    {
+      "speaker": "Antjuan Seawright",
+      "text": "Take everything off the table. He needs -- he needs to withdraw. Start there. Number two, I always --",
+      "cn": "把一切都抛开。他需要 --  -- 他需要退出。从那里开始。第二点，我一直 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, like, the clock's a ticking, you know?",
+      "cn": "嗯，时间不等人，你知道吗？"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "I always believe in the old southern carpenter's rule when it comes to candidates. And I've always believed this throughout my 20 years in this business. Measure three times, cut once. It seems as if that this whole style versus substance conversation that is wrecking our party right now is leading to candidates like this that are tapping into the angry wing of our party, who are frustrated, rightly so, because things are not happening at the pace they wanted to.",
+      "cn": "在候选人问题上，我一直相信南方老木匠的规则。在我从事这个行业20年的时间里，我一直相信这一点：量三次，裁一次。现在看来，这种正在撕裂我们党的风格与实质的争论，导致了像这样的候选人出现，他们迎合了党内愤怒的一翼，这些人感到沮丧，而且有理由沮丧，因为事情没有按照他们想要的速度发展。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "But yet we're not taking the time to vet candidates. I credit the Senate Democratic leadership for recruiting Roy Cooper and Janet Mills. They were two of our top recruits this cycle. I think Cooper is going to do well in North Carolina. I also think Janet Mills would have done Maine -- done well in Maine because she's connected to the community. But that is --",
+      "cn": "但我们却没有花时间去审查候选人。我感谢参议院民主党领导层招募了罗伊·库珀和珍妮特·米尔斯。他们是我们这个周期中最重要的两位招募对象。我认为库珀在北卡罗来纳州会表现不错。我也认为珍妮特·米尔斯在缅因州会表现不错，因为她与社区有联系。但那是 --  --"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "She didn't do well in Maine, right? She didn't do well with the voters. Which is a separate conversation whether Platner --",
+      "cn": "她在缅因州表现不佳，对吧？她在选民中表现不好。至于普拉特纳是否 --  -- 那是另一个话题。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Well, Isaac, I think she did not do well because there was this big push by those who were angry and not necessarily informed to push in. We need to be anti the establishment.",
+      "cn": "嗯，艾萨克，我认为她表现不佳是因为那些愤怒且未必了解情况的人大力推动。我们需要反建制。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "And that has always been led by Bernie Sanders, the independent senator from Vermont, inserting himself in these primaries. And as a result, when it comes to competitive seats, it does not play out well. Look at Fetterman in Pennsylvania. Look at Tulsi Gabbard and others.",
+      "cn": "而这一直由佛蒙特州独立参议员伯尼·桑德斯领导，他介入这些初选。结果，在竞争激烈的席位中，效果并不好。看看宾夕法尼亚州的费特曼，看看图尔西·加巴德等人。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, let me let others jump in here because we have a bunch of things to get to, specifically who's going to run next. And to your point, why that matters. If that person is going to be more moderate or not. Before I come to you, Terry, I'm very sorry. I think we should hear from voters and hear some of them.",
+      "cn": "好吧，让我让其他人加入讨论，因为我们有很多事情要谈，特别是谁将参选下一轮。以及你的观点，为什么这很重要。那个人是否会更加温和。在我请你发言之前，特里，非常抱歉。我认为我们应该听听选民的意见，听听他们中的一些人。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "The stakes are so high. If we don't flip the Senate, the Epstein class wins. They win.",
+      "cn": "赌注太高了。如果我们不翻转参议院，爱泼斯坦阶层就赢了。他们赢了。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "I definitely wouldn't vote for him. So, yes, get out of the race.",
+      "cn": "我肯定不会投票给他。所以，是的，退出竞选吧。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "The best thing we can do is look at the Democratic socialist alternative. At this point, it is pretty apparent that everyone in the Republican and Democratic field does not have the interest in the American -- of the American people in mind.",
+      "cn": "我们能做的最好的事情是看看民主社会主义的替代方案。目前，很明显，共和党和民主党的每个人都没有把美国人民的利益放在心上。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Check out for me there, young man saying Republicans and Democrats don't have us in mind and looking to a populist answer. And the woman at the start mentioning the Epstein class, which I think that kind of voter is out there.",
+      "cn": "帮我看看那里，那个年轻人说共和党和民主党没有把我们放在心上，并寻求民粹主义的答案。还有开头提到爱泼斯坦阶层的那个女人，我认为那种选民是存在的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What do you hear, especially that last person who is not necessarily going to just default to Collins because Platner has problems. TERRY SCHILLING, PRESIDENT, American",
+      "cn": "你听到了什么，尤其是最后那个人，他不一定会因为普拉特纳有问题而默认支持柯林斯。美国主席特里·席林"
+    },
+    {
+      "speaker": "Principles Project",
+      "text": "Well, look, I've said this before. I think that elections have to be future oriented because voters are future oriented.",
+      "cn": "嗯，听着，我以前说过。我认为选举必须面向未来，因为选民是面向未来的。"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "They want to know what you're going to do to help them. Look, what was in Graham Platner's past was all very well known to the people that recruited him. And the party activists that did recruit him said that none of those things that they found, the Reddit post, the Nazi tattoo, all that stuff, none of it should keep him from the nomination.",
+      "cn": "他们想知道你会如何帮助他们。听着，格雷厄姆·普拉特纳的过去，招募他的人全都一清二楚。那些招募他的政党活动人士说，他们发现的那些东西 --  -- Reddit帖子、纳粹纹身等等 --  -- 都不应该阻止他获得提名。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. They were a Democratic Party but socialists.",
+      "cn": "是的。他们是民主党，但也是社会主义者。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "But, importantly, no, the --",
+      "cn": "但重要的是，不 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, I'm sorry, can we talk about recruitment for a second?",
+      "cn": "抱歉，我们能谈谈招募的事吗？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "That means something here. Who recruited him? And is this a lesson learned for the people who are out there saying the parties aren't doing it too well. It's time for other people to step in and do recruiting.",
+      "cn": "这很重要。谁招募了他？对于那些说政党做得不够好的人来说，这算是一个教训吗？是时候让其他人介入并负责招募了。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "The people who recruited him were people from -- who were not from Maine, for the most part. And those are the same people who are now saying that they get to decide what happens here. One of the top consultants for Platner was in Europe over the last couple days. He is now flying to Maine to help the process that they think that they are going to dictate of who gets to be Platner's replacement.",
+      "cn": "招募他的人大多不是缅因州本地人。正是这些人现在声称他们有权决定接下来会发生什么。普拉特纳的一位高级顾问过去几天在欧洲，现在正飞往缅因州，试图主导谁将成为普拉特纳的替代者。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "And again, I do think it's an interesting choice to say that this man, who is accused of sexual assault, now gets to put his will onto the party.",
+      "cn": "再说一次，我认为让一个被指控性侵的人来决定政党的意志，这是一个有趣的选择。"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "Can I just -- my main point was, is that all that stuff was already well known. But what changed here, I think, is what these people are seeing on camera, where the voters are saying, we can't support him anymore. And it's not so much with the allegations. I think that just the dynamics of the race have changed.",
+      "cn": "让我说 --  -- 我的主要观点是，那些事情早已众所周知。但我觉得，改变的是选民在镜头前表示无法再支持他。这与其说是指控的问题，不如说是竞选态势发生了变化。"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "And I think what's worrisome, if I was a Democrat, what I would be worried about right now is it seems that more and more these Democratic Party primaries are no longer primaries and elections, they're just suggestion boxes. And the elites really don't like suggestions.",
+      "cn": "如果我是民主党人，我现在担心的是，民主党的初选似乎越来越不像初选和选举，而更像是建议箱。而精英们并不喜欢建议。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me talk about the suggestion, because now we have to figure out who is next. What is the process? You've got some people jockeying for position. But in the meantime, you've got them just saying basically, beat Susan Collins. We've got a couple names there. Most of them are people who hold state office or have run for state office. But here's a sample of who's talking.",
+      "cn": "让我谈谈建议，因为现在我们必须弄清楚谁会是下一个。流程是什么？有些人正在争夺位置。但与此同时，他们基本上只是在说，击败苏珊·柯林斯。我们有几个名字，大多数是现任或曾竞选州公职的人。以下是一些正在讨论的人选。"
+    },
+    {
+      "speaker": "Troy Jackson",
+      "text": "Short timeline. Obviously money and all that is going to be a challenge. But I definitely think it's doable because the message, the movement is right and that's what's important.",
+      "cn": "时间很紧。显然，资金和所有这些都是挑战。但我绝对认为这是可行的，因为信息、运动是正确的，这才是重要的。"
+    },
+    {
+      "speaker": "Shenna Bellows",
+      "text": "I think it's really important that as many Democratic voters have a voice in this process when Graham Platner withdraws. DR. NIRAV SHAH (D),",
+      "cn": "我认为，当格雷厄姆·普拉特纳退出时，尽可能多的民主党选民在这一过程中有发言权非常重要。"
+    },
+    {
+      "speaker": "Former Maine Governor Candidate",
+      "text": "The stakes are incredibly high. We have an obligation, as -- in service of not just Mainers, but in service of the entire country to defeat Senator Collins this upcoming November.",
+      "cn": "赌注非常高。我们有义务 --  -- 不仅为缅因州人民服务，而且为整个国家服务 --  -- 在今年11月击败参议员柯林斯。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And working backwards, that was Dr. Nirav Shah, former Maine governor candidate, Shenna Bellows, the secretary of state, and Troy Jackson, former Maine Senate president. For people who might have some trauma around the Biden dropping out of the race and the air quotes process that followed, there are a lot of questions.",
+      "cn": "倒推一下，刚才发言的是前缅因州州长候选人尼拉夫·沙阿博士、州务卿申娜·贝洛斯和前缅因州参议院议长特洛伊·杰克逊。对于那些可能因拜登退出竞选以及随之而来的所谓\"过程\"而受到创伤的人来说，有很多问题。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Should the party have a pop-up convention on the weekend of the 25th, which is the deadline to choose a nominee, should they have a statewide caucus, basically redo the primary election? Antjuan, what do you think they should do?",
+      "cn": "党是否应该在25日那个周末举行一次临时大会 --  -- 这是选择候选人的最后期限 --  -- 还是应该举行全州范围的党团会议，基本上重新进行初选？安特万，你认为他们应该怎么做？"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "I think we should follow the process.",
+      "cn": "我认为我们应该遵循程序。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There is no process.",
+      "cn": "没有程序。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Well, that's not true. There is a process in place to put a nominee into place. And I think that's what happened in 2024, regardless of how you -- how you -- whether you agree with how Kamala Harris became my party's nominee. I think we have to follow process.",
+      "cn": "嗯，那不是真的。有一个程序可以确定候选人。我认为这就是2024年发生的事情，无论你是否同意卡玛拉·哈里斯如何成为我党的候选人。我认为我们必须遵循程序。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What is the process? I'm missing something.",
+      "cn": "程序是什么？我错过了什么。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Maine has a process in place to replace a person on their ballot. I think it's like a party pick kind of situation.",
+      "cn": "缅因州有一个程序来替换选票上的人。我认为这有点像党内挑选的情况。"
+    },
+    {
+      "speaker": "Ok. Seawright",
+      "text": "It's a party pick because there is a process in place. There are process in place all across the country for these emergency situations that happen. I think we need to follow that. That's number one. Number two, I also don't want to give Republicans a slot here in this moment because they have just as corrupt candidates, from Paxton and others who are on the ballot, but they do not govern themselves the same way when it comes to their issues and Democratic issues.",
+      "cn": "这是一个党派选择，因为有一个既定的程序。全国都有针对这些紧急情况的程序。我认为我们应该遵循这个程序。这是第一点。第二点，我现在也不想给共和党人一个机会，因为他们也有同样腐败的候选人，比如帕克斯顿和其他在选票上的人，但在处理他们自己的议题和民主党的议题时，他们并不以同样的方式约束自己。"
+    },
+    {
+      "speaker": "Ok. Seawright",
+      "text": "And I think there's a lesson for Democrats to learn in these moments. Look at Ken Paxton on July 4th. And now we're looking at Ken Paxton. I mean we're looking at our candidate in Maine. There's a lesson about how these things are covered and how we talk about them within the party.",
+      "cn": "我认为民主党人在这些时刻有教训要吸取。看看7月4日的肯·帕克斯顿。现在我们又在关注肯·帕克斯顿。我是说我们在关注缅因州的候选人。关于这些事情如何被报道以及我们如何在党内讨论它们，有一个教训。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "But the lesson for some Democrats was what was going on until Monday with Platner, which is to say all of those things that are supposed to be problems we're going to say aren't problems and we should go forward here. And that is part of how the Democrats got to this place. And it's a difference in how Democrats and Republicans operate for sure, whether it's Ken Paxton or Max Miller or there are a lot of -- or Donald Trump, there are a lot of people --",
+      "cn": "但对一些民主党人来说，直到周一普拉特纳的情况才是教训，也就是说，所有那些本应是问题的事情，我们却要说它们不是问题，我们应该继续前进。这也是民主党走到今天这一步的部分原因。这确实是民主党人和共和党人运作方式的不同，无论是肯·帕克斯顿、马克斯·米勒，还是很多其他人 --  -- 或者唐纳德·特朗普，有很多人 --  --"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "Who are Republicans who have had a lot of accusations made against them that are pretty serious.",
+      "cn": "他们是共和党人，有很多相当严重的指控针对他们。"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "But again, the reason that Paxton's succeeding is because he has a compelling policy agenda. He won over the voters. He had 130 --",
+      "cn": "但再次强调，帕克斯顿成功的原因是他有一个令人信服的政策议程。他赢得了选民的支持。他有130 --  --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "Antjuan, he had $130 million in party money spent against him, and he crushed it by -- won by double digits.",
+      "cn": "安特万，他有1.3亿美元的党内资金用于反对他，但他以两位数的优势大获全胜。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Terry, Terry, Terry. Terry --",
+      "cn": "特里，特里，特里。特里 --  --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "It's about -- it's about substance. It's about policy. It's about how you're going to protect people and make their lives better, period.",
+      "cn": "这是关于实质内容。关于政策。关于你将如何保护人民并改善他们的生活，句号。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Terry, Terry, respectfully, you're going to ignore the moral --",
+      "cn": "特里，特里，恕我直言，你是在忽视道德 --  --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "There's no -- there's no rape allegations. There's no Nazi tattoos. There's no reckless (ph) --",
+      "cn": "没有 --  -- 没有强奸指控。没有纳粹纹身。没有鲁莽的（听不清） --  --"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "You -- no, no, you're going to -- you're going to ignore the moral conversation around Ken Paxton?",
+      "cn": "你 --  -- 不，不，你要 --  -- 你要忽略围绕肯·帕克斯顿的道德讨论吗？"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "No, no. No, here's the moral --",
+      "cn": "不，不。不，这是道德 --  --"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "You're going to ignore the moral conversation around Max Miller beating his wife in front of his kids.",
+      "cn": "你要忽略围绕马克斯·米勒在孩子面前殴打妻子的道德讨论吗？"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "Here's the moral conversation. Here's the -- here's the moral conversation in a democracy.",
+      "cn": "这才是道德讨论。这才是 --  -- 这才是民主制度下的道德讨论。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "You can't -- you can't come to us and say that these things --",
+      "cn": "你不能 --  -- 你不能跑来跟我们说这些事情 --  --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "In a democracy voters get to decide.",
+      "cn": "在民主制度下，选民有权决定。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Somehow or another we should ignore those things because of somehow or another some right-wing policy issues --",
+      "cn": "不知怎的，我们应该忽略这些事情，因为某些右翼政策问题 --  --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "In a democracy, voters get to choose their party leader (ph).",
+      "cn": "在民主制度下，选民有权选择他们的政党领袖。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right, I'm going to bring it back to a female victim. I want to just repeat this before we go. This is Lyndsey Fifield, who is the accuser against Graham Platner, talking about violence and abuse. And she says something that I think we should remember going forward as we're trying to decide politically, as a political class, what matters in a man's history.",
+      "cn": "好了，我要把话题拉回到一位女性受害者身上。在我们结束之前，我想重复一下这段话。这是林赛·菲尔德，她是格雷厄姆·普拉特纳的指控者，谈论暴力和虐待。她说了一些我认为我们在前进过程中应该记住的话，因为我们作为政治阶层，正试图在政治上决定一个男人的历史中什么才是重要的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And she says, \"the things that he does in private, in his relationships with women, the things that he has done to women, coercive, control, lying, deception, abuse, and really horrible things that we know about him,\" she says, \"we know that you cannot be that way in private and not have it translate into how you would govern.\" You guys, stay with us. We're going to come back. Right now I want to show you live images from New York because they are actually trying to stabilize a high rise.",
+      "cn": "她说：\"他在私下里、在与女性的关系中做的事情，他对女性所做的那些事 --  -- 胁迫、控制、撒谎、欺骗、虐待，以及我们所知道的关于他的真正可怕的事情，\"她说，\"我们知道，你在私下里是那样的人，不可能不转化为你执政的方式。\"各位，请继续关注我们。我们马上回来。现在我想给你们看纽约的实时画面，因为他们正在试图稳定一栋高楼。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Crews are working overnight to shore up the weakest parts of a building.",
+      "cn": "工作人员连夜施工，加固建筑物最薄弱的部分。"
+    },
+    {
+      "speaker": "Scott Jennings",
+      "text": "We talk for about 17 minutes. You know, he talked a lot about the situation with Iran. He talked a little bit about Ukraine and what's going on in Europe. I'd gotten a few text messages from him, but I hadn't spoken to him. So, it was good to hear his voice. His voice sounded strong and sounded like he was keeping up with the news to me.",
+      "cn": "我们聊了大约17分钟。你知道，他谈了很多关于伊朗局势的问题。他稍微谈到了乌克兰和欧洲的情况。我之前收到过他几条短信，但没有和他通过话。所以，听到他的声音很好。他的声音听起来很坚强，而且我觉得他一直在关注新闻。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, Senator Mitch McConnell has been hospitalized for three weeks. Still unclear why or when he'll be released. And yet some MAGA voices demanding, quote, \"proof of life.\" Here's an example. Laura Loomer posting, \"high level source close to the White House tells me, quote, 'Mitch McConnell is officially brain dead and he's not coming back'.\" Again, that is Laura Loomer on X saying that. And then this is a former senior adviser for Kamala Harris' campaign, Mike Nellis.",
+      "cn": "好吧，参议员米奇·麦康奈尔已经住院三周了。仍不清楚他为何住院或何时出院。然而，一些MAGA声音要求所谓的\"生命证明\"。这里有一个例子。劳拉·卢默发帖称：\"接近白宫的高层消息人士告诉我，'米奇·麦康奈尔正式脑死亡，他不会回来了'。\"再次强调，这是劳拉·卢默在X上说的。然后是卡玛拉·哈里斯竞选团队的前高级顾问迈克·内利斯。"
+    },
+    {
+      "speaker": "Mike Nellis",
+      "text": "If Scott Jennings and Thune and everybody else could have a 20 minute phone call with Mitch McConnell, he should be able to shoot a 60 second proof of life video to show us that he's OK. I think they know the deadline for a special election is August 3rd. If he's dead or if he's on a ventilator, if he's not able to do his job, he should resign right now. They should have a special election.",
+      "cn": "如果斯科特·詹宁斯、图恩和其他人都能和米奇·麦康奈尔通20分钟电话，他应该能拍一个60秒的生命证明视频，向我们展示他没事。我认为他们知道特别选举的截止日期是8月3日。如果他死了，或者靠呼吸机维持生命，无法履行职责，他现在就应该辞职。他们应该举行特别选举。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, you have a lot of Senate Republicans coming out. We're going to just show some on screen, Isaac, all saying, I talked to him, I talked to him, I talked to him for 20 minutes, I talked to him for 45 minutes. We heard -- we're hearing these pundits talk not just about his potential health, but what they think the issue is, a special election deadline.",
+      "cn": "所以，很多参议院共和党人站出来。我们将在屏幕上展示一些，艾萨克，都说：我和他谈过，我和他谈过，我和他谈了20分钟，我和他谈了45分钟。我们听到 --  -- 我们听到这些专家不仅在谈论他潜在的健康问题，还在谈论他们认为的问题所在：特别选举的截止日期。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "Yes. Look, Audie, if you were -- hadn't been on air for three weeks and there was no answers where you had gone, probably CNN would be interested to know what was going on with you.",
+      "cn": "是的。听着，奥迪，如果你三周没有出现在节目中，而且没有人知道你去哪里了，可能CNN会想知道你发生了什么事。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, although Reddit would say thank you.",
+      "cn": "是的，尽管Reddit会表示感谢。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "Same thing with -- sure. Maybe.",
+      "cn": "同样的事情 --  -- 当然。也许吧。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "I think the same would be true of me probably for you guys, too.",
+      "cn": "我想对你们来说，我可能也一样。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "Mitch McConnell is entitled to private information about his health, but he is a public official. He is the taxpayers of Kentucky and of the federal government -- and of the country, because he's a federal employee, are entitled to know what's going on.",
+      "cn": "米奇·麦康奈尔有权对自己的健康信息保密，但他是一名公职人员。他是肯塔基州和联邦政府的纳税人 --  -- 也是国家的纳税人，因为他是联邦雇员，有权知道发生了什么。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "Isaac, this is the second Republican who we've had these medical mishaps, if you will, missing in action. And I just think that from the party who claims transparency and accountability, we should just know more when these situations pop up. We had a member of Congress who was missing in action for months.",
+      "cn": "艾萨克，这是第二位出现这种医疗事故的共和党人，可以说是失踪了。我只是认为，对于一个声称透明和问责的政党来说，当这种情况出现时，我们应该了解更多。我们有一位国会议员失踪了几个月。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "And we didn't hear anything. And we later learned depression. Now we have Senator McConnell. If this were Democrats, Republicans would be wetting their diapers about accountability and responsibility.",
+      "cn": "我们什么也没听到。后来我们才知道是抑郁症。现在又有了麦康奈尔参议员。如果这是民主党人，共和党人早就为问责和责任急得尿裤子了。"
+    },
+    {
+      "speaker": "Dovere",
+      "text": "If these are -- if these are important jobs, as they are --",
+      "cn": "如果这些是重要的工作，正如它们确实是 --  --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "Well, it's just interesting because I am old enough to remember the Biden years where we had our secretary of defense absolutely AWOL, went out for a surgery for, I think, three weeks. We had the president of the United States obviously suffering from some type of a mental affliction and suffering, dementia (ph).",
+      "cn": "嗯，这很有趣，因为我年纪足够大，还记得拜登执政时期，我们的国防部长完全擅离职守，去做手术，我想是三个星期。我们的美国总统显然患有某种精神疾病和痛苦，痴呆症。"
+    },
+    {
+      "speaker": "Seawright",
+      "text": "OK, do you have medical proof of that?",
+      "cn": "好吧，你有医学证据吗？"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "Well, I saw it on TV. I saw it would my own eyes. (CROSS TALK)",
+      "cn": "嗯，我在电视上看到的。我亲眼看到的。（交叉对话）"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, hold on. Let me get -- let me bring you one other thing.",
+      "cn": "好吧，等等。让我 --  -- 让我再提一件事。"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "But we were gaslit and told that he was at the top of his game.",
+      "cn": "但我们被欺骗了，被告知他处于最佳状态。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We're going to give the last word to Lloyd Austin, who you just mentioned.",
+      "cn": "最后我们把发言权交给劳埃德·奥斯汀，你刚才提到他。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Because back in 2024, he answered questions about this. And this is a great way to end the show. Here is the lesson he took away from being private about your health and not telling the public.",
+      "cn": "因为在2024年，他回答了关于这个问题。这是结束节目的好方式。以下是他从对自己的健康保密、不告诉公众这件事中吸取的教训。"
+    },
+    {
+      "speaker": "Lloyd Austin",
+      "text": "I don't think it's news that I'm a pretty private guy. I never liked burdening others with my problems. It's just not my way. But I've learned from this experience. Taking this kind of job means losing some of the privacy that most of us expect. The American people have a right to know if their leaders are facing health challenges that might affect their ability to perform their duties, even temporarily.",
+      "cn": "我认为自己是个相当注重隐私的人，这并不算什么新闻。我从来不喜欢用自己的问题去麻烦别人。这不是我的风格。但这次经历让我学到了很多。担任这样的职务意味着要放弃我们大多数人期望的隐私。美国人民有权知道，他们的领导人是否面临可能影响其履行职责能力的健康挑战，即使是暂时的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And later on, testified before Congress that there would be changes made to notify the chain of command, as well as the public. There is a way for Congress and lawmakers to deal with this. They have not chosen to. I want to thank you guys for being here. I want to thank you for waking up with me. I'm Audie Cornish, and the headlines are next. var CNN = CNN || {};",
+      "cn": "后来，我在国会作证时表示，将会做出改变，通知指挥系统以及公众。国会和立法者有办法处理这个问题。但他们没有选择这样做。感谢各位来到这里。感谢你们和我一起醒来。我是奥黛·科尼什，接下来是新闻头条。"
+    }
+  ]
+}
