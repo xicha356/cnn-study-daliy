@@ -1,0 +1,1377 @@
+{
+  "date": "2026-07-07",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-07/segment/01",
+  "summary": "ប្រជាធិបតេយ្យ លោក Graham Plattner ប្រឈមមុខនឹងការចោទប្រកាន់ថ្មីពីបទរំលោភ ហើយសមាជិកប្រជាធិបតេយ្យសំខាន់ៗជាច្រើនបានដកការគាំទ្រ ដែលធ្វើឱ្យអនាគតនៃយុទ្ធនាការរបស់គាត់មានសភាពមិនច្បាស់លាស់។ លោក Trump នឹងមកដល់ប្រទេសទួរគីដើម្បីចូលរួមកិច្ចប្រជុំកំពូលណាតូ ដែលនឹងសាកល្បងទំនាក់ទំនងជាមួយសម្ព័ន្ធមិត្ត។ ទឹកជំនន់នៅរដ្ឋ New Jersey បណ្តាលឱ្យដំបូលផ្សារទំនើបដួលរលំ។ ក្រុមបាល់ទាត់បុរសអាមេរិក ទោះបីជាកីឡាករស្នូលត្រឡប់មកវិញក៏ដោយ ក៏នៅតែមិនអាចឡើងទៅវគ្គពាក់កណ្តាលផ្តាច់ព្រ័ត្រនៃ World Cup បានឡើយ។",
+  "vocabulary": [
+    {
+      "word": "pull support",
+      "phonetic": "/pʊl səˈpɔːrt/",
+      "pos": "phrase",
+      "usage": "ពាក្យដែលគេប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ពាក្យដែលគេប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ដកការគាំទ្រ",
+      "en": "to withdraw one's endorsement or backing",
+      "excerpt": "Key Dems Pull Support from Platner after New Accusations",
+      "example_cn": "បន្ទាប់ពីមានការចោទប្រកាន់ថ្មី សមាជិកគណបក្សប្រជាធិបតេយ្យសំខាន់ៗបានដកការគាំទ្រចំពោះ Plattner"
+    },
+    {
+      "word": "float the idea",
+      "phonetic": "/floʊt ði aɪˈdiːə/",
+      "pos": "phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "លើកយកគំនិត (សាកល្បង)",
+      "en": "to suggest something to see how people react",
+      "excerpt": "Trump Floats Idea of Nominating Ted Cruz for Future Supreme Court Seat",
+      "example_cn": "លោក Trump បានលើកយកគំនិតសាកល្បងក្នុងការតែងតាំងលោក Ted Cruz ជាចៅក្រមតុលាការកំពូលនាពេលអនាគត"
+    },
+    {
+      "word": "allegation",
+      "phonetic": "/ˌæləˈɡeɪʃən/",
+      "pos": "n.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការចោទប្រកាន់; ការអះអាង",
+      "en": "a claim or assertion that someone has done something illegal or wrong, typically one made without proof",
+      "excerpt": "new accusations emerged Monday. A woman he dated coming forward saying that he raped her",
+      "example_cn": "កាលពីថ្ងៃចន្ទ មានការចោទប្រកាន់ថ្មីមួយបានលេចឡើង។ ស្ត្រីម្នាក់ដែលគាត់ធ្លាប់ណាត់ជួបបានចេញមកនិយាយថាគាត់បានរំលោភនាង"
+    },
+    {
+      "word": "curtains",
+      "phonetic": "/ˈkɜːrtənz/",
+      "pos": "n.",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "ចប់; បញ្ចប់ (ពាក្យស្លែង)",
+      "en": "the end; death or ruin",
+      "excerpt": "But is it curtains for Maine Senate candidate Graham Platner?",
+      "example_cn": "ប៉ុន្តែតើបេក្ខជនសមាជិកព្រឹទ្ធសភារដ្ឋ Maine លោក Graham Plattner នឹងត្រូវបញ្ចប់ហើយឬនៅ?"
+    },
+    {
+      "word": "jump ship",
+      "phonetic": "/dʒʌmp ʃɪp/",
+      "pos": "phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "បោះបង់កប៉ាល់; បំបែកចេញ (ពីអង្គការ គណបក្ស ។ល។)",
+      "en": "to leave a job, organization, or situation suddenly, especially when it is in difficulty",
+      "excerpt": "The Democrats are jumping ship.",
+      "example_cn": "សមាជិកគណបក្សប្រជាធិបតេយ្យកំពុងបំបែកចេញជាបន្តបន្ទាប់។"
+    },
+    {
+      "word": "mounting",
+      "phonetic": "/ˈmaʊntɪŋ/",
+      "pos": "adj.",
+      "usage": "ប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "កើនឡើងជាលំដាប់; កាន់តែធ្ងន់ធ្ងរ",
+      "en": "increasing, especially in a way that causes concern",
+      "excerpt": "pressure mounting on Graham Platner after new accusations emerged Monday",
+      "example_cn": "បន្ទាប់ពីមានការចោទប្រកាន់ថ្មីនៅថ្ងៃចន្ទ សម្ពាធលើលោក Graham Platter កាន់តែធ្ងន់ធ្ងរ"
+    },
+    {
+      "word": "stem from",
+      "phonetic": "/stem frʌm/",
+      "pos": "phrase",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "កើតចេញពី; បណ្តាលមកពី",
+      "en": "to be caused by or originate from",
+      "excerpt": "This allegation stems from an event about five years ago",
+      "example_cn": "ការចោទប្រកាន់នេះកើតចេញពីហេតុការណ៍មួយកាលពីប្រហែលប្រាំឆ្នាំមុន"
+    },
+    {
+      "word": "categorically",
+      "phonetic": "/ˌkætəˈɡɔːrɪkli/",
+      "pos": "adv.",
+      "usage": "ប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ដាច់ខាត; ច្បាស់លាស់",
+      "en": "in a way that is unambiguously explicit and direct",
+      "excerpt": "Any accusation of non-consensual behavior is categorically false.",
+      "example_cn": "ការចោទប្រកាន់ណាមួយអំពីអំពើមិនស្ម័គ្រចិត្តគឺខុសទាំងស្រុង។"
+    },
+    {
+      "word": "rescind",
+      "phonetic": "/rɪˈsɪnd/",
+      "pos": "v.",
+      "usage": "ប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ដកហូត; លុបចោល",
+      "en": "to revoke, cancel, or repeal (a law, order, or agreement)",
+      "excerpt": "Others rescinding their endorsement.",
+      "example_cn": "អ្នកផ្សេងទៀតបានដកការគាំទ្ររបស់ពួកគេ។"
+    },
+    {
+      "word": "salvage",
+      "phonetic": "/ˈsælvɪdʒ/",
+      "pos": "v.",
+      "usage": "ប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "សង្គ្រោះ; ទាញយកមកវិញ",
+      "en": "to save something from loss or destruction",
+      "excerpt": "Is it too little, too late to salvage the Democrats' chances in Maine?",
+      "example_cn": "ឥឡូវនេះ តើវាយឺតពេលហើយឬនៅ ក្នុងការជួយសង្គ្រោះគណបក្សប្រជាធិបតេយ្យនៅរដ្ឋ Maine?"
+    },
+    {
+      "word": "red flag",
+      "phonetic": "/red flæɡ/",
+      "pos": "n.",
+      "usage": "កន្សោមថេរ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "កន្សោមថេរ · កម្រិតមធ្យម",
+      "cn": "សញ្ញាគ្រោះថ្នាក់; ការព្រមាន",
+      "en": "a warning sign or indicator of a problem",
+      "excerpt": "he had a lot of red flags, red flags that I also pointed to",
+      "example_cn": "គាត់មានសញ្ញាគ្រោះថ្នាក់ជាច្រើន ហើយខ្ញុំក៏បានចង្អុលបង្ហាញពីសញ្ញាទាំងនោះដែរ"
+    },
+    {
+      "word": "irredeemable",
+      "phonetic": "/ˌɪrɪˈdiːməbl/",
+      "pos": "adj.",
+      "usage": "ប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ប្រើក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "មិនអាចព្យាបាលបាន; មិនអាចត្រឡប់វិញបាន",
+      "en": "not able to be saved, improved, or corrected",
+      "excerpt": "This is beyond red flags, though. This is irredeemable.",
+      "example_cn": "ប៉ុន្តែនេះហួសពីសញ្ញាគ្រោះថ្នាក់ទៅទៀត។ វាមិនអាចត្រឡប់វិញបានទេ។"
+    },
+    {
+      "word": "culmination",
+      "phonetic": "/ˌkʌlmɪˈneɪʃən/",
+      "pos": "n.",
+      "usage": "ប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ចំណុចកំពូល; កម្រិតខ្ពស់បំផុត; ទីបញ្ចប់",
+      "en": "the highest or climactic point of something, especially as attained after a long time",
+      "excerpt": "We saw the kind of culmination of all these controversies coming to a head.",
+      "example_cn": "យើងឃើញភាពចម្រូងចម្រាសទាំងអស់នេះឈានដល់ចំណុចកំពូល។"
+    },
+    {
+      "word": "cut bait",
+      "phonetic": "/kʌt beɪt/",
+      "pos": "phrase",
+      "usage": "កន្សោមថេរ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "កន្សោមថេរ · កម្រិតមធ្យម",
+      "cn": "បោះបង់; កាត់ផ្តាច់ទំនាក់ទំនង (មកពីពាក្យស្លោកនេសាទ)",
+      "en": "to abandon a failing venture or relationship",
+      "excerpt": "they decided that this was the moment that they wanted to cut bait",
+      "example_cn": "ពួកគេសម្រេចចិត្តថានេះជាពេលដែលពួកគេចង់បោះបង់"
+    },
+    {
+      "word": "gloss over",
+      "phonetic": "/ɡlɒs ˈoʊvər/",
+      "pos": "phrase",
+      "usage": "កន្សោមថេរ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "កន្សោមថេរ · កម្រិតមធ្យម",
+      "cn": "បិទបាំង; និយាយស្រាលៗ",
+      "en": "to treat something briefly or superficially, often to avoid embarrassment",
+      "excerpt": "people sort of glossed over the allegations I raised",
+      "example_cn": "មនុស្សនិយាយស្រាលៗពីការចោទប្រកាន់របស់ខ្ញុំ"
+    },
+    {
+      "word": "own goal",
+      "phonetic": "/oʊn ɡoʊl/",
+      "pos": "n.",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "វប្បធម៌ និងកីឡា",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "គ្រាប់បាល់ស៊ុតបញ្ចូលទីខ្លួនឯង (ប្រៀបធៀបនឹងសកម្មភាពដែលប៉ះពាល់ផលប្រយោជន៍ខ្លួនឯង)",
+      "en": "a goal scored accidentally by a player against their own team; figuratively, an action that backfires on the person who took it",
+      "excerpt": "And this is an own goal by Democrats.",
+      "example_cn": "នេះជាការស៊ុតបញ្ចូលទីខ្លួនឯងរបស់គណបក្សប្រជាធិបតេយ្យ។"
+    },
+    {
+      "word": "deep cut",
+      "phonetic": "/diːp kʌt/",
+      "pos": "n.",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "ចំណេះដឹងកម្រ; ប្រធានបទដែលមិនសូវពេញនិយម",
+      "en": "a reference or piece of information that is obscure or not widely known",
+      "excerpt": "It's a deep cut, Doug.",
+      "example_cn": "នេះជាចំណេះដឹងកម្រ Doug។"
+    },
+    {
+      "word": "corner",
+      "phonetic": "/ˈkɔːrnər/",
+      "pos": "v.",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ធ្វើឲ្យជាប់អន្ទាក់; រុញចូលជ្រុង",
+      "en": "to force someone into a difficult or defensive position",
+      "excerpt": "he would corner you, or he would corner somebody else with a lot of weird stuff",
+      "example_cn": "គាត់នឹងរុញអ្នកចូលជ្រុង ឬរុញអ្នកដទៃចូលជ្រុងជាមួយរបស់ចម្លែកៗ"
+    },
+    {
+      "word": "credible",
+      "phonetic": "/ˈkredəbl/",
+      "pos": "adj.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "អាចទុកចិត្តបាន; គួរឲ្យទុកចិត្ត",
+      "en": "able to be believed; convincing",
+      "excerpt": "Now, this is deemed as credible.",
+      "example_cn": "ឥឡូវនេះ នេះត្រូវបានចាត់ទុកថាអាចទុកចិត្តបាន។"
+    },
+    {
+      "word": "predator",
+      "phonetic": "/ˈpredətər/",
+      "pos": "n.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "សត្វមំសាសី; អ្នករំលោភបំពាន (ជាពិសេសអ្នករំលោភផ្លូវភេទ)",
+      "en": "a person who exploits or preys on others, especially sexually",
+      "excerpt": "I would really call Bernie Sanders to apologize for pushing this kind of predator",
+      "example_cn": "ខ្ញុំពិតជានឹងអំពាវនាវឲ្យ Bernie Sanders សុំទោសចំពោះការជំរុញអ្នករំលោភបំពានបែបនេះ"
+    },
+    {
+      "word": "communist",
+      "phonetic": "/ˈkɑːmjənɪst/",
+      "pos": "n.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · មូលដ្ឋាន",
+      "cn": "អ្នកកុម្មុយនិស្ត (ស្លាកសញ្ញាប្រមាថនៅទីនេះ)",
+      "en": "a person who advocates or believes in communism; used here as a derogatory label",
+      "excerpt": "stop pushing these kind of communists",
+      "example_cn": "ឈប់ជំរុញអ្នកកុម្មុយនិស្តបែបនេះទៅ"
+    },
+    {
+      "word": "flawed",
+      "phonetic": "/flɔːd/",
+      "pos": "adj.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "មានកំហុស; មានស្នាមអុជខ្ចោះ",
+      "en": "having a flaw or imperfection; not perfect",
+      "excerpt": "he has been a flawed candidate, all of those things",
+      "example_cn": "គាត់តែងតែជាបេក្ខជនដែលមានកំហុស និងអ្វីៗផ្សេងទៀត"
+    },
+    {
+      "word": "reassure",
+      "phonetic": "/ˌriːəˈʃʊr/",
+      "pos": "v.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ធ្វើឲ្យធូរចិត្ត; ធានាឡើងវិញ",
+      "en": "to say or do something to remove the doubts or fears of someone",
+      "excerpt": "he came to Washington and reassured people",
+      "example_cn": "គាត់បានមកទីក្រុងវ៉ាស៊ីនតោន ហើយធានាដល់ប្រជាជន"
+    },
+    {
+      "word": "intoxicated",
+      "phonetic": "/ɪnˈtɑːksɪkeɪtɪd/",
+      "pos": "adj.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ស្រវឹង; ស្រវឹងស្រា",
+      "en": "affected by alcohol or drugs to the point of losing control",
+      "excerpt": "he was heavily intoxicated",
+      "example_cn": "គាត់ស្រវឹងខ្លាំងនៅពេលនោះ"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A woman he dated coming forward saying that he raped her while he was heavily intoxicated.",
+      "cn": "ស្ត្រីម្នាក់ដែលធ្លាប់ណាត់ជួបជាមួយគាត់បានចេញមកចោទប្រកាន់ថា គាត់បានរំលោភនាងក្នុងស្ថានភាពស្រវឹងខ្លាំង។",
+      "structure": "ប្រយោគចម្បង៖ A woman...coming forward; ប្រយោគគុណនាម៖ he dated (លុបចោល that); ប្រយោគអំពីវត្ថុ៖ that he raped her; ប្រយោគអំពីពេលវេលា៖ while he was heavily intoxicated។",
+      "analysis": "ឃ្លា 'coming forward' ជាកិរិយាសព្ទបច្ចុប្បន្នកាលប្រើជាគុណនាមដាក់ក្រោយ; 'while' នាំប្រយោគអំពីពេលវេលា; 'heavily intoxicated' ជាកន្សោមប្រើក្នុងព័ត៌មាន មានន័យថា 'ស្រវឹងខ្លាំង'។"
+    },
+    {
+      "en": "This allegation stems from an event about five years ago, and they are accusations Platner denies.",
+      "cn": "ការចោទប្រកាន់នេះកើតចេញពីហេតុការណ៍ប្រហែលប្រាំឆ្នាំមុន ហើយទាំងនេះជាការចោទប្រកាន់ដែលលោក Platner បដិសេធ។",
+      "structure": "ប្រយោគសមានកម្ម៖ This allegation stems...and they are accusations; ប្រយោគគុណនាម៖ Platner denies (លុបចោល that)។",
+      "analysis": "ឃ្លាកិរិយាសព្ទ 'stems from' មានន័យថា 'កើតចេញពី'; 'about five years ago' ជាកន្សោមប្រហាក់ប្រហែល; ប្រយោគគុណនាមលុបសព្វនាមទំនាក់ទំនង។"
+    },
+    {
+      "en": "Any accusation of non-consensual behavior is categorically false.",
+      "cn": "ការចោទប្រកាន់ណាមួយអំពីអាកប្បកិរិយាមិនមានការយល់ព្រមគឺពិតជាមិនពិតទាំងស្រុង។",
+      "structure": "ប្រយោគសាមញ្ញ៖ ប្រធាន Any accusation...behavior, រចនាសម្ព័ន្ធកិរិយាសព្ទភ្ជាប់ is categorically false។",
+      "analysis": "'non-consensual behavior' ជាពាក្យច្បាប់/ព័ត៌មាន មានន័យថា 'អាកប្បកិរិយាមិនមានការយល់ព្រម'; 'categorically' ជាគុណកិរិយា សង្កត់ធ្ងន់ថា 'ពិតជា, ដាច់ខាត'។"
+    },
+    {
+      "en": "Democratic support all but collapsing.",
+      "cn": "ការគាំទ្ររបស់គណបក្សប្រជាធិបតេយ្យស្ទើរតែដួលរលំទាំងស្រុង។",
+      "structure": "រចនាសម្ព័ន្ធឯករាជ្យ៖ Democratic support + all but collapsing។",
+      "analysis": "'all but' មានន័យថា 'ស្ទើរតែ, ជិត'; 'collapsing' ជាកិរិយាសព្ទបច្ចុប្បន្នកាល បង្ហាញសកម្មភាពកំពុងបន្ត; ប្រយោគនេះជាកន្សោមបង្រួមបែបចំណងជើងព័ត៌មាន។"
+    },
+    {
+      "en": "Several key leaders have called for him to drop out.",
+      "cn": "មេដឹកនាំសំខាន់ៗជាច្រើនបានអំពាវនាវឱ្យគាត់ដកខ្លួនចេញ។",
+      "structure": "ប្រយោគសាមញ្ញ៖ ប្រធាន Several key leaders, កិរិយាសព្ទ have called for, វត្ថុ him, បន្ថែមវត្ថុ to drop out។",
+      "analysis": "'call for sb to do sth' មានន័យថា 'អំពាវនាវឱ្យនរណាម្នាក់ធ្វើអ្វីមួយ'; 'drop out' ជាឃ្លាថេរ មានន័យថា 'ដកខ្លួនចេញ (ពីការបោះឆ្នោត)'។"
+    },
+    {
+      "en": "Is it too little, too late to salvage the Democrats' chances in Maine?",
+      "cn": "តើវាយឺតពេល និងតិចពេកហើយឬនៅ ដើម្បីសង្គ្រោះឱកាសរបស់គណបក្សប្រជាធិបតេយ្យនៅរដ្ឋ Maine?",
+      "structure": "ប្រយោគសំណួរទូទៅ៖ Is it too little, too late to salvage...; ឃ្លាអចិន្ត្រៃយ៍ជាប្រធានពិត។",
+      "analysis": "'too little, too late' ជាសំនៀងថេរ មានន័យថា 'តិចពេក យឺតពេក'; 'salvage' មានន័យថា 'សង្គ្រោះ, ទាញយកមកវិញ'។"
+    },
+    {
+      "en": "In hindsight, yes, I mean, he had he had a lot of red flags, red flags that I also pointed to.",
+      "cn": "ក្រឡេកមើលក្រោយ បាទ ខ្ញុំចង់និយាយថា គាត់មានសញ្ញាគ្រោះថ្នាក់ជាច្រើន ដែលខ្ញុំក៏បានចង្អុលបង្ហាញផងដែរ។",
+      "structure": "ប្រយោគចម្បង៖ he had a lot of red flags; ពាក្យបញ្ចូល៖ yes, I mean; ប្រយោគគុណនាម៖ that I also pointed to។",
+      "analysis": "'in hindsight' មានន័យថា 'ក្រឡេកមើលក្រោយ'; 'red flags' ជាពាក្យប្រៀបធៀប មានន័យថា 'សញ្ញាគ្រោះថ្នាក់, ការព្រមាន'; 'pointed to' មានន័យថា 'ចង្អុលបង្ហាញ'។"
+    },
+    {
+      "en": "This is beyond red flags, though.",
+      "cn": "ប៉ុន្តែនេះហួសពីសញ្ញាគ្រោះថ្នាក់ទៅទៀត។",
+      "structure": "ប្រយោគសាមញ្ញ៖ This is beyond red flags; though ជាគុណកិរិយា បង្ហាញការផ្ទុយ។",
+      "analysis": "'beyond' នៅទីនេះមានន័យថា 'ហួសពី'; 'though' ដាក់នៅចុងប្រយោគ បង្ហាញការផ្ទុយ ស្មើនឹង 'however'។"
+    },
+    {
+      "en": "That was actually one of the huge reasons that I didn't come forward and -- and still struggled.",
+      "cn": "នោះពិតជាហេតុផលដ៏ធំមួយដែលខ្ញុំមិនបានចេញមុខ ហើយនៅតែតស៊ូរហូតមក។",
+      "structure": "ប្រយោគចម្បង៖ That was...one of the huge reasons; ប្រយោគបន្ទាប់បន្សំ៖ that I didn't come forward and still struggled.",
+      "analysis": "'come forward' មានន័យថា 'ចេញមកបញ្ជាក់ (សំដៅលើការចោទប្រកាន់ជាសាធារណៈ)'; 'struggled' បង្ហាញពីការតស៊ូក្នុងចិត្ត; សញ្ញាដកឃ្លាបង្ហាញពីការស្ទាក់ស្ទើរ ឬការសង្កត់ធ្ងន់។"
+    },
+    {
+      "en": "Like, that was a huge moral conflict to -- to feel like --",
+      "cn": "ឧទាហរណ៍ នោះគឺជាជម្លោះសីលធម៌ដ៏ធំមួយ -- -- មានអារម្មណ៍ដូចជា -- --",
+      "structure": "ប្រយោគចម្បង៖ that was a huge moral conflict; ឃ្លាអចិន្ត្រៃយ៍ to feel like ជាគុណនាម; សញ្ញាដកឃ្លាបង្ហាញពីការផ្អាកនិយាយ។",
+      "analysis": "'moral conflict' មានន័យថា 'ជម្លោះសីលធម៌'; សញ្ញាដកឃ្លាបង្ហាញថាអ្នកនិយាយកំពុងស្ទាក់ស្ទើរ ឬស្វែងរកពាក្យ។"
+    },
+    {
+      "en": "I think we -- we saw the kind of culmination of all these controversies coming to a head.",
+      "cn": "ខ្ញុំគិតថាយើងបានឃើញការបញ្ចប់មួយប្រភេទនៃភាពចម្រូងចម្រាសទាំងអស់នេះដែលឈានដល់ចំណុចកំពូល។",
+      "structure": "ប្រយោគចម្បង៖ I think; ប្រយោគបន្ទាប់បន្សំជាកម្មវត្ថុ៖ we saw the kind of culmination...coming to a head។",
+      "analysis": "'culmination' មានន័យថា 'ចំណុចកំពូល, កម្រិតខ្ពស់បំផុត'; 'coming to a head' ជាពាក្យស្លោក មានន័យថា 'ឈានដល់ដំណាក់កាលសម្រេច, ក្តៅខ្លាំង'។"
+    },
+    {
+      "en": "And they decided that this was the moment that they wanted to cut bait.",
+      "cn": "ពួកគេបានសម្រេចចិត្តថានេះជាពេលដែលពួកគេចង់បោះបង់។",
+      "structure": "ប្រយោគចម្បង៖ they decided; ប្រយោគបន្ទាប់បន្សំជាកម្មវត្ថុ៖ this was the moment; ប្រយោគបន្ទាប់បន្សំជាគុណនាម៖ that they wanted to cut bait។",
+      "analysis": "'cut bait' ជាពាក្យស្លោក មកពីការនេសាទ មានន័យថា 'បោះបង់, បញ្ឈប់ការខាតបង់'។"
+    },
+    {
+      "en": "I think it's difficult to see how he continues in this race.",
+      "cn": "ខ្ញុំគិតថាវាពិបាកមើលឃើញថាតើគាត់នឹងបន្តការប្រកួតប្រជែងនេះដោយរបៀបណា។",
+      "structure": "ប្រយោគចម្បង៖ I think; ប្រយោគបន្ទាប់បន្សំជាកម្មវត្ថុ៖ it's difficult to see how he continues in this race។",
+      "analysis": "'it's difficult to see' ជាកន្សោមទូទៅ មានន័យថា 'ពិបាកនឹងស្រមៃ/ទាយ'; 'continue in this race' មានន័យថា 'បន្តការប្រកួតប្រជែង'។"
+    },
+    {
+      "en": "Certainly, when you see a candidate come forward and say, I'm going to reflect on my candidacy, it's very rare for that person to then come back and say, I'm just going to try to stick it out for a little while.",
+      "cn": "ជាការពិតណាស់ នៅពេលអ្នកឃើញបេក្ខជនម្នាក់ចេញមកនិយាយថា 'ខ្ញុំនឹងពិចារណាឡើងវិញអំពីបេក្ខភាពរបស់ខ្ញុំ' បន្ទាប់មកអ្នកនោះត្រឡប់មកវិញហើយនិយាយថា 'ខ្ញុំគ្រាន់តែចង់បន្តទៀតបន្តិច' គឺកម្រណាស់។",
+      "structure": "ប្រយោគបន្ទាប់បន្សំជាកាលៈទេសៈ៖ when you see...; ប្រយោគចម្បង៖ it's very rare for that person to...; កិរិយាសព្ទផ្សំ៖ come back and say។",
+      "analysis": "'reflect on' មានន័យថា 'ពិចារណាឡើងវិញ'; 'stick it out' ជាពាក្យស្លោក មានន័យថា 'ស៊ូទ្រាំរហូតដល់ចប់'; 'for a little while' មានន័យថា 'មួយរយៈពេលខ្លី'។"
+    },
+    {
+      "en": "It might as well have said, I'm waiting to see if y'all are going to back me on this.",
+      "cn": "វា (សេចក្តីថ្លែងការណ៍) ស្ទើរតែស្មើនឹងការនិយាយថា៖ ខ្ញុំកំពុងរង់ចាំមើលថាតើអ្នកនឹងគាំទ្រខ្ញុំលើរឿងនេះឬអត់។",
+      "structure": "ប្រយោគចម្បង៖ It might as well have said; ប្រយោគបន្ទាប់បន្សំជាកម្មវត្ថុ៖ I'm waiting to see if...។",
+      "analysis": "'might as well have said' មានន័យថា 'ស្ទើរតែស្មើនឹងការនិយាយ'; 'y'all' ជាភាសានិយាយ មានន័យថា 'អ្នកទាំងអស់គ្នា'; 'back me on this' មានន័យថា 'គាំទ្រខ្ញុំលើរឿងនេះ'។"
+    },
+    {
+      "en": "It means I'm buying myself time to get with my advisors and figure out, can I get out gracefully, especially given how quickly.",
+      "cn": "នេះមានន័យថាខ្ញុំកំពុងទិញពេលវេលាសម្រាប់ខ្លួនឯង ដើម្បីពិគ្រោះយោបល់ជាមួយទីប្រឹក្សារបស់ខ្ញុំ និងស្វែងយល់ថា៖ តើខ្ញុំអាចដកខ្លួនដោយសុភាពបានទេ ជាពិសេសដោយសារអ្វីៗកំពុងវិវត្តយ៉ាងលឿន។",
+      "structure": "ប្រយោគចម្បង៖ It means; ប្រយោគបន្ទាប់បន្សំជាកម្មវត្ថុ៖ I'm buying myself time to...and figure out; សំណួរដោយប្រយោល៖ can I get out gracefully។",
+      "analysis": "'buy oneself time' មានន័យថា 'ទិញពេលវេលាសម្រាប់ខ្លួនឯង'; 'get out gracefully' មានន័យថា 'ដកខ្លួនដោយសុភាព'; 'given' ជាធ្នាក់ មានន័យថា 'ដោយគិតគូរពី'។"
+    },
+    {
+      "en": "He said, once again, like he told our own Manu Raju the first time, nothing else.",
+      "cn": "គាត់បាននិយាយម្តងទៀត ដូចដែលគាត់បានប្រាប់ Manu Raju របស់យើងជាលើកដំបូងថា គ្មានអ្វីផ្សេងទៀតទេ។",
+      "structure": "ប្រយោគចម្បង៖ He said; ពាក្យបញ្ចូល៖ once again; ប្រយោគបន្ទាប់បន្សំបែបរបៀប៖ like he told...; សម្រង់ផ្ទាល់៖ nothing else ។",
+      "analysis": "'once again' មានន័យថា 'ម្តងទៀត'; 'like' នៅទីនេះជាឈ្នាប់ ស្មើនឹង 'as'; 'nothing else' ជាប្រយោគខ្លី មានន័យថា 'គ្មានអ្វីផ្សេងទៀត (ការចោទប្រកាន់) ទេ' ។"
+    },
+    {
+      "en": "And she noted that, you know, people sort of glossed over the allegations I raised, because one of the other accusers had Republican connections.",
+      "cn": "នាងបានចង្អុលបង្ហាញថា អ្នកដឹងទេ មនុស្សបានមើលរំលងការចោទប្រកាន់ដែលខ្ញុំបានលើកឡើង ពីព្រោះអ្នកចោទប្រកាន់ម្នាក់ទៀតមានសាវតាគណបក្សសាធារណរដ្ឋ។",
+      "structure": "ប្រយោគចម្បង៖ she noted; ប្រយោគបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុ៖ people...glossed over the allegations; ប្រយោគបន្ទាប់បន្សំពន្យល់នាម៖ I raised; ប្រយោគបន្ទាប់បន្សំបញ្ជាក់មូលហេតុ៖ because... ។",
+      "analysis": "'gloss over' មានន័យថា 'បិទបាំង/មើលរំលង'; 'sort of' ជាពាក្យនិយាយ មានន័យថា 'បន្តិច'; 'Republican connections' មានន័យថា 'ទំនាក់ទំនង/សាវតាគណបក្សសាធារណរដ្ឋ' ។"
+    },
+    {
+      "en": "And frankly, this wasn't predictable.",
+      "cn": "និយាយដោយត្រង់ទៅ នេះមិនមែនជាអ្វីដែលមិនអាចទាយទុកជាមុនបានទេ។",
+      "structure": "ប្រយោគសាមញ្ញ៖ this wasn't predictable; frankly ជាគុណកិរិយាធ្វើជាពាក្យបញ្ចូលបញ្ចេញមតិ។",
+      "analysis": "'frankly' មានន័យថា 'និយាយដោយត្រង់ទៅ'; 'predictable' មានន័យថា 'អាចទាយទុកជាមុនបាន' ទម្រង់អវិជ្ជមានមានន័យថា 'មិនមែនជាអ្វីដែលមិនអាចទាយទុកជាមុនបាន' ពោលគឺ 'អាចទាយទុកជាមុនបាន' ។"
+    },
+    {
+      "en": "It was predicted, and it was predicted by folks like myself who know Graham Platner.",
+      "cn": "វាត្រូវបានគេទាយទុកជាមុន ហើយវាត្រូវបានគេទាយទុកជាមុនដោយមនុស្សដូចជាខ្ញុំដែលស្គាល់ Graham Platner ។",
+      "structure": "ប្រយោគផ្សំ៖ It was predicted, and it was predicted by folks...; ប្រយោគបន្ទាប់បន្សំពន្យល់នាម៖ who know Graham Platner ។",
+      "analysis": "កម្មវិធីកិរិយាសព្ទអកម្ម 'was predicted'; 'folks' ជាពាក្យនិយាយ មានន័យថា 'មនុស្ស'; ប្រយោគបន្ទាប់បន្សំពន្យល់នាមពន្យល់ 'folks' ។"
+    }
+  ],
+  "topics": [
+    {
+      "title": "ការចោទប្រកាន់ពីបទរំលោភលើលោក Graham Platner និងវិបត្តិគណបក្សប្រជាធិបតេយ្យ",
+      "content": "លោក Graham Platner ដែលជាបេក្ខជនព្រឹទ្ធសភាមកពីគណបក្សប្រជាធិបតេយ្យនៅរដ្ឋ Maine ត្រូវបានអតីតមិត្តស្រីចោទប្រកាន់ពីបទរំលោភ។ ឥស្សរជនគណបក្សប្រជាធិបតេយ្យជាច្រើនដូចជា John Fetterman បានទាមទារឱ្យគាត់ដកខ្លួនចេញពីការបោះឆ្នោត។ Platner បដិសេធការចោទប្រកាន់ ប៉ុន្តែបាននិយាយថាគាត់នឹង 'ពិចារណាឡើងវិញអំពីមាគ៌ាដ៏ល្អបំផុតទៅមុខ' ។ ព្រឹត្តិការណ៍នេះបង្ហាញពីស្តង់ដារពីររបស់គណបក្សប្រជាធិបតេយ្យលើគោលការណ៍ 'ជឿជាក់លើស្ត្រី' (Believe Women) ដោយអ្នកចោទប្រកាន់ម្នាក់ទៀតពីមុនត្រូវបានគេមើលរំលងដោយសារសាវតាគណបក្សសាធារណរដ្ឋ។",
+      "keywords": "rape allegation · drop out · endorse · reflect on candidacy · own goal"
+    },
+    {
+      "title": "ដំណើរទស្សនកិច្ចរបស់លោក Trump ទៅកាន់កិច្ចប្រជុំកំពូលណាតូ",
+      "content": "ប្រធានាធិបតីអាមេរិកលោក Trump នឹងមកដល់ប្រទេសទួរគីដើម្បីចូលរួមកិច្ចប្រជុំកំពូលណាតូ (NATO) ដែលគេរំពឹងថានឹងដាក់សម្ពាធលើសម្ព័ន្ធមិត្តលើបញ្ហាដូចជាការចែករំលែកការចំណាយយោធា និងគោលនយោបាយចំពោះរុស្ស៊ី។ ពីមុនមក Trump បានរិះគន់ម្តងហើយម្តងទៀតថារដ្ឋសមាជិកណាតូមិនទាន់ឈានដល់គោលដៅចំណាយការពារជាតិ 2% នៃ GDP ហើយគំរាមកាត់បន្ថយការគាំទ្រយោធារបស់អាមេរិក។ កិច្ចប្រជុំកំពូលនេះអាចសាកល្បងភាពរឹងមាំនៃទំនាក់ទំនងឆ្លងអាត្លង់ទិក។",
+      "keywords": "NATO summit · Turkey · defense spending · transatlantic relations"
+    },
+    {
+      "title": "គ្រោះទឹកជំនន់នៅរដ្ឋ New Jersey",
+      "content": "រដ្ឋ New Jersey របស់អាមេរិកបានជួបប្រទះទឹកជំនន់ធ្ងន់ធ្ងរ ដែលបណ្តាលឱ្យដំបូលផ្សារទំនើបមួយដួលរលំ។ ព្រឹត្តិការណ៍ទឹកភ្លៀងខ្លាំងកើតឡើងញឹកញាប់ បង្កឱ្យមានការព្រួយបារម្ភអំពីសមត្ថភាពទប់ទល់គ្រោះមហន្តរាយនៃហេដ្ឋារចនាសម្ព័ន្ធ។ អង្គភាពសង្គ្រោះបន្ទាន់ក្នុងតំបន់បានចាប់ផ្តើមប្រតិបត្តិការហើយ ប៉ុន្តែមិនទាន់មានរបាយការណ៍អំពីអ្នករងរបួសនៅឡើយទេ។",
+      "keywords": "flooding · roof collapse · supermarket · New Jersey"
+    },
+    {
+      "title": "ក្រុមបាល់ទាត់ជម្រើសជាតិអាមេរិកចាកចេញពី World Cup",
+      "content": "ទោះបីជាកីឡាករស្នូលត្រឡប់មកវិញក៏ដោយ ក្រុមបាល់ទាត់ជម្រើសជាតិអាមេរិក (USMNT) មិនអាចឡើងទៅវគ្គពាក់កណ្តាលផ្តាច់ព្រ័ត្រនៃ World Cup បានទេ។ អ្នកអត្ថាធិប្បាយបានរិះគន់ក្រុមថា 'គ្មានចិត្ត' (no heart) ដែលបណ្តាលឱ្យមានការពិភាក្សាយ៉ាងទូលំទូលាយអំពីក្រុមគ្រូបង្វឹក និងការសម្តែងរបស់កីឡាករ។",
+      "keywords": "USMNT · quarterfinals · reinstated · no heart"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "តើ 'curtains' ក្នុង 'But is it curtains for Maine Senate candidate Graham Platner?' មានន័យដូចម្តេច?",
+      "options": [
+        "A. វាំងនន",
+        "B. រនាំង",
+        "C. ចប់សព្វគ្រប់",
+        "D. ផ្ទាំងក្រណាត់"
+      ],
+      "answer": 2,
+      "explanation": "curtains នៅទីនេះជាពាក្យស្លែង មានន័យថា 'ចប់សព្វគ្រប់' ឬ 'បញ្ចប់' ប្រើសម្រាប់បង្ហាញថានរណាម្នាក់ ឬអ្វីមួយជិតដល់ទីបញ្ចប់ ឬបរាជ័យ។"
+    },
+    {
+      "type": "vocab",
+      "question": "ឃ្លា 'cut bait' ក្នុងប្រយោគ 'they decided that this was the moment that they wanted to cut bait' មានន័យដូចម្តេច?",
+      "options": [
+        "A. កាត់នុយ",
+        "B. បោះបង់",
+        "C. នេសាទ",
+        "D. កាត់"
+      ],
+      "answer": 1,
+      "explanation": "cut bait មកពីពាក្យស្លែងនេសាទ មានន័យថា 'បោះបង់' ឬ 'កាត់ផ្តាច់ទំនាក់ទំនង' នៅទីនេះសំដៅលើការសម្រេចចិត្តរបស់គណបក្សប្រជាធិបតេយ្យក្នុងការបោះបង់ការគាំទ្រលោក Plattner។"
+    },
+    {
+      "type": "vocab",
+      "question": "ពាក្យ 'rescind' ក្នុងប្រយោគ 'Others rescinding their endorsement.' មានន័យដូចម្តេច?",
+      "options": [
+        "A. ចុះហត្ថលេខា",
+        "B. ដកហូត",
+        "C. គាំទ្រ",
+        "D. ប្រកាស"
+      ],
+      "answer": 1,
+      "explanation": "rescind មានន័យថា 'ដកហូត' ឬ 'លុបចោល' ប្រើជាទូទៅក្នុងបរិបទផ្លូវច្បាប់ ឬផ្លូវការ នៅទីនេះសំដៅលើការដកការគាំទ្រ។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តាមអត្ថបទ ហេតុអ្វីបានជាគណបក្សប្រជាធិបតេយ្យទីបំផុតសម្រេចចិត្តដកការគាំទ្រពីលោក Plattner?",
+      "options": [
+        "A. ដោយសារលោក Plattner ធ្លាក់ក្នុងការស្ទង់មតិ",
+        "B. ដោយសារការចោទប្រកាន់ពីបទរំលោភថ្មីលេចឡើង",
+        "C. ដោយសារសម្ពាធពីគណបក្សសាធារណរដ្ឋ",
+        "D. ដោយសារលោក Plattner ដកខ្លួនដោយស្ម័គ្រចិត្ត"
+      ],
+      "answer": 1,
+      "explanation": "អត្ថបទបញ្ជាក់ថា បន្ទាប់ពីការចោទប្រកាន់ថ្មីលេចឡើង ឥស្សរជនសំខាន់ៗនៃគណបក្សប្រជាធិបតេយ្យបានដកការគាំទ្រយ៉ាងឆាប់រហ័ស ដោយចាត់ទុកថានេះជាពេលវេលា 'cut bait'។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើលោក John Fetterman ក្នុងបទសម្ភាសន៍បានស្នើឱ្យនរណាសុំទោស?",
+      "options": [
+        "A. Graham Platter",
+        "B. Bernie Sanders",
+        "C. Susan Collins",
+        "D. Jake Tapper"
+      ],
+      "answer": 1,
+      "explanation": "Fetterman បាននិយាយថា៖ 'ខ្ញុំពិតជានឹងអំពាវនាវឱ្យ Bernie Sanders សុំទោសចំពោះការជំរុញឱ្យមានអ្នករំលោភបំពាននេះ។'"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើមួយណាខាងក្រោមនេះត្រឹមត្រូវអំពីការចោទប្រកាន់លើ Platter?",
+      "options": [
+        "A. អ្នកចោទប្រកាន់ទាំងអស់សុទ្ធតែជាគណបក្សសាធារណរដ្ឋ",
+        "B. Platter បានទទួលស្គាល់ការចោទប្រកាន់មួយចំនួន",
+        "C. អតីតមិត្តស្រីម្នាក់បានចោទប្រកាន់គាត់ពីបទរំលោភ",
+        "D. ការចោទប្រកាន់បានកើតឡើងកាលពីដប់ឆ្នាំមុន"
+      ],
+      "answer": 2,
+      "explanation": "អត្ថបទបានបញ្ជាក់យ៉ាងច្បាស់ថា៖ 'ស្ត្រីម្នាក់ដែលគាត់ធ្លាប់ណាត់ជួបបានចេញមកនិយាយថាគាត់បានរំលោភនាង' ហើយហេតុការណ៍នេះបានកើតឡើងប្រហែលប្រាំឆ្នាំមុន។"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "-- position for a full hour and one minute and five seconds, beating the kids' world record by 10 minutes. A local news reporter challenged him to a little friendly competition, with the reporter tapping out at two minutes and five seconds. Jack stopped at ten minutes, saying he was only a little tired. Took him just six months of training. Well done, Jack. That does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "រក្សាឥរិយាបថរយៈពេលមួយម៉ោង មួយនាទី និងប្រាំវិនាទី ដែលច្រើនជាងកំណត់ត្រាពិភពលោករបស់កុមារ 10 នាទី។ អ្នកសារព័ត៌មានក្នុងស្រុកម្នាក់បានប្រជែងគាត់ដោយរាក់ទាក់ ហើយអ្នកសារព័ត៌មានបានបោះបង់បន្ទាប់ពីពីរនាទី និងប្រាំវិនាទី។ Jack ឈប់នៅនាទីទី 10 ដោយនិយាយថាគាត់គ្រាន់តែនឿយបន្តិច។ គាត់ហ្វឹកហាត់តែប្រាំមួយខែប៉ុណ្ណោះ។ ធ្វើបានល្អ Jack ។ នេះជាចប់ព័ត៌មានសំខាន់ៗរបស់ CNN ។ ខ្ញុំ Brad Smith ។ កម្មវិធី CNN This Morning ដោយ Otie Cornish ចាប់ផ្តើមឥឡូវនេះ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "OK. Today in the group chat, Democrats abandoning Graham Platner as rape allegations may force him to quit his Senate race. Should they have seen this coming? SEN. JOHN FETTERMAN (D-PA): I don't know why you want to keep pushing these kinds of people.",
+      "cn": "អញ្ចឹង។ ថ្ងៃនេះនៅក្នុងការជជែកជាក្រុម ប្រជាធិបតេយ្យបោះបង់ Graham Plattner ដោយសារការចោទប្រកាន់ពីបទរំលោភ ដែលអាចបង្ខំគាត់ឱ្យដកខ្លួនពីការប្រកួតប្រជែងព្រឹទ្ធសភា។ តើពួកគេគួរតែដឹងជាមុនទេ? សមាជិកព្រឹទ្ធសភា John Fetterman (ប្រជាធិបតេយ្យ រដ្ឋ Pennsylvania) បាននិយាយថា: \"ខ្ញុំមិនដឹងថាហេតុអ្វីអ្នកចង់បន្តលើកតម្កើងមនុស្សបែបនេះទេ។\""
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Soon, President Trump set to land in Turkey, where he will test how far he can push NATO allies. Are they ready to push back? And clean up on aisle everywhere? Intense flooding in New Jersey causes a roof to collapse at a supermarket. And even with their best player reinstated, the U.S. men's national team did not do enough to make it to the quarterfinals.",
+      "cn": "ឆាប់ៗនេះ ប្រធានាធិបតី Trump នឹងមកដល់ប្រទេសទួរគី ជាកន្លែងដែលគាត់នឹងសាកល្បងថាតើគាត់អាចជំរុញសម្ព័ន្ធមិត្តណាតូបានប៉ុន្មាន។ តើពួកគេត្រៀមខ្លួនតបតវិញហើយឬនៅ? ហើយតើផ្លូវទាំងអស់ត្រូវសម្អាតទេ? ទឹកជំនន់ធ្ងន់ធ្ងរនៅរដ្ឋ New Jersey បណ្តាលឱ្យដំបូលផ្សារទំនើបដួលរលំ។ ទោះបីជាកីឡាករល្អបំផុតរបស់ពួកគេត្រឡប់មកវិញក៏ដោយ ក្រុមបាល់ទាត់បុរសអាមេរិកក៏នៅតែមិនអាចឡើងទៅវគ្គពាក់កណ្តាលផ្តាច់ព្រ័ត្របានឡើយ។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "They didn't play. They didn't show up. No heart. GRAHAM PLATNER (D),",
+      "cn": "ពួកគេមិនបានប្រកួតទេ។ ពួកគេមិនបានបង្ហាញខ្លួនទេ។ គ្មានស្មារតីប្រយុទ្ធ។ Graham Plattner (ប្រជាធិបតេយ្យ),"
+    },
+    {
+      "speaker": "Maine Senate Candidate",
+      "text": "We are taking the time to reflect on the best path forward for the state that I love, the people that I love, the movement I belong to, and the goal of defeating Susan Collins.",
+      "cn": "យើងកំពុងចំណាយពេលដើម្បីពិចារណា ដើម្បីស្វែងរកផ្លូវល្អបំផុតទៅមុខ សម្រាប់រដ្ឋដែលខ្ញុំស្រឡាញ់ ប្រជាជនដែលខ្ញុំស្រឡាញ់ ចលនាដែលខ្ញុំជាកម្មសិទ្ធិ និងគោលដៅកម្ចាត់ Susan Collins ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But is it curtains for Maine Senate candidate Graham Platner? He is taking a step back to reflect. The Democrats are jumping ship. Good morning, everybody. I'm Audie Cornish. We're going to start with the pressure mounting on Graham Platner after new accusations emerged Monday. A woman he dated coming forward saying that he raped her while he was heavily intoxicated. This allegation stems from an event about five years ago, and they are accusations Platner denies.",
+      "cn": "ប៉ុន្តែតើយុទ្ធនាការរបស់បេក្ខជនព្រឹទ្ធសភារដ្ឋ Maine លោក Graham Plattner ត្រូវបញ្ចប់ហើយឬនៅ? គាត់កំពុងដើរថយក្រោយដើម្បីពិចារណា។ ប្រជាធិបតេយ្យកំពុងបោះបង់ចោល។ សួស្តីព្រឹក។ ខ្ញុំ Otie Cornish ។ យើងចាប់ផ្តើមជាមួយសម្ពាធលើលោក Graham Plattner ដែលមានការចោទប្រកាន់ថ្មីនៅថ្ងៃចន្ទ។ ស្ត្រីម្នាក់ដែលគាត់ធ្លាប់ណាត់ជួបបានចេញមកនិយាយថាគាត់បានរំលោភនាងពេលស្រវឹងខ្លាំង។ ការចោទប្រកាន់នេះកើតចេញពីហេតុការណ៍ប្រហែលប្រាំឆ្នាំមុន ហើយ Plattner បដិសេធការចោទប្រកាន់ទាំងនេះ។"
+    },
+    {
+      "speaker": "Platner",
+      "text": "I wanted to directly address the troubling, serious, and false allegations against me. Any accusation of non-consensual behavior is categorically false.",
+      "cn": "ខ្ញុំចង់ឆ្លើយតបដោយផ្ទាល់ចំពោះការចោទប្រកាន់ដែលគួរឱ្យព្រួយបារម្ភ ធ្ងន់ធ្ងរ និងមិនពិតទាំងនេះ។ ការចោទប្រកាន់ណាមួយអំពីអំពើមិនស្ម័គ្រចិត្តគឺខុសទាំងស្រុង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Democratic support all but collapsing. Several key leaders have called for him to drop out. Others rescinding their endorsement. Is it too little, too late to salvage the Democrats' chances in Maine?",
+      "cn": "ការគាំទ្រពីប្រជាធិបតេយ្យស្ទើរតែដួលរលំទាំងស្រុង។ មេដឹកនាំសំខាន់ៗជាច្រើនបានអំពាវនាវឱ្យគាត់ដកខ្លួន។ អ្នកផ្សេងទៀតដកការគាំទ្ររបស់ពួកគេ។ តើវាយឺតពេលហើយឬនៅក្នុងការសង្គ្រោះឱកាសរបស់ប្រជាធិបតេយ្យនៅរដ្ឋ Maine?"
+    },
+    {
+      "speaker": "Hasan Piker",
+      "text": "That is curtains. In hindsight, yes, I mean, he had he had a lot of red flags, red flags that I also pointed to. This is beyond red flags, though. This is irredeemable.",
+      "cn": "នោះជាការបញ្ចប់។ ក្រឡេកមើលក្រោយ បាទ ខ្ញុំចង់និយាយថា គាត់មានសញ្ញាគ្រោះថ្នាក់ជាច្រើន ហើយខ្ញុំក៏បានចង្អុលបង្ហាញពីសញ្ញាទាំងនោះដែរ។ ប៉ុន្តែនេះហួសពីសញ្ញាគ្រោះថ្នាក់ទៅទៀត។ វាមិនអាចត្រឡប់វិញបានទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, today in the group chat, we've got Aaron Blake, CNN senior political reporter; Doug Heye, Republican strategist and former RNC communications director; and Karen Finney, CNN political commentator and former senior adviser for Hillary Clinton's 2016 presidential campaign. You guys, welcome back.",
+      "cn": "ដូច្នេះ ថ្ងៃនេះនៅក្នុងការជជែកជាក្រុម យើងមានអ្នកយកព័ត៌មាននយោបាយជាន់ខ្ពស់របស់ CNN លោក Aaron Blake; អ្នកយុទ្ធសាស្ត្រសាធារណរដ្ឋ អតីតនាយកទំនាក់ទំនងគណៈកម្មាធិការជាតិសាធារណរដ្ឋ លោក Doug Heye; និងអ្នកអត្ថាធិប្បាយនយោបាយ CNN អតីតទីប្រឹក្សាជាន់ខ្ពស់នៃយុទ្ធនាការប្រធានាធិបតីឆ្នាំ 2016 របស់ Hillary Clinton គឺលោកស្រី Karen Finney ។ សូមស្វាគមន៍ត្រឡប់មកវិញ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Thanks for being here after Independence Day. For those of you who were smart enough to not pay attention to the news over the weekend, I want to play for you sound from the victim, the person making allegations, so that you can understand the context of what we are saying. Our own Jake Tapper sat down with her, and here's a portion of that conversation.",
+      "cn": "សូមអរគុណដែលនៅទីនេះបន្ទាប់ពីថ្ងៃឯករាជ្យ។ សម្រាប់អ្នកដែលឆ្លាតល្មមមិនបានតាមដានព័ត៌មាននៅចុងសប្តាហ៍ ខ្ញុំចង់ចាក់សំឡេងជនរងគ្រោះ ពោលគឺអ្នកដែលបានចោទប្រកាន់ ដើម្បីឱ្យអ្នកយល់ពីបរិបទនៃអ្វីដែលយើងកំពុងនិយាយ។ Jack Tapper របស់យើងបានសន្ទនាជាមួយនាង ហើយនេះជាផ្នែកមួយនៃការសន្ទនានោះ។"
+    },
+    {
+      "speaker": "Jake Tapper",
+      "text": "Just to underline the point, you're not coming forward because you have any political motivation?",
+      "cn": "គ្រាន់តែចង់បញ្ជាក់ចំណុចមួយ តើអ្នកចេញមកមិនមែនដោយសារការជម្រុញនយោបាយទេ?"
+    },
+    {
+      "speaker": "Jenny Racicot",
+      "text": "No, not at all. That was actually one of the huge reasons that I didn't come forward and -- and still struggled. Like, that was a huge moral conflict to -- to feel like --",
+      "cn": "ទេ មិនមែនទាល់តែសោះ។ តាមពិតនេះជាហេតុផលដ៏សំខាន់មួយដែលខ្ញុំមិនបានចេញមក ហើយនៅតែតស៊ូ។ ដូចជា វាជាជម្លោះសីលធម៌ដ៏ធំ -- -- មានអារម្មណ៍ដូចជា -- --"
+    },
+    {
+      "speaker": "Tapper",
+      "text": "Because you'd like a Democrat to be in the Senate.",
+      "cn": "ព្រោះអ្នកចង់ឱ្យប្រជាធិបតេយ្យចូលក្នុងព្រឹទ្ធសភា។"
+    },
+    {
+      "speaker": "Racicot",
+      "text": "Yes, yes. I like the things that he speaks about. They're important. They're important to people. I'm one of those people.",
+      "cn": "បាទ បាទ។ ខ្ញុំចូលចិត្តអ្វីដែលគាត់និយាយ។ វាសំខាន់។ សំខាន់សម្រាប់ប្រជាជន។ ខ្ញុំក៏ជាមនុស្សម្នាក់ក្នុងចំណោមពួកគេដែរ។"
+    },
+    {
+      "speaker": "Tapper",
+      "text": "But at the end of the day, you feel he's not being honest?",
+      "cn": "ប៉ុន្តែនៅទីបញ្ចប់ តើអ្នកគិតថាគាត់មិនស្មោះត្រង់?"
+    },
+    {
+      "speaker": "Racicot",
+      "text": "He's not being honest. No.",
+      "cn": "គាត់មិនស្មោះត្រង់ទេ។ ទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, Aaron, I want to start with you, because I think a lot of Democrats have been waiting to push \"send\" on their draft posts saying, \"Please drop out.\"",
+      "cn": "អញ្ចឹង Aaron ខ្ញុំចង់ចាប់ផ្តើមពីអ្នក ព្រោះខ្ញុំគិតថាប្រជាធិបតេយ្យជាច្រើនកំពុងរង់ចាំចុចប៊ូតុង \"ផ្ញើ\" លើសេចក្តីព្រាងរបស់ពួកគេដែលសរសេរថា \"សូមដកខ្លួនចេញពីការប្រកួតប្រជែង\"។"
+    },
+    {
+      "speaker": "Aaron Blake",
+      "text": "It happened pretty quickly last night. I think we -- we saw the kind of culmination of all these controversies coming to a head. And they decided that this was the moment that they wanted to cut bait. And I think they've been kind of getting there for a while. But -- but this became the moment. I think it's difficult to see how he continues in this race.",
+      "cn": "យប់មិញរឿងបានកើតឡើងយ៉ាងលឿន។ ខ្ញុំគិតថាយើង -- -- យើងបានឃើញចំណុចកំពូលនៃភាពចម្រូងចម្រាសទាំងអស់នេះ។ ពួកគេបានសម្រេចចិត្តថានេះជាពេលដែលពួកគេចង់បោះបង់។ ខ្ញុំគិតថាពួកគេបានខិតជិតការសម្រេចចិត្តនេះបន្តិចម្តងៗក្នុងរយៈពេលមួយរយៈ។ ប៉ុន្តែ -- -- ប៉ុន្តែពេលនេះបានមកដល់ហើយ។ ខ្ញុំគិតថាពិបាកមើលឃើញពីរបៀបដែលគាត់អាចបន្តយុទ្ធនាការនេះ។"
+    },
+    {
+      "speaker": "Aaron Blake",
+      "text": "Certainly, when you see a candidate come forward and say, I'm going to reflect on my candidacy, it's very rare for that person to then come back and say, I'm just going to try to stick it out for a little while.",
+      "cn": "ពិតណាស់ ពេលអ្នកឃើញបេក្ខជនម្នាក់ចេញមកនិយាយថា ខ្ញុំនឹងពិចារណាអំពីបេក្ខភាពរបស់ខ្ញុំ មនុស្សម្នាក់នេះកម្រនឹងត្រឡប់មកវិញហើយនិយាយថា ខ្ញុំគ្រាន់តែចង់បន្តមួយរយៈទៀត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But you know what? That was a weird statement, right? It's like he comes out with a video that doesn't say, I'm dropping out. It doesn't say I'm staying in. It might as well have said, I'm waiting to see if y'all are going to back me on this. And in the meantime, I'll wait quietly.",
+      "cn": "ប៉ុន្តែអ្នកដឹងទេ? នោះជាសេចក្តីថ្លែងការណ៍ចម្លែកមួយ មែនទេ? ដូចជាគាត់បានចេញវីដេអូមួយ ដែលមិនបាននិយាយថាខ្ញុំនឹងដកខ្លួន ឬខ្ញុំនឹងបន្ត។ វាស្មើនឹងការនិយាយថា ខ្ញុំកំពុងមើលថាតើអ្នកនឹងគាំទ្រខ្ញុំទេ។ ក្នុងពេលនេះ ខ្ញុំនឹងរង់ចាំដោយស្ងៀមស្ងាត់។"
+    },
+    {
+      "speaker": "Karen Finney",
+      "text": "But that's exactly what it means, right? It means I'm buying myself time to get with my advisors and figure out, can I get out gracefully, especially given how quickly. Because let's be honest, since the last set of allegations came forward, there were a lot of concerns in the Democratic Party. He said, once again, like he told our own Manu Raju the first time, nothing else. No more to see here. Obviously, he came to Washington and reassured people.",
+      "cn": "ប៉ុន្តែនោះជាអត្ថន័យរបស់វា មែនទេ? មានន័យថាទិញពេលវេលា ពិគ្រោះជាមួយទីប្រឹក្សា មើលថាតើអាចដកខ្លួនដោយសេចក្តីថ្លៃថ្នូរបានទេ ជាពិសេសដោយសាររឿងកើតឡើងលឿនណាស់។ ព្រោះនិយាយឱ្យត្រង់ទៅ ចាប់តាំងពីការចោទប្រកាន់ជុំមុនលេចចេញមក មានការព្រួយបារម្ភជាច្រើននៅក្នុងបក្សប្រជាធិបតេយ្យ។ គាត់បាននិយាយម្តងទៀត ដូចដែលគាត់បាននិយាយទៅកាន់ Manu Raju របស់យើងជាលើកដំបូងថា គ្មានអ្វីទៀតទេ គ្មានអ្វីដែលត្រូវមើលទេ។ ជាក់ស្តែង គាត់បានមកទីក្រុងវ៉ាស៊ីនតោនដើម្បីធ្វើឱ្យអ្នករាល់គ្នាស្ងប់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And to be clear, she did come forward. And she noted that, you know, people sort of glossed over the allegations I raised, because one of the other accusers had Republican connections.",
+      "cn": "បាទ។ ត្រូវបញ្ជាក់ឱ្យច្បាស់ នាងពិតជាបានចេញមក។ នាងបានចង្អុលបង្ហាញថា មនុស្សបានមើលរំលងការចោទប្រកាន់របស់ខ្ញុំបន្តិច ព្រោះអ្នកចោទប្រកាន់ម្នាក់មានទំនាក់ទំនងជាមួយសាធារណរដ្ឋ។"
+    },
+    {
+      "speaker": "Heye",
+      "text": "Yes. Lyndsey Fifield was named. Sheldon Whitehouse owes her an apology. And frankly, this wasn't predictable. It was predicted, and it was predicted by folks like myself who know Graham Platner. He used to be a bartender at the Tune Inn, a few blocks from here, and you'd walk in. This is 2010 through 2015.",
+      "cn": "បាទ/ចាស។ បាននិយាយពី Lyndsey Fifield។ Sheldon Whitehouse ជំពាក់នាងការសុំទោស។ និយាយដោយត្រង់ទៅ វាមិនមែនជារឿងដែលមិនអាចទាយទុកជាមុនបានទេ។ វាត្រូវបានគេទាយទុក ហើយដោយមនុស្សដូចខ្ញុំដែលស្គាល់ Graham Platner។ គាត់ធ្លាប់ធ្វើជាអ្នកបម្រើស្រានៅ Tune Inn ចម្ងាយប៉ុន្មានប្លុកពីទីនេះ អ្នកចូលទៅ -- -- នេះជារឿងពីឆ្នាំ 2010 ដល់ 2015។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's a deep cut, Doug.",
+      "cn": "នេះពិតជាការស្វែងរកយ៉ាងជ្រៅណាស់ Doug។"
+    },
+    {
+      "speaker": "Heye",
+      "text": "You'd walk in and you'd say, Oh, that guy's working again. And you'd say, Do we want to go somewhere else or not? Because he would corner you, or he would corner somebody else with a lot of weird stuff. And so, when the accusations started coming, myself and other people said, there will be more.",
+      "cn": "អ្នកចូលទៅហើយនិយាយថា អូ អ្នកនោះមកធ្វើការវិញហើយ។ បន្ទាប់មកអ្នកគិតថា តើយើងគួរទៅកន្លែងផ្សេងទេ? ព្រោះគាត់នឹងរំខានអ្នក ឬរំខានអ្នកដទៃ ដោយនិយាយរឿងចម្លែកៗ។ ដូច្នេះ ពេលការចោទប្រកាន់ចាប់ផ្តើមលេចឡើង ខ្ញុំនិងអ្នកដទៃទៀតបាននិយាយថា នឹងមានបន្ថែមទៀត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Wait, around women, or I want to understand what you are claiming here.",
+      "cn": "ចាំបន្តិច តើសំដៅលើស្ត្រីទេ? ឬខ្ញុំចង់យល់ពីអ្វីដែលអ្នកកំពុងនិយាយ។"
+    },
+    {
+      "speaker": "Heye",
+      "text": "All of it. All of it.",
+      "cn": "គ្រប់ទិដ្ឋភាពទាំងអស់។ គ្រប់ទិដ្ឋភាពទាំងអស់។"
+    },
+    {
+      "speaker": "Ok. Heye",
+      "text": "And so, when Lyndsey Fifield spoke out and was attacked by Democrats, you can't believe her because she's a Republican, which I thought the message was we believe women. Turns out that's not always the case. Now, this is deemed as credible. Frankly, this was predicted. It was predictable. He was a terrible candidate. He always was. And this is an own goal by Democrats.",
+      "cn": "ដូច្នេះ ពេល Lyndsey Fifield ចេញមកនិយាយ ហើយត្រូវបានវាយប្រហារដោយគណបក្សប្រជាធិបតេយ្យ អ្នកមិនអាចជឿនាងបានទេ ព្រោះនាងជាសាធារណរដ្ឋ ខ្ញុំគិតថាព័ត៌មានរបស់យើងគឺជឿលើស្ត្រី។ វាប្រែថាមិនមែនតែងតែដូច្នោះទេ។ ឥឡូវនេះ នេះត្រូវបានចាត់ទុកថាអាចជឿទុកចិត្តបាន។ និយាយដោយត្រង់ទៅ វាត្រូវបានគេទាយទុក។ វាអាចទាយទុកបាន។ គាត់ជាបេក្ខជនអាក្រក់ តែងតែដូច្នោះ។ នេះជាកំហុសរបស់គណបក្សប្រជាធិបតេយ្យខ្លួនឯង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This is one more person who's being called on to apologize. OK? And this comes from John Fetterman of Pennsylvania. On Monday, he told FOX News this.",
+      "cn": "មនុស្សម្នាក់ទៀតត្រូវបានស្នើសុំឱ្យសុំទោស។ មែនទេ? នេះមកពី John Fetterman នៃរដ្ឋ Pennsylvania។ នៅថ្ងៃចន្ទ គាត់បានប្រាប់ Fox News។"
+    },
+    {
+      "speaker": "Fetterman",
+      "text": "I would really call Bernie Sanders to apologize for pushing this kind of predator more than anyone he helped him elect. And now apologize to the victims, especially the woman that she claimed that he raped her. So, I don't know why you want to keep pushing these kinds of people. Maybe he should consider, set a few out, and stop pushing these kind of communists.",
+      "cn": "ខ្ញុំពិតជានឹងហៅ Bernie Sanders ឱ្យសុំទោស ព្រោះគាត់បានខិតខំជំរុញអ្នករំលោភនេះច្រើនជាងអ្នកណាទាំងអស់ គាត់បានជួយគាត់ឱ្យជាប់ឆ្នោត។ ឥឡូវនេះ សុំទោសដល់ជនរងគ្រោះ ជាពិសេសស្ត្រីដែលអះអាងថាត្រូវបានគាត់រំលោភ។ ដូច្នេះ ខ្ញុំមិនដឹងថាហេតុអ្វីបានជាអ្នកបន្តជំរុញមនុស្សប្រភេទនេះទេ។ ប្រហែលជាគាត់គួរតែពិចារណា ដកមនុស្សខ្លះចេញ ហើយឈប់ជំរុញពួកកុម្មុយនិស្តទាំងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Does Bernie Sanders need to be involved in this?",
+      "cn": "តើ Bernie Sanders ត្រូវការចូលរួមក្នុងរឿងនេះទេ?"
+    },
+    {
+      "speaker": "Finney",
+      "text": "I mean, he certainly should apologize and acknowledge that he was wrong. But I want to make sure we don't miss something here because, yes, he has been a flawed candidate, all of those things. But the people of Maine did vote for him. And part of -- whether you're Republican or Democrat, part of what created the challenge was, is the national party really going to tell voters of Maine, no. That guy, he can't be your person. Now, it is a -- it is a position where people can say, we're going to pull our support.",
+      "cn": "ខ្ញុំចង់និយាយថា ពិតណាស់គាត់គួរតែសុំទោស ហើយទទួលស្គាល់ថាគាត់ខុស។ ប៉ុន្តែខ្ញុំចង់ប្រាកដថាយើងមិនខកខានអ្វីទេ ព្រោះ បាទ គាត់តែងតែជាបេក្ខជនដែលមានចំណុចខ្វះខាត ទាំងអស់នេះ។ ប៉ុន្តែប្រជាជននៃរដ្ឋ Maine ពិតជាបានបោះឆ្នោតឱ្យគាត់។ ផ្នែកខ្លះដោយសារ -- -- មិនថាអ្នកជាសាធារណរដ្ឋ ឬប្រជាធិបតេយ្យទេ ផ្នែកខ្លះនៃបញ្ហាប្រឈមគឺ តើគណបក្សជាតិពិតជានឹងប្រាប់អ្នកបោះឆ្នោតនៃរដ្ឋ Maine ថា ទេ។ មនុស្សនោះ គាត់មិនអាចជាអ្នកតំណាងរបស់អ្នកបានទេ។ ឥឡូវនេះ នេះជាទីតាំងដែលមនុស្សអាចនិយាយថា យើងនឹងដកការគាំទ្ររបស់យើង។"
+    },
+    {
+      "speaker": "Finney",
+      "text": "And the Maine Democratic Party has pulled their support, and they're going to have to decide. There's a process by which they can decide how they would replace him on the ticket. And so, I mean, that's the challenge. Many of us said -- I was one of the people who said, no, I wouldn't have voted for him, but they --",
+      "cn": "គណបក្សប្រជាធិបតេយ្យនៃរដ្ឋ Maine បានដកការគាំទ្ររបស់ពួកគេរួចហើយ ពួកគេនឹងត្រូវធ្វើការសម្រេចចិត្ត។ មានដំណើរការមួយ ពួកគេអាចសម្រេចពីរបៀបជំនួសទីតាំងរបស់គាត់នៅលើសន្លឹកឆ្នោត។ ដូច្នេះ ខ្ញុំចង់និយាយថា នេះជាបញ្ហាប្រឈម។ ពួកយើងជាច្រើនបាននិយាយ -- -- ខ្ញុំជាម្នាក់ក្នុងចំណោមអ្នកដែលនិយាយថា ទេ ខ្ញុំនឹងមិនបោះឆ្នោតឱ្យគាត់ទេ ប៉ុន្តែពួកគេ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can I play for you something? Another thing Democrats argue, though, which I think is pretty specific, pretty consistent, which is, well, look in -- in Trump, we've got a real problem with women. So, maybe we shouldn't care about this so much. Here's Debbie Dingell of Michigan. REP. DEBBIE DINGELL (D-MI): I will always be concerned about domestic violence allegations, sexual assault allegations.",
+      "cn": "តើខ្ញុំអាចដាក់អ្វីមួយឱ្យអ្នកបានទេ? រឿងមួយទៀតដែលគណបក្សប្រជាធិបតេយ្យប្រកែក ខ្ញុំគិតថាជាក់លាក់ណាស់ និងស្របគ្នាណាស់ គឺ មើល Trump យើងពិតជាមានបញ្ហាលើបញ្ហាស្ត្រី។ ដូច្នេះ ប្រហែលជាយើងមិនគួរខ្វល់ខ្វាយពីរឿងនេះខ្លាំងពេកទេ។ នេះគឺ Debbie Dingell នៃរដ្ឋ Michigan។ តំណាងរាស្ត្រ Debbie Dingell (គណបក្សប្រជាធិបតេយ្យ រដ្ឋ Michigan)៖ ខ្ញុំនឹងតែងតែយកចិត្តទុកដាក់លើការចោទប្រកាន់អំពីអំពើហិង្សាក្នុងគ្រួសារ ការចោទប្រកាន់អំពីការរំលោភផ្លូវភេទ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But I'm also -- we've got a man in the White House that's a predator; has been convicted of sexual assault; and people's lives are being impacted by this every single day. So, it's a very complicated situation. And it is ultimately up to the people of Maine, who I suspect he is going to talk to and listen to.",
+      "cn": "ប៉ុន្តែខ្ញុំក៏ -- -- យើងមានអ្នករំលោភម្នាក់នៅក្នុងសេតវិមាន; ត្រូវបានកាត់ទោសពីបទរំលោភផ្លូវភេទ; ជីវិតរបស់មនុស្សត្រូវបានប៉ះពាល់ជារៀងរាល់ថ្ងៃដោយសាររឿងនេះ។ ដូច្នេះ នេះជាស្ថានភាពដ៏ស្មុគស្មាញមួយ។ នៅទីបំផុត វាអាស្រ័យលើប្រជាជននៃរដ្ឋ Maine ហើយខ្ញុំសង្ស័យថាគាត់នឹងនិយាយជាមួយពួកគេ ហើយស្តាប់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It feels like you're hearing someone say it's -- it's mainly complicated for us, but not with Republicans. Meaning when it comes to Trump, you know, something needs to be done. Someone needs to step in. It's not, Well, the voters decided. But for Democrats, it's, Well, voters have to do it now. I mean, it's not as bad as having a predator in the White House. That kind of language.",
+      "cn": "មានអារម្មណ៍ថាអ្នកឮអ្នកខ្លះនិយាយថា នេះ -- -- ស្មុគស្មាញសម្រាប់យើង ប៉ុន្តែមិនមែនសម្រាប់គណបក្សសាធារណរដ្ឋទេ។ មានន័យថា ពេលនិយាយពី Trump អ្នកដឹងទេ ត្រូវធ្វើអ្វីមួយ។ ត្រូវការនរណាម្នាក់ចូលរួម។ មិនមែន អញ្ចឹង អ្នកបោះឆ្នោតបានសម្រេចចិត្តទេ។ ប៉ុន្តែសម្រាប់គណបក្សប្រជាធិបតេយ្យ គឺ អញ្ចឹង ឥឡូវអ្នកបោះឆ្នោតត្រូវតែធ្វើដូច្នោះ។ ខ្ញុំចង់និយាយថា វាមិនអាក្រក់ដូចការមានអ្នករំលោភនៅក្នុងសេតវិមានទេ។ ការនិយាយបែបនោះ។"
+    },
+    {
+      "speaker": "Blake",
+      "text": "Yes. I think that's emblematic of why Democrats held out for as long as they did with Graham Platner. They're kind of wondering why -- why the rules of gravity apply to their candidates, but not to the guy in the White House. But we have seen when Republicans have put up flawed candidates for -- for Senate, voters have rebuked those candidates. You know, Herschel Walker didn't do very well in Georgia. There's been a series of Senate candidates, especially, who haven't done well in -- in recent years.",
+      "cn": "បាទ/ចាស។ ខ្ញុំគិតថានេះជានិមិត្តរូបនៃមូលហេតុដែលគណបក្សប្រជាធិបតេយ្យបានបន្តជាមួយ Graham Platner យូរមកហើយ។ ពួកគេឆ្ងល់ថាហេតុអ្វី -- -- ហេតុអ្វីបានជាច្បាប់ទំនាញអនុវត្តចំពោះបេក្ខជនរបស់ពួកគេ ប៉ុន្តែមិនមែនចំពោះមនុស្សនៅក្នុងសេតវិមាននោះទេ។ ប៉ុន្តែយើងបានឃើញថា ពេលគណបក្សសាធារណរដ្ឋដាក់ចេញបេក្ខជនសមាជិកព្រឹទ្ធសភាដែលមានចំណុចខ្វះខាត អ្នកបោះឆ្នោតបានបដិសេធបេក្ខជនទាំងនោះ។ អ្នកដឹងទេ Herschel Walker មិនសូវល្អនៅរដ្ឋ Georgia។ ក្នុងប៉ុន្មានឆ្នាំថ្មីៗនេះ មានបេក្ខជនសមាជិកព្រឹទ្ធសភាជាច្រើន ជាពិសេស មិនសូវល្អ។"
+    },
+    {
+      "speaker": "Blake",
+      "text": "So, I think there is an argument for, you know, why does Trump skate on this stuff? Why does he get past being held civilly liable for sexual abuse? But this doesn't necessarily transfer to other candidates. And that's both Democrats and Republicans.",
+      "cn": "ដូច្នេះ ខ្ញុំគិតថាមានអំណះអំណាងមួយ អ្នកដឹងទេ ហេតុអ្វីបានជា Trump រួចផុតពីរឿងទាំងនេះ? ហេតុអ្វីបានជាគាត់អាចរួចផុតពីការទទួលខុសត្រូវរដ្ឋប្បវេណីចំពោះការរំលោភផ្លូវភេទ? ប៉ុន្តែនេះមិនចាំបាច់អនុវត្តចំពោះបេក្ខជនផ្សេងទៀតទេ។ នេះរួមបញ្ចូលទាំងគណបក្សប្រជាធិបតេយ្យ និងសាធារណរដ្ឋ។"
+    },
+    {
+      "speaker": "Finney",
+      "text": "I think that was part of the question when this first came, these allegations first came out, or questions came out. Wait a second. Does this mean have the standards changed because of Trump? And look, Graham Platner came out initially, and he had his rationale about being now a changed man. Again, the voters of Maine seemed to accept that.",
+      "cn": "ខ្ញុំគិតថានេះជាផ្នែកមួយនៃបញ្ហា ពេលការចោទប្រកាន់ទាំងនេះលេចឡើងជាលើកដំបូង ឬបញ្ហាលេចឡើង។ ចាំបន្តិច។ តើនេះមានន័យថាស្តង់ដារបានផ្លាស់ប្តូរដោយសារ Trump ទេ? មើល Graham Platner ដំបូងចេញមក គាត់មានហេតុផលរបស់គាត់ ដោយនិយាយថាឥឡូវនេះជាមនុស្សដែលបានផ្លាស់ប្តូរ។ ម្តងទៀត អ្នកបោះឆ្នោតនៃរដ្ឋ Maine ហាក់ដូចជាទទួលយករឿងនេះ។"
+    },
+    {
+      "speaker": "Finney",
+      "text": "But then I think when we got to a place where we're talking about violence, people, you know, that's it.",
+      "cn": "ប៉ុន្តែក្រោយមកខ្ញុំគិតថា ពេលយើងនិយាយពីអំពើហិង្សា មនុស្ស អ្នកដឹងទេ វាហើយនោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I think one problem for Democrats is they have struggled in the post-MeToo era to understand where their own line is and to understand.",
+      "cn": "ខ្ញុំគិតថាបញ្ហាមួយសម្រាប់គណបក្សប្រជាធិបតេយ្យគឺ ក្នុងយុគសម័យក្រោយ MeToo ពួកគេពិបាកកំណត់ថាតើបន្ទាត់របស់ពួកគេនៅឯណា ហើយពិបាកយល់។"
+    },
+    {
+      "speaker": "Finney",
+      "text": "The country has struggled.",
+      "cn": "ប្រទេសទាំងមូលកំពុងតស៊ូ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But Democrats made it a defining issue for a time. And now that it is not, they don't know where their line is. You're saying violence. And I think that's a great one, but I don't think it's clear as you go into these races. We're going to talk about who might step into the breach in Maine. And in the meantime, we're going to talk about Trump's red card reversal. It didn't help USA in the end, but did it ruin all of the World Cup goodwill for the U.S.? Plus, there are cuts coming to Microsoft.",
+      "cn": "ប៉ុន្តែគណបក្សប្រជាធិបតេយ្យធ្លាប់បានចាត់ទុកវាជាបញ្ហាសំខាន់មួយ។ ហើយឥឡូវនេះវាលែងដូច្នោះទៀតហើយ ពួកគេមិនដឹងថាបន្ទាត់របស់ពួកគេនៅឯណាទេ។ អ្នកនិយាយពីអំពើហិង្សា។ ខ្ញុំគិតថានេះជាចំណុចចាប់ផ្តើមដ៏ល្អ ប៉ុន្តែខ្ញុំមិនគិតថាវាច្បាស់លាស់នៅពេលចូលទៅក្នុងការបោះឆ្នោតទាំងនេះទេ។ យើងនឹងពិភាក្សាពីអ្នកដែលអាចជំនួសកន្លែងទំនេរនៅរដ្ឋ Maine។ ក្នុងពេលជាមួយគ្នានេះ យើងនឹងពិភាក្សាពីការបញ្ច្រាសកាតក្រហមរបស់ Trump។ នៅទីបំផុត នេះមិនបានជួយអាមេរិកទេ ប៉ុន្តែតើវាបំផ្លាញអារម្មណ៍ល្អទាំងអស់របស់អាមេរិកចំពោះ World Cup ដែរឬទេ? លើសពីនេះទៀត Microsoft នឹងបញ្ឈប់បុគ្គលិក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Why it says the video game wing is being hit the hardest. And from senator to Supreme Court justice, any chance Ted Cruz is about to get a promotion?",
+      "cn": "ហេតុអ្វីបានជាគេនិយាយថាផ្នែកហ្គេមរងផលប៉ះពាល់ខ្លាំងជាងគេ? ហើយ ពីសមាជិកព្រឹទ្ធសភាទៅចៅក្រមតុលាការកំពូល តើ Ted Cruz មានឱកាសឡើងតំណែងទេ?"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "In fact, somebody said, would you ever appoint him to the United States Supreme Court, because he's a brilliant lawyer, Ted? I said, well, he's the only one I can think of that's going to get 100 votes.",
+      "cn": "តាមពិត មានអ្នកសួរថា តើអ្នកនឹងតែងតាំងគាត់ចូលតុលាការកំពូលអាមេរិកទេ ព្រោះគាត់ជាមេធាវីឆ្នើម Ted? ខ្ញុំនិយាយថា អញ្ចឹង គាត់ជាមនុស្សតែម្នាក់គត់ដែលខ្ញុំអាចគិតដល់ដែលអាចទទួលបាន 100 សំឡេង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It is now 15 minutes past the hour. Here are five things that are making the news this morning. Erika Kirk faces her late husband's alleged killer for the first time in court. A preliminary hearing is being held this week to decide whether or not the case goes to trial. Also making an appearance in the courtroom on Monday, the late activist's parents, along with close friend Donald Trump Jr. and his wife. Prosecutors are seeking the death penalty.",
+      "cn": "ឥឡូវនេះម៉ោង 15 នាទីក្រោយម៉ោង។ នេះជាព័ត៌មានប្រាំចំណុចនៅព្រឹកនេះ។ Erica Kirk បានបង្ហាញខ្លួននៅក្នុងតុលាការជាលើកដំបូងចំពោះមុខជនសង្ស័យឃាតករប្តីរបស់នាងដែលបានស្លាប់។ សប្តាហ៍នេះកំពុងមានសវនាការបឋមដើម្បីសម្រេចថាតើករណីនេះចូលដល់ដំណាក់កាលជំនុំជម្រះដែរឬទេ។ អ្នកដែលបានបង្ហាញខ្លួននៅក្នុងតុលាការនៅថ្ងៃចន្ទផងដែររួមមានឪពុកម្តាយរបស់សកម្មជនដែលបានស្លាប់ និងមិត្តជិតស្និទ្ធរបស់គាត់គឺ Donald Trump Jr. និងភរិយារបស់គាត់។ ព្រះរាជអាជ្ញាកំពុងស្វែងរកការកាត់ទោសប្រហារជីវិត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And the public funeral for Iran's slain supreme leader is now in its fourth day. Today's ceremonies took place in the sacred Iranian city of Qom, and video shows hundreds of thousands of mourners in front of the Jamkaran mosque. It's a significant religious site. Tomorrow, Khamenei's body will be transported to Iraq before he is buried in his hometown on Thursday. And Microsoft eliminating -- get this -- 4,800 jobs, roughly 2 percent of its global workforce.",
+      "cn": "ពិធីបុណ្យសពជាសាធារណៈរបស់មេដឹកនាំកំពូលអ៊ីរ៉ង់ដែលត្រូវបានសម្លាប់ ឥឡូវនេះបានឈានចូលថ្ងៃទីបួនហើយ។ ពិធីនៅថ្ងៃនេះប្រារព្ធឡើងនៅទីក្រុង Qom ដ៏ពិសិដ្ឋរបស់អ៊ីរ៉ង់ វីដេអូបង្ហាញអ្នកកាន់ទុក្ខរាប់រយពាន់នាក់ប្រមូលផ្តុំគ្នានៅមុខវិហារអ៊ីស្លាម Jamkaran ។ នេះជាកន្លែងសាសនាដ៏សំខាន់មួយ។ ថ្ងៃស្អែក សពរបស់លោក Khamenei នឹងត្រូវដឹកជញ្ជូនទៅអ៊ីរ៉ាក់ ហើយបន្ទាប់មកបញ្ចុះនៅស្រុកកំណើតរបស់លោកនៅថ្ងៃព្រហស្បតិ៍។ Microsoft កំពុងបញ្ឈប់បុគ្គលិក -- ស្តាប់ឲ្យច្បាស់ -- 4800 កន្លែងការងារ ដែលស្មើនឹងប្រហែល 2% នៃបុគ្គលិកសរុបរបស់ខ្លួននៅទូទាំងពិភពលោក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The majority of those cuts will come from its Xbox gaming division. The layoffs follow a slowdown in video game spending after the COVID pandemic. And what's the next big mission after Artemis II? Retirement/\\. Canadian astronaut Jeremy Hansen has announced he is stepping down from his full-time role as an astronaut with the Canadian Space Agency in September. Hansen says he'll continue to serve as a reservist member of the Royal Canadian Air Force and is leaving the door open for future opportunities.",
+      "cn": "ការបញ្ឈប់ការងារភាគច្រើននឹងមកពីផ្នែកហ្គេម Xbox របស់ខ្លួន។ ការបញ្ឈប់ការងារនេះធ្វើឡើងបន្ទាប់ពីការថយចុះនៃការចំណាយលើវីដេអូហ្គេមក្រោយជំងឺរាតត្បាត COVID-19 ។ តើបេសកកម្មធំបន្ទាប់បន្ទាប់ពី Artemis II គឺជាអ្វី? ចូលនិវត្តន៍។ អវកាសយានិកកាណាដា Jeremy Hansen បានប្រកាសថាគាត់នឹងលាឈប់ពីតំណែងជាអវកាសយានិកពេញម៉ោងរបស់ទីភ្នាក់ងារអវកាសកាណាដានៅខែកញ្ញា។ Hansen បាននិយាយថាគាត់នឹងបន្តធ្វើជាសមាជិកបម្រុងនៃកងទ័ពអាកាសរាជកាណាដា ហើយបើកទ្វារសម្រាប់ឱកាសនាពេលអនាគត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And President Trump floats the idea, again, of nominating Texas Senator Ted Cruz to the U.S. Supreme Court.",
+      "cn": "ប្រធានាធិបតី Trump បានលើកឡើងម្តងទៀតនូវគំនិតតែងតាំងសមាជិកព្រឹទ្ធសភារដ្ឋតិចសាស់ Ted Cruz ចូលទៅក្នុងតុលាការកំពូលសហរដ្ឋអាមេរិក។"
+    },
+    {
+      "speaker": "Trump",
+      "text": "In fact, somebody said, would you ever appoint him to the United States Supreme Court, because he's a brilliant lawyer, Ted. I said, Well, he's the only one I can think of that's going to get 100 votes. All Republicans will vote for him. All Democrats will vote for him, because they want to get him the hell out of the Senate.",
+      "cn": "តាមពិតទៅ មានគេសួរខ្ញុំថា តើអ្នកនឹងតែងតាំងគាត់ចូលតុលាការកំពូលសហរដ្ឋអាមេរិកទេ ព្រោះគាត់ជាមេធាវីពូកែម្នាក់ Ted ។ ខ្ញុំឆ្លើយថា គាត់ជាមនុស្សតែម្នាក់គត់ដែលខ្ញុំអាចគិតឃើញថាអាចទទួលបាន 100 សម្លេង។ គណបក្សសាធារណរដ្ឋទាំងអស់នឹងបោះឆ្នោតឲ្យគាត់។ គណបក្សប្រជាធិបតេយ្យទាំងអស់ក៏នឹងបោះឆ្នោតឲ្យគាត់ដែរ ព្រោះពួកគេចង់បណ្តេញគាត់ចេញពីព្រឹទ្ធសភា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Reminder: there is currently no vacancy on the Supreme Court, with all nine seats filled. Group chat is back. Even Ted Cruz chuckled at the idea of having unanimous consent in the Senate. Maybe he knows he's beloved by his coworkers. I'm not sure. What's the intel from this side?",
+      "cn": "សូមរំលឹកថា៖ បច្ចុប្បន្នតុលាការកំពូលគ្មានកន្លែងទំនេរទេ អាសនៈទាំងប្រាំបួនពេញហើយ។ ការជជែកជាក្រុមបានចាប់ផ្តើមម្តងទៀត។ សូម្បីតែ Ted Cruz ក៏សើចនឹងគំនិតដែលព្រឹទ្ធសភាបោះឆ្នោតឯកភាពគ្នាដែរ។ ប្រហែលជាគាត់ដឹងថាខ្លួនពេញនិយមក្នុងចំណោមមិត្តរួមការងារ។ ខ្ញុំមិនប្រាកដទេ។ តើមានដំណឹងអ្វីនៅខាងនេះទេ?"
+    },
+    {
+      "speaker": "Heye",
+      "text": "There's no intel. There's no intelligence here. There's been this theory that Democrats would rush to vote for him to kick him out of the Senate. The reality is they would then have to go back to their voters and explain that. That's not going to happen.",
+      "cn": "គ្មានដំណឹងទេ។ គ្មានព័ត៌មានសម្ងាត់នៅទីនេះទេ។ មានទ្រឹស្តីមួយថាគណបក្សប្រជាធិបតេយ្យនឹងប្រញាប់បោះឆ្នោតឲ្យគាត់ ដើម្បីបណ្តេញគាត់ចេញពីព្រឹទ្ធសភា។ ប៉ុន្តែការពិតគឺថា ពួកគេត្រូវតែពន្យល់រឿងនេះដល់អ្នកបោះឆ្នោតនៅពេលក្រោយ។ វាមិនអាចកើតឡើងទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. He also says that to be fair -- and you were joking that maybe Trump just said this because he was in the room. I want to play one bit. This is Ted Cruz's podcast. It's called \"The Ruthless Podcast,\" and this was him in January talking about this idea. SEN. TED CRUZ (R-TX): Look, I -- I am flattered to be -- be discussed in those circles, but I will tell you, it is not going to happen.",
+      "cn": "បាទ។ គាត់ក៏បាននិយាយថា ដោយយុត្តិធម៌ -- អ្នកទើបតែនិយាយលេងថា Trump និយាយបែបនេះព្រោះគាត់នៅទីនោះ។ ខ្ញុំចង់ដាក់វីដេអូមួយ។ នេះជាផតខាសរបស់ Ted Cruz ឈ្មោះ The Verdict Podcast ដែលគាត់និយាយអំពីគំនិតនេះកាលពីខែមករាឆ្នាំនេះ។ សមាជិកព្រឹទ្ធសភា Ted Cruz (សាធារណរដ្ឋមកពីរដ្ឋតិចសាស់)៖ ស្តាប់ទៅ ខ្ញុំ -- ខ្ញុំមានកិត្តិយសដែលត្រូវបាន -- ត្រូវបានពិភាក្សា ប៉ុន្តែខ្ញុំប្រាប់អ្នកថា វានឹងមិនកើតឡើងទេ។"
+    },
+    {
+      "speaker": "Ok. Cruz",
+      "text": "My answer is not just no; it's hell no.",
+      "cn": "ចម្លើយរបស់ខ្ញុំមិនមែនគ្រាន់តែទេ តែជាការបដិសេធដាច់ខាត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I mean, you can't get better than a hell no.",
+      "cn": "ខ្ញុំចង់និយាយថា គ្មានចម្លើយណាដែលខ្លាំងជាង 'ការបដិសេធដាច់ខាត' ទៀតទេ។"
+    },
+    {
+      "speaker": "Blake",
+      "text": "I think what's interesting here is that President Trump is talking about Supreme Court vacancies when there is not a Supreme Court vacancy. Of course, we had the recent thing with Justice Alito, if you would --",
+      "cn": "ខ្ញុំគិតថាគួរឱ្យចាប់អារម្មណ៍ដែលប្រធានាធិបតី Trump និយាយអំពីកន្លែងទំនេរនៅតុលាការកំពូល ខណៈដែលតាមពិតគ្មានកន្លែងទំនេរទេ។ ពិតណាស់ យើងទើបតែមានរឿងអំពីចៅក្រម Alito ប្រសិនបើអ្នក --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "\"The thing,\" you mean rumors of his retirement?",
+      "cn": "'រឿងនោះ' តើអ្នកសំដៅលើពាក្យចចាមអារ៉ាមអំពីការចូលនិវត្តន៍របស់គាត់មែនទេ?"
+    },
+    {
+      "speaker": "Blake",
+      "text": "The rumors of his retirement. And to be clear, this has been -- you know, people have been talking about this for a long time. It makes a lot of sense. If you look at when Supreme Court justices retire, it tends to be when it's politically convenient for the side that nominated them in the first place. And we also saw President Trump, back in April, bring up this issue and talk about the political utility of having a retirement this year while Republicans still have a majority in the Senate.",
+      "cn": "ពាក្យចចាមអារ៉ាមអំពីការចូលនិវត្តន៍របស់គាត់។ ត្រូវបញ្ជាក់ឲ្យច្បាស់ថា នេះបាន -- អ្នកដឹងទេ មនុស្សបាននិយាយអំពីរឿងនេះជាយូរមកហើយ។ វាសមហេតុផលណាស់។ ប្រសិនបើអ្នកក្រឡេកមើលពេលវេលាដែលចៅក្រមតុលាការកំពូលចូលនិវត្តន៍ ជារឿយៗវាកើតឡើងនៅពេលដែលវាងាយស្រួលខាងនយោបាយសម្រាប់ភាគីដែលបានតែងតាំងពួកគេដំបូង។ យើងក៏បានឃើញប្រធានាធិបតី Trump លើកឡើងពីបញ្ហានេះកាលពីខែមេសា ហើយនិយាយអំពីអត្ថប្រយោជន៍ខាងនយោបាយនៃការចូលនិវត្តន៍នៅឆ្នាំនេះ ខណៈដែលគណបក្សសាធារណរដ្ឋនៅតែគ្រប់គ្រងសំឡេងភាគច្រើននៅក្នុងព្រឹទ្ធសភា។"
+    },
+    {
+      "speaker": "Blake",
+      "text": "So, I would expect that we're going to keep hearing about this as we get closer.",
+      "cn": "ដូច្នេះ ខ្ញុំរំពឹងថាយើងនឹងបន្តឮអំពីប្រធានបទនេះនៅពេលដែលពេលវេលាខិតជិតមកដល់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Don't measure the drapes just yet. I want to talk about this. After the break on CNN THIS MORNING, President Trump testing our allies, per the usual, as he heads to a NATO conference. How far can he push them before they push back? Plus, the flood waters rise in New Jersey. The damage left behind from this monster summer storm. And I want to say good morning to Atlanta, because you are home of today's Argentina versus Egypt match. It's happening today at noon. Whoever wins advances to the quarterfinals.",
+      "cn": "យល់ព្រម កុំប្រញាប់ទាញវាំងនននៅឡើយ។ ខ្ញុំចង់និយាយអំពីរឿងនេះ។ បន្ទាប់ពីការសម្រាកនៅក្នុងកម្មវិធី CNN This Morning ប្រធានាធិបតី Trump កំពុងធ្វើដំណើរទៅកាន់កិច្ចប្រជុំណាតូ ដោយសាកល្បងសម្ព័ន្ធមិត្តរបស់យើងដូចធម្មតា។ តើគាត់អាចរុញពួកគេឲ្យដល់កម្រិតណា ទើបពួកគេតបតវិញ? លើសពីនេះ ទឹកជំនន់នៅរដ្ឋ New Jersey កំពុងកើនឡើង។ ការខូចខាតដែលបន្សល់ទុកដោយព្យុះរដូវក្តៅនេះ។ ខ្ញុំចង់ជូនពរអរុណសួស្តីដល់ទីក្រុង Atlanta ព្រោះថ្ងៃនេះជាថ្ងៃប្រកួតរវាង Argentina និង Egypt ។ ការប្រកួតនឹងប្រព្រឹត្តទៅនៅថ្ងៃត្រង់នេះ។ អ្នកណាឈ្នះនឹងឡើងទៅវគ្គពាក់កណ្តាលផ្តាច់ព្រ័ត្រ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, in the next half hour, President Trump will land in Turkey's capital for the NATO summit. Now, this meeting comes at a complicated moment for the alliance, after Trump has clashed with its members for failing to back his war in Iran and over their defense spending. Trump continues his criticism of some NATO allies spending as recently as last week. In a Truth Social post, Trump said it is, quote, \"ridiculous for the USA to continue along this one-sided path when the relationship is not reciprocal.",
+      "cn": "ដូច្នេះ ក្នុងរយៈពេលកន្លះម៉ោងខាងមុខ ប្រធានាធិបតី Trump នឹងចុះចតនៅរដ្ឋធានីតួកគី ដើម្បីចូលរួមកិច្ចប្រជុំកំពូលណាតូ។ ឥឡូវនេះ កិច្ចប្រជុំនេះធ្វើឡើងនៅពេលដែលសម្ព័ន្ធភាពកំពុងប្រឈមមុខនឹងពេលវេលាដ៏ស្មុគស្មាញ បន្ទាប់ពី Trump បានប៉ះទង្គិចជាមួយសមាជិករបស់ខ្លួនលើការបរាជ័យរបស់ពួកគេក្នុងការគាំទ្រសង្គ្រាមរបស់គាត់ប្រឆាំងនឹងអ៊ីរ៉ង់ និងបញ្ហាចំណាយការពារជាតិ។ Trump បានបន្តរិះគន់ការចំណាយរបស់សម្ព័ន្ធមិត្តណាតូមួយចំនួនរហូតដល់សប្តាហ៍មុន។ នៅក្នុងប្រកាសមួយនៅលើ Truth Social Trump បាននិយាយថា វាជារឿង 'មិនសមហេតុផល' ដែលសហរដ្ឋអាមេរិកបន្តដើរលើផ្លូវម្ខាងនេះ ព្រោះទំនាក់ទំនងនេះមិនមែនជាការទៅវិញទៅមកទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "They were not there for us!!!\" Joining me now, CNN international diplomatic editor Nic Robertson. And Nic, I know that Trump said that he's basically here, because it's being hosted by Turkey. He has a relationship with the Turkish president, Erdogan. What's the mood going in today?",
+      "cn": "ពួកគេមិនបានគាំទ្រយើងនៅពេលនោះទេ!!! ឥឡូវនេះភ្ជាប់ទៅកាន់ Nick Robertson និពន្ធនាយកផ្នែកការទូតអន្តរជាតិរបស់ CNN ។ Nick ខ្ញុំដឹងថា Trump និយាយថាគាត់មកទីនេះជាចម្បងដោយសារតែកិច្ចប្រជុំនេះត្រូវបានរៀបចំដោយតួកគី។ គាត់មានទំនាក់ទំនងជាមួយប្រធានាធិបតីតួកគី Erdogan ។ តើបរិយាកាសចូលក្នុងកិច្ចប្រជុំថ្ងៃនេះយ៉ាងណាដែរ?"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "Yes, I think there's always one of concern and trepidation from the European allies. And that does seem to be well reflected in the reporting that Kevin Liptak, our Kevin Liptak and Kristen Holmes are getting from -- from their sources: that President Trump arrives into this summit even angrier than normal at his NATO allies, not just for failing to provide overflight rights, basing access for U.S.",
+      "cn": "បាទ ខ្ញុំគិតថាសម្ព័ន្ធមិត្តអឺរ៉ុបតែងតែមកដោយក្តីបារម្ភ និងការភ័យខ្លាច។ នេះហាក់ដូចជាត្រូវបានឆ្លុះបញ្ចាំងយ៉ាងល្អនៅក្នុងរបាយការណ៍ដែល Kevin Liptak, Kevin Liptak របស់យើង និង Christine Holmes ទទួលបានពីប្រភព៖ ប្រធានាធិបតី Trump មកដល់កិច្ចប្រជុំកំពូលនេះដោយខឹងសម្បារជាងធម្មតា មិនត្រឹមតែដោយសារសម្ព័ន្ធមិត្តណាតូបរាជ័យក្នុងការផ្តល់សិទ្ធិហោះហើរ និងការប្រើប្រាស់មូលដ្ឋានសម្រាប់យន្តហោះអាមេរិកក្នុងប្រតិបត្តិការ 'Epic Fury' (សង្គ្រាមប្រឆាំងនឹងអ៊ីរ៉ង់) ប៉ុណ្ណោះទេ ប៉ុន្តែក៏ដោយសារប្រទេសជាច្រើន -- ដូចជាអេស្ប៉ាញ -- បរាជ័យក្នុងការប្តេជ្ញាចិត្តផ្ទាល់ខ្លួន ឬស្វែងរកមធ្យោបាយដើម្បីឈានដល់ 5% នៃ GDP សម្រាប់ការចំណាយការពារជាតិ និងសន្តិសុខនៅឆ្នាំ 2035។ នេះជាបញ្ហាសំខាន់សម្រាប់ប្រធានាធិបតី Trump ហើយគាត់មកទីនេះដោយសង្ឃឹមថានឹងធ្វើឲ្យសម្ព័ន្ធមិត្តបង្កើនការចំណាយ។"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "aircraft in Operation Epic Fury, the war against Iran; but also for falling short, many of them -- countries like Spain -- not making the commitment individually or finding the pathway to make that 5 percent GDP spending on defense and security by 2035. This is a key issue for President Trump, coming in here, wanting to make sure that allies are upping their spending.",
+      "cn": "អគ្គលេខាធិការណាតូបានព្យាយាមបញ្ជូនសារមួយអំពីរបៀបដែលការចំណាយបានកើនឡើង៖ គាត់បាននិយាយថា មូលនិធិការពារជាតិស្នូលបានកើនឡើង 20% ក្នុងឆ្នាំមុន ហើយសម្ព័ន្ធមិត្តអឺរ៉ុប និងកាណាដាក៏ដូចគ្នា។ ការចំណាយការពារជាតិស្នូលបានកើនឡើងជិត 250 ពាន់លានដុល្លារ។ លេខធំ សេចក្តីប្រកាសធំរបស់អគ្គលេខាធិការណាតូ។"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "The NATO secretary-general has been trying to sort of portray a message of how much that's increasing: 20 percent in core defense funding over the past year, European allies and Canadians, he said. That's an increase of close to a quarter trillion dollars in defense core spending. Big numbers, big statement from the NATO secretary- general.",
+      "cn": "ប៉ុន្តែនៅពេលដែលប្រធានាធិបតី Trump មកទីនេះ ហើយត្រូវបានឡោមព័ទ្ធដោយមេដឹកនាំផ្សេងៗទាំងនេះ គាត់នឹងមានការខកចិត្ត ឧទាហរណ៍ ជាពិសេសអេស្ប៉ាញ ដែលមិនបានផ្តល់សិទ្ធិហោះហើរលើដែនអាកាសដល់កងទ័ពអាកាសអាមេរិកតាមដែលគាត់ចង់បាន ដែលប្រធានាធិបតីសង្ឃឹមថានឹងប្រើប្រាស់ក្នុងសង្គ្រាមប្រឆាំងនឹងអ៊ីរ៉ង់។ បច្ចុប្បន្ននេះមិនទាន់ដឹងច្បាស់ថាប្រធានាធិបតីនឹងដោះស្រាយរឿងនេះដោយរបៀបណាទេ។ យើងដឹងថាក្រសួងការពារជាតិកំពុងធ្វើការវាយតម្លៃការពារជាតិ ដើម្បីកំណត់ថាតើការប្តេជ្ញាចិត្តការពារជាតិរបស់សហរដ្ឋអាមេរិកនៅអឺរ៉ុប -- កងទ័ព ឧបករណ៍ ចំនួនបុគ្គលិក -- គួរតែធំ ឬតូចប៉ុណ្ណា ដើម្បីគាំទ្រណាតូ។"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "But when President Trump gets in here and is surrounded by these different leaders, he's going to be frustrated, for instance, with Spain in particular, that didn't give the U.S. Air Force the rights, overflight basing rights that he wanted, the president wanted to be able to use in the war with Iran. And it's not clear how the president will handle that. We know that there is a defense review going on at the Pentagon for how big or small the U.S.",
+      "cn": "តើកំហឹងរបស់គាត់នឹងផ្តោតលើប្រទេសនីមួយៗដូចជាអេស្ប៉ាញ ឬនឹងមានលក្ខណៈទូលំទូលាយជាង? ហើយចំពោះសម្ព័ន្ធមិត្តដែលមានការចំណាយការពារជាតិធំនាពេលបច្ចុប្បន្ន ដូចជាប៉ូឡូញ អាល្លឺម៉ង់ បណ្តាប្រទេស Nordic បណ្តាប្រទេសបាល់ទិក តើគាត់នឹងផ្តល់រង្វាន់ដល់ពួកគេក្នុងកម្រិតណា? ប្រធានាធិបតី Erdogan -- ប្រធានាធិបតី Trump នឹងជួបជាមួយគាត់នៅវិមានប្រធានាធិបតីពីក្រោយខ្ញុំនៅពេលក្រោយ -- ប្រហែលជាអាចទទួលបានអ្វីដែលគាត់ចង់បាន។"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "defense commitment -- number of troops, equipment, personnel -- should be based in Europe to support NATO. We don't know how the president may structure his anger.",
+      "cn": "គាត់មានបំណងប្រាថ្នាយ៉ាងខ្លាំងក្នុងការទទួលបានយន្តហោះចម្បាំង F-35 ពីសហរដ្ឋអាមេរិក។ ក្នុងអំឡុងរដ្ឋាភិបាលមុនរបស់លោក Trump នៅពេលដែលគាត់បានទិញប្រព័ន្ធការពារដែនអាកាស S-40 ដែលផលិតដោយរុស្ស៊ី គាត់បានបាត់បង់សមត្ថភាពក្នុងការទទួលបានយន្តហោះទាំងនេះ។ ប្រហែលជាស្ថានភាពនឹងផ្លាស់ប្តូរ។ កិច្ចប្រជុំទ្វេភាគីនឹងចាប់ផ្តើមក្នុងរយៈពេលប្រហែលមួយម៉ោងទៀត។"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "Will it be focused against those individual countries like Spain, or will it be focused more generally? And the preferential treatment that allies that are spending a lot on defense at the moment, like Poland, like Germany, like the Nordic countries, like the Baltic countries, how much will he sort of reward them, if you like? President Erdogan, who -- who President Trump will be meeting at the presidential palace behind me shortly, perhaps is going to get something that he wants."
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "He desperately wants F-35 fighter jets from the United States. He scotched his ability to get that during President Trump's last administration, when he bought Russian-made S-400 surface-to-air defense missile systems. Maybe that will change. And the bilateral meeting there will be getting underway in an hour or so."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Is that complicated, though, by this reporting that Netanyahu has asked that Trump refrain from helping Turkey modernize its air force, because they're concerned about antisemitic rhetoric from Turkey?",
+      "cn": "ទោះយ៉ាងណា មានរបាយការណ៍ថា លោក Netanyahu បានស្នើសុំឱ្យលោក Trump កុំជួយទួរគីធ្វើទំនើបកម្មកងទ័ពអាកាសរបស់ខ្លួន ដោយសារពួកគេព្រួយបារម្ភអំពីសុន្ទរកថាប្រឆាំងសាសន៍យូដារបស់ទួរគី តើនេះធ្វើឱ្យស្ថានការណ៍កាន់តែស្មុគស្មាញដែរឬទេ?"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "Yes. Turkey carries a very big diplomatic and military weight in the region. And F-35 stealth fighter jets would certainly add to what it's capable of achieving in terms of sort of military parity, if you will, with Israel. They both have significant air forces, significantly well-trained fighter pilots. And Israel doesn't believe it's in its interests, in Israel's interests, to have Turkey get these advanced stealth fighter jets.",
+      "cn": "បាទ/ចាស។ តួកគីមានទម្ងន់ផ្នែកការទូត និងយោធាយ៉ាងសំខាន់ក្នុងតំបន់។ យន្តហោះចម្បាំងលាក់កំបាំង F-35 ពិតជានឹងពង្រឹងសមត្ថភាពរបស់ខ្លួនក្នុងការរក្សាលំនឹងយោធាជាមួយអ៊ីស្រាអែល។ ប្រទេសទាំងពីរមានកងទ័ពអាកាសដ៏រឹងមាំ និងអ្នកបើកយន្តហោះចម្បាំងដែលបានទទួលការហ្វឹកហ្វឺនយ៉ាងល្អ។ អ៊ីស្រាអែលចាត់ទុកថា ការអនុញ្ញាតឱ្យតួកគីទទួលបានយន្តហោះចម្បាំងលាក់កំបាំងទំនើបទាំងនេះ គឺមិនស្របតាមផលប្រយោជន៍របស់ខ្លួនឡើយ។"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "At the moment they've been limited with the sort of 15s to 16s, those F-15s, F-16s, those level of fighter jets, not stealth, not capable of what the F-35 can do. President Trump will undoubtedly need to -- need to balance this. We know he's been leaning into pressuring Prime Minister Netanyahu of Israel over the ceasefire in Gaza, over the ceasefire in Lebanon.",
+      "cn": "បច្ចុប្បន្ននេះ យន្តហោះរបស់តួកគីមានត្រឹមតែយន្តហោះចម្បាំងដូចជា F-15 និង F-16 ប៉ុណ្ណោះ ដែលមិនមានសមត្ថភាពលាក់បាំង និងមិនអាចឈានដល់កម្រិតរបស់ F-35 បានទេ។ ប្រធានាធិបតី Trump ពិតជាត្រូវការធ្វើឱ្យមានតុល្យភាពនេះ។ យើងដឹងថាគាត់កំពុងដាក់សម្ពាធលើនាយករដ្ឋមន្ត្រីអ៊ីស្រាអែល Netanyahu ឱ្យឈានដល់បទឈប់បាញ់នៅ Gaza និង Lebanon។"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "Undoubtedly, the Israeli prime minister will be feeling the heat if the president -- if President Trump makes that decision today about the F-35s for Turkey.",
+      "cn": "គ្មានការសង្ស័យទេថា ប្រសិនបើប្រធានាធិបតី Trump សម្រេចចិត្តថ្ងៃនេះលើបញ្ហា F-35 របស់តួកគី នាយករដ្ឋមន្ត្រីអ៊ីស្រាអែលនឹងមានអារម្មណ៍ថាមានសម្ពាធ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. A lot of questions coming out of this meeting today. Nic Robertson, thank you so much. We're going to be following you throughout the day. And straight ahead on CNN THIS MORNING, we're going to talk about whether it was fair play or interference. Is anything off limits with a president who doesn't seem to care about the appearance of impropriety? Plus, Cuba in the dark again. Their president is blaming D.C., calling it social explosion through asphyxiation. var CNN = CNN || {};",
+      "cn": "ល្អណាស់។ កិច្ចប្រជុំថ្ងៃនេះបាននាំមកនូវសំណួរជាច្រើន។ Nick Robertson សូមអរគុណច្រើន។ យើងនឹងតាមដានរបាយការណ៍របស់អ្នកពេញមួយថ្ងៃនេះ។ បន្ទាប់មកនៅក្នុងកម្មវិធី CNN This Morning យើងនឹងពិភាក្សាថាតើនេះជាការប្រកួតប្រជែងដោយយុត្តិធម៌ ឬការជ្រៀតជ្រែក។ តើមានអ្វីដែលប្រធានាធិបតីដែលហាក់ដូចជាមិនខ្វល់ពីរូបរាងនៃការប្រព្រឹត្តខុសមិនអាចធ្វើបានទេ? លើសពីនេះទៀត គុយបាបានធ្លាក់ចូលទៅក្នុងភាពងងឹតម្តងទៀត។ ប្រធានាធិបតីរបស់ពួកគេបានចោទប្រកាន់ទីក្រុងវ៉ាស៊ីនតោន ដោយនិយាយថានេះជាការផ្ទុះសង្គមតាមរយៈការច្របាច់ក។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Good morning, everybody. I'm Audie Cornish. Thank you for joining me on \"CNN This Morning.\" It is half past the hour. Here's what's happening right now. The man accused of placing pipe bombs in Washington, D.C. five years ago will not have his charges dropped. A judge on Monday rejected a motion to dismiss the case after the defendant tried to argue that Trump's sweeping pardon for January 6 rioters also applied to him.",
+      "cn": "សួស្តីព្រឹក។ ខ្ញុំគឺ Otie Cornish ។ សូមអរគុណដែលបានទស្សនា CNN This Morning ។ ឥឡូវនេះម៉ោងកន្លះហើយ។ នេះជាអ្វីដែលកំពុងកើតឡើង។ ការចោទប្រកាន់បុរសម្នាក់ដែលបានដាក់គ្រាប់បែកបំពង់នៅទីក្រុងវ៉ាស៊ីនតោនកាលពីប្រាំឆ្នាំមុននឹងមិនត្រូវបានដកចេញទេ។ កាលពីថ្ងៃចន្ទ ចៅក្រមម្នាក់បានច្រានចោលសំណើដើម្បីលុបចោលករណីនេះ បន្ទាប់ពីជនជាប់ចោទបានព្យាយាមប្រកែកថាការលើកលែងទោសដ៏ធំរបស់ប្រធានាធិបតី Trump ចំពោះពួកឧទ្ទាមថ្ងៃទី 6 ខែមករាក៏អនុវត្តចំពោះគាត់ដែរ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "The judge says, the pardon does not apply because he had not yet been convicted of any crime when the pardon was issued. A new video out of New Jersey showing the moment a roof of a supermarket collapsed two people were trapped under the debris. They were able to get out and there were no injuries. The roof collapsed after torrential rain in the area. Several roads were washed out by flood waters and the area hit with five inches of rain in just a few hours.",
+      "cn": "ចៅក្រមបាននិយាយថាការលើកលែងទោសមិនអនុវត្តទេ ពីព្រោះនៅពេលដែលការលើកលែងទោសត្រូវបានចេញ គាត់មិនទាន់ត្រូវបានកាត់ទោសនៅឡើយទេ។ វីដេអូថ្មីមួយពីរដ្ឋ New Jersey បង្ហាញពីដំបូលផ្សារទំនើបមួយដួលរលំ ដោយមនុស្សពីរនាក់ជាប់នៅក្រោមគំនរបាក់បែក។ ពួកគេអាចចេញមកដោយគ្មានអ្នករងរបួស។ ដំបូលបានដួលរលំបន្ទាប់ពីមានភ្លៀងធ្លាក់ខ្លាំង។ ផ្លូវជាច្រើននៅក្នុងតំបន់ត្រូវបានទឹកជំនន់បំផ្លាញ ដោយមានភ្លៀងធ្លាក់ 5 អ៊ីញក្នុងរយៈពេលពីរបីម៉ោង។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "And Cuba working to restore power after suffering a nationwide blackout on Monday. The island has experienced several blackouts as the country's aging electric infrastructure struggles to meet demand. Cuba's energy crisis became worse after the U.S. issued a blockade on fuel shipments. And the dream is over for the team USA in the World Cup Monday night. They lost to Belgium by a final score of four to one, eliminating them from the tournament in the Round of 16. Now, the loss comes despite the fact that U.S.",
+      "cn": "គុយបាកំពុងខិតខំស្តារថាមពលអគ្គិសនីឡើងវិញ បន្ទាប់ពីប្រឈមមុខនឹងការដាច់ចរន្តអគ្គិសនីទូទាំងប្រទេសកាលពីថ្ងៃចន្ទ។ កោះនេះបានជួបប្រទះការដាច់ចរន្តអគ្គិសនីជាច្រើនលើក ដោយសារហេដ្ឋារចនាសម្ព័ន្ធអគ្គិសនីចាស់របស់ប្រទេសមិនអាចបំពេញតម្រូវការបាន។ វិបត្តិថាមពលរបស់គុយបាកាន់តែអាក្រក់ឡើង បន្ទាប់ពីសហរដ្ឋអាមេរិកដាក់បិទខ្ទប់ការដឹកជញ្ជូនប្រេងឥន្ធនៈ។ នៅយប់ថ្ងៃចន្ទ ក្តីស្រមៃរបស់ក្រុមអាមេរិកក្នុងពានរង្វាន់ World Cup ត្រូវបានបំបាត់។ ពួកគេបានចាញ់បែលហ្ស៊ិក 4-1 ហើយត្រូវបានលុបចេញក្នុងវគ្គ 16 ក្រុមចុងក្រោយ។ ការបរាជ័យនេះកើតឡើងទោះបីជាកីឡាករអាមេរិក Folarin Balogun ត្រូវបានអនុញ្ញាតឱ្យចូលលេងក៏ដោយ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "player, Folarin Balogun, was cleared to play, even though originally he was supposed to be suspended due to a red card. And that suspension, of course, was lifted after a phone call from President Trump to the head of",
+      "cn": "ទោះបីជាដើមឡើយគាត់ត្រូវបានផ្អាកលេងដោយសារកាតក្រហមក៏ដោយ ប៉ុន្តែបន្ទាប់ពីប្រធានាធិបតី Trump បានទូរស័ព្ទទៅអ្នកទទួលខុសត្រូវ ការផ្អាកនេះត្រូវបានលុបចោល។"
+    },
+    {
+      "speaker": "Fifa. Donad Trump",
+      "text": "He didn't do anything wrong, and he's our best player or one of our best players. A very vital player. And they gave him a red card. I didn't know what that meant. I didn't think it meant much. Then I started hearing that that means he can't play in the next game. At least in the next game. All I did was ask for a review.",
+      "cn": "គាត់មិនបានធ្វើអ្វីខុសទេ គាត់គឺជាកីឡាករល្អបំផុតម្នាក់របស់យើង ជាកីឡាករសំខាន់ណាស់។ ពួកគេបានឲ្យគាត់កាតក្រហម។ ខ្ញុំមិនដឹងថាវាមានន័យយ៉ាងណាទេ។ ខ្ញុំគិតថាវាមិនមែនជារឿងធំដុំទេ។ បន្ទាប់មកខ្ញុំចាប់ផ្តើមឮថាវាមានន័យថាគាត់មិនអាចលេងការប្រកួតបន្ទាប់បានទេ។ យ៉ាងហោចណាស់ការប្រកួតបន្ទាប់។ អ្វីដែលខ្ញុំបានធ្វើគឺសុំឱ្យពិនិត្យឡើងវិញ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joining me now, Will Leitch, contributing editor at \"New York Magazine.\" Will, you and I have been talking for months. And it was like, is the U.S. going to become the super villain, the sports villain of the World Cup? Is Trump going to insert himself? And you and I said to each other, oh, no, it looks like that is not happening. People are eating barbecue and loving everything. And then, and then, and then. So, was this a bad call?",
+      "cn": "ឥឡូវនេះចូលរួមជាមួយយើងគឺ Will Leitch អ្នកនិពន្ធពិសេសនៃទស្សនាវដ្តី New York ។ Will យើងបានពិភាក្សាគ្នាជាច្រើនខែមកហើយ។ ដូចជា តើអាមេរិកនឹងក្លាយជាមនុស្សអាក្រក់ក្នុង World Cup ជាមនុស្សអាក្រក់ក្នុងកីឡាទេ? តើ Trump នឹងចូលរួមទេ? យើងនិយាយគ្នាថា អូ អត់ទេ វាហាក់ដូចជាមិនកើតឡើងទេ។ មនុស្សកំពុងដុតសាច់អាំង ស្រឡាញ់អ្វីៗទាំងអស់។ បន្ទាប់មក បន្ទាប់មក បន្ទាប់មក។ ដូច្នេះ តើនេះជាការសម្រេចចិត្តមិនល្អទេ?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We were so close. OK? But here I am. So, when this was announced, the red card, was it considered a bad call? Was everyone in the World Cup like, oh, what a bummer the best player isn't going to make it? And we're OK with that call? Or was it controversial to start?",
+      "cn": "យើងស្ទើរតែជោគជ័យ។ ល្អទេ? ប៉ុន្តែខ្ញុំនៅទីនេះ។ ដូច្នេះ នៅពេលដែលកាតក្រហមនេះត្រូវបានប្រកាស តើវាត្រូវបានចាត់ទុកថាជាការសម្រេចចិត្តមិនល្អទេ? តើអ្នករាល់គ្នានៅក្នុង World Cup គិតថា អូ គួរឲ្យអាណិតណាស់ កីឡាករល្អបំផុតមិនអាចលេងបានទេ? តើយើងទទួលយកការសម្រេចចិត្តនោះទេ? ឬតើវាមានភាពចម្រូងចម្រាសតាំងពីដំបូង?"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "It was a controversial call to start. But what wasn't controversial was everybody understood that once the red card went down, he would be suspended to the next game. FIFA had no sense of appeal. That is the rule. That has been the rule throughout World Cups throughout history. Certainly, a lot of people didn't like the call. I personally didn't like the call. But once the red card was given, there really wasn't a lot of debate whether or not he would be able to not play next game. It was not up for appeal.",
+      "cn": "ដំបូងវាជាការសម្រេចចិត្តដែលមានភាពចម្រូងចម្រាស។ ប៉ុន្តែអ្វីដែលមិនមានភាពចម្រូងចម្រាសគឺថា អ្នករាល់គ្នាយល់ថានៅពេលដែលកាតក្រហមត្រូវបានចេញ គាត់នឹងត្រូវផ្អាកលេងក្នុងការប្រកួតបន្ទាប់។ FIFA មិនមានយន្តការប្តឹងឧទ្ធរណ៍ទេ។ នេះជាច្បាប់។ នេះជាច្បាប់ពេញមួយប្រវត្តិសាស្ត្រ World Cup ។ ជាការពិតណាស់ មនុស្សជាច្រើនមិនចូលចិត្តការសម្រេចចិត្តនេះទេ។ ខ្ញុំផ្ទាល់ក៏មិនចូលចិត្តដែរ។ ប៉ុន្តែនៅពេលដែលកាតក្រហមត្រូវបានចេញ ពិតជាមិនមានការជជែកវែកញែកច្រើនអំពីថាតើគាត់អាចលេងការប្រកួតបន្ទាប់បានទេ។ វាមិនអាចប្តឹងឧទ្ធរណ៍បានទេ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "And yet, things didn't change in that regard.",
+      "cn": "ទោះយ៉ាងណាក៏ដោយ ក្នុងរឿងនេះ អ្វីៗមិនបានផ្លាស់ប្តូរទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There's a t-shirt around that jokingly says USA versus everybody. And then that t-shirt just became a reality because people started to freak out internationally about this. Talk about the win from Belgium because they were clearly pleased with this victory.",
+      "cn": "មានអាវយឺតមួយដែលសរសេរលេងសើចថា \"America vs. Everybody\" ។ បន្ទាប់មកអាវយឺតនោះបានក្លាយជាការពិត ពីព្រោះមនុស្សនៅអន្តរជាតិចាប់ផ្តើមភ័យស្លន់ស្លោចំពោះរឿងនេះ។ សូមនិយាយអំពីជ័យជម្នះរបស់បែលហ្ស៊ិក ពីព្រោះពួកគេពិតជាពេញចិត្តនឹងជ័យជម្នះនេះ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Yes. It was quite interesting. Belgium's coach Rudi Garcia, before the game, they asked him how important this game was, which is a silly question. It's the World Cup qualifier. It's the World Cup game. Of course, it's a knockout phase. Of course, it's an important game. He said, we are not just playing for the national team or the Federation. We are playing for football itself. That's a lot for the U.S. team to come up against. And you could see that really from the very beginning last night. The U.S.",
+      "cn": "បាទ វាគួរឱ្យចាប់អារម្មណ៍។ គ្រូបង្វឹកបែលហ្ស៊ិក Rudi Garcia ត្រូវបានសួរមុនការប្រកួតថាតើការប្រកួតនេះសំខាន់ប៉ុណ្ណា ដែលជាសំណួរឆោតល្ងង់។ នេះគឺជាការប្រកួតជម្រុះ World Cup ។ នេះគឺជាការប្រកួត World Cup ។ ជាការពិតណាស់ វាជាវគ្គចេញវៀន។ ជាការពិតណាស់ វាជាការប្រកួតសំខាន់។ គាត់បាននិយាយថា យើងមិនត្រឹមតែប្រយុទ្ធដើម្បីក្រុមជម្រើសជាតិ ឬសហព័ន្ធប៉ុណ្ណោះទេ។ យើងប្រយុទ្ធដើម្បីកីឡាបាល់ទាត់ខ្លួនឯង។ នេះជាបញ្ហាប្រឈមដ៏ធំសម្រាប់ក្រុមអាមេរិក។ អ្នកអាចមើលឃើញពីដើមដំបូងកាលពីយប់មិញ។ ក្រុមអាមេរិក"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "really seemed -- the talent-wise, they were probably a little bit lower than Belgium. I think that that's a larger issue for U.S. soccer. But more to the point, they looked overwhelmed, kind of spooked from the beginning. They were very rattled from the start of this game. Belgium almost scored very early, didn't score very quickly. On the whole, the U.S.",
+      "cn": "មើលទៅ -- តាមទេពកោសល្យ ពួកគេប្រហែលជាទាបជាងបែលហ្ស៊ិកបន្តិច។ ខ្ញុំគិតថានេះជាបញ្ហាធំជាងសម្រាប់កីឡាបាល់ទាត់អាមេរិក។ ប៉ុន្តែសំខាន់ជាងនេះទៅទៀត ពួកគេមើលទៅភ្ញាក់ផ្អើល និងភ័យខ្លាចតាំងពីដំបូង។ ពួកគេតានតឹងខ្លាំងតាំងពីចាប់ផ្តើមការប្រកួត។ បែលហ្ស៊ិកស្ទើរតែរកគ្រាប់បានដំបូង ប៉ុន្តែមិនបានស៊ុតបញ្ចូលទីភ្លាមៗទេ។ សរុបមក ក្រុមអាមេរិក"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "team looked like the moment was maybe a little bit too big for them, which you can kind of understand because it really was everyone against them for a team that is good, but not at the top tier of the sport. It maybe was a little bit overwhelming point.",
+      "cn": "មើលទៅពេលនេះប្រហែលជាធំពេកសម្រាប់ពួកគេ ដែលអាចយល់បាន ពីព្រោះពិតជាមានមនុស្សគ្រប់គ្នាប្រឆាំងនឹងពួកគេ ហើយពួកគេជាក្រុមល្អ ប៉ុន្តែមិនមែនជាកម្រិតកំពូលទេ។ នេះប្រហែលជាធ្វើឱ្យពួកគេធុញថប់បន្តិច។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I want to play for you what the U.S. soccer players had to say after the match. We know what Belgium thinks because I think they tweeted overturn this, but here's what the players had to say.",
+      "cn": "ខ្ញុំចង់ចាក់អ្វីដែលកីឡាករបាល់ទាត់អាមេរិកបាននិយាយក្រោយការប្រកួត។ យើងដឹងថាបែលហ្ស៊ិកគិតយ៉ាងណា ពីព្រោះខ្ញុំគិតថាពួកគេបានប្រកាសនៅលើ Twitter ថាចង់លុបចោលការសម្រេចចិត្តនេះ ប៉ុន្តែនេះជាអ្វីដែលកីឡាករបាននិយាយ។"
+    },
+    {
+      "speaker": "Tim Ream",
+      "text": "No. I had no idea. Outside noise, we've -- we've done a good job with this group of -- of allowing outside noise to be outside noise.",
+      "cn": "ទេ។ ខ្ញុំមិនដឹងទាល់តែសោះ។ សំលេងរំខានពីខាងក្រៅ យើង -- យើងធ្វើបានល្អក្នុងក្រុមនេះ -- ដើម្បីរក្សាសំលេងរំខានពីខាងក្រៅឱ្យនៅខាងក្រៅ។"
+    },
+    {
+      "speaker": "Tyler Adams",
+      "text": "We were happy that we had an opportunity for him to play. I think he -- he tried today to -- to be a -- a presence and a nuisance, and at times, he was getting the ball in behind and -- and doing what he does. Just didn't have too many opportunities.",
+      "cn": "យើងសប្បាយចិត្តដែលមានឱកាសឱ្យគាត់ចូលលេង។ ខ្ញុំមានអារម្មណ៍ថាថ្ងៃនេះគាត់ព្យាយាម -- ធ្វើជាវត្តមាន និងជាអ្នកបង្កបញ្ហា ហើយពេលខ្លះគាត់អាចជ្រៀតចូលពីក្រោយបាន ធ្វើអ្វីដែលគាត់ពូកែ។ គ្រាន់តែមិនមានឱកាសច្រើនទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I can't help but wonder, like, was this a momentum killer? I mean, after the whole Trump-Knicks thing, I sort of, all the New Yorkers got it in my head that Trump's a cooler. And did he basically hurt the vibes?",
+      "cn": "ខ្ញុំមិនអាចជួយគិតបានទេថា តើនេះបានសម្លាប់សន្ទុះដែរឬទេ? ខ្ញុំមានន័យថា បន្ទាប់ពីរឿង Trump និង Knicks អ្នកទាំងអស់គ្នានៅញូវយ៉កធ្វើឱ្យខ្ញុំគិតថា Trump ជាមនុស្សធ្វើឱ្យខូចអារម្មណ៍។ តើគាត់បានបំផ្លាញបរិយាកាសជាមូលដ្ឋានទេ?"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "The vibes definitely shifted very quickly. This was an upstart team. You know, this has always -- U.S. soccer team is not generally like most U.S. national teams. They're not the overwhelming favorite. They're the plucky underdog. They're the way that Americans generally think we are, but aren't. They -- they usually are that upstart team that you can get excited about. That switched so much on them.",
+      "cn": "បរិយាកាសពិតជាបានផ្លាស់ប្តូរយ៉ាងឆាប់រហ័ស។ នេះជាក្រុមដែលកំពុងរីកចម្រើន។ អ្នកដឹងទេ ក្រុមបាល់ទាត់អាមេរិកជាធម្មតាមិនដូចក្រុមជម្រើសជាតិអាមេរិកភាគច្រើនទេ។ ពួកគេមិនមែនជាក្រុមដែលមានគេរំពឹងថានឹងឈ្នះខ្លាំងនោះទេ។ ពួកគេជាក្រុមអ្នកក្រ ដែលក្លាហាន។ ពួកគេជាអ្វីដែលជនជាតិអាមេរិកជាធម្មតាគិតថាខ្លួនឯងជា ប៉ុន្តែតាមពិតមិនមែន។ ពួកគេជាធម្មតាជាក្រុមដែលកំពុងរីកចម្រើនគួរឱ្យរំភើប។ ប៉ុន្តែអ្វីៗទាំងអស់នេះបានផ្លាស់ប្តូរយ៉ាងខ្លាំងចំពោះពួកគេ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "And certainly, you know, this was a team that everyone was behind, knew that everyone was behind, suddenly felt was getting tough questions from all across the board. Certainly, these people -- the United States soccer players, they play internationally. They know what everyone is saying about this decision, everyone was saying about their team.",
+      "cn": "ជាការពិតណាស់ នេះជាក្រុមដែលអ្នករាល់គ្នាគាំទ្រ ហើយក៏ដឹងថាអ្នករាល់គ្នាគាំទ្រ ស្រាប់តែមានអារម្មណ៍ថាត្រូវបានចោទសួរយ៉ាងខ្លាំងពីគ្រប់ទិសទី។ ជាការពិតណាស់ មនុស្សទាំងនេះ -- កីឡាករបាល់ទាត់អាមេរិក ពួកគេលេងនៅអន្តរជាតិ។ ពួកគេដឹងពីអ្វីដែលអ្នករាល់គ្នានិយាយអំពីការសម្រេចចិត្តនេះ អំពីក្រុមរបស់ពួកគេ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "And they knew instantly they had gone from this fun underdog that everyone was cheering for and having these street parties cheering for to taking really tough questions and having the entire soccer world outside the United States, furious with them and rooting against them. They can feel that whether -- whether they will admit that or not, whether the state that was outside noise, they are part of the soccer world. They know they play with the people.",
+      "cn": "ពួកគេដឹងភ្លាមថា ពួកគេបានប្រែក្លាយពីអ្នកទន់ខ្សោយដែលគួរឱ្យស្រឡាញ់ ដែលគ្រប់គ្នាស្រែកអបអរ និងមានពិធីជប់លៀងតាមដងផ្លូវគាំទ្រ ទៅជាអ្នកដែលត្រូវប្រឈមមុខនឹងសំណួរមុតស្រួច ហើយពិភពបាល់ទាត់ទាំងមូលក្រៅពីសហរដ្ឋអាមេរិកខឹងសម្បារ និងប្រឆាំងនឹងពួកគេ។ ពួកគេអាចមានអារម្មណ៍ថាវា -- មិនថាពួកគេទទួលស្គាល់ឬអត់ មិនថាសំឡេងរំខានពីខាងក្រៅយ៉ាងណាទេ ពួកគេគឺជាផ្នែកមួយនៃពិភពបាល់ទាត់។ ពួកគេដឹងថាពួកគេលេងជាមួយមនុស្សទាំងនោះ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "A lot of these people are teammates in their -- with their club teams with the people that were trying to beat them and they know how angry everybody is. So, certainly, there was a clear shift in the way that U.S. soccer was seen both before this and very much afterward, after kind of what Trump did.",
+      "cn": "ក្នុងចំណោមមនុស្សទាំងនេះ ភាគច្រើនជាមិត្តរួមក្រុមនៅក្នុងក្លឹបបាល់ទាត់ លេងជាមួយអ្នកដែលព្យាយាមយកឈ្នះពួកគេ ហើយពួកគេដឹងថាមនុស្សគ្រប់គ្នាខឹងប៉ុណ្ណា។ ដូច្នេះ ជាការពិត របៀបដែលបាល់ទាត់អាមេរិកត្រូវបានគេមើលឃើញ បានផ្លាស់ប្តូរយ៉ាងច្បាស់លាស់ មុន និងក្រោយអ្វីដែលលោក Trump បានធ្វើ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Will, I'm out of time, but I have to ask one last thing because FIFA's presidents looked this decision was made by an independent commission. The phone call from the man I gave a made-up peace prize to had nothing to do with it. Can you talk to me about FIFA's Infantino? Is this a guy on the bubble? Or has he just done so much for so many countries who want a part of the FIFA revenue pie that it doesn't matter?",
+      "cn": "Will, ខ្ញុំគ្មានពេលទេ ប៉ុន្តែខ្ញុំត្រូវសួររឿងចុងក្រោយមួយ ព្រោះប្រធាន FIFA បាននិយាយថាការសម្រេចចិត្តនេះធ្វើឡើងដោយគណៈកម្មាធិការឯករាជ្យ។ ទូរស័ព្ទរបស់អ្នកដែលខ្ញុំបានផ្តល់រង្វាន់សន្តិភាពក្លែងក្លាយនោះមិនពាក់ព័ន្ធទេ។ តើអ្នកអាចនិយាយជាមួយខ្ញុំអំពី Infantino របស់ FIFA បានទេ? តើគាត់ជាមនុស្សដែលមានគ្រោះថ្នាក់ទេ? ឬតើគាត់បានធ្វើច្រើនពេកសម្រាប់ប្រទេសជាច្រើនដែលចង់បានចំណែកនៃនំចំណូល FIFA រហូតដល់វាមិនសំខាន់?"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "Certainly, this is the most perilous situation for him. He has made a lot of money for a lot of people. He's making a lot of money people -- for people from this World Cup. But the one thing he's never crossed over to has been competition on the field. People have not loved everything he's done, but he's -- he's brought them a lot of money. The tournament -- the integrity of the tournament itself has never been questioned until now.",
+      "cn": "ពិតណាស់ នេះជាស្ថានភាពគ្រោះថ្នាក់បំផុតរបស់គាត់។ គាត់រកលុយបានច្រើនសម្រាប់មនុស្សជាច្រើន។ គាត់រកលុយបានច្រើនសម្រាប់មនុស្សតាមរយៈ World Cup នេះ។ ប៉ុន្តែអ្វីដែលគាត់មិនដែលឆ្លងកាត់គឺការប្រកួតប្រជែងនៅលើទីលាន។ មនុស្សមិនចូលចិត្តអ្វីគ្រប់យ៉ាងដែលគាត់ធ្វើទេ ប៉ុន្តែគាត់បាននាំលុយច្រើនដល់ពួកគេ។ ការប្រកួតខ្លួនឯង -- ភាពស្មោះត្រង់នៃការប្រកួតទើបតែត្រូវបានចោទសួរឥឡូវនេះ។"
+    },
+    {
+      "speaker": "Leitch",
+      "text": "And I think that is -- I think it's provided an opening for people that were frustrated with him to potentially do something after this term. But you have to wonder if he will think it was really worth it when this tournament is over.",
+      "cn": "ខ្ញុំគិតថានេះផ្តល់ឱកាសដល់អ្នកដែលមិនពេញចិត្តនឹងគាត់ ដើម្បីចាត់វិធានការបន្ទាប់ពីអាណត្តិនេះ។ ប៉ុន្តែអ្នកត្រូវឆ្ងល់ថា នៅពេល World Cup នេះបញ្ចប់ តើគាត់នឹងគិតថាវាពិតជាមានតម្លៃទេ?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Will, thanks so much. We'll have you back soon for the rest of the tournament. I got to bring in the group chat now to talk more about this because it's all of a sudden turned into a political story. Aaron, your most recent CNN piece, you talked about how this kind of fits into a pattern for Trump in his second term. And your -- your story was in my mind because of this thing that Trump said. I want to play it for the audience.",
+      "cn": "ល្អហើយ Will អរគុណច្រើន។ យើងនឹងអញ្ជើញអ្នកមកវិញឆាប់ៗដើម្បីពិភាក្សាអំពីការប្រកួតដែលនៅសល់។ ឥឡូវខ្ញុំត្រូវទាញក្រុមជជែកចូលមក ដើម្បីនិយាយបន្ថែមអំពីរឿងនេះ ព្រោះវាក្លាយជារឿងនយោបាយភ្លាមៗ។ Aaron អត្ថបទ CNN ថ្មីៗរបស់អ្នកនិយាយអំពីរបៀបដែលវាសមនឹងគំរូនៃអាណត្តិទីពីររបស់ Trump ។ អត្ថបទរបស់អ្នកនៅក្នុងគំនិតខ្ញុំ ព្រោះ Trump បាននិយាយរឿងនេះ។ ខ្ញុំចង់ឱ្យអ្នកទស្សនាមើល។"
+    },
+    {
+      "speaker": "Trump",
+      "text": "And you know what? If they beat us, then they can be really proud. The other way, if they beat us, we'll say it was -- I say it was rigged. Just like the election was rigged in 2020.",
+      "cn": "អ្នកដឹងទេ? ប្រសិនបើពួកគេឈ្នះយើង ពួកគេអាចមានមោទនភាព។ ផ្ទុយទៅវិញ ប្រសិនបើពួកគេឈ្នះយើង យើងនឹងនិយាយថាវាជា -- ខ្ញុំនិយាយថាវាត្រូវបានរៀបចំ។ ដូចជាការបោះឆ្នោតឆ្នាំ 2020 ត្រូវបានរៀបចំដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This world sporting event is just like the election that I still insist despite no court agreeing with me was rigged.",
+      "cn": "ព្រឹត្តិការណ៍កីឡាពិភពលោកនេះគឺដូចជាការបោះឆ្នោតនោះ ហើយខ្ញុំនៅតែទទូចថាវាត្រូវបានរៀបចំ ទោះបីគ្មានតុលាការណាយល់ស្របនឹងខ្ញុំក៏ដោយ។"
+    },
+    {
+      "speaker": "Aaron Blake",
+      "text": "I think that comment is very telling about how Trump uses the sense that things were rigged to his political benefit. But I think what's really interesting here is --",
+      "cn": "ខ្ញុំគិតថាពាក្យនេះបង្ហាញយ៉ាងច្បាស់ពីរបៀបដែល Trump ប្រើអារម្មណ៍ 'ត្រូវបានរៀបចំ' ដើម្បីទទួលបានផលប្រយោជន៍នយោបាយ។ ប៉ុន្តែអ្វីដែលខ្ញុំគិតថាគួរឱ្យចាប់អារម្មណ៍គឺ --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But the pitch isn't politics. Like, somehow I feel like that falls flat in this completely different other context.",
+      "cn": "ប៉ុន្តែនេះមិនមែនជានយោបាយទេ។ ដូចជា ខ្ញុំមានអារម្មណ៍ថាវាមិនដំណើរការក្នុងបរិបទខុសគ្នាទាំងស្រុងនោះទេ។"
+    },
+    {
+      "speaker": "Blake",
+      "text": "Yes, yes. No, I get that. And I think the interesting thing here is, you know, we as Americans kind of look at this -- this phone call to Gianni Infantino and we're kind of like, you know, that's how Trump operates. We're used to it by now. But I think when we look back at things like Trump talking about Greenland, talking about making Canada the 51st state, these were things that were offensive to the rest of the world.",
+      "cn": "បាទ បាទ។ ទេ ខ្ញុំយល់។ ខ្ញុំគិតថាគួរឱ្យចាប់អារម្មណ៍ដែលយើងជាជនជាតិអាមេរិកមើលរឿងនេះ -- ការហៅទូរស័ព្ទទៅ Gianni Infantino នេះ យើងមានអារម្មណ៍ថា នេះជារបៀបដែល Trump ធ្វើ។ ឥឡូវយើងស៊ាំនឹងវាហើយ។ ប៉ុន្តែខ្ញុំគិតថានៅពេលយើងមើល Trump និយាយអំពី Greenland និយាយអំពីការធ្វើឱ្យ Canada ក្លាយជារដ្ឋទី 51 រឿងទាំងនេះគឺជាការប្រមាថដល់ប្រទេសដទៃទៀត។"
+    },
+    {
+      "speaker": "Blake",
+      "text": "They created kind of international incidents that I don't think we in America really appreciated as much as -- as other countries were experiencing. And I think this is kind of along those lines. These other countries are like, this guy is kind of, you know, throwing his weight around and -- and creating unfair advantages. And -- and, you know, we're the victims of what this guy is doing right now.",
+      "cn": "ពួកវាបង្កើតព្រឹត្តិការណ៍អន្តរជាតិមួយចំនួន ដែលខ្ញុំគិតថាយើងជាជនជាតិអាមេរិកមិនបានដឹងពិតប្រាកដដូចប្រទេសដទៃទេ។ ខ្ញុំគិតថាវាជារឿងដូចគ្នា។ ប្រទេសដទៃទាំងនេះមានអារម្មណ៍ថា បុរសនេះកំពុងបំពានអំណាច បង្កើតអត្ថប្រយោជន៍អយុត្តិធម៌។ ហើយអ្នកដឹងទេ ឥឡូវយើងជាជនរងគ្រោះនៃអ្វីដែលបុរសនេះធ្វើ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, can you stop at that phrase, unfair advantages? That's the thing I'm wondering about. Marco Rubio, first of all, says everybody chill, from the secretary of state. This is not an international incident. Here he is.",
+      "cn": "អូ តើអ្នកអាចឈប់ពាក្យនោះបានទេ 'អត្ថប្រយោជន៍អយុត្តិធម៌'? នេះជាអ្វីដែលខ្ញុំចង់ដឹង។ ដំបូង រដ្ឋមន្ត្រីការបរទេស Marco Rubio បាននិយាយថា សូមឲ្យអ្នករាល់គ្នាស្ងប់។ នេះមិនមែនជាព្រឹត្តិការណ៍អន្តរជាតិទេ។ គាត់មកដល់ហើយ។"
+    },
+    {
+      "speaker": "Marco Rubio",
+      "text": "Maybe turning into international incident. I don't know. Maybe we'll bring it up at NATO tomorrow when we're there with the Belgians and everybody else. But I just hope the match will go on. Everyone will be at full strength. And the winner will be the winner.",
+      "cn": "ប្រហែលជាកំពុងក្លាយជាព្រឹត្តិការណ៍អន្តរជាតិ។ ខ្ញុំមិនដឹងទេ។ ប្រហែលជាថ្ងៃស្អែកយើងនឹងលើករឿងនេះនៅ NATO ជាមួយជនជាតិបែលហ្ស៊ិក និងអ្នកដទៃ។ ប៉ុន្តែខ្ញុំគ្រាន់តែសង្ឃឹមថាការប្រកួតនឹងបន្ត។ អ្នករាល់គ្នានឹងខិតខំអស់ពីសមត្ថភាព។ អ្នកឈ្នះគឺជាអ្នកឈ្នះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I was thinking about this in the context of this polling from Pew Research Center. Has Trump improperly used his office to enrich himself or his family? Sixty-one percent say, probably definitely. And that idea of unfair advantage. Is that like a ball rolling down the hill? Does it get bigger and bigger as more and more happens?",
+      "cn": "ខ្ញុំគិតអំពីរឿងនេះក្នុងបរិបទនៃការស្ទង់មតិរបស់ Pew Research Center ។ តើ Trump ប្រើអំណាចរបស់គាត់ដោយមិនត្រឹមត្រូវដើម្បីផលប្រយោជន៍ខ្លួនឯង ឬគ្រួសាររបស់គាត់ទេ? 61% និយាយថា ប្រហែលជាប្រាកដណាស់។ គំនិតនៃអត្ថប្រយោជន៍អយុត្តិធម៌នោះ។ តើវាដូចជាបាល់ដែលរមៀលចុះភ្នំ? នៅពេលដែលរឿងកាន់តែច្រើនកើតឡើង វាកាន់តែធំ?"
+    },
+    {
+      "speaker": "Doug Heye",
+      "text": "Potentially so. And -- and, look, we see evidence of this all the time of what he's doing, what the family's doing. But there's a separation between that, I think, in -- in the World Cup. And part of it is there's an addiction to all things Donald Trump. And I'm not a big defender of Donald Trump on the global stage. But Keir Starmer made a phone call to delay -- to try and delay or not delay a time for one of the matches. We've had other players.",
+      "cn": "អាចទៅរួច។ ហើយអ្នកឃើញទេ យើងតែងតែឃើញភស្តុតាងនៃអ្វីដែលគាត់ និងគ្រួសារគាត់កំពុងធ្វើ។ ប៉ុន្តែខ្ញុំគិតថាក្នុងរឿង World Cup នេះ មានភាពខុសគ្នា។ ផ្នែកខ្លះគឺដោយសារតែមានការចាប់អារម្មណ៍យ៉ាងខ្លាំងចំពោះអ្វីៗទាំងអស់របស់ Donald Trump ។ ខ្ញុំមិនមែនជាអ្នកការពារដ៏ខ្លាំងរបស់ Donald Trump នៅលើឆាកពិភពលោកទេ។ ប៉ុន្តែ Keir Starmer ក៏បានទូរស័ព្ទដែរ ដើម្បីព្យាយាមពន្យារពេល ឬមិនពន្យារពេលការប្រកួត។ យើងក៏មានអ្នកចូលរួមផ្សេងទៀតដែរ។"
+    },
+    {
+      "speaker": "Heye",
+      "text": "For -- for a -- a U.K., an England match.",
+      "cn": "ដូចជា -- ការប្រកួតរបស់អង់គ្លេស អង់គ្លេស។"
+    },
+    {
+      "speaker": "Ok. Heye",
+      "text": "We've had other players.",
+      "cn": "យើងមានអ្នកលេងផ្សេងទៀត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Bringing suspended player back to the field?",
+      "cn": "ធ្វើឱ្យអ្នកលេងដែលត្រូវបានព្យួរត្រឡប់មកវិញ?"
+    },
+    {
+      "speaker": "Heye",
+      "text": "Well, but Cris -- but Cristiano Ronaldo had his -- had his suspension also --",
+      "cn": "អញ្ចឹង ប៉ុន្តែ Chris -- ប៉ុន្តែ Cristiano Ronaldo ក៏ធ្លាប់ត្រូវបានព្យួរដែរ --"
+    },
+    {
+      "speaker": "Ok. Ok. Heye",
+      "text": "-- moved. So -- so this is precedented. The problem is the media has a pure dopamine Trump addiction. So, if we can talk about Donald Trump and make things about him, he loves it.",
+      "cn": "-- ក៏ត្រូវបានដកចេញដែរ។ ដូច្នេះ -- ដូច្នេះវាមានគំរូ។ បញ្ហាគឺថាប្រព័ន្ធផ្សព្វផ្សាយមានការញៀន dopamine សុទ្ធសាធចំពោះ Trump ។ ដូច្នេះប្រសិនបើយើងអាចនិយាយអំពី Donald Trump ហើយភ្ជាប់អ្វីៗជាមួយគាត់ គាត់ចូលចិត្តវា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me let Karen jump in before we end.",
+      "cn": "មុនពេលយើងបញ្ចប់ សូមឱ្យ Karen និយាយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, no, because I think one of the things about the media argument --",
+      "cn": "ទេ ទេ ព្រោះខ្ញុំគិតថាចំណុចមួយអំពីការជជែកវែកញែករបស់ប្រព័ន្ធផ្សព្វផ្សាយគឺ --"
+    },
+    {
+      "speaker": "Heye",
+      "text": "The -- the Knicks game, it was more coverage about Donald Trump going to the Knicks game than the actual Knicks game. \"The New York Times\" is speaking.",
+      "cn": "ការប្រកួតរបស់ Knicks ការរាយការណ៍អំពី Donald Trump ទៅមើលការប្រកួតរបស់ Knicks មានច្រើនជាងការរាយការណ៍អំពីការប្រកួតរបស់ Knicks ទៅទៀត។ The New York Times កំពុងនិយាយ។"
+    },
+    {
+      "speaker": "Karen Finney",
+      "text": "Not -- that's not true.",
+      "cn": "ទេ -- នោះមិនមែនជាការពិតទេ។"
+    },
+    {
+      "speaker": "Heye",
+      "text": "The lead piece on -- the lead opinion piece in \"The New York Times\" on July 4th was somebody said, I can't celebrate July 4th because of why? Donald Trump. There was another story.",
+      "cn": "ទំព័រមុខរបស់ The New York Times ថ្ងៃទី 4 ខែកក្កដា -- អត្ថបទយោបល់នៅលើទំព័រមុខគឺមាននរណាម្នាក់និយាយថា ខ្ញុំមិនអាចអបអរថ្ងៃទី 4 ខែកក្កដាបានទេ ព្រោះអ្វី? Donald Trump ។ ហើយមានរបាយការណ៍មួយទៀត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Doug, I'm going to put it out there. Under your face --",
+      "cn": "Doug ខ្ញុំនឹងនិយាយឲ្យច្បាស់។ នៅលើមុខរបស់អ្នក --"
+    },
+    {
+      "speaker": "Heye",
+      "text": "What was the Taylor --",
+      "cn": "តើរឿង Taylor នោះជាអ្វី -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- I'm going to put local man ignores sports fans --",
+      "cn": "-- -- ខ្ញុំចង់និយាយថា អ្នកស្រុកមិនអើពើនឹងអ្នកគាំទ្រកីឡា -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- and let your mentions would have fire. Because I would never --",
+      "cn": "-- -- ហើយធ្វើឲ្យផ្នែកមតិយោបល់របស់អ្នកផ្ទុះឡើង។ ព្រោះខ្ញុំមិនដែល -- --"
+    },
+    {
+      "speaker": "Heye",
+      "text": "What -- what did \"The New York Times\" write about the Taylor Swift wedding? Well, gosh, it's got to be about Donald.",
+      "cn": "តើកាសែត New York Times សរសេរអ្វីអំពីពិធីមង្គលការរបស់ Taylor Swift? អូយព្រះអើយ ប្រាកដជាទាក់ទងនឹង Donald ។"
+    },
+    {
+      "speaker": "Heye",
+      "text": "Everything has to be about Donald.",
+      "cn": "អ្វីក៏ត្រូវទាញយក Donald មកនិយាយដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Knicks fans were upset. That was a real thing.",
+      "cn": "អ្នកគាំទ្រ Knicks ខកចិត្ត។ នេះជារឿងពិត។"
+    },
+    {
+      "speaker": "Heye",
+      "text": "Are they still talking about it? No. The next day onto the next -- (CROSSTALK)",
+      "cn": "ពួកគេនៅតែពិភាក្សាគ្នាទេ? ទេ។ ថ្ងៃបន្ទាប់ក៏ភ្លេច -- -- (ការសន្ទនាឆ្លងគ្នា)"
+    },
+    {
+      "speaker": "Finney",
+      "text": "If you're a New Yorker, my brother, yes, you are. You are definitely (INAUDIBLE).",
+      "cn": "បើអ្នកជាអ្នក New York បងប្រុស មែនហើយ អ្នកពិតជាមែន។ អ្នកពិតជា (មិនអាចស្តាប់ឮ)។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Which is fine. But what I'm saying is this is a collision of sports fandom and regular news. There's a reason why it's called the World Cup.",
+      "cn": "វាមិនមានបញ្ហាទេ។ ប៉ុន្តែអ្វីដែលខ្ញុំចង់និយាយគឺ នេះជាការប៉ះទង្គិចគ្នារវាងអ្នកគាំទ្រកីឡា និងព័ត៌មានធម្មតា។ World Cup ត្រូវបានគេហៅថា World Cup ដោយសារមូលហេតុ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, I don't really want to do one of those games of it's the media problem when this was international response by sports fans. And I think it's OK for them to respond. They don't have to be wrapped up in our bipartisan nonsense. And I do think he inserted himself.",
+      "cn": "ដូច្នេះ ខ្ញុំពិតជាមិនចង់លេងល្បែង 'នេះជាបញ្ហារបស់ប្រព័ន្ធផ្សព្វផ្សាយ' ទេ ព្រោះនេះជាប្រតិកម្មអន្តរជាតិរបស់អ្នកគាំទ្រកីឡា។ ខ្ញុំគិតថាការដែលពួកគេមានប្រតិកម្មគឺអាចទទួលយកបាន។ ពួកគេមិនចាំបាច់ចូលរួមក្នុងរឿងមិនសមហេតុផលរវាងបក្សទាំងពីររបស់យើងទេ។ ហើយខ្ញុំពិតជាគិតថាគាត់បានទាញខ្លួនឯងចូលរឿងនេះ។"
+    },
+    {
+      "speaker": "Heye",
+      "text": "Of course, he did. And he knew that you would talk about him ad nauseam as you always do because you're addicted to him.",
+      "cn": "ពិតណាស់ គាត់ធ្វើដូច្នេះមែន។ គាត់ដឹងថាអ្នកនឹងនិយាយអំពីគាត់ឥតឈប់ឈរដូចធម្មតា ព្រោះអ្នកញៀននឹងគាត់។"
+    },
+    {
+      "speaker": "Heye",
+      "text": "Break the addiction.",
+      "cn": "ឈប់ញៀនទៅ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "If you want to -- the World Cup is not a little league game, Doug. People were upset about this.",
+      "cn": "បើអ្នកចង់ -- -- World Cup មិនមែនជាការប្រកួត Little League ទេ Doug។ មនុស្សមិនពេញចិត្តនឹងរឿងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I don't think --",
+      "cn": "ហើយខ្ញុំមិនគិតថា -- --"
+    },
+    {
+      "speaker": "Heye",
+      "text": "-- somehow \"The New York Times\" made Taylor's Swift's wedding about Donald Trump and Fourth of July about Donald Trump and the Knicks game about Donald Trump. The answer always goes back as he depends on you to do to Donald Trump.",
+      "cn": "-- -- កាសែត New York Times ដោយរបៀបណាក៏ដោយ បានទាញយកពិធីមង្គលការរបស់ Taylor Swift, ទិវាជាតិ, និងការប្រកួតរបស់ Knicks មកភ្ជាប់នឹង Donald Trump។ ចម្លើយតែងតែត្រលប់មកថាគាត់ពឹងផ្អែកលើអ្នកដែលធ្វើដូច្នេះ ដូចអ្នកពឹងផ្អែកលើ Donald Trump ដែរ។"
+    },
+    {
+      "speaker": "Finney",
+      "text": "I'm a little shocked that Doug, of all people, would spend how many minutes have we now been talking about Donald Trump? Look, here's what I would say also as a former college athlete. It's -- there's something about the sanctity of sport, period, full stop. FIFA has had a lot of trouble in the last several decades with corruption. We know that. And so -- and -- and Donald Trump has a problem with corruption. And so the call, it also played into a narrative, frankly, not just because of Trump, but because of FIFA.",
+      "cn": "ខ្ញុំភ្ញាក់ផ្អើលបន្តិច ជាពិសេស Doug តើយើងចំណាយពេលប៉ុន្មាននាទីនិយាយអំពី Donald Trump? ស្តាប់ ក្នុងនាមជាអតីតអត្តពលិកមហាវិទ្យាល័យ ខ្ញុំក៏ចង់និយាយដូច្នេះដែរ។ ភាពបរិសុទ្ធនៃកីឡា គឺបែបនេះ ហើយចប់។ FIFA មានបញ្ហាអំពើពុករលួយជាច្រើនក្នុងប៉ុន្មានទសវត្សរ៍ថ្មីៗនេះ។ យើងដឹងរឿងនេះ។ ដូច្នេះ -- -- ហើយ -- -- Donald Trump ក៏មានបញ្ហាអំពើពុករលួយដែរ។ ដូច្នេះការហៅទូរសព្ទនេះ ដោយស្មោះត្រង់ ក៏ស្របនឹងនិទានកថាមួយដែរ មិនត្រឹមតែដោយសារ Trump ប៉ុណ្ណោះទេ ប៉ុន្តែក៏ដោយសារ FIFA ដែរ។"
+    },
+    {
+      "speaker": "Finney",
+      "text": "And because, as you pointed out, I made up this award to make Donald Trump happy. But there is something about for athletes, about the sanctity of sports should be outside of politics with very rare exception, like, when Jimmy Carter had to make the call on the Olympics. Generally, world leaders don't get involved. Politics does not get involved. And there's usually an attempt to keep it that way.",
+      "cn": "ហើយដោយសារ ដូចដែលអ្នកបានចង្អុលបង្ហាញ ខ្ញុំបានបង្កើតពានរង្វាន់នេះដើម្បីធ្វើឲ្យ Donald Trump សប្បាយចិត្ត។ ប៉ុន្តែសម្រាប់អត្តពលិក ភាពបរិសុទ្ធនៃកីឡាគួរតែនៅឱ្យឆ្ងាយពីនយោបាយ លើកលែងតែករណីលើកលែងមួយចំនួនដូចជាពេលដែល Jimmy Carter ត្រូវធ្វើការសម្រេចចិត្តអំពីព្រឹត្តិការណ៍អូឡាំពិក។ ជាធម្មតា មេដឹកនាំពិភពលោកមិនជ្រៀតជ្រែកទេ។ នយោបាយមិនជ្រៀតជ្រែកទេ។ ហើយជាធម្មតាមនុស្សព្យាយាមរក្សាវាឲ្យនៅដដែល។"
+    },
+    {
+      "speaker": "Finney",
+      "text": "And I think that's part of why people were so angry was, wait a second, why are you getting involved? And particularly when I'm going to say, I didn't even know what a red card was. I mean, come on.",
+      "cn": "ខ្ញុំគិតថានេះក៏ជាផ្នែកមួយនៃមូលហេតុដែលមនុស្សខឹងខ្លាំងម្ល៉េះ៖ ចាំមើល ហេតុអ្វីបានជាអ្នកជ្រៀតជ្រែក? ជាពិសេសពេលដែលខ្ញុំចង់និយាយថា ខ្ញុំក៏មិនដឹងថាកាតក្រហមជាអ្វីដែរ។ សូមមេត្តា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Well, to be clear, FIFA 2022 bribery scandal, OK? So, just for you at home --",
+      "cn": "អញ្ចឹង សូមបញ្ជាក់ឲ្យច្បាស់ រឿងអំពើពុករលួយសំណូករបស់ FIFA ឆ្នាំ 2022 មែនទេ? ដូច្នេះ សម្រាប់អ្នកនៅផ្ទះ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- who were like FIFA scandal, if you're not following FIFA and it's OK if you aren't, they have been dealt many corruption blows in recent years. We were talking about Italy in the past. So, this is something that is coming up and it becomes like everything with the World Cup symbolic.",
+      "cn": "-- -- ដូចជារឿងអាស្រូវ FIFA បើអ្នកមិនតាមដាន FIFA ក៏មិនអីដែរ ក្នុងប៉ុន្មានឆ្នាំថ្មីៗនេះ ពួកគេបានទទួលរងការវាយប្រហារអំពើពុករលួយជាច្រើនលើក។ កាលពីមុនយើងនិយាយអំពីអ៊ីតាលី។ ដូច្នេះ រឿងនេះកំពុងលេចចេញមក ហើយក្លាយជារឿងសំខាន់ដូចអ្វីៗដែលជានិមិត្តរូបនៃ World Cup ដែរ។"
+    },
+    {
+      "speaker": "Blake",
+      "text": "Yes. And the pattern is super important here. If this was an isolated incident of President Trump calling a buddy and being like, hey, maybe you guys should review this, maybe that would be a little bit different. But we are talking about FIFA which has this demonstrated the history of corruption issues. The United States government has gotten involved in prosecuting them for this. We also have, as you mentioned the made-up Peace Prize.",
+      "cn": "បាទ។ ហើយគំរូគឺសំខាន់ណាស់នៅទីនេះ។ ប្រសិនបើនេះគ្រាន់តែជាព្រឹត្តិការណ៍ដាច់ដោយឡែកដែលប្រធានាធិបតី Trump ទូរសព្ទទៅមិត្តភក្តិហើយនិយាយថា 'ហេ ប្រហែលជាអ្នកគួរតែពិនិត្យមើលរឿងនេះ' នោះវាអាចខុសគ្នាបន្តិច។ ប៉ុន្តែយើងកំពុងនិយាយអំពី FIFA ដែលបានបង្ហាញប្រវត្តិនៃបញ្ហាអំពើពុករលួយ។ រដ្ឋាភិបាលសហរដ្ឋអាមេរិកបានធ្វើអន្តរាគមន៍ដោយដាក់ពាក្យបណ្តឹងប្រឆាំងនឹងពួកគេ។ យើងក៏មាន ដូចដែលអ្នកបានលើកឡើង ពានរង្វាន់សន្តិភាពប្រឌិត។"
+    },
+    {
+      "speaker": "Blake",
+      "text": "This is a FIFA president Gianni Infantino who has gone out of his way to curry favor with President Trump. There was a built-in power dynamic with those two that made that phone call not necessarily just a, can you please review this kind of phone call. It's understood kind of the -- the power dynamics that are involved in that. And so I think that's why this was a bigger deal than it might otherwise seem.",
+      "cn": "នេះគឺជាប្រធាន FIFA លោក Gianni Infantino ដែលបានខិតខំយ៉ាងខ្លាំងដើម្បីផ្គាប់ចិត្តប្រធានាធិបតី Trump។ មានសក្ដានុពលអំណាចដែលមានស្រាប់រវាងអ្នកទាំងពីរនេះ ដែលធ្វើឲ្យការហៅទូរសព្ទនោះមិនចាំបាច់គ្រាន់តែជាការហៅ 'តើអ្នកអាចពិនិត្យមើលរឿងនេះបានទេ' នោះទេ។ មនុស្សយល់ពីសមតុល្យអំណាចដែលពាក់ព័ន្ធ។ ដូច្នេះខ្ញុំគិតថានេះជាមូលហេតុដែលរឿងនេះធ្ងន់ធ្ងរជាងអ្វីដែលវាហាក់ដូចជា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. We want to come back to domestic politics here. Turning to Maine, that Senate race, because Graham Platner very much in trouble and now reflecting on the best path forward, after new accusations, if he exits the Maine Senate race. Who should take his place? Will they have a better shot at defeating Susan Collins? We're going to talk about that in a minute. And later on CNN, Trump wants to make your energy bill cheaper. Was defunding wind and solar the way to do it?",
+      "cn": "អញ្ចឹង។ យើងចង់ត្រលប់ទៅនយោបាយក្នុងស្រុកវិញ។ បត់ទៅរដ្ឋ Maine ការបោះឆ្នោតជ្រើសរើសសមាជិកព្រឹទ្ធសភានោះ ព្រោះ Graham Pratner ស្ថិតក្នុងស្ថានភាពលំបាកខ្លាំង ហើយកំពុងពិចារណាអំពីផ្លូវដ៏ល្អបំផុតទៅមុខ បន្ទាប់ពីការចោទប្រកាន់ថ្មី ប្រសិនបើគាត់ដកខ្លួនចេញពីការបោះឆ្នោតជ្រើសរើសសមាជិកព្រឹទ្ធសភារដ្ឋ Maine។ តើអ្នកណាគួរជំនួសគាត់? តើពួកគេមានឱកាសប្រសើរជាងក្នុងការផ្តួល Susan Collins ទេ? យើងនឹងពិភាក្សារឿងនេះនៅពេលក្រោយ។ ក្រោយមកនៅលើ CNN លោក Trump ចង់ធ្វើឲ្យវិក្កយបត្រថាមពលរបស់អ្នកថោកជាង។ តើការកាត់បន្ថយថាមពលខ្យល់ និងពន្លឺព្រះអាទិត្យជាវិធីសាស្ត្រដើម្បីសម្រេចរឿងនេះទេ?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, President Trump just landed in Turkey for the NATO summit, where tomorrow he is expected to meet with Ukrainian President Volodymyr Zelenskyy. In recent months, Trump has turned his focus away from Ukraine, instead focusing on Iran. Now, attacks from Russia this week, ramping up. Yesterday, 19 people were killed in Kyiv. Zelenskyy plans to ask the U.S. and European allies to deliver air defense systems that urgently needs to protect against Russia's escalating attacks.",
+      "cn": "ដូច្នេះ ប្រធានាធិបតី Trump ទើបតែបានមកដល់ប្រទេសទួរគីសម្រាប់កិច្ចប្រជុំកំពូល NATO ហើយគេរំពឹងថានៅថ្ងៃស្អែកគាត់នឹងជួបជាមួយប្រធានាធិបតីអ៊ុយក្រែនលោក Volodymyr Zelenskyy។ ក្នុងប៉ុន្មានខែថ្មីៗនេះ លោក Trump បានបង្វែរការយកចិត្តទុកដាក់ពីអ៊ុយក្រែនទៅផ្តោតលើអ៊ីរ៉ង់វិញ។ ឥឡូវនេះ ការវាយប្រហារពីរុស្ស៊ីក្នុងសប្តាហ៍នេះកំពុងកើនឡើង។ កាលពីម្សិលមិញ មនុស្ស 19 នាក់បានស្លាប់នៅក្រុង Kyiv។ លោក Zelenskyy គ្រោងនឹងស្នើសុំឱ្យសម្ព័ន្ធមិត្តអាមេរិក និងអឺរ៉ុបផ្តល់ប្រព័ន្ធការពារដែនអាកាសដែលត្រូវការជាបន្ទាន់ ដើម្បីការពារពីការវាយប្រហារដែលកំពុងកើនឡើងពីរុស្ស៊ី។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "VOLODYMYR ZELENSKYY, UKRAINIAN PRESIDENT (through translator): Unfortunately, there is a shortage of anti-ballistic capabilities, a shortage of patriots, and our partners, primarily the United States and our European partners, need to be more proactive in providing assistance with us.",
+      "cn": "ប្រធានាធិបតីអ៊ុយក្រែន វ៉ូឡូឌីមៀ ហ្សេឡេនស្គី (តាមរយៈអ្នកបកប្រែ)៖ ជាអកុសល សមត្ថភាពការពារមីស៊ីលមិនគ្រប់គ្រាន់ ប្រព័ន្ធ Patriot ខ្វះខាត ដៃគូរបស់យើង ជាពិសេសសហរដ្ឋអាមេរិក និងដៃគូអឺរ៉ុបរបស់យើង ត្រូវការផ្តល់ជំនួយយ៉ាងសកម្មបន្ថែមទៀត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Bringing in CNN national security analyst Alex Plitsas. And, Alex, right now, we are looking at the president's plane landing in Ankara, Turkey. We know that Ukraine has a lot of questions going into this summit. And months ago, president said to Zelenskyy, you don't hold the cards. Have things changed for Ukraine, especially in the light of the -- of the war with Iran, where all of a sudden knowledge about how to conduct drone warfare was very valuable?",
+      "cn": "ល្អណាស់។ សូមស្វាគមន៍អ្នកវិភាគសន្តិសុខជាតិ CNN លោក Alex Plitsas។ Alex ឥឡូវនេះ យើងកំពុងមើលយន្តហោះប្រធានាធិបតីចុះចតនៅទីក្រុង Ankara ប្រទេសតួកគី។ យើងដឹងថាអ៊ុយក្រែនមានសំណួរជាច្រើននៅក្នុងកិច្ចប្រជុំកំពូលនេះ។ ប៉ុន្មានខែមុន ប្រធានាធិបតីបាននិយាយទៅកាន់លោក Zelenskyy ថាអ្នកគ្មានអំណាចចរចាទេ។ តើស្ថានភាពអ៊ុយក្រែនបានផ្លាស់ប្តូរទេ ជាពិសេសដោយសារសង្គ្រាមជាមួយអ៊ីរ៉ង់ ដែលភ្លាមៗនោះចំណេះដឹងអំពីរបៀបធ្វើសង្គ្រាមដ្រូនក្លាយជាមានតម្លៃខ្លាំង?"
+    },
+    {
+      "speaker": "Alex Plitsas",
+      "text": "So, things have fundamentally changed on the battlefield. And quite frankly, I'm told, so has the president's perception of the war, and that Ukraine has been successful now in long-range strike capabilities in hitting Russian oil and gas to make sure that Putin couldn't take advantage of the war in Iran with rising fuel prices to make money, but also causing domestic fuel shortages at home. The second is the staggering number of casualties that Ukraine has been able to inflict.",
+      "cn": "ដូច្នេះ ស្ថានភាពនៅសមរភូមិបានផ្លាស់ប្តូរយ៉ាងខ្លាំង។ និយាយដោយត្រង់ទៅ ខ្ញុំត្រូវបានគេប្រាប់ថា ទស្សនៈរបស់ប្រធានាធិបតីចំពោះសង្គ្រាមក៏បានផ្លាស់ប្តូរដែរ អ៊ុយក្រែនឥឡូវនេះទទួលបានជោគជ័យក្នុងសមត្ថភាពវាយប្រហារចម្ងាយឆ្ងាយ វាយប្រហារលើប្រេង និងឧស្ម័នរបស់រុស្ស៊ី ដើម្បីធានាថាលោកពូទីនមិនអាចរកប្រាក់ចំណេញពីការកើនឡើងតម្លៃប្រេងដោយសារសង្គ្រាមអ៊ីរ៉ង់ ហើយក៏បណ្តាលឱ្យមានការខ្វះខាតប្រេងឥន្ធនៈក្នុងស្រុកផងដែរ។ ទីពីរគឺចំនួនអ្នកស្លាប់ដ៏គួរឱ្យភ្ញាក់ផ្អើលដែលអ៊ុយក្រែនអាចបង្កើតបាន។"
+    },
+    {
+      "speaker": "Alex Plitsas",
+      "text": "They were trying to get about 50,000 a month. We're now told by British intelligence that number sits at around 500,000. That's out of a population of 143 million. So you're talking one in every 287 Russian citizens. And because the population of military-age males is only about 21 million, I mean, you're talking with one in almost 42 males of that age group has died in Ukraine. That's simply unsustainable. And Putin's going to have to launch a mobilization, given the losses if he wants to spring offensive.",
+      "cn": "ពួកគេព្យាយាមឱ្យបានប្រហែល 50,000 នាក់ក្នុងមួយខែ។ ឥឡូវនេះយើងដឹងពីចារកម្មអង់គ្លេសថាចំនួននេះគឺប្រហែល 500,000 ។ នេះមកពីចំនួនប្រជាជន 143 លាននាក់។ ដូច្នេះអ្នកកំពុងនិយាយអំពីពលរដ្ឋរុស្ស៊ីម្នាក់ក្នុងចំណោម 287 នាក់។ ហើយដោយសារចំនួនប្រជាជនបុរសដែលមានអាយុសមរម្យមានត្រឹមតែប្រហែល 21 លាននាក់ ខ្ញុំមានន័យថា អ្នកកំពុងនិយាយអំពីបុរសម្នាក់ក្នុងចំណោម 42 នាក់នៅក្នុងក្រុមអាយុនោះដែលស្លាប់នៅអ៊ុយក្រែន។ នេះមិនអាចទ្រាំទ្របានទាំងស្រុងទេ។ ប្រសិនបើលោកពូទីនចង់បើកការវាយលុកនៅនិទាឃរដូវ គាត់នឹងត្រូវប្រមូលផ្តុំកងទ័ព ដោយគិតពីការខាតបង់ទាំងនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "How would Patriot missiles make the difference?",
+      "cn": "តើមីស៊ីល Patriot នឹងផ្លាស់ប្តូរស្ថានភាពយ៉ាងដូចម្តេច?"
+    },
+    {
+      "speaker": "Plitsas",
+      "text": "So, his response has been to continue to launch ballistic missiles at -- at Kyiv, as well as these long-range drones. And quite frankly, they're running short on interceptors. So, President Zelenskyy is asking NATO allies, particularly the United States, to provide those systems. But as you correctly noted, we've had to provide defensive capabilities because of the war in Iran to both -- to both Israel and then also to Ukraine and then lead up to both of those wars.",
+      "cn": "ដូច្នេះ ការឆ្លើយតបរបស់គាត់គឺបន្តបាញ់មីស៊ីលផ្លោង និងដ្រូនចម្ងាយឆ្ងាយទាំងនេះទៅកាន់ទីក្រុង Kyiv ។ និយាយដោយត្រង់ទៅ គ្រាប់រំសេវស្ទាក់ចាប់របស់ពួកគេជិតអស់ហើយ។ ដូច្នេះ ប្រធានាធិបតី Zelenskyy កំពុងស្នើសុំសម្ព័ន្ធមិត្តណាតូ ជាពិសេសសហរដ្ឋអាមេរិក ឱ្យផ្តល់ប្រព័ន្ធទាំងនេះ។ ប៉ុន្តែដូចដែលអ្នកបានចង្អុលបង្ហាញយ៉ាងត្រឹមត្រូវ ដោយសារសង្គ្រាមអ៊ីរ៉ង់ យើងត្រូវផ្តល់សមត្ថភាពការពារដល់អ៊ីស្រាអែល និងអ៊ុយក្រែន ហើយទីបំផុតនាំឱ្យមានសង្គ្រាមទាំងពីរនេះ។"
+    },
+    {
+      "speaker": "Plitsas",
+      "text": "Some of those missile defense systems were going end-of-life in the United States and projections about how many we would need and for how long and when the new systems would come, et cetera, was all predicated upon usage and nobody foresaw this war with Ukraine or the wars that Israel launched in Gaza or having to defend against, you know, Iran on the -- on the horizon. Unfortunately, that meant a shortage of interceptor systems.",
+      "cn": "ប្រព័ន្ធការពារមីស៊ីលមួយចំនួននេះនៅសហរដ្ឋអាមេរិកជិតចូលនិវត្តន៍ ហើយការព្យាករណ៍អំពីចំនួនដែលយើងត្រូវការ រយៈពេលប៉ុន្មាន និងពេលណាប្រព័ន្ធថ្មីនឹងមកដល់ គឺផ្អែកលើការប្រើប្រាស់ គ្មាននរណាម្នាក់រំពឹងទុកសង្គ្រាមអ៊ុយក្រែន ឬសង្គ្រាមដែលអ៊ីស្រាអែលបើកនៅហ្គាហ្សា ឬតម្រូវការការពារការគំរាមកំហែងពីអ៊ីរ៉ង់ទេ។ ជាអកុសល នេះមានន័យថាកង្វះខាតប្រព័ន្ធស្ទាក់ចាប់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, this plane is landing in Ankara. Can you talk to me about what it is European allies want out of Trump? Is this just their usual kind of management trying to prove that they're doing more spending when it comes to NATO? Or do they have real asks around either the Russian war or what's going on with Iran?",
+      "cn": "ដូច្នេះ យន្តហោះនេះកំពុងចុះចតនៅទីក្រុង Ankara ។ តើអ្នកអាចប្រាប់ខ្ញុំបានទេថាសម្ព័ន្ធមិត្តអឺរ៉ុបចង់បានអ្វីពីលោក Trump? តើនេះគ្រាន់តែជាវិធីគ្រប់គ្រងធម្មតារបស់ពួកគេ ដោយព្យាយាមបង្ហាញថាពួកគេបានបង្កើនការចំណាយលើណាតូ? ឬពួកគេមានការទាមទារពិតប្រាកដអំពីសង្គ្រាមរុស្ស៊ី ឬស្ថានភាពអ៊ីរ៉ង់?"
+    },
+    {
+      "speaker": "Plitsas",
+      "text": "So, it's a mix of everything you just described. So, yes, they would like to see more U.S. involvement and support for Ukraine. They do want to tout increased spending. The president made it part of his agenda that he wanted an increase in spending from NATO states from three percent of GDP to five percent, which is actually now why we're seeing the U.S. try to propose a budget of 1.5 trillion. The messaging hasn't been great around that, but that's about five percent of U.S.",
+      "cn": "ដូច្នេះ វាជាការលាយបញ្ចូលគ្នានៃកត្តាទាំងអស់ដែលអ្នកទើបតែពណ៌នា។ បាទ ពួកគេចង់ឃើញសហរដ្ឋអាមេរិកចូលរួម និងគាំទ្រអ៊ុយក្រែនបន្ថែមទៀត។ ពួកគេពិតជាចង់បង្ហាញពីការកើនឡើងនៃការចំណាយ។ ប្រធានាធិបតីនឹងទាមទារឱ្យបណ្តាប្រទេសណាតូបង្កើនការចំណាយការពារជាតិពី 3% ទៅ 5% នៃ GDP ដែលជាផ្នែកមួយនៃរបៀបវារៈរបស់គាត់ ដែលតាមពិតជាមូលហេតុដែលយើងឃើញសហរដ្ឋអាមេរិកព្យាយាមស្នើថវិកា 1.5 ពាន់ពាន់លានដុល្លារ។ ការផ្សព្វផ្សាយព័ត៌មាននេះមិនល្អទេ ប៉ុន្តែវាប្រហែល 5% នៃ GDP របស់សហរដ្ឋអាមេរិក ដែលជាកម្រិតដែលយើងស្នើសុំឱ្យអឺរ៉ុបចំណាយ។"
+    },
+    {
+      "speaker": "Plitsas",
+      "text": "GDP, which is what we're asking the Europeans to spend on that. And then lastly, I was told that he is in Turkey personally because that President Erdogan asked him to come and this surrounds, you know, Turkey's involvement in a number of issues. They helped broker some of the backdoor agreements with Iran. They also played a key role in Syria and helping to stabilize there as far as the president's concern. But the Israelis are apoplectic. They see Erdogan's language in Turkey as a long-term strategic threat.",
+      "cn": "ចុងក្រោយ ខ្ញុំត្រូវបានគេប្រាប់ថាគាត់ធ្វើដំណើរទៅតួកគីដោយផ្ទាល់ ដោយសារតែប្រធានាធិបតី Erdogan បានអញ្ជើញគាត់ ដែលពាក់ព័ន្ធនឹងការចូលរួមរបស់តួកគីក្នុងបញ្ហាជាច្រើន។ ពួកគេបានជួយសម្រុះសម្រួលកិច្ចព្រមព្រៀងក្រៅផ្លូវការមួយចំនួនជាមួយអ៊ីរ៉ង់។ លើបញ្ហាស៊ីរី ពួកគេក៏បានដើរតួនាទីយ៉ាងសំខាន់ក្នុងការជួយរក្សាលំនឹងស្ថានភាព ដែលជាកង្វល់របស់ប្រធានាធិបតី។ ប៉ុន្តែជនជាតិអ៊ីស្រាអែលខឹងសម្បារយ៉ាងខ្លាំង។ ពួកគេចាត់ទុកសុន្ទរកថារបស់លោក Erdogan នៅតួកគីថាជាការគំរាមកំហែងជាយុទ្ធសាស្ត្ររយៈពេលវែង។"
+    },
+    {
+      "speaker": "Plitsas",
+      "text": "And so what looms large over this inside the discussions is a U.S. decision to give or to allow Turkey to participate in the F-35 program again to give it that advanced fighter jet, which the Israelis are worried will tip the balance of power in the region.",
+      "cn": "ដូច្នេះ បញ្ហាមួយដែលលេចធ្លោនៅក្នុងការពិភាក្សាគឺការសម្រេចចិត្តរបស់សហរដ្ឋអាមេរិកថាតើត្រូវអនុញ្ញាតឱ្យតួកគីចូលរួមក្នុងគម្រោង F-35 ម្តងទៀត ដោយផ្តល់យន្តហោះចម្បាំងទំនើបនេះដល់ពួកគេ ដែលអ៊ីស្រាអែលព្រួយបារម្ភថានឹងបំបែកតុល្យភាពអំណាចនៅក្នុងតំបន់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You know, it's interesting right now, we're watching a carpet being rolled out into Air Force One. And as much as this is a summit, when it comes to Trump, we're talking about bilateral relationships, right? He's got a relationship with Netanyahu. He's got a relationship with Erdogan. What do you know about the balance of these two kind of who's up and who's down and in terms of his favor?",
+      "cn": "អ្នកដឹងទេ ឥឡូវនេះគួរឱ្យចាប់អារម្មណ៍ យើងកំពុងឃើញកម្រាលព្រំក្រហមត្រូវបានរាលដាលទៅកាន់ Air Force One ។ ទោះបីជានេះជាកិច្ចប្រជុំកំពូលក៏ដោយ នៅពេលនិយាយអំពីលោក Trump យើងកំពុងនិយាយអំពីទំនាក់ទំនងទ្វេភាគី មែនទេ? គាត់មានទំនាក់ទំនងជាមួយលោក Netanyahu និងជាមួយលោក Erdogan ។ តើអ្នកដឹងអ្វីខ្លះអំពីភាពស្និទ្ធស្នាលរបស់មនុស្សទាំងពីរនេះចំពោះគាត់?"
+    },
+    {
+      "speaker": "Plitsas",
+      "text": "So, Turkey is definitely on the rise in terms of favoritism. I mean, he -- President Trump and President Erdogan's relationship has continued to grow over time. And Erdogan has used that to his advantage. You know, there was, I was told, of actual plan to arm the Kurds at one point. It was part of a long-term Israeli plan to eventually, you know, see the overthrow of the Iranian government.",
+      "cn": "ដូច្នេះ តួកគីពិតជាបានកើនឡើងក្នុងការពេញចិត្ត។ ខ្ញុំមានន័យថា ទំនាក់ទំនងរវាងប្រធានាធិបតី Trump និងប្រធានាធិបតី Erdogan បានកើនឡើងតាមពេលវេលា។ Erdogan បានទាញយកផលប្រយោជន៍ពីនេះ។ ខ្ញុំត្រូវបានគេប្រាប់ថា ធ្លាប់មានផែនការជាក់ស្តែងមួយដើម្បីបំពាក់អាវុធដល់ជនជាតិឃឺដ ដែលជាផ្នែកមួយនៃផែនការរយៈពេលវែងរបស់អ៊ីស្រាអែល ដែលមានគោលដៅចុងក្រោយដើម្បីផ្តួលរំលំរដ្ឋាភិបាលអ៊ីរ៉ង់។"
+    },
+    {
+      "speaker": "Plitsas",
+      "text": "But Erdogan stepped in because he didn't want to see another independent or semi-autonomous Kurdish state like we have in -- in Northern Iraq. Because about a third of Eastern Turkey is Kurdish and they fought a long-term war against the PKK, which is a Turkish separatist group that's a designated terrorist organization. So, he was worried about that. He stepped in, used it for that. He's able to -- to maneuver to get the F-35 that he wanted.",
+      "cn": "ប៉ុន្តែ Erdogan បានអន្តរាគមន៍ ដោយសារតែគាត់មិនចង់ឃើញរដ្ឋឃឺដឯករាជ្យ ឬពាក់កណ្តាលស្វយ័តមួយផ្សេងទៀតដូចជានៅភាគខាងជើងអ៊ីរ៉ាក់។ ដោយសារតែប្រហែលមួយភាគបីនៃភាគខាងកើតតួកគីជាជនជាតិឃឺដ ហើយពួកគេបានធ្វើសង្គ្រាមដ៏យូរអង្វែងជាមួយ PKK ដែលជាអង្គការភេរវករដែលត្រូវបានចាត់ថ្នាក់។ ដូច្នេះគាត់ព្រួយបារម្ភអំពីរឿងនេះ។ គាត់បានអន្តរាគមន៍ និងទាញយកផលប្រយោជន៍ពីវា ដើម្បីអាចរៀបចំដើម្បីទទួលបាន F-35 ដែលគាត់ចង់បាន។"
+    },
+    {
+      "speaker": "Plitsas",
+      "text": "And he and President Trump just have this relationship just given their styles. And it has really unnerved the Israelis.",
+      "cn": "ហើយគាត់ និងប្រធានាធិបតី Trump គ្រាន់តែបង្កើតទំនាក់ទំនងនេះដោយសារតែរចនាប័ទ្មរបស់ពួកគេ។ នេះពិតជាធ្វើឱ្យជនជាតិអ៊ីស្រាអែលមិនស្រួល។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Alex, thanks so much. Always love your insight. Appreciate that. Right now, you are looking at the President's plane, which has touched down in Turkey for a meeting with NATO allies. Turkey really wanted the president there. We've been talking about that relationship. I want to turn to the group chat because this is a kind of day where we just want to know, what do you think is going to come out of this meeting today? Doug, let me start with you. Is there a particular leader you're watching coming out of this?",
+      "cn": "ល្អណាស់ Alex អរគុណច្រើន។ ការយល់ដឹងរបស់អ្នកតែងតែល្អណាស់ ដឹងគុណ។ ឥឡូវនេះ អ្នកកំពុងឃើញយន្តហោះឯកជនរបស់ប្រធានាធិបតី ដែលបានចុះចតនៅតួកគី ត្រៀមជួបជាមួយសម្ព័ន្ធមិត្តណាតូ។ តួកគីសង្ឃឹមយ៉ាងខ្លាំងថាប្រធានាធិបតីនឹងមក។ យើងបានពិភាក្សាអំពីទំនាក់ទំនងនេះ។ ខ្ញុំចង់បង្វែរការយកចិត្តទុកដាក់ទៅការជជែកជាក្រុម ពីព្រោះនៅថ្ងៃបែបនេះ យើងចង់ដឹងថាតើអ្នកគិតថាកិច្ចប្រជុំនេះនឹងទទួលបានលទ្ធផលអ្វី? Doug អ្នកមុន។ តើអ្នកផ្តោតលើមេដឹកនាំណាម្នាក់ដែលនឹងលេចធ្លោចេញពីកិច្ចប្រជុំនេះ?"
+    },
+    {
+      "speaker": "Heye",
+      "text": "I'm looking to see what the side conversations are. There's been a real effort over the past year and a half. I was at some of the meetings for this last year for what's called the Defense Security and Resilience Bank that would basically help fund those -- those countries who haven't gotten to the five percent threshold yet. Will that be successful? Will that rise in -- in the attention of the leaders?",
+      "cn": "ខ្ញុំផ្តោតលើការសន្ទនាក្រៅផ្លូវការ។ ក្នុងរយៈពេលមួយឆ្នាំកន្លះកន្លងមកនេះ ពិតជាមានការខិតខំប្រឹងប្រែងយ៉ាងសំខាន់។ កាលពីឆ្នាំមុន ខ្ញុំបានចូលរួមកិច្ចប្រជុំមួយចំនួនដែលពិភាក្សាអំពីអ្វីដែលគេហៅថា 'ធនាគារសន្តិសុខ និងភាពធន់នឹងការពារជាតិ' ដែលជាមូលដ្ឋាននឹងជួយផ្តល់មូលនិធិដល់ប្រទេសដែលមិនទាន់ឈានដល់កម្រិត 5% ។ តើវានឹងជោគជ័យទេ? តើវានឹងទាក់ទាញការយកចិត្តទុកដាក់ពីមេដឹកនាំទេ?"
+    },
+    {
+      "speaker": "Finney",
+      "text": "Yes. I'm looking for just the tone and tenor because one of the things we're seeing are -- is the European leaders, like, other parts of the world, kind of figuring out how to get along without us because the United States has become less reliable. And so some of those dynamics I think will be in play in terms of the posture of some of these leaders.",
+      "cn": "បាទ ខ្ញុំផ្តោតលើសម្លេង និងបរិយាកាស ពីព្រោះអ្វីដែលយើងឃើញគឺថា មេដឹកនាំអឺរ៉ុប ដូចជាតំបន់ផ្សេងទៀតនៃពិភពលោក កំពុងស្វែងរកវិធីរស់នៅដោយគ្មានយើង ដោយសារតែសហរដ្ឋអាមេរិកកាន់តែមិនសូវគួរឱ្យទុកចិត្ត។ ខ្ញុំគិតថាសក្ដានុពលទាំងនេះនឹងត្រូវបានឆ្លុះបញ្ចាំងនៅក្នុងឥរិយាបថរបស់មេដឹកនាំមួយចំនួន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, Aaron, you and I were nerding out about the sort of weapons systems and questions around Air Force support that people will be watching for here in military land, but can you talk to me about what else you're watching?",
+      "cn": "ឥឡូវនេះ Aaron អ្នក និងខ្ញុំធ្លាប់ពិភាក្សាពីមុនអំពីប្រព័ន្ធអាវុធ និងការគាំទ្រកងទ័ពអាកាស ដែលជារឿងដែលមនុស្សក្នុងវិស័យយោធានឹងផ្តោត ប៉ុន្តែតើអ្នកអាចប្រាប់ខ្ញុំពីអ្វីដែលអ្នកកំពុងផ្តោតដែរឬទេ?"
+    },
+    {
+      "speaker": "Blake",
+      "text": "Yes. The -- the decoupling is a big thing. You know, we have that big speech from --",
+      "cn": "បាទ ការផ្តាច់ទំនាក់ទំនងជារឿងធំមួយ។ អ្នកដឹងទេ យើងមានសុន្ទរកថាសំខាន់មួយ --"
+    },
+    {
+      "speaker": "Blake",
+      "text": "Decoupling. The Mark Carney speech in Brussels earlier this year where he kind of laid out a path forward for these Western countries to maybe not be so closely aligned with the United States. Then also, I think this F-35 issue is really interesting, not just because of the relationship with Israel, like we talked about, on Netanyahu does not want these -- these -- the stealth technology going to Turkey, but also Congress might not like this.",
+      "cn": "ការផ្តាច់ទំនាក់ទំនង។ សុន្ទរកថារបស់លោក Mark Carney នៅទីក្រុង Brussels កាលពីដើមឆ្នាំនេះ បានគូសបញ្ជាក់ពីផ្លូវឆ្ពោះទៅមុខសម្រាប់បណ្តាប្រទេសលោកខាងលិចទាំងនេះ ដែលប្រហែលជាមិនសូវមានទំនាក់ទំនងជិតស្និទ្ធជាមួយសហរដ្ឋអាមេរិកទៀតទេ។ លើសពីនេះទៀត ខ្ញុំគិតថាបញ្ហា F-35 គឺគួរឱ្យចាប់អារម្មណ៍ណាស់ មិនត្រឹមតែដោយសារទំនាក់ទំនងជាមួយអ៊ីស្រាអែលប៉ុណ្ណោះទេ ដូចដែលយើងបានពិភាក្សាគ្នា លោក Netanyahu មិនចង់ឱ្យបច្ចេកវិទ្យាមើលមិនឃើញនេះទៅដល់តួកគីទេ ហើយសភាក៏ប្រហែលជាមិនចូលចិត្តដែរ។"
+    },
+    {
+      "speaker": "Blake",
+      "text": "Congress could stand in the way if Trump wants to press forward with this. That's a very interesting dynamic in Washington.",
+      "cn": "ប្រសិនបើលោក Trump ចង់ជំរុញរឿងនេះ សភាអាចរារាំង។ នេះជាសកម្មភាពគួរឱ្យចាប់អារម្មណ៍មួយនៅក្នុងទីក្រុង Washington ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. A lot of questions going into the day. Thank you to your -- to our group chat. Really appreciate you guys being here. Thank you to you for waking up with us. Right now, we are watching the president touchdown interview where he is set to meet with NATO allies to talk about Ukraine, among other things. I'm Audie Cornish. And I want you to stay with us because we've got these headlines next. var CNN = CNN || {};",
+      "cn": "ល្អ ថ្ងៃនេះមានសំណួរជាច្រើន។ សូមអរគុណចំពោះការចូលរួមក្នុងក្រុមជជែករបស់យើង។ សូមអរគុណយ៉ាងជ្រាលជ្រៅចំពោះការចូលរួមរបស់អ្នក។ សូមអរគុណដែលបានក្រោកពីព្រលឹមជាមួយយើង។ ឥឡូវនេះ យើងកំពុងមើលបទសម្ភាសន៍នៅលើយន្តហោះរបស់ប្រធានាធិបតី ដែលលោកនឹងជួបជាមួយសម្ព័ន្ធមិត្តណាតូ ដើម្បីពិភាក្សាអំពីអ៊ុយក្រែន និងបញ្ហាផ្សេងៗទៀត។ ខ្ញុំគឺ Audi Cornish។ សូមបន្តតាមដានយើង ព្រោះបន្ទាប់មកទៀតមានព័ត៌មានសំខាន់ៗទាំងនេះ។"
+    }
+  ]
+}
