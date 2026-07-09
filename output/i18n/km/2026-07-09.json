@@ -1,0 +1,1162 @@
+{
+  "date": "2026-07-09",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-09/segment/01",
+  "summary": "សហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បានវាយប្រហារគ្នាទៅវិញទៅមកម្តងទៀត បន្ទាប់ពីកិច្ចព្រមព្រៀងឈប់បាញ់។ អាមេរិកនិយាយថា ការឈប់បាញ់ត្រូវបាន 'ផ្អាកជាបណ្តោះអាសន្ន'។ កងទ័ពអាមេរិកបានវាយប្រហារគោលដៅចំនួន 90 នៅក្នុងប្រទេសអ៊ីរ៉ង់។ អ៊ីរ៉ង់បានសងសឹកដោយវាយប្រហារមូលដ្ឋានទ័ពអាមេរិកនៅកូវ៉ែត និងបារ៉ែន។ ពិធីបុណ្យសពរបស់អតីតមេដឹកនាំកំពូលអ៊ីរ៉ង់ លោក ខុមេនី ជិតឈានដល់ទីបញ្ចប់ហើយ ប៉ុន្តែកូនប្រុសរបស់គាត់ឈ្មោះ មូចតាបា មិនទាន់បង្ហាញខ្លួនជាសាធារណៈនៅឡើយទេ។ រដ្ឋមន្ត្រីការបរទេសអាល្លឺម៉ង់បាននិយាយថា ខ្លួនត្រៀមខ្លួនរួចជាស្រេចក្នុងការដាក់ពង្រាយនាវាបោសសម្អាតមីននៅច្រកសមុទ្រហ័រមូស ប៉ុន្តែត្រូវការការយល់ព្រមពីភាគីពាក់ព័ន្ធ។ ការកើនឡើងនៃស្ថានការណ៍នេះបានធ្វើឱ្យមានការព្រួយបារម្ភជាអន្តរជាតិ។",
+  "vocabulary": [
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ឈប់បាញ់, កិច្ចព្រមព្រៀងឈប់បាញ់",
+      "en": "a temporary suspension of fighting, typically one during which peace talks take place",
+      "excerpt": "A U.S. official telling CNN the ceasefire with Iran has, quote, temporarily ceased",
+      "example_cn": "មន្ត្រីអាមេរិកម្នាក់បានប្រាប់ CNN ថា ការឈប់បាញ់ជាមួយអ៊ីរ៉ង់ត្រូវបាន 'ផ្អាកជាបណ្ដោះអាសន្ន'",
+      "audio_url": "output/audio/vocab/2026-07-09/ceasefire-dcd3a293.mp3"
+    },
+    {
+      "word": "dynamic",
+      "phonetic": "/daɪˈnæmɪk/",
+      "pos": "adj.",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ថាមវន្ត, កំពុងប្រែប្រួលឥតឈប់ឈរ",
+      "en": "characterized by constant change, activity, or progress",
+      "excerpt": "the situation remains dynamic",
+      "example_cn": "ស្ថានភាពនៅតែប្រែប្រួលឥតឈប់ឈរ",
+      "audio_url": "output/audio/vocab/2026-07-09/dynamic-54522205.mp3"
+    },
+    {
+      "word": "maritime control tower",
+      "phonetic": "/ˈmærɪtaɪm kənˈtroʊl ˈtaʊər/",
+      "pos": "n. phrase",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់",
+      "cn": "ប៉មត្រួតពិនិត្យសមុទ្រ",
+      "en": "a tower used to monitor and control maritime traffic in a port or waterway",
+      "excerpt": "showing some damage to what is a maritime control tower in a port city",
+      "example_cn": "បង្ហាញពីការខូចខាតខ្លះដល់ប៉មត្រួតពិនិត្យសមុទ្រនៅទីក្រុងកំពង់ផែមួយ",
+      "audio_url": "output/audio/vocab/2026-07-09/maritime-control-tower-dc03f18b.mp3"
+    },
+    {
+      "word": "civilian infrastructure",
+      "phonetic": "/sɪˈvɪliən ˈɪnfrəstrʌktʃər/",
+      "pos": "n. phrase",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ហេដ្ឋារចនាសម្ព័ន្ធស៊ីវិល",
+      "en": "the basic physical and organizational structures needed for the operation of a society, such as roads, bridges, and power grids, that are not military",
+      "excerpt": "this would be a rare case where civilian infrastructure was targeted",
+      "example_cn": "នេះនឹងជាករណីដ៏កម្រមួយដែលផ្ដោតលើហេដ្ឋារចនាសម្ព័ន្ធស៊ីវិល",
+      "audio_url": "output/audio/vocab/2026-07-09/civilian-infrastructure-a95f6bb5.mp3"
+    },
+    {
+      "word": "negotiator",
+      "phonetic": "/nɪˈɡoʊʃieɪtər/",
+      "pos": "n.",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "អ្នកចរចា",
+      "en": "a person who conducts negotiations, especially in business or politics",
+      "excerpt": "Their top negotiator posting this warning on X",
+      "example_cn": "អ្នកតំណាងចរចារបស់ពួកគេបានប្រកាសការព្រមាននេះនៅលើ X",
+      "audio_url": "output/audio/vocab/2026-07-09/negotiator-f7a6194f.mp3"
+    },
+    {
+      "word": "bullying",
+      "phonetic": "/ˈbʊliɪŋ/",
+      "pos": "n.",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ការគំរាមកំហែង ការសង្កត់សង្កិន",
+      "en": "behavior that involves the use of force, threat, or coercion to abuse, intimidate, or aggressively dominate others",
+      "excerpt": "America still hasn't learned that bullying and breaking promises are no longer cost-free",
+      "example_cn": "សហរដ្ឋអាមេរិកនៅតែមិនទាន់រៀនថា ការគំរាមកំហែង និងការក្បត់ការសន្យាលែងគ្មានតម្លៃទៀតហើយ",
+      "audio_url": "output/audio/vocab/2026-07-09/bullying-6c73b88a.mp3"
+    },
+    {
+      "word": "flagrant violation",
+      "phonetic": "/ˈfleɪɡrənt ˌvaɪəˈleɪʃən/",
+      "pos": "n. phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ច្បាប់ និងយុត្តិធម៌",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការរំលោភដោយចំហ",
+      "en": "a blatant and deliberate breach of a law, rule, or agreement",
+      "excerpt": "calling it a flagrant violation of international humanitarian law",
+      "example_cn": "ហៅវាថាជាការរំលោភដោយចំហចំពោះច្បាប់មនុស្សធម៌អន្តរជាតិ",
+      "audio_url": "output/audio/vocab/2026-07-09/flagrant-violation-62a87e4b.mp3"
+    },
+    {
+      "word": "escalation",
+      "phonetic": "/ˌeskəˈleɪʃən/",
+      "pos": "n.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការកើនឡើង ការធ្វើឲ្យកាន់តែធ្ងន់ធ្ងរ",
+      "en": "an increase in the intensity or seriousness of something, especially a conflict",
+      "excerpt": "this is really the most serious escalation in violence that we've seen",
+      "example_cn": "នេះពិតជាការកើនឡើងនៃអំពើហិង្សាដ៏ធ្ងន់ធ្ងរបំផុតដែលយើងធ្លាប់ឃើញ",
+      "audio_url": "output/audio/vocab/2026-07-09/escalation-24aaa8e9.mp3"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "n. phrase",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់បំផុត",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់បំផុត",
+      "cn": "អនុស្សរណៈនៃការយោគយល់",
+      "en": "a type of agreement between two or more parties, often used in international relations, that outlines the terms and details of an understanding",
+      "excerpt": "since this memorandum of understanding was signed",
+      "example_cn": "ចាប់តាំងពីការចុះហត្ថលេខាលើអនុស្សរណៈនៃការយោគយល់នេះ",
+      "audio_url": "output/audio/vocab/2026-07-09/memorandum-of-understanding-2755ba2a.mp3"
+    },
+    {
+      "word": "catastrophic",
+      "phonetic": "/ˌkætəˈstrɑːfɪk/",
+      "pos": "adj.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "គ្រោះមហន្តរាយ",
+      "en": "involving or causing sudden great damage or suffering",
+      "excerpt": "a return to full-scale hostilities would have catastrophic consequences",
+      "example_cn": "ការស្តារឡើងវិញនូវសកម្មភាពអរិភាពពេញលេញនឹងមានផលវិបាកជាគ្រោះមហន្តរាយ",
+      "audio_url": "output/audio/vocab/2026-07-09/catastrophic-8e11cf31.mp3"
+    },
+    {
+      "word": "Strait of Hormuz",
+      "phonetic": "/streɪt əv hɔːrˈmuːz/",
+      "pos": "n. phrase",
+      "usage": "ពាក្យឯកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យឯកទេស · កម្រិតខ្ពស់",
+      "cn": "ច្រកសមុទ្រហ័រម៉ុស",
+      "en": "a narrow strait between the Persian Gulf and the Gulf of Oman, a critical oil transit chokepoint",
+      "excerpt": "It really is focusing around the Strait of Hormuz",
+      "example_cn": "នេះពិតជាផ្តោតលើតំបន់ជុំវិញច្រកសមុទ្រហ័រម៉ុស",
+      "audio_url": "output/audio/vocab/2026-07-09/strait-of-hormuz-86ad5d19.mp3"
+    },
+    {
+      "word": "retaliation",
+      "phonetic": "/rɪˌtæliˈeɪʃən/",
+      "pos": "n.",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ការសងសឹក",
+      "en": "the action of returning a military attack; counterattack",
+      "excerpt": "Iran also claiming that it targeted Qatar in the retaliation against these U.S. military assets",
+      "example_cn": "អ៊ីរ៉ង់ក៏បានអះអាងថា ក្នុងការសងសឹកប្រឆាំងនឹងទ្រព្យសម្បត្តិយោធាអាមេរិកទាំងនេះ វាបានកំណត់គោលដៅលើប្រទេសកាតា",
+      "audio_url": "output/audio/vocab/2026-07-09/retaliation-4746360b.mp3"
+    },
+    {
+      "word": "minesweeper",
+      "phonetic": "/ˈmaɪnswiːpər/",
+      "pos": "n.",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់",
+      "cn": "នាវាបោសសម្អាតមីន",
+      "en": "a small naval vessel designed to detect and remove naval mines",
+      "excerpt": "And we have deployed a minesweeper in the region",
+      "example_cn": "យើងបានដាក់ពង្រាយនាវាបោសសម្អាតមីនមួយនៅក្នុងតំបន់នោះរួចហើយ",
+      "audio_url": "output/audio/vocab/2026-07-09/minesweeper-956b5fff.mp3"
+    },
+    {
+      "word": "permissive environment",
+      "phonetic": "/pərˈmɪsɪv ɪnˈvaɪrənmənt/",
+      "pos": "n. phrase",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "បរិយាកាសអនុញ្ញាត បរិយាកាសដែលអនុញ្ញាតឱ្យមានសកម្មភាព",
+      "en": "a situation in which conditions allow for a particular action to be taken, often with the consent of relevant parties",
+      "excerpt": "a permissive environment is needed",
+      "example_cn": "ត្រូវការបរិយាកាសអនុញ្ញាត",
+      "audio_url": "output/audio/vocab/2026-07-09/permissive-environment-f550aa4f.mp3"
+    },
+    {
+      "word": "tit-for-tat",
+      "phonetic": "/ˈtɪt fər ˈtæt/",
+      "pos": "adj./n.",
+      "usage": "ពាក្យផ្សំ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំ · កម្រិតមធ្យម",
+      "cn": "សងសឹកវិញ តបតវិញ",
+      "en": "a situation in which one person or group responds to another's action with a similar action",
+      "excerpt": "in the middle of this tit-for-tat that we are seeing at this exact moment",
+      "example_cn": "ស្ថិតក្នុងស្ថានភាពតបតវិញដែលយើងកំពុងឃើញនេះ",
+      "audio_url": "output/audio/vocab/2026-07-09/tit-for-tat-fefd1ab8.mp3"
+    },
+    {
+      "word": "funeral procession",
+      "phonetic": "/ˈfjuːnərəl prəˈseʃən/",
+      "pos": "n. phrase",
+      "usage": "កន្សោមប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "សង្គម និងជីវភាពរស់នៅ",
+      "level": "កន្សោមប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ពិធីដង្ហែសព ក្បួនដង្ហែសព",
+      "en": "a formal movement of people accompanying a dead body to its burial or cremation",
+      "excerpt": "the week-long funeral procession for Iran's former supreme leader nears an end",
+      "example_cn": "ពិធីដង្ហែសពរយៈពេលមួយសប្តាហ៍របស់អតីតមេដឹកនាំកំពូលអ៊ីរ៉ង់ជិតឈានដល់ទីបញ្ចប់",
+      "audio_url": "output/audio/vocab/2026-07-09/funeral-procession-9169cc68.mp3"
+    },
+    {
+      "word": "supreme leader",
+      "phonetic": "/suːˈpriːm ˈliːdər/",
+      "pos": "n. phrase",
+      "usage": "ព័ត៌មានផ្ទៃក្រោយឈ្មោះ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ព័ត៌មានផ្ទៃក្រោយឈ្មោះ · កម្រិតខ្ពស់",
+      "cn": "មេដឹកនាំកំពូល",
+      "en": "the highest-ranking political and religious authority in Iran, with ultimate power over the government",
+      "excerpt": "the week-long funeral procession for Iran's former supreme leader",
+      "example_cn": "ពិធីដង្ហែសពរយៈពេលមួយសប្តាហ៍របស់អតីតមេដឹកនាំកំពូលអ៊ីរ៉ង់",
+      "audio_url": "output/audio/vocab/2026-07-09/supreme-leader-d93e3eb5.mp3"
+    },
+    {
+      "word": "final resting place",
+      "phonetic": "/ˈfaɪnəl ˈrestɪŋ pleɪs/",
+      "pos": "n. phrase",
+      "usage": "កន្សោមប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "សង្គម និងជីវភាពរស់នៅ",
+      "level": "កន្សោមប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "កន្លែងសម្រាកចុងក្រោយ ទីបញ្ចុះសព",
+      "en": "the place where a dead person is buried",
+      "excerpt": "His coffin is now being taken to its final resting place",
+      "example_cn": "មឈូសរបស់គាត់កំពុងត្រូវបានដឹកទៅកាន់កន្លែងសម្រាកចុងក្រោយ",
+      "audio_url": "output/audio/vocab/2026-07-09/final-resting-place-4435f516.mp3"
+    },
+    {
+      "word": "take the reins",
+      "phonetic": "/teɪk ðə reɪnz/",
+      "pos": "v. phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "ដណ្តើមយក គ្រប់គ្រង",
+      "en": "to take control or assume leadership",
+      "excerpt": "He hasn't been seen since taking the reins of the Islamic Republic of Iran",
+      "example_cn": "ចាប់តាំងពីដណ្តើមយកសាធារណរដ្ឋអ៊ីស្លាមអ៊ីរ៉ង់មក គាត់មិនទាន់បង្ហាញមុខនៅឡើយទេ",
+      "audio_url": "output/audio/vocab/2026-07-09/take-the-reins-7c971fdd.mp3"
+    },
+    {
+      "word": "in force",
+      "phonetic": "/ɪn fɔːrs/",
+      "pos": "adv. phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "ជាច្រើន, ទ្រង់ទ្រាយធំ",
+      "en": "in large numbers",
+      "excerpt": "many people came out. They were out in force",
+      "example_cn": "មនុស្សជាច្រើនបានចេញមក។ ពួកគេចេញមកជាច្រើន",
+      "audio_url": "output/audio/vocab/2026-07-09/in-force-4b73aced.mp3"
+    },
+    {
+      "word": "call the shots",
+      "phonetic": "/kɔːl ðə ʃɑːts/",
+      "pos": "v. phrase",
+      "usage": "កន្សោមថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "កន្សោមថេរ · កម្រិតខ្ពស់",
+      "cn": "ចេញបញ្ជា, គ្រប់គ្រងស្ថានការណ៍",
+      "en": "to be in charge; to make the important decisions",
+      "excerpt": "he is the one calling the shots",
+      "example_cn": "គាត់ជាអ្នកចេញបញ្ជា",
+      "audio_url": "output/audio/vocab/2026-07-09/call-the-shots-c53400ab.mp3"
+    },
+    {
+      "word": "stranded",
+      "phonetic": "/ˈstrændɪd/",
+      "pos": "adj.",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ជាប់គាំង, ជាប់",
+      "en": "left without the means to move from somewhere",
+      "excerpt": "some 6,000 seafarers that is still stranded in the Persian Gulf",
+      "example_cn": "នាវិកប្រហែល 6000 នាក់នៅតែជាប់គាំងនៅឈូងសមុទ្រពែរ្ស",
+      "audio_url": "output/audio/vocab/2026-07-09/stranded-f81f2ccb.mp3"
+    },
+    {
+      "word": "waterway",
+      "phonetic": "/ˈwɔːtərweɪ/",
+      "pos": "n.",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ផ្លូវទឹក, គន្លងទឹក",
+      "en": "a river, canal, or other navigable channel used for travel or transport",
+      "excerpt": "they are unable to get out of this waterway at this point",
+      "example_cn": "បច្ចុប្បន្នពួកគេមិនអាចចាកចេញពីផ្លូវទឹកនេះបានទេ",
+      "audio_url": "output/audio/vocab/2026-07-09/waterway-173f03da.mp3"
+    },
+    {
+      "word": "hug",
+      "phonetic": "/hʌɡ/",
+      "pos": "v.",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "នៅជាប់, ដើរតាម",
+      "en": "to keep close to something, especially a coast or border",
+      "excerpt": "a northern route, which hugs the Iranian coast",
+      "example_cn": "ផ្លូវភាគខាងជើងដែលនៅជាប់ឆ្នេរអ៊ីរ៉ង់",
+      "audio_url": "output/audio/vocab/2026-07-09/hug-f11fb55c.mp3"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A U.S. official telling CNN the ceasefire with Iran has, quote, temporarily ceased, but the situation remains dynamic.",
+      "cn": "មន្ត្រីអាមេរិកម្នាក់បានប្រាប់ CNN ថាកិច្ចព្រមព្រៀងឈប់បាញ់ជាមួយអ៊ីរ៉ង់ត្រូវបាន \"ផ្អាកជាបណ្ដោះអាសន្ន\" ប៉ុន្តែស្ថានភាពនៅតែប្រែប្រួល។",
+      "structure": "ប្រយោគចម្បង (A U.S. official telling CNN) + ប្រយោគបន្ទាប់បន្សំ (the ceasefire...ceased) + ពាក្យសម្រង់ (quote) + ប្រយោគផ្សំ (but the situation remains dynamic)",
+      "analysis": "quote មានន័យថាការដកស្រង់ដោយផ្ទាល់ ប្រើញឹកញាប់ក្នុងព័ត៌មាន; dynamic មានន័យថាសកម្ម ប្រែប្រួលឥតឈប់ឈរ ជាពាក្យប្រើញឹកញាប់ក្នុងព័ត៌មាន។"
+    },
+    {
+      "en": "And if confirmed, this would be a rare case where civilian infrastructure was targeted.",
+      "cn": "ប្រសិនបើត្រូវបានបញ្ជាក់ នេះនឹងក្លាយជាករណីកម្រមួយដែលកំណត់គោលដៅលើហេដ្ឋារចនាសម្ព័ន្ធស៊ីវិល។",
+      "structure": "ប្រយោគលក្ខខណ្ឌ (if confirmed) + ប្រយោគចម្បង (this would be a rare case) + ប្រយោគពន្យល់ (where civilian infrastructure was targeted)",
+      "analysis": "if confirmed ជារចនាសម្ព័ន្ធខ្លី ពេញលេញគឺ if it is confirmed; rare case មានន័យថាករណីកម្រ; civilian infrastructure មានន័យថាហេដ្ឋារចនាសម្ព័ន្ធស៊ីវិល។"
+    },
+    {
+      "en": "Iran's military says it targeted U.S. military bases in Kuwait and Bahrain.",
+      "cn": "យោធាអ៊ីរ៉ង់បាននិយាយថាខ្លួនបានវាយប្រហារមូលដ្ឋានយោធាអាមេរិកនៅគុយវ៉ែត និងបារ៉ែន។",
+      "structure": "ប្រយោគចម្បង (Iran's military says) + ប្រយោគបន្ទាប់បន្សំ (it targeted...)",
+      "analysis": "target ជាកិរិយាសព្ទ មានន័យថាកំណត់គោលដៅ វាយប្រហារ; military bases មានន័យថាមូលដ្ឋានយោធា។"
+    },
+    {
+      "en": "Their top negotiator posting this warning on X, quote, \"America still hasn't learned that bullying and breaking promises are no longer cost-free.\"",
+      "cn": "អ្នកតំណាងចរចាកំពូលរបស់ពួកគេបានបង្ហោះការព្រមាននៅលើ X ថា៖ \"អាមេរិកនៅតែមិនទាន់រៀនថា ការគំរាមកំហែង និងការក្បត់ពាក្យសន្យាលែងគ្មានតម្លៃទៀតហើយ។\"",
+      "structure": "ប្រយោគចម្បង (Their top negotiator posting this warning on X) + ពាក្យសម្រង់ (quote) + សម្រង់ផ្ទាល់ (America still hasn't learned that...)",
+      "analysis": "posting ជាកិរិយាសព្ទបច្ចុប្បន្នកាលបច្ចុប្បន្នជាអ្នកបន្ទាប់; bullying and breaking promises ជាប្រធានផ្សំ; cost-free មានន័យថាគ្មានតម្លៃ។"
+    },
+    {
+      "en": "Bahrain saying that they had intercepted several attacks, calling it a flagrant violation of international humanitarian law.",
+      "cn": "បារ៉ែនបាននិយាយថាខ្លួនបានស្ទាក់ចាប់ការវាយប្រហារជាច្រើនលើក ហើយហៅវាថាជាការរំលោភបំពានយ៉ាងធ្ងន់ធ្ងរលើច្បាប់មនុស្សធម៌អន្តរជាតិ។",
+      "structure": "ប្រយោគចម្បង (Bahrain saying) + ប្រយោគបន្ទាប់បន្សំ (that they had intercepted...) + អ្នកបន្ទាប់ (calling it...)",
+      "analysis": "intercept មានន័យថាស្ទាក់ចាប់; flagrant violation មានន័យថាការរំលោភបំពានយ៉ាងធ្ងន់ធ្ងរ; international humanitarian law មានន័យថាច្បាប់មនុស្សធម៌អន្តរជាតិ។"
+    },
+    {
+      "en": "Now, this is really the most serious escalation in violence that we've seen since this memorandum of understanding was signed.",
+      "cn": "នេះជាការកើនឡើងអំពើហិង្សាធ្ងន់ធ្ងរបំផុតដែលយើងបានឃើញចាប់តាំងពីការចុះហត្ថលេខាលើអនុស្សរណៈនៃការយោគយល់គ្នានេះ។",
+      "structure": "ប្រយោគចម្បង (this is the most serious escalation) + ប្រយោគពន្យល់ (that we've seen) + ប្រយោគពេលវេលា (since...was signed)",
+      "analysis": "escalation មានន័យថាការកើនឡើង; memorandum of understanding មានន័យថាអនុស្សរណៈនៃការយោគយល់គ្នា ជារឿយៗហៅថា MoU។"
+    },
+    {
+      "en": "The Secretary General reiterates that a return to full-scale hostilities would have catastrophic consequences for the peoples of the region, for international peace and security, and for the global economy.",
+      "cn": "អគ្គលេខាធិការបានអះអាងឡើងវិញថា ការវិលត្រឡប់ទៅរកអរិភាពពេញលេញវិញនឹងមានផលវិបាកមហន្តរាយសម្រាប់ប្រជាជនក្នុងតំបន់ សន្តិភាព និងសន្តិសុខអន្តរជាតិ និងសេដ្ឋកិច្ចពិភពលោក។",
+      "structure": "ប្រយោគចម្បង (The Secretary General reiterates) + ប្រយោគបន្ទាប់បន្សំ (that a return...would have...) + ឃ្លាបុព្វបទផ្សំ (for...for...and for...)",
+      "analysis": "reiterate មានន័យថាអះអាងឡើងវិញ; full-scale hostilities មានន័យថាអរិភាពពេញលេញ; catastrophic consequences មានន័យថាផលវិបាកមហន្តរាយ; បី for ផ្សំគ្នាដើម្បីបញ្ជាក់ពីវិសាលភាពនៃផលប៉ះពាល់។"
+    },
+    {
+      "en": "We are seeing the number of vessels managing to get through that critical waterway lesson because of the increase in hostilities.",
+      "cn": "ដោយសារតែការកើនឡើងនៃអរិភាព យើងកំពុងឃើញការថយចុះនៃចំនួនកប៉ាល់ដែលអាចឆ្លងកាត់ផ្លូវទឹកដ៏សំខាន់នោះដោយជោគជ័យ។",
+      "structure": "ប្រយោគចម្បង (We are seeing) + កម្មវត្ថុ (the number of vessels) + ឃ្លាកិរិយាសព្ទបច្ចុប្បន្នកាល (managing to get through...) + ឃ្លាមូលហេតុ (because of...)",
+      "analysis": "vessels មានន័យថាកប៉ាល់; critical waterway មានន័យថាផ្លូវទឹកដ៏សំខាន់; lesson នៅទីនេះគួរតែជា less (ការថយចុះ) ប៉ុន្តែត្រូវបានរក្សាទុកតាមអត្ថបទដើម។"
+    },
+    {
+      "en": "On Wednesday, we had some facts and figures from marine traffic saying that, in the previous 24 hours, about 20 ships had managed to get through.",
+      "cn": "ថ្ងៃពុធ យើងបានដឹងពីទិន្នន័យចរាចរណ៍សមុទ្រថា ក្នុងរយៈពេល 24 ម៉ោងចុងក្រោយ មាននាវាប្រហែល 20 គ្រឿងបានឆ្លងកាត់ដោយជោគជ័យ។",
+      "structure": "កន្សោមពេលវេលា (On Wednesday) + ប្រយោគចម្បង (we had some facts and figures) + ឃ្លាកិរិយាបច្ចុប្បន្ន (saying that...) + ប្រយោគបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុ (about 20 ships had managed to get through)",
+      "analysis": "facts and figures ទិន្នន័យនិងតួលេខ; marine traffic ចរាចរណ៍សមុទ្រ; manage to do អាចធ្វើបានដោយជោគជ័យ។"
+    },
+    {
+      "en": "We're also hearing from the U.N. Maritime Agency that they still have some 6,000 seafarers that is still stranded in the Persian Gulf since this war began, so many of them since February 28th, that they are unable to get out of this waterway at this point because of these hostilities that are ongoing.",
+      "cn": "យើងក៏បានដឹងពីទីភ្នាក់ងារដឹកជញ្ជូនតាមសមុទ្ររបស់អង្គការសហប្រជាជាតិថា ចាប់តាំងពីសង្គ្រាមចាប់ផ្តើមមក នៅមាននាវិកប្រហែល 6000 នាក់ជាប់គាំងនៅឈូងសមុទ្រពែរ្ស ដែលភាគច្រើនមិនអាចចាកចេញពីផ្លូវទឹកនេះតាំងពីថ្ងៃទី 28 ខែកុម្ភៈ ដោយសារតែអរិភាពដែលកំពុងបន្ត។",
+      "structure": "ប្រយោគចម្បង (We're hearing from...) + ប្រយោគបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុ (that they still have...) + ប្រយោគបន្ទាប់បន្សំពន្យល់នាម (that is still stranded...) + កន្សោមសមមូល (so many of them since February 28th) + ប្រយោគបន្ទាប់បន្សំបង្ហាញលទ្ធផល (that they are unable to get out...) + កន្សោមបង្ហាញមូលហេតុ (because of...)",
+      "analysis": "seafarers នាវិក; stranded ជាប់គាំង; waterway ផ្លូវទឹក; ongoing កំពុងបន្ត។"
+    },
+    {
+      "en": "Al Jazeera just spoke to Germany's foreign minister, and he said that they were ready to at least take some supportive action in the Strait of Hormuz.",
+      "cn": "ទូរទស្សន៍ Al Jazeera ទើបតែបានសម្ភាសន៍រដ្ឋមន្ត្រីការបរទេសអាល្លឺម៉ង់ ដែលលោកបាននិយាយថា ពួកគេត្រៀមខ្លួនរួចជាស្រេចក្នុងការចាត់វិធានការគាំទ្រមួយចំនួនយ៉ាងហោចណាស់នៅច្រកសមុទ្រហ័រម៉ុស។",
+      "structure": "ប្រយោគផ្សំ (Al Jazeera spoke...and he said) + ប្រយោគបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុ (that they were ready to...)",
+      "analysis": "Al Jazeera ទូរទស្សន៍អាល់ហ្សាហ្ស៊ីរ៉ា; foreign minister រដ្ឋមន្ត្រីការបរទេស; supportive action វិធានការគាំទ្រ; Strait of Hormuz ច្រកសមុទ្រហ័រម៉ុស។"
+    },
+    {
+      "en": "We are urging all parties to come back to the negotiation table.",
+      "cn": "យើងជំរុញឱ្យភាគីទាំងអស់ត្រឡប់មកតុចរចាវិញ។",
+      "structure": "ប្រយោគចម្បង (We are urging) + កម្មវត្ថុ (all parties) + ឃ្លាកិរិយាគ្មានកំណត់ (to come back to...)",
+      "analysis": "urge sb. to do ជំរុញឱ្យនរណាម្នាក់ធ្វើអ្វីមួយ; negotiation table តុចរចា ប្រើក្នុងន័យធៀប។"
+    },
+    {
+      "en": "These mines are believed to be planted by Iran in the central route through the Strait of Hormuz.",
+      "cn": "គ្រាប់មីនទាំងនេះត្រូវបានគេជឿថាត្រូវបានដាក់ដោយអ៊ីរ៉ង់នៅលើផ្លូវកណ្តាលនៃច្រកសមុទ្រហ័រម៉ុស។",
+      "structure": "ប្រយោគចម្បង (These mines are believed) + ឃ្លាកិរិយាគ្មានកំណត់ (to be planted by Iran) + កន្សោមទីកន្លែង (in the central route...)",
+      "analysis": "be believed to be ត្រូវបានគេជឿថាជា; planted ដាក់; central route ផ្លូវកណ្តាល។"
+    },
+    {
+      "en": "There is still a northern route, which hugs the Iranian coast, but that is the route where you have to have Iranian permission and coordination.",
+      "cn": "មានផ្លូវខាងជើងមួយទៀត ដែលនៅជាប់ឆ្នេរអ៊ីរ៉ង់ ប៉ុន្តែផ្លូវនោះត្រូវការការអនុញ្ញាត និងការសម្របសម្រួលពីអ៊ីរ៉ង់។",
+      "structure": "ប្រយោគ There be (There is a northern route) + ប្រយោគបន្ទាប់បន្សំមិនកំណត់ (which hugs...) + ប្រយោគផ្សំ (but that is the route) + ប្រយោគបន្ទាប់បន្សំ (where you have to have...)",
+      "analysis": "hug នៅជាប់; permission and coordination ការអនុញ្ញាត និងការសម្របសម្រួល។"
+    },
+    {
+      "en": "They believe that they are in control of the Strait of Hormuz, that this memorandum gives them control over the logistics, the coordination, and all ships transiting through have to coordinate with them and any that are trying to avoid that and go via the Omani route, some of them are being targeted.",
+      "cn": "ពួកគេជឿថាពួកគេគ្រប់គ្រងច្រកសមុទ្រហ័រម៉ុស ហើយអនុស្សរណៈនេះផ្តល់ឱ្យពួកគេនូវការគ្រប់គ្រងលើភស្តុភារ និងការសម្របសម្រួល ហើយនាវាឆ្លងកាត់ទាំងអស់ត្រូវតែសម្របសម្រួលជាមួយពួកគេ ហើយនាវាដែលព្យាយាមជៀសវាង និងធ្វើដំណើរតាមផ្លូវអូម៉ង់ នាវាខ្លះកំពុងក្លាយជាគោលដៅវាយប្រហារ។",
+      "structure": "ប្រយោគចម្បង (They believe) + ប្រយោគបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុពីរផ្សំគ្នា (that they are in control...that this memorandum gives...) + ប្រយោគផ្សំ (and all ships...have to coordinate...) + ប្រយោគបន្ទាប់បន្សំ (that are trying to avoid...) + ប្រយោគចម្បង (some of them are being targeted)",
+      "analysis": "in control of គ្រប់គ្រង; logistics ភស្តុភារ; transit through ឆ្លងកាត់; coordinate សម្របសម្រួល; Omani route ផ្លូវអូម៉ង់; targeted ត្រូវបានកំណត់ជាគោលដៅ។"
+    },
+    {
+      "en": "But as I say, it's hard to believe that any country, any of these European nations offering the mine-sweeping capabilities are going to want to put their vessels and their personnel in the middle of this tit-for-tat that we are seeing at this exact moment.",
+      "cn": "ប៉ុន្តែដូចដែលខ្ញុំបាននិយាយ វាពិបាកនឹងជឿថាប្រទេសណាមួយ បណ្តាប្រទេសអឺរ៉ុបដែលផ្តល់សមត្ថភាពបោសសម្អាតមីនទាំងនេះ នឹងចង់ដាក់នាវា និងបុគ្គលិករបស់ពួកគេទៅក្នុងស្ថានភាពឈ្លោះតបតវិញដូចដែលយើងកំពុងឃើញនៅពេលនេះ។",
+      "structure": "ឃ្លាជាប់ (as I say) + ប្រយោគចម្បង (it's hard to believe) + ប្រយោគបន្ទាប់បន្សំធ្វើជាកម្មវត្ថុ (that any country...are going to want to...) + ប្រយោគបន្ទាប់បន្សំ (that we are seeing...)",
+      "analysis": "mine-sweeping ការបោសសម្អាតមីន; tit-for-tat ការឈ្លោះតបតវិញ; at this exact moment នៅពេលនេះ។"
+    },
+    {
+      "en": "This new round of strikes is coming as the week-long funeral procession for Iran's former supreme leader nears an end.",
+      "cn": "ការវាយប្រហារជុំថ្មីនេះកើតឡើងនៅពេលដែលពិធីបុណ្យសពរយៈពេលមួយសប្តាហ៍របស់អតីតមេដឹកនាំកំពូលអ៊ីរ៉ង់ជិតឈានដល់ទីបញ្ចប់។",
+      "structure": "ប្រយោគសំខាន់ (This new round of strikes is coming) + ប្រយោគគុណកិរិយាពេលវេលា (as the funeral procession nears an end)",
+      "analysis": "a new round of ជុំថ្មីនៃ; funeral procession ពិធីបុណ្យសព; nears an end ជិតឈានដល់ទីបញ្ចប់។"
+    },
+    {
+      "en": "Earlier today, we were talking about this marathon funeral continued in Iraq, where mourners carried Ali Khamenei's coffin in a crowded mosque.",
+      "cn": "កាលពីព្រឹកមិញនេះ យើងបាននិយាយអំពីពិធីបុណ្យសពម៉ារ៉ាតុងនេះដែលបន្តនៅក្នុងប្រទេសអ៊ីរ៉ាក់ ដោយអ្នកកាន់ទុក្ខបានដឹកមឈូសរបស់អាលី ខាមេណេអ៊ីនៅក្នុងវិហារឥស្លាមដែលមានមនុស្សច្រើនកកកុញ។",
+      "structure": "ប្រយោគគុណកិរិយាពេលវេលា (Earlier today) + ប្រយោគសំខាន់ (we were talking about this marathon funeral) + ប្រយោគគុណនាម (where mourners carried...)",
+      "analysis": "marathon funeral ពិធីបុណ្យសពម៉ារ៉ាតុង; mourners អ្នកកាន់ទុក្ខ; coffin មឈូស; crowded mosque វិហារឥស្លាមដែលមានមនុស្សច្រើន។"
+    },
+    {
+      "en": "The question looming over today's events, will the new Supreme Leader, Khamenei's son, make an appearance?",
+      "cn": "សំណួរដែលគ្របដណ្ដប់លើព្រឹត្តិការណ៍ថ្ងៃនេះគឺ៖ តើមេដឹកនាំកំពូលថ្មី ដែលជាកូនប្រុសរបស់ខាមេណេអ៊ី នឹងបង្ហាញមុខដែរឬទេ?",
+      "structure": "ប្រយោគសំខាន់ (The question looming over today's events) + ប្រយោគភ្ជាប់ (will the new Supreme Leader...make an appearance?)",
+      "analysis": "looming over គ្របដណ្ដប់; make an appearance បង្ហាញមុខ។"
+    },
+    {
+      "en": "One of the things, though, that the leadership here says is they say that he's fully in charge, he's fully in control.",
+      "cn": "ប៉ុន្តែរឿងមួយដែលថ្នាក់ដឹកនាំនៅទីនេះនិយាយគឺថា ពួកគេនិយាយថាគាត់ទទួលខុសត្រូវទាំងស្រុង និងគ្រប់គ្រងទាំងស្រុង។",
+      "structure": "ប្រយោគសំខាន់ (One of the things is) + ប្រយោគគុណនាម (that the leadership here says) + ប្រយោគបំពេញ (they say that...)",
+      "analysis": "in charge ទទួលខុសត្រូវ; in control គ្រប់គ្រង។"
+    }
+  ],
+  "topics": [
+    {
+      "title": "ជម្លោះអាមេរិក-អ៊ីរ៉ង់ និងកិច្ចព្រមព្រៀងឈប់បាញ់",
+      "content": "សហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បានចុះហត្ថលេខាលើអនុស្សរណៈនៃការយោគយល់គ្នា (memorandum of understanding) ក្នុងឆ្នាំ 2026 ប៉ុន្តែថ្មីៗនេះ ដោយសារអ៊ីរ៉ង់បានវាយប្រហារកប៉ាល់នៅច្រកសមុទ្រហូមូស អាមេរិកបានបើកការវាយប្រហារសងសឹក ដែលនាំឱ្យកិច្ចព្រមព្រៀងឈប់បាញ់ត្រូវបាន 'ផ្អាកជាបណ្ដោះអាសន្ន'។ ភាគីទាំងពីរវាយប្រហារគ្នាទៅវិញទៅមក ស្ថានការណ៍កាន់តែតានតឹង ហើយសហគមន៍អន្តរជាតិព្រួយបារម្ភអំពីសង្គ្រាមពេញទំហឹង។",
+      "keywords": "ceasefire · memorandum of understanding · escalation · retaliation"
+    },
+    {
+      "title": "សារៈសំខាន់ជាយុទ្ធសាស្ត្រនៃច្រកសមុទ្រហូមូស",
+      "content": "ច្រកសមុទ្រហូមូស (Strait of Hormuz) គឺជាផ្លូវទឹកតូចចង្អៀតដែលតភ្ជាប់ឈូងសមុទ្រពែរ្ស និងមហាសមុទ្រឥណ្ឌា ដែលប្រហែល 20% នៃការដឹកជញ្ជូនប្រេងសាំងពិភពលោកឆ្លងកាត់។ អ៊ីរ៉ង់ធ្លាប់គំរាមបិទច្រកសមុទ្រ ហើយបច្ចុប្បន្នដោយសារជម្លោះ ការដឹកជញ្ជូនតាមសមុទ្របានថយចុះយ៉ាងខ្លាំង ដោយមាននាវិកប្រហែល 6000 នាក់ជាប់គាំង។",
+      "keywords": "Strait of Hormuz · waterway · oil transit · stranded seafarers"
+    },
+    {
+      "title": "ការផ្លាស់ប្តូរមេដឹកនាំកំពូលអ៊ីរ៉ង់",
+      "content": "បន្ទាប់ពីអតីតមេដឹកនាំកំពូលអ៊ីរ៉ង់ អាលី ខាមេណេអ៊ី (Ali Khamenei) បានទទួលមរណភាព កូនប្រុសរបស់គាត់ មូចតាបា ខាមេណេអ៊ី (Mojtaba Khamenei) បានឡើងបន្ត ប៉ុន្តែមិនទាន់បង្ហាញមុខជាសាធារណៈនៅឡើយទេ។ ពិធីបុណ្យសពមានរយៈពេលមួយសប្តាហ៍ ពីទីក្រុងតេអេរ៉ង់ ទៅអ៊ីរ៉ាក់ រហូតដល់ម៉ាសហាដ ដោយប្រជាជនមានការខឹងសម្បា និងទាមទារឱ្យសងសឹកអាមេរិក។",
+      "keywords": "supreme leader · Ali Khamenei · Mojtaba Khamenei · funeral procession"
+    },
+    {
+      "title": "ប្រតិកម្មរបស់សហគមន៍អន្តរជាតិ និងកិច្ចខិតខំប្រឹងប្រែងសម្រុះសម្រួល",
+      "content": "អគ្គលេខាធិការអង្គការសហប្រជាជាតិបានព្រមានថា សកម្មភាពអរិភាពពេញទំហឹងនឹងនាំមកនូវផលវិបាកមហន្តរាយ។ រដ្ឋមន្ត្រីការបរទេសអាល្លឺម៉ង់បានបង្ហាញឆន្ទៈក្នុងការដាក់ពង្រាយនាវាបោសសម្អាតមីន (minesweeper) នៅច្រកសមុទ្រហូមូស ប៉ុន្តែត្រូវការការយល់ព្រមពីអ៊ីរ៉ង់ និងអូម៉ង់។ ភាគីនានាអំពាវនាវឱ្យត្រឡប់ទៅតុចរចាវិញ។",
+      "keywords": "United Nations · minesweeper · permissive environment · negotiation"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "តាមអត្ថបទដើម 'A U.S. official telling CNN the ceasefire with Iran has, quote, temporarily ceased' ពាក្យ 'ceased' មានន័យជិតបំផុតអ្វី?",
+      "options": [
+        "A. ចាប់ផ្ដើម",
+        "B. ឈប់",
+        "C. បន្ត",
+        "D. ពង្រឹង"
+      ],
+      "answer": 1,
+      "explanation": "ceased មានន័យថា 'ឈប់' ដែលត្រូវនឹងអត្ថបទដើម 'បទឈប់បាញ់ត្រូវបានផ្អាកជាបណ្ដោះអាសន្ន'។"
+    },
+    {
+      "type": "vocab",
+      "question": "អត្ថបទដើម 'calling it a flagrant violation of international humanitarian law' ពាក្យ 'flagrant' មានន័យដូចម្ដេច?",
+      "options": [
+        "A. ស្រាល",
+        "B. ដោយចំហ",
+        "C. សម្ងាត់",
+        "D. ស្របច្បាប់"
+      ],
+      "answer": 1,
+      "explanation": "flagrant មានន័យថា 'ដោយចំហ ឬដោយឥតខ្មាស' ដោយសង្កត់ធ្ងន់លើភាពធ្ងន់ធ្ងរនៃការបំពាន។"
+    },
+    {
+      "type": "vocab",
+      "question": "ឃ្លា 'take the reins' ក្នុងអត្ថបទដើម 'He hasn't been seen since taking the reins of the Islamic Republic of Iran' មានន័យដូចម្ដេច?",
+      "options": [
+        "A. បោះបង់អំណាច",
+        "B. គ្រប់គ្រង",
+        "C. ជិះសេះ",
+        "D. ថ្លែងសុន្ទរកថា"
+      ],
+      "answer": 1,
+      "explanation": "take the reins ជាពាក្យផ្សំថេរ មានន័យថា 'គ្រប់គ្រង ឬដឹកនាំ' នៅទីនេះសំដៅលើការដឹកនាំរបស់ Mujtaba លើអ៊ីរ៉ង់។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តាមរបាយការណ៍ តើបទឈប់បាញ់រវាងអាមេរិក និងអ៊ីរ៉ង់ស្ថិតក្នុងស្ថានភាពបែបណា?",
+      "options": [
+        "A. នៅមានប្រសិទ្ធភាព",
+        "B. បានបញ្ចប់ជាអចិន្ត្រៃយ៍",
+        "C. ផ្អាកជាបណ្ដោះអាសន្ន ស្ថានការណ៍ប្រែប្រួល",
+        "D. ត្រូវបានអង្គការសហប្រជាជាតិបង្ខំឱ្យស្ដារឡើងវិញ"
+      ],
+      "answer": 2,
+      "explanation": "អត្ថបទដើមបញ្ជាក់ថា 'បទឈប់បាញ់ត្រូវបានផ្អាកជាបណ្ដោះអាសន្ន ប៉ុន្តែស្ថានការណ៍នៅតែប្រែប្រួល' ដូច្នេះជ្រើសរើស C។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើសេចក្តីថ្លែងការណ៍មួយណាខាងក្រោមនេះត្រឹមត្រូវអំពីការដឹកជញ្ជូនតាមច្រកសមុទ្រហូមូស?",
+      "options": [
+        "A. នៅតែមាននាវា 110 គ្រឿងឆ្លងកាត់ជារៀងរាល់ថ្ងៃ",
+        "B. មាននាវាប្រហែល 20 គ្រឿងឆ្លងកាត់ក្នុងរយៈពេល 24 ម៉ោង",
+        "C. នាវាទាំងអស់ប្រើផ្លូវភាគខាងជើង",
+        "D. អ៊ីរ៉ង់បានបិទច្រកសមុទ្រទាំងស្រុង"
+      ],
+      "answer": 1,
+      "explanation": "អត្ថបទដើមបានរៀបរាប់ថា 'ក្នុងរយៈពេល 24 ម៉ោងមុន មាននាវាប្រហែល 20 គ្រឿងអាចឆ្លងកាត់បាន' ខណៈពេលមុនសង្គ្រាមមាន 110 គ្រឿងក្នុងមួយថ្ងៃ ដូច្នេះ B ត្រឹមត្រូវ។"
+    },
+    {
+      "type": "comprehension",
+      "question": "នៅក្នុងពិធីបុណ្យសពរបស់អតីតមេដឹកនាំកំពូលអ៊ីរ៉ង់ តើកូនប្រុសរបស់គាត់ឈ្មោះ មូចតាបា ខុមេនី មានអាកប្បកិរិយាយ៉ាងដូចម្តេច?",
+      "options": [
+        "A. បង្ហាញខ្លួនជាសាធារណៈ និងថ្លែងសុន្ទរកថា",
+        "B. មិនបានបង្ហាញខ្លួនជាសាធារណៈ ទំនាក់ទំនងតែតាមរយៈសេចក្តីថ្លែងការណ៍ជាលាយលក្ខណ៍អក្សរ",
+        "C. ធ្វើជាម្ចាស់ផ្ទះពិធីបុណ្យសពនៅអ៊ីរ៉ាក់",
+        "D. ប្រកាសលាឈប់ពីតំណែង"
+      ],
+      "answer": 1,
+      "explanation": "អត្ថបទដើមបានរៀបរាប់ថា 'គាត់មិនបានបង្ហាញខ្លួនតាំងពីចូលកាន់តំណែង' 'ទំនាក់ទំនងតែតាមរយៈសេចក្តីថ្លែងការណ៍ជាលាយលក្ខណ៍អក្សរ' ដូច្នេះ B ត្រឹមត្រូវ។"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Announcer",
+      "text": "This is CNN Breaking News.",
+      "cn": "នេះជាព័ត៌មានបន្ទាន់ពី CNN ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "We're following this breaking news in the war with Iran after another night of strikes between the U.S. and Iran. Is the U.S. getting ready to return to full-scale war?",
+      "cn": "បន្ទាប់ពីការវាយប្រហារគ្នាទៅវិញទៅមកមួយយប់ទៀតរវាងអាមេរិក និងអ៊ីរ៉ង់ យើងកំពុងតាមដានព័ត៌មានបន្ទាន់នៅក្នុងសង្គ្រាមនេះជាមួយអ៊ីរ៉ង់។ តើអាមេរិកត្រៀមខ្លួនត្រឡប់ទៅរកសង្គ្រាមពេញលេញវិញឬទេ?"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "We just hit it very hard. And I'd say we hit it 20 to 1. Every time they hit us, we're going to hit them 20. And when they hit, we hit back much harder.",
+      "cn": "យើងទើបតែវាយប្រហារពួកគេយ៉ាងខ្លាំង។ ខ្ញុំសូមនិយាយថា យើងបានសងសឹកក្នុងសមាមាត្រ 20 ទល់ 1 ។ រាល់ពេលដែលពួកគេវាយប្រហារយើង យើងនឹងសងសឹកដោយកម្លាំង 20 ដង។ នៅពេលពួកគេវាយ យើងនឹងវាយតបវិញដោយកម្លាំងខ្លាំងជាង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Good morning, everyone. I'm Audie Cornish. I want to start here. The uncertainty in the region this morning. A U.S. official telling CNN the ceasefire with Iran has, quote, temporarily ceased, but the situation remains dynamic. So, overnight, the U.S. military hit 90 targets in Iran. This is video obtained by CNN. You can see here showing some damage to what is a maritime control tower in a port city in the southeastern coast of Iran. Now, Iran claims the U.S. also hit a railway bridge northeast of Tehran.",
+      "cn": "សួស្តីព្រឹក។ ខ្ញុំឈ្មោះ អូដេ ខននីស។ ខ្ញុំចង់ចាប់ផ្តើមពីត្រង់នេះ។ ស្ថានការណ៍នៅក្នុងតំបន់នេះគឺមិនច្បាស់លាស់នៅព្រឹកនេះទេ។ មន្ត្រីអាមេរិកម្នាក់បានប្រាប់ CNN ថា កិច្ចព្រមព្រៀងឈប់បាញ់ជាមួយអ៊ីរ៉ង់ត្រូវបាន 'ផ្អាកជាបណ្តោះអាសន្ន' ប៉ុន្តែស្ថានការណ៍នៅតែប្រែប្រួល។ ដូច្នេះ កាលពីយប់មិញ កងទ័ពអាមេរិកបានវាយប្រហារគោលដៅចំនួន 90 នៅក្នុងប្រទេសអ៊ីរ៉ង់។ នេះជាវីដេអូដែល CNN ទទួលបាន។ អ្នកអាចមើលឃើញនៅទីនេះ ប៉មត្រួតពិនិត្យសមុទ្រនៅកំពង់ផែមួយនៅឆ្នេរភាគអាគ្នេយ៍នៃប្រទេសអ៊ីរ៉ង់ត្រូវបានខូចខាតខ្លះ។ ឥឡូវនេះ អ៊ីរ៉ង់អះអាងថា អាមេរិកក៏បានវាយប្រហារស្ពានផ្លូវដែកមួយនៅភាគឦសាននៃទីក្រុងតេហេរ៉ង់ផងដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And if confirmed, this would be a rare case where civilian infrastructure was targeted. Iran's military says it targeted U.S. military bases in Kuwait and Bahrain. Their top negotiator posting this warning on X, quote, \"America still hasn't learned that bullying and breaking promises are no longer cost- free. If you strike, you'll get hit.\" So we're bringing in CNN's Paula Hancocks joins us from Abu Dhabi. I want to start with the targets. We know that Iran has threatened to hit back.",
+      "cn": "ប្រសិនបើត្រូវបានបញ្ជាក់ នេះនឹងក្លាយជាករណីដ៏កម្រមួយនៃការវាយប្រហារលើហេដ្ឋារចនាសម្ព័ន្ធស៊ីវិល។ កងទ័ពអ៊ីរ៉ង់បាននិយាយថា ពួកគេបានវាយប្រហារមូលដ្ឋានទ័ពអាមេរិកនៅកូវ៉ែត និងបារ៉ែន។ អ្នកតំណាងចរចារបស់ពួកគេបានចេញផ្សាយការព្រមាននេះនៅលើ X ដោយដកស្រង់ថា៖ 'អាមេរិកនៅតែមិនទាន់រៀនថា ការគំរាមកំហែង និងការក្បត់មិនមែនគ្មានតម្លៃទៀតទេ។ ប្រសិនបើអ្នកវាយ អ្នកនឹងត្រូវវាយតបវិញ។' ដូច្នេះយើងបានអញ្ជើញ ប៉ូឡា ហានកុក មកពី CNN ដែលចូលរួមជាមួយយើងពីទីក្រុងអាប៊ូដាប៊ី។ ខ្ញុំចង់ចាប់ផ្តើមពីគោលដៅ។ យើងដឹងថាអ៊ីរ៉ង់គំរាមសងសឹក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Do we have any sense of whether they were able to cause damage to U.S. military bases or civilian places in the region?",
+      "cn": "តើយើងដឹងទេថា ពួកគេអាចបង្កការខូចខាតដល់មូលដ្ឋានទ័ពអាមេរិក ឬកន្លែងស៊ីវិលនៅក្នុងតំបន់នេះបានដែរឬទេ?"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "So, Audie, we haven't had confirmation from those Gulf nations at this point as to exactly what damage there was, if there was any damage. But we do know it was a second night of sleeplessness for residents in both Bahrain and Kuwait. Bahrain saying that they had intercepted several attacks, calling it a flagrant violation of international humanitarian law. Iran also claiming that it targeted Qatar. in the retaliation against these U.S. military assets.",
+      "cn": "ដូច្នេះ អូដេ បច្ចុប្បន្ននេះយើងមិនទាន់ទទួលបានការបញ្ជាក់ពីប្រទេសឈូងសមុទ្រទាំងនេះទេ ថាតើមានការខូចខាតអ្វីខ្លះ ប្រសិនបើមាន។ ប៉ុន្តែយើងដឹងថា សម្រាប់អ្នករស់នៅក្នុងប្រទេសបារ៉ែន និងកូវ៉ែត នេះជាយប់ដែលគេងមិនលក់មួយទៀត។ បារ៉ែនបាននិយាយថា ពួកគេបានស្ទាក់ចាប់ការវាយប្រហារជាច្រើនលើក ដោយហៅថានេះជាការរំលោភយ៉ាងធ្ងន់ធ្ងរលើច្បាប់មនុស្សធម៌អន្តរជាតិ។ អ៊ីរ៉ង់ក៏បានអះអាងថា ពួកគេបានវាយប្រហារប្រទេសកាតា ដើម្បីសងសឹកចំពោះទ្រព្យសម្បត្តិយោធាអាមេរិកទាំងនេះ។"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "Now, this is really the most serious escalation in violence that we've seen since this memorandum of understanding was signed. We are hearing from many around the world concerns that this will continue to escalate. I have a statement here from the United Nations spokesperson I want to read to you saying, quote, The Secretary General reiterates that a return to full-scale hostilities would have catastrophic consequences for the peoples of the region, for international peace and security, and for the global economy.",
+      "cn": "ឥឡូវនេះ នេះពិតជាការកើនឡើងនៃអំពើហិង្សាដ៏ធ្ងន់ធ្ងរបំផុតដែលយើងបានឃើញចាប់តាំងពីការចុះហត្ថលេខាលើអនុស្សរណៈនៃការយោគយល់គ្នា។ យើងបានឮមនុស្សជាច្រើននៅជុំវិញពិភពលោកព្រួយបារម្ភថាស្ថានការណ៍នេះនឹងបន្តកើនឡើង។ ខ្ញុំមានសេចក្តីថ្លែងការណ៍ពីអ្នកនាំពាក្យអង្គការសហប្រជាជាតិនៅទីនេះ ដែលខ្ញុំចង់អានឱ្យអ្នកស្តាប់ ដោយដកស្រង់ថា៖ 'អគ្គលេខាធិការបានអះអាងឡើងវិញថា ការបន្តអរិភាពពេញលេញនឹងមានផលវិបាកមហន្តរាយសម្រាប់ប្រជាជនក្នុងតំបន់ សន្តិភាព និងសន្តិសុខអន្តរជាតិ និងសេដ្ឋកិច្ចពិភពលោក។'"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "Now, it really is focusing around the Strait of Hormuz, starting when U.S. officials say that Iran targeted three vessels in the Strait of Hormuz, which sparked this 48 hours of U.S. strikes followed by Iranian retaliation. We are seeing the number of vessels managing to get through that critical waterway lesson because of the increase in hostilities. On Wednesday, we had some facts and figures from marine traffic saying that, in the previous 24 hours, about 20 ships had managed to get through.",
+      "cn": "ឥឡូវនេះ ការផ្តោតអារម្មណ៍ពិតជាស្ថិតនៅលើច្រកសមុទ្រហ័រមូស ដោយចាប់ផ្តើមពីមន្ត្រីអាមេរិកបាននិយាយថា អ៊ីរ៉ង់បានវាយប្រហារកប៉ាល់ចំនួន 3 នៅច្រកសមុទ្រហ័រមូស ដែលបណ្តាលឱ្យមានការវាយប្រហាររយៈពេល 48 ម៉ោងរបស់អាមេរិក បន្ទាប់មកអ៊ីរ៉ង់បានសងសឹក។ យើងឃើញថា ដោយសារតែការកើនឡើងនៃអរិភាព ចំនួនកប៉ាល់ដែលអាចឆ្លងកាត់ផ្លូវទឹកដ៏សំខាន់នេះបានថយចុះ។ កាលពីថ្ងៃពុធ យើងបានដឹងពីទិន្នន័យចរាចរណ៍សមុទ្រថា ក្នុងរយៈពេល 24 ម៉ោងកន្លងមក មានកប៉ាល់ប្រហែល 20 គ្រឿងបានឆ្លងកាត់ដោយជោគជ័យ។"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "Now, bear in mind, it's usually 110 per day at the pre-war level. So, certainly, we are seeing a significant impact on the region. We're also hearing from the U.N. Maritime Agency that they still have some 6,000 seafarers that is still stranded in the Persian Gulf since this war began, so many of them since February 28th, that they are unable to get out of this waterway at this point because of these hostilities that are ongoing -- Audie.",
+      "cn": "ឥឡូវនេះ សូមចងចាំថា កម្រិតមុនសង្គ្រាមជាធម្មតាគឺ 110 គ្រឿងក្នុងមួយថ្ងៃ។ ដូច្នេះ យើងពិតជាឃើញផលប៉ះពាល់យ៉ាងខ្លាំងលើតំបន់នេះ។ យើងក៏បានដឹងពីទីភ្នាក់ងារដឹកជញ្ជូនតាមសមុទ្ររបស់អង្គការសហប្រជាជាតិថា ចាប់តាំងពីសង្គ្រាមនេះចាប់ផ្តើមមក នៅតែមាននាវិកប្រហែល 6,000 នាក់ជាប់គាំងនៅក្នុងឈូងសមុទ្រពែរ្ស ដែលភាគច្រើនមិនអាចចាកចេញពីផ្លូវទឹកនេះតាំងពីថ្ងៃទី 28 ខែកុម្ភៈ ដោយសារតែអរិភាពនៅតែបន្ត -- -- អូដេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Paula, I do want to follow up on that last part because we're coming off a NATO summit. Al Jazeera just spoke to Germany's foreign minister, and he said that they were ready to at least take some supportive action in the Strait of Hormuz. I want you to take a listen.",
+      "cn": "ប៉ូឡា ខ្ញុំចង់តាមដានផ្នែកចុងក្រោយនោះ ព្រោះយើងទើបតែបញ្ចប់កិច្ចប្រជុំកំពូលណាតូ។ ទូរទស្សន៍អាល់ហ្សាហ្សីរ៉ាទើបតែសម្ភាសរដ្ឋមន្ត្រីការបរទេសអាល្លឺម៉ង់ ដែលបាននិយាយថា ពួកគេត្រៀមខ្លួនរួចជាស្រេចក្នុងការចាត់វិធានការគាំទ្រមួយចំនួនយ៉ាងហោចណាស់នៅច្រកសមុទ្រហ័រមូស។ សូមស្តាប់។"
+    },
+    {
+      "speaker": "Johanna Wadephul",
+      "text": "And we have deployed a minesweeper in the region. We are ready to begin our work. But, of course, a permissive environment is needed. [05:05:2] So we need an agreement with Oman and with Iran that they agree that European units are doing this work. We are urging all parties to come back to the negotiation table.",
+      "cn": "យើងបានដាក់ពង្រាយនាវាបោសសម្អាតមីនមួយគ្រឿងរួចហើយនៅក្នុងតំបន់។ យើងត្រៀមខ្លួនចាប់ផ្តើមការងារ។ ប៉ុន្តែជាការពិតណាស់ ត្រូវការបរិយាកាសដែលអនុញ្ញាត។ ដូច្នេះយើងត្រូវការឈានដល់កិច្ចព្រមព្រៀងជាមួយអូម៉ង់ និងអ៊ីរ៉ង់ ដើម្បីឱ្យពួកគេយល់ព្រមឱ្យកងកម្លាំងអឺរ៉ុបអនុវត្តបេសកកម្មនេះ។ យើងជំរុញឱ្យភាគីទាំងអស់ត្រឡប់មកតុចរចាវិញ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So does that mean that these minesweepers can't get to work unless there is another ceasefire?",
+      "cn": "ដូច្នេះតើនេះមានន័យថា លើកលែងតែមានការឈប់បាញ់ម្តងទៀត បើមិនដូច្នេះទេនាវាបោសសម្អាតមីនទាំងនេះមិនអាចចាប់ផ្តើមការងារបានទេ?"
+    },
+    {
+      "speaker": "Hancocks",
+      "text": "Well, certainly, there are very few countries who are going to want to put their carriers, their personnel, in the middle of what is happening at the moment. These mines are believed to be planted by Iran in the central route through the Strait of Hormuz. There is still a northern route, which hugs the Iranian coast, but that is the route where you have to have Iranian permission and coordination. Now, many vessels don't want to do that.",
+      "cn": "អញ្ចឹង ជាការពិតណាស់ មានប្រទេសតិចណាស់ដែលសុខចិត្តដាក់នាវាផ្ទុកយន្តហោះ និងបុគ្គលិករបស់ពួកគេទៅក្នុងស្ថានការណ៍បច្ចុប្បន្ន។ មីនទាំងនេះត្រូវបានគេជឿថាត្រូវបានដាក់ដោយអ៊ីរ៉ង់នៅលើផ្លូវទឹកកណ្តាលនៃច្រកសមុទ្រហ័រមូស។ ក៏មានផ្លូវទឹកខាងជើងផងដែរ ដែលនៅជាប់ឆ្នេរអ៊ីរ៉ង់ ប៉ុន្តែផ្លូវទឹកនោះត្រូវការការអនុញ្ញាត និងការសម្របសម្រួលពីអ៊ីរ៉ង់។ ឥឡូវនេះ កប៉ាល់ជាច្រើនមិនចង់ធ្វើដូច្នោះទេ។"
+    },
+    {
+      "speaker": "Hancocks",
+      "text": "So they are using the southern route of this Strait of Hormuz, so hugging the Omani coast. And that is where this problem lies as far as Iran is concerned. They believe that they are in control of the Strait of Hormuz. They believe that this memorandum gives them control over the logistics, the coordination, and all ships transiting through have to coordinate with them and any that are trying to avoid that and go via the Omani route, some of them are being targeted.",
+      "cn": "ដូច្នេះពួកគេប្រើប្រាស់ផ្លូវទឹកខាងត្បូងនៃច្រកសមុទ្រហ័រមូស ដែលនៅជាប់ឆ្នេរអូម៉ង់។ ហើយសម្រាប់អ៊ីរ៉ង់ បញ្ហាគឺនៅត្រង់នេះ។ ពួកគេគិតថាខ្លួនគ្រប់គ្រងច្រកសមុទ្រហ័រមូស។ ពួកគេគិតថាអនុស្សរណៈនេះផ្តល់ឱ្យពួកគេនូវអំណាចគ្រប់គ្រងភស្តុភារ និងការសម្របសម្រួល ដែលកប៉ាល់ទាំងអស់ដែលឆ្លងកាត់ត្រូវតែសម្របសម្រួលជាមួយពួកគេ ហើយកប៉ាល់ណាដែលព្យាយាមជៀសវាងចំណុចនេះដោយប្រើផ្លូវទឹកអូម៉ង់ កប៉ាល់ខ្លះក្លាយជាគោលដៅ។"
+    },
+    {
+      "speaker": "Hancocks",
+      "text": "We know a Saudi tanker, a Qatari tanker earlier this week were both targeted. So when it comes to this central route, it's simply not being used by many vessels at this point, because that is where the mines are believed to be. But as I say, it's hard to believe that any country, any of these European nations offering the mine-sweeping capabilities are going to want to put their vessels and their personnel in the middle of this tit-for-tat that we are seeing at this exact moment -- Audie.",
+      "cn": "យើងដឹងថាកប៉ាល់ដឹកប្រេងសាំងអារ៉ាប៊ីសាអូឌីតមួយ និងកប៉ាល់ដឹកប្រេងកាតាមួយបានក្លាយជាគោលដៅកាលពីដើមសប្តាហ៍នេះ។ ដូច្នេះនិយាយពីផ្លូវទឹកកណ្តាលនេះ បច្ចុប្បន្នកប៉ាល់ជាច្រើនមិនប្រើប្រាស់វាទាល់តែសោះ ព្រោះវាត្រូវបានគេជឿថាមានមីន។ ប៉ុន្តែដូចដែលខ្ញុំបាននិយាយ វាពិបាកនឹងជឿថាប្រទេសណាមួយ ប្រទេសអឺរ៉ុបណាដែលផ្តល់សមត្ថភាពបោសសម្អាតមីន នឹងសុខចិត្តដាក់កប៉ាល់ និងបុគ្គលិករបស់ពួកគេទៅក្នុងស្ថានភាពដែលយើងឃើញនាពេលនេះ -- -- អូឌី។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's Paula Hancock speaking to us from Abu Dhabi. We want to talk about what's been happening in Iran domestically. This new round of strikes is coming as the week-long funeral procession for Iran's former supreme leader nears an end. Earlier today, we were talking about this marathon funeral continued in Iraq, where mourners carried Ali Khamenei's coffin in a crowded mosque. His coffin is now being taken to its final resting place, the town where he was born in Iran.",
+      "cn": "ល្អណាស់ នេះជារបាយការណ៍ពី ប៉ូឡា ហានកុក មកពីទីក្រុងអាប៊ូដាប៊ី។ សូមនិយាយអំពីស្ថានការណ៍ក្នុងប្រទេសអ៊ីរ៉ង់។ កូដកម្មជុំថ្មីនេះកើតឡើងនៅពេលដែលពិធីបុណ្យសពរយៈពេលមួយសប្តាហ៍របស់អតីតមេដឹកនាំកំពូលអ៊ីរ៉ង់ជិតឈានដល់ទីបញ្ចប់។ កាលពីព្រឹកនេះ យើងបាននិយាយអំពីពិធីបុណ្យសពម៉ារ៉ាតុងនេះដែលបន្តនៅក្នុងប្រទេសអ៊ីរ៉ាក់ ដោយអ្នកកាន់ទុក្ខបានលើកមឈូសរបស់ អាលី ខាមេណេអ៊ី នៅក្នុងវិហារអ៊ីស្លាមដ៏មមាញឹកមួយ។ ឥឡូវនេះ មឈូសរបស់គាត់កំពុងត្រូវបានដឹកជញ្ជូនទៅកាន់កន្លែងសម្រាកចុងក្រោយរបស់គាត់ គឺទីក្រុងកំណើតរបស់គាត់នៅក្នុងប្រទេសអ៊ីរ៉ង់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The question looming over today's events, will the new Supreme Leader, Khamenei's son, make an appearance? So, CNN's Fred Pleitgen is in Tehran. CNN is operating inside the country with permission of the government, and CNN retains full editorial control of our reporting. Fred, I want to start with the former leader being finally laid to rest. The question has been, given the threats to Iran's leadership, whether his son Mojtaba would be there today, and what's the sense of whether that could happen?",
+      "cn": "សំណួរដែលមិនទាន់មានចម្លើយនៅក្នុងព្រឹត្តិការណ៍ថ្ងៃនេះគឺថា តើកូនប្រុសរបស់មេដឹកនាំកំពូលថ្មីឈ្មោះ Khamenei នឹងបង្ហាញមុខដែរឬទេ? Fred Pleitgen របស់ CNN នៅទីក្រុង Tehran ។ CNN កំពុងរាយការណ៍នៅក្នុងប្រទេស Iran ក្រោមការអនុញ្ញាតពីរដ្ឋាភិបាល ហើយ CNN រក្សាសិទ្ធិគ្រប់គ្រងការកែសម្រួលពេញលេញលើរបាយការណ៍របស់យើង។ Fred ខ្ញុំចង់ចាប់ផ្តើមជាមួយនឹងការបញ្ចុះសពចុងក្រោយរបស់អតីតមេដឹកនាំ។ សំណួរដែលគេសួរជានិច្ចគឺថា តើកូនប្រុសរបស់គាត់ឈ្មោះ Mojtaba នឹងមកដល់ថ្ងៃនេះទេ ដោយសារតែការគំរាមកំហែងដល់ថ្នាក់ដឹកនាំរបស់ Iran ហើយតើវាអាចទៅរួចប៉ុណ្ណា?"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "Hi there, Audie. Well, I think it's highly unlikely that Mojtaba Khamenei is going to make an appearance in Mashhad. You're absolutely right. He hasn't been seen since taking the reins of the Islamic Republic of Iran. He's really only communicated by our written statement, so we don't even have any audio messages from him. One of the things, though, that the leadership here says is they say that he's fully in charge, he's fully in control.",
+      "cn": "សួស្តី Audi ។ ខ្ញុំគិតថាលទ្ធភាពដែល Mojtaba Khamenei បង្ហាញខ្លួននៅ Mashhad គឺតិចតួចណាស់។ អ្នកនិយាយត្រូវទាំងស្រុង។ តាំងពីគាត់ចូលកាន់កាប់សាធារណរដ្ឋអ៊ីស្លាមអ៊ីរ៉ង់មក គាត់មិនដែលបង្ហាញខ្លួនទេ។ តាមពិតគាត់ទាក់ទងតែតាមរយៈសេចក្តីថ្លែងការណ៍ជាលាយលក្ខណ៍អក្សរប៉ុណ្ណោះ ដូច្នេះយើងមិនមានសូម្បីតែឯកសារសំឡេងណាមួយរបស់គាត់។ ទោះយ៉ាងណា អ្វីដែលថ្នាក់ដឹកនាំនៅទីនេះនិយាយគឺថាពួកគេថាគាត់គ្រប់គ្រងស្ថានការណ៍ទាំងស្រុង ហើយស្ថិតក្រោមការគ្រប់គ្រងទាំងស្រុង។"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "Certainly, if you ask the supporters of the Islamic Republic of Iran, and many of them, of course, were out here on the streets over the past couple of days as this marathon funeral ceremonies were going on here in Tehran and other cities in Iran, as you mentioned, also all the way to Iraq and the holiest Shiite cities there, finally ending in Mashhad in the east of Iran today, that many people came out. They were out in force. They were very angry at the United States.",
+      "cn": "ពិតណាស់ ប្រសិនបើអ្នកសួរអ្នកគាំទ្រសាធារណរដ្ឋអ៊ីស្លាមអ៊ីរ៉ង់ ពួកគេជាច្រើននាក់ ពិតណាស់ ក្នុងរយៈពេលប៉ុន្មានថ្ងៃកន្លងមកនេះ នៅពេលដែលពិធីបុណ្យសពដ៏យូរអង្វែងនេះត្រូវបានប្រារព្ធឡើងនៅទីក្រុង Tehran និងទីក្រុងដទៃទៀតនៃប្រទេសអ៊ីរ៉ង់ ដូចដែលអ្នកបានលើកឡើង បានលាតសន្ធឹងរហូតដល់ប្រទេសអ៊ីរ៉ាក់ និងទីក្រុងស៊ីអ៊ីតដ៏ពិសិដ្ឋបំផុត ហើយចុងក្រោយនៅថ្ងៃនេះបានបញ្ចប់នៅ Mashhad ភាគខាងកើតប្រទេសអ៊ីរ៉ង់ មនុស្សជាច្រើនបានចេញមក។ ពួកគេបានចេញមកយ៉ាងច្រើនកុះករ ហើយខឹងសម្បារយ៉ាងខ្លាំងចំពោះសហរដ្ឋអាមេរិក។"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "They called for revenge for the killing of Ali Khamenei. Essentially, what the people here are saying is whether or not Mojtaba Khamenei makes an appearance, which seems pretty unlikely at this point in time, that he is the one calling the shots, that he is also the one directing Iran's reaction, for instance, to those U.S. strikes and also to all the negotiations that are going on with the U.S. as well.",
+      "cn": "ពួកគេអំពាវនាវឱ្យសងសឹកចំពោះការស្លាប់របស់ Ali Khamenei ។ តាមពិតទៅ អ្វីដែលមនុស្សនៅទីនេះកំពុងនិយាយគឺថា មិនថា Mojtaba Khamenei លេចមុខឬអត់នោះទេ -- បច្ចុប្បន្ននេះវាហាក់ដូចជាមិនទំនងទេ -- គាត់គឺជាអ្នកដែលចេញបញ្ជា និងជាអ្នកដឹកនាំការឆ្លើយតបរបស់អ៊ីរ៉ង់ ឧទាហរណ៍ចំពោះការវាយប្រហារតាមអាកាសរបស់អាមេរិក និងការចរចាទាំងអស់ជាមួយអាមេរិក។"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "So, they say, whether or not he's seen in public, he certainly is a big presence as far as running the Islamic Republic is concerned. And one of the things, Audie, by the way, that we also have to keep in mind is that the office of Supreme Leader is actually a pretty large body. It's also a big administration as well.",
+      "cn": "ដូច្នេះ ពួកគេនិយាយថា មិនថាគាត់បង្ហាញខ្លួនជាសាធារណៈឬអត់ទេ ទាក់ទងនឹងការគ្រប់គ្រងសាធារណរដ្ឋអ៊ីស្លាម គាត់ពិតជាបុគ្គលសំខាន់ម្នាក់។ និយាយពីនេះ អូឌី ចំណុចមួយទៀតដែលយើងត្រូវចងចាំគឺថា ការិយាល័យមេដឹកនាំកំពូលពិតជាស្ថាប័នធំមួយ ហើយក៏ជាប្រព័ន្ធរដ្ឋបាលដ៏ធំផងដែរ។"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "So in any case, that seems to be functioning in a way that at least is effective enough to control those negotiations, but then also, of course, to oversee the ceremonies that we're seeing there happening in Mashhad, which is, of course, the holiest place in Shia Islam on Iranian soil -- Audie.",
+      "cn": "ដូច្នេះ មិនថាយ៉ាងណាទេ ប្រព័ន្ធនេះហាក់ដូចជាដំណើរការយ៉ាងមានប្រសិទ្ធភាព យ៉ាងហោចណាស់ក៏គ្រប់គ្រងការចរចាទាំងនោះ ហើយពិតណាស់ ត្រួតពិនិត្យពិធីសាសនាដែលយើងឃើញនៅ Mashhad -- Mashhad គឺជាកន្លែងពិសិដ្ឋបំផុតនៃសាសនាអ៊ីស្លាមនិកាយស៊ីអ៊ីតនៅក្នុងប្រទេសអ៊ីរ៉ង់ -- Audi ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "For people who aren't familiar with how this is supposed to work, why the length of time between the Supreme Leader's death and these funeral proceedings?",
+      "cn": "សម្រាប់អ្នកដែលមិនសូវស្គាល់ដំណើរការនេះ ហេតុអ្វីបានជាមានចន្លោះពេលយូរបែបនេះរវាងការសោយទិវង្គតរបស់មេដឹកនាំកំពូល និងពិធីបុណ្យសព?"
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "Well, that's -- yeah, that's basically due to the war that was going on between the United States, Israel, and then Iran on the other side. You'll recall that Ayatollah Ali Khamenei was killed in the early hours of the U.S. and Israel's attacks on Iran in a massive airstrike here in Tehran on his headquarters in the center of the city on February 28. Of course, the Iranians have been vowing revenge, but then the actual kinetic operations between the U.S.",
+      "cn": "អញ្ចឹង វា  --  បាទ វាភាគច្រើនដោយសារតែសង្គ្រាមដែលកំពុងបន្តរវាងអាមេរិក អ៊ីស្រាអែល និងអ៊ីរ៉ង់។ អ្នកប្រហែលជាចាំថា អាយ៉ាតូឡា អាលី ខាមេណេអ៊ី ត្រូវបានសម្លាប់នៅព្រឹកព្រលឹមនៃការវាយប្រហាររបស់អាមេរិក និងអ៊ីស្រាអែលមកលើអ៊ីរ៉ង់ នៅពេលដែលពួកគេបានធ្វើការវាយប្រហារតាមអាកាសយ៉ាងធំមួយទៅលើទីស្នាក់ការកណ្តាលរបស់គាត់នៅកណ្តាលទីក្រុងតេហេរ៉ង់ នៅថ្ងៃទី 28 ខែកុម្ភៈ។ ជាការពិតណាស់ ជនជាតិអ៊ីរ៉ង់បានស្បថថានឹងសងសឹក ប៉ុន្តែបន្ទាប់មកអាមេរិក"
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "and Iran, and of course, Israel on the U.S.'s side went on for an extended period of time, and the Iranians simply felt, that it was too dangerous and logistically difficult to conduct the large funeral ceremonies that they wanted to conduct. And if you look at what's been going on here over the past couple of days, it's been one event after another. I think you called it a marathon funeral ceremony, and that certainly is what it was.",
+      "cn": "និងអ៊ីរ៉ង់ ហើយជាការពិតណាស់ អ៊ីស្រាអែលនៅខាងអាមេរិក ប្រតិបត្តិការយោធាជាក់ស្តែងបានបន្តអស់រយៈពេលយូរសមរម្យ ហើយជនជាតិអ៊ីរ៉ង់គ្រាន់តែគិតថា វាមានគ្រោះថ្នាក់ខ្លាំងពេក និងពិបាកខាងភស្តុភារក្នុងការរៀបចំពិធីបុណ្យសពដ៏ធំបែបដែលពួកគេចង់បាន។ ប្រសិនបើអ្នកក្រឡេកមើលអ្វីដែលបានកើតឡើងនៅទីនេះក្នុងរយៈពេលប៉ុន្មានថ្ងៃចុងក្រោយនេះ វាគឺជាព្រឹត្តិការណ៍មួយបន្ទាប់ពីមួយផ្សេងទៀត។ ខ្ញុំគិតថាអ្នកហៅវាថាជាពិធីបុណ្យសពម៉ារ៉ាតុង ហើយវាពិតជាដូច្នោះមែន។"
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "The body, not just of Ayatollah Ali Khamenei, because some members of his family were also killed in that stripe, including a 14-month-old granddaughter. They lie in state for two days. Then there was a very big procession here in Tehran. Then the body was brought to a very important holy site in Iran, then to the two main Shia holy sites, Najaf and Karbala, on Iraqi soil, and then finally today to Mashhad in the east of Iran.",
+      "cn": "សាកសពមិនត្រឹមតែរួមបញ្ចូលអាយ៉ាតូឡា អាលី ខាមេណេអ៊ី ប៉ុណ្ណោះទេ ព្រោះសមាជិកគ្រួសាររបស់គាត់មួយចំនួនក៏បានស្លាប់ក្នុងការវាយប្រហារនោះដែរ រួមទាំងចៅស្រីអាយុ 14 ខែម្នាក់។ ពួកគេបានតម្កល់សពអស់រយៈពេលពីរថ្ងៃ។ បន្ទាប់មកមានក្បួនដង្ហែដ៏ធំមួយនៅទីក្រុងតេហេរ៉ង់។ បន្ទាប់មកសាកសពត្រូវបានដឹកជញ្ជូនទៅកាន់ទីសក្ការៈបូជាដ៏សំខាន់មួយនៅក្នុងប្រទេសអ៊ីរ៉ង់ បន្ទាប់មកទៅកាន់ទីសក្ការៈបូជាស៊ីអ៊ីតសំខាន់ៗពីរនៅក្នុងប្រទេសអ៊ីរ៉ាក់ គឺណាចាហ្វ និងការបាឡា ហើយចុងក្រោយនៅថ្ងៃនេះទៅកាន់ទីក្រុងម៉ាសហាដ នៅភាគខាងកើតប្រទេសអ៊ីរ៉ង់។"
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "So, as you can imagine, this is a huge logistical operation on the part of the authorities, on the part of organizations that are pitching in as well. And then, of course, also big logistic operation as far as people traveling to those places on planes, trains, and automobiles, that that is something that required a lot of operation by the authorities. And they simply said they didn't have the capacity to do that, as that ceasefire between the U.S.",
+      "cn": "ដូច្នេះ អ្នកអាចស្រមៃបានថា វាជាប្រតិបត្តិការភស្តុភារដ៏ធំមួយសម្រាប់អាជ្ញាធរ និងអង្គការដែលពាក់ព័ន្ធ។ ហើយជាការពិតណាស់ សម្រាប់មនុស្សដែលធ្វើដំណើរតាមយន្តហោះ រថភ្លើង និងរថយន្តទៅកាន់កន្លែងទាំងនេះ វាក៏ជាភស្តុភារដ៏ធំមួយដែរ ដែលតម្រូវឱ្យអាជ្ញាធរធ្វើប្រតិបត្តិការច្រើន។ ពួកគេគ្រាន់តែនិយាយថា ពួកគេមិនមានសមត្ថភាពធ្វើវាទេ ដោយសារតែអាមេរិក"
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "and Iran, of course, was extremely shaky before the signing of that memorandum of understanding. And now we're seeing it seems shaky once again -- Audie.",
+      "cn": "និងអ៊ីរ៉ង់ បទឈប់បាញ់គឺមិនស្ថិតស្ថេរខ្លាំងណាស់មុនពេលចុះហត្ថលេខាលើអនុស្សរណៈនៃការយោគយល់គ្នា។ ឥឡូវនេះយើងឃើញថាវាហាក់ដូចជាមិនស្ថិតស្ថេរម្តងទៀត  --  អូឌី។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "One other thing, I've been reading that there are people with signs in English there, and that there have been calls for revenge within the crowd. Can you talk about the mood in and around the cities as they are going through this process? Sure, absolutely. And you're absolutely right. There are a lot of people with signs in English calling for revenge against the United States, revenge against Israel, revenge specifically against U.S. President Donald Trump.",
+      "cn": "រឿងមួយទៀត ខ្ញុំបានអានថាមានមនុស្សកាន់ផ្លាកសញ្ញាជាភាសាអង់គ្លេសនៅទីនោះ ហើយមានមនុស្សនៅក្នុងហ្វូងមនុស្សអំពាវនាវឱ្យសងសឹក។ តើអ្នកអាចនិយាយអំពីអារម្មណ៍នៅក្នុង និងជុំវិញទីក្រុងបានទេ? ពិតណាស់។ អ្នកនិយាយត្រូវណាស់។ មានមនុស្សជាច្រើនកាន់ផ្លាកសញ្ញាជាភាសាអង់គ្លេស អំពាវនាវឱ្យសងសឹកអាមេរិក សងសឹកអ៊ីស្រាអែល និងជាពិសេសសងសឹកប្រធានាធិបតីអាមេរិក ដូណាល់ ត្រាំ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And a lot of those signs are obviously meant to show that anger also to Western audiences and to U.S. audiences as well. I can tell you from anywhere that we've turned up at these funeral processions, people were very keen to show us those signs. People in, you know, even if they didn't speak very good English, in English, told us that they would have revenge on the United States and on U.S. President Donald Trump.",
+      "cn": "ហើយផ្លាកសញ្ញាជាច្រើនក៏ច្បាស់ជាមានបំណងបង្ហាញកំហឹងទៅកាន់ទស្សនិកជនលោកខាងលិច និងអាមេរិកផងដែរ។ ខ្ញុំអាចប្រាប់អ្នកថា មិនថាយើងទៅទីណាក្នុងចំណោមក្បួនដង្ហែបុណ្យសពទាំងនេះទេ មនុស្សមានការខ្នះខ្នែងយ៉ាងខ្លាំងក្នុងការបង្ហាញផ្លាកសញ្ញាទាំងនេះដល់យើង។ សូម្បីតែមនុស្សមួយចំនួនដែលនិយាយភាសាអង់គ្លេសមិនសូវពូកែក៏ប្រាប់យើងជាភាសាអង់គ្លេសថា ពួកគេនឹងសងសឹកអាមេរិក និងប្រធានាធិបតីអាមេរិក ដូណាល់ ត្រាំ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So that whole notion of revenge is one that is extremely important to the supporters of Ayatollah Ali Khamenei, and they certainly did come out in force here on the ground over the past couple of days. We have to caveat that, of course, there are people here in this country who opposed Ayatollah Ali Khamenei's role and his rule.",
+      "cn": "ដូច្នេះ គំនិតនៃការសងសឹកគឺមានសារៈសំខាន់ខ្លាំងណាស់សម្រាប់អ្នកគាំទ្ររបស់អាយ៉ាតូឡា អាលី ខាមេណេអ៊ី ហើយពួកគេពិតជាបានបង្ហាញខ្លួនយ៉ាងច្រើនកុះករនៅទីនេះក្នុងរយៈពេលប៉ុន្មានថ្ងៃចុងក្រោយនេះ។ ជាការពិតណាស់ យើងត្រូវតែបញ្ជាក់ថា មានមនុស្សនៅក្នុងប្រទេសនេះដែលប្រឆាំងនឹងតួនាទី និងការដឹកនាំរបស់អាយ៉ាតូឡា អាលី ខាមេណេអ៊ី។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But we did see over the past few days, as these processions were going on, that the government here was able to bring out people in force with many hundreds of thousands of people coming on the streets, specifically for that procession that happened in Tehran and really voiced their support.",
+      "cn": "ប៉ុន្តែក្នុងរយៈពេលប៉ុន្មានថ្ងៃចុងក្រោយនេះ នៅពេលដែលក្បួនដង្ហែទាំងនេះបានដំណើរការទៅមុខ យើងបានឃើញថារដ្ឋាភិបាលអាចប្រមូលផ្តុំមនុស្សយ៉ាងច្រើន រាប់រយពាន់នាក់បានចេញមកតាមដងផ្លូវ ជាពិសេសនៅក្នុងក្បួនដង្ហែនៅទីក្រុងតេហេរ៉ង់ ដែលពួកគេពិតជាបានបង្ហាញការគាំទ្រ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I think that it -- the power, the people who are in power here in this country certainly see that as also shoring up the support that they have as they are in these negotiations with the United States and now, again, in that standoff with the United States as well -- Audie.",
+      "cn": "ហើយខ្ញុំគិតថា អ្នកកាន់អំណាចនៅក្នុងប្រទេសនេះពិតជាគិតថាវាពង្រឹងការគាំទ្ររបស់ពួកគេ ដោយសារតែពួកគេកំពុងចរចាជាមួយអាមេរិក ហើយឥឡូវនេះកំពុងប្រឈមមុខជាមួយអាមេរិកម្តងទៀត  --  អូដេត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's our Fred Pleitgen, joining us. He's live in Tehran. Thank you so much. And coming up on CNN THIS MORNING, we're going to talk about the strategy out of Tehran, whether they are trying to box President Trump in, keep the clock ticking until the U.S. midterm election day. Plus, President Trump ditches the new Air Force One for at least one leg of his trip home. We're going to find out what's behind that switch up. And in the state of Maine, Graham Platner is out of the Senate race.",
+      "cn": "ល្អ នោះគឺជាលោក ហ្វ្រេដ ផ្លេតហ្គេន របស់យើង ដែលកំពុងផ្សាយបន្តផ្ទាល់ពីទីក្រុងតេហេរ៉ង់។ សូមអរគុណច្រើន។ បន្ទាប់នៅក្នុងកម្មវិធី CNN This Morning យើងនឹងពិភាក្សាអំពីយុទ្ធសាស្ត្ររបស់ទីក្រុងតេហេរ៉ង់ ថាតើពួកគេកំពុងព្យាយាមដាក់ប្រធានាធិបតីត្រាំក្នុងស្ថានភាពលំបាក ដោយអូសពេលរហូតដល់ថ្ងៃបោះឆ្នោតពាក់កណ្តាលអាណត្តិរបស់អាមេរិកដែរឬទេ។ លើសពីនេះ ប្រធានាធិបតីត្រាំបានបោះបង់ចោលយន្តហោះ Air Force One ថ្មីយ៉ាងហោចណាស់មួយផ្នែកនៃការធ្វើដំណើរត្រឡប់មកវិញរបស់គាត់។ យើងនឹងស្វែងយល់ពីមូលហេតុនៃការផ្លាស់ប្តូរនេះ។ នៅរដ្ឋ Maine លោក Graham Plattner បានដកខ្លួនចេញពីការប្រកួតប្រជែងព្រឹទ្ធសភា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Democrats have to find a new candidate in one of their most important races of the midterms. GRAHAM PLATNER (D),",
+      "cn": "គណបក្សប្រជាធិបតេយ្យត្រូវតែស្វែងរកបេក្ខជនថ្មីនៅក្នុងការប្រកួតប្រជែងពាក់កណ្តាលអាណត្តិដ៏សំខាន់បំផុតមួយរបស់ពួកគេ។ លោក Graham Plattner (គណបក្សប្រជាធិបតេយ្យ),"
+    },
+    {
+      "speaker": "Former Maine Senate Candidate",
+      "text": "Accusations are supposed to be the beginning of things, not the end.",
+      "cn": "ការចោទប្រកាន់គួរតែជាការចាប់ផ្តើមនៃរឿង មិនមែនជាការបញ្ចប់នោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, when President Trump left Turkey for England on the first leg of his trip home, he was on the old Air Force One instead of his new Qatari-donated plane. And the switch came at the urging of the Secret Service. A source tells CNN they were concerned about the security capabilities of the new aircraft in international settings. The president claims that he sent the Qatari-gifted jet to Milton Hall, Air Force Base in the U.K. to give our soldiers, quote, \"a chance to see it\".",
+      "cn": "ដូច្នេះ នៅពេលដែលប្រធានាធិបតីត្រាំចាកចេញពីប្រទេសទួរគីទៅកាន់ចក្រភពអង់គ្លេស ជាចំណតទីមួយនៃការធ្វើដំណើរត្រឡប់មកវិញរបស់គាត់ គាត់បានជិះយន្តហោះ Air Force One ចាស់ ជំនួសឱ្យយន្តហោះថ្មីដែលបរិច្ចាគដោយប្រទេសកាតា។ ការផ្លាស់ប្តូរនេះត្រូវបានធ្វើឡើងតាមការជំរុញរបស់ទីភ្នាក់ងារសន្តិសុខសម្ងាត់។ ប្រភពមួយបានប្រាប់ CNN ថាពួកគេព្រួយបារម្ភអំពីសមត្ថភាពសន្តិសុខរបស់យន្តហោះថ្មីនៅក្នុងបរិយាកាសអន្តរជាតិ។ ប្រធានាធិបតីបានអះអាងថា គាត់បានបញ្ជូនយន្តហោះដែលកាតាផ្តល់ឱ្យទៅកាន់មូលដ្ឋានទ័ពអាកាស Milton Hall ក្នុងប្រទេសអង់គ្លេស ដើម្បីឱ្យទាហានរបស់យើង 'មានឱកាសមើលវា'។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But that's left reporters with a lot of questions.",
+      "cn": "ប៉ុន្តែនេះបានបន្សល់ទុកនូវសំណួរជាច្រើនសម្រាប់អ្នកសារព័ត៌មាន។"
+    },
+    {
+      "speaker": "",
+      "text": "Do you think there wasn't a security concern?",
+      "cn": "តើអ្នកគិតថាគ្មានបញ្ហាសន្តិសុខទេ?"
+    },
+    {
+      "speaker": "Trump",
+      "text": "No, no. Why would --",
+      "cn": "ទេ ទេ។ ហេតុអ្វីបានជា  --"
+    },
+    {
+      "speaker": "",
+      "text": "Do you know why they had us close our window blinds? That was not usual.",
+      "cn": "តើអ្នកដឹងទេថាហេតុអ្វីបានជាពួកគេឱ្យយើងបិទវាំងនន? នេះមិនមែនជារឿងធម្មតាទេ។"
+    },
+    {
+      "speaker": "Trump",
+      "text": "Well, yeah, because you're probably on a dangerous flight because of the sleazebags that we have to deal with.",
+      "cn": "អញ្ចឹង បាទ ព្រោះអ្នកប្រហែលជាកំពុងជិះយន្តហោះដែលមានគ្រោះថ្នាក់ ព្រោះយើងត្រូវដោះស្រាយជាមួយមនុស្សអាក្រក់ទាំងនោះ។"
+    },
+    {
+      "speaker": "",
+      "text": "Iran was possibly thinking --",
+      "cn": "អ៊ីរ៉ង់ប្រហែលជាកំពុងគិត  --"
+    },
+    {
+      "speaker": "Trump",
+      "text": "Yeah. I mean, if they ask you to close your windows, probably they feel that way. They didn't ask me to close mine, but if they did, I would have done it.",
+      "cn": "បាទ។ ខ្ញុំចង់និយាយថា ប្រសិនបើពួកគេឱ្យអ្នកបិទបង្អួច ទំនងជាពួកគេគិតដូច្នេះ។ ពួកគេមិនបានឱ្យខ្ញុំបិទទេ ប៉ុន្តែប្រសិនបើពួកគេឱ្យខ្ញុំបិទ ខ្ញុំនឹងធ្វើតាម។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So we're bringing in Becca Wasser, defense lead at \"Bloomberg Economics\". Becca, we've talked about this plane in the past, what it would cost to retrofit it. And now we are here, right, in the moment when it has to travel internationally. And I want you to help clarify a thing. I mean, sometimes the flight attendant tells you to put the shades down because of the sun. So what do you hear between this conversation of? Is it a security concern or something else?",
+      "cn": "ឥឡូវនេះយើងសូមស្វាគមន៍លោកស្រី បេកា វ៉ាសឺរ ប្រធានផ្នែកសេដ្ឋកិច្ចការពារជាតិរបស់ Bloomberg ។ លោកស្រី បេកា យើងបានពិភាក្សាអំពីយន្តហោះនេះពីមុនមក និងការចំណាយលើការកែប្រែវា។ ហើយឥឡូវនេះ វាពិតជាត្រូវការហោះហើរបេសកកម្មអន្តរជាតិ។ ខ្ញុំចង់ឱ្យអ្នកជួយបញ្ជាក់រឿងមួយ។ ខ្ញុំចង់និយាយថា ពេលខ្លះបុគ្គលិកជើងហោះហើរឱ្យអ្នកបិទវាំងននដោយសារពន្លឺថ្ងៃ។ តើអ្នកឮអ្វីពីការសន្ទនានេះ? តើវាជាបញ្ហាសន្តិសុខ ឬអ្វីផ្សេងទៀត?"
+    },
+    {
+      "speaker": "Becca Wasser",
+      "text": "Listen, I think what's happening here is the efforts to try and retrofit this aircraft so quickly means that there are some gaps in what it needs to be a secure Air Force One for an international visit. And what I'm hearing between all of this is really the lack of three things that caused him to fly home on the older Air Force One. And it's about security. It's about communications and it's about survivability.",
+      "cn": "ស្តាប់ទៅ ខ្ញុំគិតថាអ្វីដែលកំពុងកើតឡើងនៅពេលនេះគឺថា ការព្យាយាមកែប្រែយន្តហោះនេះយ៉ាងឆាប់រហ័សមានន័យថា វានៅតែមានចំណុចខ្វះខាតមួយចំនួនក្នុងការក្លាយជា Air Force One ដែលមានសុវត្ថិភាពសម្រាប់ការធ្វើទស្សនកិច្ចអន្តរជាតិ។ អ្វីដែលខ្ញុំឮពីរឿងទាំងអស់នេះ តាមពិតគឺជាធាតុផ្សំបីយ៉ាងដែលបាត់បង់ ដែលនាំឱ្យគាត់ត្រឡប់មកវិញជាមួយ Air Force One ចាស់។ នោះគឺសន្តិសុខ សមត្ថភាពទំនាក់ទំនង និងសមត្ថភាពរស់រានមានជីវិត។"
+    },
+    {
+      "speaker": "Becca Wasser",
+      "text": "So if, you know, there was this rush to trying get the Qatari aircraft to be his Air Force One, that means that it's probably lacking some of its missile detection and countermeasures that it likely needs. Additionally, it probably doesn't have the full secure communications network that President Trump would also need to essentially prosecute a war from afar with some of the strikes on Iran that we've seen in the past two days. And then lastly, it probably lacks some of the basic survivability that it would need.",
+      "cn": "ដូច្នេះ ប្រសិនបើយើងប្រញាប់យកយន្តហោះកាតានេះមកធ្វើជា Air Force One របស់លោក វាអាចខ្វះឧបករណ៍រកឃើញមីស៊ីល និងវិធានការទប់ទល់។ លើសពីនេះ វាអាចគ្មានបណ្តាញទំនាក់ទំនងសម្ងាត់ពេញលេញ ដែលលោកប្រធានាធិបតី Trump ត្រូវការដើម្បីបញ្ជាសង្គ្រាមពីចម្ងាយ ដូចដែលយើងបានឃើញការវាយប្រហារលើអ៊ីរ៉ង់កាលពីពីរថ្ងៃមុន។ ចុងក្រោយ វាអាចខ្វះសមត្ថភាពរស់រានមានជីវិតជាមូលដ្ឋានមួយចំនួន។"
+    },
+    {
+      "speaker": "Becca Wasser",
+      "text": "Some of those Air Force One airplanes really were built to be survivable under even the worst things like being able to survive a potential nuclear blast. And it is very clear that the Qatari jet definitely lacks that capability.",
+      "cn": "យន្តហោះ Air Force One ខ្លះត្រូវបានរចនាឡើងដើម្បីរស់រានក្នុងស្ថានភាពអាក្រក់បំផុត ដូចជាអាចទប់ទល់នឹងការផ្ទុះនុយក្លេអ៊ែរ។ ជាក់ស្តែង យន្តហោះកាតានេះខ្វះសមត្ថភាពនេះទាំងស្រុង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Becca, I'm sorry, this is crazy. These are the three things that are the point of an Air Force One. I mean, security, communications, and survivability. I mean, was this kind of inevitable? I had always wondered, would it have to be gutted to the studs to be what the U.S. needs it to be.",
+      "cn": "Bekah សុំទោស វាឆ្កួតណាស់។ របស់ទាំងបីនេះគឺជាស្នូលរបស់ Air Force One។ ខ្ញុំមានន័យថា សន្តិសុខ សមត្ថភាពទំនាក់ទំនង និងសមត្ថភាពរស់រាន។ តើនេះជៀសមិនរួចទេ? ខ្ញុំឆ្ងល់ជានិច្ចថា តើវាត្រូវតែរុះរើចេញទាំងស្រុងដើម្បីបំពេញតម្រូវការរបស់អាមេរិកឬ?"
+    },
+    {
+      "speaker": "Wasser",
+      "text": "I think it probably had to, but that wasn't the timeline that, frankly, the Air Force was offered. So they managed to do this under a year, and that could possibly work for domestic use of Air Force One. But when the president is flying overseas in international airspace under different conditions, you're going to want something that is a little bit more secure than what that could offer. And I think that's exactly why we're seeing him fly home on some of the older jets.",
+      "cn": "ខ្ញុំគិតថាប្រហែលជាត្រូវធ្វើដូច្នេះ ប៉ុន្តែនិយាយដោយត្រង់ទៅ កងទ័ពអាកាសមិនមានកាលវិភាគបែបនេះទេ។ ដូច្នេះពួកគេបានបញ្ចប់ការងារនេះក្នុងរយៈពេលមួយឆ្នាំ ដែលអាចអនុវត្តបានសម្រាប់ការប្រើប្រាស់ក្នុងស្រុករបស់ Air Force One។ ប៉ុន្តែនៅពេលដែលប្រធានាធិបតីហោះហើរក្នុងដែនអាកាសអន្តរជាតិនៅក្រៅប្រទេស លក្ខខណ្ឌខុសគ្នា អ្នកត្រូវការអ្វីដែលមានសុវត្ថិភាពជាងនេះ។ ខ្ញុំគិតថានេះជាមូលហេតុដែលយើងឃើញគាត់ប្រើយន្តហោះចាស់ៗខ្លះហោះទៅផ្ទះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In the end, is that kind of what this is for, though, his domestic comfort?",
+      "cn": "នៅទីបញ្ចប់ តើនេះគ្រាន់តែសម្រាប់ការស្រួលរបស់គាត់ក្នុងស្រុកទេ?"
+    },
+    {
+      "speaker": "Wasser",
+      "text": "It could be, but I think it was very clear that Qatar offered a gift to the president, and it was one that he wanted to take. And so, you know, the U.S. military was essentially given a job to do, which is make this work. And what they've done is tried to make it work. But that doesn't necessarily mean that it meets the standard that is required for the president's overseas travel and to be able to do some of the secure -- you know, messages that he would probably need to do.",
+      "cn": "អាចជា ប៉ុន្តែខ្ញុំគិតថាវាច្បាស់ណាស់ថាកាតាបានផ្តល់អំណោយដល់ប្រធានាធិបតី ហើយគាត់ក៏ចង់ទទួលយក។ ដូច្នេះ អ្នកដឹងទេ កងទ័ពអាមេរិកជាមូលដ្ឋានត្រូវបានផ្តល់ភារកិច្ចឱ្យធ្វើឱ្យរឿងនេះកើតឡើង។ អ្វីដែលពួកគេបានធ្វើគឺព្យាយាមធ្វើឱ្យវាកើតឡើង។ ប៉ុន្តែវាមិនមានន័យថាវាបំពេញតាមស្តង់ដារដែលប្រធានាធិបតីត្រូវការសម្រាប់ការធ្វើដំណើរក្រៅប្រទេស និងការទំនាក់ទំនងសុវត្ថិភាពមួយចំនួនដែលគាត់ប្រហែលជាត្រូវធ្វើនោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So what's at stake here? We are in the middle of renewed hostilities with Iran. Trump flew on this Air Force One as this was escalating. After that, they switched planes. Is there a concern, you think, about Iran specifically, or, as we said, this kind of general concern about international, you know, support for the leader of the free world?",
+      "cn": "ដូច្នេះ តើចំណុចសំខាន់នៅទីនេះគឺអ្វី? យើងកំពុងស្ថិតក្នុងស្ថានភាពអរិភាពជាថ្មីជាមួយអ៊ីរ៉ង់។ លោក Trump បានជិះ Air Force One នេះនៅពេលដែលស្ថានការណ៍កំពុងកើនឡើង។ បន្ទាប់មក ពួកគេបានប្តូរយន្តហោះ។ តើអ្នកគិតថាមានការព្រួយបារម្ភជាក់លាក់ចំពោះអ៊ីរ៉ង់ ឬដូចដែលយើងនិយាយ ការព្រួយបារម្ភទូទៅចំពោះការគាំទ្រអន្តរជាតិចំពោះមេដឹកនាំពិភពលោកសេរី?"
+    },
+    {
+      "speaker": "Wasser",
+      "text": "I think it's more about general concerns and, again, having that secure communications network that you would need to be able to, you know, help, you know, develop military operations and make those calls. Iran lacks capabilities with the correct ranges to be able to come after some of, you know, some of where the president would be. You know, it's -- Iranian drones are short-range. They aren't able to get to Turkey.",
+      "cn": "ខ្ញុំគិតថាវាជាការព្រួយបារម្ភទូទៅជាង និងតម្រូវការម្តងទៀតសម្រាប់បណ្តាញទំនាក់ទំនងសុវត្ថិភាពនោះ ដើម្បីអាចជួយរៀបចំប្រតិបត្តិការយោធា និងធ្វើការហៅទូរសព្ទទាំងនោះ។ អ៊ីរ៉ង់ខ្វះសមត្ថភាពចម្ងាយសមស្របដើម្បីវាយប្រហារកន្លែងខ្លះដែលប្រធានាធិបតីអាចនៅ។ អ្នកដឹងទេ យន្តហោះគ្មានមនុស្សបើករបស់អ៊ីរ៉ង់គឺចម្ងាយខ្លី ពួកវាមិនអាចទៅដល់តួកគីបានទេ។"
+    },
+    {
+      "speaker": "Wasser",
+      "text": "Additionally, while it does have missiles that have greater range, that's probably not, you know, what the biggest concern was here, even though it is definitely something that, you know, I'm sure the Secret Service has been very concerned about.",
+      "cn": "លើសពីនេះ ទោះបីជាវាមានមីស៊ីលចម្ងាយឆ្ងាយជាងក៏ដោយ ក៏វាប្រហែលជាមិនមែនជាកង្វល់ធំបំផុតនៅទីនេះទេ ទោះបីខ្ញុំប្រាកដថា Secret Service ព្រួយបារម្ភខ្លាំងអំពីរឿងនេះក៏ដោយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, Becca Wasser, thank you for talking with us about this. I know you will be back as we talk about this fresh round of strikes on Iran. And after the break on CNN THIS MORNING, President Trump has lost again in court. There's a judge here who says that E. Jean Carroll is owed millions of dollars. But will she ever collect? Plus, who has the leverage in this Mideast standoff, the balance of power in the U.S. war with Iran?",
+      "cn": "ល្អណាស់ Bekah Wasser សូមអរគុណដែលបានពិភាក្សាបញ្ហានេះជាមួយយើង។ ខ្ញុំដឹងថាអ្នកនឹងត្រលប់មកវិញនៅពេលយើងពិភាក្សាអំពីរលកថ្មីនៃការវាយប្រហារលើអ៊ីរ៉ង់។ បន្ទាប់ពីសម្រាកនៅក្នុងកម្មវិធី CNN This Morning លោកប្រធានាធិបតី Trump បានចាញ់ក្តីម្តងទៀតនៅក្នុងតុលាការ។ ចៅក្រមម្នាក់បាននិយាយថា E. Jean Carroll គួរតែទទួលបានរាប់លានដុល្លារ។ ប៉ុន្តែតើនាងអាចទទួលបានទេ? លើសពីនេះ នៅក្នុងការប្រឈមមុខគ្នានៅមជ្ឈិមបូព៌ានេះ តើអ្នកណាមានអំណាចចរចា ហើយតុល្យភាពអំណាចក្នុងសង្គ្រាមអាមេរិក-អ៊ីរ៉ង់គឺយ៉ាងណា?"
+    },
+    {
+      "speaker": "Trump",
+      "text": "They have very little left, and they want to make a deal so badly. They called a little while ago. They want to make a deal so badly. I just don't know if they're worthy of making a deal. I don't know that they're going to honor the deal.",
+      "cn": "ពួកគេស្ទើរតែគ្មានអ្វីសោះ ពួកគេចង់ធ្វើកិច្ចព្រមព្រៀងណាស់។ ពួកគេទើបតែទូរសព្ទមក។ ពួកគេចង់ធ្វើកិច្ចព្រមព្រៀងណាស់។ ខ្ញុំគ្រាន់តែមិនដឹងថាតើពួកគេសមនឹងធ្វើកិច្ចព្រមព្រៀងឬអត់។ ខ្ញុំមិនដឹងថាតើពួកគេនឹងគោរពតាមកិច្ចព្រមព្រៀងឬអត់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So the president claims Iran now wants to make a deal as the two countries exchanged a new round of strikes. U.S. Central Command saying they carried out attacks on 90 military targets across Iran. Iran's Revolutionary Guard saying it responded with drones and missiles aimed at U.S. military bases in Kuwait and Bahrain. So, at this point, who has the upper hand in making a deal?",
+      "cn": "ដូច្នេះ លោកប្រធានាធិបតីអះអាងថាអ៊ីរ៉ង់ចង់ធ្វើកិច្ចព្រមព្រៀងឥឡូវនេះ ខណៈដែលប្រទេសទាំងពីរទើបតែផ្លាស់ប្តូរការវាយប្រហារថ្មីមួយជុំ។ បញ្ជាការកណ្តាលអាមេរិកបាននិយាយថាពួកគេបានវាយប្រហារគោលដៅយោធាចំនួន 90 នៅក្នុងប្រទេសអ៊ីរ៉ង់។ កងពលធំឆ្មាំបដិវត្តន៍អ៊ីរ៉ង់បាននិយាយថាពួកគេបានឆ្លើយតបដោយប្រើយន្តហោះគ្មានមនុស្សបើក និងមីស៊ីល ដោយកំណត់គោលដៅមូលដ្ឋានយោធាអាមេរិកនៅកូវ៉ែត និងបារ៉ែន។ ដូច្នេះ ត្រង់ចំណុចនេះ តើអ្នកណាមានអំណាចជាងក្នុងការធ្វើកិច្ចព្រមព្រៀង?"
+    },
+    {
+      "speaker": "J.D. Vance",
+      "text": "We came into the situation with maximum leverage and maximum strength. Their nuclear program was destroyed. Their conventional military was destroyed. And you've got some people within the Iranian system who are saying, you know what? We want to change our relationship with the United States. We want to turn over a new leaf. And the president said, OK, we will sit down at the table and negotiate and see if the smart people in that system can take over from the crazy people.",
+      "cn": "យើងចូលក្នុងស្ថានការណ៍ដោយមានអំណាចចរចា និងអំណាចធំបំផុត។ កម្មវិធីនុយក្លេអ៊ែររបស់ពួកគេត្រូវបានបំផ្លាញ។ កម្លាំងយោធាធម្មតារបស់ពួកគេត្រូវបានបំផ្លាញ។ មានមនុស្សមួយចំនួននៅក្នុងប្រព័ន្ធអ៊ីរ៉ង់ដែលកំពុងនិយាយថា អ្នកដឹងទេ? យើងចង់ផ្លាស់ប្តូរទំនាក់ទំនងជាមួយអាមេរិក។ យើងចង់បើកទំព័រថ្មី។ លោកប្រធានាធិបតីបាននិយាយថា មិនអីទេ យើងនឹងអង្គុយចរចា ហើយមើលថាតើមនុស្សឆ្លាតនៅក្នុងប្រព័ន្ធនោះអាចដណ្តើមអំណាចពីមនុស្សឆ្កួតបានដែរឬទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joining me now, Sabrina Singh, CNN global affairs commentator, also former deputy Pentagon press secretary. Sabrina, good morning. I want to start with what the President was saying there, talking about maximum leverage, because we heard him describe it as leverage militarily. Can you help me parse that with where we are now, the U.S. having to do strikes again? var CNN = CNN || {};",
+      "cn": "ឥឡូវនេះ ចូលរួមជាមួយយើងគឺ Sabrina Singh អ្នកអត្ថាធិប្បាយកិច្ចការសកលរបស់ CNN និងជាអតីតអ្នកនាំពាក្យរងក្រសួងការពារជាតិ។ Sabrina អរុណសួស្តី។ ខ្ញុំចង់ចាប់ផ្តើមពីអ្វីដែលលោកប្រធានាធិបតីទើបតែនិយាយ គាត់បាននិយាយពីអំណាចចរចាអតិបរមា ព្រោះយើងបានឮគាត់ពណ៌នាថាវាជាអំណាចយោធា។ តើអ្នកអាចជួយខ្ញុំវិភាគរឿងនេះទាក់ទងនឹងស្ថានភាពបច្ចុប្បន្នរបស់យើង -- -- អាមេរិកត្រូវបើកការវាយប្រហារម្តងទៀត -- -- បានទេ?"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Joining me now is Sabrina Singh, CNN global affairs commentator and also former deputy Pentagon press secretary. Sabrina, good morning. I want to start with what the president was saying there, talking about maximum leverage because we heard him describe it as leverage militarily. Can you help me parse that with where we are now -- the U.S. having to do strikes again? SABRINA SINGH, CNN GLOBAL AFFAIRS COMMENTATOR, FORMER DEPUTY PENTAGON PRESS SECRETARY (via Webex by Cisco): Yeah. Good morning, Audie.",
+      "cn": "ឥឡូវនេះ ចូលរួមជាមួយយើងគឺ Sabrina Singh អ្នកអត្ថាធិប្បាយកិច្ចការសកលរបស់ CNN និងជាអតីតអ្នកនាំពាក្យរងក្រសួងការពារជាតិ។ Sabrina អរុណសួស្តី។ ខ្ញុំចង់ចាប់ផ្តើមពីអ្វីដែលលោកប្រធានាធិបតីទើបតែនិយាយ គាត់បាននិយាយពីអំណាចចរចាអតិបរមា ព្រោះយើងបានឮគាត់ពណ៌នាថាវាជាអំណាចយោធា។ តើអ្នកអាចជួយខ្ញុំវិភាគរឿងនេះទាក់ទងនឹងស្ថានភាពបច្ចុប្បន្នរបស់យើង -- -- អាមេរិកត្រូវបើកការវាយប្រហារម្តងទៀត -- -- បានទេ? Sabrina Singh អ្នកអត្ថាធិប្បាយកិច្ចការសកលរបស់ CNN និងជាអតីតអ្នកនាំពាក្យរងក្រសួងការពារជាតិ (តាមរយៈ Webex by Cisco): បាទ។ អរុណសួស្តី Audi ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "The United States military does retain significant capabilities within the Middle East. I mean, we have an aircraft carrier there with multiple destroyers that can continue to launch waves of strikes that you saw last night and the night before on Iran. So there is military leverage, but can Iran be bombed into submission over time? And I think the answer that we know to that is no. Just look at the course of the war and how it has played out. This war started February 28.",
+      "cn": "កងទ័ពអាមេរិកពិតជារក្សាសមត្ថភាពខ្លាំងនៅមជ្ឈិមបូព៌ា។ ខ្ញុំមានន័យថា យើងមាននាវាផ្ទុកយន្តហោះ និងនាវាពិឃាតជាច្រើននៅទីនោះ ដែលអាចបន្តបើកការវាយប្រហារជារលកដូចកាលពីយប់មិញ និងយប់មុនលើអ៊ីរ៉ង់។ ដូច្នេះមានអំណាចយោធា ប៉ុន្តែតើអ៊ីរ៉ង់អាចត្រូវបានទម្លាក់គ្រាប់បែកឱ្យចុះចាញ់បានទេ? ខ្ញុំគិតថាយើងដឹងចម្លើយថាទេ។ សូមមើលដំណើរនៃសង្គ្រាម និងរបៀបដែលវាវិវត្ត។ សង្គ្រាមនេះបានចាប់ផ្តើមនៅថ្ងៃទី 28 ខែកុម្ភៈ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "President Trump said then that this was about to be, you know, around four to six weeks. Obviously that timeline has just blown by. We're almost at mid-July at this point and the war is continuing. So the United States retains some military capabilities which allows it some leverage, but it does have economic leverage and that really comes in the form of sanctions. And before the sanctions were lifted on Iran and Iran was able to sell its oil on the global market its economy was cratering. So the U.S.",
+      "cn": "លោកប្រធានាធិបតី Trump បាននិយាយនៅពេលនោះថាវាត្រូវការពេលប្រហែល 4 ទៅ 6 សប្តាហ៍។ ជាក់ស្តែង កាលវិភាគនោះត្រូវបានបំបែករួចហើយ។ ឥឡូវនេះជិតដល់ពាក់កណ្តាលខែកក្កដា ហើយសង្គ្រាមនៅតែបន្ត។ ដូច្នេះអាមេរិករក្សាសមត្ថភាពយោធាមួយចំនួន ដែលផ្តល់ឱ្យវានូវអំណាចចរចាខ្លះ ប៉ុន្តែវាក៏មានអំណាចសេដ្ឋកិច្ចផងដែរ ដែលតាមពិតគឺជាទម្រង់នៃទណ្ឌកម្ម។ មុនពេលទណ្ឌកម្មត្រូវបានដកចេញ អ៊ីរ៉ង់មិនអាចលក់ប្រេងនៅលើទីផ្សារសកលបានទេ ហើយសេដ្ឋកិច្ចរបស់វាកំពុងដួលរលំ។ ដូច្នេះអាមេរិកបានដាក់ទណ្ឌកម្មឡើងវិញមួយចំនួន។ យើងនៅតែកាន់សន្លឹកបៀរមួយចំនួន ដូចពាក្យដែលលោកប្រធានាធិបតីចូលចិត្តប្រើ។ ប៉ុន្តែជារួម អ៊ីរ៉ង់ពិតជាមានអត្ថប្រយោជន៍ខាងពេលវេលា ពួកគេអាចបន្តអូសបន្លាយពេលវេលាបាន។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "has put some of those sanctions back in place. We still hold some of those cards, like the president likes to use that term. But overall Iran really has time on its side, and they can continue to run down the clock.",
+      "cn": "ឥឡូវនេះ នៅក្នុងសភាតំណាងរាស្ត្រ សមាជិកសភាប្រជាធិបតេយ្យ Adam Smith ដែលជាសមាជិកគណៈកម្មាធិការយោធា -- -- ពិតណាស់ គាត់តែងតែរិះគន់វិធី និងមូលហេតុដែលប្រធានាធិបតីចាប់ផ្តើមសង្គ្រាមដំបូង។ ប៉ុន្តែនេះជាទស្សនៈរបស់គាត់ចំពោះសកម្មភាពថ្មីបំផុតរបស់អ៊ីរ៉ង់។ សមាជិកសភា Adam Smith (រដ្ឋ Washington បក្សប្រជាធិបតេយ្យ)៖ ប៉ុន្តែខ្ញុំនឹងនិយាយថា ខ្ញុំគិតថាអ៊ីរ៉ង់កំពុងប្រឈមនឹងសំណាងបន្តិច។ ខ្ញុំមានន័យថា ពួកគេមានកិច្ចព្រមព្រៀងដ៏ល្អមួយដើម្បីទទួលថ្លៃសេវាសម្រាប់ការបើកច្រកសមុទ្រ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, in the House, Democratic Congressman Adam Smith, who is on the Armed Services committee -- he, of course, has been critical of how and why the president started the war in the first place. But this is what he had to say about the latest move from Iran. REP. ADAM SMITH (D-WASHINGTON): But I will say I think Iran is kind of pushing their luck a little bit. I mean, they had a pretty good deal here where they could get paid to open the strait.",
+      "cn": "ផ្ទុយទៅវិញ ពួកគេចង់និយាយថា មិនអីទេ យើងនឹងបើកច្រកសមុទ្របន្តិច ប៉ុន្តែមិនមែនបើកទាំងស្រុងទេ។ នេះជាមូលហេតុដែលពួកគេបានបាញ់សំពៅខ្លះដែលឆ្លងកាត់ផ្លូវទឹកដែលពួកគេមិនចង់ឲ្យសំពៅឆ្លងកាត់។ ឥឡូវនេះ ខ្ញុំគិតថាយើងកំពុងប្រឈមមុខនឹងជម្លោះដ៏អូសបន្លាយ ហើយការចរចានឹងជាប់គាំងមួយរយៈ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Instead they wanted to say well, we'll open the strait a little bit, not entirely. And that's why they're shooting at some ships going through the lanes they don't want them to go through. Now I think we're looking at a protracted conflict, and the negotiations are going to be in trouble for a while.",
+      "cn": "តើអ្នកអាចនិយាយអំពីរឿងនេះបានទេ? ខ្ញុំក៏បានឮនៅកន្លែងផ្សេងទៀតដែរថា ការវាយប្រហាររបស់អ៊ីរ៉ង់លើច្រកសមុទ្រក្នុងប៉ុន្មានថ្ងៃកន្លងមកនេះ គឺជាការរុញច្រានកប៉ាល់ឱ្យឆ្ពោះទៅកាន់ផ្លូវដែលពួកគេចង់ឱ្យកប៉ាល់ឆ្លងកាត់ ព្រោះពួកគេសង្ឃឹមថាថ្ងៃណាមួយនឹងអាចគិតថ្លៃសេវាឆ្លងកាត់បាន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can you talk about this? I've heard this in other places that Iran, in its strikes in the strait in the last couple of days, was essentially nudging people into the lane that it wanted them to traverse because they hoped to one day have a toll.",
+      "cn": "បាទ/ចាស។ នេះជាបញ្ហានៃអនុស្សរណៈយោគយល់ដែលសហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បានចុះហត្ថលេខា។ ព័ត៌មានលម្អិតរបស់វាមានភាពមិនច្បាស់លាស់ខ្លាំង ហើយនៅក្នុងបន្ទាត់មួយនៃអនុស្សរណៈនេះ ពិតជាបានបញ្ជាក់ថា អ៊ីរ៉ង់ទទួលខុសត្រូវក្នុងការសម្អាតមីននៅក្នុងច្រកសមុទ្រ។ ឥឡូវនេះ អ៊ីរ៉ង់បកស្រាយយ៉ាងច្បាស់ថា វាគ្រប់គ្រងច្រកសមុទ្រហ៊័រម៉ុស។ ហើយដោយសារតែព័ត៌មានលម្អិត -- ខ្ញុំចង់និយាយថា មាន ១៤ ចំណុច ប្រវែង ១ ទំព័រកន្លះ។ ខ្ញុំគិតថាយើងធ្លាប់ពិភាក្សាអំពីបញ្ជីទិញទំនិញដែលវែងជាងអនុស្សរណៈនេះទៅទៀត។"
+    },
+    {
+      "speaker": "Singh",
+      "text": "Yeah. This is the problem with the MOU that was signed between the United States and Iran. It was very murky in its details and in one of the lines in the MOU it does say that Iran is responsible for clearing the strait of mines. Now, Iran is obviously interpreting that as it controls the Strait of Hormuz. And because the details -- I mean, there was 14 points, 1 1/2 pages. I mean, I think we've talked about having grocery lists that are longer than the MOU.",
+      "cn": "ភាគីទាំងពីរអាចមានការយល់ច្រឡំអំពីអនុស្សរណៈ និងរបៀបអនុវត្តវា។ ប៉ុន្តែសមាជិកសភា Smith និយាយត្រូវ។ តាមគំនិតខ្ញុំ អនុស្សរណៈនេះផ្តល់ផលប្រយោជន៍យ៉ាងច្រើនដល់អ៊ីរ៉ង់។ ពួកគេអាចលក់ប្រេងនៅលើទីផ្សារពិភពលោកដោយប្រើប្រាស់ប្រាក់ដុល្លារ ដូច្នេះនេះជាកិច្ចព្រមព្រៀងដ៏ល្អសម្រាប់ពួកគេ។ ឥឡូវនេះ ពួកគេកំពុងបង្ហាញអំណាចខ្លះ។ ពួកគេព្យាយាមបង្ហាញឥទ្ធិពល ដោយសារតែពួកគេបានវាយប្រហារលើនាវាឆ្លងកាត់មួយចំនួន។ ពួកគេចង់ឱ្យនាវាទាំងនោះបង់ថ្លៃសេវា ឬថ្លៃឆ្លងកាត់ខ្លះដល់ពួកគេ។"
+    },
+    {
+      "speaker": "Singh",
+      "text": "There's going to be misinterpretations on both sides of the MOU and how it should be executed. But Congressman Smith is right. I mean, the MOU hugely, largely favored Iran. They were able to sell their oil on the global market in American dollars and so this was a very good deal for them. Now they're exerting some power. They're trying to project power as they've attacked some of those ships transiting. They want ships to pay some type of fee or toll to them."
+    },
+    {
+      "speaker": "Singh",
+      "text": "And the United States is basically saying that goes against freedom of navigation international law and the MOU that you signed. But this is really the problem. Both sides signed a very murky agreement and now to implement it and execute it it's proving to be very difficult as we're seeing kinetic action over the last few days.",
+      "cn": "សហរដ្ឋអាមេរិកកំពុងនិយាយថា នេះគឺជាការរំលោភលើសេរីភាពនៃការធ្វើនាវាចរណ៍ ច្បាប់អន្តរជាតិ និងអនុស្សរណៈយោគយល់ដែលអ្នកបានចុះហត្ថលេខា។ ប៉ុន្តែនេះគឺជាបញ្ហាពិតប្រាកដ។ ភាគីទាំងពីរបានចុះហត្ថលេខាលើកិច្ចព្រមព្រៀងដែលមិនច្បាស់លាស់ ហើយឥឡូវនេះការអនុវត្ត និងការអនុវត្តវាបានបង្ហាញថាពិបាកខ្លាំងណាស់ ដូចដែលយើងបានឃើញសកម្មភាពដ៏ខ្លាំងក្លាក្នុងរយៈពេលប៉ុន្មានថ្ងៃកន្លងមកនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What can you tell us when you look at the targets, meaning the U.S. focusing on these coastal parts? You've got Iran at least aiming in the direction of U.S. military bases. When will we know that this is quite serious based on the target?",
+      "cn": "នៅពេលអ្នកសង្កេតមើលគោលដៅ តើអ្នកអាចប្រាប់យើងពីអ្វីបាន? ខ្ញុំចង់និយាយថា សហរដ្ឋអាមេរិកផ្តោតលើតំបន់ឆ្នេរទាំងនេះ។ អ៊ីរ៉ង់យ៉ាងហោចណាស់បានកំណត់គោលដៅទៅលើមូលដ្ឋានយោធាអាមេរិក។ ដោយផ្អែកលើគោលដៅ តើយើងអាចដឹងនៅពេលណាថាស្ថានភាពធ្ងន់ធ្ងរគួរសម?"
+    },
+    {
+      "speaker": "Singh",
+      "text": "Well, what is interesting is also Iran launched strikes at Qatar, and we know Qatar has been a main interlocutor when it comes to securing this peace agreement. So it's a little confusing why they're also antagonizing a party that is trying to bring both sides to the table, but they are saying that they're targeting U.S. bases in those three countries. Now, the U.S. military is targeting military sites that they're saying are in the southeast of Iran.",
+      "cn": "គួរឱ្យចាប់អារម្មណ៍ អ៊ីរ៉ង់ក៏បានវាយប្រហារលើកាតា ដែលយើងដឹងថាជាអ្នកសម្រុះសម្រួលដ៏សំខាន់ក្នុងកិច្ចព្រមព្រៀងសន្តិភាពនេះ។ ដូច្នេះវាគួរឱ្យយល់ច្រឡំបន្តិច ហេតុអ្វីបានជាពួកគេធ្វើឱ្យភាគីដែលព្យាយាមនាំភាគីទាំងពីរត្រឡប់មកតុចរចាវិញខឹង? ប៉ុន្តែពួកគេនិយាយថាពួកគេកំពុងវាយប្រហារមូលដ្ឋានអាមេរិកនៅក្នុងប្រទេសទាំងបីនេះ។ ឥឡូវនេះ យោធាអាមេរិកកំពុងវាយប្រហារទីតាំងយោធាដែលពួកគេនិយាយថាស្ថិតនៅភាគអាគ្នេយ៍នៃប្រទេសអ៊ីរ៉ង់។"
+    },
+    {
+      "speaker": "Singh",
+      "text": "These are the sites that are really being used to control the Strait of Hormuz. I think when it gets beyond those sites along the strait and we see strikes within central Iran -- the western part of the country -- that's when we're going to see a larger expansion of this war. I really don't think either side wants to go back to a full-scale war. It is just depleting of not only just munitions but time and energy. I think both sides do want to see some type of agreement and ceasefire put back in place.",
+      "cn": "ទីតាំងទាំងនេះពិតជាត្រូវបានប្រើដើម្បីគ្រប់គ្រងច្រកសមុទ្រហូមូស។ ខ្ញុំគិតថា នៅពេលដែលការវាយប្រហារលាតសន្ធឹងហួសពីទីតាំងតាមឆ្នេរនៃច្រកសមុទ្រនេះ ហើយយើងឃើញការវាយប្រហារលើកណ្តាលអ៊ីរ៉ង់ -- -- តំបន់ភាគខាងលិចនៃប្រទេស -- -- នោះមានន័យថាសង្រ្គាមនេះកំពុងពង្រីកបន្ថែមទៀត។ ខ្ញុំពិតជាគិតថាភាគីទាំងពីរមិនចង់ត្រឡប់ទៅរកសង្រ្គាមពេញលេញវិញទេ។ វាមិនត្រឹមតែប្រើប្រាស់គ្រាប់រំសេវប៉ុណ្ណោះទេ ថែមទាំងពេលវេលា និងថាមពលទៀតផង។ ខ្ញុំគិតថាភាគីទាំងពីរចង់ឃើញកិច្ចព្រមព្រៀង និងបទឈប់បាញ់មួយចំនួនត្រូវបានស្តារឡើងវិញ។"
+    },
+    {
+      "speaker": "Singh",
+      "text": "But it is very possible that this war expands and then you're going to have Gulf countries brought back into this. And they were really the ones that said to this administration we need to stop this war and put some type of ceasefire into place because we just can't handle the level of strikes that are coming towards our country right now.",
+      "cn": "ប៉ុន្តែសង្រ្គាមនេះទំនងជាអាចពង្រីកបាន ហើយបន្ទាប់មកបណ្តាប្រទេសឈូងសមុទ្រនឹងត្រូវជាប់ពាក់ព័ន្ធម្តងទៀត។ ហើយពួកគេគឺជាអ្នកដែលបាននិយាយទៅកាន់រដ្ឋាភិបាលបច្ចុប្បន្នថា យើងត្រូវបញ្ឈប់សង្រ្គាមនេះ ហើយអនុវត្តបទឈប់បាញ់មួយចំនួន ពីព្រោះពួកគេមិនអាចទ្រាំទ្រនឹងកម្រិតនៃការវាយប្រហារមកលើប្រទេសរបស់ពួកគេបានទេនៅពេលនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yeah. It'll be interesting to see what we hear from those countries out of the region today. Sabrina Singh, thank you for being here. Appreciate your time.",
+      "cn": "បាទ។ ការស្តាប់សំឡេងរបស់បណ្តាប្រទេសក្នុងតំបន់ទាំងនេះនៅថ្ងៃនេះនឹងគួរឱ្យចាប់អារម្មណ៍ណាស់។ សាប់រីណា ស៊ីង សូមអរគុណសម្រាប់ការចូលរួម។ សូមអរគុណសម្រាប់ពេលវេលារបស់អ្នក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now straight ahead on CNN THIS MORNING we're going to turn to that high-rise in Manhattan that had seemed on the very of collapse. Now investigators want to know how did things get to that point. And coming up in the next hour, has Israel become a dividing line for Democrats? We're going to talk about why Rahm Emanuel says the party needs a new strategy. (COMMERCIAL)",
+      "cn": "ឥឡូវនេះ នៅក្នុងកម្មវិធី CNN This Morning យើងនឹងផ្តោតលើអគារខ្ពស់មួយនៅម៉ាន់ហាតថាន់ ដែលហាក់ដូចជាជិតដួលរលំ។ ឥឡូវនេះអ្នកស៊ើបអង្កេតចង់ដឹងថាតើរឿងនេះកើតឡើងដល់កម្រិតណា។ ក្នុងរយៈពេលមួយម៉ោងខាងមុខ តើអ៊ីស្រាអែលបានក្លាយជាខ្សែបន្ទាត់បែងចែកនៅក្នុងគណបក្សប្រជាធិបតេយ្យដែរឬទេ? យើងនឹងពិភាក្សាអំពីមូលហេតុដែលរ៉ាម អ៊ីម៉ានុយអែលនិយាយថាគណបក្សនេះត្រូវការយុទ្ធសាស្ត្រថ្មី។ (ការផ្សាយពាណិជ្ជកម្ម)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's now almost 40 minutes past the hour. This is your Morning Roundup. Democrats in Maine are scrambling to find a new candidate for Senate as Graham Platner drops out of the race.",
+      "cn": "ឥឡូវនេះនៅសល់ពេលជិត 40 នាទីទៀតមុនពេលដល់ម៉ោង។ នេះជាសេចក្តីសង្ខេបពេលព្រឹករបស់អ្នក។ គណបក្សប្រជាធិបតេយ្យនៅរដ្ឋមេនកំពុងប្រជែងគ្នាស្វែងរកបេក្ខជនព្រឹទ្ធសភាថ្មី បន្ទាប់ពីលោក ហ្គ្រេហាំ ផ្លាតនឺរ បានដកខ្លួនចេញពីការបោះឆ្នោត។"
+    },
+    {
+      "speaker": "Graham Platner",
+      "text": "I intend to file my paperwork to withdraw. What comes next needs to come from the people. It needs to come from the people of Maine.",
+      "cn": "ខ្ញុំមានបំណងដាក់ឯកសារដកខ្លួន។ អ្វីដែលត្រូវធ្វើបន្ទាប់ទៀតគឺអាស្រ័យលើប្រជាជន។ វាអាស្រ័យលើប្រជាជនរដ្ឋមេន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now this all comes after allegations of sexual misconduct from several women, which caused a mass exodus of endorsements and contributions to his campaign. Platner denies the accusations. The Maine Democratic Party will hold a nominating convention to select a new Senate nominee, and they have until July 27 to make that decision. And a federal judge orders the release of nearly $6 million to E. Jean Carroll from President Trump. His team immediately appealed the decision. They were denied.",
+      "cn": "រឿងទាំងអស់នេះកើតឡើងបន្ទាប់ពីស្ត្រីជាច្រើននាក់បានចោទប្រកាន់ពីបទប្រព្រឹត្តខុសផ្លូវភេទ ដែលនាំឱ្យមានការដកការគាំទ្រ និងការបរិច្ចាគយ៉ាងច្រើន។ ផ្លាតនឺរបដិសេធការចោទប្រកាន់ទាំងនេះ។ គណបក្សប្រជាធិបតេយ្យរដ្ឋមេននឹងរៀបចំសន្និបាតតែងតាំងដើម្បីជ្រើសរើសបេក្ខជនព្រឹទ្ធសភាថ្មី ហើយពួកគេត្រូវតែសម្រេចចិត្តឱ្យបានមុនថ្ងៃទី 27 ខែកក្កដា។ ចៅក្រមសហព័ន្ធបានបញ្ជាឱ្យបង់ប្រាក់ជិត 6 លានដុល្លារដល់ E. Jane Carroll ពីប្រធានាធិបតី Trump ។ ក្រុមរបស់គាត់បានប្តឹងឧទ្ធរណ៍ភ្លាមៗចំពោះសេចក្តីសម្រេចនេះ ប៉ុន្តែត្រូវបានច្រានចោល។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "President Trump has been trying to delay paying Carroll after he was found liable for sexually abusing and defaming her. In New York, there is significant progress in the stabilization of a Manhattan high-rise that had been at risk of collapse. Crews added steel supports to each floor from the ninth to the roof. The New York Department of Buildings has inspectors and engineers on site monitoring and investigating what caused the structural failure earlier this week.",
+      "cn": "ប្រធានាធិបតី Trump បានព្យាយាមពន្យារពេលការទូទាត់សំណង បន្ទាប់ពីត្រូវបានកាត់ទោសពីបទរំលោភបំពានផ្លូវភេទ និងបរិហារកេរ្តិ៍ Carroll ។ នៅទីក្រុងញូវយ៉ក ការងារទប់លំនឹងអគារខ្ពស់មួយនៅម៉ាន់ហាតថាន់ ដែលធ្លាប់ប្រឈមនឹងការដួលរលំ ទទួលបានវឌ្ឍនភាពយ៉ាងសំខាន់។ កម្មករបានបន្ថែមជំនួយដែកពីជាន់ទី 9 ដល់ដំបូល។ ការិយាល័យសំណង់ទីក្រុងញូវយ៉កបានបញ្ជូនអធិការ និងវិស្វករទៅតាមដាននៅកន្លែង និងស៊ើបអង្កេតមូលហេតុនៃការបរាជ័យរចនាសម្ព័ន្ធនៅដើមសប្តាហ៍នេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And next on CNN THIS MORNING what's life like on the front lines of the war with Iran? We take you aboard a U.S. aircraft carrier patrolling the Arabian Sea. Plus this.",
+      "cn": "បន្ទាប់មកទៀតនៅក្នុងកម្មវិធី CNN This Morning តើជីវិតនៅជួរមុខនៃសង្រ្គាមជាមួយអ៊ីរ៉ង់មានលក្ខណៈដូចម្តេច? យើងនឹងនាំអ្នកឡើងលើនាវាផ្ទុកយន្តហោះអាមេរិកដែលកំពុងល្បាតនៅសមុទ្រអារ៉ាប់។ ហើយក៏មានរឿងនេះផងដែរ។"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "This way he can't complain that we're not giving them enough. I say make them yourself.",
+      "cn": "ដូច្នេះគាត់មិនអាចត្អូញត្អែរថាយើងមិនបានផ្តល់ឱ្យគ្រប់គ្រាន់ទេ។ ខ្ញុំថាឱ្យពួកគេផលិតដោយខ្លួនឯង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Could this be the change Ukraine needs in its war with Russia? How President Trump is boosting Ukraine's air defenses. (COMMERCIAL)",
+      "cn": "តើនេះអាចជាការផ្លាស់ប្តូរដែលអ៊ុយក្រែនត្រូវការក្នុងសង្រ្គាមជាមួយរុស្ស៊ីដែរឬទេ? តើប្រធានាធិបតី Trump ពង្រឹងសមត្ថភាពការពារដែនអាកាសរបស់អ៊ុយក្រែនយ៉ាងដូចម្តេច។ (ការផ្សាយពាណិជ្ជកម្ម)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So a big political win for Ukraine hand-delivered by President Trump. He announced the U.S. will be buying Ukrainian drones and more significantly will be teaming with Ukraine to co-produce Patriot missile interceptors -- a development that could significantly improve Kyiv's air defenses.",
+      "cn": "ដូច្នេះ ប្រធានាធិបតី Trump ផ្ទាល់បាននាំមកនូវជ័យជម្នះនយោបាយដ៏ធំមួយដល់អ៊ុយក្រែន។ គាត់បានប្រកាសថាអាមេរិកនឹងទិញយន្តហោះគ្មានមនុស្សបើករបស់អ៊ុយក្រែន ហើយសំខាន់ជាងនេះទៅទៀត នឹងសហការជាមួយអ៊ុយក្រែនដើម្បីផលិតរួមគ្នានូវគ្រាប់រំសេវការពារមីស៊ីល Patriot -- -- វឌ្ឍនភាពនេះអាចបង្កើនសមត្ថភាពការពារដែនអាកាសរបស់កៀវយ៉ាងខ្លាំង។"
+    },
+    {
+      "speaker": "Trump",
+      "text": "We're going to give a license to you to make Patriots. That's pretty cool, right?",
+      "cn": "យើងនឹងអនុញ្ញាតឱ្យអ្នកផលិតប្រព័ន្ធ Patriot ។ វាពិតជាឡូយមែនទេ?"
+    },
+    {
+      "speaker": "Trump",
+      "text": "This way he can't complain that we're not giving them enough. I say make them yourself. We haven't informed the company of that yet but that'll work out alright. I'm sure they'll be thrilled. But, you know, they'll be able to do it. You'll be able to figure that out. Most countries couldn't do that.",
+      "cn": "ដូច្នេះគាត់មិនអាចត្អូញត្អែរថាយើងមិនបានផ្តល់ឱ្យគ្រប់គ្រាន់ទេ។ ខ្ញុំថាឱ្យពួកគេផលិតដោយខ្លួនឯង។ យើងមិនទាន់បានជូនដំណឹងដល់ក្រុមហ៊ុននោះទេ ប៉ុន្តែអ្វីៗនឹងដំណើរការល្អ។ ខ្ញុំជឿថាពួកគេនឹងរំភើប។ ប៉ុន្តែអ្នកដឹងទេ ពួកគេមានសមត្ថភាពធ្វើវា។ អ្នកអាចដោះស្រាយបញ្ហានេះបាន។ ប្រទេសភាគច្រើនមិនអាចធ្វើបានទេ។"
+    },
+    {
+      "speaker": "Trump",
+      "text": "If I said that to most countries, they wouldn't know what I'm talking about. But this is a very ingenious group. And what I like about that it's a defensive -- it's a defensive situation as opposed to an offensive.",
+      "cn": "ប្រសិនបើខ្ញុំនិយាយបែបនេះទៅកាន់ប្រទេសភាគច្រើន ពួកគេនឹងមិនយល់ពីអ្វីដែលខ្ញុំកំពុងនិយាយនោះទេ។ ប៉ុន្តែនេះជាក្រុមដែលឆ្លាតណាស់។ អ្វីដែលខ្ញុំចូលចិត្តគឺថា នេះជាការការពារ -- -- នេះជាស្ថានភាពការពារ មិនមែនវាយលុកទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joel Rubin joins us. He's the former deputy assistant Secretary of State for Legislative Affairs under the Obama administration. Good morning, Joel. JOEL RUBIN,",
+      "cn": "លោក Joel Rubin ចូលរួមជាមួយយើង។ គាត់ធ្លាប់ជាជំនួយការរដ្ឋលេខាធិការរងទទួលបន្ទុកកិច្ចការនីតិប្បញ្ញត្តិក្នុងរដ្ឋបាលលោក Obama ។ អរុណសួស្តី Joel ។ Joel Rubin:"
+    },
+    {
+      "speaker": "",
+      "text": "Good morning, Audie.",
+      "cn": "អរុណសួស្តី Otis ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There's actually a lot to unpack in that short statement, but I want to start with this -- the turnaround from when Trump was sitting next to Zelenskyy and telling him you don't have any cards. You can't dictate this process. What do you think has changed in the backdrop leading up to this moment?",
+      "cn": "តាមពិត មានរឿងជាច្រើនដែលត្រូវឌិកូដពីសេចក្តីថ្លែងការណ៍ខ្លីនោះ ប៉ុន្តែខ្ញុំចង់ចាប់ផ្តើមពីចំណុចនេះ -- -- Trump អង្គុយក្បែរ Zelenskyy ហើយប្រាប់គាត់ថាអ្នកគ្មានឥទ្ធិពលទេ អ្នកមិនអាចដឹកនាំដំណើរការនេះបានទេ រហូតដល់ការផ្លាស់ប្តូរអាកប្បកិរិយានេះ។ តើអ្នកគិតថាការផ្លាស់ប្តូរបរិបទអ្វីខ្លះដែលនាំឱ្យមានពេលនេះ?"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Audie, it's great to be with you. And clearly, Trump likes a winner and what he's seeing now and what the intelligence is demonstrating is that Russia is on the defensive. Ukraine is able to strike into Moscow at will. That the losses on the field -- on the ground by Russia have been significant and they're not making progress. And so President Trump -- he sees that. And you combine that -- and I've got to say that moment yesterday at NATO was really surreal.",
+      "cn": "Otis រីករាយដែលបានភ្ជាប់ជាមួយអ្នក។ ជាក់ស្តែង Trump ចូលចិត្តអ្នកឈ្នះ ហើយអ្វីដែលគាត់ឃើញឥឡូវនេះ និងអ្វីដែលចារកម្មបង្ហាញគឺថារុស្ស៊ីកំពុងស្ថិតក្នុងស្ថានភាពការពារ។ អ៊ុយក្រែនអាចវាយប្រហារទីក្រុងមូស្គូតាមអំពើចិត្ត។ រុស្ស៊ីមានការខាតបង់យ៉ាងធ្ងន់ធ្ងរនៅលើដី ហើយមិនមានវឌ្ឍនភាពទេ។ ដូច្នេះប្រធានាធិបតី Trump មើលឃើញរឿងនេះ។ បន្ថែមពីលើនេះ -- -- ខ្ញុំត្រូវតែនិយាយថាពេលនេះនៅណាតូកាលពីម្សិលមិញពិតជាអស្ចារ្យណាស់។"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "President Trump basically has now flipped his narrative on NATO. He now sees it as a value add to American security. And so combining that with the move on Zelenskyy, I think Trump realizes that he can gain a lot more with our allies and our friends and sees Ukraine as winning in this war.",
+      "cn": "ប្រធានាធិបតី Trump ជាមូលដ្ឋានបានផ្លាស់ប្តូរសម្លេងរបស់គាត់ចំពោះណាតូ។ ឥឡូវនេះគាត់គិតថាណាតូមានតម្លៃបន្ថែមសម្រាប់សន្តិសុខអាមេរិក។ ដូច្នេះរួមជាមួយការផ្លាស់ប្តូរអាកប្បកិរិយារបស់គាត់ចំពោះ Zelenskyy ខ្ញុំគិតថា Trump ដឹងថាគាត់អាចទទួលបានកាន់តែច្រើនពីសម្ព័ន្ធមិត្ត និងមិត្តភក្តិ ហើយគិតថាអ៊ុយក្រែនកំពុងឈ្នះសង្រ្គាមនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "At the same time, Ukraine is not winning. It has Russia at a standstill.",
+      "cn": "ក្នុងពេលជាមួយគ្នានេះ អ៊ុយក្រែនមិនមែនឈ្នះទេ។ វាគ្រាន់តែធ្វើឱ្យរុស្ស៊ីជាប់គាំងប៉ុណ្ណោះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I was surprised to hear the president use the word there \"this is defensive\" when Ukraine, as you mentioned, has pushed its missiles further and further deeper into Russian territory.",
+      "cn": "ខ្ញុំភ្ញាក់ផ្អើលដែលឮប្រធានាធិបតីប្រើពាក្យថា 'នេះជាការការពារ' ពីព្រោះដូចដែលអ្នកបានលើកឡើង អ៊ុយក្រែនបានបាញ់មីស៊ីលរបស់ខ្លួនកាន់តែជ្រៅទៅក្នុងទឹកដីរុស្ស៊ី។"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Yeah. So Patriots are a defensive weapons system -- a missile defense system. Now, the Russians are going to say that this is an aggression because they don't like there being any missile defense near them because that inhibits their ability to strike. But for Ukraine to hold Russia to a standstill -- that's winning because again, Russia is invading into Ukraine. But these strikes into Moscow -- that's the gamechanger.",
+      "cn": "បាទ។ Patriot គឺជាប្រព័ន្ធអាវុធការពារ -- -- ប្រព័ន្ធការពារមីស៊ីល។ ឥឡូវនេះ រុស្ស៊ីនឹងនិយាយថានេះជាការឈ្លានពាន ពីព្រោះពួកគេមិនចូលចិត្តមានប្រព័ន្ធការពារមីស៊ីលនៅក្បែរនោះទេ ព្រោះវារារាំងសមត្ថភាពវាយប្រហាររបស់ពួកគេ។ ប៉ុន្តែសម្រាប់អ៊ុយក្រែន ការធ្វើឱ្យរុស្ស៊ីជាប់គាំងគឺជាជ័យជម្នះ ពីព្រោះរុស្ស៊ីកំពុងឈ្លានពានអ៊ុយក្រែន។ ហើយការវាយប្រហារទាំងនេះទៅលើទីក្រុងមូស្គូ -- -- នេះជាកត្តាផ្លាស់ប្តូរហ្គេម។"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "The Russian people are noticing that the war is now coming home and that's creating pressure on Putin as well. And I think for President Trump to see Ukraine not only being able to strike inside Moscow but then, of course, to defend its territory -- if he can add this extra nudge maybe he thinks that can get Putin to a deal. I hope he's right. But certainly it is quite a turnaround with Ukraine.",
+      "cn": "ប្រជាជនរុស្ស៊ីបានកត់សម្គាល់ឃើញថាសង្គ្រាមឥឡូវនេះបានត្រឡប់មកដល់ទឹកដីរបស់ខ្លួនវិញ ដែលនេះក៏ដាក់សម្ពាធលើលោកពូទីនផងដែរ។ ខ្ញុំគិតថាលោកប្រធានាធិបតី Trump មើលឃើញថាអ៊ុយក្រែនមិនត្រឹមតែអាចវាយប្រហារទីក្រុងមូស្គូពីខាងក្នុងប៉ុណ្ណោះទេ ប៉ុន្តែថែមទាំងអាចការពារទឹកដីរបស់ខ្លួនផងដែរ -- ប្រសិនបើគាត់ជំរុញបន្ថែមទៀត ប្រហែលជាគាត់គិតថានេះអាចធ្វើឱ្យលោកពូទីនឈានដល់កិច្ចព្រមព្រៀង។ ខ្ញុំសង្ឃឹមថាគាត់ត្រឹមត្រូវ។ ប៉ុន្តែគ្មានការសង្ស័យទេថាអាកប្បកិរិយាចំពោះអ៊ុយក្រែនបានផ្លាស់ប្តូរយ៉ាងខ្លាំង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I want to connect the dots here because we're at this inflection point with the war with Iran --",
+      "cn": "ខ្ញុំចង់ភ្ជាប់ចំណុចនេះ ព្រោះយើងកំពុងស្ថិតនៅចំណុចរបត់នៃសង្គ្រាមជាមួយអ៊ីរ៉ង់ --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- and there are some connections between what's happening with the war in Iran and what's happening between Ukraine and Russia. One example is drones. Just Ukraine really showcasing it is now at the forefront of innovation on drone battlefield warfare, and the U.S. now dealing with a country that can churn out drones. Is that, like, yet another aspect of this that has kind of shifted things? And then I want to ask you about sanctions.",
+      "cn": "-- សង្គ្រាមអ៊ីរ៉ង់ និងអ្វីដែលកំពុងកើតឡើងរវាងអ៊ុយក្រែន និងរុស្ស៊ីមានទំនាក់ទំនងគ្នាខ្លះ។ ឧទាហរណ៍មួយគឺយន្តហោះគ្មានមនុស្សបើក (drone)។ អ៊ុយក្រែនពិតជាបានបង្ហាញថាខ្លួនឥឡូវនេះស្ថិតនៅជួរមុខនៃការច្នៃប្រឌិតសមរភូមិយន្តហោះគ្មានមនុស្សបើក ហើយសហរដ្ឋអាមេរិកឥឡូវនេះកំពុងប្រឈមមុខនឹងប្រទេសមួយដែលអាចផលិតយន្តហោះគ្មានមនុស្សបើកបានយ៉ាងច្រើន។ តើនេះជាទិដ្ឋភាពមួយទៀតដែលផ្លាស់ប្តូរស្ថានភាពឬ? បន្ទាប់មកខ្ញុំចង់សួរអ្នកអំពីការដាក់ទណ្ឌកម្ម។"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Yeah. Look, you know, I was just in Israel last week and the drone wars are real. They're across the Middle East. And Ukraine, out of necessity, has perfected drone technology on the cheap. But also there's another factor as well, which is that Iran was providing drone technology to Russia to bomb into Ukraine as well. So all of these wars now -- they seem to be connecting. The technology is real. It's robust coming out of Ukraine.",
+      "cn": "បាទ។ អ្នកឃើញទេ ខ្ញុំទើបតែនៅអ៊ីស្រាអែលកាលពីសប្តាហ៍មុន សង្គ្រាមយន្តហោះគ្មានមនុស្សបើកគឺពិតប្រាកដ។ វាមានពាសពេញមជ្ឈិមបូព៌ា។ ហើយអ៊ុយក្រែន ដោយសារតម្រូវការ បានធ្វើឱ្យបច្ចេកវិទ្យាយន្តហោះគ្មានមនុស្សបើកមានភាពល្អឥតខ្ចោះក្នុងតម្លៃទាប។ ប៉ុន្តែមានកត្តាមួយទៀត គឺអ៊ីរ៉ង់ធ្លាប់ផ្តល់បច្ចេកវិទ្យាយន្តហោះគ្មានមនុស្សបើកដល់រុស្ស៊ីដើម្បីទម្លាក់គ្រាប់បែកលើអ៊ុយក្រែន។ ដូច្នេះសង្គ្រាមទាំងអស់នេះឥឡូវហាក់ដូចជាមានទំនាក់ទំនងគ្នា។ បច្ចេកវិទ្យាគឺពិតប្រាកដ ហើយបច្ចេកវិទ្យាពីអ៊ុយក្រែនគឺខ្លាំងក្លា។"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "They have a value added edge frankly in the global marketplace and I think for Trump he sees that as well. And that's the future of warfare. Those drones and that technology that Ukraine has is the top of the line.",
+      "cn": "និយាយដោយត្រង់ទៅ ពួកគេមានអត្ថប្រយោជន៍បន្ថែមតម្លៃនៅក្នុងទីផ្សារសកល ហើយខ្ញុំគិតថាលោក Trump ក៏មើលឃើញដូច្នេះដែរ។ នេះគឺជាអនាគតនៃសង្គ្រាម។ យន្តហោះគ្មានមនុស្សបើក និងបច្ចេកវិទ្យាដែលអ៊ុយក្រែនមានគឺល្អថ្នាក់ទីមួយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Does this open up the channel or --",
+      "cn": "តើនេះបើកផ្លូវ --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- make it easier for Netanyahu and Israel to continue the war against Hezbollah? I mentioned this to someone yesterday but from a diplomatic point of view I'd love to hear from you what you think. Is it basically all bets are off if the New York Post is posting, you know, \"Peace Out\" --",
+      "cn": "-- ឱ្យលោក Netanyahu និងអ៊ីស្រាអែលបន្តសង្គ្រាមប្រឆាំងនឹង Hezbollah កាន់តែងាយស្រួលឬ? ខ្ញុំបាននិយាយអំពីរឿងនេះទៅកាន់នរណាម្នាក់កាលពីម្សិលមិញ ប៉ុន្តែតាមទស្សនៈការទូត ខ្ញុំចង់ស្តាប់យោបល់របស់អ្នក។ ប្រសិនបើ New York Post បោះពុម្ពផ្សាយ 'Peace Bye' តើវាមានន័យថាអ្វីៗទាំងអស់មិនច្បាស់លាស់ឬ?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- on the ceasefire deal?",
+      "cn": "-- អំពីកិច្ចព្រមព្រៀងឈប់បាញ់?"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "I mean, Audie, there's two parallel tracks on diplomacy with Iran. Of course, the ceasefire that's now in abeyance between us and Iran. And then there's the separate track, which is Israel and Lebanon government-to-government being sponsored by the State Department and Marco Rubio? That's always been a tension point in the diplomacy. So I wouldn't say that it's a guarantee that we're going to see fighting renewed inside of Lebanon because the Israeli government and the Lebanese government are talking right now.",
+      "cn": "ខ្ញុំចង់និយាយថា Audie មានផ្លូវស្របគ្នាពីរនៃការទូតជាមួយអ៊ីរ៉ង់។ ជាការពិតណាស់ បច្ចុប្បន្នកិច្ចព្រមព្រៀងឈប់បាញ់រវាងយើង និងអ៊ីរ៉ង់កំពុងស្ថិតក្នុងស្ថានភាពផ្អាក។ មានផ្លូវមួយទៀត គឺការសន្ទនារវាងរដ្ឋាភិបាលអ៊ីស្រាអែល និងលីបង់ ដែលដឹកនាំដោយក្រសួងការបរទេស និងលោក Marco Rubio? នេះតែងតែជាចំណុចតានតឹងក្នុងការទូត។ ដូច្នេះខ្ញុំមិនគិតថានេះធានាថាយើងនឹងឃើញការប្រយុទ្ធគ្នាឡើងវិញនៅក្នុងប្រទេសលីបង់ទេ ព្រោះរដ្ឋាភិបាលអ៊ីស្រាអែល និងលីបង់កំពុងចរចាគ្នានាពេលបច្ចុប្បន្ន។"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "And that actually seems to be bearing more fruit than the Iran-U.S. MOU that has obviously collapsed.",
+      "cn": "ហើយនេះហាក់ដូចជាមានផ្លែផ្កាច្រើនជាងអនុស្សរណៈយោគយល់អ៊ីរ៉ង់-អាមេរិក ដែលជាក់ស្តែងបានបែកបាក់ហើយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Before I let you go, a short time left. After this NATO summit, is the U.S. in a stronger position with Europe? Is Putin going to be concerned that relationship has improved?",
+      "cn": "មុនពេលអ្នកចាកចេញ នៅមានពេលបន្តិចទៀត។ បន្ទាប់ពីកិច្ចប្រជុំកំពូលណាតូនេះ តើសហរដ្ឋអាមេរិកមានជំហររឹងមាំជាងមុននៅអឺរ៉ុបឬ? តើលោកពូទីននឹងព្រួយបារម្ភអំពីការកែលម្អទំនាក់ទំនងនេះឬ?"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Well, he can't be pleased, right? Like, if you're Vladimir Putin your whole goal for the last decade, frankly, if not longer has been to separate the United States from NATO and to break NATO. To break that collective security arrangement inside Europe.",
+      "cn": "មែនហើយ គាត់មិនអាចសប្បាយចិត្តទេ មែនទេ? ប្រសិនបើអ្នកជាលោក Vladimir Putin គោលដៅទាំងមូលរបស់អ្នកក្នុងរយៈពេលមួយទសវត្សរ៍ចុងក្រោយ ឬយូរជាងនេះ គឺធ្វើឱ្យសហរដ្ឋអាមេរិកដកខ្លួនចេញពីណាតូ និងបំបែកណាតូ ដោយបំបែកការរៀបចំសន្តិសុខសមូហភាពនៅអឺរ៉ុប។"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "So when the mood music -- mood music changes, as it did with President Trump yesterday where the United States and NATO and our European allies are essentially talking from the same sheet -- that is a sign to Putin that he can't break the alliance, and that is a strong position for American national security.",
+      "cn": "ដូច្នេះនៅពេលដែលតន្ត្រីបរិយាកាស -- តន្ត្រីបរិយាកាសផ្លាស់ប្តូរ ដូចកាលពីម្សិលមិញជាមួយលោកប្រធានាធិបតី Trump សហរដ្ឋអាមេរិក ណាតូ និងសម្ព័ន្ធមិត្តអឺរ៉ុបរបស់យើងជាមូលដ្ឋានដើរក្នុងជំហានតែមួយ -- នេះជាសញ្ញាមួយដល់លោកពូទីនថាគាត់មិនអាចបំបែកសម្ព័ន្ធភាពនេះបានទេ ដែលជាជំហរដ៏រឹងមាំសម្រាប់សន្តិសុខជាតិអាមេរិក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, Joel. Don't get any breakfast yet. I need you in the next hour. We're going to talk more --",
+      "cn": "ល្អហើយ Joel។ កុំញ៉ាំអាហារពេលព្រឹកជាមុន។ ខ្ញុំត្រូវការអ្នកនៅម៉ោងបន្ទាប់។ យើងនឹងនិយាយបន្ថែមទៀត --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- about some of these regional concerns. Next on CNN THIS MORNING a CNN crew aboard the USS Abraham Lincoln in the Arabian Sea. It's one of more than 20 Navy warships patrolling the waters near the Middle East. And in the next hour, President Trump promised cheaper gas prices. Is Freedom Fuel the answer? (COMMERCIAL)",
+      "cn": "-- អំពីកង្វល់ក្នុងតំបន់មួយចំនួន។ បន្ទាប់នៅក្នុង CNN This Morning អ្នកយកព័ត៌មាន CNN ឡើងលើនាវាផ្ទុកយន្តហោះ USS Abraham Lincoln នៅសមុទ្រអារ៉ាប់។ នេះគឺជានាវាចម្បាំងកងទ័ពជើងទឹកជាង 20 គ្រឿងដែលកំពុងល្បាតនៅជិតមជ្ឈិមបូព៌ា។ ហើយនៅក្នុងម៉ោងបន្ទាប់ លោកប្រធានាធិបតី Trump សន្យាបញ្ចុះតម្លៃប្រេង។ តើឥន្ធនៈសេរីជាចម្លើយឬ? (ពាណិជ្ជកម្ម)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Our breaking news coverage continues now as the U.S. and Iran trade new strikes overnight. The U.S. military touting its presence in the region, posting new video of its more than 20 Navy warships patrolling the waters near the Middle East. CNN's Pam Brown was on one of those ships in the Northern Arabian Sea yesterday with the crew of the USS Abraham Lincoln. (BEGIN VIDEOTAPE)",
+      "cn": "ការផ្សាយព័ត៌មានបន្ទាន់របស់យើងនៅតែបន្ត សហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់បានបើកការវាយប្រហារថ្មីកាលពីយប់មិញ។ កងទ័ពអាមេរិកបង្ហាញពីវត្តមានរបស់ខ្លួននៅក្នុងតំបន់ ដោយចេញផ្សាយវីដេអូថ្មីនៃនាវាចម្បាំងកងទ័ពជើងទឹកជាង 20 គ្រឿងដែលកំពុងល្បាតនៅជិតមជ្ឈិមបូព៌ា។ អ្នកយកព័ត៌មាន CNN Pam Brown កាលពីម្សិលមិញនៅលើនាវាចម្បាំងមួយនៅសមុទ្រអារ៉ាប់ខាងជើង ជាមួយនាវិកនៃ USS Abraham Lincoln។ (វីដេអូចាប់ផ្តើម)"
+    },
+    {
+      "speaker": "Pamela Brown",
+      "text": "This is one of two aircraft carriers in the region. And you see behind me what's called the bridge -- the flight tower. This is where all the shots are called. And you see the planes. Here they are on this deck. There's F- 35s, F-18s, Growlers, E-2s. All of them play certain roles in the conflict. Now, what we know for sure per a U.S. official I spoke to, is that there will be defensive missions happening on the USS Abraham.",
+      "cn": "នេះគឺជានាវាផ្ទុកយន្តហោះមួយក្នុងចំណោមពីរនៅក្នុងតំបន់។ នៅពីក្រោយខ្ញុំគឺជាអ្វីដែលគេហៅថាស្ពាន -- ប៉មត្រួតពិនិត្យការហោះហើរ។ ការបញ្ជាទាំងអស់ត្រូវបានចេញនៅទីនេះ។ អ្នកអាចមើលឃើញយន្តហោះ។ ពួកវានៅលើនាវា។ មាន F-35, F-18, Growler, E-2។ ពួកវានីមួយៗមានតួនាទីជាក់លាក់ក្នុងជម្លោះ។ ឥឡូវនេះ យោងតាមមន្ត្រីអាមេរិកម្នាក់ដែលខ្ញុំបានសម្ភាស អ្វីដែលយើងដឹងច្បាស់គឺ USS Abraham Lincoln នឹងបំពេញបេសកកម្មការពារ។"
+    },
+    {
+      "speaker": "Pamela Brown",
+      "text": "And, in fact, there has already been a shift in operational plans in the wake of the Iranian attacks on those vessels. This ship left port early yesterday so that it can be out here at sea and ready to go in case orders are given. So you can see some of that preparation happening right now. There is some maintenance happening over here on this helicopter. And then if we pan over here you can see they pulled out some armaments -- some missiles -- to put on the flights.",
+      "cn": "តាមពិតទៅ បន្ទាប់ពីអ៊ីរ៉ង់វាយប្រហារនាវាទាំងនោះ ផែនការប្រតិបត្តិការបានផ្លាស់ប្តូរ។ នាវានេះបានចាកចេញពីកំពង់ផែមុននេះបន្តិចកាលពីម្សិលមិញ ដើម្បីត្រៀមខ្លួននៅសមុទ្រ ត្រៀមធ្វើសកម្មភាពនៅពេលទទួលបញ្ជា។ ដូច្នេះអ្នកអាចមើលឃើញការរៀបចំមួយចំនួនដែលកំពុងដំណើរការ។ មានឧទ្ធម្ភាគចក្រមួយកំពុងថែទាំ។ ហើយប្រសិនបើយើងរំកិលកាមេរ៉ាមក អ្នកអាចឃើញពួកគេយកអាវុធមួយចំនួនចេញ -- មីស៊ីលមួយចំនួន -- ត្រៀមដាក់លើយន្តហោះ។"
+    },
+    {
+      "speaker": "Pamela Brown",
+      "text": "Now I'm told that would be standard operating procedure because tomorrow is a flight day. But, of course, this takes on new meaning in the wake of the latest rhetoric from the president and the Iranians as well, so we'll have to wait and see. As one source said, it is a very dynamic situation here. Pamela Brown, CNN, from the USS Abraham Lincoln. (END VIDEOTAPE)",
+      "cn": "ខ្ញុំត្រូវបានគេប្រាប់ថានេះនឹងជានីតិវិធីប្រតិបត្តិការស្តង់ដារ ព្រោះថ្ងៃស្អែកជាថ្ងៃហោះហើរ។ ប៉ុន្តែជាការពិតណាស់ បន្ទាប់ពីសេចក្តីថ្លែងការណ៍ចុងក្រោយពីប្រធានាធិបតី និងភាគីអ៊ីរ៉ង់ នេះមានអត្ថន័យថ្មី ដូច្នេះយើងគ្រាន់តែត្រូវរង់ចាំមើល។ ដូចដែលប្រភពមួយបាននិយាយ ស្ថានភាពនៅទីនេះគឺស្វាហាប់ណាស់។ Pamela Brown របស់ CNN រាយការណ៍ពី USS Abraham Lincoln។ (វីដេអូបញ្ចប់)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I'm Audie Cornish. Stay with us. Our breaking news coverage continues right now.",
+      "cn": "ខ្ញុំគឺ Audie Cornish។ សូមបន្តតាមដានយើង។ ការផ្សាយព័ត៌មានបន្ទាន់របស់យើងឥឡូវនេះនៅតែបន្ត។"
+    },
+    {
+      "speaker": "Announcer",
+      "text": "This is CNN breaking news.",
+      "cn": "នេះគឺជាព័ត៌មានបន្ទាន់របស់ CNN។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And the breaking news we are following, the war with Iran. New threats, new attacks. Are we in a new phase of this war?",
+      "cn": "ព័ត៌មានបន្ទាន់ដែលយើងកំពុងតាមដាន៖ សង្គ្រាមជាមួយអ៊ីរ៉ង់។ ការគំរាមកំហែងថ្មី ការវាយប្រហារថ្មី។ តើយើងស្ថិតនៅក្នុងដំណាក់កាលថ្មីនៃសង្គ្រាមនេះឬ?"
+    },
+    {
+      "speaker": "Trump",
+      "text": "When they hit, we hit back much harder. They started this. They're a little bit out of control, but they want to make a deal badly.",
+      "cn": "នៅពេលពួកគេវាយប្រហារ យើងតបតវិញកាន់តែខ្លាំង។ ពួកគេជាអ្នកចាប់ផ្តើម។ ពួកគេហាក់ដូចជាបាត់បង់ការគ្រប់គ្រងបន្តិច ប៉ុន្តែពួកគេចង់ឈានដល់កិច្ចព្រមព្រៀងខ្លាំងណាស់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Good morning, everybody. I'm Audie Cornish. We're going to start with the big question this morning. Are the U.S. and Iran about to return to full-scale war? The U.S. military hit more than 90 military targets last night. President Trump posted these videos on Truth Social showing some of the attacks. var CNN = CNN || {};",
+      "cn": "សួស្តីព្រឹក។ ខ្ញុំគឺ Audie Cornish។ យើងចាប់ផ្តើមជាមួយនឹងសំណួរធំនៅព្រឹកនេះ។ តើសហរដ្ឋអាមេរិក និងអ៊ីរ៉ង់ជិតត្រឡប់ទៅរកសង្គ្រាមពេញលេញវិញឬ? កងទ័ពអាមេរិកបានវាយប្រហារគោលដៅយោធាជាង 90 កាលពីយប់មិញ។ លោកប្រធានាធិបតី Trump បានបង្ហោះវីដេអូទាំងនេះនៅលើ Truth Social ដោយបង្ហាញពីការវាយប្រហារមួយចំនួន។"
+    }
+  ]
+}

@@ -1,0 +1,1162 @@
+{
+  "date": "2026-07-09",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-09/segment/01",
+  "summary": "美国与伊朗在停火协议后再次互相打击，美国称停火'暂时停止'，美军打击伊朗90个目标，伊朗报复袭击美军在科威特和巴林的基地。伊朗前最高领袖霍梅内伊葬礼接近尾声，其子穆杰塔巴未公开露面。德国外长表示愿在霍尔木兹海峡部署扫雷艇，但需各方同意。局势升级引发国际担忧。",
+  "vocabulary": [
+    {
+      "word": "ceasefire",
+      "phonetic": "/ˈsiːsfaɪər/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "停火，停火协议",
+      "en": "a temporary suspension of fighting, typically one during which peace talks take place",
+      "excerpt": "A U.S. official telling CNN the ceasefire with Iran has, quote, temporarily ceased",
+      "example_cn": "一位美国官员告诉CNN，与伊朗的停火已'暂时停止'",
+      "audio_url": "output/audio/vocab/2026-07-09/ceasefire-dcd3a293.mp3"
+    },
+    {
+      "word": "dynamic",
+      "phonetic": "/daɪˈnæmɪk/",
+      "pos": "adj.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "动态的，不断变化的",
+      "en": "characterized by constant change, activity, or progress",
+      "excerpt": "the situation remains dynamic",
+      "example_cn": "局势仍然动态变化",
+      "audio_url": "output/audio/vocab/2026-07-09/dynamic-54522205.mp3"
+    },
+    {
+      "word": "maritime control tower",
+      "phonetic": "/ˈmærɪtaɪm kənˈtroʊl ˈtaʊər/",
+      "pos": "n. phrase",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "军事安全",
+      "level": "专业术语 · 高阶",
+      "cn": "海上控制塔",
+      "en": "a tower used to monitor and control maritime traffic in a port or waterway",
+      "excerpt": "showing some damage to what is a maritime control tower in a port city",
+      "example_cn": "显示对一个港口城市的海上控制塔造成了一些损坏",
+      "audio_url": "output/audio/vocab/2026-07-09/maritime-control-tower-dc03f18b.mp3"
+    },
+    {
+      "word": "civilian infrastructure",
+      "phonetic": "/sɪˈvɪliən ˈɪnfrəstrʌktʃər/",
+      "pos": "n. phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "民用基础设施",
+      "en": "the basic physical and organizational structures needed for the operation of a society, such as roads, bridges, and power grids, that are not military",
+      "excerpt": "this would be a rare case where civilian infrastructure was targeted",
+      "example_cn": "这将是一个罕见的针对民用基础设施的案例",
+      "audio_url": "output/audio/vocab/2026-07-09/civilian-infrastructure-a95f6bb5.mp3"
+    },
+    {
+      "word": "negotiator",
+      "phonetic": "/nɪˈɡoʊʃieɪtər/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "谈判者，协商者",
+      "en": "a person who conducts negotiations, especially in business or politics",
+      "excerpt": "Their top negotiator posting this warning on X",
+      "example_cn": "首席谈判代表 mereka memposting peringatan ini di X",
+      "audio_url": "output/audio/vocab/2026-07-09/negotiator-f7a6194f.mp3"
+    },
+    {
+      "word": "bullying",
+      "phonetic": "/ˈbʊliɪŋ/",
+      "pos": "n.",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Dasar",
+      "domain": "Umum",
+      "level": "Ekspresi sehari-hari · Dasar",
+      "cn": "perundungan, intimidasi",
+      "en": "behavior that involves the use of force, threat, or coercion to abuse, intimidate, or aggressively dominate others",
+      "excerpt": "America still hasn't learned that bullying and breaking promises are no longer cost-free",
+      "example_cn": "Amerika Serikat masih belum belajar bahwa perundungan dan pengingkaran janji tidak lagi tanpa konsekuensi",
+      "audio_url": "output/audio/vocab/2026-07-09/bullying-6c73b88a.mp3"
+    },
+    {
+      "word": "flagrant violation",
+      "phonetic": "/ˈfleɪɡrənt ˌvaɪəˈleɪʃən/",
+      "pos": "n. phrase",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Hukum dan peradilan",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "pelanggaran terang-terangan",
+      "en": "a blatant and deliberate breach of a law, rule, or agreement",
+      "excerpt": "calling it a flagrant violation of international humanitarian law",
+      "example_cn": "Menyebutnya sebagai pelanggaran terang-terangan terhadap hukum humaniter internasional",
+      "audio_url": "output/audio/vocab/2026-07-09/flagrant-violation-62a87e4b.mp3"
+    },
+    {
+      "word": "escalation",
+      "phonetic": "/ˌeskəˈleɪʃən/",
+      "pos": "n.",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan diplomasi",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "eskalasi, peningkatan",
+      "en": "an increase in the intensity or seriousness of something, especially a conflict",
+      "excerpt": "this is really the most serious escalation in violence that we've seen",
+      "example_cn": "Ini benar-benar eskalasi kekerasan terburuk yang pernah kita lihat",
+      "audio_url": "output/audio/vocab/2026-07-09/escalation-24aaa8e9.mp3"
+    },
+    {
+      "word": "memorandum of understanding",
+      "phonetic": "/ˌmeməˈrændəm əv ˌʌndərˈstændɪŋ/",
+      "pos": "n. phrase",
+      "usage": "Istilah teknis",
+      "difficulty": "Tingkat tinggi",
+      "domain": "Politik dan diplomasi",
+      "level": "Istilah teknis · Tingkat tinggi",
+      "cn": "nota kesepahaman",
+      "en": "a type of agreement between two or more parties, often used in international relations, that outlines the terms and details of an understanding",
+      "excerpt": "since this memorandum of understanding was signed",
+      "example_cn": "Sejak nota kesepahaman ini ditandatangani",
+      "audio_url": "output/audio/vocab/2026-07-09/memorandum-of-understanding-2755ba2a.mp3"
+    },
+    {
+      "word": "catastrophic",
+      "phonetic": "/ˌkætəˈstrɑːfɪk/",
+      "pos": "adj.",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "灾难性的",
+      "en": "involving or causing sudden great damage or suffering",
+      "excerpt": "a return to full-scale hostilities would have catastrophic consequences",
+      "example_cn": "恢复全面敌对行动将产生灾难性后果",
+      "audio_url": "output/audio/vocab/2026-07-09/catastrophic-8e11cf31.mp3"
+    },
+    {
+      "word": "Strait of Hormuz",
+      "phonetic": "/streɪt əv hɔːrˈmuːz/",
+      "pos": "n. phrase",
+      "usage": "专名背景",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "专名背景 · 高阶",
+      "cn": "霍尔木兹海峡",
+      "en": "a narrow strait between the Persian Gulf and the Gulf of Oman, a critical oil transit chokepoint",
+      "excerpt": "It really is focusing around the Strait of Hormuz",
+      "example_cn": "这确实集中在霍尔木兹海峡周围",
+      "audio_url": "output/audio/vocab/2026-07-09/strait-of-hormuz-86ad5d19.mp3"
+    },
+    {
+      "word": "retaliation",
+      "phonetic": "/rɪˌtæliˈeɪʃən/",
+      "pos": "n.",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "报复",
+      "en": "the action of returning a military attack; counterattack",
+      "excerpt": "Iran also claiming that it targeted Qatar in the retaliation against these U.S. military assets",
+      "example_cn": "伊朗还声称，在针对这些美国军事资产的报复中，它瞄准了卡塔尔",
+      "audio_url": "output/audio/vocab/2026-07-09/retaliation-4746360b.mp3"
+    },
+    {
+      "word": "minesweeper",
+      "phonetic": "/ˈmaɪnswiːpər/",
+      "pos": "n.",
+      "usage": "专业术语",
+      "difficulty": "高阶",
+      "domain": "军事安全",
+      "level": "专业术语 · 高阶",
+      "cn": "扫雷艇",
+      "en": "a small naval vessel designed to detect and remove naval mines",
+      "excerpt": "And we have deployed a minesweeper in the region",
+      "example_cn": "我们已经在那个地区部署了一艘扫雷艇",
+      "audio_url": "output/audio/vocab/2026-07-09/minesweeper-956b5fff.mp3"
+    },
+    {
+      "word": "permissive environment",
+      "phonetic": "/pərˈmɪsɪv ɪnˈvaɪrənmənt/",
+      "pos": "n. phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "许可环境，允许行动的环境",
+      "en": "a situation in which conditions allow for a particular action to be taken, often with the consent of relevant parties",
+      "excerpt": "a permissive environment is needed",
+      "example_cn": "需要一个许可的环境",
+      "audio_url": "output/audio/vocab/2026-07-09/permissive-environment-f550aa4f.mp3"
+    },
+    {
+      "word": "tit-for-tat",
+      "phonetic": "/ˈtɪt fər ˈtæt/",
+      "pos": "adj./n.",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "以牙还牙的，针锋相对的",
+      "en": "a situation in which one person or group responds to another's action with a similar action",
+      "excerpt": "in the middle of this tit-for-tat that we are seeing at this exact moment",
+      "example_cn": "处于我们此刻正在看到的这种针锋相对之中",
+      "audio_url": "output/audio/vocab/2026-07-09/tit-for-tat-fefd1ab8.mp3"
+    },
+    {
+      "word": "funeral procession",
+      "phonetic": "/ˈfjuːnərəl prəˈseʃən/",
+      "pos": "n. phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "社会民生",
+      "level": "日常表达 · 基础",
+      "cn": "葬礼队伍，送葬行列",
+      "en": "a formal movement of people accompanying a dead body to its burial or cremation",
+      "excerpt": "the week-long funeral procession for Iran's former supreme leader nears an end",
+      "example_cn": "伊朗前最高领袖为期一周的葬礼队伍接近尾声",
+      "audio_url": "output/audio/vocab/2026-07-09/funeral-procession-9169cc68.mp3"
+    },
+    {
+      "word": "supreme leader",
+      "phonetic": "/suːˈpriːm ˈliːdər/",
+      "pos": "n. phrase",
+      "usage": "专名背景",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "专名背景 · 进阶",
+      "cn": "最高领袖",
+      "en": "the highest-ranking political and religious authority in Iran, with ultimate power over the government",
+      "excerpt": "the week-long funeral procession for Iran's former supreme leader",
+      "example_cn": "伊朗前最高领袖为期一周的葬礼队伍",
+      "audio_url": "output/audio/vocab/2026-07-09/supreme-leader-d93e3eb5.mp3"
+    },
+    {
+      "word": "final resting place",
+      "phonetic": "/ˈfaɪnəl ˈrestɪŋ pleɪs/",
+      "pos": "n. phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "社会民生",
+      "level": "日常表达 · 基础",
+      "cn": "最终安息地，墓地",
+      "en": "the place where a dead person is buried",
+      "excerpt": "His coffin is now being taken to its final resting place",
+      "example_cn": "他的棺材现在正被运往最终安息地",
+      "audio_url": "output/audio/vocab/2026-07-09/final-resting-place-4435f516.mp3"
+    },
+    {
+      "word": "take the reins",
+      "phonetic": "/teɪk ðə reɪnz/",
+      "pos": "v. phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "接管，掌控",
+      "en": "to take control or assume leadership",
+      "excerpt": "He hasn't been seen since taking the reins of the Islamic Republic of Iran",
+      "example_cn": "自从接管伊朗伊斯兰共和国以来，他一直没有露面",
+      "audio_url": "output/audio/vocab/2026-07-09/take-the-reins-7c971fdd.mp3"
+    },
+    {
+      "word": "in force",
+      "phonetic": "/ɪn fɔːrs/",
+      "pos": "adv. phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "大批地，大规模地",
+      "en": "in large numbers",
+      "excerpt": "many people came out. They were out in force",
+      "example_cn": "许多人出来了。他们大批出动",
+      "audio_url": "output/audio/vocab/2026-07-09/in-force-4b73aced.mp3"
+    },
+    {
+      "word": "call the shots",
+      "phonetic": "/kɔːl ðə ʃɑːts/",
+      "pos": "v. phrase",
+      "usage": "固定搭配",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "固定搭配 · 进阶",
+      "cn": "发号施令，掌控局面",
+      "en": "to be in charge; to make the important decisions",
+      "excerpt": "he is the one calling the shots",
+      "example_cn": "他是那个发号施令的人",
+      "audio_url": "output/audio/vocab/2026-07-09/call-the-shots-c53400ab.mp3"
+    },
+    {
+      "word": "stranded",
+      "phonetic": "/ˈstrændɪd/",
+      "pos": "adj.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "搁浅的，被困的",
+      "en": "left without the means to move from somewhere",
+      "excerpt": "some 6,000 seafarers that is still stranded in the Persian Gulf",
+      "example_cn": "大约6000名海员仍然被困在波斯湾",
+      "audio_url": "output/audio/vocab/2026-07-09/stranded-f81f2ccb.mp3"
+    },
+    {
+      "word": "waterway",
+      "phonetic": "/ˈwɔːtərweɪ/",
+      "pos": "n.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "水路，航道",
+      "en": "a river, canal, or other navigable channel used for travel or transport",
+      "excerpt": "they are unable to get out of this waterway at this point",
+      "example_cn": "他们目前无法离开这条水道",
+      "audio_url": "output/audio/vocab/2026-07-09/waterway-173f03da.mp3"
+    },
+    {
+      "word": "hug",
+      "phonetic": "/hʌɡ/",
+      "pos": "v.",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "紧靠，沿着……走",
+      "en": "to keep close to something, especially a coast or border",
+      "excerpt": "a northern route, which hugs the Iranian coast",
+      "example_cn": "一条紧靠伊朗海岸的北部路线",
+      "audio_url": "output/audio/vocab/2026-07-09/hug-f11fb55c.mp3"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "A U.S. official telling CNN the ceasefire with Iran has, quote, temporarily ceased, but the situation remains dynamic.",
+      "cn": "Seorang pejabat AS mengatakan kepada CNN bahwa gencatan senjata dengan Iran \"untuk sementara dihentikan\", namun situasi masih dinamis.",
+      "structure": "Klausa utama (A U.S. official telling CNN) + klausa objek (the ceasefire...ceased) + sisipan (quote) + klausa setara (but the situation remains dynamic)",
+      "analysis": "quote menunjukkan kutipan langsung, sering digunakan dalam berita; dynamic berarti dinamis, terus berubah, kata frekuensi tinggi dalam berita."
+    },
+    {
+      "en": "And if confirmed, this would be a rare case where civilian infrastructure was targeted.",
+      "cn": "Jika dikonfirmasi, ini akan menjadi kasus langka yang menargetkan infrastruktur sipil.",
+      "structure": "Klausa kondisi (if confirmed) + klausa utama (this would be a rare case) + klausa relatif (where civilian infrastructure was targeted)",
+      "analysis": "if confirmed adalah struktur elips, lengkapnya if it is confirmed; rare case berarti kasus langka; civilian infrastructure berarti infrastruktur sipil."
+    },
+    {
+      "en": "Iran's military says it targeted U.S. military bases in Kuwait and Bahrain.",
+      "cn": "Militer Iran mengatakan mereka menyerang pangkalan militer AS di Kuwait dan Bahrain.",
+      "structure": "Klausa utama (Iran's military says) + klausa objek (it targeted...)",
+      "analysis": "target sebagai kata kerja, berarti membidik, menyerang; military bases berarti pangkalan militer."
+    },
+    {
+      "en": "Their top negotiator posting this warning on X, quote, \"America still hasn't learned that bullying and breaking promises are no longer cost-free.\"",
+      "cn": "Negosiator utama mereka memposting peringatan di X: \"Amerika masih belum belajar bahwa intimidasi dan ingkar janji tidak lagi tanpa biaya.\"",
+      "structure": "Klausa utama (Their top negotiator posting this warning on X) + sisipan (quote) + kutipan langsung (America still hasn't learned that...)",
+      "analysis": "posting adalah present participle sebagai keterangan penyerta; bullying and breaking promises adalah subjek setara; cost-free berarti tanpa biaya."
+    },
+    {
+      "en": "Bahrain saying that they had intercepted several attacks, calling it a flagrant violation of international humanitarian law.",
+      "cn": "Bahrain mengatakan mereka mencegat beberapa serangan dan menyebutnya sebagai pelanggaran terang-terangan terhadap hukum humaniter internasional.",
+      "structure": "Klausa utama (Bahrain saying) + klausa objek (that they had intercepted...) + keterangan penyerta (calling it...)",
+      "analysis": "intercept berarti mencegat; flagrant violation berarti pelanggaran terang-terangan; international humanitarian law berarti hukum humaniter internasional."
+    },
+    {
+      "en": "Now, this is really the most serious escalation in violence that we've seen since this memorandum of understanding was signed.",
+      "cn": "Ini adalah eskalasi paling serius yang telah kita lihat sejak nota kesepahaman itu ditandatangani.",
+      "structure": "Klausa utama (this is the most serious escalation) + klausa relatif (that we've seen) + klausa waktu (since...was signed)",
+      "analysis": "escalation berarti eskalasi; memorandum of understanding berarti nota kesepahaman, sering disingkat MoU."
+    },
+    {
+      "en": "The Secretary General reiterates that a return to full-scale hostilities would have catastrophic consequences for the peoples of the region, for international peace and security, and for the global economy.",
+      "cn": "Sekretaris Jenderal menegaskan bahwa kembali ke permusuhan skala penuh akan menimbulkan konsekuensi bencana bagi rakyat di kawasan, perdamaian dan keamanan internasional, serta ekonomi global.",
+      "structure": "Klausa utama (The Secretary General reiterates) + klausa objek (that a return...would have...) + frasa preposisi setara (for...for...and for...)",
+      "analysis": "reiterate berarti menegaskan; full-scale hostilities berarti permusuhan skala penuh; catastrophic consequences berarti konsekuensi bencana; tiga for setara menekankan cakupan dampak."
+    },
+    {
+      "en": "We are seeing the number of vessels managing to get through that critical waterway lesson because of the increase in hostilities.",
+      "cn": "Karena meningkatnya permusuhan, kita melihat penurunan jumlah kapal yang berhasil melewati jalur air kritis tersebut.",
+      "structure": "Klausa utama (We are seeing) + objek (the number of vessels) + frasa present participle (managing to get through...) + keterangan sebab (because of...)",
+      "analysis": "vessels berarti kapal; critical waterway berarti jalur air kritis; lesson seharusnya less (berkurang), mungkin kesalahan transkripsi, tetapi diperlakukan sesuai teks asli."
+    },
+    {
+      "en": "On Wednesday, we had some facts and figures from marine traffic saying that, in the previous 24 hours, about 20 ships had managed to get through.",
+      "cn": "周三，我们从海上交通数据中得知，在过去24小时内，约有20艘船只成功通过。",
+      "structure": "时间状语（On Wednesday）+ 主句（we had some facts and figures）+ 现在分词短语（saying that...）+ 宾语从句（about 20 ships had managed to get through）",
+      "analysis": "facts and figures事实和数据；marine traffic海上交通；manage to do设法做成。"
+    },
+    {
+      "en": "We're also hearing from the U.N. Maritime Agency that they still have some 6,000 seafarers that is still stranded in the Persian Gulf since this war began, so many of them since February 28th, that they are unable to get out of this waterway at this point because of these hostilities that are ongoing.",
+      "cn": "我们还从联合国海事机构获悉，自战争开始以来，仍有约6000名海员被困在波斯湾，其中许多人自2月28日起就无法离开这条水道，原因是持续的敌对行动。",
+      "structure": "主句（We're hearing from...）+ 宾语从句（that they still have...）+ 定语从句（that is still stranded...）+ 同位语（so many of them since February 28th）+ 结果状语从句（that they are unable to get out...）+ 原因状语（because of...）",
+      "analysis": "seafarers海员；stranded被困；waterway水道；ongoing持续的。"
+    },
+    {
+      "en": "Al Jazeera just spoke to Germany's foreign minister, and he said that they were ready to at least take some supportive action in the Strait of Hormuz.",
+      "cn": "半岛电视台刚刚采访了德国外长，他表示他们准备至少在霍尔木兹海峡采取一些支持性行动。",
+      "structure": "并列句（Al Jazeera spoke...and he said）+ 宾语从句（that they were ready to...）",
+      "analysis": "Al Jazeera半岛电视台；foreign minister外交部长；supportive action支持性行动；Strait of Hormuz霍尔木兹海峡。"
+    },
+    {
+      "en": "We are urging all parties to come back to the negotiation table.",
+      "cn": "我们敦促各方回到谈判桌。",
+      "structure": "主句（We are urging）+ 宾语（all parties）+ 不定式短语（to come back to...）",
+      "analysis": "urge sb. to do敦促某人做某事；negotiation table谈判桌，比喻谈判。"
+    },
+    {
+      "en": "These mines are believed to be planted by Iran in the central route through the Strait of Hormuz.",
+      "cn": "这些水雷据信是伊朗在霍尔木兹海峡的中央航道上布设的。",
+      "structure": "主句（These mines are believed）+ 不定式短语（to be planted by Iran）+ 地点状语（in the central route...）",
+      "analysis": "be believed to be据信是；planted布设；central route中央航道。"
+    },
+    {
+      "en": "There is still a northern route, which hugs the Iranian coast, but that is the route where you have to have Iranian permission and coordination.",
+      "cn": "还有一条北部航道，紧贴伊朗海岸，但那条航道需要获得伊朗的许可和协调。",
+      "structure": "There be句型（There is a northern route）+ 非限制性定语从句（which hugs...）+ 并列句（but that is the route）+ 定语从句（where you have to have...）",
+      "analysis": "hug紧贴；permission and coordination许可和协调。"
+    },
+    {
+      "en": "They believe that they are in control of the Strait of Hormuz, that this memorandum gives them control over the logistics, the coordination, and all ships transiting through have to coordinate with them and any that are trying to avoid that and go via the Omani route, some of them are being targeted.",
+      "cn": "他们认为自己控制着霍尔木兹海峡，这份备忘录赋予他们对物流和协调的控制权，所有过境船只都必须与他们协调，而那些试图避开并经由阿曼航道的船只，其中一些正成为攻击目标。",
+      "structure": "主句（They believe）+ 两个并列宾语从句（that they are in control...that this memorandum gives...）+ 并列句（and all ships...have to coordinate...）+ 定语从句（that are trying to avoid...）+ 主句（some of them are being targeted）",
+      "analysis": "in control of控制；logistics物流；transit through过境；coordinate协调；Omani route阿曼航道；targeted被瞄准。"
+    },
+    {
+      "en": "But as I say, it's hard to believe that any country, any of these European nations offering the mine-sweeping capabilities are going to want to put their vessels and their personnel in the middle of this tit-for-tat that we are seeing at this exact moment.",
+      "cn": "但正如我所说，很难相信任何国家，这些提供扫雷能力的欧洲国家，会愿意将他们的船只和人员置于我们此刻看到的这种针锋相对之中。",
+      "structure": "插入语（as I say）+ 主句（it's hard to believe）+ 宾语从句（that any country...are going to want to...）+ 定语从句（that we are seeing...）",
+      "analysis": "mine-sweeping扫雷；tit-for-tat针锋相对；at this exact moment此刻。"
+    },
+    {
+      "en": "This new round of strikes is coming as the week-long funeral procession for Iran's former supreme leader nears an end.",
+      "cn": "新一轮打击正值伊朗前最高领袖为期一周的葬礼接近尾声之际。",
+      "structure": "主句（This new round of strikes is coming）+ 时间状语从句（as the funeral procession nears an end）",
+      "analysis": "a new round of 新一轮；funeral procession 葬礼队伍；nears an end 接近尾声。"
+    },
+    {
+      "en": "Earlier today, we were talking about this marathon funeral continued in Iraq, where mourners carried Ali Khamenei's coffin in a crowded mosque.",
+      "cn": "今天早些时候，我们谈到这场马拉松式的葬礼在伊拉克继续举行，哀悼者在一个拥挤的清真寺中抬着阿里·哈梅内伊的灵柩。",
+      "structure": "时间状语（Earlier today）+ 主句（we were talking about this marathon funeral）+ 定语从句（where mourners carried...）",
+      "analysis": "marathon funeral 马拉松式葬礼；mourners 哀悼者；coffin 灵柩；crowded mosque 拥挤的清真寺。"
+    },
+    {
+      "en": "The question looming over today's events, will the new Supreme Leader, Khamenei's son, make an appearance?",
+      "cn": "笼罩在今天活动上的问题是，新最高领袖、哈梅内伊的儿子会露面吗？",
+      "structure": "主句（The question looming over today's events）+ 同位语（will the new Supreme Leader...make an appearance?）",
+      "analysis": "looming over 笼罩；make an appearance 露面。"
+    },
+    {
+      "en": "One of the things, though, that the leadership here says is they say that he's fully in charge, he's fully in control.",
+      "cn": "不过，这里的领导层所说的一件事是，他们说他完全负责，完全掌控。",
+      "structure": "主句（One of the things is）+ 定语从句（that the leadership here says）+ 表语从句（they say that...）",
+      "analysis": "in charge 负责；in control 掌控。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "美伊冲突与停火协议",
+      "content": "美国与伊朗在2026年签署了谅解备忘录（memorandum of understanding），但近期因伊朗在霍尔木兹海峡袭击船只，美国发动报复性打击，导致停火'暂时停止'。双方互相攻击，局势升级，国际社会担忧全面战争。",
+      "keywords": "ceasefire · memorandum of understanding · escalation · retaliation"
+    },
+    {
+      "title": "霍尔木兹海峡的战略重要性",
+      "content": "霍尔木兹海峡（Strait of Hormuz）是连接波斯湾和印度洋的狭窄水道，全球约20%的石油运输经过此处。伊朗曾威胁封锁海峡，目前因冲突导致航运大幅减少，约6000名海员被困。",
+      "keywords": "Strait of Hormuz · waterway · oil transit · stranded seafarers"
+    },
+    {
+      "title": "伊朗最高领袖更替",
+      "content": "伊朗前最高领袖阿里·霍梅内伊（Ali Khamenei）去世后，其子穆杰塔巴·霍梅内伊（Mojtaba Khamenei）继任，但未公开露面。葬礼持续一周，从德黑兰到伊拉克再到马什哈德，民众情绪愤怒，要求报复美国。",
+      "keywords": "supreme leader · Ali Khamenei · Mojtaba Khamenei · funeral procession"
+    },
+    {
+      "title": "国际社会的反应与调解努力",
+      "content": "联合国秘书长警告全面敌对行动将带来灾难性后果。德国外长表示愿在霍尔木兹海峡部署扫雷艇（minesweeper），但需伊朗和阿曼同意。各方呼吁回到谈判桌。",
+      "keywords": "United Nations · minesweeper · permissive environment · negotiation"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "Berdasarkan teks asli, 'A U.S. official telling CNN the ceasefire with Iran has, quote, temporarily ceased' kata 'ceased' paling mendekati arti?",
+      "options": [
+        "A. Mulai",
+        "B. Berhenti",
+        "C. Perpanjang",
+        "D. Perkuat"
+      ],
+      "answer": 1,
+      "explanation": "ceased berarti 'berhenti', sesuai dengan teks asli 'gencatan senjata untuk sementara berhenti'."
+    },
+    {
+      "type": "vocab",
+      "question": "Dalam teks asli 'calling it a flagrant violation of international humanitarian law', kata 'flagrant' berarti?",
+      "options": [
+        "A. Ringan",
+        "B. Terang-terangan",
+        "C. Rahasia",
+        "D. Sah"
+      ],
+      "answer": 1,
+      "explanation": "flagrant berarti 'terang-terangan, mencolok', menekankan beratnya pelanggaran."
+    },
+    {
+      "type": "vocab",
+      "question": "Frasa 'take the reins' dalam teks asli 'He hasn't been seen since taking the reins of the Islamic Republic of Iran' berarti?",
+      "options": [
+        "A. Melepaskan kekuasaan",
+        "B. Mengambil alih kendali",
+        "C. Berkuda",
+        "D. Berpidato"
+      ],
+      "answer": 1,
+      "explanation": "take the reins adalah ungkapan tetap, berarti 'mengambil alih, mengendalikan', di sini merujuk pada Mujtaba mengambil alih kepemimpinan Iran."
+    },
+    {
+      "type": "comprehension",
+      "question": "Menurut laporan, bagaimana status gencatan senjata antara AS dan Iran?",
+      "options": [
+        "A. Masih berlaku",
+        "B. Sudah berakhir permanen",
+        "C. Berhenti sementara, situasi dinamis",
+        "D. Dipulihkan paksa oleh PBB"
+      ],
+      "answer": 2,
+      "explanation": "Teks asli dengan jelas menyatakan 'gencatan senjata untuk sementara berhenti, tetapi situasi masih dinamis', jadi pilih C."
+    },
+    {
+      "type": "comprehension",
+      "question": "Manakah pernyataan berikut yang benar tentang pelayaran di Selat Hormuz?",
+      "options": [
+        "A. Masih ada 110 kapal per hari yang melintas",
+        "B. Sekitar 20 kapal melintas dalam 24 jam",
+        "C. Semua kapal menggunakan rute utara",
+        "D. Iran telah memblokade selat sepenuhnya"
+      ],
+      "answer": 1,
+      "explanation": "Teks asli menyebutkan 'dalam 24 jam sebelumnya, sekitar 20 kapal berhasil melewati', sedangkan sebelum perang 110 kapal per hari, jadi B benar."
+    },
+    {
+      "type": "comprehension",
+      "question": "Bagaimana sikap putra mantan Pemimpin Tertinggi Iran, Mujtaba Khomeini, dalam pemakaman ayahnya?",
+      "options": [
+        "A. Muncul di depan umum dan berpidato",
+        "B. Tidak muncul di depan umum, hanya berkomunikasi melalui pernyataan tertulis",
+        "C. Memimpin pemakaman di Irak",
+        "D. Mengumumkan pengunduran diri"
+      ],
+      "answer": 1,
+      "explanation": "Teks asli mengatakan 'dia tidak muncul sejak mengambil alih', 'hanya berkomunikasi melalui pernyataan tertulis', jadi B benar."
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Announcer",
+      "text": "This is CNN Breaking News.",
+      "cn": "这里是CNN突发新闻。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "We're following this breaking news in the war with Iran after another night of strikes between the U.S. and Iran. Is the U.S. getting ready to return to full-scale war?",
+      "cn": "在美伊之间又一晚的打击之后，我们正在关注这场与伊朗的战争中的突发新闻。美国是否准备重返全面战争？"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "We just hit it very hard. And I'd say we hit it 20 to 1. Every time they hit us, we're going to hit them 20. And when they hit, we hit back much harder.",
+      "cn": "我们刚刚狠狠地打击了他们。我要说我们以20比1的比例还击。每次他们打击我们，我们都会以20倍的力量回击。当他们出手时，我们会以更猛烈的力度反击。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Good morning, everyone. I'm Audie Cornish. I want to start here. The uncertainty in the region this morning. A U.S. official telling CNN the ceasefire with Iran has, quote, temporarily ceased, but the situation remains dynamic. So, overnight, the U.S. military hit 90 targets in Iran. This is video obtained by CNN. You can see here showing some damage to what is a maritime control tower in a port city in the southeastern coast of Iran. Now, Iran claims the U.S. also hit a railway bridge northeast of Tehran.",
+      "cn": "大家早上好。我是奥黛·科尼什。我想从这里开始。今天上午该地区局势不确定。一位美国官员告诉CNN，与伊朗的停火协议\"暂时停止\"，但局势仍然动态变化。所以，一夜之间，美军打击了伊朗境内的90个目标。这是CNN获得的视频。你可以在这里看到，伊朗东南海岸一个港口城市的海上控制塔遭到了一些破坏。现在，伊朗声称美国还袭击了德黑兰东北部的一座铁路桥。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And if confirmed, this would be a rare case where civilian infrastructure was targeted. Iran's military says it targeted U.S. military bases in Kuwait and Bahrain. Their top negotiator posting this warning on X, quote, \"America still hasn't learned that bullying and breaking promises are no longer cost- free. If you strike, you'll get hit.\" So we're bringing in CNN's Paula Hancocks joins us from Abu Dhabi. I want to start with the targets. We know that Iran has threatened to hit back.",
+      "cn": "如果得到证实，这将是罕见的针对民用基础设施的案例。伊朗军方表示，他们袭击了美国在科威特和巴林的军事基地。他们的首席谈判代表在X上发布了这一警告，引用如下：\"美国仍然没有学到，欺凌和背信弃义不再是没有代价的。如果你打击，你就会遭到打击。\"所以我们请来了CNN的保拉·汉考克斯，她从阿布扎比加入我们。我想从目标开始。我们知道伊朗威胁要报复。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Do we have any sense of whether they were able to cause damage to U.S. military bases or civilian places in the region?",
+      "cn": "我们是否知道他们是否能够对该地区的美国军事基地或民用场所造成破坏？"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "So, Audie, we haven't had confirmation from those Gulf nations at this point as to exactly what damage there was, if there was any damage. But we do know it was a second night of sleeplessness for residents in both Bahrain and Kuwait. Bahrain saying that they had intercepted several attacks, calling it a flagrant violation of international humanitarian law. Iran also claiming that it targeted Qatar. in the retaliation against these U.S. military assets.",
+      "cn": "所以，奥黛，我们目前还没有从这些海湾国家得到确认，到底造成了什么破坏，如果有的话。但我们知道，对于巴林和科威特的居民来说，这是又一个不眠之夜。巴林表示，他们拦截了几次袭击，称这是公然违反国际人道主义法的行为。伊朗还声称，他们袭击了卡塔尔，作为对这些美国军事资产的报复。"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "Now, this is really the most serious escalation in violence that we've seen since this memorandum of understanding was signed. We are hearing from many around the world concerns that this will continue to escalate. I have a statement here from the United Nations spokesperson I want to read to you saying, quote, The Secretary General reiterates that a return to full-scale hostilities would have catastrophic consequences for the peoples of the region, for international peace and security, and for the global economy.",
+      "cn": "现在，这确实是自谅解备忘录签署以来我们所看到的最严重的暴力升级。我们听到世界各地许多人担心这种情况会继续升级。我这里有联合国发言人的一份声明，我想读给你们听，引用如下：\"秘书长重申，恢复全面敌对行动将对该地区人民、国际和平与安全以及全球经济造成灾难性后果。\""
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "Now, it really is focusing around the Strait of Hormuz, starting when U.S. officials say that Iran targeted three vessels in the Strait of Hormuz, which sparked this 48 hours of U.S. strikes followed by Iranian retaliation. We are seeing the number of vessels managing to get through that critical waterway lesson because of the increase in hostilities. On Wednesday, we had some facts and figures from marine traffic saying that, in the previous 24 hours, about 20 ships had managed to get through.",
+      "cn": "现在，焦点确实集中在霍尔木兹海峡，始于美国官员称伊朗袭击了霍尔木兹海峡的三艘船只，这引发了美国48小时的打击，随后伊朗进行了报复。我们看到，由于敌对行动的加剧，能够通过这条关键水道的船只数量减少了。周三，我们从海上交通数据中了解到，在过去24小时内，大约有20艘船只成功通过。"
+    },
+    {
+      "speaker": "Paula Hancocks",
+      "text": "Now, bear in mind, it's usually 110 per day at the pre-war level. So, certainly, we are seeing a significant impact on the region. We're also hearing from the U.N. Maritime Agency that they still have some 6,000 seafarers that is still stranded in the Persian Gulf since this war began, so many of them since February 28th, that they are unable to get out of this waterway at this point because of these hostilities that are ongoing -- Audie.",
+      "cn": "现在，请记住，战前水平通常是每天110艘。所以，我们确实看到对该地区产生了重大影响。我们还从联合国海事机构获悉，自这场战争开始以来，仍有大约6000名海员被困在波斯湾，其中许多人从2月28日起就无法离开这条水道，因为敌对行动仍在继续 --  -- 奥黛。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Paula, I do want to follow up on that last part because we're coming off a NATO summit. Al Jazeera just spoke to Germany's foreign minister, and he said that they were ready to at least take some supportive action in the Strait of Hormuz. I want you to take a listen.",
+      "cn": "宝拉，我想跟进最后那部分，因为我们刚开完北约峰会。半岛电视台刚刚采访了德国外长，他说他们准备至少在霍尔木兹海峡采取一些支持性行动。请你听一下。"
+    },
+    {
+      "speaker": "Johanna Wadephul",
+      "text": "And we have deployed a minesweeper in the region. We are ready to begin our work. But, of course, a permissive environment is needed. [05:05:2] So we need an agreement with Oman and with Iran that they agree that European units are doing this work. We are urging all parties to come back to the negotiation table.",
+      "cn": "我们已经在当地部署了一艘扫雷艇。我们准备开始工作。但当然，需要一个允许的环境。所以我们需要与阿曼和伊朗达成协议，让他们同意欧洲部队执行这项任务。我们敦促各方回到谈判桌上来。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So does that mean that these minesweepers can't get to work unless there is another ceasefire?",
+      "cn": "那么这是否意味着，除非再次停火，否则这些扫雷艇无法开始工作？"
+    },
+    {
+      "speaker": "Hancocks",
+      "text": "Well, certainly, there are very few countries who are going to want to put their carriers, their personnel, in the middle of what is happening at the moment. These mines are believed to be planted by Iran in the central route through the Strait of Hormuz. There is still a northern route, which hugs the Iranian coast, but that is the route where you have to have Iranian permission and coordination. Now, many vessels don't want to do that.",
+      "cn": "嗯，当然，很少有国家愿意把他们的航母和人员置于当前局势之中。这些水雷据信是伊朗在霍尔木兹海峡的中央航道上布设的。还有一条北部航道，紧贴伊朗海岸，但那条航道需要获得伊朗的许可和协调。现在，许多船只不愿意那样做。"
+    },
+    {
+      "speaker": "Hancocks",
+      "text": "So they are using the southern route of this Strait of Hormuz, so hugging the Omani coast. And that is where this problem lies as far as Iran is concerned. They believe that they are in control of the Strait of Hormuz. They believe that this memorandum gives them control over the logistics, the coordination, and all ships transiting through have to coordinate with them and any that are trying to avoid that and go via the Omani route, some of them are being targeted.",
+      "cn": "所以他们使用霍尔木兹海峡的南部航道，紧贴阿曼海岸。而就伊朗而言，问题就在这里。他们认为自己控制着霍尔木兹海峡。他们认为这份备忘录赋予他们控制物流和协调的权力，所有过往船只都必须与他们协调，任何试图避开这一点而走阿曼航道的船只，其中一些会成为目标。"
+    },
+    {
+      "speaker": "Hancocks",
+      "text": "We know a Saudi tanker, a Qatari tanker earlier this week were both targeted. So when it comes to this central route, it's simply not being used by many vessels at this point, because that is where the mines are believed to be. But as I say, it's hard to believe that any country, any of these European nations offering the mine-sweeping capabilities are going to want to put their vessels and their personnel in the middle of this tit-for-tat that we are seeing at this exact moment -- Audie.",
+      "cn": "我们知道一艘沙特油轮和一辆卡塔尔油轮本周早些时候都成为了目标。所以说到这条中央航道，目前很多船只根本不使用它，因为那里据信有水雷。但正如我所说，很难相信任何国家，任何提供扫雷能力的欧洲国家，会愿意把他们的船只和人员置于我们此刻看到的这种针锋相对之中 --  -- 奥迪。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's Paula Hancock speaking to us from Abu Dhabi. We want to talk about what's been happening in Iran domestically. This new round of strikes is coming as the week-long funeral procession for Iran's former supreme leader nears an end. Earlier today, we were talking about this marathon funeral continued in Iraq, where mourners carried Ali Khamenei's coffin in a crowded mosque. His coffin is now being taken to its final resting place, the town where he was born in Iran.",
+      "cn": "好的，这是宝拉·汉考克从阿布扎比发回的报道。我们来谈谈伊朗国内的情况。新一轮罢工发生之际，伊朗前最高领袖为期一周的葬礼即将结束。今天早些时候，我们谈到这场马拉松式的葬礼在伊拉克继续进行，哀悼者在一个拥挤的清真寺里抬着阿里·哈梅内伊的棺材。他的棺材现在正被运往最后的安息地，他在伊朗出生的城镇。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The question looming over today's events, will the new Supreme Leader, Khamenei's son, make an appearance? So, CNN's Fred Pleitgen is in Tehran. CNN is operating inside the country with permission of the government, and CNN retains full editorial control of our reporting. Fred, I want to start with the former leader being finally laid to rest. The question has been, given the threats to Iran's leadership, whether his son Mojtaba would be there today, and what's the sense of whether that could happen?",
+      "cn": "今天活动的一个悬而未决的问题是，新最高领袖哈梅内伊的儿子会露面吗？CNN的弗雷德·普莱特根在德黑兰。CNN在政府许可下在伊朗境内进行报道，CNN保留对我们报道的完全编辑控制权。弗雷德，我想从这位前领袖最终安葬开始。问题一直是，鉴于伊朗领导层受到的威胁，他的儿子穆杰塔巴今天是否会到场，以及这种可能性有多大？"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "Hi there, Audie. Well, I think it's highly unlikely that Mojtaba Khamenei is going to make an appearance in Mashhad. You're absolutely right. He hasn't been seen since taking the reins of the Islamic Republic of Iran. He's really only communicated by our written statement, so we don't even have any audio messages from him. One of the things, though, that the leadership here says is they say that he's fully in charge, he's fully in control.",
+      "cn": "你好，奥迪。嗯，我认为穆杰塔巴·哈梅内伊在马什哈德露面的可能性非常小。你说得完全正确。自从接管伊朗伊斯兰共和国以来，他就没有出现过。他实际上只通过书面声明进行沟通，所以我们甚至没有他的任何音频信息。不过，这里的领导层说的一件事是，他们说他完全掌控局面，完全在控制之中。"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "Certainly, if you ask the supporters of the Islamic Republic of Iran, and many of them, of course, were out here on the streets over the past couple of days as this marathon funeral ceremonies were going on here in Tehran and other cities in Iran, as you mentioned, also all the way to Iraq and the holiest Shiite cities there, finally ending in Mashhad in the east of Iran today, that many people came out. They were out in force. They were very angry at the United States.",
+      "cn": "当然，如果你问伊朗伊斯兰共和国的支持者，他们中的许多人，当然，在过去几天里，当这场马拉松式的葬礼在德黑兰和伊朗其他城市举行时，正如你提到的，一直延伸到伊拉克和最神圣的什叶派城市，最后今天在伊朗东部的马什哈德结束，很多人都出来了。他们大量出现，对美国非常愤怒。"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "They called for revenge for the killing of Ali Khamenei. Essentially, what the people here are saying is whether or not Mojtaba Khamenei makes an appearance, which seems pretty unlikely at this point in time, that he is the one calling the shots, that he is also the one directing Iran's reaction, for instance, to those U.S. strikes and also to all the negotiations that are going on with the U.S. as well.",
+      "cn": "他们呼吁为阿里·哈梅内伊之死复仇。本质上，这里的人们在说的是，无论穆杰塔巴·哈梅内伊是否露面 --  -- 目前看来这似乎不太可能 --  -- 他才是发号施令的人，也是指挥伊朗反应的人，例如对美国空袭以及与美国进行的所有谈判的反应。"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "So, they say, whether or not he's seen in public, he certainly is a big presence as far as running the Islamic Republic is concerned. And one of the things, Audie, by the way, that we also have to keep in mind is that the office of Supreme Leader is actually a pretty large body. It's also a big administration as well.",
+      "cn": "所以，他们说，无论他是否在公开场合露面，就管理伊斯兰共和国而言，他无疑是一个重要人物。顺便提一下，奥迪，我们还需要记住的一点是，最高领袖办公室实际上是一个相当庞大的机构，也是一个庞大的行政体系。"
+    },
+    {
+      "speaker": "Frederik Pleitgen",
+      "text": "So in any case, that seems to be functioning in a way that at least is effective enough to control those negotiations, but then also, of course, to oversee the ceremonies that we're seeing there happening in Mashhad, which is, of course, the holiest place in Shia Islam on Iranian soil -- Audie.",
+      "cn": "所以无论如何，这个体系似乎至少在有效运作，足以控制那些谈判，当然也监督我们在马什哈德看到的那些仪式 --  -- 马什哈德是伊朗境内什叶派伊斯兰教最神圣的地方 --  -- 奥迪。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "For people who aren't familiar with how this is supposed to work, why the length of time between the Supreme Leader's death and these funeral proceedings?",
+      "cn": "Bagi mereka yang tidak terbiasa dengan proses ini, mengapa ada jeda waktu yang begitu panjang antara kematian pemimpin tertinggi dan pemakamannya?"
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "Well, that's -- yeah, that's basically due to the war that was going on between the United States, Israel, and then Iran on the other side. You'll recall that Ayatollah Ali Khamenei was killed in the early hours of the U.S. and Israel's attacks on Iran in a massive airstrike here in Tehran on his headquarters in the center of the city on February 28. Of course, the Iranians have been vowing revenge, but then the actual kinetic operations between the U.S.",
+      "cn": "Yah, ini -- ya, ini terutama karena perang yang sedang berlangsung antara Amerika Serikat, Israel, dan Iran. Anda mungkin ingat, Ayatollah Ali Khamenei terbunuh pada dini hari saat Amerika Serikat dan Israel melancarkan serangan terhadap Iran, ketika mereka melakukan serangan udara besar-besaran di markasnya di pusat Kota Teheran, pada 28 Februari. Tentu saja, orang Iran terus bersumpah akan membalas dendam, tetapi kemudian Amerika Serikat"
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "and Iran, and of course, Israel on the U.S.'s side went on for an extended period of time, and the Iranians simply felt, that it was too dangerous and logistically difficult to conduct the large funeral ceremonies that they wanted to conduct. And if you look at what's been going on here over the past couple of days, it's been one event after another. I think you called it a marathon funeral ceremony, and that certainly is what it was.",
+      "cn": "dan Iran, dan juga Israel di pihak Amerika, aksi militer sebenarnya berlangsung cukup lama. Orang Iran hanya merasa terlalu berbahaya dan terlalu sulit secara logistik untuk mengadakan upacara pemakaman besar seperti yang mereka inginkan. Jika Anda melihat apa yang terjadi di sini beberapa hari terakhir, itu adalah acara demi acara. Saya kira Anda menyebutnya maraton pemakaman, dan memang begitu."
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "The body, not just of Ayatollah Ali Khamenei, because some members of his family were also killed in that stripe, including a 14-month-old granddaughter. They lie in state for two days. Then there was a very big procession here in Tehran. Then the body was brought to a very important holy site in Iran, then to the two main Shia holy sites, Najaf and Karbala, on Iraqi soil, and then finally today to Mashhad in the east of Iran.",
+      "cn": "Jenazahnya tidak hanya Ayatollah Ali Khamenei, karena sebagian keluarganya juga tewas dalam serangan itu, termasuk seorang cucu perempuan berusia 14 bulan. Mereka disemayamkan selama dua hari. Kemudian ada pawai besar-besaran di Teheran. Setelah itu, jenazah dibawa ke tempat suci yang sangat penting di Iran, lalu ke dua tempat suci Syiah utama di Irak, Najaf dan Karbala, dan akhirnya hari ini tiba di Mashhad, Iran timur."
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "So, as you can imagine, this is a huge logistical operation on the part of the authorities, on the part of organizations that are pitching in as well. And then, of course, also big logistic operation as far as people traveling to those places on planes, trains, and automobiles, that that is something that required a lot of operation by the authorities. And they simply said they didn't have the capacity to do that, as that ceasefire between the U.S.",
+      "cn": "Jadi, bisa dibayangkan, ini adalah operasi logistik besar bagi pihak berwenang dan organisasi yang terlibat. Tentu saja, ini juga merupakan operasi logistik besar bagi orang-orang yang bepergian dengan pesawat, kereta api, dan mobil ke tempat-tempat ini, yang membutuhkan banyak operasi dari pihak berwenang. Mereka hanya mengatakan bahwa mereka tidak mampu melakukannya karena gencatan senjata antara Amerika Serikat"
+    },
+    {
+      "speaker": "Pleitgen",
+      "text": "and Iran, of course, was extremely shaky before the signing of that memorandum of understanding. And now we're seeing it seems shaky once again -- Audie.",
+      "cn": "dan Iran sangat rapuh sebelum nota kesepahaman ditandatangani. Sekarang kita melihatnya tampaknya menjadi rapuh lagi -- Audi."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "One other thing, I've been reading that there are people with signs in English there, and that there have been calls for revenge within the crowd. Can you talk about the mood in and around the cities as they are going through this process? Sure, absolutely. And you're absolutely right. There are a lot of people with signs in English calling for revenge against the United States, revenge against Israel, revenge specifically against U.S. President Donald Trump.",
+      "cn": "Dan satu hal lagi, saya membaca ada orang-orang yang membawa spanduk berbahasa Inggris, dan ada orang-orang di antara kerumunan yang menyerukan balas dendam. Bisakah Anda berbicara tentang suasana di dalam dan di luar kota? Tentu saja. Anda benar sekali. Ada banyak orang yang membawa spanduk berbahasa Inggris, menyerukan balas dendam terhadap Amerika Serikat, terhadap Israel, dan terutama terhadap Presiden Amerika Serikat Donald Trump."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And a lot of those signs are obviously meant to show that anger also to Western audiences and to U.S. audiences as well. I can tell you from anywhere that we've turned up at these funeral processions, people were very keen to show us those signs. People in, you know, even if they didn't speak very good English, in English, told us that they would have revenge on the United States and on U.S. President Donald Trump.",
+      "cn": "Dan banyak spanduk jelas juga dimaksudkan untuk menyampaikan kemarahan kepada pemirsa Barat dan Amerika. Saya dapat memberitahu Anda, di mana pun kami berada di barisan pawai pemakaman ini, orang-orang sangat antusias untuk menunjukkan spanduk-spanduk itu kepada kami. Bahkan beberapa orang yang tidak bisa berbahasa Inggris dengan baik, mereka memberi tahu kami dalam bahasa Inggris bahwa mereka akan membalas dendam terhadap Amerika Serikat dan Presiden Amerika Serikat Donald Trump."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So that whole notion of revenge is one that is extremely important to the supporters of Ayatollah Ali Khamenei, and they certainly did come out in force here on the ground over the past couple of days. We have to caveat that, of course, there are people here in this country who opposed Ayatollah Ali Khamenei's role and his rule.",
+      "cn": "Jadi, konsep balas dendam sangat penting bagi para pendukung Ayatollah Ali Khamenei, dan mereka benar-benar muncul dalam skala besar di sini beberapa hari terakhir. Tentu saja, kami harus menyebutkan bahwa ada juga orang-orang di negara ini yang menentang peran Ayatollah Ali Khamenei dan pemerintahannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But we did see over the past few days, as these processions were going on, that the government here was able to bring out people in force with many hundreds of thousands of people coming on the streets, specifically for that procession that happened in Tehran and really voiced their support.",
+      "cn": "Namun dalam beberapa hari terakhir, seiring berjalannya pawai-pawai ini, kami melihat pemerintah mampu memobilisasi banyak orang, ratusan ribu orang turun ke jalan, terutama dalam pawai di Teheran, di mana mereka benar-benar menunjukkan dukungan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I think that it -- the power, the people who are in power here in this country certainly see that as also shoring up the support that they have as they are in these negotiations with the United States and now, again, in that standoff with the United States as well -- Audie.",
+      "cn": "Dan saya pikir, para penguasa di negara ini tentu saja menganggap ini memperkuat dukungan mereka, karena mereka sedang bernegosiasi dengan Amerika Serikat, dan sekarang kembali terlibat dalam kebuntuan dengan Amerika Serikat -- Ode."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's our Fred Pleitgen, joining us. He's live in Tehran. Thank you so much. And coming up on CNN THIS MORNING, we're going to talk about the strategy out of Tehran, whether they are trying to box President Trump in, keep the clock ticking until the U.S. midterm election day. Plus, President Trump ditches the new Air Force One for at least one leg of his trip home. We're going to find out what's behind that switch up. And in the state of Maine, Graham Platner is out of the Senate race.",
+      "cn": "Baiklah, itu adalah Fred Pleitgen kami, yang melaporkan langsung dari Teheran. Terima kasih banyak. Selanjutnya di CNN This Morning, kami akan membahas strategi Teheran, apakah mereka mencoba menjebak Presiden Trump, mengulur waktu hingga hari pemilihan paruh waktu Amerika Serikat. Selain itu, Presiden Trump setidaknya melewatkan satu bagian dari perjalanan pulangnya dengan Air Force One yang baru. Kami akan mencari tahu alasan di balik perubahan ini. Di Maine, Graham Plattner keluar dari perlombaan Senat."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Democrats have to find a new candidate in one of their most important races of the midterms. GRAHAM PLATNER (D),",
+      "cn": "Partai Demokrat harus mencari kandidat baru dalam salah satu pemilihan terpenting mereka di pemilu paruh waktu. Graham Plattner (Demokrat),"
+    },
+    {
+      "speaker": "Former Maine Senate Candidate",
+      "text": "Accusations are supposed to be the beginning of things, not the end.",
+      "cn": "Tuduhan seharusnya menjadi awal, bukan akhir."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, when President Trump left Turkey for England on the first leg of his trip home, he was on the old Air Force One instead of his new Qatari-donated plane. And the switch came at the urging of the Secret Service. A source tells CNN they were concerned about the security capabilities of the new aircraft in international settings. The president claims that he sent the Qatari-gifted jet to Milton Hall, Air Force Base in the U.K. to give our soldiers, quote, \"a chance to see it\".",
+      "cn": "Jadi, ketika Presiden Trump meninggalkan Turki menuju Inggris sebagai perhentian pertama perjalanan pulangnya, ia menaiki Air Force One yang lama, bukan pesawat baru yang disumbangkan Qatar. Perubahan ini dilakukan atas desakan Dinas Rahasia. Seorang sumber mengatakan kepada CNN bahwa mereka khawatir dengan kemampuan keamanan pesawat baru di lingkungan internasional. Presiden mengklaim bahwa ia mengirim pesawat pemberian Qatar ke Pangkalan Udara Mildenhall di Inggris agar tentara kami 'punya kesempatan untuk melihatnya'."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But that's left reporters with a lot of questions.",
+      "cn": "Namun ini meninggalkan banyak pertanyaan bagi para wartawan."
+    },
+    {
+      "speaker": "",
+      "text": "Do you think there wasn't a security concern?",
+      "cn": "Apakah Anda pikir tidak ada masalah keamanan?"
+    },
+    {
+      "speaker": "Trump",
+      "text": "No, no. Why would --",
+      "cn": "Tidak, tidak. Kenapa harus --"
+    },
+    {
+      "speaker": "",
+      "text": "Do you know why they had us close our window blinds? That was not usual.",
+      "cn": "Anda tahu kenapa mereka menyuruh kami menutup tirai? Itu tidak biasa."
+    },
+    {
+      "speaker": "Trump",
+      "text": "Well, yeah, because you're probably on a dangerous flight because of the sleazebags that we have to deal with.",
+      "cn": "Yah, ya, karena Anda mungkin sedang dalam penerbangan berbahaya, karena kami harus berurusan dengan orang-orang jahat itu."
+    },
+    {
+      "speaker": "",
+      "text": "Iran was possibly thinking --",
+      "cn": "Iran mungkin berpikir --"
+    },
+    {
+      "speaker": "Trump",
+      "text": "Yeah. I mean, if they ask you to close your windows, probably they feel that way. They didn't ask me to close mine, but if they did, I would have done it.",
+      "cn": "Ya. Maksud saya, jika mereka menyuruh Anda menutup jendela, kemungkinan besar itulah yang mereka pikirkan. Mereka tidak menyuruh saya, tetapi jika mereka menyuruh saya, saya akan melakukannya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So we're bringing in Becca Wasser, defense lead at \"Bloomberg Economics\". Becca, we've talked about this plane in the past, what it would cost to retrofit it. And now we are here, right, in the moment when it has to travel internationally. And I want you to help clarify a thing. I mean, sometimes the flight attendant tells you to put the shades down because of the sun. So what do you hear between this conversation of? Is it a security concern or something else?",
+      "cn": "Sekarang kami bersama Becca Wasser, kepala bidang ekonomi pertahanan Bloomberg. Becca, kita pernah membahas pesawat ini sebelumnya, dan biaya untuk memodifikasinya. Dan sekarang, pesawat ini benar-benar perlu melakukan misi penerbangan internasional. Saya ingin Anda membantu mengklarifikasi satu hal. Maksud saya, terkadang pramugari menyuruh Anda menurunkan penutup jendela karena sinar matahari. Jadi apa yang Anda dengar dari percakapan ini? Apakah itu masalah keamanan atau sesuatu yang lain?"
+    },
+    {
+      "speaker": "Becca Wasser",
+      "text": "Listen, I think what's happening here is the efforts to try and retrofit this aircraft so quickly means that there are some gaps in what it needs to be a secure Air Force One for an international visit. And what I'm hearing between all of this is really the lack of three things that caused him to fly home on the older Air Force One. And it's about security. It's about communications and it's about survivability.",
+      "cn": "Dengar, saya pikir yang terjadi sekarang adalah upaya untuk memodifikasi pesawat ini dengan begitu cepat berarti masih ada beberapa kekurangan untuk menjadikannya Air Force One yang aman untuk kunjungan internasional. Apa yang saya dengar dari semua ini, sebenarnya ada tiga elemen yang hilang yang menyebabkan ia kembali dengan Air Force One yang lama. Yaitu keamanan, kemampuan komunikasi, dan kemampuan bertahan hidup."
+    },
+    {
+      "speaker": "Becca Wasser",
+      "text": "So if, you know, there was this rush to trying get the Qatari aircraft to be his Air Force One, that means that it's probably lacking some of its missile detection and countermeasures that it likely needs. Additionally, it probably doesn't have the full secure communications network that President Trump would also need to essentially prosecute a war from afar with some of the strikes on Iran that we've seen in the past two days. And then lastly, it probably lacks some of the basic survivability that it would need.",
+      "cn": "Jadi, jika terburu-buru menjadikan pesawat Qatar ini sebagai Air Force One miliknya, mungkin pesawat itu kekurangan sistem deteksi dan penanggulangan rudal yang diperlukan. Selain itu, mungkin tidak memiliki jaringan komunikasi terenkripsi yang lengkap, yang dibutuhkan Presiden Trump untuk memimpin perang dari jarak jauh, seperti yang kita lihat dalam dua hari terakhir dengan serangan terhadap Iran. Terakhir, mungkin kurang dalam kemampuan bertahan hidup dasar."
+    },
+    {
+      "speaker": "Becca Wasser",
+      "text": "Some of those Air Force One airplanes really were built to be survivable under even the worst things like being able to survive a potential nuclear blast. And it is very clear that the Qatari jet definitely lacks that capability.",
+      "cn": "Beberapa pesawat Air Force One memang dirancang untuk bertahan dalam skenario terburuk, seperti mampu menahan ledakan nuklir potensial. Jelas, pesawat Qatar ini sama sekali tidak memiliki kemampuan itu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Becca, I'm sorry, this is crazy. These are the three things that are the point of an Air Force One. I mean, security, communications, and survivability. I mean, was this kind of inevitable? I had always wondered, would it have to be gutted to the studs to be what the U.S. needs it to be.",
+      "cn": "Becca, maaf, ini gila. Tiga hal ini justru inti dari Air Force One. Maksud saya, keamanan, kemampuan komunikasi, dan kemampuan bertahan. Apakah ini tidak terhindarkan? Saya selalu bertanya-tanya, apakah pesawat itu harus dikosongkan total untuk memenuhi standar AS?"
+    },
+    {
+      "speaker": "Wasser",
+      "text": "I think it probably had to, but that wasn't the timeline that, frankly, the Air Force was offered. So they managed to do this under a year, and that could possibly work for domestic use of Air Force One. But when the president is flying overseas in international airspace under different conditions, you're going to want something that is a little bit more secure than what that could offer. And I think that's exactly why we're seeing him fly home on some of the older jets.",
+      "cn": "Saya pikir mungkin harus seperti itu, tetapi terus terang, Angkatan Udara tidak diberi jadwal seperti itu. Jadi mereka menyelesaikannya dalam setahun, yang mungkin cocok untuk penggunaan domestik Air Force One. Namun saat presiden terbang di wilayah udara internasional di luar negeri, kondisinya berbeda, Anda membutuhkan sesuatu yang lebih aman dari itu. Saya pikir inilah mengapa kita melihat dia menggunakan pesawat yang lebih tua untuk terbang pulang."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In the end, is that kind of what this is for, though, his domestic comfort?",
+      "cn": "Pada akhirnya, apakah ini hanya untuk kenyamanannya di dalam negeri?"
+    },
+    {
+      "speaker": "Wasser",
+      "text": "It could be, but I think it was very clear that Qatar offered a gift to the president, and it was one that he wanted to take. And so, you know, the U.S. military was essentially given a job to do, which is make this work. And what they've done is tried to make it work. But that doesn't necessarily mean that it meets the standard that is required for the president's overseas travel and to be able to do some of the secure -- you know, messages that he would probably need to do.",
+      "cn": "Mungkin, tapi saya pikir jelas Qatar memberikan hadiah kepada presiden, dan dia ingin menerimanya. Jadi, Anda tahu, militer AS pada dasarnya diberi tugas untuk membuat ini berhasil. Yang mereka lakukan adalah mencoba membuatnya berhasil. Tapi itu belum tentu memenuhi standar yang diperlukan untuk perjalanan presiden ke luar negeri dan untuk melakukan komunikasi aman yang mungkin perlu dia lakukan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So what's at stake here? We are in the middle of renewed hostilities with Iran. Trump flew on this Air Force One as this was escalating. After that, they switched planes. Is there a concern, you think, about Iran specifically, or, as we said, this kind of general concern about international, you know, support for the leader of the free world?",
+      "cn": "Lalu apa intinya di sini? Kita berada dalam keadaan permusuhan baru dengan Iran. Trump menaiki Air Force One ini saat ketegangan meningkat. Setelah itu, mereka mengganti pesawat. Apakah Anda pikir ada kekhawatiran khusus terhadap Iran, atau kekhawatiran umum seperti dukungan internasional untuk pemimpin dunia bebas?"
+    },
+    {
+      "speaker": "Wasser",
+      "text": "I think it's more about general concerns and, again, having that secure communications network that you would need to be able to, you know, help, you know, develop military operations and make those calls. Iran lacks capabilities with the correct ranges to be able to come after some of, you know, some of where the president would be. You know, it's -- Iranian drones are short-range. They aren't able to get to Turkey.",
+      "cn": "Saya pikir lebih pada kekhawatiran umum, dan sekali lagi kebutuhan akan jaringan komunikasi aman untuk membantu merencanakan operasi militer dan melakukan panggilan-panggilan itu. Iran tidak memiliki kemampuan dengan jangkauan yang tepat untuk menyerang beberapa tempat di mana presiden mungkin berada. Anda tahu, drone Iran berjangkauan pendek, mereka tidak bisa mencapai Turki."
+    },
+    {
+      "speaker": "Wasser",
+      "text": "Additionally, while it does have missiles that have greater range, that's probably not, you know, what the biggest concern was here, even though it is definitely something that, you know, I'm sure the Secret Service has been very concerned about.",
+      "cn": "Selain itu, meskipun mereka memiliki rudal dengan jangkauan lebih jauh, mungkin itu bukan kekhawatiran terbesar di sini, meskipun saya yakin Dinas Rahasia sangat khawatir tentang itu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, Becca Wasser, thank you for talking with us about this. I know you will be back as we talk about this fresh round of strikes on Iran. And after the break on CNN THIS MORNING, President Trump has lost again in court. There's a judge here who says that E. Jean Carroll is owed millions of dollars. But will she ever collect? Plus, who has the leverage in this Mideast standoff, the balance of power in the U.S. war with Iran?",
+      "cn": "Baiklah, Becca Wasser, terima kasih telah berdiskusi dengan kami tentang masalah ini. Saya tahu Anda akan kembali saat kita membahas gelombang serangan baru terhadap Iran. Setelah jeda di CNN This Morning, Presiden Trump kembali kalah di pengadilan. Seorang hakim mengatakan E. Jean Carroll harus mendapatkan jutaan dolar. Tapi bisakah dia mendapatkannya? Selain itu, siapa yang memiliki pengaruh dalam ketegangan Timur Tengah ini, bagaimana keseimbangan kekuatan dalam perang AS-Iran?"
+    },
+    {
+      "speaker": "Trump",
+      "text": "They have very little left, and they want to make a deal so badly. They called a little while ago. They want to make a deal so badly. I just don't know if they're worthy of making a deal. I don't know that they're going to honor the deal.",
+      "cn": "Mereka hampir tidak punya apa-apa, mereka sangat ingin mencapai kesepakatan. Mereka baru saja menelepon. Mereka sangat ingin mencapai kesepakatan. Saya hanya tidak tahu apakah mereka layak untuk diajak berdamai. Saya tidak tahu apakah mereka akan menepati kesepakatan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So the president claims Iran now wants to make a deal as the two countries exchanged a new round of strikes. U.S. Central Command saying they carried out attacks on 90 military targets across Iran. Iran's Revolutionary Guard saying it responded with drones and missiles aimed at U.S. military bases in Kuwait and Bahrain. So, at this point, who has the upper hand in making a deal?",
+      "cn": "Jadi presiden mengklaim Iran sekarang ingin mencapai kesepakatan, sementara kedua negara baru saja bertukar serangan baru. Komando Pusat AS mengatakan mereka menyerang 90 target militer di Iran. Garda Revolusi Iran mengatakan mereka membalas dengan drone dan rudal, menargetkan pangkalan militer AS di Kuwait dan Bahrain. Jadi, pada titik ini, siapa yang unggul dalam mencapai kesepakatan?"
+    },
+    {
+      "speaker": "J.D. Vance",
+      "text": "We came into the situation with maximum leverage and maximum strength. Their nuclear program was destroyed. Their conventional military was destroyed. And you've got some people within the Iranian system who are saying, you know what? We want to change our relationship with the United States. We want to turn over a new leaf. And the president said, OK, we will sit down at the table and negotiate and see if the smart people in that system can take over from the crazy people.",
+      "cn": "Kita memasuki situasi dengan pengaruh dan kekuatan terbesar. Program nuklir mereka hancur. Kekuatan militer konvensional mereka hancur. Ada beberapa orang di dalam sistem Iran yang berkata, Anda tahu? Kami ingin mengubah hubungan dengan AS. Kami ingin membuka lembaran baru. Presiden berkata, baiklah, kami akan duduk dan bernegosiasi, dan melihat apakah orang-orang pintar dalam sistem itu bisa mengambil alih dari orang-orang gila."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joining me now, Sabrina Singh, CNN global affairs commentator, also former deputy Pentagon press secretary. Sabrina, good morning. I want to start with what the President was saying there, talking about maximum leverage, because we heard him describe it as leverage militarily. Can you help me parse that with where we are now, the U.S. having to do strikes again? var CNN = CNN || {};",
+      "cn": "Sekarang bergabung dengan kami adalah Sabrina Singh, komentator urusan global CNN, mantan wakil sekretaris pers Pentagon. Sabrina, selamat pagi. Saya ingin mulai dari apa yang baru saja dikatakan presiden, dia menyebutkan pengaruh maksimal, karena kami mendengarnya menggambarkannya sebagai pengaruh militer. Bisakah Anda membantu saya memahami hubungannya dengan situasi kita sekarang  --  --  AS harus melancarkan serangan lagi  --  -- ?"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Joining me now is Sabrina Singh, CNN global affairs commentator and also former deputy Pentagon press secretary. Sabrina, good morning. I want to start with what the president was saying there, talking about maximum leverage because we heard him describe it as leverage militarily. Can you help me parse that with where we are now -- the U.S. having to do strikes again? SABRINA SINGH, CNN GLOBAL AFFAIRS COMMENTATOR, FORMER DEPUTY PENTAGON PRESS SECRETARY (via Webex by Cisco): Yeah. Good morning, Audie.",
+      "cn": "Sekarang bergabung dengan kami adalah Sabrina Singh, komentator urusan global CNN, mantan wakil sekretaris pers Pentagon. Sabrina, selamat pagi. Saya ingin mulai dari apa yang baru saja dikatakan presiden, dia menyebutkan pengaruh maksimal, karena kami mendengarnya menggambarkannya sebagai pengaruh militer. Bisakah Anda membantu saya memahami hubungannya dengan situasi kita sekarang  --  --  AS harus melancarkan serangan lagi  --  -- ? Sabrina Singh, komentator urusan global CNN, mantan wakil sekretaris pers Pentagon (melalui Webex by Cisco): Ya. Selamat pagi, Audi."
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "The United States military does retain significant capabilities within the Middle East. I mean, we have an aircraft carrier there with multiple destroyers that can continue to launch waves of strikes that you saw last night and the night before on Iran. So there is military leverage, but can Iran be bombed into submission over time? And I think the answer that we know to that is no. Just look at the course of the war and how it has played out. This war started February 28.",
+      "cn": "Militer AS memang mempertahankan kemampuan yang kuat di Timur Tengah. Maksud saya, kami memiliki kapal induk dan beberapa kapal perusak di sana, yang dapat terus melancarkan gelombang serangan seperti yang terjadi terhadap Iran tadi malam dan malam sebelumnya. Jadi ada pengaruh militer, tapi bisakah Iran dibom sampai menyerah? Saya pikir kita tahu jawabannya tidak. Lihatlah jalannya perang dan bagaimana perkembangannya. Perang ini dimulai pada 28 Februari."
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "President Trump said then that this was about to be, you know, around four to six weeks. Obviously that timeline has just blown by. We're almost at mid-July at this point and the war is continuing. So the United States retains some military capabilities which allows it some leverage, but it does have economic leverage and that really comes in the form of sanctions. And before the sanctions were lifted on Iran and Iran was able to sell its oil on the global market its economy was cratering. So the U.S.",
+      "cn": "Presiden Trump saat itu mengatakan ini akan memakan waktu sekitar empat hingga enam minggu. Jelas, jadwal itu sudah terlewati. Sekarang hampir pertengahan Juli, perang masih berlanjut. Jadi AS mempertahankan beberapa kemampuan militer, yang memberinya sedikit pengaruh, tetapi juga memiliki pengaruh ekonomi, yang sebenarnya berupa sanksi. Sebelum sanksi dicabut, Iran tidak bisa menjual minyak di pasar global, dan ekonominya runtuh. Jadi AS memberlakukan kembali beberapa sanksi. Kami masih memegang beberapa kartu, seperti kata yang suka digunakan presiden. Tapi secara keseluruhan, Iran memang memiliki keunggulan waktu, mereka bisa terus mengulur waktu."
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "has put some of those sanctions back in place. We still hold some of those cards, like the president likes to use that term. But overall Iran really has time on its side, and they can continue to run down the clock.",
+      "cn": "Sekarang, di DPR, anggota DPR dari Partai Demokrat Adam Smith, anggota Komite Militer  --  --  tentu saja, dia telah mengkritik cara dan alasan presiden memulai perang sejak awal. Tapi ini pandangannya tentang langkah terbaru Iran. Anggota DPR Adam Smith (D-WA): Tapi saya akan mengatakan, saya pikir Iran sedikit menantang keberuntungan. Maksud saya, mereka sebenarnya memiliki kesepakatan yang cukup bagus, di mana mereka bisa memungut biaya untuk membuka selat."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, in the House, Democratic Congressman Adam Smith, who is on the Armed Services committee -- he, of course, has been critical of how and why the president started the war in the first place. But this is what he had to say about the latest move from Iran. REP. ADAM SMITH (D-WASHINGTON): But I will say I think Iran is kind of pushing their luck a little bit. I mean, they had a pretty good deal here where they could get paid to open the strait.",
+      "cn": "Sebaliknya, mereka ingin mengatakan, baiklah, kami akan membuka selat sedikit, tapi tidak sepenuhnya. Itulah mengapa mereka menembaki beberapa kapal yang melewati jalur yang tidak ingin mereka lalui. Sekarang saya pikir kita menghadapi konflik berkepanjangan, dan negosiasi akan menemui jalan buntu untuk sementara waktu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Instead they wanted to say well, we'll open the strait a little bit, not entirely. And that's why they're shooting at some ships going through the lanes they don't want them to go through. Now I think we're looking at a protracted conflict, and the negotiations are going to be in trouble for a while.",
+      "cn": "Bisakah Anda membahas ini? Saya juga mendengar di tempat lain bahwa serangan Iran terhadap selat dalam beberapa hari terakhir, pada dasarnya mendorong kapal-kapal ke jalur yang mereka inginkan, karena mereka berharap suatu hari bisa memungut biaya lintas."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can you talk about this? I've heard this in other places that Iran, in its strikes in the strait in the last couple of days, was essentially nudging people into the lane that it wanted them to traverse because they hoped to one day have a toll.",
+      "cn": "Ya. Itulah masalah dengan nota kesepahaman yang ditandatangani AS dan Iran. Detailnya sangat kabur, di salah satu baris nota memang disebutkan bahwa Iran bertanggung jawab membersihkan ranjau di selat. Sekarang, Iran jelas menafsirkannya sebagai mereka mengendalikan Selat Hormuz. Dan karena detailnya  --  --  maksud saya, ada 14 poin, satu setengah halaman. Saya pikir kita pernah membahas daftar belanjaan yang lebih panjang dari nota itu."
+    },
+    {
+      "speaker": "Singh",
+      "text": "Yeah. This is the problem with the MOU that was signed between the United States and Iran. It was very murky in its details and in one of the lines in the MOU it does say that Iran is responsible for clearing the strait of mines. Now, Iran is obviously interpreting that as it controls the Strait of Hormuz. And because the details -- I mean, there was 14 points, 1 1/2 pages. I mean, I think we've talked about having grocery lists that are longer than the MOU.",
+      "cn": "Kedua belah pihak akan memiliki kesalahpahaman tentang nota dan bagaimana melaksanakannya. Tapi Anggota DPR Smith benar. Maksud saya, nota itu sangat menguntungkan Iran. Mereka bisa menjual minyak di pasar global dengan dolar AS, jadi itu kesepakatan yang sangat baik bagi mereka. Sekarang mereka menunjukkan sedikit kekuatan. Mereka mencoba memproyeksikan kekuatan karena mereka menyerang beberapa kapal yang melintas. Mereka ingin kapal-kapal itu membayar semacam biaya atau tol kepada mereka."
+    },
+    {
+      "speaker": "Singh",
+      "text": "There's going to be misinterpretations on both sides of the MOU and how it should be executed. But Congressman Smith is right. I mean, the MOU hugely, largely favored Iran. They were able to sell their oil on the global market in American dollars and so this was a very good deal for them. Now they're exerting some power. They're trying to project power as they've attacked some of those ships transiting. They want ships to pay some type of fee or toll to them."
+    },
+    {
+      "speaker": "Singh",
+      "text": "And the United States is basically saying that goes against freedom of navigation international law and the MOU that you signed. But this is really the problem. Both sides signed a very murky agreement and now to implement it and execute it it's proving to be very difficult as we're seeing kinetic action over the last few days.",
+      "cn": "AS pada dasarnya mengatakan, ini melanggar kebebasan navigasi, hukum internasional, dan nota kesepahaman yang Anda tandatangani. Tapi inilah masalah sebenarnya. Kedua belah pihak menandatangani perjanjian yang sangat kabur, dan sekarang untuk melaksanakan dan menegakkannya, terbukti sangat sulit, seperti yang kita lihat dalam aksi sengit beberapa hari terakhir."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What can you tell us when you look at the targets, meaning the U.S. focusing on these coastal parts? You've got Iran at least aiming in the direction of U.S. military bases. When will we know that this is quite serious based on the target?",
+      "cn": "Apa yang bisa Anda katakan tentang target-targetnya? Maksud saya, AS fokus pada daerah pesisir ini. Iran setidaknya menargetkan pangkalan militer AS. Berdasarkan target, kapan kita bisa tahu situasinya sudah cukup serius?"
+    },
+    {
+      "speaker": "Singh",
+      "text": "Well, what is interesting is also Iran launched strikes at Qatar, and we know Qatar has been a main interlocutor when it comes to securing this peace agreement. So it's a little confusing why they're also antagonizing a party that is trying to bring both sides to the table, but they are saying that they're targeting U.S. bases in those three countries. Now, the U.S. military is targeting military sites that they're saying are in the southeast of Iran.",
+      "cn": "Menariknya, Iran juga menyerang Qatar, dan kita tahu Qatar adalah mediator utama dalam kesepakatan damai ini. Jadi agak membingungkan mengapa mereka memprovokasi pihak yang mencoba membawa kedua belah pihak kembali ke meja perundingan, tetapi mereka mengatakan mereka menyerang pangkalan-pangkalan Amerika di tiga negara itu. Sekarang, militer AS menyerang apa yang mereka sebut lokasi militer di tenggara Iran."
+    },
+    {
+      "speaker": "Singh",
+      "text": "These are the sites that are really being used to control the Strait of Hormuz. I think when it gets beyond those sites along the strait and we see strikes within central Iran -- the western part of the country -- that's when we're going to see a larger expansion of this war. I really don't think either side wants to go back to a full-scale war. It is just depleting of not only just munitions but time and energy. I think both sides do want to see some type of agreement and ceasefire put back in place.",
+      "cn": "Lokasi-lokasi ini sebenarnya digunakan untuk mengendalikan Selat Hormuz. Saya pikir, ketika serangan melampaui lokasi-lokasi di sepanjang selat ini, dan kita melihat serangan di Iran tengah -- -- wilayah barat negara itu -- -- itu berarti perang ini semakin meluas. Saya benar-benar berpikir kedua belah pihak tidak ingin kembali ke perang skala penuh. Ini tidak hanya menghabiskan amunisi, tetapi juga waktu dan energi. Saya pikir kedua belah pihak ingin melihat semacam kesepakatan dan gencatan senjata dipulihkan."
+    },
+    {
+      "speaker": "Singh",
+      "text": "But it is very possible that this war expands and then you're going to have Gulf countries brought back into this. And they were really the ones that said to this administration we need to stop this war and put some type of ceasefire into place because we just can't handle the level of strikes that are coming towards our country right now.",
+      "cn": "Tetapi perang ini sangat mungkin meluas, dan negara-negara Teluk akan terlibat lagi. Dan merekalah yang mengatakan kepada pemerintah saat ini bahwa kita perlu menghentikan perang ini dan menerapkan gencatan senjata, karena mereka sekarang tidak mampu menahan intensitas serangan terhadap negara mereka sendiri."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yeah. It'll be interesting to see what we hear from those countries out of the region today. Sabrina Singh, thank you for being here. Appreciate your time.",
+      "cn": "Ya. Akan menarik untuk mendengar suara dari negara-negara kawasan hari ini. Sabrina Singh, terima kasih sudah datang. Terima kasih atas waktunya."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now straight ahead on CNN THIS MORNING we're going to turn to that high-rise in Manhattan that had seemed on the very of collapse. Now investigators want to know how did things get to that point. And coming up in the next hour, has Israel become a dividing line for Democrats? We're going to talk about why Rahm Emanuel says the party needs a new strategy. (COMMERCIAL)",
+      "cn": "Sekarang, di acara CNN This Morning, kami akan membahas gedung tinggi di Manhattan yang tampaknya hampir runtuh. Sekarang penyelidik ingin tahu bagaimana hal itu bisa terjadi. Dalam satu jam ke depan, apakah Israel telah menjadi garis pemisah di Partai Demokrat? Kami akan membahas mengapa Rahm Emanuel mengatakan partai itu membutuhkan strategi baru. (Iklan)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's now almost 40 minutes past the hour. This is your Morning Roundup. Democrats in Maine are scrambling to find a new candidate for Senate as Graham Platner drops out of the race.",
+      "cn": "Sekarang hampir 40 menit sebelum jam. Ini adalah ringkasan pagi Anda. Demokrat di Maine sedang bergegas mencari kandidat Senat baru setelah Graham Plotner mundur dari pencalonan."
+    },
+    {
+      "speaker": "Graham Platner",
+      "text": "I intend to file my paperwork to withdraw. What comes next needs to come from the people. It needs to come from the people of Maine.",
+      "cn": "Saya akan mengajukan dokumen untuk mundur. Apa yang harus dilakukan selanjutnya terserah pada rakyat. Terserah pada rakyat Maine untuk memutuskan."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now this all comes after allegations of sexual misconduct from several women, which caused a mass exodus of endorsements and contributions to his campaign. Platner denies the accusations. The Maine Democratic Party will hold a nominating convention to select a new Senate nominee, and they have until July 27 to make that decision. And a federal judge orders the release of nearly $6 million to E. Jean Carroll from President Trump. His team immediately appealed the decision. They were denied.",
+      "cn": "Semua ini terjadi setelah beberapa wanita mengajukan tuduhan pelecehan seksual, yang menyebabkan banyak dukungan dan sumbangan mengalir keluar. Plotner membantah tuduhan tersebut. Partai Demokrat Maine akan mengadakan konvensi pencalonan untuk memilih kandidat Senat baru, dan mereka harus memutuskan sebelum 27 Juli. Seorang hakim federal memerintahkan pembayaran hampir $6 juta kepada E. Jean Carroll dari Presiden Trump. Timnya segera mengajukan banding atas keputusan tersebut, tetapi ditolak."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "President Trump has been trying to delay paying Carroll after he was found liable for sexually abusing and defaming her. In New York, there is significant progress in the stabilization of a Manhattan high-rise that had been at risk of collapse. Crews added steel supports to each floor from the ninth to the roof. The New York Department of Buildings has inspectors and engineers on site monitoring and investigating what caused the structural failure earlier this week.",
+      "cn": "Presiden Trump, setelah dinyatakan bersalah melakukan penyerangan seksual dan pencemaran nama baik terhadap Carroll, telah berusaha menunda pembayaran ganti rugi. Di New York, pekerjaan stabilisasi pada gedung tinggi Manhattan yang pernah menghadapi risiko runtuh telah membuat kemajuan signifikan. Pekerja menambahkan penyangga baja di setiap lantai dari lantai sembilan hingga atap. Departemen Bangunan Kota New York telah mengirim inspektur dan insinyur ke lokasi untuk memantau dan menyelidiki penyebab kegagalan struktural awal pekan ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And next on CNN THIS MORNING what's life like on the front lines of the war with Iran? We take you aboard a U.S. aircraft carrier patrolling the Arabian Sea. Plus this.",
+      "cn": "Selanjutnya di CNN This Morning, bagaimana kehidupan di garis depan perang dengan Iran? Kami akan membawa Anda ke kapal induk Amerika yang berpatroli di Laut Arab. Juga ini."
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "This way he can't complain that we're not giving them enough. I say make them yourself.",
+      "cn": "Jadi dia tidak bisa mengeluh bahwa kami tidak memberikan cukup. Saya bilang biarkan mereka membuatnya sendiri."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Could this be the change Ukraine needs in its war with Russia? How President Trump is boosting Ukraine's air defenses. (COMMERCIAL)",
+      "cn": "Akankah ini menjadi perubahan yang dibutuhkan Ukraina dalam perang melawan Rusia? Bagaimana Presiden Trump meningkatkan pertahanan udara Ukraina. (Iklan)"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So a big political win for Ukraine hand-delivered by President Trump. He announced the U.S. will be buying Ukrainian drones and more significantly will be teaming with Ukraine to co-produce Patriot missile interceptors -- a development that could significantly improve Kyiv's air defenses.",
+      "cn": "Jadi, Presiden Trump secara pribadi membawa kemenangan politik besar bagi Ukraina. Dia mengumumkan bahwa AS akan membeli drone Ukraina, dan yang lebih penting, akan bekerja sama dengan Ukraina untuk memproduksi bersama pencegat rudal Patriot -- -- sebuah perkembangan yang secara signifikan dapat meningkatkan kemampuan pertahanan udara Kyiv."
+    },
+    {
+      "speaker": "Trump",
+      "text": "We're going to give a license to you to make Patriots. That's pretty cool, right?",
+      "cn": "Kami akan memberi wewenang kepada Anda untuk memproduksi sistem Patriot. Itu keren, kan?"
+    },
+    {
+      "speaker": "Trump",
+      "text": "This way he can't complain that we're not giving them enough. I say make them yourself. We haven't informed the company of that yet but that'll work out alright. I'm sure they'll be thrilled. But, you know, they'll be able to do it. You'll be able to figure that out. Most countries couldn't do that.",
+      "cn": "Jadi dia tidak bisa mengeluh bahwa kami tidak memberikan cukup. Saya bilang biarkan mereka membuatnya sendiri. Kami belum memberi tahu perusahaan itu, tetapi semuanya akan baik-baik saja. Saya yakin mereka akan bersemangat. Tapi, Anda tahu, mereka mampu melakukannya. Anda bisa menyelesaikan masalah ini. Sebagian besar negara tidak bisa melakukan ini."
+    },
+    {
+      "speaker": "Trump",
+      "text": "If I said that to most countries, they wouldn't know what I'm talking about. But this is a very ingenious group. And what I like about that it's a defensive -- it's a defensive situation as opposed to an offensive.",
+      "cn": "Jika saya mengatakan ini kepada sebagian besar negara, mereka tidak akan mengerti apa yang saya bicarakan. Tapi ini adalah tim yang sangat cerdas. Yang saya suka adalah ini defensif -- -- ini situasi defensif, bukan ofensif."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Joel Rubin joins us. He's the former deputy assistant Secretary of State for Legislative Affairs under the Obama administration. Good morning, Joel. JOEL RUBIN,",
+      "cn": "Joel Rubin bergabung dengan kami. Dia adalah mantan Asisten Menteri Luar Negeri untuk Urusan Legislatif di era pemerintahan Obama. Selamat pagi, Joel. Joel Rubin:"
+    },
+    {
+      "speaker": "",
+      "text": "Good morning, Audie.",
+      "cn": "Selamat pagi, Otis."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There's actually a lot to unpack in that short statement, but I want to start with this -- the turnaround from when Trump was sitting next to Zelenskyy and telling him you don't have any cards. You can't dictate this process. What do you think has changed in the backdrop leading up to this moment?",
+      "cn": "Sebenarnya, ada banyak hal yang bisa diurai dari pernyataan singkat itu, tapi saya ingin mulai dari sini -- -- Trump duduk di samping Zelenskyy, mengatakan kepadanya bahwa Anda tidak punya pengaruh, Anda tidak bisa memimpin proses ini, hingga perubahan sikap sekarang. Menurut Anda, perubahan latar belakang apa yang menyebabkan momen ini?"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Audie, it's great to be with you. And clearly, Trump likes a winner and what he's seeing now and what the intelligence is demonstrating is that Russia is on the defensive. Ukraine is able to strike into Moscow at will. That the losses on the field -- on the ground by Russia have been significant and they're not making progress. And so President Trump -- he sees that. And you combine that -- and I've got to say that moment yesterday at NATO was really surreal.",
+      "cn": "Otis, senang bisa terhubung dengan Anda. Jelas, Trump menyukai pemenang, dan apa yang dia lihat sekarang serta yang ditunjukkan intelijen adalah Rusia dalam posisi bertahan. Ukraina mampu menyerang Moskow sesuka hati. Rusia menderita kerugian besar di darat dan tidak membuat kemajuan. Jadi Presiden Trump melihat itu. Ditambah lagi -- -- saya harus mengatakan momen di NATO kemarin benar-benar surealis."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "President Trump basically has now flipped his narrative on NATO. He now sees it as a value add to American security. And so combining that with the move on Zelenskyy, I think Trump realizes that he can gain a lot more with our allies and our friends and sees Ukraine as winning in this war.",
+      "cn": "Presiden Trump pada dasarnya telah mengubah retorikanya tentang NATO. Dia sekarang menganggap NATO memiliki nilai tambah bagi keamanan AS. Jadi dikombinasikan dengan perubahan sikapnya terhadap Zelenskyy, saya pikir Trump menyadari bahwa dia bisa mendapatkan lebih banyak dari sekutu dan teman, dan percaya bahwa Ukraina sedang memenangkan perang ini."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "At the same time, Ukraine is not winning. It has Russia at a standstill.",
+      "cn": "Sementara itu, Ukraina tidak menang. Mereka hanya membuat Rusia menemui jalan buntu."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I was surprised to hear the president use the word there \"this is defensive\" when Ukraine, as you mentioned, has pushed its missiles further and further deeper into Russian territory.",
+      "cn": "Saya terkejut mendengar presiden menggunakan kata 'ini defensif', karena seperti yang Anda sebutkan, Ukraina telah meluncurkan rudal mereka semakin jauh ke dalam wilayah Rusia."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Yeah. So Patriots are a defensive weapons system -- a missile defense system. Now, the Russians are going to say that this is an aggression because they don't like there being any missile defense near them because that inhibits their ability to strike. But for Ukraine to hold Russia to a standstill -- that's winning because again, Russia is invading into Ukraine. But these strikes into Moscow -- that's the gamechanger.",
+      "cn": "Ya. Patriot adalah sistem senjata defensif -- -- sistem pertahanan rudal. Sekarang, Rusia akan mengatakan ini agresif karena mereka tidak suka ada sistem pertahanan rudal di dekat mereka, karena itu menghambat kemampuan serangan mereka. Tapi bagi Ukraina, membuat Rusia menemui jalan buntu adalah kemenangan, karena Rusia menginvasi Ukraina. Dan serangan-serangan ke Moskow ini -- -- ini adalah faktor pengubah permainan."
+    },
+    {
+      "speaker": "Rubin",
+      "text": "The Russian people are noticing that the war is now coming home and that's creating pressure on Putin as well. And I think for President Trump to see Ukraine not only being able to strike inside Moscow but then, of course, to defend its territory -- if he can add this extra nudge maybe he thinks that can get Putin to a deal. I hope he's right. But certainly it is quite a turnaround with Ukraine.",
+      "cn": "俄罗斯人民注意到战争现在回到了本土，这也给普京带来了压力。我认为特朗普总统看到乌克兰不仅能够打击莫斯科内部，还能保卫自己的领土 --  -- 如果他再推一把，也许他认为这能让普京达成协议。我希望他是对的。但毫无疑问，对乌克兰的态度发生了巨大转变。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I want to connect the dots here because we're at this inflection point with the war with Iran --",
+      "cn": "我想把这里联系起来，因为我们正处于与伊朗战争的转折点 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- and there are some connections between what's happening with the war in Iran and what's happening between Ukraine and Russia. One example is drones. Just Ukraine really showcasing it is now at the forefront of innovation on drone battlefield warfare, and the U.S. now dealing with a country that can churn out drones. Is that, like, yet another aspect of this that has kind of shifted things? And then I want to ask you about sanctions.",
+      "cn": "--  -- 伊朗战争和乌克兰与俄罗斯之间发生的事情有一些联系。一个例子是无人机。乌克兰确实展示了它现在处于无人机战场创新的前沿，而美国现在正在应对一个能够大量生产无人机的国家。这是否是另一个改变局面的方面？然后我想问你关于制裁的问题。"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Yeah. Look, you know, I was just in Israel last week and the drone wars are real. They're across the Middle East. And Ukraine, out of necessity, has perfected drone technology on the cheap. But also there's another factor as well, which is that Iran was providing drone technology to Russia to bomb into Ukraine as well. So all of these wars now -- they seem to be connecting. The technology is real. It's robust coming out of Ukraine.",
+      "cn": "是的。你看，我上周刚在以色列，无人机战争是真实存在的。它们遍布中东。而乌克兰出于需要，以低成本完善了无人机技术。但还有另一个因素，那就是伊朗曾向俄罗斯提供无人机技术来轰炸乌克兰。所以所有这些战争现在似乎都联系在一起了。技术是真实的，而且来自乌克兰的技术很强大。"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "They have a value added edge frankly in the global marketplace and I think for Trump he sees that as well. And that's the future of warfare. Those drones and that technology that Ukraine has is the top of the line.",
+      "cn": "坦率地说，他们在全球市场上具有增值优势，我认为特朗普也看到了这一点。这就是战争的未来。乌克兰拥有的那些无人机和技术是一流的。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Does this open up the channel or --",
+      "cn": "这是否打开了渠道 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- make it easier for Netanyahu and Israel to continue the war against Hezbollah? I mentioned this to someone yesterday but from a diplomatic point of view I'd love to hear from you what you think. Is it basically all bets are off if the New York Post is posting, you know, \"Peace Out\" --",
+      "cn": "--  -- 让内塔尼亚胡和以色列更容易继续对真主党的战争？我昨天对某人提到过这一点，但从外交角度来看，我很想听听你的看法。如果《纽约邮报》刊登了\"和平再见\"，是不是基本上一切都不确定了？"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- on the ceasefire deal?",
+      "cn": "--  -- 关于停火协议？"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "I mean, Audie, there's two parallel tracks on diplomacy with Iran. Of course, the ceasefire that's now in abeyance between us and Iran. And then there's the separate track, which is Israel and Lebanon government-to-government being sponsored by the State Department and Marco Rubio? That's always been a tension point in the diplomacy. So I wouldn't say that it's a guarantee that we're going to see fighting renewed inside of Lebanon because the Israeli government and the Lebanese government are talking right now.",
+      "cn": "我的意思是，Audie，对伊朗的外交有两条平行的轨道。当然，目前我们与伊朗之间的停火协议处于搁置状态。还有另一条轨道，即以色列和黎巴嫩政府之间的对话，由国务院和马可·卢比奥主持？这在外交中一直是一个紧张点。所以我不认为这能保证我们会看到黎巴嫩境内重新爆发战斗，因为以色列政府和黎巴嫩政府目前正在谈判。"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "And that actually seems to be bearing more fruit than the Iran-U.S. MOU that has obviously collapsed.",
+      "cn": "而且这似乎比显然已经破裂的伊朗-美国谅解备忘录更有成果。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Before I let you go, a short time left. After this NATO summit, is the U.S. in a stronger position with Europe? Is Putin going to be concerned that relationship has improved?",
+      "cn": "在你离开之前，还有一点时间。这次北约峰会后，美国在欧洲的地位是否更强了？普京会担心这种关系改善吗？"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "Well, he can't be pleased, right? Like, if you're Vladimir Putin your whole goal for the last decade, frankly, if not longer has been to separate the United States from NATO and to break NATO. To break that collective security arrangement inside Europe.",
+      "cn": "嗯，他不可能高兴，对吧？如果你是弗拉基米尔·普京，过去十年甚至更长时间里，你的全部目标就是让美国脱离北约并瓦解北约，打破欧洲内部的集体安全安排。"
+    },
+    {
+      "speaker": "Rubin",
+      "text": "So when the mood music -- mood music changes, as it did with President Trump yesterday where the United States and NATO and our European allies are essentially talking from the same sheet -- that is a sign to Putin that he can't break the alliance, and that is a strong position for American national security.",
+      "cn": "所以当氛围音乐 --  -- 氛围音乐发生变化时，就像昨天特朗普总统那样，美国、北约和我们的欧洲盟友基本上步调一致 --  -- 这对普京来说是一个信号，表明他无法瓦解这个联盟，这对美国国家安全来说是一个强有力的位置。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, Joel. Don't get any breakfast yet. I need you in the next hour. We're going to talk more --",
+      "cn": "好的，Joel。先别吃早餐。下一个小时我需要你。我们还要再谈 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- about some of these regional concerns. Next on CNN THIS MORNING a CNN crew aboard the USS Abraham Lincoln in the Arabian Sea. It's one of more than 20 Navy warships patrolling the waters near the Middle East. And in the next hour, President Trump promised cheaper gas prices. Is Freedom Fuel the answer? (COMMERCIAL)",
+      "cn": "--  -- 关于其中一些地区关切。接下来在《CNN今晨》节目中，CNN记者登上阿拉伯海的亚伯拉罕·林肯号航母。这是在中东附近海域巡逻的20多艘海军军舰之一。而在接下来的一小时，特朗普总统承诺降低油价。自由燃料是答案吗？（广告）"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Our breaking news coverage continues now as the U.S. and Iran trade new strikes overnight. The U.S. military touting its presence in the region, posting new video of its more than 20 Navy warships patrolling the waters near the Middle East. CNN's Pam Brown was on one of those ships in the Northern Arabian Sea yesterday with the crew of the USS Abraham Lincoln. (BEGIN VIDEOTAPE)",
+      "cn": "我们的突发新闻持续报道，美国和伊朗一夜之间发动了新的打击。美国军方炫耀其在该地区的存在，发布了20多艘海军军舰在中东附近海域巡逻的新视频。CNN的帕姆·布朗昨天在北阿拉伯海的一艘军舰上，与亚伯拉罕·林肯号的船员在一起。（视频开始）"
+    },
+    {
+      "speaker": "Pamela Brown",
+      "text": "This is one of two aircraft carriers in the region. And you see behind me what's called the bridge -- the flight tower. This is where all the shots are called. And you see the planes. Here they are on this deck. There's F- 35s, F-18s, Growlers, E-2s. All of them play certain roles in the conflict. Now, what we know for sure per a U.S. official I spoke to, is that there will be defensive missions happening on the USS Abraham.",
+      "cn": "这是该地区的两艘航空母舰之一。在我身后的是所谓的舰桥 --  -- 飞行塔台。所有指令都在这里发出。你可以看到飞机。它们就在甲板上。有F-35、F-18、咆哮者、E-2。它们在冲突中都扮演着特定角色。现在，根据我采访的一位美国官员的说法，我们确定的是，亚伯拉罕·林肯号上将执行防御任务。"
+    },
+    {
+      "speaker": "Pamela Brown",
+      "text": "And, in fact, there has already been a shift in operational plans in the wake of the Iranian attacks on those vessels. This ship left port early yesterday so that it can be out here at sea and ready to go in case orders are given. So you can see some of that preparation happening right now. There is some maintenance happening over here on this helicopter. And then if we pan over here you can see they pulled out some armaments -- some missiles -- to put on the flights.",
+      "cn": "事实上，在伊朗袭击那些船只之后，作战计划已经发生了变化。这艘船昨天早些时候离港，以便在海上待命，随时准备在接到命令时行动。所以你可以看到一些准备工作正在进行。这里有一架直升机正在进行维护。然后如果我们把镜头移过来，可以看到他们取出了一些武器 --  -- 一些导弹 --  -- 准备装到飞机上。"
+    },
+    {
+      "speaker": "Pamela Brown",
+      "text": "Now I'm told that would be standard operating procedure because tomorrow is a flight day. But, of course, this takes on new meaning in the wake of the latest rhetoric from the president and the Iranians as well, so we'll have to wait and see. As one source said, it is a very dynamic situation here. Pamela Brown, CNN, from the USS Abraham Lincoln. (END VIDEOTAPE)",
+      "cn": "我被告知这将是标准操作程序，因为明天是飞行日。但当然，在总统和伊朗方面最新言论之后，这有了新的意义，所以我们只能拭目以待。正如一位消息人士所说，这里的情况非常动态。CNN的帕梅拉·布朗，从亚伯拉罕·林肯号报道。（视频结束）"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And I'm Audie Cornish. Stay with us. Our breaking news coverage continues right now.",
+      "cn": "我是奥迪·科尼什。请继续关注我们。我们的突发新闻报道现在继续。"
+    },
+    {
+      "speaker": "Announcer",
+      "text": "This is CNN breaking news.",
+      "cn": "这里是CNN突发新闻。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And the breaking news we are following, the war with Iran. New threats, new attacks. Are we in a new phase of this war?",
+      "cn": "我们正在追踪的突发新闻：与伊朗的战争。新的威胁，新的攻击。我们是否处于这场战争的新阶段？"
+    },
+    {
+      "speaker": "Trump",
+      "text": "When they hit, we hit back much harder. They started this. They're a little bit out of control, but they want to make a deal badly.",
+      "cn": "当他们打击时，我们更猛烈地回击。是他们挑起的。他们有点失控，但他们非常想达成协议。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Good morning, everybody. I'm Audie Cornish. We're going to start with the big question this morning. Are the U.S. and Iran about to return to full-scale war? The U.S. military hit more than 90 military targets last night. President Trump posted these videos on Truth Social showing some of the attacks. var CNN = CNN || {};",
+      "cn": "大家早上好。我是奥迪·科尼什。我们首先从今早的大问题开始。美国和伊朗是否即将重返全面战争？美国军方昨晚打击了90多个军事目标。特朗普总统在Truth Social上发布了这些视频，展示了一些攻击。"
+    }
+  ]
+}
