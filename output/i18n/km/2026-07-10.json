@@ -1,0 +1,1637 @@
+{
+  "date": "2026-07-10",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-10/segment/01",
+  "summary": "CNN独家视频显示参议员麦康奈尔一个月前被担架抬上救护车，其健康状况成谜，共和党同僚称不知其生死。以色列警告美国伊朗计划暗杀特朗普，或解释近期飞机更换及美军打击。纽约危楼抢修工作持续。凯莉·詹娜代言Meta AI眼镜引发隐私争议。",
+  "vocabulary": [
+    {
+      "word": "stretcher",
+      "phonetic": "/ˈstretʃər/",
+      "pos": "n.",
+      "usage": "កន្សោមប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "កន្សោមប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "រទេះដឹកអ្នកជំងឺ",
+      "en": "a light frame for carrying sick or injured people",
+      "excerpt": "Neighbors saw the senator being loaded into an ambulance on a stretcher.",
+      "example_cn": "អ្នកជិតខាងបានឃើញសមាជិកព្រឹទ្ធសភាត្រូវបានគេដឹកឡើងរថយន្តសង្គ្រោះលើរទេះដឹកអ្នកជំងឺ។",
+      "audio_url": "output/audio/vocab/2026-07-10/stretcher-a3542ac6.mp3"
+    },
+    {
+      "word": "transparency",
+      "phonetic": "/trænsˈpærənsi/",
+      "pos": "n.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "តម្លាភាព",
+      "en": "the quality of being open and honest; not hiding anything",
+      "excerpt": "It's bringing up questions about transparency surrounding his health.",
+      "example_cn": "នេះបានបង្កើនការសួរដេញដោលអំពីតម្លាភាពនៃស្ថានភាពសុខភាពរបស់គាត់។",
+      "audio_url": "output/audio/vocab/2026-07-10/transparency-ce03e308.mp3"
+    },
+    {
+      "word": "intel",
+      "phonetic": "/ˈɪntel/",
+      "pos": "n.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ព័ត៌មានសម្ងាត់ (អក្សរកាត់នៃ intelligence)",
+      "en": "information about the plans of an enemy or opponent",
+      "excerpt": "Israel shares intel of an Iran plant -- plan to assassinate President Trump.",
+      "example_cn": "អ៊ីស្រាអែលបានចែករំលែកព័ត៌មានសម្ងាត់អំពីផែនការរបស់អ៊ីរ៉ង់ក្នុងការធ្វើឃាតប្រធានាធិបតី Trump។",
+      "audio_url": "output/audio/vocab/2026-07-10/intel-eecddd10.mp3"
+    },
+    {
+      "word": "assassinate",
+      "phonetic": "/əˈsæsɪneɪt/",
+      "pos": "v.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សន្តិសុខយោធា",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការធ្វើឃាត",
+      "en": "to murder a prominent person, often for political reasons",
+      "excerpt": "Israel shares intel of an Iran plant -- plan to assassinate President Trump.",
+      "example_cn": "អ៊ីស្រាអែលបានចែករំលែកព័ត៌មានសម្ងាត់អំពីផែនការរបស់អ៊ីរ៉ង់ក្នុងការធ្វើឃាតប្រធានាធិបតី Trump។",
+      "audio_url": "output/audio/vocab/2026-07-10/assassinate-f4ca2814.mp3"
+    },
+    {
+      "word": "switcheroo",
+      "phonetic": "/ˌswɪtʃəˈruː/",
+      "pos": "n.",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · កម្រិតខ្ពស់",
+      "cn": "ការផ្លាស់ប្តូរភ្លាមៗ",
+      "en": "a sudden or unexpected change or exchange",
+      "excerpt": "Does that explain the plane switcheroo and the renewed strikes by the U.S.?",
+      "example_cn": "តើនេះអាចពន្យល់ពីការផ្លាស់ប្តូរយន្តហោះ និងការវិលត្រឡប់មកវាយប្រហារវិញរបស់សហរដ្ឋអាមេរិកបានទេ?",
+      "audio_url": "output/audio/vocab/2026-07-10/switcheroo-320e9162.mp3"
+    },
+    {
+      "word": "buckling",
+      "phonetic": "/ˈbʌklɪŋ/",
+      "pos": "adj.",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "គ្រោះមហន្តរាយ និងបរិស្ថាន",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "កោងខូចទ្រង់ទ្រាយ; រលំ",
+      "en": "bending or collapsing under pressure",
+      "excerpt": "Urgent work continues to save that buckling building in New York from partial collapse.",
+      "example_cn": "ការងារសង្គ្រោះបន្ទាន់កំពុងបន្តដើម្បីសង្គ្រោះអគារកោងខូចទ្រង់ទ្រាយនៅញូវយ៉កពីការរលំដោយផ្នែក។",
+      "audio_url": "output/audio/vocab/2026-07-10/buckling-3ceb386e.mp3"
+    },
+    {
+      "word": "partial collapse",
+      "phonetic": "/ˈpɑːrʃəl kəˈlæps/",
+      "pos": "n.",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "គ្រោះមហន្តរាយ និងបរិស្ថាន",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ការរលំដោយផ្នែក",
+      "en": "a collapse that affects only part of a structure",
+      "excerpt": "Urgent work continues to save that buckling building in New York from partial collapse.",
+      "example_cn": "ការងារសង្គ្រោះបន្ទាន់កំពុងបន្តដើម្បីសង្គ្រោះអគារកោងខូចទ្រង់ទ្រាយនៅញូវយ៉កពីការរលំដោយផ្នែក។",
+      "audio_url": "output/audio/vocab/2026-07-10/partial-collapse-5e7b7a05.mp3"
+    },
+    {
+      "word": "backlash",
+      "phonetic": "/ˈbæklæʃ/",
+      "pos": "n.",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "សង្គម និងជីវភាពប្រជាជន",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ការប្រឆាំងយ៉ាងខ្លាំង; backlash",
+      "en": "a strong negative reaction to a recent event or development",
+      "excerpt": "Kylie's Meta Collaboration Sparks Backlash.",
+      "example_cn": "កិច្ចសហការរបស់ Kelly ជាមួយ Meta បង្កឱ្យមានការប្រឆាំងយ៉ាងខ្លាំង។",
+      "audio_url": "output/audio/vocab/2026-07-10/backlash-075891e2.mp3"
+    },
+    {
+      "word": "manufacturing consent",
+      "phonetic": "/ˌmænjuˈfæktʃərɪŋ kənˈsent/",
+      "pos": "n.",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយ និងការទូត",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់",
+      "cn": "ការបង្កើតការយល់ស្រប (សំដៅលើការគ្រប់គ្រងការយល់ព្រមពីសាធារណៈតាមរយៈប្រព័ន្ធផ្សព្វផ្សាយជាដើម)",
+      "en": "a concept from media theory referring to the process by which media shape public opinion to accept certain policies or ideas",
+      "excerpt": "They are manufacturing consent.",
+      "example_cn": "ពួកគេកំពុងបង្កើតការយល់ស្រប។",
+      "audio_url": "output/audio/vocab/2026-07-10/manufacturing-consent-9cc06e6a.mp3"
+    },
+    {
+      "word": "ghoulish",
+      "phonetic": "/ˈɡuːlɪʃ/",
+      "pos": "adj.",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · កម្រិតមធ្យម",
+      "cn": "ឃោរឃៅ; មិនប្រក្រតី; ចាប់អារម្មណ៍លើសេចក្តីស្លាប់",
+      "en": "showing a morbid interest in death or disaster",
+      "excerpt": "One of the reasons why people are talking about this, political people are talking about this in a kind of ghoulish way, frankly.",
+      "example_cn": "មូលហេតុមួយដែលមនុស្សនិយាយអំពីរឿងនេះ គឺដោយសារតែអ្នកនយោបាយនិយាយតាមរបៀបមិនល្អ។",
+      "audio_url": "output/audio/vocab/2026-07-10/ghoulish-54e82383.mp3"
+    },
+    {
+      "word": "vacancy law",
+      "phonetic": "/ˈveɪkənsi lɔː/",
+      "pos": "n.",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់",
+      "cn": "ច្បាប់ស្តីពីការទំនេរអាសនៈ (ច្បាប់កំណត់ពីរបៀបបំពេញអាសនៈសមាជិកសភាដែលទំនេរ)",
+      "en": "a law that specifies the procedure for filling a vacant legislative seat",
+      "excerpt": "the Kentucky Senate vacancy law, meaning what do you have to do if suddenly a Senate seat is open?",
+      "example_cn": "ច្បាប់ស្តីពីការទំនេរអាសនៈព្រឹទ្ធសភារដ្ឋ Kentucky មានន័យថា ប្រសិនបើអាសនៈព្រឹទ្ធសភាទំនេរភ្លាមៗ តើអ្នកត្រូវធ្វើអ្វី?",
+      "audio_url": "output/audio/vocab/2026-07-10/vacancy-law-bac41302.mp3"
+    },
+    {
+      "word": "special election",
+      "phonetic": "/ˈspeʃəl ɪˈlekʃən/",
+      "pos": "n.",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ការបោះឆ្នោតពិសេស",
+      "en": "an election held to fill a vacancy that occurs between regular elections",
+      "excerpt": "Well, there's a special election.",
+      "example_cn": "អញ្ចឹង នឹងមានការបោះឆ្នោតពិសេសមួយ។",
+      "audio_url": "output/audio/vocab/2026-07-10/special-election-df0d1da3.mp3"
+    },
+    {
+      "word": "certified",
+      "phonetic": "/ˈsɜːrtɪfaɪd/",
+      "pos": "adj.",
+      "usage": "ពាក្យប្រើក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "នយោបាយការទូត",
+      "level": "ពាក្យប្រើក្នុងព័ត៌មាន · កម្រិតមធ្យម",
+      "cn": "ដែលត្រូវបានបញ្ជាក់; ដែលត្រូវបានទទួលស្គាល់",
+      "en": "officially recognized as meeting certain standards",
+      "excerpt": "And the seat has to be empty until a winner is certified.",
+      "example_cn": "មុនពេលអ្នកឈ្នះត្រូវបានបញ្ជាក់ អាសនៈត្រូវតែទុកឱ្យទំនេរ។",
+      "audio_url": "output/audio/vocab/2026-07-10/certified-04686015.mp3"
+    },
+    {
+      "word": "charade",
+      "phonetic": "/ʃəˈreɪd/",
+      "pos": "n.",
+      "usage": "ពាក្យប្រើប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតមធ្យម",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យប្រើប្រចាំថ្ងៃ · កម្រិតមធ្យម",
+      "cn": "ការធ្វើពុត; កាយវិការក្លែងក្លាយ",
+      "en": "a pretense or false show",
+      "excerpt": "This charade can't continue.",
+      "example_cn": "ការធ្វើពុតនេះមិនអាចបន្តទៀតទេ។",
+      "audio_url": "output/audio/vocab/2026-07-10/charade-f1797dd8.mp3"
+    },
+    {
+      "word": "stage four intestinal cancer",
+      "phonetic": "/steɪdʒ fɔːr ɪnˈtestɪnl ˈkænsər/",
+      "pos": "n.",
+      "usage": "ពាក្យបច្ចេកទេស",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "បច្ចេកវិទ្យាវេជ្ជសាស្ត្រ",
+      "level": "ពាក្យបច្ចេកទេស · កម្រិតខ្ពស់",
+      "cn": "មហារីកពោះវៀនដំណាក់កាលទី៤",
+      "en": "advanced cancer of the intestine that has spread to other parts of the body",
+      "excerpt": "he was diagnosed with stage four intestinal cancer.",
+      "example_cn": "គាត់ត្រូវបានគេធ្វើរោគវិនិច្ឆ័យថាមានមហារីកពោះវៀនដំណាក់កាលទី៤។",
+      "audio_url": "output/audio/vocab/2026-07-10/stage-four-intestinal-cancer-5f2c8bd0.mp3"
+    },
+    {
+      "word": "coherent",
+      "phonetic": "/koʊˈhɪrənt/",
+      "pos": "adj.",
+      "usage": "ការប្រើប្រាស់ប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ការប្រើប្រាស់ប្រចាំថ្ងៃ · កម្រិតខ្ពស់",
+      "cn": "ជាប់គ្នា; ច្បាស់លាស់; មានតក្កវិជ្ជា",
+      "en": "logical and consistent; able to speak clearly",
+      "excerpt": "Scott Jennings has backed up that he's completely fine, and he's coherent.",
+      "example_cn": "Scott Jennings បញ្ជាក់ថាគាត់មិនអីទេ ហើយគំនិតរបស់គាត់ច្បាស់លាស់។",
+      "audio_url": "output/audio/vocab/2026-07-10/coherent-c81c4e1f.mp3"
+    },
+    {
+      "word": "much ado about nothing",
+      "phonetic": "/mʌtʃ əˈduː əˈbaʊt ˈnʌθɪŋ/",
+      "pos": "phrase",
+      "usage": "ពាក្យផ្សំថេរ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ពាក្យផ្សំថេរ · កម្រិតខ្ពស់",
+      "cn": "បង្កើតរឿងពីរឿងតូច; ធ្វើរឿងតូចឲ្យធំ",
+      "en": "a lot of fuss over something trivial",
+      "excerpt": "But I think this is much ado about nothing.",
+      "example_cn": "ប៉ុន្តែខ្ញុំគិតថានេះជាការធ្វើរឿងតូចឲ្យធំ។",
+      "audio_url": "output/audio/vocab/2026-07-10/much-ado-about-nothing-46f25ef9.mp3"
+    },
+    {
+      "word": "obviate",
+      "phonetic": "/ˈɑːbvieɪt/",
+      "pos": "v.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់បំផុត",
+      "domain": "ទូទៅ",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់បំផុត",
+      "cn": "លុបបំបាត់; ជៀសវាង; ធ្វើឲ្យមិនចាំបាច់",
+      "en": "to remove a need or difficulty",
+      "excerpt": "the fact that there isn't an election somehow obviates the senator from one transparency or to doing his job.",
+      "example_cn": "ការពិតដែលគ្មានការបោះឆ្នោត មិនអាចលុបបំបាត់កាតព្វកិច្ចតម្លាភាព ឬទំនួលខុសត្រូវរបស់សមាជិកព្រឹទ្ធសភាបានទេ។",
+      "audio_url": "output/audio/vocab/2026-07-10/obviate-e8c67c76.mp3"
+    },
+    {
+      "word": "manipulate the calendar",
+      "phonetic": "/məˈnɪpjuleɪt ðə ˈkælɪndər/",
+      "pos": "phrase",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "រៀបចំកាលវិភាគ",
+      "en": "to control the schedule for political advantage",
+      "excerpt": "he was someone who manipulated the calendar a lot",
+      "example_cn": "គាត់ជាមនុស្សដែលតែងតែរៀបចំកាលវិភាគ។",
+      "audio_url": "output/audio/vocab/2026-07-10/manipulate-the-calendar-952b66f6.mp3"
+    },
+    {
+      "word": "weighed in",
+      "phonetic": "/weɪd ɪn/",
+      "pos": "phrase",
+      "usage": "ការប្រើប្រាស់ប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការប្រើប្រាស់ប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ចូលរួមពិភាក្សា; បញ្ចេញមតិ",
+      "en": "to join a discussion or argument",
+      "excerpt": "Meghan McCain weighed in, as well.",
+      "example_cn": "មេហ្គាន ម៉ាក់ខេន ក៏បានបញ្ចេញមតិដែរ។",
+      "audio_url": "output/audio/vocab/2026-07-10/weighed-in-51d2328c.mp3"
+    },
+    {
+      "word": "term limits",
+      "phonetic": "/tɜːrm ˈlɪmɪts/",
+      "pos": "n.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "នយោបាយការទូត",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ការកំណត់អាណត្តិ",
+      "en": "legal restrictions on the number of terms an elected official can serve",
+      "excerpt": "I'm now an advocate of age and term limits in politics.",
+      "example_cn": "ឥឡូវនេះខ្ញុំជាអ្នកតស៊ូមតិសម្រាប់ការកំណត់អាយុ និងអាណត្តិក្នុងនយោបាយ។",
+      "audio_url": "output/audio/vocab/2026-07-10/term-limits-851d85d8.mp3"
+    },
+    {
+      "word": "conspiracies",
+      "phonetic": "/kənˈspɪrəsiz/",
+      "pos": "n.",
+      "usage": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "សង្គមនិងជីវភាព",
+      "level": "ប្រើញឹកញាប់ក្នុងព័ត៌មាន · កម្រិតខ្ពស់",
+      "cn": "ទ្រឹស្តីឃុបឃិត (ពហុវចនៈ)",
+      "en": "beliefs that events are secretly manipulated by powerful groups",
+      "excerpt": "leading to these conspiracies.",
+      "example_cn": "នាំឱ្យមានទ្រឹស្តីឃុបឃិតទាំងនេះ។",
+      "audio_url": "output/audio/vocab/2026-07-10/conspiracies-911e56c6.mp3"
+    },
+    {
+      "word": "charitable",
+      "phonetic": "/ˈtʃærətəbl/",
+      "pos": "adj.",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "កម្រិតខ្ពស់",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · កម្រិតខ្ពស់",
+      "cn": "សប្បុរស; អត់ឱន; មានចិត្តល្អ",
+      "en": "kind and forgiving in judging others",
+      "excerpt": "I think there's a charitable way to read this",
+      "example_cn": "ខ្ញុំគិតថាមានវិធីបកស្រាយដោយចិត្តល្អ។",
+      "audio_url": "output/audio/vocab/2026-07-10/charitable-19dcc795.mp3"
+    },
+    {
+      "word": "time frame",
+      "phonetic": "/taɪm freɪm/",
+      "pos": "n.",
+      "usage": "ការបញ្ចេញមតិប្រចាំថ្ងៃ",
+      "difficulty": "មូលដ្ឋាន",
+      "domain": "ទូទៅ",
+      "level": "ការបញ្ចេញមតិប្រចាំថ្ងៃ · មូលដ្ឋាន",
+      "cn": "ក្របខ័ណ្ឌពេលវេលា; រយៈពេល",
+      "en": "a period of time during which something happens or is expected to happen",
+      "excerpt": "He works on his own time frame.",
+      "example_cn": "គាត់ធ្វើសកម្មភាពតាមកាលវិភាគផ្ទាល់ខ្លួន។",
+      "audio_url": "output/audio/vocab/2026-07-10/time-frame-6c870557.mp3"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "We've got new video just into CNN, showing the moment Mitch McConnell was taken to the hospital a month ago.",
+      "cn": "យើងទើបតែទទួលបានវីដេអូថ្មីមួយដែលបង្ហាញពីពេលដែលមីឆ ម៉ាក់ខនណែល ត្រូវបានបញ្ជូនទៅមន្ទីរពេទ្យកាលពីមួយខែមុន។",
+      "structure": "ប្រយោគដើម (We've got new video) + គុណនាមដាក់ក្រោយ (just into CNN) + ឃ្លា present participle (showing...) ធ្វើជាគុណនាមពន្យល់ video ដែលក្នុងនោះមានឃ្លាកំណត់ដែលលុប that (Mitch McConnell was taken...) ពន្យល់ moment ។",
+      "analysis": "showing the moment... ជាឃ្លា present participle ធ្វើជាគុណនាមដាក់ក្រោយ ស្មើនឹង which shows... ; moment ភ្ជាប់ជាមួយឃ្លាកំណត់ ដោយលុប relative adverb when ។"
+    },
+    {
+      "en": "Neighbors saw the senator being loaded into an ambulance on a stretcher.",
+      "cn": "អ្នកជិតខាងបានឃើញសមាជិកព្រឹទ្ធសភារូបនេះត្រូវបានគេដាក់លើរទេះដឹកអ្នកជំងឺឡើងរថយន្តសង្គ្រោះ។",
+      "structure": "ប្រយោគមានប្រធាន+កិរិយា+កម្ម (Neighbors saw) + កម្មបំពេញបន្ថែម (the senator being loaded...) ដែល being loaded ជា present participle ទម្រង់ passive ។",
+      "analysis": "see sb doing sth មានន័យថាឃើញនរណាម្នាក់កំពុងធ្វើអ្វីមួយ នៅទីនេះប្រើទម្រង់ passive being loaded ដើម្បីបញ្ជាក់អ្នកទទួលសកម្មភាព។"
+    },
+    {
+      "en": "One of the reasons why people are talking about this, political people are talking about this in a kind of ghoulish way, frankly, is that the Kentucky Senate vacancy law, meaning what do you have to do if suddenly a Senate seat is open?",
+      "cn": "មូលហេតុមួយដែលមនុស្សនិយាយអំពីរឿងនេះ -- អ្នកនយោបាយនិយាយអំពីរឿងនេះតាមរបៀបស្ទើរតែឈឺ -- ដោយត្រង់ទៅ -- គឺច្បាប់កន្លែងទំនេរព្រឹទ្ធសភារដ្ឋ Kentucky ពោលគឺប្រសិនបើកៅអីព្រឹទ្ធសភាទំនេរភ្លាមៗ តើអ្នកត្រូវធ្វើអ្វី?",
+      "structure": "ប្រយោគដើម (One of the reasons...is that...) ដែល reasons ភ្ជាប់ជាមួយឃ្លាកំណត់ដោយ why (political people...frankly) បំបែកប្រធាន និងកិរិយា that នាំឃ្លាបំពេញបន្ថែម ក្នុងឃ្លាបំពេញបន្ថែម meaning... ជាឃ្លា present participle ធ្វើជាការពន្យល់។",
+      "analysis": "why នាំឃ្លាកំណត់ពន្យល់ reasons ; ពាក្យបញ្ចូលបន្ថែមធ្វើឱ្យមានពណ៌សំដី ; meaning... ស្មើនឹង which means... ពន្យល់ law ។"
+    },
+    {
+      "en": "The idea is that the clock is somehow ticking on if, suddenly, there's an open seat in Kentucky, whether it can be filled.",
+      "cn": "គំនិតនេះគឺថា ប្រសិនបើរដ្ឋ Kentucky មានកៅអីទំនេរភ្លាមៗ នាឡិកាកំពុងរាប់ថយក្រោយ មិនថាវាអាចត្រូវបានបំពេញឬអត់នោះទេ។",
+      "structure": "ប្រយោគដើម (The idea is that...) that នាំឃ្លាបំពេញបន្ថែម ក្នុងឃ្លាបំពេញបន្ថែមមាន if នាំឃ្លាលក្ខខណ្ឌ និង whether នាំឃ្លាប្រឆាំងលក្ខខណ្ឌ។",
+      "analysis": "the clock is ticking ជាពាក្យប្រៀបធៀប មានន័យថាពេលវេលាចង្អៀត ; whether នាំឃ្លាប្រឆាំងលក្ខខណ្ឌ មានន័យថា 'មិនថា...ឬអត់' ។"
+    },
+    {
+      "en": "What I don't know is why Republicans are kind of leading the charge online, talking about this.",
+      "cn": "អ្វីដែលខ្ញុំមិនដឹងគឺ ហេតុអ្វីបានជាគណបក្សសាធារណរដ្ឋហាក់ដូចជាដឹកនាំការពិភាក្សាតាមអ៊ីនធឺណិតអំពីរឿងនេះ។",
+      "structure": "ឃ្លាប្រធាន (What I don't know) + កិរិយាសព្ទ is + ឃ្លាបំពេញបន្ថែម (why Republicans...) ឃ្លា present participle (talking about this) ធ្វើជាកិរិយាវិសេសអម។",
+      "analysis": "What នាំឃ្លាប្រធាន ; why នាំឃ្លាបំពេញបន្ថែម ; leading the charge ជាពាក្យស្លោក មានន័យថា 'ដឹកនាំការវាយប្រហារ' ; kind of មានន័យថា 'ហាក់ដូចជា' ។"
+    },
+    {
+      "en": "If McConnell is in as bad a shape as Biden ever was, or worse, he needs to step aside.",
+      "cn": "ប្រសិនបើសុខភាពរបស់ McConnell អាក្រក់ដូច Biden ឬអាក្រក់ជាងនេះ គាត់ត្រូវតែដកខ្លួនចេញ។",
+      "structure": "If នាំឃ្លាលក្ខខណ្ឌ ក្នុងឃ្លាមានរចនាសម្ព័ន្ធប្រៀបធៀប as...as និង or worse ជាពាក្យបញ្ចូល ; ប្រយោគដើម he needs to step aside ។",
+      "analysis": "as bad a shape as... ជារចនាសម្ព័ន្ធប្រៀបធៀប as...as ចំណាំទីតាំងគុណនាម : as + adj. + a/an + n. + as ; step aside មានន័យថា 'ដកខ្លួនចេញ, លាឈប់' ។"
+    },
+    {
+      "en": "This charade can't continue.",
+      "cn": "ការធ្វើពុតនេះមិនអាចបន្តទៀតទេ។",
+      "structure": "រចនាសម្ព័ន្ធប្រយោគសាមញ្ញ ប្រធាន+កិរិយា។",
+      "analysis": "charade ដើមឡើយមានន័យថា 'ល្បែងទាយពាក្យដោយកាយវិការ' នៅទីនេះប្រៀបធៀបទៅនឹង 'ការសម្ដែងពុតត្បុត ឬការក្លែងបន្លំ' ។"
+    },
+    {
+      "en": "We can't demand of others what we won't demand of ourselves.",
+      "cn": "យើងមិនអាចទាមទារពីអ្នកដទៃនូវអ្វីដែលយើងមិនព្រមទាមទារពីខ្លួនឯងបានទេ។",
+      "structure": "ប្រយោគដើម (We can't demand of others) + ឃ្លាកម្ម (what we won't demand of ourselves) what ធ្វើជាកម្មរបស់ demand ក្នុងឃ្លា។",
+      "analysis": "demand of sb sth ជាពាក្យផ្សំថេរ មានន័យថា 'ទាមទារអ្វីមួយពីនរណាម្នាក់' ; what នាំឃ្លាកម្ម ស្មើនឹង the thing that ។"
+    },
+    {
+      "en": "When my dad was running for Congress in Iowa, Western Iowa, in 2020, he was diagnosed with stage four intestinal cancer.",
+      "cn": "នៅឆ្នាំ 2020 ពេលឪពុកខ្ញុំកំពុងឈរឈ្មោះបោះឆ្នោតជាសមាជិកសភានៅភាគខាងលិចរដ្ឋ Iowa គាត់ត្រូវបានគេធ្វើរោគវិនិច្ឆ័យថាមានជំងឺមហារីកពោះវៀនដំណាក់កាលទី 4 ។",
+      "structure": "When ដឹកនាំប្រយោគរងនៃពេលវេលា ប្រយោគសំខាន់ he was diagnosed with...",
+      "analysis": "be diagnosed with... មានន័យថា \"ត្រូវបានគេធ្វើរោគវិនិច្ឆ័យថាមាន...\" ; stage four មានន័យថាដំណាក់កាលទីបួននៃជំងឺមហារីក។"
+    },
+    {
+      "en": "And we made the decision that, since it was an ongoing election, to come public and disclose everything.",
+      "cn": "យើងបានសម្រេចចិត្តថា ដោយសារនេះជាការបោះឆ្នោតដែលកំពុងបន្ត ត្រូវប្រកាសជាសាធារណៈ និងបង្ហាញអ្វីៗទាំងអស់។",
+      "structure": "ប្រយោគសំខាន់ (we made the decision) + ប្រយោគរងពន្យល់នាម (that...to come public...) ក្នុងប្រយោគរងមានប្រយោគរងនៃមូលហេតុដែលដឹកនាំដោយ since ។",
+      "analysis": "that ដឹកនាំប្រយោគរងពន្យល់នាមពន្យល់ពីខ្លឹមសារនៃ decision ; come public មានន័យថា \"ប្រកាសជាសាធារណៈ\" ; disclose មានន័យថា \"បង្ហាញ\" ។"
+    },
+    {
+      "en": "But you look at what's happening in the Senate right now.",
+      "cn": "ប៉ុន្តែសូមមើលអ្វីដែលកំពុងកើតឡើងនៅក្នុងព្រឹទ្ធសភាឥឡូវនេះ។",
+      "structure": "ប្រយោគបញ្ជា (you look at) + ប្រយោគរងធ្វើជាកម្មបទ (what's happening...) ។",
+      "analysis": "what ដឹកនាំប្រយោគរងធ្វើជាកម្មបទ ហើយធ្វើជាប្រធានក្នុងប្រយោគរង។"
+    },
+    {
+      "en": "He's announced his retirement.",
+      "cn": "គាត់បានប្រកាសចូលនិវត្តន៍រួចហើយ។",
+      "structure": "ប្រយោគសាមញ្ញក្នុងសម័យបច្ចុប្បន្នកាលបរិបូណ៌។",
+      "analysis": "announce one's retirement ជាកន្សោមទូទៅ។"
+    },
+    {
+      "en": "He'll come out when he is -- when he feels comfortable.",
+      "cn": "គាត់នឹងចេញមកនៅពេលដែលគាត់មានអារម្មណ៍ស្រួល។",
+      "structure": "ប្រយោគសំខាន់ (He'll come out) + ប្រយោគរងនៃពេលវេលាដឹកនាំដោយ when មានពាក្យបញ្ចូល និងពាក្យដដែលៗ។",
+      "analysis": "come out នៅទីនេះមានន័យថា \"បង្ហាញខ្លួនជាសាធារណៈ\" ; when ដឹកនាំប្រយោគរងនៃពេលវេលា។"
+    },
+    {
+      "en": "If you're a resident of the state of Kentucky and need help getting a passport with the State Department, who do you call?",
+      "cn": "ប្រសិនបើអ្នកជាអ្នករស់នៅរដ្ឋ Kentucky ហើយត្រូវការជំនួយពីក្រសួងការបរទេសដើម្បីធ្វើលិខិតឆ្លងដែន តើអ្នកទូរស័ព្ទទៅអ្នកណា?",
+      "structure": "If ដឹកនាំប្រយោគរងនៃលក្ខខណ្ឌ (មានកិរិយាសព្ទពីរផ្សំគ្នា are និង need) ប្រយោគសំខាន់ជាសំណួរពិសេស who do you call ។",
+      "analysis": "need help doing sth ជាកន្សោមថេរ មានន័យថា \"ត្រូវការជំនួយធ្វើអ្វីមួយ\" ; the State Department សំដៅលើក្រសួងការបរទេសសហរដ្ឋអាមេរិក។"
+    },
+    {
+      "en": "I just think the notion that, because there is not a major piece of fighting legislation that's a priority to Republicans, that somehow, the residents of the state of Kentucky aren't entitled to know, No. 1, what the health status is of one of the most senior senators in the United States.",
+      "cn": "ខ្ញុំគ្រាន់តែគិតថា គំនិតដែលថាដោយសារគ្មានច្បាប់សំខាន់ណាមួយជាអាទិភាពសម្រាប់គណបក្សសាធារណរដ្ឋ នោះអ្នករស់នៅរដ្ឋ Kentucky គ្មានសិទ្ធិដឹងពីស្ថានភាពសុខភាពរបស់សមាជិកព្រឹទ្ធសភាដែលមានអតីតភាពយូរជាងគេម្នាក់នៅសហរដ្ឋអាមេរិកនោះទេ គឺជាគំនិតខុស។",
+      "structure": "ប្រយោគសំខាន់ (I just think) + ប្រយោគរងធ្វើជាកម្មបទ (the notion that...) that ដឹកនាំប្រយោគរងពន្យល់នាមពន្យល់ notion ក្នុងប្រយោគរងពន្យល់នាមមានប្រយោគរងនៃមូលហេតុដឹកនាំដោយ because និងប្រយោគរងធ្វើជាប្រធានដឹកនាំដោយ that (that...the residents...aren't entitled to know...) know តាមដោយប្រយោគរងធ្វើជាកម្មបទដឹកនាំដោយ what ។",
+      "analysis": "notion that... ជាប្រយោគរងពន្យល់នាម ; aren't entitled to do មានន័យថា \"គ្មានសិទ្ធិធ្វើ\" ; No. 1 ប្រើសម្រាប់រាយបញ្ជី។"
+    },
+    {
+      "en": "The fact that there isn't an election somehow obviates the senator from one transparency or to doing his job.",
+      "cn": "ការពិតដែលថាគ្មានការបោះឆ្នោត ធ្វើឱ្យសមាជិកព្រឹទ្ធសភារួចផុតពីកាតព្វកិច្ចតម្លាភាព ឬការបំពេញភារកិច្ចរបស់គាត់។",
+      "structure": "ប្រធាន (The fact) + ប្រយោគរងពន្យល់នាម (that there isn't an election) + កិរិយាសព្ទ (obviates) + កម្មបទ (the senator) + កន្សោមបុព្វបទ (from...) ។",
+      "analysis": "that ដឹកនាំប្រយោគរងពន្យល់នាមពន្យល់ fact ; obviate sb from sth មានន័យថា \"ធ្វើឱ្យនរណាម្នាក់រួចផុតពីអ្វីមួយ\" ; transparency នៅទីនេះមានន័យថា \"កាតព្វកិច្ចតម្លាភាព\" ។"
+    },
+    {
+      "en": "Meghan McCain weighed in, as well.",
+      "cn": "Meghan McCain ក៏បានចូលរួមក្នុងការពិភាក្សាផងដែរ។",
+      "structure": "រចនាសម្ព័ន្ធប្រធាន-កិរិយាសព្ទសាមញ្ញ។",
+      "analysis": "weigh in ជាពាក្យស្លោក មានន័យថា \"ចូលរួមពិភាក្សា ឬបញ្ចេញមតិ\"។"
+    },
+    {
+      "en": "My family should have forced him to step down the second he was diagnosed, which is why I'm now an advocate of age and term limits in politics.",
+      "cn": "គ្រួសារខ្ញុំគួរតែបង្ខំគាត់ឱ្យចុះចេញពីតំណែងភ្លាមៗនៅពេលដែលគាត់ត្រូវបានគេធ្វើរោគវិនិច្ឆ័យ នោះហើយជាមូលហេតុដែលឥឡូវនេះខ្ញុំជាអ្នកតស៊ូមតិសម្រាប់ការកំណត់អាយុ និងអាណត្តិក្នុងនយោបាយ។",
+      "structure": "ប្រយោគចម្បង (My family should have forced...) + ប្រយោគគុណកិរិយាពេលវេលាដែលចាប់ផ្តើមដោយ the second (he was diagnosed) + ប្រយោគគុណនាមមិនកំណត់ដែលចាប់ផ្តើមដោយ which ពន្យល់ពីប្រយោគចម្បងទាំងមូល។",
+      "analysis": "should have done បង្ហាញពីអ្វីដែលគួរតែធ្វើ ប៉ុន្តែមិនបានធ្វើ; the second មានន័យថា as soon as; step down មានន័យថា \"ចុះចេញពីតំណែង\"; which សំដៅលើស្ថានភាពទាំងមូលខាងលើ។"
+    },
+    {
+      "en": "And I do take the point that, at this point, if Mitch McConnell is well enough to be gabbing to Scott Jennings, he should be well enough to call in to CNN or to 'The New York Times' or to FOX News or whatever, to show that he's OK.",
+      "cn": "ខ្ញុំពិតជាទទួលយកទស្សនៈនេះ៖ ត្រង់ចំណុចនេះ ប្រសិនបើលោក Mitch McConnell មានសុខភាពល្អគ្រប់គ្រាន់ក្នុងការជជែកជាមួយ Scott Jennings នោះគាត់គួរតែមានសុខភាពល្អគ្រប់គ្រាន់ក្នុងការហៅទូរស័ព្ទទៅ CNN ឬ The New York Times ឬ Fox News ឬប្រព័ន្ធផ្សព្វផ្សាយផ្សេងទៀត ដើម្បីបង្ហាញថាគាត់មិនមានបញ្ហាអ្វីទេ។",
+      "structure": "ប្រយោគចម្បង (I do take the point) + ប្រយោគសមមូល (that...) ដែលក្នុងនោះមានប្រយោគលក្ខខណ្ឌចាប់ផ្តើមដោយ if ប្រយោគចម្បង he should be well enough... និង to show... ជាប្រយោគគោលបំណង។",
+      "analysis": "do ប្រើសម្រាប់បញ្ជាក់; take the point មានន័យថា \"ទទួលយកទស្សនៈ\"; gabbing ជាពាក្យនិយាយ មានន័យថា \"ជជែក\"; call in to... មានន័យថា \"ហៅទូរស័ព្ទទៅ...\"។"
+    },
+    {
+      "en": "And the fact that he hasn't done that is quite -- quite frankly, leading to these conspiracies.",
+      "cn": "ការពិតដែលគាត់មិនបានធ្វើដូច្នេះ -- និយាយដោយត្រង់ទៅ -- កំពុងនាំឱ្យមានទ្រឹស្តីឃុបឃិតទាំងនេះ។",
+      "structure": "ប្រធាន (The fact) + ប្រយោគសមមូល (that he hasn't done that) + កិរិយាសព្ទភ្ជាប់ is + បរិវារសព្ទ (leading to...) ដោយមានពាក្យបញ្ចូល quite frankly បំបែក។",
+      "analysis": "that នាំប្រយោគសមមូល; lead to មានន័យថា \"នាំឱ្យ\"; conspiracies នៅទីនេះមានន័យថា \"ទ្រឹស្តីឃុបឃិត\"។"
+    }
+  ],
+  "topics": [
+    {
+      "title": "សុខភាពរបស់ McConnell និងតម្លាភាពនយោបាយ",
+      "content": "អតីតមេដឹកនាំភាគច្រើននៃព្រឹទ្ធសភាអាមេរិក លោក Mitch McConnell ត្រូវបានគេដឹកតាមរទេះដាក់លើរថយន្តសង្គ្រោះនៅថ្ងៃទី 14 ខែមិថុនា ឆ្នាំ 2026 បន្ទាប់ពីវីដេអូផ្តាច់មុខរបស់ CNN ត្រូវបានចេញផ្សាយ ដែលបណ្តាលឱ្យមានការស្មានអំពីសុខភាពរបស់គាត់។ សហការីគណបក្សសាធារណរដ្ឋបាននិយាយថាពួកគេមិនដឹងថាគាត់នៅរស់ឬស្លាប់ទេ ខណៈដែលច្បាប់អាសនៈទំនេរ (vacancy law) របស់រដ្ឋ Kentucky កំណត់ថាប្រសិនបើអាសនៈទំនេរ អភិបាលរដ្ឋត្រូវរៀបចំការបោះឆ្នោតពិសេស (special election)។ បញ្ហានេះបង្ហាញពីបញ្ហាតម្លាភាព (transparency) សុខភាពរបស់អ្នកនយោបាយ ស្រដៀងនឹងភាពចម្រូងចម្រាសពីមុនអំពីការសម្រាកព្យាបាលនៅមន្ទីរពេទ្យរបស់រដ្ឋមន្ត្រីក្រសួងការពារជាតិ Austin ដោយមិនបានប្រកាសជាសាធារណៈ។",
+      "keywords": "Mitch McConnell · transparency · vacancy law · special election"
+    },
+    {
+      "title": "ផែនការធ្វើឃាត Trump របស់អ៊ីរ៉ង់ និងកិច្ចសហប្រតិបត្តិការស៊ើបការណ៍អាមេរិក-អ៊ីស្រាអែល",
+      "content": "អ៊ីស្រាអែលបានចែករំលែកព័ត៌មានស៊ើបការណ៍ (intel) ជាមួយសហរដ្ឋអាមេរិក ដោយនិយាយថាអ៊ីរ៉ង់គ្រោងធ្វើឃាត (assassinate) អតីតប្រធានាធិបតី Trump។ ព័ត៌មាននេះអាចពន្យល់ពីការផ្លាស់ប្តូរយន្តហោះភ្លាមៗ (plane switcheroo) របស់ Trump ថ្មីៗនេះ និងការស្តារការវាយប្រហាររបស់កងទ័ពអាមេរិកលើអ៊ីរ៉ង់។ កិច្ចសហប្រតិបត្តិការស៊ើបការណ៍អាមេរិក-អ៊ីស្រាអែលគឺជាតំណភ្ជាប់ដ៏សំខាន់សម្រាប់សន្តិសុខមជ្ឈិមបូព៌ា ហើយការគំរាមកំហែងធ្វើឃាតជារឿយៗនាំឱ្យមានការបង្កើនសន្តិសុខ។",
+      "keywords": "intel · assassinate · plane switcheroo · Iran"
+    },
+    {
+      "title": "ការជួសជុលបន្ទាន់អគារខ្ពស់នៅញូវយ៉ក និងសុវត្ថិភាពសំណង់",
+      "content": "អគារមួយនៅញូវយ៉កកំពុងមានការបត់បែនខូចទ្រង់ទ្រាយ (buckling) ដែលប្រឈមនឹងហានិភ័យនៃការដួលរលំដោយផ្នែក (partial collapse)។ ការងារជួសជុលបន្ទាន់កំពុងដំណើរការ ប៉ុន្តែមានការសួរថាតើកាលវិភាគ (timeline) មានសុទិដ្ឋិនិយមពេកឬអត់។ ព្រឹត្តិការណ៍បែបនេះច្រើនតែពាក់ព័ន្ធនឹងភាពចាស់នៃអគារ ការវាយតម្លៃរចនាសម្ព័ន្ធ និងសុវត្ថិភាពសាធារណៈ។",
+      "keywords": "buckling · partial collapse · timeline · building safety"
+    },
+    {
+      "title": "Kylie Jenner ធ្វើជាអ្នកតំណាងឱ្យវ៉ែនតា AI របស់ Meta និងភាពចម្រូងចម្រាសអំពីឯកជនភាព",
+      "content": "តារាពិត (reality star) Kylie Jenner បានក្លាយជាអ្នកតំណាងឱ្យវ៉ែនតា AI ថ្មីរបស់ Meta ដែលបណ្តាលឱ្យមានការប្រឆាំងយ៉ាងខ្លាំង (backlash)។ អ្នករិះគន់ចោទប្រកាន់ Meta ថាប្រើឥទ្ធិពលតារាដើម្បីបិទបាំងកង្វល់អំពីឯកជនភាព ដោយនិយាយថានេះជាការ \"បង្កើតការយល់ព្រម\" (manufacturing consent) ពោលគឺការរៀបចំសាធារណៈមតិតាមរយៈប្រព័ន្ធផ្សព្វផ្សាយឱ្យទទួលយកផលិតផលដែលមានភាពចម្រូងចម្រាស។",
+      "keywords": "Kylie Jenner · Meta · AI glasses · backlash · manufacturing consent"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "នៅក្នុងអត្ថបទដើម 'Israel shares intel of an Iran plant -- plan to assassinate President Trump.' ពាក្យ 'intel' មានន័យដូចម្តេច?",
+      "options": [
+        "A. បញ្ញា",
+        "B. ព័ត៌មានសម្ងាត់",
+        "C. ចេតនា",
+        "D. ព័ត៌មានផ្ទៃក្នុង"
+      ],
+      "answer": 1,
+      "explanation": "intel គឺជាអក្សរកាត់របស់ intelligence ក្នុងព័ត៌មានជាញឹកញាប់សំដៅលើ 'ព័ត៌មានសម្ងាត់' ជាពិសេសទាក់ទងនឹងអាថ៌កំបាំងយោធា ឬនយោបាយ។ នៅទីនេះសំដៅលើព័ត៌មានសម្ងាត់ដែលអ៊ីស្រាអែលចែករំលែកអំពីផែនការធ្វើឃាតរបស់អ៊ីរ៉ង់។"
+    },
+    {
+      "type": "vocab",
+      "question": "ឃ្លាដើម 'They are manufacturing consent.' តើ 'manufacturing consent' ជាអ្វី?",
+      "options": [
+        "A. ការបង្កើតលិខិតយល់ព្រម",
+        "B. ការបង្កើតការឯកភាព",
+        "C. ការផលិតលិខិតអនុញ្ញាត",
+        "D. ការក្លែងបន្លំការយល់ព្រម"
+      ],
+      "answer": 1,
+      "explanation": "manufacturing consent គឺជាគោលគំនិតផ្នែកទំនាក់ទំនង សំដៅលើការដែលប្រព័ន្ធផ្សព្វផ្សាយបង្កើតការទទួលយករបស់សាធារណៈចំពោះគោលនយោបាយជាក់លាក់តាមរយៈការរាយការណ៍ជ្រើសរើស ជារឿយៗបកប្រែថា 'ការបង្កើតការឯកភាព'។"
+    },
+    {
+      "type": "vocab",
+      "question": "ឃ្លាដើម 'This charade can't continue.' តើ 'charade' មានន័យដូចម្តេច?",
+      "options": [
+        "A. ល្បែងទាយពាក្យ",
+        "B. ការធ្វើពើ",
+        "C. បញ្ហាប្រឈម",
+        "D. ការផ្លាស់ប្តូរ"
+      ],
+      "answer": 1,
+      "explanation": "charade មានន័យដើមថា 'ល្បែងទាយពាក្យ' បន្ទាប់មកប្រែក្លាយទៅជា 'ការធ្វើពុតជា, ការធ្វើពើ'។ នៅទីនេះសំដៅលើការបិទបាំងបញ្ហាសុខភាពរបស់ McConnell។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តាមរបាយការណ៍ តើសមាជិកគណបក្សសាធារណរដ្ឋមានអាកប្បកិរិយាយ៉ាងណាចំពោះស្ថានភាពសុខភាពរបស់ McConnell?",
+      "options": [
+        "A. ដឹងច្បាស់ទាំងអស់",
+        "B. ត្រូវបានគេលាក់ទុក",
+        "C. លាក់បាំងដោយខ្លួនឯង",
+        "D. ទាមទារឱ្យបង្ហាញជាសាធារណៈ"
+      ],
+      "answer": 1,
+      "explanation": "របាយការណ៍បានឱ្យដឹងថា សមាជិកគណបក្សសាធារណរដ្ឋជាច្រើននាក់បាននិយាយថា ពួកគេមិនបានទាក់ទងដោយផ្ទាល់ជាមួយ McConnell ទេ ហើយអ្នកខ្លះថែមទាំងនិយាយថា 'មិនដឹងថាគាត់នៅរស់ ឬស្លាប់' ដែលបង្ហាញថាពួកគេត្រូវបានគេលាក់ទុក។"
+    },
+    {
+      "type": "comprehension",
+      "question": "ការចែករំលែកព័ត៌មានសម្ងាត់របស់អ៊ីស្រាអែលអំពីអ៊ីរ៉ង់អាចពន្យល់ពីរឿងមួយណាខាងក្រោម?",
+      "options": [
+        "A. ការចូលមន្ទីរពេទ្យរបស់ McConnell",
+        "B. ការប្តូរយន្តហោះរបស់លោក Trump",
+        "C. អគារខ្ពស់គ្រោះថ្នាក់នៅញូវយ៉ក",
+        "D. ភាពចម្រូងចម្រាស់អំពីវ៉ែនតា Meta"
+      ],
+      "answer": 1,
+      "explanation": "របាយការណ៍បានសួរយ៉ាងច្បាស់ថា 'Does that explain the plane switcheroo and the renewed strikes by the U.S.?' ពោលគឺផែនការធ្វើឃាតរបស់អ៊ីរ៉ង់អាចពន្យល់ពីការប្តូរយន្តហោះរបស់លោក Trump ។"
+    },
+    {
+      "type": "comprehension",
+      "question": "តើអ្វីជាមូលហេតុចម្បងដែលអ្នករិះគន់ប្រឆាំងនឹងការផ្សព្វផ្សាយវ៉ែនតា Meta AI របស់ Kylie Jenner?",
+      "options": [
+        "A. តម្លៃវ៉ែនតាខ្ពស់ពេក",
+        "B. ការរចនាវ៉ែនតាអាក្រក់",
+        "C. ការព្រួយបារម្ភអំពីឯកជនភាពត្រូវបានបិទបាំង",
+        "D. Kylie មិនសមនឹងធ្វើជាអ្នកផ្សព្វផ្សាយ"
+      ],
+      "answer": 2,
+      "explanation": "របាយការណ៍បានចង្អុលបង្ហាញថាអ្នករិះគន់យល់ថា Meta ប្រើឥទ្ធិពលអ្នកល្បីឈ្មោះដើម្បី 'បង្កើតការឯកភាព' និងបិទបាំងកង្វល់អំពីឯកជនភាព ពោលគឺ 'sweep privacy concerns under the rug' ។"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Cnn Anchor",
+      "text": "People in California, but not in a good way. This peach truck, it lost some of its fruit on the roadway and caused a major traffic jam. The peaches were eventually pushed to the median, and the lane was thankfully reopened. As if there's not enough that L.A. drivers have to deal with. That does it for CNN HEADLINE EXPRESS. I'm Brad Smith. CNN THIS MORNING with Audie Cornish starts right now.",
+      "cn": "加州的人们，但可不是什么好事。这辆桃子卡车在道路上掉落了一些水果，造成了严重的交通堵塞。桃子最终被推到中央隔离带，车道也 thankfully 重新开放了。好像洛杉矶司机要应付的事情还不够多似的。CNN头条快讯到此结束。我是布拉德·史密斯。奥蒂·科尼什主持的《CNN今晨》节目现在开始。"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "All right. We've got new video just into CNN, showing the moment Mitch McConnell was taken to the hospital a month ago. It's bringing up questions about transparency surrounding his health.",
+      "cn": "好的。我们刚刚收到一段新的视频，显示米奇·麦康奈尔一个月前被送往医院的那一刻。这引发了关于其健康状况透明度的质疑。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "He's obviously not doing well, but don't know if he's alive or has passed away.",
+      "cn": "他显然状况不佳，但不知道他是活着还是已经去世了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And Israel shares intel of an Iran plant -- plan to assassinate President Trump. Does that explain the plane switcheroo and the renewed strikes by the U.S.? Urgent work continues to save that buckling building in New York from partial collapse. Is the timeline too ambitious? And from hot girl summer to hot surveillance summer. Is Meta trying to sweep privacy concerns under the rug by making Kylie Jenner the face of its new A.I. glasses?",
+      "cn": "以色列分享了伊朗工厂的情报 --  -- 计划暗杀特朗普总统。这是否解释了飞机调换和美国重新发动空袭的原因？拯救纽约那栋摇摇欲坠的建筑免于部分倒塌的紧急工作仍在继续。时间表是否过于雄心勃勃？从辣妹夏天到监控夏天。Meta是否试图通过让凯莉·詹娜成为其新AI眼镜的代言人来掩盖隐私问题？"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "Do not buy the Kylie Jenner Meta glasses. Don't buy them. Point blank, period. They are manufacturing consent.",
+      "cn": "不要买凯莉·詹娜的Meta眼镜。不要买。就这么简单，句号。他们是在制造同意。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, this is new and exclusive video just into CNN. It's showing the moment a month ago that Senator Mitch McConnell was loaded into an ambulance. Now, his current health status remains in question. Good morning, everybody. I'm Audie Cornish, and we want to start with the discussion about the former Senate leader's health. CNN has exclusively obtained video of the moment that the Kentucky Republican was taken by ambulance from his home. This happened on June 14.",
+      "cn": "这是刚刚传入CNN的独家新视频。它显示了一个月前参议员米奇·麦康奈尔被抬上救护车的时刻。现在，他的当前健康状况仍存疑问。大家早上好。我是奥蒂·科尼什，我们首先讨论前参议院领袖的健康问题。CNN独家获得了这段视频，显示这位肯塔基州共和党人在6月14日被救护车从家中接走。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Neighbors saw the senator being loaded into an ambulance on a stretcher. Two ambulances, a fire truck, and Capitol police officers were also seen blocking off the street. Now, the face of the person isn't visible in the video, but one neighbor told CNN that an eyewitness saw McConnell's face. Now, this is new detail around McConnell's hospitalization, which has been a mystery so far. Many Republican lawmakers on Capitol Hill say they've been kept in the dark. REP. BRETT GUTHRIE (R-KY): We haven't spoken directly.",
+      "cn": "邻居们看到这位参议员被用担架抬上救护车。还看到两辆救护车、一辆消防车和国会警察封锁了街道。视频中看不到当事人的脸，但一位邻居告诉CNN，一名目击者看到了麦康奈尔的脸。这是关于麦康奈尔住院的新细节，此前一直是个谜。国会山的许多共和党议员表示他们被蒙在鼓里。众议员布雷特·格思里（肯塔基州共和党人）：我们没有直接交谈过。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I've text with him, and I've talked to people with his office and his staff. And, you know, I don't know much more than what the public knows. SEN. MARSHA BLACKBURN (R-TN): I have not had any conversations with him. I understand that some of my colleagues have. We wish him a speedy recovery. REP. MARLIN STUTZMAN (R-IN): Yes. No, no, I have not heard from him. And I think it's a question that Republicans should be asking.",
+      "cn": "我和他发过短信，也和他在办公室的工作人员谈过。你知道，我知道的不比公众多多少。参议员玛莎·布莱克本（田纳西州共和党人）：我没有和他有过任何交谈。我知道我的一些同事有。我们祝愿他早日康复。众议员马林·斯图茨曼（印第安纳州共和党人）：是的。不，不，我没有收到他的消息。我认为这是共和党人应该提出的问题。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "Do you know that he's alive?",
+      "cn": "你知道他还活着吗？"
+    },
+    {
+      "speaker": "Stutzman",
+      "text": "I don't. You know, just the things that I've heard and seen from some friends is that he's obviously not doing well, but don't know if he's alive or has passed away.",
+      "cn": "我不知道。你知道，我从一些朋友那里听到和看到的是，他显然状况不佳，但不知道他是活着还是已经去世了。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, joining me now in the group chat, Elliot Williams, CNN legal analyst and former federal prosecutor; Terry Schilling, president of the American Principles Project; and Lulu Garcia-Navarro, CNN contributor and \"New York Times\" journalist. One of the reasons why people are talking about this, political people are talking about this in a kind of ghoulish way, frankly, is that the Kentucky Senate vacancy law, meaning what do you have to do if suddenly a Senate seat is open? Well, there's a special election.",
+      "cn": "那么，加入我们群聊的有：CNN法律分析师、前联邦检察官埃利奥特·威廉姆斯；美国原则项目主席特里·席林；以及CNN撰稿人、《纽约时报》记者露露·加西亚-纳瓦罗。人们 --  -- 政治人物 --  -- 以一种近乎病态的方式谈论此事的原因之一，坦率地说，是肯塔基州的参议院席位空缺法，即如果参议院席位突然空缺，你需要做什么？嗯，会举行一场特别选举。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The governor has to call for it. And the seat has to be empty until a winner is certified. So, the idea is that the clock is somehow ticking on if, suddenly. there's an open seat in Kentucky, whether it can be filled. What I don't know is why Republicans are kind of leading the charge online, talking about this. This is Nancy Mace in a social media post: \"If McConnell is in as bad a shape as Biden ever was, or worse, he needs to step aside. This charade can't continue.",
+      "cn": "州长必须召集选举。在获胜者得到确认之前，该席位必须保持空缺。所以，想法是，如果肯塔基州突然出现一个空缺席位，时间在滴答作响，看它能否被填补。我不知道的是，为什么共和党人在网上带头谈论这件事。这是南希·梅斯在社交媒体上发的帖子：\"如果麦康奈尔的状态和拜登一样糟糕，甚至更糟，他就应该让位。这场闹剧不能再继续下去了。\""
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We can't demand of others what we won't demand of ourselves.\"",
+      "cn": "\"我们不能要求别人做到我们自己都做不到的事情。\""
+    },
+    {
+      "speaker": "Terry Schilling",
+      "text": "I think this is all getting kind of crazy, frankly. I can speak a little bit to this personally. When my dad was running for Congress in Iowa, Western Iowa, in 2020, he was diagnosed with stage four intestinal cancer. And we made the decision that, since it was an ongoing election, to come public and disclose everything. The reality is, is that I think McConnell is doing fine. Scott Jennings has backed up that he's completely fine, and he's coherent.",
+      "cn": "坦率地说，我认为这一切都变得有点疯狂了。我可以稍微谈一点个人经历。2020年，当我父亲在爱荷华州西部竞选国会议员时，他被诊断出患有四期肠癌。我们决定，由于选举正在进行，我们公开并披露了一切。事实是，我认为麦康奈尔做得很好。斯科特·詹宁斯证实他完全没问题，而且他思路清晰。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But don't skip over that. You said, \"We made the decision to be public.\"",
+      "cn": "但别跳过这一点。你说，\"我们决定公开。\""
+    },
+    {
+      "speaker": "Schilling",
+      "text": "Because there was a pending election that voters were going to make a decision on. But you look at what's happening in the Senate right now. They're not doing anything of substance. There's -- there's not going to be a SAVE Vote Act. It looks like they don't need his vote right now. He's announced his retirement. He's being replaced by, most likely, Andy Barr in Kentucky. It will be exciting to see. But I think this is much ado about nothing. I think we should let -- give him the grace and give him some privacy.",
+      "cn": "因为当时有一场即将到来的选举，选民们要做出决定。但看看现在参议院正在发生的事情。他们没有做任何实质性的事情。不会有《SAVE投票法案》。看起来他们现在不需要他的投票。他已经宣布退休。他很可能会被肯塔基州的安迪·巴尔取代。这将令人兴奋地看到。但我认为这完全是小题大做。我认为我们应该给予他宽容和隐私。"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "He'll come out when he is -- when he feels comfortable.",
+      "cn": "他会在感到舒适的时候出来。"
+    },
+    {
+      "speaker": "Elliot Williams",
+      "text": "Can I ask a question? If you're a resident of the state of Kentucky and need help getting a passport with the State Department, who do you call?",
+      "cn": "我能问个问题吗？如果你是肯塔基州的居民，需要就护照问题联系国务院，你会打电话给谁？"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "You call Senator Mitch McConnell's office. You -- oh, please, the Senate staff. Everyone knows that the Senate staff is really where the magic happens and makes it all work.",
+      "cn": "你会打给参议员米奇·麦康奈尔的办公室。你 --  -- 哦，拜托，是参议院工作人员。每个人都知道，参议院工作人员才是真正创造奇迹、让一切运转的人。"
+    },
+    {
+      "speaker": "Williams",
+      "text": "I think. Well, no, no, but I just -- I just think the notion that, because there is not a major piece of --",
+      "cn": "我想。嗯，不，不，但我只是 --  -- 我只是认为，因为没有一项重大法案 --  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Fighting legislation.",
+      "cn": "对抗立法。"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Fighting legislation that's a priority to Republicans, that somehow, the residents of the state of Kentucky aren't entitled to -- aren't entitled to know, No. 1, what the health status is of one of the most senior senators in the United States.",
+      "cn": "对抗共和党优先考虑的立法，不知何故，肯塔基州居民无权知道 --  -- 首先，无权知道美国最资深参议员之一的健康状况。"
+    },
+    {
+      "speaker": "Williams",
+      "text": "And two, the fact that there isn't an election somehow obviates the senator from one transparency or to doing his job.",
+      "cn": "其次，没有选举这一事实不知何故免除了参议员的透明度或履行其职责。"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There's probably a trust issue, too, because I think during -- when McConnell was a leader, he was someone who manipulated the calendar a lot, somebody who would delay votes for this reason or that reason, most famously, when it came to the Supreme Court. Meghan McCain weighed in, as well. Another child of a politico, saying, \"I also have a lot of regrets almost a decade since my dad's passing.",
+      "cn": "អាចមានបញ្ហាទុកចិត្តផងដែរ ព្រោះខ្ញុំគិតថាក្នុងអំឡុងពេលដែល McConnell ដឹកនាំ គាត់តែងតែរៀបចំកាលវិភាគ ពន្យារពេលការបោះឆ្នោតដោយហេតុផលផ្សេងៗ ដែលល្បីល្បាញបំផុតគឺលើបញ្ហាតុលាការកំពូល។ Megan McCain ក៏បានផ្តល់យោបល់ដែរ។ កូនរបស់អ្នកនយោបាយម្នាក់ទៀតបាននិយាយថា៖ \"ជិតដប់ឆ្នាំបន្ទាប់ពីឪពុកខ្ញុំស្លាប់ ខ្ញុំក៏មានការស្តាយក្រោយជាច្រើនដែរ។ គ្រួសារខ្ញុំគួរតែបង្ខំគាត់ឱ្យចុះចេញពីតំណែងភ្លាមៗនៅពេលដែលគាត់ត្រូវបានគេធ្វើរោគវិនិច្ឆ័យ ហើយនោះហើយជាមូលហេតុដែលខ្ញុំតស៊ូមតិឥឡូវនេះសម្រាប់ការកំណត់អាយុ និងអាណត្តិក្នុងនយោបាយ។ ខ្ញុំក៏សង្ឃឹមដោយស្មោះថាសមាជិកព្រឹទ្ធសភា McConnell មិនមានបញ្ហាអ្វីទេ។\" អ្វីដែលធ្វើឱ្យខ្ញុំចាប់អារម្មណ៍គឺពាក្យ 'បង្ខំ'។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "My family should have forced him to step down the second he was diagnosed, which is why I'm now an advocate of age and term limits in politics. I also sincerely hope Senator McConnell, OK.\" What struck me there was the word \"forced.\"",
+      "cn": "បាទ។ នេះជារឿងពីរ។ អ្នកមានបទពិសោធន៍ទាំងផ្នែកនយោបាយ និងផ្ទាល់ខ្លួន។ ជារឿងផ្ទាល់ខ្លួន មនុស្សគ្រប់គ្នាធ្លាប់ដោះស្រាយជាមួយឪពុកម្តាយចាស់ជរា អ្នកត្រូវដកកូនសោរថយន្តរបស់ពួកគេ -- --"
+    },
+    {
+      "speaker": "Lulu Garcia-Navarro",
+      "text": "Yes. This is two things. And you have the experience of having it be both a political matter and a personal matter. Everyone, as a personal matter, has had to deal with aging parents who you have to take their car keys away and --",
+      "cn": "-- -- ហើយធ្វើការសន្ទនាដ៏លំបាកនោះ។ ពួកគេត្រូវតែសម្រេចចិត្តថាតើពួកគេនឹងធ្វើអ្វី ដូចជាថាតើត្រូវចូលទៅក្នុងកន្លែងពិសេសជាដើម។ នៅពេលដែលវាមិនមែនគ្រាន់តែជាបញ្ហាការបោះឆ្នោតទេ ប៉ុន្តែជាបញ្ហាតម្លាភាព វាក្លាយជារឿងនយោបាយ។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "-- and have that difficult conversation. They have to decide what they're going to do when they -- you know, if they're going to go into special facilities, et cetera, et cetera. When it becomes more than that, it's when it's a political matter and not just about the election, but about transparency.",
+      "cn": "ខ្ញុំពិតជាទទួលយកចំណុចនេះ នៅពេលនេះ ប្រសិនបើ Mitch McConnell មានសុខភាពល្អគ្រប់គ្រាន់ក្នុងការជជែកជាមួយ Scott Jennings នោះគាត់ក៏គួរតែអាចទូរស័ព្ទទៅ CNN ឬ New York Times ឬ Fox News ជាដើម ដើម្បីបង្ហាញថាគាត់មិនអីទេ។ ហើយគាត់មិនបានធ្វើដូច្នេះទេ ដោយស្មោះត្រង់ នេះនាំឱ្យមានទ្រឹស្តីឃុបឃិតទាំងនេះ។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And I do take the point that, at this point, if -- if Mitch McConnell is well enough to be gabbing to Scott Jennings, he should be well enough to call in to CNN or to \"The New York Times\" or to FOX News or whatever, to -- to show that he's OK. And the fact that he hasn't done that is quite -- quite frankly, leading to these conspiracies.",
+      "cn": "ប្រសិនបើខ្ញុំអាចនិយាយបាន ព្រោះខ្ញុំគិតថាមានវិធីបកស្រាយដោយសុច្ឆន្ទៈ ជាពិសេសប្រសិនបើអ្នកស្គាល់ Mitch McConnell។ គាត់ជាមនុស្សរឹងមាំណាស់។ គាត់មិនចូលចិត្តត្រូវគេប្រាប់ឱ្យធ្វើអ្វីទេ ជាពិសេសមិនចូលចិត្តការណែនាំពីសម្ពាធសាធារណៈ។"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "If I could, because, again, I think there's a charitable way to read this, especially if you know Mitch McConnell. He is a very strong man. He does not like being told what to do, especially by public pressure.",
+      "cn": "គាត់ធ្វើតាមកាលវិភាគផ្ទាល់ខ្លួន។ ដូច្នេះ ខ្ញុំគិតថាអ្នកគួរតែផ្តល់ពេលវេលាដល់គាត់។ ឱ្យគាត់ពីរបីថ្ងៃ ដកដង្ហើមធំមួយ។"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "He -- he works on his own time frame. And so, I think you've got to give it to him. Give him a few days, take it -- take a deep breath."
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But let me play for someone you pointed out this week who you could describe very similarly, the former defense secretary, Lloyd Austin. When he went to the hospital for his treatment, it became quite the scandal for Republicans. And in the end, he came out, more or less kind of apologized. And I want to play for you the lesson that he took away from that moment.",
+      "cn": "ប៉ុន្តែសូមឱ្យខ្ញុំចាក់ឱ្យអ្នកស្តាប់នូវអ្វីដែលទាក់ទងនឹងមនុស្សម្នាក់ដែលអ្នកបានលើកឡើងក្នុងសប្តាហ៍នេះ ហើយអ្នកក៏អាចពណ៌នាគាត់តាមរបៀបស្រដៀងគ្នាដែរ គឺអតីតរដ្ឋមន្ត្រីការពារជាតិ Lloyd Austin។ នៅពេលគាត់ទៅមន្ទីរពេទ្យដើម្បីទទួលការព្យាបាល រឿងនេះបានក្លាយជារឿងអាស្រូវតូចមួយក្នុងចំណោមគណបក្សសាធារណរដ្ឋ។ នៅទីបំផុត គាត់បានចេញមក ហើយសុំទោសច្រើន ឬតិច។ ខ្ញុំចង់ឱ្យអ្នកស្តាប់មេរៀនដែលគាត់បានរៀនពីពេលនោះ។"
+    },
+    {
+      "speaker": "Lloyd Austin",
+      "text": "I don't think it's news that I'm a pretty private guy. I never liked burdening others with my problems. It's just not my way. But I've learned from this experience, taking this kind of job means losing some of the privacy that most of us expect. The American people have a right to know if their leaders are facing health challenges that might affect their ability to perform their duties, even temporarily.",
+      "cn": "ខ្ញុំគិតថាខ្ញុំជាមនុស្សដែលចូលចិត្តភាពឯកជនណាស់ ដែលមិនមែនជារឿងថ្មីទេ។ ខ្ញុំមិនដែលចូលចិត្តបង្កបញ្ហាដល់អ្នកដទៃដោយសារបញ្ហាផ្ទាល់ខ្លួនរបស់ខ្ញុំទេ។ នេះមិនមែនជារចនាប័ទ្មរបស់ខ្ញុំទេ។ ប៉ុន្តែតាមរយៈបទពិសោធន៍នេះ ខ្ញុំបានរៀនថា ការកាន់តំណែងបែបនេះមានន័យថាត្រូវបាត់បង់ភាពឯកជនខ្លះដែលពួកយើងភាគច្រើនរំពឹងទុក។ ប្រជាជនអាមេរិកមានសិទ្ធិដឹងថាតើមេដឹកនាំរបស់ពួកគេកំពុងប្រឈមមុខនឹងបញ្ហាសុខភាពដែលអាចប៉ះពាល់ដល់សមត្ថភាពក្នុងការបំពេញភារកិច្ចរបស់ពួកគេដែរឬទេ សូម្បីតែបណ្តោះអាសន្នក៏ដោយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "\"Even temporarily.\" Also notice, he said, the loss of privacy is part of the gig. And I just want to put up some images here, in memoriam. These are lawmakers who have died while they were holding office since 2024. And you pointed out many of these names.",
+      "cn": "\"សូម្បីតែបណ្តោះអាសន្ន។\" ហើយសូមកត់សម្គាល់ថាគាត់និយាយថាការបាត់បង់ភាពឯកជនគឺជាផ្នែកមួយនៃការងារនេះ។ ខ្ញុំគ្រាន់តែចង់បង្ហាញរូបភាពខ្លះនៅទីនេះ ដើម្បីរំលឹក។ ទាំងនេះគឺជាសមាជិកសភាដែលបានស្លាប់ក្នុងពេលកាន់តំណែងចាប់តាំងពីឆ្នាំ 2024។ អ្នកបានលើកឡើងឈ្មោះជាច្រើនក្នុងចំណោមនោះ។"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "A lot of Dems up there.",
+      "cn": "មានអ្នកប្រជាធិបតេយ្យច្រើននៅលើនោះ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Well, it's a lot of old people.",
+      "cn": "អញ្ចឹង មានមនុស្សចាស់ច្រើន។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "I mean, I think let's just -- We should also discuss the fact that the United States Senate is a gerontocracy. It is. Well, it is.",
+      "cn": "ខ្ញុំចង់និយាយថា ខ្ញុំគិតថាយើងគួរតែពិភាក្សាអំពីការពិតដែលថាព្រឹទ្ធសភាអាមេរិកគឺជារបបអ្នកចាស់។ វាពិតជាដូច្នេះមែន។ អញ្ចឹង វាពិតជាដូច្នេះមែន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I think the reason why people are discussing is because the Biden thing --",
+      "cn": "ខ្ញុំគិតថាមូលហេតុដែលមនុស្សពិភាក្សាគឺដោយសារតែរឿង Biden -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- was like a big wakeup call where everybody was questioning, and Republicans are still questioning.",
+      "cn": "-- -- ដូចជាកណ្តឹងរោទិ៍ដ៏ធំមួយ មនុស្សគ្រប់គ្នាកំពុងសួរ ហើយគណបក្សសាធារណរដ្ឋនៅតែសួរ។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Can we talk about the Trump thing? I mean, this is the other thing.",
+      "cn": "តើយើងអាចនិយាយអំពីរឿង Trump បានទេ? ខ្ញុំចង់និយាយថា នេះជារឿងមួយទៀត។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "We don't know what President Trump actually is suffering from. What are his swelling --",
+      "cn": "យើងមិនដឹងថាតើប្រធានាធិបតី Trump ពិតជាមានជំងឺអ្វីទេ។ ការហើមរបស់គាត់គឺជាអ្វី -- --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "What are you talking about?",
+      "cn": "តើអ្នកកំពុងនិយាយអំពីអ្វី?"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Well, there's a lot of --",
+      "cn": "អញ្ចឹង មានច្រើន -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "There's -- we have done many segments on the rumors about various health issues.",
+      "cn": "មាន -- -- យើងបានធ្វើរបាយការណ៍ជាច្រើនអំពីពាក្យចចាមអារ៉ាមអំពីបញ្ហាសុខភាពផ្សេងៗ។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "About various health issues where doctors speculated, with has swollen ankles, you know, the continued bruising on his arms, like -- on his hands. I mean, there are lots of questions about, when -- when people get to a certain age. I mean, let's be honest. I mean, he's 80. Mitch McConnell is -- how old is Mitch McConnell now?",
+      "cn": "អំពីបញ្ហាសុខភាពផ្សេងៗ គ្រូពេទ្យទាយ ដូចជាការហើមកជើង និងស្នាមជាំជាប់រហូតនៅលើដៃរបស់គាត់ និងនៅលើដៃដែរ។ ខ្ញុំចង់និយាយថា នៅពេលមនុស្សឈានដល់អាយុជាក់លាក់មួយ មានសំណួរជាច្រើន។ និយាយឱ្យត្រង់ទៅ គាត់អាយុ 80 ឆ្នាំ។ Mitch McConnell -- -- តើ Mitch McConnell អាយុប៉ុន្មានហើយ?"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "He should be in his 80s. I don't think --",
+      "cn": "គាត់គួរតែអាយុជាង 80 ឆ្នាំ។ ខ្ញុំមិនគិតថា -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Yes, he's in his 80s. I mean, obviously, Biden was also in his 80s. I mean, you start to have serious health concerns. And my point about this, more broadly, is I think the more general point, which is about transparency and what do you owe the voting public about --",
+      "cn": "បាទ គាត់អាយុជាង 80 ឆ្នាំ។ ជាក់ស្តែង Biden ក៏អាយុជាង 80 ឆ្នាំដែរ។ ខ្ញុំចង់និយាយថា អ្នកនឹងចាប់ផ្តើមមានការព្រួយបារម្ភអំពីសុខភាពធ្ងន់ធ្ងរ។ ទស្សនៈទូលំទូលាយរបស់ខ្ញុំគឺថា ខ្ញុំគិតថាបញ្ហាទូទៅជាងនេះគឺតម្លាភាព និងអ្វីដែលអ្នកគួរប្រាប់សាធារណជនអ្នកបោះឆ្នោត -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "What do you owe the voting public about your health?",
+      "cn": "អំពីសុខភាពរបស់អ្នក តើអ្នកគួរប្រាប់សាធារណជនអ្នកបោះឆ្នោតអ្វីខ្លះ?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And here's a fact I owe all of you. He's 84.",
+      "cn": "ហើយខ្ញុំនឹងប្រាប់អ្នកនូវការពិតមួយ៖ គាត់មានអាយុ 84 ឆ្នាំហើយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But I have to be honest. One of the things that happened with Biden and Trump was this idea of, like, well, there's a vigorous and, you know, still operating 80-something. And then there's, like, a deteriorating something. And I think what the audience and voters want to know is, are we all on the same page about when it's OK not to say anything --",
+      "cn": "ប៉ុន្តែនិយាយដោយត្រង់ទៅ រឿងមួយដែលកើតឡើងជាមួយ Biden និង Trump គឺមានទស្សនៈថា មនុស្សមួយចំនួននៅអាយុ 80 ឆ្នាំនៅតែមានថាមពល និងដំណើរការ រីឯអ្នកផ្សេងទៀតកំពុងធ្លាក់ចុះ។ ខ្ញុំគិតថាអ្នកទស្សនា និងអ្នកបោះឆ្នោតចង់ដឹងថា តើយើងទាំងអស់គ្នាយល់ស្របថាពេលណាមិនត្រូវនិយាយអ្វី -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "-- about what's happening? And the answer is sounding more and more like no.",
+      "cn": "-- -- អំពីអ្វីដែលកំពុងកើតឡើង? ហើយចម្លើយកាន់តែដូចជា: ទេ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Well, yes. And moreover, I think a lot of people showed their behinds about Bidens age. I mean, I think we went through -- people don't remember, there was a year-long debate about Joe Biden being unfit for the presidency.",
+      "cn": "អឺ បាទ។ ហើយខ្ញុំគិតថាមនុស្សជាច្រើនបានលាតត្រដាងពីភាពល្ងង់ខ្លៅរបស់ពួកគេអំពីបញ្ហាអាយុរបស់ Biden។ ខ្ញុំចង់និយាយថា យើងបានឆ្លងកាត់ការជជែកដេញដោលរយៈពេលមួយឆ្នាំអំពីថាតើ Joe Biden ស័ក្តិសមជាប្រធានាធិបតីឬអត់។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Which was right for us to have as a nation, because it was clear the president was not fit. This is an individual who is, No. 1, one of the senior leaders on the Appropriations Committee, a former Senate majority leader and a representative serving the state of Kentucky. And I think it's a reasonable question to ask, is this individual fit to serve? And are all the people who are out there vouching for his health creating problems for themselves?",
+      "cn": "ក្នុងនាមជាប្រទេសមួយ យើងធ្វើការជជែកដេញដោលនេះគឺត្រឹមត្រូវ ព្រោះវាច្បាស់ណាស់ថាប្រធានាធិបតីមិនស័ក្តិសម។ បុរសនេះ ជាដំបូង គឺជាអ្នកដឹកនាំជាន់ខ្ពស់ម្នាក់នៃគណៈកម្មាធិការសមស្រប អតីតមេដឹកនាំភាគច្រើននៅព្រឹទ្ធសភា និងជាសមាជិកសភាតំណាងរដ្ឋ Kentucky។ ខ្ញុំគិតថាការសួរសំណួរបែបនេះគឺសមហេតុផល: តើបុរសនេះស័ក្តិសមសម្រាប់តំណែងដែរឬទេ? តើអស់អ្នកដែលគាំទ្រសុខភាពរបស់គាត់កំពុងបង្កើតបញ្ហាសម្រាប់ខ្លួនឯងដែរឬទេ?"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Later on, by being on the record about it?",
+      "cn": "ក្រោយមក តាមរយៈការកត់ត្រាជាសាធារណៈនូវសេចក្តីថ្លែងការណ៍ទាំងនេះ?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Let me follow up on something else quite serious. Coming up on CNN THIS MORNING, is Iran looking to assassinate President Trump? This was the warning from Israel to tip off the White House. Plus, extreme heat fueling dangerous and deadly wildfires in Spain. And where will LeBron go? The odds on Kalshi say there's a greater than 60 percent chance he heads to Cleveland, followed by the Heat and Warriors. We're going to tell you what Charles Barkley thinks.",
+      "cn": "សូមឱ្យខ្ញុំតាមដានប្រធានបទធ្ងន់ធ្ងរមួយទៀត។ នៅក្នុងកម្មវិធី CNN This Morning តើអ៊ីរ៉ង់កំពុងរៀបគំរោងធ្វើឃាតប្រធានាធិបតី Trump ដែរឬទេ? នេះជាការព្រមានពីអ៊ីស្រាអែលទៅកាន់សេតវិមាន។ លើសពីនេះ កម្តៅខ្លាំងបានបង្កឱ្យមានភ្លើងឆេះព្រៃដ៏គ្រោះថ្នាក់ និងសាហាវនៅអេស្ប៉ាញ។ ហើយ LeBron នឹងទៅណា? ហាងឆេងរបស់ Kalshi បង្ហាញថាគាត់មានឱកាសជាង 60% ទៅ Cleveland បន្ទាប់មក Heat និង Warriors។ យើងនឹងប្រាប់អ្នកពីអ្វីដែល Charles Barkley គិត។"
+    },
+    {
+      "speaker": "Charles Barkley",
+      "text": "He should go back to Cleveland and finish his career there. If he goes to Philly, there's people going to say he's ring-chasing to catch Michael. If he goes to Golden State, they're going to say he's ring- chasing.",
+      "cn": "គាត់គួរតែត្រឡប់ទៅ Cleveland ហើយបញ្ចប់អាជីពនៅទីនោះ។ ប្រសិនបើគាត់ទៅ Philadelphia អ្នកខ្លះនឹងនិយាយថាគាត់ដេញតាមចិញ្ចៀនដើម្បីតាមទាន់ Michael។ ប្រសិនបើគាត់ទៅ Golden State ពួកគេក៏នឹងនិយាយថាគាត់កំពុងដេញតាមចិញ្ចៀនដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, an alleged plot by Iran to assassinate President Trump, uncovered by Israel. Sources tell CNN they shared the intelligence with the United States this week.",
+      "cn": "ដូច្នេះ ផែនការរបស់អ៊ីរ៉ង់ដែលសង្ស័យថារៀបគំរោងធ្វើឃាតប្រធានាធិបតី Trump ត្រូវបានរកឃើញដោយអ៊ីស្រាអែល។ ប្រភពបានប្រាប់ CNN ថាពួកគេបានចែករំលែកព័ត៌មាននេះជាមួយសហរដ្ឋអាមេរិកក្នុងសប្តាហ៍នេះ។"
+    },
+    {
+      "speaker": "Donald Trump",
+      "text": "I'm No. 1 on the kill list for Iran. They're lovely people. I'm No. 1. I may be gone, too, because I'm their No. 1 target. It's out all over the place. I'm their No. 1, because they're scum.",
+      "cn": "ខ្ញុំជាគោលដៅកំពូលនៅក្នុងបញ្ជីធ្វើឃាតរបស់អ៊ីរ៉ង់។ ពួកគេជាក្រុមមនុស្សគួរឱ្យស្រឡាញ់។ ខ្ញុំជាគោលដៅកំពូល។ ខ្ញុំក៏ប្រហែលជាមិននៅទីនេះដែរ ព្រោះខ្ញុំជាគោលដៅកំពូលរបស់ពួកគេ។ វាមាននៅគ្រប់ទីកន្លែង។ ខ្ញុំជាគោលដៅកំពូលរបស់ពួកគេ ព្រោះពួកគេជាមនុស្សអាក្រក់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, during funeral processions for the former Iranian leader, Ayatollah Ali Khamenei, a hardline Iranian newspaper put a $100 million bounty on Trump's head. And there were countless banners calling for the president to be assassinated, along with other U.S. politicos like Senator Lindsey Graham. Graham posted this photo on social media, remarking, \"At least they used a good photo of me.\" Joining the group chat, Holly Dagres, senior fellow at the Washington Institute for Near East Policy. Obviously, the U.S.",
+      "cn": "ឥឡូវនេះ ក្នុងអំឡុងពេលពិធីបុណ្យសពរបស់អតីតមេដឹកនាំអ៊ីរ៉ង់ Ayatollah Ali Khamenei កាសែតអ៊ីរ៉ង់ដ៏តឹងរឹងមួយបានផ្តល់រង្វាន់ 100 លានដុល្លារសម្រាប់ក្បាល Trump។ ហើយមានបដារាប់មិនអស់ដែលអំពាវនាវឱ្យធ្វើឃាតប្រធានាធិបតី និងអ្នកនយោបាយអាមេរិកផ្សេងទៀត ដូចជាសមាជិកព្រឹទ្ធសភា Lindsey Graham។ Graham បានបង្ហោះរូបថតនេះនៅលើបណ្តាញសង្គម ហើយបានអត្ថាធិប្បាយថា: 'យ៉ាងហោចណាស់ពួកគេបានប្រើរូបថតល្អរបស់ខ្ញុំ'។ ចូលរួមក្នុងការសន្ទនាគឺ Holly Dagres អ្នកស្រាវជ្រាវជាន់ខ្ពស់នៅវិទ្យាស្ថាន Washington Institute for Near East Policy។ ជាក់ស្តែង សហរដ្ឋអាមេរិក"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "and Israel were able to take out whole tiers of leadership in Iran. So, talk about how serious this assassination threat is, could have been based on what you're reading on the sources.",
+      "cn": "និងអ៊ីស្រាអែលអាចលុបបំបាត់ថ្នាក់ដឹកនាំពហុស្រទាប់របស់អ៊ីរ៉ង់។ ដូច្នេះ សូមនិយាយអំពីការគំរាមកំហែងធ្វើឃាតនេះថាធ្ងន់ធ្ងរប៉ុណ្ណា ដោយផ្អែកលើអ្វីដែលអ្នកបានអានពីប្រភព។"
+    },
+    {
+      "speaker": "Holly Dagres",
+      "text": "Well, first, we should start by saying that this was related to the targeted killing of Quds Force Commander Qasem Soleimani by a U.S. drone strike in Baghdad in 2020. So, these calls for an assassination of not just President Donald Trump, but senior U.S. officials that were in the first Trump administration: then-Secretary of State Mike Pompeo, national security adviser John Bolton, among those. And actually, there have been two plots that were foiled related to the latter two. So, this isn't entirely new.",
+      "cn": "អឺ ជាដំបូង យើងគួរចង្អុលបង្ហាញថា នេះទាក់ទងនឹងការវាយប្រហារដោយយន្តហោះគ្មានមនុស្សបើករបស់សហរដ្ឋអាមេរិកក្នុងឆ្នាំ 2020 នៅទីក្រុង Baghdad ដែលបានធ្វើឃាតមេបញ្ជាការ Quds Force គឺ Qasem Soleimani។ ដូច្នេះ ការអំពាវនាវទាំងនេះមិនត្រឹមតែសំដៅលើប្រធានាធិបតី Donald Trump ប៉ុណ្ណោះទេ ប៉ុន្តែថែមទាំងមន្ត្រីអាមេរិកជាន់ខ្ពស់ក្នុងរដ្ឋបាល Trump ទីមួយផងដែរ: អតីតរដ្ឋមន្ត្រីការបរទេស Mike Pompeo ទីប្រឹក្សាសន្តិសុខជាតិ John Bolton និងអ្នកដទៃ។ តាមពិត ការឃុបឃិតពីរប្រឆាំងនឹងអ្នកក្រោយៗទៀតត្រូវបានរារាំងរួចហើយ។ ដូច្នេះ នេះមិនមែនជារឿងថ្មីទាំងស្រុងនោះទេ។"
+    },
+    {
+      "speaker": "Holly Dagres",
+      "text": "But to your point, I mean, this is right now happening after a three-month war.",
+      "cn": "ប៉ុន្តែតាមទស្សនៈរបស់អ្នក ខ្ញុំចង់និយាយថា នេះកើតឡើងបន្ទាប់ពីសង្គ្រាមរយៈពេលបីខែ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I do want to raise something, which is that the people who have been very critical of this war and critical of the U.S. and the Netanyahu and Trump relationship, have kind of questioned intel from Netanyahu, for example, on nuclear breakout periods or something like that. I want to play for you. This is Hillary Clinton. This is many weeks back, but she was talking about what it was like to deal with Netanyahu when she was secretary of state. And it's relevant here. Let me play it for you.",
+      "cn": "ខ្ញុំពិតជាចង់លើកឡើងរឿងមួយ គឺអ្នកដែលរិះគន់សង្គ្រាមនេះ និងទំនាក់ទំនងរបស់សហរដ្ឋអាមេរិកជាមួយ Netanyahu និង Trump បានចោទសួរអំពីព័ត៌មានស៊ើបការណ៍របស់ Netanyahu ដូចជាអំពីពេលវេលានៃការទម្លាយនុយក្លេអ៊ែរជាដើម។ ខ្ញុំចង់ឱ្យអ្នកស្តាប់ការថតសំឡេងមួយ។ នេះគឺ Hillary Clinton កាលពីប៉ុន្មានសប្តាហ៍មុន ពេលនាងកំពុងនិយាយអំពីបទពិសោធន៍របស់នាងក្នុងការធ្វើការជាមួយ Netanyahu កាលនាងជារដ្ឋមន្ត្រីការបរទេស។ វាពាក់ព័ន្ធ។ សូមឱ្យខ្ញុំលេងឱ្យអ្នកស្តាប់។"
+    },
+    {
+      "speaker": "Hillary Clinton",
+      "text": "I remember one day I was on the phone for hours with Ehud, with Bibi, with others, you know. And they would say things like, you know, our planes are on the tarmac. And I'd say, Well, good luck. I mean, great. Why are you doing this?",
+      "cn": "ខ្ញុំចាំថាថ្ងៃមួយ ខ្ញុំបាននិយាយទូរស័ព្ទជាច្រើនម៉ោងជាមួយ Ehud, Bibi និងអ្នកដទៃ។ ពួកគេនឹងនិយាយថា យន្តហោះរបស់យើងនៅលើផ្លូវរត់ហើយ។ ខ្ញុំនឹងនិយាយថា សំណាងល្អ។ ខ្ញុំចង់និយាយថា ល្អណាស់។ ហេតុអ្វីបានជាអ្នកធ្វើបែបនេះ?"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "You're saying you were -- they were -- you were -- you were being played?",
+      "cn": "តើអ្នកកំពុងនិយាយថាអ្នក -- -- ពួកគេ -- -- អ្នក -- -- អ្នកត្រូវបានគេបោក?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Can you talk about this in this context? I think where people are speaking about Netanyahu and Israel with suspicion.",
+      "cn": "តើអ្នកអាចនិយាយអំពីរឿងនេះក្នុងបរិបទនេះបានទេ? ខ្ញុំគិតថាឥឡូវនេះមនុស្សកំពុងនិយាយអំពី Netanyahu និងអ៊ីស្រាអែលដោយមានការសង្ស័យ។"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "Well, we've seen incidents where the Israeli prime minister, Benjamin Netanyahu, has been speaking to an audience of one, which famously in 2018, right before President Donald Trump withdrew from the Iran nuclear deal, Netanyahu did this very well-known presentation in English, of course, about new findings that Mossad had found from some files they had stolen from an undeclared site.",
+      "cn": "អឺ យើងបានឃើញព្រឹត្តិការណ៍មួយចំនួនដែលនាយករដ្ឋមន្ត្រីអ៊ីស្រាអែល Benjamin Netanyahu បានថ្លែងទៅកាន់ទស្សនិកជនតែមួយ ដែលល្បីល្បាញបំផុតគឺនៅឆ្នាំ 2018 មុនពេលប្រធានាធិបតី Donald Trump ដកខ្លួនចេញពីកិច្ចព្រមព្រៀងនុយក្លេអ៊ែរអ៊ីរ៉ង់ Netanyahu បានធ្វើបទបង្ហាញជាភាសាអង់គ្លេសដ៏ល្បីល្បាញមួយអំពីការរកឃើញថ្មីពីឯកសារដែល Mossad លួចពីទីតាំងដែលមិនបានប្រកាស។"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "But even though it wasn't exactly new information, the fact that this had been presented was really what sold President Trump to decide that he was finally going to withdraw from the nuclear deal in May of 2018. So, I think that a lot of questions are arising in this moment, because it's clear that the goals that the Israelis had for the war hadn't been met, but had to be deterred because of the ceasefire. And there's an understanding that there's still unfinished business with Tehran.",
+      "cn": "ប៉ុន្តែទោះបីជានេះមិនមែនជាព័ត៌មានថ្មីទាំងស្រុងក៏ដោយ ការបង្ហាញនេះពិតជាបានបញ្ចុះបញ្ចូលប្រធានាធិបតី Trump ឱ្យសម្រេចចិត្តដកខ្លួនចេញពីកិច្ចព្រមព្រៀងនុយក្លេអ៊ែរនៅខែឧសភា ឆ្នាំ 2018។ ដូច្នេះ ខ្ញុំគិតថាឥឡូវនេះមានសំណួរជាច្រើនកើតឡើង ព្រោះវាច្បាស់ណាស់ថាគោលដៅរបស់អ៊ីស្រាអែលក្នុងសង្គ្រាមមិនទាន់សម្រេចទេ ប៉ុន្តែត្រូវផ្អាកដោយសារបទឈប់បាញ់។ ហើយមនុស្សយល់ថានៅមានរឿងដែលមិនទាន់ចប់ជាមួយទីក្រុង Tehran។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I know it's been actually hard for you, because you have a lot of family and connection to Iran. We've been seeing these images of people mourning the death of the supreme leader. But this is a dictatorship with -- that had a severe and violent crackdown of protests. What is the feeling for people who didn't have to make their way out into those streets?",
+      "cn": "ខ្ញុំដឹងថាវាពិបាកសម្រាប់អ្នក ព្រោះអ្នកមានគ្រួសារជាច្រើនដែលមានទំនាក់ទំនងជាមួយអ៊ីរ៉ង់។ យើងបានឃើញរូបភាពមនុស្សកាន់ទុក្ខចំពោះមរណភាពរបស់មេដឹកនាំកំពូល។ ប៉ុន្តែនេះជារបបផ្តាច់ការដែលបានបង្ក្រាបការតវ៉ាយ៉ាងឃោរឃៅ និងហឹង្សា។ សម្រាប់អ្នកដែលមិនចាំបាច់ចេញទៅតាមផ្លូវ តើពួកគេមានអារម្មណ៍យ៉ាងណា?"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "Well, you know, ironically, this past week marked the six- month anniversary of the January anti-regime uprising that resulted in the deaths of thousands of protesters. And so, a lot of those Iranians were honoring their memory, the people that could afford to in the capital of Tehran, where much of the main procession was happening for Supreme Leader Ayatollah Ali Khamenei's death was -- people took it as an opportunity to leave, to go to the North or Caspian Sea. And so, those people were not on the streets.",
+      "cn": "អឺ គួរឱ្យអស់សំណើច សប្តាហ៍មុនគឺជាខួបប្រាំមួយខែនៃការបះបោរប្រឆាំងរបបកាលពីខែមករា ដែលបណ្តាលឱ្យអ្នកតវ៉ារាប់ពាន់នាក់ស្លាប់។ ដូច្នេះ ជនជាតិអ៊ីរ៉ង់ជាច្រើនកំពុងរំលឹកដល់ពួកគេ អ្នកដែលមានលទ្ធភាពនៅក្នុងរដ្ឋធានី Tehran ដែលជាកន្លែងពិធីបុណ្យសពដ៏សំខាន់របស់មេដឹកនាំកំពូល Ayatollah Ali Khamenei -- -- មនុស្សបានឆ្លៀតឱកាសចាកចេញទៅភាគខាងជើង ឬសមុទ្រ Caspian។ ដូច្នេះ អ្នកទាំងនោះមិនបានចេញទៅតាមផ្លូវទេ។"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "They were not. And if you were an anti-regime protests or lost a loved one, I remember some of the commentary after the Internet blackout ended was, oh, well, you didn't let us bury our loved ones, but it took you many months to bury your own, meaning the supreme leader. So, I think that really tells a lot about this moment.",
+      "cn": "ពួកគេមិនបានចេញទេ។ ប្រសិនបើអ្នកជាអ្នកតវ៉ាប្រឆាំងរបប ឬបាត់បង់មនុស្សជាទីស្រឡាញ់ ខ្ញុំចាំថាមតិយោបល់មួយចំនួនបន្ទាប់ពីការដាច់បណ្តាញអ៊ីនធឺណេតគឺ: អូ អ្នកមិនអនុញ្ញាតឱ្យយើងបញ្ចុះសពមនុស្សជាទីស្រឡាញ់របស់យើងទេ ប៉ុន្តែអ្នកចំណាយពេលរាប់ខែដើម្បីបញ្ចុះសពរបស់អ្នក ដោយសំដៅទៅលើមេដឹកនាំកំពូល។ ដូច្នេះ ខ្ញុំគិតថានេះបង្ហាញពីស្ថានភាពនាពេលបច្ចុប្បន្ន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Are people still scared?",
+      "cn": "តើមនុស្សនៅតែភ័យខ្លាចដែរឬទេ?"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "They're scared for many reasons, Audie. They're scared because they don't know where their future is, because they don't -- if you're an anti-regime Iranian, you don't want this regime. And you had the United States arguably say that help was on the way. That is, President Donald Trump, and that this was a regime change, or at least initially. And then to see that this is a more emboldened regime, one that, surprisingly, has more support from people that are critics of the war.",
+      "cn": "ពួកគេភ័យខ្លាចដោយសារហេតុផលជាច្រើន Audie។ ពួកគេភ័យខ្លាចព្រោះមិនដឹងថាអនាគតនៅឯណា ព្រោះ -- -- ប្រសិនបើអ្នកជាជនជាតិអ៊ីរ៉ង់ប្រឆាំងរបប អ្នកមិនចង់បានរបបនេះទេ។ ហើយសហរដ្ឋអាមេរិកអាចនិយាយថាធ្លាប់សន្យាថានឹងផ្តល់ជំនួយ។ នោះគឺ ប្រធានាធិបតី Donald Trump ធ្លាប់និយាយថានេះជាការផ្លាស់ប្តូររបប យ៉ាងហោចណាស់ដំបូង។ បន្ទាប់មក ឃើញរបបនេះកាន់តែក្លាហាន គួរឱ្យភ្ញាក់ផ្អើលដែលវាទទួលបានការគាំទ្រកាន់តែច្រើនពីអ្នករិះគន់សង្គ្រាម។"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "And -- but also there's a worry: like, what if this war does continue? Their lives have gotten effectively worse. Economy's in shambles. They're saying they haven't seen numbers like that since the Iran-Iraq war. And so, if you're a young Iranian, you feel like your future -- there isn't really one. So, this is where Iranians are feeling, at least in this moment. I would say.",
+      "cn": "ប៉ុន្តែ -- -- ក៏មានការព្រួយបារម្ភដែរ៖ ឧទាហរណ៍ បើសង្គ្រាមនេះបន្តទៅមុខទៀត? ជីវិតរបស់ពួកគេកាន់តែអាក្រក់ទៅៗ។ សេដ្ឋកិច្ចរញ៉េរញ៉ៃទាំងស្រុង។ ពួកគេថាមិនដែលឃើញតួលេខបែបនេះតាំងពីសង្គ្រាមអ៊ីរ៉ង់-អ៊ីរ៉ាក់មក។ ដូច្នេះ បើអ្នកជាយុវជនអ៊ីរ៉ង់ អ្នកនឹងមានអារម្មណ៍ថាអនាគតរបស់អ្នក -- -- ពិតជាគ្មានអនាគតទេ។ ដូច្នេះ នេះជាអារម្មណ៍របស់ជនជាតិអ៊ីរ៉ង់នាពេលបច្ចុប្បន្ន យ៉ាងហោចណាស់នៅពេលនេះ។ ខ្ញុំចង់និយាយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK. Holly, thank you so much for talking to us in this inflection point. We'll have you back soon.",
+      "cn": "ល្អណាស់ Holly សូមអរគុណច្រើនដែលបាននិយាយជាមួយយើងនៅចំណុចផ្លាស់ប្តូរនេះ។ យើងនឹងអញ្ជើញអ្នកមកវិញឆាប់ៗ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, after the break on CNN THIS MORNING, we're going to talk about the worker who saved a New York City high rise from collapse. They're speaking out.",
+      "cn": "ឥឡូវនេះ បន្ទាប់ពីការសម្រាកនៃកម្មវិធី CNN This Morning យើងនឹងពិភាក្សាអំពីកម្មករដែលបានជួយសង្គ្រោះអគារខ្ពស់មួយនៅទីក្រុងញូវយ៉កពីការដួលរលំ។ ពួកគេកំពុងនិយាយចេញមក។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "In this situation. They're calling me a hero. I don't believe I am.",
+      "cn": "ក្នុងករណីនេះ។ ពួកគេហៅខ្ញុំថាជាវីរៈបុរស។ ខ្ញុំមិនគិតថាខ្ញុំជាទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The job isn't done yet, however. Can workers save the building from partial demolition? Plus, Meta bolsters privacy features on its secret recording Ray-Ban glasses. Will that make them any less creepy? And a live look at the White House. The president's next construction project, the White House columns. You can see already they are covered with scaffolding.",
+      "cn": "ទោះយ៉ាងណា ការងារមិនទាន់ចប់ទេ។ តើកម្មករអាចជួយសង្គ្រោះអគារនេះពីការរុះរើដោយផ្នែកបានទេ? លើសពីនេះ Meta បានពង្រឹងមុខងារឯកជនភាពនៃវ៉ែនតា Ray-Ban ដែលថតសម្ងាត់។ តើនេះនឹងធ្វើឱ្យវាមិនសូវគួរឱ្យខ្លាចទេ? ហើយរូបភាពផ្ទាល់ពីសេតវិមាន។ គម្រោងសាងសង់បន្ទាប់របស់ប្រធានាធិបតី សសរសេតវិមាន។ អ្នកអាចឃើញថាវាត្រូវបានគ្របដណ្តប់ដោយរន្ទារួចហើយ។"
+    },
+    {
+      "speaker": "Kylie Jenner",
+      "text": "Hi, I'm Kylie Jenner, the new voice of Meta A.I. Hey, Meta A.I., is that a chicken?",
+      "cn": "សួស្តី ខ្ញុំគឺ Kylie Jenner ជាសំឡេងថ្មីរបស់ Meta AI ។ ហេ Meta AI តើនោះជាមាន់ទេ?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, Kylie Jenner. As she says, the new face and, it turns out, voice of Meta A.I. glasses. But, as everything with the Kardashians and A.I., comes the backlash.",
+      "cn": "ល្អណាស់ Kylie Jenner ។ ដូចដែលនាងបាននិយាយ មុខថ្មីរបស់វ៉ែនតា Meta AI ក៏ជាសំឡេងថ្មីដែរ។ ប៉ុន្តែ ដូចអ្វីៗទាំងអស់ដែលទាក់ទងនឹងគ្រួសារ Kardashian និង AI ដែរ វាក៏មានការប្រឆាំងផងដែរ។"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "There's a way for you to tell, usually, if somebody is filming on their phone. With the glasses, there is no way for you to tell. And they are trying to get women more and more comfortable with that. So, enter Kylie Jenner with this very cute pair of glasses.",
+      "cn": "ជាធម្មតា មានវិធីមួយដើម្បីដឹងថាតើមាននរណាម្នាក់កំពុងថតជាមួយទូរស័ព្ទដែរឬទេ។ ប៉ុន្តែជាមួយវ៉ែនតានេះ អ្នកមិនអាចដឹងបានទេ។ ពួកគេកំពុងព្យាយាមធ្វើឱ្យស្ត្រីកាន់តែស៊ាំនឹងរឿងនេះ។ ដូច្នេះ Kylie Jenner បានបង្ហាញខ្លួនជាមួយវ៉ែនតាដ៏គួរឱ្យស្រលាញ់នេះ។"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "This collaboration with Kylie ultimately is roping in women consumers.",
+      "cn": "ការសហការជាមួយ Kylie នៅទីបំផុតគឺដើម្បីទាក់ទាញអ្នកប្រើប្រាស់ស្ត្រី។"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "To me, it's almost as if Meta is saying, like, OK, these creepy men are recording you, but hey, you can record them right back.",
+      "cn": "តាមគំនិតខ្ញុំ វាស្ទើរតែដូចជា Meta កំពុងនិយាយថា មិនអីទេ បុរសដែលគួរឱ្យខ្លាចកំពុងថតអ្នក ប៉ុន្តែហេ អ្នកក៏អាចថតពួកគេវិញដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "All right. Needless to say, seems to be some real concerns. Turns out users can actually tamper with that LED light on the glasses, so you wouldn't know if you were being recorded. So, now Meta is trying to address some of those concerns, saying it's rolling out a new update that will turn off the camera if users turn off the privacy light.",
+      "cn": "មិនអីទេ។ មិនចាំបាច់និយាយទេ វាហាក់ដូចជាមានការព្រួយបារម្ភពិតប្រាកដខ្លះ។ វាប្រែថាអ្នកប្រើប្រាស់អាចកែប្រែអំពូល LED នៅលើវ៉ែនតា ដូច្នេះអ្នកមិនអាចដឹងថាតើអ្នកកំពុងត្រូវបានថតឬអត់ទេ។ ឥឡូវនេះ Meta កំពុងព្យាយាមដោះស្រាយបញ្ហាមួយចំនួននេះ ដោយនិយាយថាកំពុងដាក់ចេញនូវការអាប់ដេតថ្មី ប្រសិនបើអ្នកប្រើប្រាស់បិទភ្លើងឯកជនភាព កាមេរ៉ាក៏នឹងបិទដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, we're talking about all of this on this week's \"Engagement Party.\" So, joining the group chat, Ari Shapiro, my co-host of \"Engagement Party.\" So, we were joking about the various tiers of people who hate this. ARI SHAPIRO, CO-HOST, \"ENGAGEMENT PARTY\": Yes. This intersects with a lot of different backlashes.",
+      "cn": "ដូច្នេះ យើងពិភាក្សារឿងទាំងអស់នេះនៅក្នុង The Engagement Party សប្តាហ៍នេះ។ ចូលរួមក្នុងការសន្ទនាជាក្រុមគឺសហពិធីកររបស់ខ្ញុំ Ali Shapiro ។ យើងនិយាយលេងថា អ្នកដែលស្អប់រឿងនេះមានកម្រិតផ្សេងៗគ្នា។ Ali Shapiro (សហពិធីករ The Engagement Party)៖ បាទ។ វាពាក់ព័ន្ធនឹងសំឡេងប្រឆាំងផ្សេងៗគ្នាជាច្រើន។"
+    },
+    {
+      "speaker": "Shapiro",
+      "text": "All going on at once.",
+      "cn": "សំឡេងប្រឆាំងទាំងអស់កើតឡើងក្នុងពេលតែមួយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But also, there are some people who might make use of them. Help me understand why it's such a big thing online.",
+      "cn": "ប៉ុន្តែក៏មានអ្នកដែលអាចប្រើវាដែរ។ ជួយខ្ញុំយល់ពីមូលហេតុដែលរឿងនេះបង្កឱ្យមានប្រតិកម្មខ្លាំងនៅលើអ៊ីនធឺណិត។"
+    },
+    {
+      "speaker": "Shapiro",
+      "text": "All right. Well, first of all, you've got the A.I. backlash. You've got the tech billionaires backlash. You've got the surveillance technology backlash. So, this is kind of summed up by people who are online calling this either Cybertrucks for the face, or there was another line I saw that: was the biggest advance in pervert technology since the trench coat.",
+      "cn": "មិនអីទេ។ ទីមួយ មានការប្រឆាំងនឹង AI ។ មានការប្រឆាំងនឹងមហាសេដ្ឋីបច្ចេកវិទ្យា។ មានការប្រឆាំងនឹងបច្ចេកវិទ្យាឃ្លាំមើល។ ដូច្នេះ វាត្រូវបានសង្ខេបដោយអ្នកនៅលើអ៊ីនធឺណិតថាជា 'Cyber​​truck នៅលើមុខ' ឬឃ្លាមួយទៀតដែលខ្ញុំបានឃើញ៖ ការរីកចម្រើនដ៏ធំបំផុតនៃបច្ចេកវិទ្យាមនុស្សវិកលចរិកចាប់តាំងពីអាវភ្លៀង។"
+    },
+    {
+      "speaker": "Ok. Shapiro",
+      "text": "I think Meta has a public history of, No. 1, compromising their users' safety and security and privacy, then publicly apologizing for it. And No. 2, sinking tens of billions of dollars into transformative technologies that then die, like the Metaverse. Too early to say if this is going to be one or both of those things, but the public response is, to say the least, not positive.",
+      "cn": "ខ្ញុំគិតថា Meta មានប្រវត្តិសាធារណៈ៖ ទីមួយ ធ្វើឱ្យខូចសុវត្ថិភាព និងឯកជនភាពរបស់អ្នកប្រើប្រាស់ បន្ទាប់មកសុំទោសជាសាធារណៈ។ ទីពីរ វិនិយោគរាប់សិបពាន់លានដុល្លារក្នុងបច្ចេកវិទ្យាផ្លាស់ប្តូរ បន្ទាប់មកបច្ចេកវិទ្យាទាំងនោះក៏ស្លាប់ ដូចជា metaverse ។ ឥឡូវនេះ វានៅក្មេងពេកក្នុងការនិយាយថាតើនេះនឹងក្លាយជាមួយក្នុងចំណោមនោះ ឬទាំងពីរ ប៉ុន្តែប្រតិកម្មសាធារណៈគឺមិនវិជ្ជមានទេ យ៉ាងហោចណាស់ក៏និយាយបែបនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes. And we should say what started out kind of like social media stuff here and there, especially being posted by women, has moved to the lawsuit face [SIC] -- phase of this with you've got some states -- let me see who it was. There's some kid safety lawsuits that they're dealing with, four state attorneys general seeking $1.4 trillion in damages. And there have been a couple other cases, as you've mentioned, that Meta has either lost or settled this year.",
+      "cn": "បាទ។ យើងគួរតែនិយាយថា ដំបូងឡើយគ្រាន់តែជាខ្លឹមសារនៅលើបណ្តាញសង្គម ជាពិសេសដែលចេញផ្សាយដោយស្ត្រី ឥឡូវនេះបានឈានដល់ដំណាក់កាលប្តឹងផ្តល់ -- -- រដ្ឋមួយចំនួន -- -- ឱ្យខ្ញុំមើលថាអ្នកណា។ ពួកគេកំពុងដោះស្រាយរឿងក្តីសុវត្ថិភាពកុមារមួយចំនួន អគ្គព្រះរាជអាជ្ញានៃរដ្ឋចំនួនបួនទាមទារសំណង 1.4 ពាន់ពាន់លានដុល្លារ។ ហើយមានករណីមួយចំនួនទៀត ដូចដែលអ្នកបានលើកឡើង Meta បានចាញ់ ឬសម្រុះសម្រួលក្នុងឆ្នាំនេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And then there's just, Lulu, people like you who have encountered these in the wild.",
+      "cn": "ហើយបន្ទាប់មកមានមនុស្សដូចអ្នក ដែលបានជួបប្រទះវ៉ែនតាទាំងនេះក្នុងជីវិតពិត។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "I've encountered these in the wild. It was deeply uncomfortable. Someone was, I thought, filming me when I was with my daughter. I didn't like it. And then it just starts to --",
+      "cn": "ខ្ញុំបានជួបប្រទះរឿងនេះក្នុងជីវិតពិត។ មិនស្រួលទាល់តែសោះ។ ខ្ញុំគិតថាមាននរណាម្នាក់កំពុងថតខ្ញុំ និងកូនស្រីខ្ញុំ។ ខ្ញុំមិនចូលចិត្តវាទេ។ ហើយបន្ទាប់មកវាចាប់ផ្តើម -- --"
+    },
+    {
+      "speaker": "Ok. Garcia-Navarro",
+      "text": "So, I was in a public space. But at the same time, it leads to these very awkward interactions. What are the social niceties for me to say, like, hello, sir, I don't -- are you filming me with your Meta glasses? I don't want to be filmed.\"",
+      "cn": "ដូច្នេះ ខ្ញុំនៅកន្លែងសាធារណៈ។ ប៉ុន្តែក្នុងពេលតែមួយ វានាំឱ្យមានអន្តរកម្មដ៏ឆ្គង។ តើខ្ញុំគួរនិយាយអ្វីខ្លះអំពីសុជីវធម៌សង្គម ឧទាហរណ៍ សួស្តីលោក ខ្ញុំមិន -- -- តើអ្នកកំពុងថតខ្ញុំជាមួយវ៉ែនតា Meta របស់អ្នកមែនទេ? ខ្ញុំមិនចង់ត្រូវបានថតទេ។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "No. It was just like this incredibly awkward. var CNN = CNN || {};",
+      "cn": "ទេ។ វាពិតជាឆ្គងណាស់។"
+    },
+    {
+      "speaker": "Lulu Garcia-Navarro",
+      "text": "I don't -- are you filming me you're your Meta glasses? I don't want to be filmed. ARI SHAPIRO, CO-HOST, \"ENGAGEMENT PARTY\"",
+      "cn": "ខ្ញុំមិន -- -- តើអ្នកកំពុងថតខ្ញុំជាមួយវ៉ែនតា Meta របស់អ្នកមែនទេ? ខ្ញុំមិនចង់ត្រូវបានថតទេ។ Ali Shapiro សហពិធីករ The Engagement Party"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "No. It was just like this incredibly awkward interaction where he just, like, kind of glared at me, took off his glasses, and, you know, it was just this very weird -- as a, you know, we gotcha.",
+      "cn": "ទេ។ វាគ្រាន់តែជាអន្តរកម្មដ៏ឆ្គងមួយ គាត់គ្រាន់តែសម្លឹងមកខ្ញុំ ហើយដោះវ៉ែនតាចេញ អ្នកដឹងទេ វាចម្លែកណាស់ -- -- ដូចជា យើងចាប់អ្នកបានហើយ។"
+    },
+    {
+      "speaker": "Audie Cornish",
+      "text": "Yes. Like, I'm not filming you, but I'm taking these off. Yes.",
+      "cn": "បាទ។ ដូចជា ខ្ញុំមិនបានថតអ្នកទេ ប៉ុន្តែខ្ញុំដោះវ៉ែនតាចេញ។ បាទ។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Yes. And so the whole thing was just really uncomfortable. And I don't, you know, and I don't know what the social interactions are. I put -- I posted this on social media. I got all these responses basically saying, it's legal to film people in most states, which I think you can speak to.",
+      "cn": "បាទ/ចាស។ ដូច្នេះរឿងទាំងមូលមិនស្រួលខ្លាំងណាស់។ ខ្ញុំមិនដឹងថាការប្រាស្រ័យទាក់ទងសង្គមគួរជាយ៉ាងណាទេ។ ខ្ញុំបានបង្ហោះរឿងនេះទៅប្រព័ន្ធផ្សព្វផ្សាយសង្គម ហើយទទួលបានការឆ្លើយតបជាច្រើន ដែលភាគច្រើននិយាយថាការថតអ្នកដទៃគឺស្របច្បាប់នៅក្នុងរដ្ឋភាគច្រើន ខ្ញុំគិតថាអ្នកអាចនិយាយអំពីរឿងនេះបាន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What's the deal? What can we do?",
+      "cn": "តើមានរឿងអ្វីកើតឡើង? តើយើងអាចធ្វើអ្វីបាន?"
+    },
+    {
+      "speaker": "Williams",
+      "text": "It really is legal to film people in most states. Think about every time you go to a monument or a park, you see someone out with their cell phone. Well, they're filming you too. You're incidentally in the camera. Now, it gets trickier where you are recording one person. Some states you have to -- both people have to know that they're being -- that someone's being recorded.",
+      "cn": "នៅក្នុងរដ្ឋភាគច្រើន ការថតអ្នកដទៃគឺស្របច្បាប់។ គិតពីពេលដែលអ្នកទៅវិមាន ឬឧទ្យាន អ្នកនឹងឃើញមនុស្សកាន់ទូរស័ព្ទ។ ពួកគេក៏កំពុងថតអ្នកដែរ។ អ្នកគ្រាន់តែចូលក្នុងស៊ុមដោយចៃដន្យ។ ប៉ុន្តែប្រសិនបើអ្នកថតមនុស្សជាក់លាក់ ស្ថានភាពកាន់តែស្មុគស្មាញ។ រដ្ឋខ្លះតម្រូវឱ្យភាគីទាំងពីរដឹងថាមាននរណាម្នាក់កំពុងត្រូវបានថត។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Some states you can just record one person. One interesting thing that Ari had said about Meta being sued or just taking fire over the years over its users privacy --",
+      "cn": "រដ្ឋខ្លះអ្នកអាចថតតែមនុស្សម្នាក់។ លោក Ari បាននិយាយថា Meta ត្រូវបានប្តឹង ឬរិះគន់ជាច្រើនឆ្នាំដោយសារឯកជនភាពអ្នកប្រើប្រាស់ ដែលគួរឱ្យចាប់អារម្មណ៍ --"
+    },
+    {
+      "speaker": "Shapiro",
+      "text": "Especially for Instagram.",
+      "cn": "ជាពិសេសសម្រាប់ Instagram ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Especially for Instagram. Here -- this is interesting because it's not just users' privacy, it's third party's privacies. People like Lulu who are now at -- or anybody now at risk. It's not just the user who's getting pulled into this, right? And so, even if someone's not being filmed, there's just this specter of --",
+      "cn": "ជាពិសេសសម្រាប់ Instagram ។ នេះ -- គួរឱ្យចាប់អារម្មណ៍ ព្រោះវាមិនត្រឹមតែពាក់ព័ន្ធនឹងឯកជនភាពអ្នកប្រើប្រាស់ប៉ុណ្ណោះទេ ប៉ុន្តែថែមទាំងឯកជនភាពរបស់ភាគីទីបីទៀតផង។ មនុស្សដូចជា Lulu ឥឡូវនេះកំពុងស្ថិតក្នុង -- ឬនរណាម្នាក់ឥឡូវនេះកំពុងប្រឈមនឹងហានិភ័យ។ មិនត្រឹមតែអ្នកប្រើប្រាស់ប៉ុណ្ណោះទេដែលជាប់ពាក់ព័ន្ធ មែនទេ? ដូច្នេះ ទោះបីជានរណាម្នាក់មិនត្រូវបានថតក៏ដោយ ក៏មានស្រមោលនេះ --"
+    },
+    {
+      "speaker": "Williams",
+      "text": "At any point I might be filmed, I don't know if I'm being filmed, and that's deeply uncomfortable.",
+      "cn": "គ្រប់ពេលដែលខ្ញុំអាចត្រូវបានថត ខ្ញុំមិនដឹងថាខ្ញុំកំពុងត្រូវបានថតឬអត់ ដែលធ្វើឱ្យខ្ញុំព្រួយបារម្ភយ៉ាងខ្លាំង។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "To admit (ph) to people.",
+      "cn": "សារភាពរឿងនេះចំពោះមនុស្ស។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And we talked about the potential uses for this.",
+      "cn": "យើងបានពិភាក្សាអំពីការប្រើប្រាស់សក្តានុពលនៃបច្ចេកវិទ្យានេះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In the accessibility community. People who are hard of hearing. People who have issues with their site. The information they'd be able to get in the glasses. I'm pretty sure I can guess lawmakers -- law enforcement is going to be excited about this. So, there are uses for it. And it's interesting that the way they're marketing it though is like, hey girls, this is fun.",
+      "cn": "នៅក្នុងសហគមន៍ដែលអាចចូលដំណើរការបាន។ មនុស្សដែលមានបញ្ហាការស្តាប់។ មនុស្សដែលមានបញ្ហាភ្នែក។ ពួកគេអាចទទួលបានព័ត៌មានតាមរយៈវ៉ែនតា។ ខ្ញុំប្រាកដថាខ្ញុំអាចទាយបានថាសមាជិកសភា -- អ្នកអនុវត្តច្បាប់នឹងរំភើបចំពោះរឿងនេះ។ ដូច្នេះ វាមានការប្រើប្រាស់។ គួរឱ្យចាប់អារម្មណ៍ វិធីទីផ្សាររបស់ពួកគេគឺ៖ ហេ៎ ស្រីៗ នេះជាការសប្បាយ។"
+    },
+    {
+      "speaker": "Shapiro",
+      "text": "Oh, they've got this lineup of mega celebs. I mean they're spending, I think, $70 billion to promote and produce these.",
+      "cn": "អូ៎ ពួកគេបាននាំតារាល្បីៗជាច្រើនមក។ ខ្ញុំចង់និយាយថា ពួកគេបានចំណាយប្រហែល 700 ពាន់លានដុល្លារដើម្បីផ្សព្វផ្សាយ និងផលិតផលិតផលទាំងនេះ។"
+    },
+    {
+      "speaker": "Shapiro",
+      "text": "And they've got Teyana Taylor, Doja Cat, Kylie Jenner. Like, they are bringing out the all-stars to try to tell people that this is cool. I feel like it's part of Mark Zuckerberg's long campaign to convince people that he's cool. He wanted to be the Elon Musk pre- DOGE, and maybe his reputation is heading more in a direction of Elon Musk today.",
+      "cn": "ពួកគេបាននាំ Teyana Taylor, Doja Cat, Kylie Jenner ។ ពួកគេបាននាំក្រុមតារាទាំងអស់មក ដើម្បីព្យាយាមប្រាប់មនុស្សថានេះជារឿងល្អ។ ខ្ញុំគិតថានេះជាផ្នែកមួយនៃកិច្ចខិតខំប្រឹងប្រែងរយៈពេលវែងរបស់ Mark Zuckerberg ដើម្បីព្យាយាមធ្វើឱ្យមនុស្សជឿថាគាត់ល្អ។ គាត់ចង់ក្លាយជា Elon Musk មុន DOGE ហើយប្រហែលជាឥឡូវនេះកេរ្តិ៍ឈ្មោះរបស់គាត់កំពុងឆ្ពោះទៅរក Elon Musk ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Even if he's in the front row of Prada at the start of their relationship?",
+      "cn": "សូម្បីតែនៅពេលដែលទំនាក់ទំនងរបស់ពួកគេទើបតែចាប់ផ្តើម គាត់អង្គុយនៅជួរមុខនៃកម្មវិធី Prada មែនទេ?"
+    },
+    {
+      "speaker": "Shapiro",
+      "text": "Yes, I'm not sure that that's a sign.",
+      "cn": "បាទ/ចាស ខ្ញុំមិនប្រាកដថានោះជាសញ្ញាទេ។"
+    },
+    {
+      "speaker": "Ok. Garcia-Navarro",
+      "text": "But it's all -- but at the end of the day, nobody really trusts Meta with their own personal safety online.",
+      "cn": "ប៉ុន្តែនៅទីបញ្ចប់ គ្មាននរណាម្នាក់ពិតជាទុកចិត្ត Meta ឱ្យការពារសុវត្ថិភាពផ្ទាល់ខ្លួនរបស់ពួកគេតាមអ៊ីនធឺណិតទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "The data that's ours.",
+      "cn": "ទិន្នន័យគឺជារបស់យើង។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "The data that's ours. I mean right now there's a whole kerfuffle over Instagram. If you have a public facing Instagram page, Meta is now automatically opting you in to basically allowing your public Instagram page to be manipulated by A.I. You have to actually actively go in there, which I did yesterday, to change those settings. These are the kinds of actions that make people very upset.",
+      "cn": "ទិន្នន័យគឺជារបស់យើង។ ខ្ញុំចង់និយាយថា ឥឡូវនេះមានរឿងអាស្រូវធំមួយនៅលើ Instagram ។ ប្រសិនបើអ្នកមានទំព័រ Instagram សាធារណៈ Meta ឥឡូវនេះនឹងអនុញ្ញាតឱ្យអ្នកជ្រើសរើសដោយស្វ័យប្រវត្តិឱ្យទំព័រ Instagram សាធារណៈរបស់អ្នកត្រូវបានគ្រប់គ្រងដោយ AI ។ អ្នកត្រូវតែចូលទៅក្នុងការកំណត់ ខ្ញុំបានធ្វើវាកាលពីម្សិលមិញ ដើម្បីផ្លាស់ប្តូរការកំណត់ទាំងនេះ។ សកម្មភាពបែបនេះធ្វើឱ្យមនុស្សមិនពេញចិត្តយ៉ាងខ្លាំង។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "CAA is getting involved in this, of course, the big Hollywood agency. These are issues that really come at the core of people's identity, their public facing profiles.",
+      "cn": "ជាការពិតណាស់ ទីភ្នាក់ងារ Hollywood ធំ CAA ក៏ចូលរួមផងដែរ។ បញ្ហាទាំងនេះពិតជាប៉ះពាល់ដល់ស្នូលនៃអត្តសញ្ញាណ និងរូបភាពសាធារណៈរបស់មនុស្ស។"
+    },
+    {
+      "speaker": "Shapiro",
+      "text": "So, I think what we're seeing here, as I say in \"Engagement Party,\" in our latest episode, is, number one, a failure of government to actually protect people's privacy and identity. But number two, a success of the people who are saying, you may be spending tens of billions of dollars to make this a thing, but we don't want it to be a thing.",
+      "cn": "ដូច្នេះ ខ្ញុំគិតថាអ្វីដែលយើងឃើញនៅទីនេះ ដូចដែលខ្ញុំបាននិយាយនៅក្នុងវគ្គថ្មីបំផុតនៃ The Participation Party ទីមួយ គឺរដ្ឋាភិបាលបរាជ័យក្នុងការការពារឯកជនភាព និងអត្តសញ្ញាណរបស់មនុស្ស។ ប៉ុន្តែទីពីរ គឺជោគជ័យរបស់មនុស្សដែលនិយាយថា 'អ្នកអាចចំណាយរាប់រយពាន់លានដុល្លារដើម្បីជំរុញរឿងនេះ ប៉ុន្តែយើងមិនចង់ឱ្យវាក្លាយជាការពិតទេ' ។"
+    },
+    {
+      "speaker": "Shapiro",
+      "text": "And the people have the final say.",
+      "cn": "ប្រជាជនមានសិទ្ធិសម្រេចចុងក្រោយ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What do the young say, it's propaganda they're unsubscribing from? Ari Shapiro, thank you so much. You can catch us on the newest episode of \"Engagement Party\" now. New episodes are out Friday. We talk about this and also the movement of FROYO. And so, it's a lot of fun. Thanks so much, Ari. All right, straight ahead on CNN THIS MORNING, we're going to turn to this news. The threats from Mexico to take the U.S. to court over the deaths of ICE detainees. And could a foreign government succeed where U.S.",
+      "cn": "តើយុវជននិយាយអ្វីខ្លះអំពីការលុបឈ្មោះចេញពីការផ្សព្វផ្សាយ? Ari Shapiro សូមអរគុណច្រើន។ ឥឡូវនេះអ្នកអាចមើលឃើញយើងនៅក្នុងវគ្គថ្មីបំផុតនៃ The Participation Party ។ វគ្គថ្មីចេញរៀងរាល់ថ្ងៃសុក្រ។ យើងបានពិភាក្សាអំពីបញ្ហានេះ និងចលនា FROYO ។ គួរឱ្យចាប់អារម្មណ៍ណាស់។ សូមអរគុណច្រើន Ari ។ ល្អ បន្ទាប់នៅក្នុង CNN This Morning យើងនឹងផ្តោតលើព័ត៌មាននេះ៖ ម៉ិកស៊ិកគំរាមប្តឹងសហរដ្ឋអាមេរិកទៅតុលាការ ទាក់ទងនឹងការស្លាប់របស់អ្នកជាប់ឃុំ ICE ។ តើរដ្ឋាភិបាលបរទេសអាចទទួលបានជោគជ័យនៅកន្លែងដែលអ្នកតស៊ូមតិអាមេរិកបរាជ័យទេ?"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "advocates have failed? Plus, personality over substance. Voters getting candidates who are actually qualified for the job. Maybe. Maybe not.",
+      "cn": "លើសពីនេះ បុគ្គលិកលក្ខណៈសំខាន់ជាងខ្លឹមសារ។ អ្នកបោះឆ្នោតទទួលបានបេក្ខជនដែលពិតជាមានសមត្ថភាពគ្រប់គ្រាន់សម្រាប់ការងារ។ ប្រហែលជា។ ប្រហែលជាមិនមែន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, the 52-year-old Mexican man killed by ICE in Houston this week was not the target of an immigration operation. That's according to a source. Texas authorities previously notified ICE about two people believed to be in the U.S. illegally, traveling in a white van. And neither of those men were the victim. You're looking at video from the aftermath of the shooting. I have to warn you, it is disturbing because you can see a bloodied person on the ground.",
+      "cn": "បុរសជនជាតិម៉ិកស៊ិកអាយុ 52 ឆ្នាំដែលត្រូវបានសម្លាប់ដោយ ICE នៅ Houston ក្នុងសប្តាហ៍នេះ មិនមែនជាគោលដៅនៃប្រតិបត្តិការអន្តោប្រវេសន៍ទេ។ យោងតាមប្រភពព័ត៌មាន អាជ្ញាធររដ្ឋ Texas បានជូនដំណឹងដល់ ICE ពីមុនថាមានមនុស្សពីរនាក់ដែលត្រូវបានគេជឿថាស្នាក់នៅក្នុងសហរដ្ឋអាមេរិកដោយខុសច្បាប់កំពុងធ្វើដំណើរក្នុងឡានដឹកទំនិញពណ៌ស។ ជនរងគ្រោះទាំងពីរនាក់នេះមិនមែនជាអ្នកទាំងនោះទេ។ អ្នកកំពុងឃើញវីដេអូបន្ទាប់ពីការបាញ់ប្រហារ។ ខ្ញុំត្រូវតែព្រមានអ្នក វាគួរឱ្យព្រួយបារម្ភ ព្រោះអ្នកអាចឃើញមនុស្សម្នាក់ដែលមានឈាមនៅលើដី។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Now, there's no official footage of the shooting that has been released. Federal officials involved were not wearing body cameras. ICE claims the man attempted to take off as agents tried to pull him over. His family is pushing back on that.",
+      "cn": "មិនទាន់មានរូបភាពបាញ់ប្រហារដែលចេញផ្សាយជាផ្លូវការនៅឡើយទេ។ មន្ត្រីសហព័ន្ធដែលពាក់ព័ន្ធមិនបានពាក់កាមេរ៉ារាងកាយទេ។ ICE អះអាងថាបុរសនោះបានព្យាយាមរត់គេចនៅពេលភ្នាក់ងារព្យាយាមបញ្ឈប់រថយន្តរបស់គាត់។ ក្រុមគ្រួសាររបស់គាត់បដិសេធរឿងនេះ។"
+    },
+    {
+      "speaker": "Ronaldo Salgado",
+      "text": "He did not know that those vehicles following him were ICE agents. Again, these vehicles were unmarked. They had no emblems, no logos, no flashing lights. There was no way for him to know that they were ICE agents. I know my dad would have stopped had ICE agents formally and clearly identified themselves, at least through their vehicle markings.",
+      "cn": "គាត់មិនដឹងថារថយន្តដែលតាមពីក្រោយគាត់ជាភ្នាក់ងារ ICE ទេ។ ដូចគ្នាដែរ រថយន្តទាំងនេះគ្មានសញ្ញាសម្គាល់។ វាគ្មានផ្លាកសញ្ញា គ្មាននិមិត្តសញ្ញា គ្មានភ្លើងព្រមាន។ គាត់មិនអាចដឹងថាពួកគេជាភ្នាក់ងារ ICE ឡើយ។ ខ្ញុំដឹងថា ប្រសិនបើភ្នាក់ងារ ICE បង្ហាញអត្តសញ្ញាណជាផ្លូវការ និងច្បាស់លាស់ យ៉ាងហោចណាស់តាមរយៈសញ្ញាសម្គាល់រថយន្ត ឪពុកខ្ញុំនឹងឈប់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In the meantime, Mexico, fed up with the deaths of its people on U.S. soil. Their president is seeking a criminal investigation in the U.S. related deaths of 17 Mexican nationals during immigration operations in recent months. PRESIDENT CLAUDIA SHEINBAUM, MEXICO (through translator): What happened recently with the death of a Mexican in an ICE operation, not only is it sad and regrettable, but it seems to be targeted. So, obviously, we will maintain the diplomatic relationship.",
+      "cn": "ទន្ទឹមនឹងនេះ ម៉ិកស៊ិកធុញទ្រាន់នឹងការស្លាប់របស់ពលរដ្ឋខ្លួននៅលើទឹកដីអាមេរិក។ ប្រធានាធិបតីម៉ិកស៊ិកកំពុងស្វែងរកការស៊ើបអង្កេតព្រហ្មទណ្ឌនៅសហរដ្ឋអាមេរិកចំពោះការស្លាប់របស់ពលរដ្ឋម៉ិកស៊ិកចំនួន ១៧ នាក់ក្នុងប្រតិបត្តិការអន្តោប្រវេសន៍ប៉ុន្មានខែថ្មីៗនេះ។ ប្រធានាធិបតីម៉ិកស៊ិក Claudia Sheinbaum (តាមរយៈអ្នកបកប្រែ) បាននិយាយថា៖ ការស្លាប់ថ្មីៗរបស់ជនជាតិម៉ិកស៊ិកម្នាក់ក្នុងប្រតិបត្តិការ ICE មិនត្រឹមតែគួរឱ្យសោកស្តាយ និងសោកស្តាយប៉ុណ្ណោះទេ ប៉ុន្តែហាក់ដូចជាមានគោលដៅ។ ដូច្នេះ ជាក់ស្តែង យើងនឹងរក្សាទំនាក់ទំនងការទូត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But we made the decision to file a formal complaint with the state and federal prosecutor's office of the United States against those who are found responsible for what we consider to be homicides.",
+      "cn": "ប៉ុន្តែយើងសម្រេចចិត្តដាក់ពាក្យបណ្តឹងជាផ្លូវការទៅកាន់ការិយាល័យព្រះរាជអាជ្ញារដ្ឋ និងសហព័ន្ធអាមេរិក ដើម្បីស្វែងរកអ្នកដែលយើងចាត់ទុកថាជាអ្នកទទួលខុសត្រូវចំពោះអំពើឃាតកម្ម។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Mexico's foreign minister says the country will file criminal complaints directly with U.S. prosecutors. The group chat is back. And, Elliot, we need your expertise.",
+      "cn": "រដ្ឋមន្ត្រីការបរទេសម៉ិកស៊ិកបាននិយាយថា ប្រទេសនេះនឹងដាក់ពាក្យបណ្តឹងព្រហ្មទណ្ឌដោយផ្ទាល់ទៅកាន់ព្រះរាជអាជ្ញាអាមេរិក។ ការជជែកជាក្រុមបានត្រលប់មកវិញហើយ។ Elliott យើងត្រូវការជំនាញរបស់អ្នក។"
+    },
+    {
+      "speaker": "Ok. Cornish",
+      "text": "Because, in general, when you're looking at deaths of ICE detainees --",
+      "cn": "ពីព្រោះ ជារួម នៅពេលអ្នកពិនិត្យមើលការស្លាប់របស់អ្នកជាប់ឃុំ ICE --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Obviously there is a spike. As of 2025, that number up to 33. It's gone down a bit. And I think people thought maybe ICE had been operating differently, or at least more covertly on the streets of the",
+      "cn": "ជាក់ស្តែងមានកំពូលមួយ។ គិតត្រឹមឆ្នាំ ២០២៥ ចំនួននេះបានកើនឡើងដល់ ៣៣។ ក្រោយមកបានថយចុះ។ ខ្ញុំគិតថាមនុស្សប្រហែលជាគិតថា ICE ដំណើរការខុសគ្នា ឬយ៉ាងហោចណាស់មានភាពសម្ងាត់ជាងនៅតាមដងផ្លូវអាមេរិក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You're shaking your head.",
+      "cn": "អ្នកកំពុងគ្រវីក្បាល។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "No. It's just covertly might be the word or just simply not in public in the same way. Now, the big picture governing all of this is that law enforcement has tremendously broad latitude. And I think latitude that would shock and alarm many people, both in terms of deaths in custody, but also in terms of their conduct in the field. Now, certainly, Mexico is free to try to, you know, engage prosecutors, file lawsuits or whatever else.",
+      "cn": "ទេ។ គ្រាន់តែពាក្យថា 'សម្ងាត់' អាចសមរម្យ ឬគ្រាន់តែមិនសូវបើកចំហដូចមុន។ ឥឡូវនេះ បរិបទធំនៃរឿងនេះគឺថា ភ្នាក់ងារអនុវត្តច្បាប់មានសិទ្ធិអំណាចដ៏ធំទូលាយ។ ខ្ញុំគិតថាសិទ្ធិអំណាចនេះនឹងធ្វើឱ្យមនុស្សជាច្រើនភ្ញាក់ផ្អើល និងប្រុងប្រយ័ត្ន ទាំងផ្នែកការស្លាប់របស់អ្នកជាប់ឃុំ និងអាកប្បកិរិយារបស់ពួកគេនៅកន្លែងកើតហេតុ។ ជាការពិតណាស់ ម៉ិកស៊ិកអាចព្យាយាមទាក់ទងព្រះរាជអាជ្ញា ដាក់ពាក្យបណ្តឹង ឬធ្វើអ្វីផ្សេងទៀតដោយសេរី។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "I will note, you know, the Department of Homeland Security will be defended by the Justice Department in any federal suit in the United States right now. And I just think the likelihood of any of these suits really gaining traction --",
+      "cn": "ខ្ញុំចង់ចង្អុលបង្ហាញថា បច្ចុប្បន្ននេះ នៅក្នុងរឿងក្តីសហព័ន្ធណាមួយនៅសហរដ្ឋអាមេរិក ក្រសួងសន្តិសុខមាតុភូមិនឹងត្រូវបានការពារដោយក្រសួងយុត្តិធម៌។ ខ្ញុំគ្រាន់តែគិតថាលទ្ធភាពដែលរឿងក្តីទាំងនេះទទួលបានជោគជ័យ --"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Just based on who the Justice Department is right now, they have an interest in protecting the Department of Homeland Security, is pretty low, but they can. That is their right. But two other avenues. Really quick, Audie, two other avenues for proceeding, if they're serious. Number one, go to the states. Every state can entertain lawsuits, even against the federal government. You can have the attorney general or local prosecutor bring a lawsuit.",
+      "cn": "ដោយផ្អែកលើជំហរបច្ចុប្បន្នរបស់ក្រសួងយុត្តិធម៌ ដែលមានបំណងការពារក្រសួងសន្តិសុខមាតុភូមិ លទ្ធភាពគឺទាបណាស់ ប៉ុន្តែពួកគេអាចធ្វើបាន។ នេះជាសិទ្ធិរបស់ពួកគេ។ ប៉ុន្តែមានផ្លូវពីរទៀត។ និយាយឱ្យខ្លី Audi ប្រសិនបើពួកគេយកចិត្តទុកដាក់ មានផ្លូវឆ្ពោះទៅមុខពីរ។ ទីមួយ ទៅកាន់រដ្ឋនានា។ រដ្ឋនីមួយៗអាចទទួលយករឿងក្តី សូម្បីតែប្រឆាំងនឹងរដ្ឋាភិបាលសហព័ន្ធ។ អ្នកអាចឱ្យព្រះរាជអាជ្ញារដ្ឋ ឬព្រះរាជអាជ្ញាស្រុកដាក់ពាក្យបណ្តឹង។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "But also Congress can oversee and step in if ICE is behaving in a manner that's not appropriate.",
+      "cn": "ប៉ុន្តែប្រសិនបើ ICE ប្រព្រឹត្តខុស សភាក៏អាចធ្វើការត្រួតពិនិត្យ និងអន្តរាគមន៍ផងដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, right now, ICE related Mexican national deaths in Trump's term, 14 people in ICE custody, three in ICE operations. Sheinbaum had more or less kind of played nice with Trump when it came to tariffs, right, and when it came to the drug war. Why do you think, Lulu, that she is speaking out now and in such a specific way, using the phrase targeted?",
+      "cn": "ដូច្នេះ បច្ចុប្បន្ននេះ ចំនួនអ្នកស្លាប់ជនជាតិម៉ិកស៊ិកដែលទាក់ទងនឹង ICE ក្នុងអាណត្តិលោក Trump គឺ៖ ១៤ នាក់បានស្លាប់ក្នុងពេលឃុំខ្លួន ICE, ៣ នាក់បានស្លាប់ក្នុងប្រតិបត្តិការ ICE។ Sheinbaum បានបង្ហាញអាកប្បកិរិយារួសរាយរាក់ទាក់ចំពោះ Trump ច្រើន ឬតិចលើបញ្ហាពន្ធគយ និងសង្គ្រាមគ្រឿងញៀន។ Lulu តើអ្នកគិតថាហេតុអ្វីបានជានាងនិយាយឥឡូវនេះតាមរបៀបជាក់លាក់បែបនេះ ហើយប្រើពាក្យថា 'គោលដៅ'?"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Yes. This is always a hugely sensitive issue for Mexico. Let's not forget that, you know, Mexico has the largest number of immigrants in the United States, and they share a border. And so, the way that ICE and Border Patrol interact with that population has always been a source of enormous sensitivity and tension.",
+      "cn": "បាទ។ នេះជាបញ្ហារសើបខ្លាំងសម្រាប់ម៉ិកស៊ិកជានិច្ច។ កុំភ្លេចថា ម៉ិកស៊ិកមានចំនួនជនអន្តោប្រវេសន៍ច្រើនជាងគេនៅសហរដ្ឋអាមេរិក ហើយប្រទេសទាំងពីរចែករំលែកព្រំដែនរួម។ ដូច្នេះ របៀបដែល ICE និងល្បាតព្រំដែនប្រាស្រ័យទាក់ទងជាមួយក្រុមនេះ គឺជាប្រភពនៃភាពរសើប និងភាពតានតឹងខ្ពស់ជានិច្ច។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And I think one of the reasons they're doing this is not only because they think they're going to get satisfaction, but it is to be perceived by their own people as doing something, as raising complaints, as trying to actively engage.",
+      "cn": "ខ្ញុំគិតថាហេតុផលមួយដែលពួកគេធ្វើបែបនេះ មិនត្រឹមតែដោយសារពួកគេគិតថានឹងទទួលបានលទ្ធផលគាប់ចិត្តប៉ុណ្ណោះទេ ប៉ុន្តែដើម្បីឱ្យប្រជាជនរបស់ពួកគេឃើញថាពួកគេកំពុងចាត់វិធានការ ដាក់ពាក្យបណ្តឹង និងចូលរួមយ៉ាងសកម្ម។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Because it's not only that the government is in this very difficult position with trying to appease Trump and work with him while also defending its population, but the people themselves do not like the Trump administration, do not like the way that this is playing out, and want their government to do something.",
+      "cn": "ពីព្រោះមិនត្រឹមតែរដ្ឋាភិបាលស្ថិតក្នុងស្ថានភាពលំបាកខ្លាំង ដែលត្រូវផ្គាប់ចិត្ត និងសហការជាមួយ Trump ក៏ដូចជាការពារប្រជាជនរបស់ខ្លួនប៉ុណ្ណោះទេ ប៉ុន្តែប្រជាជនខ្លួនឯងក៏មិនចូលចិត្តរដ្ឋាភិបាល Trump មិនចូលចិត្តការវិវត្តនៃស្ថានការណ៍ ហើយចង់ឱ្យរដ្ឋាភិបាលរបស់ពួកគេធ្វើអ្វីមួយ។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And so, this is a way of them showing that they are.",
+      "cn": "ដូច្នេះ នេះជាវិធីដែលពួកគេបង្ហាញថាពួកគេកំពុងធ្វើសកម្មភាព។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And it raises the profile of ICE operations in a moment when they had effectively lowered the temperature after the mass protests in two separate cities, and deaths on the streets.",
+      "cn": "ហើយបន្ទាប់ពីការតវ៉ាដ៏ធំ និងការស្លាប់តាមដងផ្លូវនៅក្នុងទីក្រុងពីរផ្សេងគ្នា ICE ពិតជាបានបន្ថយភាពតានតឹង ប៉ុន្តែទង្វើនេះបានបង្កើនការយកចិត្តទុកដាក់លើប្រតិបត្តិការ ICE ម្តងទៀត។"
+    },
+    {
+      "speaker": "Terry Schilling",
+      "text": "Yes. Well, look, I -- my message to the president of Mexico, Claudia Sheinbaum, is, game on. You know, you want to sue over this. I guess we'll have to sue over the hundreds of thousands of young men and women in this country that have died from fentanyl overdoses or even the hundreds of people that have had violence inflicted on them that have been raped and sexually assaulted. You know, Claudia Sheinbaum is one to talk. She was elected in a year where there were over 27 political assassinations in her party.",
+      "cn": "បាទ។ មិនអីទេ ខ្ញុំចង់និយាយទៅកាន់ប្រធានាធិបតីម៉ិកស៊ិក Claudia Sheinbaum ថា៖ មកចុះ។ អ្នកចង់ដាក់ពាក្យបណ្តឹងលើរឿងនេះ។ ខ្ញុំគិតថាយើងក៏ត្រូវតែដាក់ពាក្យបណ្តឹងសម្រាប់យុវជនរាប់រយពាន់នាក់នៅក្នុងប្រទេសនេះដែលស្លាប់ដោយសារការប្រើជ្រុល fentanyl សូម្បីតែមនុស្សរាប់រយនាក់ដែលរងអំពើហិង្សា ការរំលោភ និងការរំលោភផ្លូវភេទ។ Claudia Sheinbaum និយាយងាយ។ ឆ្នាំដែលនាងត្រូវបានជ្រើសរើស មានឃាតកម្មនយោបាយជាង ២៧ ករណីនៅក្នុងគណបក្សរបស់នាង។"
+    },
+    {
+      "speaker": "Terry Schilling",
+      "text": "She's literally a hand-picked candidate for the cartels. And again --",
+      "cn": "នាងគឺជាបេក្ខជនដែលត្រូវបានជ្រើសរើសដោយប្រុងប្រយ័ត្នពីក្រុមចោរគ្រឿងញៀន។ ហើយ --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You've levied a lot of different things there.",
+      "cn": "អ្នកទើបតែលើកឡើងនូវការចោទប្រកាន់ផ្សេងៗគ្នាជាច្រើន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "So, I want to hold on because I'm not fact checking you on that level, OK. But I do have this question about, is it fair for a country to say, you're killing our nationals on your street and that this is state sanctioned deaths, and therefore.",
+      "cn": "ដូច្នេះ ខ្ញុំចង់បញ្ជាក់ជាមុនថា ខ្ញុំនឹងមិនផ្ទៀងផ្ទាត់ការអះអាងរបស់អ្នកនៅកម្រិតនេះទេ មិនអីទេ។ ប៉ុន្តែខ្ញុំមានសំណួរមួយ៖ តើវាសមរម្យទេដែលប្រទេសមួយនិយាយថា 'អ្នកកំពុងសម្លាប់ពលរដ្ឋរបស់យើងនៅតាមដងផ្លូវរបស់យើង នេះជាការស្លាប់ដែលរដ្ឋអនុញ្ញាត'? ដូច្នេះ…"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "Well, look, I noticed in that chart, in 2023 and 2024 there were -- I think in 2023 it said there were seven deaths by ICE and 11 deaths in 2024. That's when there was like no immigration enforcement at all. And it's only around 50 between these last two years. There it goes, 33 and 19 in two years. That's 52.",
+      "cn": "មែនហើយ អ្នកឃើញទេ ខ្ញុំបានកត់សម្គាល់នៅលើតារាងនោះថា ឆ្នាំ ២០២៣ និង ២០២៤ -- ខ្ញុំចាំថាឆ្នាំ ២០២៣ បង្ហាញថាមានមនុស្ស ៧ នាក់ស្លាប់ដោយសារ ICE ឆ្នាំ ២០២៤ មាន ១១ នាក់។ នោះគឺនៅពេលដែលស្ទើរតែគ្មានការអនុវត្តច្បាប់អន្តោប្រវេសន៍។ ហើយពីរឆ្នាំចុងក្រោយនេះមានតែប្រហែល ៥០ នាក់ប៉ុណ្ណោះ។ អ្នកឃើញទេ ពីរឆ្នាំ ៣៣ និង ១៩ សរុប ៥២ នាក់។"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "That's when we're actually deporting people and actually enforcing the law. So, it seems like there's some violence embedded into illegal immigration in the first place.",
+      "cn": "នោះគឺនៅពេលដែលយើងពិតជាបណ្តេញមនុស្ស អនុវត្តច្បាប់។ ដូច្នេះ វាហាក់ដូចជាអន្តោប្រវេសន៍ខុសច្បាប់ខ្លួនឯងមានអំពើហិង្សាខ្លះ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "I -- well, no, no, no. I -- the only thing I will say to sort of push back on that gently is, and I worked at -- I was a senior official at ICE for five years. You're still talking about deporting 400,000 people a year, even under the low points of any administration's immigration enforcement efforts. So, the idea that enforcement simply isn't happening, and those are, I believe we were talking about detention centers, people are detained, beds are full.",
+      "cn": "ខ្ញុំ -- មែនហើយ ទេ ទេ ទេ។ រឿងតែមួយគត់ដែលខ្ញុំចង់ជំទាស់ដោយស្រាលគឺថា ខ្ញុំធ្លាប់ជាមន្ត្រីជាន់ខ្ពស់នៅ ICE អស់រយៈពេលប្រាំឆ្នាំ។ សូម្បីតែនៅក្នុងរយៈពេលទាបបំផុតនៃការងារអនុវត្តច្បាប់អន្តោប្រវេសន៍របស់រដ្ឋាភិបាលណាមួយ អ្នកនៅតែនិយាយអំពីការបណ្តេញមនុស្ស ៤០ ម៉ឺននាក់ក្នុងមួយឆ្នាំ។ ដូច្នេះ គំនិតដែលថាការអនុវត្តច្បាប់មិនបានកើតឡើងទាល់តែសោះ និងអ្វីដែល -- ខ្ញុំជឿថាយើងកំពុងពិភាក្សាអំពីមជ្ឈមណ្ឌលឃុំខ្លួន ដែលមនុស្សត្រូវបានឃុំខ្លួន គ្រែពេញ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "It's just not accurate that no -- that no enforcement was happening. Now, certainly we can agree, and I think we should, that more enforcement is happening now than happened in 2023. But I -- but I don't think that that -- those numbers are reflective of enforcement simply not happening in detention centers.",
+      "cn": "ការនិយាយថាគ្មានការអនុវត្តច្បាប់កើតឡើងគឺមិនត្រឹមត្រូវទេ។ ពិតណាស់ យើងអាចយល់ស្រប ហើយខ្ញុំគិតថាគួរតែយល់ស្របថា ការអនុវត្តច្បាប់ឥឡូវនេះច្រើនជាងឆ្នាំ 2023។ ប៉ុន្តែខ្ញុំមិនគិតថាតួលេខទាំងនោះឆ្លុះបញ្ចាំងពីស្ថានភាពដែលមជ្ឈមណ្ឌលឃុំខ្លួនគ្មានការអនុវត្តច្បាប់ទាល់តែសោះនោះទេ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "So, a lot of people are detained by the United States.",
+      "cn": "ដូច្នេះ មនុស្សជាច្រើនត្រូវបានឃុំខ្លួនដោយសហរដ្ឋអាមេរិក។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And I'll also say that they -- (CROSS TALK)",
+      "cn": "ខ្ញុំក៏ចង់និយាយថា ពួកគេ -- -- (ការសន្ទនាឆ្លងគ្នា)"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And I will say that the implication --",
+      "cn": "អ្វីដែលខ្ញុំចង់និយាយគឺ ការបញ្ជាក់នេះ -- --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "And a lot more people were coming into the United States in those years.",
+      "cn": "ហើយនៅឆ្នាំទាំងនោះ មានមនុស្សច្រើនជាងនេះចូលមកសហរដ្ឋអាមេរិក។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Yes, but I'll also say that the implication that somehow enforcement is violent and therefore these deaths are somehow acceptable is --",
+      "cn": "បាទ/ចាស ប៉ុន្តែខ្ញុំក៏ចង់និយាយថា ការបញ្ជាក់ថាការអនុវត្តច្បាប់មានអំពើហិង្សា ដូច្នេះការស្លាប់ទាំងនេះអាចទទួលយកបានក្នុងកម្រិតណាមួយ គឺ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And not accept -- well, let's pause on this. It's not acceptable, certainly, to the families. And as we started this story with somebody who's lost their father when they weren't even the target of the operation. So, I think the question of, what standard do we hold ourselves to is coming up in this. I want you guys to stay with me. We're going to turn to another story in the future talking about NASA, because NASA is now recruiting volunteers for a yearlong moon and mars simulation.",
+      "cn": "ហើយមិនទទួលយក -- -- មិនអីទេ យើងឈប់ត្រង់នេះសិន។ នេះពិតជាមិនអាចទទួលយកបានសម្រាប់ក្រុមគ្រួសារទេ។ ដូចដែលយើងបានលើកឡើងនៅពេលចាប់ផ្តើមរឿងនេះ មាននរណាម្នាក់បាត់បង់ឪពុក ហើយពួកគេមិនមែនជាគោលដៅនៃប្រតិបត្តិការនោះទេ។ ដូច្នេះ ខ្ញុំគិតថាសំណួរអំពីស្តង់ដារដែលយើងកាន់កាប់កំពុងលេចឡើង។ សូមទស្សនិកជនបន្តតាមដាន។ យើងនឹងបន្តទៅរឿងមួយទៀតអំពី NASA ព្រោះ NASA កំពុងជ្រើសរើសអ្នកស្ម័គ្រចិត្តសម្រាប់បេសកកម្មក្លែងធ្វើនៅលើឋានព្រះច័ន្ទ និងភពព្រះអង្គាររយៈពេលមួយឆ្នាំ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Voters will be in space-like -- sorry, volunteers will be in space-like conditions, living inside confined habitats and carrying out tasks, just as astronauts would at the start of the year.",
+      "cn": "អ្នកបោះឆ្នោតនឹងស្ថិតក្នុងបរិយាកាសដូចអវកាស -- -- សូមទោស អ្នកស្ម័គ្រចិត្តនឹងស្ថិតក្នុងបរិយាកាសដូចអវកាស រស់នៅក្នុងទីជម្រកបិទជិត និងបំពេញបេសកកម្ម ដូចអវកាសយានិកបានធ្វើនៅដើមឆ្នាំ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "An alleged plot by Iran to assassinate President Trump uncovered by Israel. Sources tell CNN they shared the intelligence with the U.S. this week. I'm bringing in \"New York Times\" White House correspondent Maggie Haberman. She's co-author of the new bestseller \"Regime Change: Inside the Imperial Presidency of Donald Trump.\" Maggie, thank you so much for being here.",
+      "cn": "អ៊ីស្រាអែលបានរកឃើញផែនការសម្លាប់ប្រធានាធិបតី Trump ដែលសង្ស័យថាពាក់ព័ន្ធនឹងអ៊ីរ៉ង់។ ប្រភពបានប្រាប់ CNN ថាពួកគេបានចែករំលែកព័ត៌មាននេះជាមួយសហរដ្ឋអាមេរិកក្នុងសប្តាហ៍នេះ។ ខ្ញុំសូមអញ្ជើញ Maggie Haberman អ្នកយកព័ត៌មានសេតវិមានរបស់ New York Times។ នាងជាសហអ្នកនិពន្ធសៀវភៅថ្មីដ៏លក់ដាច់ 'Regime Change: The Inside Story of Trump's Imperial Presidency'។ Maggie សូមអរគុណច្រើនដែលបានមក។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "This seems like a good week to have this conversation between the inflection point ending the ceasefire and then this moment of this reporting we're getting now of a potential assassination attempt, information shared by Israel. This is a president who has survived assassination attempts.",
+      "cn": "សប្តាហ៍នេះហាក់ដូចជាពេលវេលាល្អសម្រាប់ការសន្ទនានេះ ចាប់ពីការបញ្ចប់នៃកិច្ចព្រមព្រៀងឈប់បាញ់ រហូតដល់របាយការណ៍ដែលយើងទទួលបានអំពីផែនការសម្លាប់ដែលអាចកើតមាន ដែលចែករំលែកដោយអ៊ីស្រាអែល។ នេះជាប្រធានាធិបតីដែលបានរួចផុតពីផែនការសម្លាប់ជាច្រើនដង។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Does this kind of concern loom large for him? MAGGIE HABERMAN, WHITE HOUSE CORRESPONDENT, \"THE NEW YORK TIMES\": Well, there's no question that among the reasons that the president and his team were really radicalized in the interregnum period before he came back to office, and we write about this in the book, were the assassination attempts that he faced.",
+      "cn": "តើការព្រួយបារម្ភនេះលេចធ្លោជាពិសេសសម្រាប់គាត់ទេ? Maggie Haberman អ្នកយកព័ត៌មានសេតវិមានរបស់ New York Times: គ្មានការសង្ស័យទេថា មូលហេតុមួយដែលប្រធានាធិបតី និងក្រុមការងាររបស់គាត់កាន់តែតឹងរ៉ឹងក្នុងអំឡុងពេលផ្លាស់ប្តូរមុនពេលគាត់ត្រឡប់ទៅសេតវិមានវិញ គឺដោយសារតែផែនការសម្លាប់ដែលគាត់ប្រឈមមុខ ដែលយើងក៏បានសរសេរអំពីវានៅក្នុងសៀវភៅដែរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "In particular, he -- Butler happened around the time that someone had been charged with being part of a murder for hire plot involving -- or set up by Iranian officials allegedly. And in his mind, and in the campaign's mind at the time, it all became one thing. And so, there's no question that the fact that this new information about a potential plot is going to loom large for this team. It is going to raise new concerns.",
+      "cn": "ជាពិសេស ព្រឹត្តិការណ៍ Butler បានកើតឡើង ហើយមាននរណាម្នាក់ត្រូវបានចោទប្រកាន់ពីបទពាក់ព័ន្ធនឹងផែនការសម្លាប់ដោយថ្លៃឈ្នួលដែលពាក់ព័ន្ធនឹងមន្ត្រីអ៊ីរ៉ង់។ ចំពោះគាត់ និងក្រុមយុទ្ធនាការរបស់គាត់នៅពេលនោះ អ្វីៗទាំងអស់នេះបានក្លាយជារឿងតែមួយ។ ដូច្នេះ គ្មានការសង្ស័យទេថា ព័ត៌មានថ្មីអំពីផែនការដែលអាចកើតមាននឹងមានផលប៉ះពាល់យ៉ាងខ្លាំងលើក្រុមការងារនេះ។ វានឹងបង្កើនការព្រួយបារម្ភថ្មីៗ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You are already seeing a president who, Audie, does not travel outside the White House that much. Part of it is that, you know, he would tell aides at the beginning of the -- of the term, I'm done campaigning. But part of it are -- is legitimate security concerns.",
+      "cn": "អ្នកបានឃើញប្រធានាធិបតីម្នាក់ហើយ Audi ដែលមិនសូវចាកចេញពីសេតវិមាន។ មួយផ្នែកដោយសារតែ អ្នកដឹងទេ នៅដើមអាណត្តិគាត់បានប្រាប់ជំនួយការថា ខ្ញុំបានបញ្ចប់ការបោះឆ្នោតហើយ។ ប៉ុន្តែមួយផ្នែកដោយសារតែការព្រួយបារម្ភអំពីសុវត្ថិភាពសមហេតុផល។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's interesting talk -- hearing from you in this moment because he has such a different cast of characters around him compared to term one. How does that affect something like prosecuting this war, where we see like while people are having talks, he says, look, ceasefire is over, and all of a sudden we are in the middle of strikes again.",
+      "cn": "គួរឱ្យចាប់អារម្មណ៍ណាស់ ពេលកំពុងស្តាប់អ្នក ព្រោះមនុស្សជុំវិញគាត់ឥឡូវនេះខុសគ្នាទាំងស្រុងពីអាណត្តិទីមួយ។ តើនេះប៉ះពាល់ដល់រឿងដូចជាការជំរុញសង្គ្រាមនេះយ៉ាងដូចម្តេច? យើងឃើញថា ពេលមនុស្សកំពុងចរចា គាត់និយាយថា មើលទៅ កិច្ចព្រមព្រៀងឈប់បាញ់បានបញ្ចប់ ហើយភ្លាមៗនោះយើងក៏ធ្លាក់ចូលទៅក្នុងការវាយប្រហារតាមអាកាសវិញ។"
+    },
+    {
+      "speaker": "Haberman",
+      "text": "So, there's a couple of things, Audie. One is that this government, unlike term one, and one of the things that we write about very clearly is how radically different this term is than the first term. The decisions are being made by a small handful of about a half a dozen advisors. And if someone is not in the room with those advisors in the government, they often have no idea what is going on.",
+      "cn": "ដូច្នេះ មានចំណុចជាច្រើន Audi។ ទីមួយ រដ្ឋាភិបាលនេះខុសពីអាណត្តិទីមួយ ហើយយើងបានសរសេរយ៉ាងច្បាស់នៅក្នុងសៀវភៅថាអាណត្តិនេះខុសគ្នាយ៉ាងណាពីអាណត្តិទីមួយ។ ការសម្រេចចិត្តត្រូវបានធ្វើឡើងដោយក្រុមតូចមួយនៃទីប្រឹក្សាប្រហែលប្រាំមួយនាក់។ ប្រសិនបើនរណាម្នាក់មិននៅក្នុងរដ្ឋាភិបាលដែលនៅក្នុងបន្ទប់តែមួយជាមួយទីប្រឹក្សាទាំងនេះទេ ពួកគេច្រើនតែមិនដឹងអ្វីដែលកំពុងកើតឡើង។"
+    },
+    {
+      "speaker": "Haberman",
+      "text": "And that is generally by design, including Steve Witkoff, who is Trump's envoy for everything, who had been negotiating this ceasefire or some kind of an Iranian deal for some time. But we also describe how last year Steve Witkoff thought that he was getting close to a deal, and then Trump made some other pronouncement, and it became very clear that foreign policy, as someone said, you know, and we quote them anonymously in the book, is, whatever Trump says at any given moment.",
+      "cn": "នេះច្រើនតែជាចេតនា រួមទាំង Steve Witkoff ដែលជាបេសកជនពិសេសរបស់ Trump ដែលបានចរចាកិច្ចព្រមព្រៀងឈប់បាញ់ ឬកិច្ចព្រមព្រៀងអ៊ីរ៉ង់មួយចំនួនអស់រយៈពេលមួយរយៈ។ ប៉ុន្តែយើងក៏បានពិពណ៌នាកាលពីឆ្នាំមុនថា Steve Witkoff គិតថាគាត់ជិតឈានដល់កិច្ចព្រមព្រៀង ហើយបន្ទាប់មក Trump បានចេញសេចក្តីថ្លែងការណ៍ផ្សេងទៀត ហើយវាច្បាស់ថាគោលនយោបាយការបរទេស ដូចដែលនរណាម្នាក់បាននិយាយ ដែលយើងបានដកស្រង់ដោយអនាមិកនៅក្នុងសៀវភៅ គឺជាអ្វីដែល Trump និយាយនៅពេលណាមួយ។"
+    },
+    {
+      "speaker": "Haberman",
+      "text": "And so, you are seeing that right now with this ceasefire where I think it is -- it is most problematic is for diplomat -- long-term diplomatic conversations, incremental comments matter, mixed signals matter. And that has obviously happened for some time here. This is also a war that the president clearly wants to be done with. And there just is no quick fix. And that is frustrating him.",
+      "cn": "ដូច្នេះ អ្វីដែលអ្នកកំពុងឃើញឥឡូវនេះគឺជាករណីនេះ នៅក្នុងកិច្ចព្រមព្រៀងឈប់បាញ់នេះ ខ្ញុំគិតថាអ្វីដែលមានបញ្ហាបំផុតគឺការទូត -- -- នៅក្នុងការសន្ទនាការទូតរយៈពេលវែង សុន្ទរកថាបន្តិចម្តងៗមានសារៈសំខាន់ ហើយសញ្ញាចម្រុះក៏សំខាន់ដែរ។ ហើយស្ថានភាពនេះបានបន្តអស់មួយរយៈហើយ។ វាក៏ជាសង្គ្រាមដែលប្រធានាធិបតីច្បាស់ជាចង់បញ្ចប់ ប៉ុន្តែគ្មានដំណោះស្រាយរហ័សទេ។ នេះធ្វើឱ្យគាត់ខកចិត្ត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I want to turn to another issue because immigration has been obviously a defining issue for Trump in both terms, but arguably he's probably made the most gains in this term. Largely, Stephen Miller has looked at as the architect of that. Can you talk to me about the, where we are now, meaning Noem is gone, we were just talking about Mexico complaining about Mexican nationals being targeted. Is this something that the architects around Trump -- that it's by design?",
+      "cn": "ខ្ញុំចង់បង្វែរទៅសំណួរមួយទៀត ព្រោះបញ្ហាអន្តោប្រវេសន៍ច្បាស់ជាបញ្ហាសំខាន់នៃអាណត្តិទាំងពីររបស់ Trump ប៉ុន្តែអាចនិយាយបានថាគាត់សម្រេចបានច្រើនជាងគេក្នុងអាណត្តិនេះ។ ក្នុងកម្រិតធំ Stephen Miller ត្រូវបានគេមើលឃើញថាជាអ្នករៀបចំគោលនយោបាយនេះ។ តើអ្នកអាចប្រាប់ខ្ញុំពីស្ថានភាពបច្ចុប្បន្នបានទេ? នោះគឺ Noem បានចាកចេញ ហើយយើងទើបតែពិភាក្សាអំពីម៉ិកស៊ិកដែលត្អូញត្អែរថាពលរដ្ឋម៉ិកស៊ិកក្លាយជាគោលដៅ។ តើនេះជាចេតនារបស់អ្នករៀបចំផែនការជុំវិញ Trump ទេ?"
+    },
+    {
+      "speaker": "Haberman",
+      "text": "So, we have seen a lot of fits and starts with immigration efforts and policy because there was such a flood the zone effort. Stephen Miller spent several years preparing for a second Trump term. He looked at all of the levers of government. He had it -- he has an actual plan for what he wanted to do. He is more hard line on immigration than Trump is, although Trump obviously only tends to react and, you know, reel Miller in when there's negative media coverage.",
+      "cn": "យើងឃើញគោលនយោបាយ និងសកម្មភាពអន្តោប្រវេសន៍មានការប្រែប្រួលជាច្រើន ដោយសារតែមានការប៉ុនប៉ងចូលមកយ៉ាងច្រើននៅពេលនោះ។ Stephen Miller បានចំណាយពេលជាច្រើនឆ្នាំដើម្បីរៀបចំសម្រាប់អាណត្តិទីពីររបស់ Trump។ គាត់បានសិក្សាពីដងថ្លឹងផ្សេងៗរបស់រដ្ឋាភិបាល។ គាត់មានផែនការជាក់ស្តែង ហើយដឹងពីអ្វីដែលគាត់ចង់ធ្វើ។ គាត់តឹងរ៉ឹងជាង Trump លើបញ្ហាអន្តោប្រវេសន៍ ទោះបីជា Trump ច្បាស់ជាមានប្រតិកម្មតែពេលមានរបាយការណ៍អវិជ្ជមានពីប្រព័ន្ធផ្សព្វផ្សាយ ហើយដាក់កំហិត Miller ក៏ដោយ។"
+    },
+    {
+      "speaker": "Haberman",
+      "text": "And so, you saw that earlier this year with the shooting deaths of Renee Good and Alex Pretti. And these showy ICE sweeps into cities, these, you know, dramatic displays that the administration would clip and put out in social media videos, those slowed down, but that doesn't mean that the efforts slowed down. And so, you are going -- you are seeing -- my colleagues have written about this at \"The Times,\" larger sweeps. You are seeing -- they're just broadcast with less vigor and intensity.",
+      "cn": "ដូច្នេះ អ្នកបានឃើញព្រឹត្តិការណ៍បាញ់សម្លាប់ Rene Good និង Alex Preti នៅដើមឆ្នាំនេះ។ ហើយការវាយឆ្មក់ ICE ដ៏គួរឱ្យចាប់អារម្មណ៍ចូលទៅក្នុងទីក្រុងនានា ការបង្ហាញដ៏អស្ចារ្យដែលរដ្ឋាភិបាលនឹងកាត់ត និងផ្សាយក្នុងវីដេអូប្រព័ន្ធផ្សព្វផ្សាយសង្គម សកម្មភាពទាំងនេះបានថយចុះ ប៉ុន្តែនេះមិនមានន័យថាការខិតខំប្រឹងប្រែងបានថយចុះទេ។ ដូច្នេះ អ្នកនឹងឃើញ -- -- មិត្តរួមការងាររបស់ខ្ញុំនៅ New York Times បានសរសេរ -- -- ការវាយឆ្មក់ទ្រង់ទ្រាយធំជាងនេះ។ អ្នកនឹងឃើញ -- -- គ្រាន់តែការផ្សព្វផ្សាយ និងអាំងតង់ស៊ីតេថយចុះ។"
+    },
+    {
+      "speaker": "Haberman",
+      "text": "It calmed the protests down at the time. I don't know where this goes now. But they are trying now -- Stephen Miller had a target of 3,000 arrests a day. That was not doable. Now there is a smaller target, but it's still quite high. And he is very intent on pushing this ahead for as long as he can.",
+      "cn": "នេះបានធ្វើឱ្យការតវ៉ាស្ងប់ស្ងាត់នៅពេលនោះ។ ខ្ញុំមិនដឹងថាវានឹងទៅជាយ៉ាងណាឥឡូវនេះទេ។ ប៉ុន្តែពួកគេកំពុងព្យាយាម -- -- គោលដៅរបស់ Stephen Miller គឺចាប់ខ្លួនមនុស្ស 3000 នាក់ក្នុងមួយថ្ងៃ។ នេះមិនអាចធ្វើទៅបានទេ។ ឥឡូវនេះគោលដៅតូចជាង ប៉ុន្តែនៅតែខ្ពស់គួរសម។ គាត់តាំងចិត្តយ៉ាងខ្លាំងក្នុងការជំរុញរឿងនេះឱ្យបានយូរតាមដែលអាចធ្វើទៅបាន។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, that's Maggie Haberman. Her new book with Jonathan Swan is called \"Regime Change: Inside the Imperial Presidency of Donald Trump.\" It's out now. I also want to turn to this, the ballot for governor in Colorado, it's set. Marine veteran Victor Marx secured the top Republican spot when the race was called last night. Both of his GOP rivals in the race have said they won't support him in the general election, calling him, quote, \"a disaster\" and a \"con man.\" VICTOR MARX (R),",
+      "cn": "ល្អ នោះគឺ Maggie Haberman។ សៀវភៅថ្មីរបស់នាងដែលសហការនិពន្ធជាមួយ Jonathan Swan មានចំណងជើងថា 'Regime Change: The Inside Story of Donald Trump's Imperial Presidency' ដែលបានចេញផ្សាយហើយ។ ខ្ញុំក៏ចង់និយាយអំពីការបោះឆ្នោតបឋមអភិបាលរដ្ឋ Colorado ដែលលទ្ធផលត្រូវបានកំណត់។ អតីតទាហានម៉ារីន Victor Marx បានឈ្នះតំណែងកំពូលរបស់គណបក្សសាធារណរដ្ឋក្នុងការប្រកួតកាលពីយប់មិញ។ គូប្រជែងគណបក្សសាធារណរដ្ឋពីររូបរបស់គាត់បាននិយាយថាពួកគេនឹងមិនគាំទ្រគាត់ក្នុងការបោះឆ្នោតទូទៅទេ ដោយហៅគាត់ថា 'គ្រោះមហន្តរាយ' និង 'អ្នកកុហក'។ Victor Marx (សាធារណរដ្ឋ) បាននិយាយថា៖"
+    },
+    {
+      "speaker": "Colorado Candidate For Governor",
+      "text": "So, if you are frustrated, skeptical or wondering if anything can actually change, I just proved it by winning the primary.",
+      "cn": "ដូច្នេះ ប្រសិនបើអ្នកមានអារម្មណ៍ខកចិត្ត សង្ស័យ ឬចង់ដឹងថាតើពិតជាអាចធ្វើឱ្យមានការផ្លាស់ប្តូរបានទេ ខ្ញុំទើបតែបង្ហាញវាតាមរយៈការឈ្នះការបោះឆ្នោតបឋម។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "OK, group chat is back. This is a coda. I'm sorry, Terry, this is a coda.",
+      "cn": "ល្អ ការជជែកជាក្រុមបានត្រឡប់មកវិញហើយ។ នេះជាសេចក្តីបញ្ចប់។ សូមទោស Terry នេះជាសេចក្តីបញ្ចប់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You and I talked about this in -- last week. And you were like, look, ignore people like this. This was in our Platner discussion.",
+      "cn": "អ្នក និង ខ្ញុំ បាន ពិភាក្សា រឿង នេះ កាលពី សប្តាហ៍ មុន។ អ្នក បាន និយាយ ថា មើល កុំ ខ្វល់ ពី មនុស្ស បែប នេះ។ នេះ គឺ ជា អ្វី ដែល យើង បាន លើក ឡើង នៅ ក្នុង ការ ពិភាក្សា របស់ យើង អំពី ផ្លាតនឺរ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And you were like, look, this is not a guy that you should be focusing on. He is now the GOP candidate for governor in Colorado.",
+      "cn": "អ្នក បាន និយាយ ថា មើល នេះ មិន មែន ជា មនុស្ស ដែល អ្នក គួរ តែ ផ្តោត អារម្មណ៍ នោះ ទេ។ ឥឡូវ គាត់ ជា បេក្ខជន គណបក្ស សាធារណរដ្ឋ សម្រាប់ អភិបាល រដ្ឋ ខូឡូរ៉ាដូ។"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "In Colorado, in Illinois, in New York, in California.",
+      "cn": "នៅ រដ្ឋ ខូឡូរ៉ាដូ អ៊ីលីណយ ញូវយ៉ក និង កាលីហ្វ័រញ៉ា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "But also two Republicans in the race.",
+      "cn": "ប៉ុន្តែ មាន សមាជិក គណបក្ស សាធារណរដ្ឋ ពីរ នាក់ ទៀត ដែល បាន ចូល រួម ក្នុង ការ បោះឆ្នោត។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Sour grapes or them literally being like, this disaster is a con man.",
+      "cn": "តើ វា ជា ការ ច្រណែន ឈ្នានីស ឬ ក៏ ពួកគេ ពិត ជា គិត ថា គ្រោះមហន្តរាយ នេះ ជា អ្នក បោក ប្រាស់?"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "Again -- look, again, I think one of the biggest travesties is when these blue states become so blue that they're not competitive. And when they're not competitive, you don't get the quality candidates that you need actually to win.",
+      "cn": "សូម និយាយ ម្តង ទៀត  --  អ្នក ឃើញ ទេ ខ្ញុំ គិត ថា សោកនាដកម្ម ដ៏ ធំ បំផុត មួយ គឺ រដ្ឋ ពណ៌ខៀវ ទាំង នេះ ក្លាយ ជា ពណ៌ខៀវ ខ្លាំង ពេក រហូត ដល់ គ្មាន ការ ប្រកួត ប្រជែង។ នៅ ពេល ដែល គ្មាន ការ ប្រកួត ប្រជែង អ្នក មិន ទទួល បាន បេក្ខជន ល្អ ដែល ពិត ជា ត្រូវការ ដើម្បី ឈ្នះ នោះ ទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, no, no, Terry, he raised $3 million. That's not ate (ph) money from Democrats.",
+      "cn": "ទេ ទេ ទេ ថេរី គាត់ បាន រៃ អង្គាស ប្រាក់ បាន ៣ លាន ដុល្លារ។ នោះ មិន មែន ជា លុយ ពី អ្នក ប្រជាធិបតេយ្យ ទេ។"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "I know. That's not very much for -- but for a governor race --",
+      "cn": "ខ្ញុំ ដឹង។ សម្រាប់ ការ បោះឆ្នោត អភិបាល រដ្ឋ វា មិន ច្រើន ទេ  --"
+    },
+    {
+      "speaker": "Ok. Schilling",
+      "text": "You know, you can raise that just by going on a few punchy podcasts. It's really not that much money for even a congressional race at this point.",
+      "cn": "អ្នក ដឹង ទេ អ្នក គ្រាន់តែ ទៅ ថត ផតខាស ក្តៅៗ ពីរ បី ក៏ អាច រៃ អង្គាស ប្រាក់ បាន ច្រើន ដូច នោះ ដែរ។ ឥឡូវ នេះ វា មិន ច្រើន ទេ សូម្បី តែ សម្រាប់ ការ បោះឆ្នោត សភា។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Right. He claims to have rescued 45,000 abuse victims. He performs prayers to free people of demonic oppression. Claims to have called an airstrike on ISIS. Says he was forced to kill a man at age seven. Who among us?",
+      "cn": "ត្រឹមត្រូវ។ គាត់ អះអាង ថា បាន ជួយសង្គ្រោះ ជនរងគ្រោះ ពី ការ រំលោភបំពាន ៤៥,០០០ នាក់។ គាត់ ធ្វើ ការ អធិស្ឋាន ដើម្បី រំដោះ មនុស្ស ពី ការ គ្រប់គ្រង របស់ អារក្ស។ អះអាង ថា បាន បើក ការ វាយ ប្រហារ តាម អាកាស លើ ISIS។ និយាយ ថា នៅ អាយុ ៧ ឆ្នាំ ត្រូវ បាន បង្ខំ ឱ្យ សម្លាប់ មនុស្ស ម្នាក់។ តើ មាន អ្នក ណា ក្នុង ចំណោម ពួក យើង ធ្វើ ដូច នោះ?"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "Well, look, we got Abigail Spanberger, who's an admitted CIA operative, as the governor of Virginia. I'd like to know what she's done in her career.",
+      "cn": "មើល ចុះ យើង មាន អាប៊ីហ្គេល ស្ពែនបឺក ដែល ជា ភ្នាក់ងារ CIA បើក ចំហ ហើយ បម្រើ ការ ជា អភិបាល រដ្ឋ វឺជីនី។ ខ្ញុំ ឆ្ងល់ ថា តើ គាត់ បាន ធ្វើ អ្វី ខ្លះ ក្នុង អាជីព របស់ គាត់។"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "From the -- the CIA does some pretty gnarly stuff.",
+      "cn": "CIA បាន ធ្វើ រឿង អាក្រក់ៗ ខ្លះ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "And you don't want to know about demonic --",
+      "cn": "អ្នក មិន ចង់ ឮ អំពី អារក្ស ទេ  --"
+    },
+    {
+      "speaker": "Ok. Ok. Schilling",
+      "text": "No, I definitely want to know about that. I believe in the spiritual world.",
+      "cn": "ទេ ខ្ញុំ ពិត ជា ចង់ ឮ។ ខ្ញុំ ជឿ លើ អត្ថិភាព នៃ ពិភព វិញ្ញាណ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I mean, work with me, Terry. Work with me. Lulu, the reason why I'm talking about this is because candidate quality, a term that we heard from Mitch McConnell.",
+      "cn": "ខ្ញុំ មាន ន័យ ថា សូម សហការ ជាមួយ ខ្ញុំ ថេរី។ សហការ ជាមួយ ខ្ញុំ។ លូលូ ខ្ញុំ និយាយ រឿង នេះ ព្រោះ គុណភាព បេក្ខជន  --  យើង បាន ឮ ពាក្យ មួយ ពី មីឆ ម៉ាក់កូណែល។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "You know what I mean? It's been so on the minds of everyone with the Graham Platner thing in the Senate. And just like in Republican circles, in Colorado, the voters want what the voters want. What have we learned about the limits of that?",
+      "cn": "តើ អ្នក យល់ ពី ខ្ញុំ ទេ? រឿង ហ្គ្រេហាំ ផ្លាតនឺរ នៅ ព្រឹទ្ធសភា ធ្វើ ឱ្យ អ្នក រាល់ គ្នា ព្រួយ បារម្ភ។ ដូច ជា នៅ ក្នុង រង្វង់ គណបក្ស សាធារណរដ្ឋ នៅ រដ្ឋ ខូឡូរ៉ាដូ អ្នក បោះឆ្នោត ចង់ បាន អ្វី ក៏ បាន។ តើ យើង បាន រៀន មេរៀន អ្វី ខ្លះ ពី រឿង នេះ?"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "We've learned that demonic possession is a thing, clearly.",
+      "cn": "យើង បាន រៀន ថា ការ ចូល របស់ អារក្ស គឺ ពិត ជា មាន មែន ជាក់ ស្តែង។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "That is -- that is -- that is --",
+      "cn": "នេះ  --  នេះ  --  នេះ  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Also teleporting to a Waffle House. A different story.",
+      "cn": "ហើយ ការ ផ្លាស់ ទី ភ្លាមៗ ទៅ វ៉ាហ្វហ្វល ហោស៍។ នោះ ជា រឿង មួយ ទៀត។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And teleporting to a Waffle House. I mean -- listen, this is a huge issue, I think, for both Republicans and Democrats and what I think any -- or what I hear from both my Democratic and Republican friends who are in the political system in that way is that they say, well, it's because the parties are so weak and we no longer get to decide about quality candidates -- you know, candidate quality. These decisions used to be made in backrooms. And so we could really vet people and put the best candidate forward.",
+      "cn": "ហើយ ការ ផ្លាស់ ទី ភ្លាមៗ ទៅ វ៉ាហ្វហ្វល ហោស៍។ ខ្ញុំ មាន ន័យ ថា  --  ស្តាប់ ខ្ញុំ គិត ថា នេះ ជា បញ្ហា ធំ សម្រាប់ ទាំង គណបក្ស សាធារណរដ្ឋ និង ប្រជាធិបតេយ្យ ហើយ ខ្ញុំ បាន ឮ ពី មិត្ត ភក្តិ ទាំង ពីរ គណបក្ស នៅ ក្នុង ប្រព័ន្ធ នយោបាយ ថា ពួកគេ និយាយ ថា អញ្ចឹង វា ដោយ សារ តែ គណបក្ស ខ្សោយ ពេក យើង មិន អាច សម្រេច គុណភាព បេក្ខជន ទៀត ទេ  --  អ្នក ដឹង ទេ គុណភាព បេក្ខជន។ កាលពី មុន ការ សម្រេច ចិត្ត ទាំង នេះ ត្រូវ បាន ធ្វើ ឡើង នៅ ពី ក្រោយ ឆាក។ ដូច្នេះ យើង អាច ពិនិត្យ បេក្ខជន ពិត ប្រាកដ ហើយ ជ្រើស រើស អ្នក ល្អ បំផុត។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And that is true. What voters will say is, yay, I'm so glad that this is no longer being done in backrooms.",
+      "cn": "ពិត មែន។ អ្នក បោះឆ្នោត នឹង និយាយ ថា យាយ ខ្ញុំ សប្បាយ ចិត្ត ដែល វា មិន ត្រូវ បាន ធ្វើ នៅ ពី ក្រោយ ឆាក ទៀត ទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "I know, but how come some people can ride it out and some people can't? Now, Platner is accused of violence. I think that clearly turned out to be a red line. But there's lots of other people dealing with scandals. Ken Paxton in Texas.",
+      "cn": "ខ្ញុំ ដឹង ប៉ុន្តែ ហេតុអ្វី បាន ជា មនុស្ស ខ្លះ អាច ឆ្លង កាត់ បាន ហើយ ខ្លះ ទៀត មិន អាច? ឥឡូវ នេះ ផ្លាតនឺរ ត្រូវ បាន ចោទ ប្រកាន់ ពី អំពើ ហឹង្សា។ ខ្ញុំ គិត ថា នោះ ច្បាស់ ជា បន្ទាត់ ក្រហម។ ប៉ុន្តែ មាន មនុស្ស ជា ច្រើន ទៀត ដែល ប្រឈម នឹង រឿង អាស្រូវ។ ដូច ជា កេន ផាកស្តុន នៅ រដ្ឋ តិចសាស់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Obviously, Marx. I mean his -- one of the people he ran against said she ran a good race and, quote, \"for the record, I still haven't killed anyone.\" It seems as though --",
+      "cn": "ជាក់ ស្តែង ម៉ាក្ស។ ខ្ញុំ មាន ន័យ ថា  --  គូប្រជែង បោះឆ្នោត របស់ គាត់ ម្នាក់ បាន និយាយ ថា នាង បាន ប្រយុទ្ធ យ៉ាង ល្អ ហើយ ដក ស្រង់ ពាក្យ ថា 'សូម បញ្ជាក់ ថា ខ្ញុំ មិន ទាន់ សម្លាប់ អ្នក ណា ទេ។' វា ហាក់  --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, that's the bar.",
+      "cn": "បាទ នោះ ហើយ ជា ស្តង់ដារ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "What is the bar for voters?",
+      "cn": "តើលក្ខណៈវិនិច្ឆ័យរបស់អ្នកបោះឆ្នោតគឺជាអ្វី?"
+    },
+    {
+      "speaker": "Williams",
+      "text": "You know, I mean, we have to understand that primary voters in any party are the most activist and sort of most partisan of any voters in the country.",
+      "cn": "អ្នកដឹងទេ ខ្ញុំចង់និយាយថា យើងត្រូវតែយល់ថា អ្នកបោះឆ្នោតបឋមនៃគណបក្សណាមួយ គឺជាអ្នកបោះឆ្នោតដែលសកម្មបំផុត និងជាបក្ខពួកបំផុតនៅក្នុងប្រទេស។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "That's why we should have open primaries.",
+      "cn": "នេះជាមូលហេតុដែលយើងគួរតែមានការបោះឆ្នោតបឋមបើកចំហ។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "That's why we should have open primaries or ranked choice voting, you know, as you have -- as you have in --",
+      "cn": "នេះជាមូលហេតុដែលយើងគួរតែមានការបោះឆ្នោតបឋមបើកចំហ ឬការបោះឆ្នោតតាមលំដាប់ ដូចដែលអ្នក -- -- ដូចដែលអ្នកនៅ -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Or ranked choice voting.",
+      "cn": "ឬការបោះឆ្នោតតាមលំដាប់។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Oh, they hate -- the parties hate ranked choice voting.",
+      "cn": "អូ ពួកគេស្អប់ -- -- គណបក្សនានាស្អប់ការបោះឆ្នោតតាមលំដាប់។"
+    },
+    {
+      "speaker": "Williams",
+      "text": "Well, but my point -- sure, but all I'm saying is that when the most activist people are the ones casting the votes, you're going to occasionally get stuff like this in --",
+      "cn": "មែនហើយ ប៉ុន្តែទស្សនៈរបស់ខ្ញុំគឺ -- -- ពិតណាស់ ខ្ញុំគ្រាន់តែចង់និយាយថា នៅពេលដែលមនុស្សសកម្មបំផុតបោះឆ្នោត អ្នកនឹងជួបប្រទះស្ថានភាពនេះម្តងម្កាល -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "It's not only that --",
+      "cn": "មិនត្រឹមតែប៉ុណ្ណោះ -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "But to your point, actually, when you have one party rule in a state, the opposition party becomes very radicalized I think. We see that in California with the GOP. We see that, you know, in Democratic politics and sort of right leaning states. And so, I do think that you get like the most hardcore people putting candidates forward.",
+      "cn": "ប៉ុន្តែនិយាយពីទស្សនៈរបស់អ្នក តាមពិតទៅ នៅពេលដែលរដ្ឋមួយត្រូវបានគ្រប់គ្រងដោយគណបក្សតែមួយ គណបក្សប្រឆាំងនឹងក្លាយជារ៉ាឌីកាល់ខ្លាំង ខ្ញុំគិតដូច្នេះ។ យើងឃើញរឿងនេះនៅក្នុងរដ្ឋកាលីហ្វ័រញ៉ាជាមួយគណបក្សសាធារណរដ្ឋ។ យើងឃើញ អ្នកដឹងទេ នៅក្នុងនយោបាយគណបក្សប្រជាធិបតេយ្យ និងរដ្ឋដែលមានទំនោរទៅខាងស្តាំផងដែរ។ ដូច្នេះ ខ្ញុំពិតជាគិតថា អ្នកនឹងឃើញមនុស្សស្នូលបំផុតរុញច្រានបេក្ខជន។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "And we are in an era, we are led by a populist, we are led by someone who was a celebrity, who has innumerable sort of scandals, both previous and current, and I think it's opened the door --",
+      "cn": "យើងស្ថិតនៅក្នុងសម័យកាលមួយ ដែលដឹកនាំដោយអ្នកប្រជានិយម ដែលដឹកនាំដោយមនុស្សម្នាក់ដែលធ្លាប់ជាតារាល្បី មានរឿងអាស្រូវរាប់មិនអស់ (ទាំងអតីតកាល និងបច្ចុប្បន្ន) ខ្ញុំគិតថានេះបានបើកទ្វារ -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "Yes, but what we have -- we've learned, while he may be --",
+      "cn": "បាទ ប៉ុន្តែអ្វីដែលយើងដឹងគឺថា ទោះបីជាគាត់អាច -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "While he may be scandal proof, not everyone else is. That's what we have learned.",
+      "cn": "ទោះបីជាគាត់អាចមានភាពស៊ាំនឹងរឿងអាស្រូវក៏ដោយ ក៏អ្នកដទៃមិនមែនដែរ។ នេះជាអ្វីដែលយើងបានរៀន។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "Yes. But maybe. But maybe not.",
+      "cn": "បាទ។ ប៉ុន្តែប្រហែលជា។ ប្រហែលជាមិនមែន។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "I mean, I think everyone's trying their game and they're trying to see how far they can push it until voters or the parties or people just say, the establishment says enough is enough. Rape seems to -- accusations of rape seem to be that line for the Democrats, but that certainly hasn't been the line for Republicans.",
+      "cn": "ខ្ញុំចង់និយាយថា ខ្ញុំគិតថាអ្នករាល់គ្នាកំពុងព្យាយាមយុទ្ធសាស្ត្រផ្ទាល់ខ្លួន ពួកគេកំពុងព្យាយាមមើលថាតើពួកគេអាចទៅឆ្ងាយប៉ុណ្ណា រហូតដល់អ្នកបោះឆ្នោត ឬគណបក្ស ឬមនុស្ស ឬអ្នកកាន់អំណាចនិយាយថាគ្រប់គ្រាន់ហើយ។ ការចោទប្រកាន់ពីបទរំលោភហាក់ដូចជា -- -- ការចោទប្រកាន់ពីបទរំលោភហាក់ដូចជាជាបន្ទាត់ក្រហមសម្រាប់គណបក្សប្រជាធិបតេយ្យ ប៉ុន្តែវាពិតជាមិនមែនជាបន្ទាត់ក្រហមសម្រាប់គណបក្សសាធារណរដ្ឋទេ។"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "Well, it was the line until it became clear that Platner was actually weakened and was most likely going to lose. The Democrats did not care about Lyndsey Fifield when she made her accusations because she was a Republican.",
+      "cn": "មែនហើយ វាធ្លាប់ជាបន្ទាត់ក្រហម រហូតដល់ព្រាតនឺរត្រូវបានចុះខ្សោយយ៉ាងច្បាស់ ហើយទំនងជាបរាជ័យ។ គណបក្សប្រជាធិបតេយ្យមិនខ្វល់ថាលីនស៊ី ហ្វីលដ៍បានដាក់ពាក្យបណ្តឹងទេ ព្រោះនាងជាសមាជិកគណបក្សសាធារណរដ្ឋ។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "I'm -- what I'm trying to -- what I'm --",
+      "cn": "ខ្ញុំ -- -- ខ្ញុំចង់និយាយថា -- -- ខ្ញុំ -- --"
+    },
+    {
+      "speaker": "Schilling",
+      "text": "So, it's, believe all Democrat women, not believe any Republican women.",
+      "cn": "ដូច្នេះ គឺជឿស្ត្រីប្រជាធិបតេយ្យទាំងអស់ កុំជឿស្ត្រីសាធារណរដ្ឋណាម្នាក់។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "What I'm -- what I'm trying to say is, you have a president here who has many, many allegations. All I'm saying --",
+      "cn": "ខ្ញុំចង់និយាយថា អ្នកមានប្រធានាធិបតីម្នាក់ ដែលមានការចោទប្រកាន់ជាច្រើនណាស់។ ខ្ញុំគ្រាន់តែនិយាយថា -- --"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "It's funny, we are ending the week the way we started it, almost with the exact same discussion is that --",
+      "cn": "គួរឱ្យចាប់អារម្មណ៍ យើងបានបញ្ចប់សប្តាហ៍នេះតាមរបៀបដែលយើងចាប់ផ្តើម ដោយមានការពិភាក្សាស្ទើរតែដូចគ្នាទាំងស្រុង -- --"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "I'm not arguing with you.",
+      "cn": "ខ្ញុំមិនកំពុងប្រកែកជាមួយអ្នកទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "No, no, it's the same beats I hear partisan wise.",
+      "cn": "ទេ ទេ ខ្ញុំឮសំឡេងបក្ខពួកចាស់ដដែល។"
+    },
+    {
+      "speaker": "Garcia-Navarro",
+      "text": "I'm just saying is, what's good for the goose is good for the gander. And I think both Republicans and Democrats need to -- need to actually grapple with this. This isn't like a he said/she said.",
+      "cn": "ខ្ញុំគ្រាន់តែចង់និយាយថា ត្រូវប្រព្រឹត្តដោយស្មើភាព។ ខ្ញុំគិតថាទាំងគណបក្សសាធារណរដ្ឋ និងគណបក្សប្រជាធិបតេយ្យត្រូវការ -- -- តាមពិតត្រូវការយកបញ្ហានេះឱ្យបានធ្ងន់ធ្ងរ។ វាមិនមែនជាស្ថានភាពបែប 'ពាក្យសម្ដីរបស់អ្នកប្រឆាំងនឹងពាក្យសម្ដីរបស់ខ្ញុំ' នោះទេ។"
+    },
+    {
+      "speaker": "Cornish",
+      "text": "We hope to have more news for you next week. Thank you for being in the group chat. Thank you for waking up with us. A lot of places you can spend your time, and you choose to spend it with us. I really appreciate it. I'm Audie Cornish, and the headlines are next. var CNN = CNN || {};",
+      "cn": "យើងសង្ឃឹមថានឹងនាំមកជូនអ្នកនូវព័ត៌មានបន្ថែមទៀតនៅសប្តាហ៍ក្រោយ។ សូមអរគុណដែលបានចូលរួមក្នុងការជជែកជាក្រុម។ សូមអរគុណដែលបានភ្ញាក់ពីដំណេកជាមួយយើង។ អ្នកមានកន្លែងជាច្រើនដែលអាចចំណាយពេល ប៉ុន្តែអ្នកបានជ្រើសរើសនៅជាមួយយើង។ ខ្ញុំពិតជាដឹងគុណណាស់។ ខ្ញុំគឺអូធី ខននីស ហើយនេះជាចំណងជើងព័ត៌មាន។"
+    }
+  ]
+}
