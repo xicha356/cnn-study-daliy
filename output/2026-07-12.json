@@ -1,0 +1,1503 @@
+{
+  "date": "2026-07-12",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-12/segment/01",
+  "summary": "南卡罗来纳州共和党参议员林赛·格雷厄姆因突发疾病去世，享年71岁。特朗普总统在Truth Social上悼念，称其为最伟大的人与参议员之一。美国对伊朗140个军事目标发动打击，新奥尔良因暴雨引发洪水。",
+  "vocabulary": [
+    {
+      "word": "passes away",
+      "phonetic": "/ˈpæsɪz əˈweɪ/",
+      "pos": "phrasal verb",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "去世（委婉语）",
+      "en": "dies (euphemism)",
+      "excerpt": "Longtime Republican Senator Lindsey Graham Passes Away.",
+      "example_cn": "长期担任共和党参议员的林赛·格雷厄姆去世。",
+      "audio_url": "output/audio/vocab/2026-07-12/passes-away-53b21e97.mp3"
+    },
+    {
+      "word": "sudden illness",
+      "phonetic": "/ˈsʌdən ˈɪlnəs/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "基础",
+      "domain": "社会民生",
+      "level": "新闻常用 · 基础",
+      "cn": "突发疾病",
+      "en": "an illness that starts quickly and unexpectedly",
+      "excerpt": "the longtime senator died from a brief and sudden illness",
+      "example_cn": "这位长期任职的参议员死于一场短暂而突发的疾病。",
+      "audio_url": "output/audio/vocab/2026-07-12/sudden-illness-1bc41b4d.mp3"
+    },
+    {
+      "word": "pay tribute to",
+      "phonetic": "/peɪ ˈtrɪbjuːt tuː/",
+      "pos": "verb phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "向...致敬；悼念",
+      "en": "to express respect or admiration for someone",
+      "excerpt": "President Trump paid tribute to Graham in a post on Truth Social",
+      "example_cn": "特朗普总统在Truth Social上发帖向格雷厄姆致敬。",
+      "audio_url": "output/audio/vocab/2026-07-12/pay-tribute-to-685c3c9e.mp3"
+    },
+    {
+      "word": "patriot",
+      "phonetic": "/ˈpeɪtriət/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "爱国者",
+      "en": "a person who loves and supports their country",
+      "excerpt": "He was always working and was a true American patriot.",
+      "example_cn": "他一直在工作，是一位真正的美国爱国者。",
+      "audio_url": "output/audio/vocab/2026-07-12/patriot-a6c7583b.mp3"
+    },
+    {
+      "word": "dispatch audio",
+      "phonetic": "/dɪˈspætʃ ˈɔːdiəʊ/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "社会民生",
+      "level": "新闻常用 · 进阶",
+      "cn": "调度录音（紧急服务通话录音）",
+      "en": "audio recording of emergency service communications",
+      "excerpt": "What we can tell you from dispatch audio from emergency response",
+      "example_cn": "我们可以从应急响应的调度录音中告诉你的是",
+      "audio_url": "output/audio/vocab/2026-07-12/dispatch-audio-374889ce.mp3"
+    },
+    {
+      "word": "cardiac arrest",
+      "phonetic": "/ˈkɑːrdiæk əˈrest/",
+      "pos": "noun phrase",
+      "usage": "专业术语",
+      "difficulty": "进阶",
+      "domain": "科技医疗",
+      "level": "专业术语 · 进阶",
+      "cn": "心脏骤停",
+      "en": "sudden loss of heart function",
+      "excerpt": "EMS six respond to engine seven, medic seven with cardiac arrest.",
+      "example_cn": "急救六号响应七号引擎，七号医护人员处理心脏骤停。",
+      "audio_url": "output/audio/vocab/2026-07-12/cardiac-arrest-6312fc0d.mp3"
+    },
+    {
+      "word": "empower",
+      "phonetic": "/ɪmˈpaʊər/",
+      "pos": "verb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "法律司法",
+      "level": "新闻常用 · 进阶",
+      "cn": "授权；赋予权力",
+      "en": "to give someone the authority to do something",
+      "excerpt": "South Carolina's Republican governor, Henry McMaster, he is empowered to appoint a temporary replacement",
+      "example_cn": "南卡罗来纳州共和党州长亨利·麦克马斯特有权任命一位临时接替者。",
+      "audio_url": "output/audio/vocab/2026-07-12/empower-f0529720.mp3"
+    },
+    {
+      "word": "irreplaceable",
+      "phonetic": "/ˌɪrɪˈpleɪsəbl/",
+      "pos": "adjective",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "日常表达 · 进阶",
+      "cn": "不可替代的",
+      "en": "too special to be replaced",
+      "excerpt": "Lindsey Graham is irreplaceable.",
+      "example_cn": "林赛·格雷厄姆是不可替代的。",
+      "audio_url": "output/audio/vocab/2026-07-12/irreplaceable-c5d7de1f.mp3"
+    },
+    {
+      "word": "steadfast",
+      "phonetic": "/ˈstedfæst/",
+      "pos": "adjective",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "坚定的；忠诚的",
+      "en": "loyal and determined",
+      "excerpt": "Senator Graham's steadfast support of Israel",
+      "example_cn": "格雷厄姆参议员对以色列的坚定支持",
+      "audio_url": "output/audio/vocab/2026-07-12/steadfast-efe27c4e.mp3"
+    },
+    {
+      "word": "fixture",
+      "phonetic": "/ˈfɪkstʃər/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "固定人物；常客",
+      "en": "a person who is always present in a particular place or situation",
+      "excerpt": "Senator Graham was such a fixture on Capitol Hill.",
+      "example_cn": "格雷厄姆参议员是国会山的常客。",
+      "audio_url": "output/audio/vocab/2026-07-12/fixture-51cff3c1.mp3"
+    },
+    {
+      "word": "fierce defender",
+      "phonetic": "/fɪərs dɪˈfendər/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "坚定的捍卫者",
+      "en": "someone who strongly supports or protects something",
+      "excerpt": "He was, obviously, a fierce defender of Donald Trump",
+      "example_cn": "显然，他是唐纳德·特朗普的坚定捍卫者。",
+      "audio_url": "output/audio/vocab/2026-07-12/fierce-defender-6b1b4fcb.mp3"
+    },
+    {
+      "word": "Gang of Eight",
+      "phonetic": "/ɡæŋ əv eɪt/",
+      "pos": "proper noun",
+      "usage": "专名背景",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "专名背景 · 高阶",
+      "cn": "八人帮（美国参议院两党移民改革小组）",
+      "en": "a bipartisan group of eight U.S. senators who worked on immigration reform in 2013",
+      "excerpt": "He was part of the bipartisan Gang of Eight",
+      "example_cn": "他是两党八人帮的一员",
+      "audio_url": "output/audio/vocab/2026-07-12/gang-of-eight-56f42f23.mp3"
+    },
+    {
+      "word": "path to legalization",
+      "phonetic": "/pæθ tuː ˌliːɡəlaɪˈzeɪʃən/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "法律司法",
+      "level": "新闻常用 · 进阶",
+      "cn": "合法化途径",
+      "en": "a process by which undocumented immigrants can obtain legal status",
+      "excerpt": "create a path to legalization for millions of immigrants",
+      "example_cn": "为数百万移民创造合法化途径",
+      "audio_url": "output/audio/vocab/2026-07-12/path-to-legalization-a19c545a.mp3"
+    },
+    {
+      "word": "defense hawk",
+      "phonetic": "/dɪˈfens hɔːk/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 高阶",
+      "cn": "国防鹰派（主张强硬军事政策的人）",
+      "en": "a person who advocates for strong military and defense policies",
+      "excerpt": "He built his career as a defense hawk",
+      "example_cn": "他以国防鹰派的身份建立了自己的职业生涯。",
+      "audio_url": "output/audio/vocab/2026-07-12/defense-hawk-34c9581b.mp3"
+    },
+    {
+      "word": "recurring visit",
+      "phonetic": "/rɪˈkɜːrɪŋ ˈvɪzɪt/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "定期访问；多次访问",
+      "en": "a visit that happens repeatedly",
+      "excerpt": "that was a reoccurring visit that he had taken",
+      "example_cn": "那是他多次进行的访问。",
+      "audio_url": "output/audio/vocab/2026-07-12/recurring-visit-8ff0db66.mp3"
+    },
+    {
+      "word": "ally",
+      "phonetic": "/ˈælaɪ/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "基础",
+      "domain": "政治外交",
+      "level": "新闻常用 · 基础",
+      "cn": "盟友；支持者",
+      "en": "a person or country that supports another",
+      "excerpt": "He has been a really strong ally of Ukraine",
+      "example_cn": "他一直是乌克兰非常坚定的盟友。",
+      "audio_url": "output/audio/vocab/2026-07-12/ally-0ab8140a.mp3"
+    },
+    {
+      "word": "hostilities resume",
+      "phonetic": "/hɒˈstɪlɪtiz rɪˈzjuːm/",
+      "pos": "verb phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "敌对行动恢复",
+      "en": "to start fighting again after a pause",
+      "excerpt": "Hostilities Resume: U.S. Says It Hit 140 Iranian Military Targets",
+      "example_cn": "敌对行动恢复：美国称打击了140个伊朗军事目标。",
+      "audio_url": "output/audio/vocab/2026-07-12/hostilities-resume-475b9e9e.mp3"
+    },
+    {
+      "word": "military targets",
+      "phonetic": "/ˈmɪlɪteri ˈtɑːrɡɪts/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "军事目标",
+      "en": "specific locations or objects intended to be attacked for military purposes",
+      "excerpt": "U.S. Says It Hit 140 Iranian Military Targets",
+      "example_cn": "美国称打击了140个伊朗军事目标。",
+      "audio_url": "output/audio/vocab/2026-07-12/military-targets-439d2c0a.mp3"
+    },
+    {
+      "word": "flood",
+      "phonetic": "/flʌd/",
+      "pos": "noun/verb",
+      "usage": "新闻常用",
+      "difficulty": "基础",
+      "domain": "灾害环境",
+      "level": "新闻常用 · 基础",
+      "cn": "洪水；淹没",
+      "en": "an overflow of water that submerges land",
+      "excerpt": "New Orleans Floods After Heavy Rains.",
+      "example_cn": "暴雨后新奥尔良发生洪水。",
+      "audio_url": "output/audio/vocab/2026-07-12/flood-ff0db992.mp3"
+    },
+    {
+      "word": "heavy rains",
+      "phonetic": "/ˈhevi reɪnz/",
+      "pos": "noun phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "灾害环境",
+      "level": "日常表达 · 基础",
+      "cn": "暴雨",
+      "en": "a large amount of rain falling in a short time",
+      "excerpt": "New Orleans Floods After Heavy Rains.",
+      "example_cn": "暴雨后新奥尔良发生洪水。",
+      "audio_url": "output/audio/vocab/2026-07-12/heavy-rains-00d9ef55.mp3"
+    },
+    {
+      "word": "breaking news",
+      "phonetic": "/ˈbreɪkɪŋ njuːz/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "新闻常用 · 基础",
+      "cn": "突发新闻",
+      "en": "important news that is reported immediately",
+      "excerpt": "This is CNN breaking news.",
+      "example_cn": "这里是CNN突发新闻。",
+      "audio_url": "output/audio/vocab/2026-07-12/breaking-news-7fc05343.mp3"
+    },
+    {
+      "word": "trickle in",
+      "phonetic": "/ˈtrɪkl ɪn/",
+      "pos": "phrasal verb",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "日常表达 · 进阶",
+      "cn": "陆续传来；慢慢到达",
+      "en": "to arrive slowly in small amounts",
+      "excerpt": "just kind of trickling in",
+      "example_cn": "只是陆续传来。",
+      "audio_url": "output/audio/vocab/2026-07-12/trickle-in-3b7452f5.mp3"
+    },
+    {
+      "word": "devastated",
+      "phonetic": "/ˈdevəsteɪtɪd/",
+      "pos": "adjective",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "日常表达 · 进阶",
+      "cn": "极度震惊和悲伤的",
+      "en": "extremely shocked and sad",
+      "excerpt": "Peggy and I and our children are devastated.",
+      "example_cn": "佩吉、我和我们的孩子们都悲痛欲绝。",
+      "audio_url": "output/audio/vocab/2026-07-12/devastated-13f52b45.mp3"
+    },
+    {
+      "word": "revered",
+      "phonetic": "/rɪˈvɪrd/",
+      "pos": "adjective",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "受尊敬的；被崇敬的",
+      "en": "greatly admired and respected",
+      "excerpt": "how revered Senator Lindsey Graham was in the U.S. Senate",
+      "example_cn": "林赛·格雷厄姆参议员在美国参议院中多么受尊敬。",
+      "audio_url": "output/audio/vocab/2026-07-12/revered-b211e516.mp3"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "His office announced this morning that the longtime senator died from, quote, \"a brief and sudden illness,\" but did not give further details.",
+      "cn": "他的办公室今早宣布，这位资深参议员死于，引用原话，“一种短暂而突发的疾病”，但没有提供更多细节。",
+      "structure": "主句（His office announced）+ 宾语从句（that...）+ 插入语（quote...）+ 并列转折（but did not give...）",
+      "analysis": "quote 表示直接引用，新闻中常用；\"a brief and sudden illness\" 是新闻压缩表达，简洁描述死因；but 连接转折，体现信息有限。"
+    },
+    {
+      "en": "President Trump paid tribute to Graham in a post on Truth Social, saying, quote, \"Senator Lindsey Graham, one of the greatest people and senators I have ever known is dead.\"",
+      "cn": "特朗普总统在 Truth Social 上发帖悼念格雷厄姆，引用原话：“参议员林赛·格雷厄姆，我所认识的最伟大的人和参议员之一，去世了。”",
+      "structure": "主句（President Trump paid tribute）+ 状语（in a post...）+ 伴随状语（saying...）+ 直接引语（quote...）",
+      "analysis": "paid tribute to 是固定搭配，表示“向...致敬”；one of the greatest... 是同位语结构，修饰 Lindsey Graham；quote 再次用于直接引语。"
+    },
+    {
+      "en": "What we can tell you from dispatch audio from emergency response was that there was a piece of dispatch audio that came in that was heard at about 8:30 p.m. eastern time on Saturday evening.",
+      "cn": "我们能从应急响应调度音频中告诉你的是，有一段调度音频在周六晚上东部时间大约8点30分被听到。",
+      "analysis": "主语从句 What we can tell you... 作主语；表语从句 that there was...；定语从句 that came in 和 that was heard 修饰 audio；时间状语 at about 8:30 p.m. eastern time。",
+      "structure": "主语从句（What we can tell you...）+ 系动词（was）+ 表语从句（that there was...）+ 定语从句（that came in...that was heard...）"
+    },
+    {
+      "en": "We cannot confirm at this moment that the senator died of cardiac arrest.",
+      "cn": "我们目前无法确认这位参议员死于心脏骤停。",
+      "structure": "主句（We cannot confirm）+ 宾语从句（that...）",
+      "analysis": "confirm that... 是常见结构；died of 表示“死于”；cardiac arrest 是医学术语；at this moment 表示“目前”。"
+    },
+    {
+      "en": "That dispatch call discussed cardiac arrest, but of course, you know, those dispatch calls discuss various conditions that sometimes don't turn out to be the real cause of death or the cause of an injury.",
+      "cn": "那个调度电话讨论了心脏骤停，但当然，你知道，那些调度电话讨论的各种情况有时并非真正的死因或伤因。",
+      "structure": "主句（That dispatch call discussed...）+ 并列转折（but...）+ 插入语（of course, you know）+ 定语从句（that sometimes don't turn out...）",
+      "analysis": "turn out to be 表示“结果是”；the real cause of death 是固定表达；插入语 of course, you know 体现口语化。"
+    },
+    {
+      "en": "We also can piece together some detail elsewhere in an audio call, a dispatch audio, the discussion of someone suffering from chest pains.",
+      "cn": "我们还可以从另一段音频通话中拼凑出一些细节，即一段调度音频，讨论某人胸痛。",
+      "structure": "主句（We also can piece together...）+ 同位语（a dispatch audio）+ 同位语（the discussion...）",
+      "analysis": "piece together 表示“拼凑”；suffering from 表示“遭受”；chest pains 是常见症状；同位语结构补充说明。"
+    },
+    {
+      "en": "South Carolina's Republican governor, Henry McMaster, he is empowered to appoint a temporary replacement for Senator Graham.",
+      "cn": "南卡罗来纳州共和党州长亨利·麦克马斯特有权任命格雷厄姆参议员的临时接替者。",
+      "structure": "主语（South Carolina's Republican governor）+ 同位语（Henry McMaster）+ 主句（he is empowered to appoint...）",
+      "analysis": "be empowered to do 表示“被授权做”；temporary replacement 是“临时接替者”；同位语结构提供身份信息。"
+    },
+    {
+      "en": "Senator McMaster did issue this statement posted on X, quote, \"Peggy and I and our children are devastated.\"",
+      "cn": "麦克马斯特参议员确实发布了这份声明，贴在X上，引用原话：“佩吉、我和我们的孩子们都崩溃了。”",
+      "structure": "主句（Senator McMaster did issue...）+ 过去分词短语（posted on X）+ 直接引语（quote...）",
+      "analysis": "did 强调谓语动词；issue a statement 是固定搭配；posted on X 是过去分词作定语；quote 引导直接引语。"
+    },
+    {
+      "en": "That mention of Darline in that post from Governor McMaster is a reference to Senator Graham's younger sister, Darline, who Senator Graham actually helped raise when their parents died, when both he and his younger sister were very young.",
+      "cn": "麦克马斯特州长那篇帖子中提到的达琳指的是格雷厄姆参议员的妹妹达琳，格雷厄姆参议员在他们的父母去世时实际上帮助抚养了她，当时他和他的妹妹都非常年幼。",
+      "structure": "主句（That mention...is a reference...）+ 同位语（Darline）+ 定语从句（who Senator Graham helped raise...）+ 时间状语从句（when their parents died）+ 时间状语从句（when both...were very young）",
+      "analysis": "a reference to 表示“提及”；help raise 是“帮助抚养”；when 引导两个时间状语从句，说明背景。"
+    },
+    {
+      "en": "Senator Graham was an undergraduate in college, his sister, Darline, was a teenager, he helped raise her and eventually adopted her.",
+      "cn": "格雷厄姆参议员当时是大学本科生，他的妹妹达琳是青少年，他帮助抚养她并最终收养了她。",
+      "structure": "并列句（Senator Graham was... + his sister...was... + he helped raise...and adopted...）",
+      "analysis": "三个并列分句描述事实；undergraduate 是“本科生”；teenager 是“青少年”；adopt 是“收养”。"
+    },
+    {
+      "en": "Senate Majority Leader John Thune with a long statement posted on X, talking about how just dedicated, loyal and what a great friend that Senator Graham was and what just a powerful and influential senator he was.",
+      "cn": "参议院多数党领袖约翰·图恩在X上发布了一份长篇声明，谈到格雷厄姆参议员是多么敬业、忠诚，是一位多么伟大的朋友，以及他是一位多么强大且有影响力的参议员。",
+      "structure": "主句（Senate Majority Leader John Thune...）+ 伴随状语（talking about...）+ 宾语从句（how...and what...）",
+      "analysis": "with a long statement 是伴随状语；talking about 后接两个并列的感叹句（how...和 what...），表示强调。"
+    },
+    {
+      "en": "The senator's statement goes on for a while there just talking about, you know, how revered Senator Lindsey Graham was in the U.S. Senate.",
+      "cn": "参议员的声明继续了一段时间，只是谈论，你知道，林赛·格雷厄姆参议员在美国参议院中是多么受尊敬。",
+      "structure": "主句（The senator's statement goes on...）+ 伴随状语（talking about...）+ 插入语（you know）+ 宾语从句（how revered...）",
+      "analysis": "goes on 表示“继续”；revered 是“受尊敬的”；插入语 you know 体现口语化。"
+    },
+    {
+      "en": "We do know that Senator Graham was in Ukraine just a couple of days ago, meeting with Ukrainian President Volodymyr Zelenskyy returning, we believe, he spoke to reporters actually on Friday from Ukraine and returning to the U.S. shortly after that the senator passing away in Washington, D.C.",
+      "cn": "我们确实知道格雷厄姆参议员几天前在乌克兰，与乌克兰总统泽连斯基会面，我们相信，他实际上在周五从乌克兰对记者发表了讲话，之后不久返回美国，参议员在华盛顿特区去世。",
+      "structure": "主句（We do know）+ 宾语从句（that...）+ 伴随状语（meeting with...）+ 插入语（we believe）+ 并列谓语（spoke...and returning...）+ 时间状语（shortly after that...）",
+      "analysis": "do 强调；a couple of days ago 是“几天前”；meeting with 是伴随状语；we believe 是插入语；passing away 是“去世”。"
+    },
+    {
+      "en": "He was someone who regularly spoke out on news of the day, he was, obviously, a fierce defender of Donald Trump and was a key ally of the White House on Capitol Hill.",
+      "cn": "他是一个经常就当日新闻发表言论的人，显然，他是唐纳德·特朗普的坚定捍卫者，也是白宫在国会山的关键盟友。",
+      "structure": "主句（He was someone）+ 定语从句（who regularly spoke out...）+ 并列句（he was...and was...）",
+      "analysis": "spoke out on 表示“就...发表言论”；a fierce defender 是“坚定的捍卫者”；a key ally 是“关键盟友”；插入语 obviously。"
+    },
+    {
+      "en": "He was part of the bipartisan Gang of Eight, a group of lawmakers who worked together to bolster border security, as well as create a path to legalization for millions of immigrants who were living in the shadows in this country.",
+      "cn": "他是两党“八人帮”的一员，这是一个由立法者组成的团体，他们共同努力加强边境安全，并为数百万生活在这个国家阴影中的移民创造合法化途径。",
+      "structure": "主句（He was part of...）+ 同位语（a group of lawmakers）+ 定语从句（who worked together...）+ 并列不定式（to bolster...as well as create...）+ 定语从句（who were living...）",
+      "analysis": "bipartisan 是“两党的”；Gang of Eight 是专有名词；bolster 是“加强”；a path to legalization 是“合法化途径”；living in the shadows 是比喻，表示“生活在阴影中”。"
+    },
+    {
+      "en": "He had worked really closely with his friend and longtime mentor, Senator John McCain, on that legislation.",
+      "cn": "他曾与他的朋友和长期导师约翰·麦凯恩参议员在那项立法上密切合作。",
+      "structure": "主句（He had worked...）+ 状语（with...）+ 同位语（his friend and longtime mentor, Senator John McCain）",
+      "analysis": "work closely with 是“与...密切合作”；longtime mentor 是“长期导师”；同位语结构提供身份。"
+    },
+    {
+      "en": "There were several instances, even once Donald Trump took office, that Senator Lindsey Graham became a major commentator and advocate on immigration related issues.",
+      "cn": "有几个例子，甚至在唐纳德·特朗普上任后，林赛·格雷厄姆参议员成为移民相关问题的主要评论员和倡导者。",
+      "structure": "主句（There were several instances）+ 时间状语从句（even once Donald Trump took office）+ 定语从句（that Senator...became...）",
+      "analysis": "instances 是“例子”；took office 是“上任”；commentator 是“评论员”；advocate 是“倡导者”；immigration related issues 是“移民相关问题”。"
+    },
+    {
+      "en": "Over time, his view and his position sort of evolved as the Republican Party's and President Trump's position really hardened the position of Republicans on that issue.",
+      "cn": "随着时间的推移，他的观点和立场有所演变，因为共和党和特朗普总统的立场确实使共和党人在该问题上的立场变得强硬。",
+      "structure": "主句（his view and his position evolved）+ 方式状语（sort of）+ 原因状语从句（as...hardened...）",
+      "analysis": "over time 是“随着时间的推移”；sort of 是口语化表达，表示“有点”；evolve 是“演变”；harden 是“使强硬”。"
+    },
+    {
+      "en": "He built his career as a defense hawk, as you noted, and as Brian noted, he was just in Ukraine a couple of days ago, meeting with the president of that country, Volodymyr Zelenskyy.",
+      "cn": "正如你所指出的，他建立了作为国防鹰派的职业生涯，正如布莱恩所指出的，他几天前就在乌克兰，与该国总统泽连斯基会面。",
+      "structure": "主句（He built his career...）+ 插入语（as you noted）+ 并列句（and as Brian noted, he was...meeting with...）",
+      "analysis": "defense hawk 是“国防鹰派”；as you noted 和 as Brian noted 是插入语；meeting with 是伴随状语。"
+    },
+    {
+      "en": "He has been a really strong ally of Ukraine in terms of suppl",
+      "cn": "他一直是乌克兰非常坚定的盟友，在供应方面...",
+      "structure": "主句（He has been a really strong ally...）+ 状语（in terms of suppl）",
+      "analysis": "a strong ally 是“坚定的盟友”；in terms of 是“在...方面”；suppl 可能是 supply 的缩写，但原文不完整。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "林赛·格雷厄姆参议员生平",
+      "content": "林赛·格雷厄姆（Lindsey Graham）是美国共和党参议员，来自南卡罗来纳州。1994年当选众议员，2002年进入参议院，以国防鹰派和移民改革立场著称。他曾是2013年两党移民改革‘八人帮’成员，也是特朗普的坚定盟友。格雷厄姆多次访问乌克兰，支持其对抗俄罗斯。他于2026年7月12日因突发疾病去世，享年71岁。",
+      "keywords": "Lindsey Graham · Gang of Eight · defense hawk · immigration reform"
+    },
+    {
+      "title": "美国对伊朗军事打击",
+      "content": "2026年7月12日，美国宣布对伊朗140个军事目标实施打击，标志着敌对行动恢复。此举可能加剧中东紧张局势。伊朗方面尚未回应。此前美伊关系因核问题等持续紧张。",
+      "keywords": "hostilities resume · military targets · Iran · U.S. military strike"
+    },
+    {
+      "title": "新奥尔良洪水灾害",
+      "content": "新奥尔良因暴雨引发严重洪水，城市部分地区被淹。当地政府已启动应急响应。新奥尔良地处低洼，易受洪水侵袭，2005年卡特里娜飓风曾造成灾难性破坏。",
+      "keywords": "New Orleans · floods · heavy rains · disaster response"
+    },
+    {
+      "title": "美国参议员临时继任程序",
+      "content": "当美国参议员去世或辞职时，州长有权任命临时继任者，直至特别选举。南卡罗来纳州州长亨利·麦克马斯特（Henry McMaster）将任命格雷厄姆的临时接替者。该任命需符合州法律，通常来自同一政党。",
+      "keywords": "temporary replacement · governor · appointment · Henry McMaster"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "在原文 'He was always working and was a true American patriot.' 中，'patriot' 最接近的含义是？",
+      "options": [
+        "A. 政治家",
+        "B. 爱国者",
+        "C. 战士",
+        "D. 领袖"
+      ],
+      "answer": 1,
+      "explanation": "patriot 意为爱国者，指热爱并支持自己国家的人。原文中特朗普称赞格雷厄姆是真正的美国爱国者。"
+    },
+    {
+      "type": "vocab",
+      "question": "原文 'South Carolina's Republican governor, Henry McMaster, he is empowered to appoint a temporary replacement' 中，'empowered' 的意思是？",
+      "options": [
+        "A. 被选举",
+        "B. 被授权",
+        "C. 被要求",
+        "D. 被限制"
+      ],
+      "answer": 1,
+      "explanation": "empower 意为授权、赋予权力。这里指州长有权任命临时接替者。"
+    },
+    {
+      "type": "vocab",
+      "question": "原文 'He built his career as a defense hawk' 中，'defense hawk' 指的是？",
+      "options": [
+        "A. 国防部官员",
+        "B. 主张强硬军事政策的人",
+        "C. 军事飞行员",
+        "D. 和平主义者"
+      ],
+      "answer": 1,
+      "explanation": "defense hawk 指国防鹰派，即主张强大军事力量和强硬国防政策的人。"
+    },
+    {
+      "type": "comprehension",
+      "question": "根据报道，林赛·格雷厄姆参议员去世的可能原因是什么？",
+      "options": [
+        "A. 车祸",
+        "B. 突发疾病",
+        "C. 暗杀",
+        "D. 心脏病发作（未确认）"
+      ],
+      "answer": 1,
+      "explanation": "报道称其死于'brief and sudden illness'（短暂突发疾病），但未给出具体原因。调度录音提到心脏骤停，但未确认。"
+    },
+    {
+      "type": "comprehension",
+      "question": "谁将负责任命格雷厄姆的临时继任者？",
+      "options": [
+        "A. 美国总统",
+        "B. 南卡罗来纳州州长",
+        "C. 参议院多数党领袖",
+        "D. 南卡罗来纳州议会"
+      ],
+      "answer": 1,
+      "explanation": "报道明确指出南卡罗来纳州州长亨利·麦克马斯特有权任命临时接替者。"
+    },
+    {
+      "type": "comprehension",
+      "question": "格雷厄姆参议员在移民改革方面曾参与哪个两党小组？",
+      "options": [
+        "A. 八人帮",
+        "B. 七人组",
+        "C. 九人委员会",
+        "D. 两党核心小组"
+      ],
+      "answer": 0,
+      "explanation": "报道提到他是2013年两党移民改革'Gang of Eight'（八人帮）的成员。"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Announcer",
+      "text": "This is CNN breaking news.",
+      "cn": "这里是CNN突发新闻。"
+    },
+    {
+      "speaker": "Rene Marsh",
+      "text": "Welcome to our viewers in the United States and around the world. I'm Rene Marsh in for Victor Blackwell. We begin this morning with breaking news. South Carolina Senator Lindsey Graham has died. His office announced this morning that the longtime senator died from, quote, \"a brief and sudden illness,\" but did not give further details. Graham was elected to the House in 1994 and the Senate in 2002. He was running for his fifth term as senator in this fall's midterm elections.",
+      "cn": "欢迎美国及全球的观众收看。我是Rene Marsh，代班Victor Blackwell。今早我们从一条突发新闻开始。南卡罗来纳州参议员林赛·格雷厄姆去世。他的办公室今早宣布，这位长期任职的参议员死于\"一场短暂而突发的疾病\"，但未提供更多细节。格雷厄姆于1994年当选众议员，2002年当选参议员。他正在今年秋季的中期选举中竞选他的第五个参议员任期。"
+    },
+    {
+      "speaker": "Rene Marsh",
+      "text": "President Trump paid tribute to Graham in a post on Truth Social, saying, quote, \"Senator Lindsey Graham, one of the greatest people and senators I have ever known is dead. He was always working and was a true American patriot. Lindsey Graham will be greatly missed.\" Lindsey Graham had just celebrated his 71st birthday just last week. And CNN's Brian Todd joins us now. Brian, what is the latest that we're picking up? I know we don't have full details on the cause, but we are learning some details.",
+      "cn": "特朗普总统在Truth Social上发帖悼念格雷厄姆，称：\"参议员林赛·格雷厄姆，我所认识的最伟大的人物和参议员之一，去世了。他一直在工作，是一位真正的美国爱国者。林赛·格雷厄姆将被深深怀念。\"林赛·格雷厄姆上周刚庆祝了他的71岁生日。CNN的Brian Todd现在加入我们。Brian，我们了解到的最新情况是什么？我知道我们还没有关于死因的完整细节，但我们正在了解一些细节。"
+    },
+    {
+      "speaker": "Brian Todd",
+      "text": "We're learning some details, Rene, just kind of trickling in. And what we're able to confirm with sources and with dispatch, emergency dispatch calls, what we can tell you is, first, a spokesperson for the senator says that he died from -- after a brief and sudden illness. He was 71 years old. What we can tell you from dispatch audio from emergency response was that there was a piece of dispatch audio that came in that was -- that was heard at about 8:30 p.m. eastern time on Saturday evening.",
+      "cn": "我们正在了解一些细节，Rene，这些细节正逐渐传来。根据我们从消息来源和紧急调度电话中确认的信息，我们可以告诉你的是：首先，参议员的一位发言人表示，他死于一场短暂而突发的疾病，享年71岁。从应急响应的调度录音中，我们得知有一段调度录音是在美国东部时间周六晚上8点30分左右被听到的。"
+    },
+    {
+      "speaker": "Brian Todd",
+      "text": "Dispatch audio discussing someone suffering from chest pains. We can play for you some audio from a dispatch call, an emergency dispatch call, that gives a little bit more detail. Take a listen to that. (BEGIN AUDIO CLIP)",
+      "cn": "调度录音中讨论有人胸痛。我们可以播放一段调度电话录音，其中提供了更多细节。请听一下。（音频开始）"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "(INAUDIBLE) cardiac arrest (INAUDIBLE). EMS six respond (ph) to (ph) engine seven, medic seven with cardiac arrest. (END AUDIO CLIP)",
+      "cn": "（听不清）心脏骤停（听不清）。急救六号响应（到）七号引擎，七号医护人员，心脏骤停。（音频结束）"
+    },
+    {
+      "speaker": "Todd",
+      "text": "(INAUDIBLE) cardiac arrest. We cannot confirm at this moment that the senator died of cardiac arrest. That dispatch call discussed cardiac arrest. But of course, you know, those dispatch calls discuss various conditions that sometimes don't turn out to be the real cause of death or the cause of an injury. So, we just can tell you that that call discussed the possibility of cardiac arrest. And we also can piece together some detail elsewhere in an audio call, a dispatch audio.",
+      "cn": "（听不清）心脏骤停。我们目前无法确认参议员死于心脏骤停。那段调度电话讨论了心脏骤停。但当然，你知道，那些调度电话讨论的各种情况有时并非真正的死因或受伤原因。所以我们只能告诉你，那个电话讨论了心脏骤停的可能性。我们还可以从另一段调度录音中拼凑出一些细节。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "The discussion of someone suffering from chest pains. And that discussion at that point was at 8:30 p.m. eastern time in an audio call from emergency dispatch audio. That's what we can tell you. They discussed chest pain, someone suffering from chest pains, and then you heard the audio of that call someone suffering from cardiac arrest, possibly, but we cannot confirm at this time that the senator died of cardiac arrest.",
+      "cn": "讨论有人胸痛。那段讨论发生在东部时间晚上8点30分，来自紧急调度录音。这就是我们能告诉你的。他们讨论了胸痛，有人胸痛，然后你听到了那段录音，有人可能心脏骤停，但我们目前无法确认参议员死于心脏骤停。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "Rene, you just posted President Trump's post on Truth Social saying that Lindsey Graham was one of the greatest, quote, \"one of the greatest people and senators I have ever known.\" Trump saying he was always working and was a true American patriot. Lindsey will be greatly missed. That is a post on Truth Social from President Donald Trump. We can also tell you that South Carolina's Republican governor, Henry McMaster, he is empowered to appoint a temporary replacement for Senator Graham.",
+      "cn": "Rene，你刚刚发布了特朗普总统在Truth Social上的帖子，称林赛·格雷厄姆是\"我所认识的最伟大的人物和参议员之一\"。特朗普说他一直在工作，是一位真正的美国爱国者。林赛将被深深怀念。那是唐纳德·特朗普总统在Truth Social上发布的帖子。我们还可以告诉你，南卡罗来纳州的共和党州长亨利·麦克马斯特有权任命一位临时接替格雷厄姆参议员的人选。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "And of course, we assume that Senator McMaster is working on that as we speak. Senator McMaster did issue this statement posted on X, quote, \"Peggy and I and our children are devastated. Lindsey Graham is irreplaceable. The fiercest of fighters for South Carolina and America, and a loyal and steadfast friend. We grieve with Darline, his family and his devoted staff. May God hold him gently in the palm of his hand.",
+      "cn": "当然，我们假设麦克马斯特参议员此刻正在处理此事。麦克马斯特参议员在X上发布了一份声明，称：\"佩吉、我和我们的孩子们都崩溃了。林赛·格雷厄姆是不可替代的。他是南卡罗来纳州和美国最坚强的斗士，也是一位忠诚而坚定的朋友。我们与达琳、他的家人和他忠诚的工作人员一同哀悼。愿上帝将他温柔地捧在手心。\""
+    },
+    {
+      "speaker": "Todd",
+      "text": "We shall not see his likes again.\" That a quote from South Carolina's Republican Governor Henry McMaster, who we can tell you is empowered to appoint at least a temporary replacement for Senator Graham. That mention of Darline in that post from Governor McMaster is a reference to Senator Graham's younger sister, Darline, who Senator Graham actually helped raise when their parents died, when both he and his younger sister were very young. Senator Graham was an undergraduate in college.",
+      "cn": "\"我们再也见不到像他这样的人了。\"这是南卡罗来纳州共和党州长亨利·麦克马斯特的引述，我们可以告诉你，他有权任命至少一位临时接替格雷厄姆参议员的人选。麦克马斯特州长在帖子中提到的达琳，指的是格雷厄姆参议员的妹妹达琳。格雷厄姆参议员在父母去世时，他和妹妹都很年幼，是他帮助抚养了妹妹。当时格雷厄姆参议员还在上大学。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "His sister, Darline, was a teenager. He helped raise her and eventually adopted her. That reference to Darline from Governor Henry McMaster is what that is all about. Others, of course, weighing in. Senate Majority Leader John Thune with a long statement posted on X, talking about how just dedicated, loyal and what a great friend that Senator Graham was and what just a powerful and influential senator he was.",
+      "cn": "他的妹妹达琳当时十几岁。他帮助抚养她，并最终收养了她。亨利·麦克马斯特州长提到的达琳就是这个意思。当然，其他人也发表了看法。参议院多数党领袖约翰·图恩在X上发布了一份长篇声明，谈到格雷厄姆参议员是多么专注、忠诚，是一位多么伟大的朋友，以及他是一位多么有影响力和权势的参议员。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "That's a long statement from Senator Thune saying, Lindsey's long and dedicated service in the Air Force and in Congress carried him to far-flung regions of the world. He was a strong advocate for the United States and a strong ally to freedom-loving countries across the globe. The senator's statement goes on for a while there just talking about just, you know, how revered Senator Lindsey Graham was in the U.S. Senate.",
+      "cn": "图恩参议员的这份长篇声明说，林赛在空军和国会长期而专注的服务将他带到了世界遥远的角落。他是美国的坚定倡导者，也是全球热爱自由国家的坚定盟友。参议员的声明继续谈了一会儿，只是谈论格雷厄姆参议员在美国参议院是多么受人尊敬。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "Also, tributes have come in from Israeli Prime Minister Benjamin Netanyahu discussing Senator Graham's steadfast support of Israel. We do know that Senator Graham was in Ukraine just a couple of days ago, meeting with Ukrainian President Volodymyr Zelenskyy returning, we believe -- he spoke to reporters actually on Friday from Ukraine and returning to the U.S. shortly after that the senator passing away in Washington, D.C. So just basically hours after his return from Ukraine, we get news of his passing, Rene.",
+      "cn": "此外，以色列总理本雅明·内塔尼亚胡也表达了敬意，讨论了格雷厄姆参议员对以色列的坚定支持。我们知道格雷厄姆参议员几天前还在乌克兰，会见了乌克兰总统弗拉基米尔·泽连斯基，我们相信他周五在乌克兰对记者发表了讲话，之后不久返回美国，参议员在华盛顿特区去世。所以基本上在他从乌克兰返回后仅几个小时，我们就得到了他去世的消息，蕾妮。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And that is why this is all so stunning. And again, we've been saying this all morning, but no one expected this because of all that you just laid out. He was just traveling. He was just in Ukraine. We saw Zelenskyy post on social media about Senator Graham and the work that he was doing there. Brian Todd, thank you so much. Joining me now on the phone is CNN congressional correspondent Lauren Fox. Lauren, you have been covering Capitol Hill with CNN for quite some time now.",
+      "cn": "这就是为什么这一切如此令人震惊。再次，我们整个早上都在说，但没有人预料到这一点，因为你刚才列举的所有原因。他刚刚还在旅行。他刚刚还在乌克兰。我们看到泽连斯基在社交媒体上发布了关于格雷厄姆参议员以及他在那里所做的工作。布莱恩·托德，非常感谢。现在连线的是CNN国会记者劳伦·福克斯。劳伦，你在CNN报道国会山已经有一段时间了。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "I want to first start with just your experience with covering Lindsey Graham. What was he like, as you know, between journalist and politician? Tell me that perspective. LAUREN FOX, CNN CONGRESSIONAL CORRESPONDENT (on the phone): Yes, I mean, obviously, everyone is really shocked by this news because Senator Graham was such a fixture on Capitol Hill. He was someone who regularly spoke out on news of the day. He was, obviously, a fierce defender of Donald Trump and was a key ally of the White House on Capitol Hill.",
+      "cn": "我想首先从你报道林赛·格雷厄姆的经历开始。据你所知，作为记者和政治家之间的互动，他是什么样的人？告诉我那个视角。CNN国会记者劳伦·福克斯（电话连线）：是的，我的意思是，显然，每个人都对这个消息感到非常震惊，因为格雷厄姆参议员是国会山上的常客。他经常就当天的新闻发表言论。显然，他是唐纳德·特朗普的坚定捍卫者，也是白宫在国会山的关键盟友。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "So, he was a really valued voice. If you're a reporter in the halls and you're trying to understand what's going on day to day in the Republican Party, you're talking really frequently to Senator Lindsey Graham. Now, I first got to know Senator Graham when I was covering immigration reform back in 2013.",
+      "cn": "所以，他的声音非常有价值。如果你是一名在走廊里的记者，试图了解共和党每天发生的事情，你会非常频繁地与林赛·格雷厄姆参议员交谈。我第一次认识格雷厄姆参议员是在2013年报道移民改革的时候。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "He was part of the bipartisan Gang of Eight, a group of lawmakers who worked together to bolster border security, as well as create a path to legalization for millions of immigrants who were living in the shadows in this country. And obviously, that was a huge bipartisan effort in Congress. It ended up not going anywhere in the House of Representatives, but it did pass the U.S. Senate. And he was a very key voice, a very key senator on that bill.",
+      "cn": "他是两党\"八人帮\"的一员，这是一个由立法者组成的小组，他们共同努力加强边境安全，并为生活在这个国家阴影中的数百万移民创造合法化途径。显然，这是国会的一项重大两党努力。最终在众议院没有取得进展，但它确实在美国参议院通过了。他是该法案中非常关键的声音，非常关键的参议员。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "He had worked really closely with his friend and longtime mentor, Senator John McCain, on that legislation. And there were several instances, even once Donald Trump took office, that Senator Lindsey Graham became a major commentator and advocate on immigration related issues. Now, over time, his view and his position sort of evolved as the Republican Party's and President Trump's position really hardened the position of Republicans on that issue. But that's how I got to know Senator Graham initially.",
+      "cn": "他曾与他的朋友和长期导师约翰·麦凯恩参议员在那项立法上密切合作。甚至在唐纳德·特朗普上任后，也有几次林赛·格雷厄姆参议员成为移民相关议题的主要评论员和倡导者。随着时间的推移，随着共和党和特朗普总统的立场在移民问题上真正强硬起来，他的观点和立场也发生了变化。但这就是我最初认识格雷厄姆参议员的方式。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "I mean, he was someone who also was extremely outspoken on foreign policy issues. I mean, he built his career as a defense hawk, as you noted. And as Brian noted, he was just in Ukraine a couple of days ago, meeting with the president of that country, Volodymyr Zelenskyy. And that was a reoccurring visit that he had taken. I mean, he has visited that country multiple times since the Russian invasion.",
+      "cn": "我的意思是，他在外交政策问题上也非常直言不讳。正如你所指出的，他建立了自己作为国防鹰派的职业生涯。正如布莱恩所说，他几天前还在乌克兰，会见了该国总统弗拉基米尔·泽连斯基。这是他多次访问中的一次。自俄罗斯入侵以来，他已经多次访问该国。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "He has been a really strong ally of Ukraine in terms of supplying them with defense systems, planes, weapons that they need as they continue to fight the Russians. And that is something that he has been unwavering on over the course of his career. Obviously, he has been a strong advocate for intervention across the world, from Iraq to Afghanistan to Iran, more recently defending the president's role there.",
+      "cn": "在向乌克兰提供其抗击俄罗斯所需的防御系统、飞机和武器方面，他一直是一个非常坚定的盟友。在他的职业生涯中，这一点从未动摇过。显然，他一直是全球干预的坚定倡导者，从伊拉克到阿富汗再到伊朗，最近还为总统在那里的角色辩护。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "So, you know, he is someone who just has been involved in every facet of American life, whether that is the U.S. position abroad, immigration. He, obviously, served as the chairman of the Senate Judiciary Committee and was the chairman of the Senate Budget Committee when President Trump renewed his tax bill earlier in the second term. So obviously, he is someone who's a really key voice for Republicans, Rene.",
+      "cn": "所以，你知道，他是一个涉足美国生活方方面面的人，无论是美国在海外的立场还是移民问题。显然，他曾担任参议院司法委员会主席，并在特朗普总统第二任期初期推动税收法案时担任参议院预算委员会主席。所以，显然，他是共和党中一个非常关键的声音，蕾妮。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Lauren Fox, thank you so much. And our coverage continues with Senator Graham's death. When we come back from our break next, we'll talk about his strong support for both Israel and Ukraine as reaction to his death comes from international leaders.",
+      "cn": "劳伦·福克斯，非常感谢你。我们的报道继续关注格雷厄姆参议员的去世。休息回来后，我们将讨论他对以色列和乌克兰的坚定支持，以及国际领导人对他的去世的反应。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "We are following breaking news, the passing of South Carolina Senator Lindsey Graham. Just last Friday, he was in Ukraine meeting with Ukrainian President Volodymyr Zelenskyy in Kyiv. Graham was working on a Russia sanctions bill to try to help end Russia's war on Ukraine. In a social media post, Zelenskyy commented on Graham's consistent effort to try to secure peace in that area. Zelenskyy wrote in part, quote, \"Good meeting with U.S. Senator Lindsey Graham in Kyiv.",
+      "cn": "我们正在跟进突发新闻：南卡罗来纳州参议员林赛·格雷厄姆去世。就在上周五，他还在基辅与乌克兰总统弗拉基米尔·泽连斯基会面。格雷厄姆当时正在制定一项俄罗斯制裁法案，试图帮助结束俄罗斯对乌克兰的战争。泽连斯基在社交媒体上评论了格雷厄姆为争取该地区和平所做的持续努力。泽连斯基写道：\"与美国总统林赛·格雷厄姆在基辅的会面很好。\""
+    },
+    {
+      "speaker": "Marsh",
+      "text": "This is already his 10th visit to our country, and we appreciate this support.\" Well, for more on Graham's diplomatic work in Ukraine, we turn to CNN's international diplomatic editor, Nic Robertson. Nic, again, we know that Senator Graham was a fierce advocate for Ukraine and trying to end hostilities between Ukraine and Russia. What's the reaction that you're hearing coming from that region?",
+      "cn": "\"这已经是他第十次访问我国，我们感谢这种支持。\"关于格雷厄姆在乌克兰的外交工作，我们连线CNN国际外交编辑尼克·罗伯逊。尼克，我们知道格雷厄姆参议员是乌克兰的坚定支持者，并致力于结束乌克兰与俄罗斯之间的敌对行动。你听到该地区有什么反应？"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "Yes, this is something that was hugely important for Ukraine. President Zelenskyy saying that Senator Graham was there when the Ukrainian people needed him. As you mentioned, 10 visits since Russia's full scale invasion earlier in 2022. So this is, you know, clearly someone who was an interventionist, if you will. Whereas President Trump's MAGA base was more isolationist. He believed in propping up United States allies around the world. And Ukraine was one of those.",
+      "cn": "是的，这对乌克兰来说非常重要。泽连斯基总统说，格雷厄姆参议员在乌克兰人民需要他的时候出现了。正如你提到的，自2022年初俄罗斯全面入侵以来，他访问了10次。所以，这显然是一个干预主义者，如果你愿意这么说的话。而特朗普总统的MAGA基础则更倾向于孤立主义。他相信支持美国在世界各地的盟友，乌克兰就是其中之一。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "He believed that by supporting Ukraine, you made Europe, your European allies safer, that you put limits on President Putin's expansionism agenda. And to that point, that part of this visit, where in Ukraine on just Friday, where he visited the latest and sort of most up to date Ukrainian drone factory, the SkyFall factory, where he was able to see their long range bomber drones that are penetrating deep into Russia, hitting energy facilities more than a thousand miles away from Ukraine, to their front line drones",
+      "cn": "他认为，通过支持乌克兰，你可以让欧洲、你的欧洲盟友更安全，限制普京总统的扩张主义议程。为此，在这次访问中，就在上周五，他参观了乌克兰最新、最先进的无人机工厂 --  -- SkyFall工厂，在那里他看到了他们的远程轰炸无人机，这些无人机能够深入俄罗斯境内，打击距离乌克兰一千多英里的能源设施，以及他们的前线无人机"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "that sort of can buzz in and out of the trenches. You know, get and target and defend troops on the battlefield. As well as their defensive drones that intercept Iran's drones and are now becoming an indispensable part of what the United States allies in the Gulf need to defend against attacks from Iran.",
+      "cn": "那种可以在战壕中穿梭的无人机，能够瞄准和保卫战场上的部队。还有他们的防御性无人机，可以拦截伊朗的无人机，现在已成为美国在波斯湾的盟友防御伊朗攻击不可或缺的一部分。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "So, President Zelenskyy was able to show all of that to Senator Graham, because he knew that by bringing this understanding of where Ukraine was out on the battlefield, of its dynamic military capabilities, that this message would end up inside the White House, that he would be able to communicate that to President Trump. And that was the kind of advocacy and support inside the White House that President Zelenskyy was looking for.",
+      "cn": "所以，泽连斯基总统能够向格雷厄姆参议员展示这一切，因为他知道，通过让格雷厄姆了解乌克兰在战场上的情况及其动态军事能力，这一信息将最终传到白宫，他能够向特朗普总统传达这一点。而这正是泽连斯基总统所寻求的白宫内部的支持和倡导。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "Lindsey Graham himself talking about this mission, this particular trip on Friday, and how that was aimed at putting more sanctions on Russia. This is what he said. SEN. LINDSEY GRAHAM (R-SC): We've reached agreement with the White House on a version of the Russian sanctions bill that they will support. It means it's going to become law.",
+      "cn": "林赛·格雷厄姆本人谈到了这次任务，特别是上周五的行程，以及如何旨在对俄罗斯实施更多制裁。他是这样说的。参议员林赛·格雷厄姆（共和党-南卡罗来纳州）：我们已与白宫就一项他们支持的俄罗斯制裁法案版本达成协议。这意味着它将成为法律。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "So when I get back to Washington, I'm going to go with Senator Blumenthal to the Republican and Democratic leader to see if we can find time to move this Russian sanctions package that would give tools to President Trump to help end this war.",
+      "cn": "所以当我回到华盛顿时，我会和参议员布卢门撒尔一起去找共和党和民主党的领袖，看看我们能否找到时间推进这项俄罗斯制裁方案，该方案将赋予特朗普总统工具来帮助结束这场战争。"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "So on this war, Lindsey Graham wasn't just a key player for Ukraine but for European leaders as well who wanted greater advocacy from President Trump, who wanted greater involvement inside of Ukraine. And let's look back to just last year, late February, that disastrous meeting in the Oval Office where President Trump berates President Zelenskyy. Senator Graham, who until that moment had been a very, very staunch supporter of President Zelenskyy, calling it a disastrous meeting.",
+      "cn": "在这场战争中，林赛·格雷厄姆不仅是乌克兰的关键人物，也是欧洲领导人的关键人物，他们希望特朗普总统能更积极地倡导，更多地介入乌克兰。让我们回顾一下去年2月底，在椭圆形办公室那次灾难性的会面中，特朗普总统斥责了泽连斯基总统。而格雷厄姆参议员在那之前一直是泽连斯基总统非常坚定的支持者，他称那次会面是灾难性的。"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "And wondering whether or not he could continue to support the Ukrainian president. But fast forward just a few months, where the Europeans have stepped up, formed their coalition of the willing, who is it from the United States that the Europeans have representing the U.S.",
+      "cn": "并且他怀疑自己是否还能继续支持乌克兰总统。但仅仅几个月后，欧洲国家已经行动起来，组成了他们的\"意愿联盟\"，那么美国方面是谁代表美国参加这个联盟呢？"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "on that coalition of the willing, it is Lindsey Graham, and that was because they knew he was valuable to what they wanted to achieve as well, that he would bring the message into the White House, interventionist, supporter of Ukraine, thwart to President Putin. So not just Ukraine and so many other countries' leaders will miss him. But I think on the European stage, he certainly had a value for the Europeans at this time.",
+      "cn": "在这个意愿联盟中，是林赛·格雷厄姆，这是因为他们知道他对他们想要实现的目标也很有价值，他会把干预主义、支持乌克兰、挫败普京的信息带进白宫。所以不仅仅是乌克兰和许多其他国家的领导人会想念他。但我认为在欧洲舞台上，他此刻对欧洲人来说确实很有价值。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And it certainly raises the question, is there a Republican that could fill that void that is now left by Lindsey Graham as it relates to those foreign relations? Nic Robertson, thank you so much for that perspective. And it wasn't just Ukraine. Senator Graham was also known for his strong support of Israel. Already, several Israeli leaders are expressing their condolences. Israeli Prime Minister Benjamin Netanyahu posted this in part on social media, quote, \"Israel has lost one of its greatest friends.",
+      "cn": "这当然引发了一个问题：在外交关系方面，是否有共和党人能够填补林赛·格雷厄姆留下的空缺？尼克·罗伯逊，非常感谢你的分析。而且不仅仅是乌克兰，格雷厄姆参议员也以对以色列的坚定支持而闻名。一些以色列领导人已经表达了哀悼。以色列总理本雅明·内塔尼亚胡在社交媒体上部分写道：\"以色列失去了一位最伟大的朋友。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "America lost a great patriot. I have lost a beloved friend.\" Let's go to Jerusalem Bureau Chief Oren Liebermann, with more on that part of Graham's legacy. Good morning, Oren.",
+      "cn": "美国失去了一位伟大的爱国者。我失去了一位挚友。\"让我们连线耶路撒冷分社社长奥伦·利伯曼，了解更多关于格雷厄姆这一遗产的情况。早上好，奥伦。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "Good morning, Rene. That sentiment of heartfelt feeling of thanks, of deep, deep grievance and mourning is not unique to Prime Minister Benjamin Netanyahu. We see it from politicians across the Israeli spectrum, from the coalition under Netanyahu, to the opposition. I'll read you just a smattering of these statements here. This is former Prime Minister Naftali Bennett, who said he is heartbroken to hear of the passing of Lindsey Graham.",
+      "cn": "早上好，雷内。这种发自内心的感谢、深深的悲痛和哀悼之情并非本雅明·内塔尼亚胡总理独有。我们从以色列各派政治人物那里都能看到，从内塔尼亚胡领导的联盟到反对派。我在这里读一些声明。前总理纳夫塔利·贝内特说，他听到林赛·格雷厄姆去世的消息感到心碎。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "He said, America has lost a devoted patriot and Israel has lost one of its greatest friends. Former Defense Minister Avigdor Lieberman also said, for years, Graham stood by her side even when it required courage and even when it involved significant criticism. And I'll read one more here. Former Prime Minister Yair Lapid said, Lindsey has unwavering moral clarity, a deep devotion to the people of Israel, and a clear vision for a secure and peaceful Middle East.",
+      "cn": "他说，美国失去了一位忠诚的爱国者，以色列失去了一位最伟大的朋友。前国防部长阿维格多·利伯曼也说，多年来，格雷厄姆一直站在以色列一边，即使这需要勇气，即使这涉及重大批评。我再读一条。前总理亚伊尔·拉皮德说，林赛有着坚定不移的道德清晰度，对以色列人民有着深厚的奉献精神，并且对建立一个安全和平的中东有着清晰的愿景。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "Lindsey Graham was a staunch supporter and advocate for Israel in the U.S., not just championing the cause of Israel, but he pushed for more funding for Israel's defense. He pushed for the memorandum of understanding and more U.S. funding for Israel's weaponry. That has been something he's done for years. He visited here frequently. I've attended his press conferences here and been invited to many more as he made it a point to come here repeatedly, not only since October 7th, 2023, 2023, but even before that.",
+      "cn": "林赛·格雷厄姆在美国是以色列的坚定支持者和倡导者，他不仅为以色列的事业而战，还推动为以色列的国防提供更多资金。他推动了谅解备忘录，并为以色列的武器争取更多美国资金。这是他多年来一直在做的事情。他经常访问这里。我参加过他的新闻发布会，也被邀请过更多次，因为他坚持反复来这里，不仅在2023年10月7日之后，甚至在那之前也是如此。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "And in fact, many of those now putting out message of condolences and messages of mourning are also sharing pictures with Lindsey Graham. For Netanyahu, he was especially important because even when there was a division between Netanyahu and President Donald Trump, when it came to Iran, Lebanon, Gaza or other issues, it was Graham that had Netanyahu's ear.",
+      "cn": "事实上，许多现在发表哀悼和悼念信息的人也在分享与林赛·格雷厄姆的合影。对内塔尼亚胡来说，他尤其重要，因为即使内塔尼亚胡和唐纳德·特朗普总统在伊朗、黎巴嫩、加沙或其他问题上存在分歧，格雷厄姆也能让内塔尼亚胡听得进去。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "Netanyahu could speak with Graham and try to use that to either try to sway the Congress or put his opinion, his position out there, but also would use Graham and would work with Graham to try to show Trump Israel's position here. So from that perspective, Graham was very important politically to Netanyahu himself. We've also been told with an Israeli source familiar with the matter that Netanyahu is considering trying to see if he can attend Graham's funeral in the United States.",
+      "cn": "内塔尼亚胡可以与格雷厄姆交谈，并试图利用这一点来影响国会或表达他的观点和立场，同时也会利用格雷厄姆并与格雷厄姆合作，试图向特朗普展示以色列的立场。因此从这个角度来看，格雷厄姆对内塔尼亚胡本人来说在政治上非常重要。我们还从一位熟悉此事的以色列消息人士处得知，内塔尼亚胡正在考虑是否能够参加格雷厄姆在美国的葬礼。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "That, in and of itself would also give him an opportunity to meet with Trump. The two had agreed to meet after one of their most recent phone calls, but that hasn't been put on the agenda. This would be a chance for Netanyahu to pay his respects to someone who's considered one of Israel's strongest supporters, and perhaps to meet Trump as well, Rene.",
+      "cn": "这本身也会给他一个与特朗普会面的机会。两人在最近一次通话后曾同意会面，但尚未列入议程。这将是内塔尼亚胡向这位被认为是以色列最坚定支持者之一的人表达敬意，或许还能与特朗普会面的机会，蕾妮。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Oren, thank you. And we're going to take a quick break, and then we'll continue our breaking news coverage of the death of Senator Lindsey Graham at the age of 71. Stay with",
+      "cn": "奥伦，谢谢你。我们稍作休息，然后继续报道参议员林赛·格雷厄姆去世的突发新闻，享年71岁。请继续关注。"
+    },
+    {
+      "speaker": "Cnn. Marsh",
+      "text": "We're back to our breaking news coverage of the death of Senator Lindsey Graham. According to his office, the 71-year-old South Carolina Republican died from a brief and sudden illness last night. Graham has long been one of President Trump's most trusted allies on Capitol Hill. Here he is just last month.",
+      "cn": "我们继续报道参议员林赛·格雷厄姆去世的突发新闻。据其办公室称，这位71岁的南卡罗来纳州共和党人昨晚因突发短暂疾病去世。格雷厄姆长期以来一直是特朗普总统在国会山最信任的盟友之一。这是上个月他的发言。"
+    },
+    {
+      "speaker": "Graham",
+      "text": "And when it comes to President Trump, Mr. President, I'm going to be your strongest ally in the United States Senate. I'm going to be the Trump guy in the United States Senate helping the Trump agenda for your last two years. You're on course, my friend, to be one of the most consequential presidents in American history. And what did we prove tonight? That South Carolina is Trump country, not Massie country.",
+      "cn": "至于特朗普总统，总统先生，我将成为您在美国参议院最坚定的盟友。我将成为参议院中帮助您推进最后两年议程的特朗普派。我的朋友，您正走在成为美国历史上最具影响力的总统之一的道路上。我们今晚证明了什么？南卡罗来纳州是特朗普的地盘，而不是马西的地盘。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Well, let's bring in CNN political commentator Maria Cardona. Maria, you have been in Washington for years now. I want to first start off by asking you, what are they saying within Washington circles right now from this news that is shocking so many?",
+      "cn": "好的，让我们请进CNN政治评论员玛丽亚·卡多纳。玛丽亚，你在华盛顿已经多年了。我想首先问你，华盛顿圈内人士对这条令许多人震惊的消息有何看法？"
+    },
+    {
+      "speaker": "Maria Cardona",
+      "text": "Well, that's exactly the first thing that they're saying, Rene, is just what a shock, what a tremor this is within D.C. political circles, within the country and within the whole world. As you have been talking about, Lindsey Graham was very involved in U.S. foreign policy. It was one of his passions. It was one of the areas that he had expertise in. And I think it's been one of the areas where he's really made a difference for the better, especially when it comes to Ukraine.",
+      "cn": "嗯，这正是他们首先说的，蕾妮，就是这对华盛顿政界、对整个国家乃至全世界来说是多么震惊和震动。正如你们一直在讨论的，林赛·格雷厄姆深度参与美国外交政策。这是他的热情所在，也是他擅长的领域之一。我认为这也是他真正做出积极改变的领域之一，尤其是在乌克兰问题上。"
+    },
+    {
+      "speaker": "Maria Cardona",
+      "text": "And Zelenskyy, I'm sure, is very sad today because Lindsey Graham was one of the ones who was whispering into Trump's ear about how important it was for the United States to stand up against Russia on the side of Ukraine. And so we'll see what happens with that. But as a foreign policy hawk, that is where I think you saw recently one of the biggest ways in which Lindsey Graham really influenced the way that Trump saw and acted in terms of the war between Russia and Ukraine.",
+      "cn": "泽连斯基今天肯定非常难过，因为林赛·格雷厄姆是向特朗普耳语美国必须站在乌克兰一边对抗俄罗斯的重要性的人之一。所以我们将看看那方面会发生什么。但作为一名外交政策鹰派，我认为这正是最近林赛·格雷厄姆影响特朗普看待和应对俄乌战争方式的最大体现之一。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes, that was going to be my next question. I mean, it sounds like you think that, you know, his influence in the space of foreign relations. Would you say that that is going to be his most lasting impact on Washington and even the Republican Party? CARDONA (on-camera): I think it will be one of the biggest ones. But there were a lot of issues in which Lindsey Graham affected policy and was influential. And one of the other areas where he was very effective and influential is the area of immigration.",
+      "cn": "是的，这正是我接下来要问的问题。我的意思是，听起来你认为他在外交关系领域的影响力。你认为这将成为他对华盛顿乃至共和党最持久的影响吗？卡多纳（出镜）：我认为这将是最大的影响之一。但林赛·格雷厄姆在许多问题上影响了政策并具有影响力。他非常有效和有影响力的另一个领域是移民问题。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "As you can recall, he was part of the story, the gang of eight, the eight senators that in I believe it was 2013 really focused on immigration reform. And it was at the point where we almost were able to achieve bipartisan immigration reform. And it was in large part because of those eight senators that included Lindsey Graham. Sadly, we didn't get there. But Lindsey Graham had been a big advocate of immigration reform.",
+      "cn": "你可能还记得，他是八人帮的一员，即八位参议员，我相信是在2013年，他们真正专注于移民改革。当时我们几乎实现了两党移民改革。这在很大程度上要归功于包括林赛·格雷厄姆在内的那八位参议员。遗憾的是，我们未能达成。但林赛·格雷厄姆一直是移民改革的坚定倡导者。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "He changed that in in the latest years when he became one of, you know, like he you just showed the clip where he said that he was going to be one of Trump's biggest advocates and biggest supporters in the Senate. And he did become that. And, you know, sadly to a lot of folks, immigration advocates chagrin, he turned his back on exactly the same subject that he had been such a supporter of in years past.",
+      "cn": "在最近几年，他改变了这一点，成为了 --  -- 就像你刚才播放的片段中他所说的那样 --  -- 他将在参议院成为特朗普最大的倡导者和支持者之一。他确实做到了。而且，让很多人、尤其是移民倡导者感到沮丧的是，他背弃了正是他过去多年来一直支持的议题。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And I think there's going to be a lot of discussion about the way in which Lindsey Graham changed his views when he became one of Trump's biggest supporters. But I think for now, Rene, we're going to focus on how he served the country. He served 33 years in uniform. I think we have to salute that. He served for so many years in Congress and in the Senate serving the people of South Carolina.",
+      "cn": "我认为，关于林赛·格雷厄姆在成为特朗普最大支持者之一后如何改变观点，将会有很多讨论。但就目前而言，蕾妮，我们将聚焦于他如何为国家服务。他身着军装服役了33年。我认为我们必须对此表示敬意。他在国会和参议院为南卡罗来纳州人民服务了这么多年。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "So today, may he rest in peace and our thoughts and prayers and condolences go out to his family, his friends and the people of South Carolina. There will be plenty of time to talk about politics and plenty of time to talk about his record.",
+      "cn": "所以今天，愿他安息，我们的思念、祈祷和哀悼与他的家人、朋友以及南卡罗来纳州人民同在。未来会有足够的时间来谈论政治，也有足够的时间来讨论他的政绩。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Maria Cardona, thank you so much. And it wasn't just his foreign policy influence, but Senator Graham also proved to be one of the most effective and reliable communicators in President Trump's inner circle. Whenever the administration did something that needed defending or explaining, Graham frequently stepped up. I want to bring in CNN's chief media analyst, Brian Stelter, with more on that side of Lindsey Graham and his legacy.",
+      "cn": "玛丽亚·卡多纳，非常感谢你。而且，不仅仅是他的外交政策影响力，格雷厄姆参议员还被证明是特朗普总统核心圈子中最有效、最可靠的沟通者之一。每当政府需要辩护或解释某些事情时，格雷厄姆经常挺身而出。我想请CNN首席媒体分析师布莱恩·斯特尔特来谈谈林赛·格雷厄姆的这一面及其遗产。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Brian, what are your thoughts on Graham and his role as the communicator for the Trump administration many times? BRIAN STELTER, CNN CHIEF MEDIA ANALYST (on-camera): Well, number one, he just he loved actually being a politician. Now, there are some senators. I was, you know, once a page in the Senate decades ago.",
+      "cn": "布莱恩，你对格雷厄姆多次担任特朗普政府沟通者这一角色有何看法？CNN首席媒体分析师布莱恩·斯特尔特（镜头前）：嗯，首先，他确实热爱做政治家。有些参议员 --  -- 我几十年前曾在参议院当过侍者 --  --"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "I remember this very vividly, even from back then, how there are some folks who enter that arena who are senators, who are lawmakers, who are in various public officials jobs, who actually are not there because they love the sport or necessarily love to be wooing the public, persuading the public. Lindsey Graham did. He truly loved the sport and the art of politics. And you could see that through his television appearances. You use the word communicator.",
+      "cn": "我至今仍清楚地记得，即使在那时，有些人进入那个领域，成为参议员、立法者或担任各种公职，实际上并不是因为他们热爱这项运动或热衷于争取公众、说服公众。林赛·格雷厄姆不是这样。他真正热爱政治这项运动和艺术。你可以从他的电视露面中看出这一点。你用了\"沟通者\"这个词。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "That's exactly the word, you know, describing the way that he was a champion for President Trump for the past 10 years across the television dial on Fox News. Yes. But on many other channels, he was actually scheduled to appear on NBC's Meet the Press later today. So when we think about the shock of his sudden death, that really emphasizes how -- how suddenly this occurred. He had been booked. He had been promoted as a guest appearing this morning.",
+      "cn": "这正是那个词，描述了过去十年他在福克斯新闻等电视媒体上成为特朗普总统捍卫者的方式。是的，但在许多其他频道上，他原定今天晚些时候出现在NBC的《与媒体见面》节目中。所以当我们想到他突然去世的震惊时，这确实凸显了事情发生得多么突然。他已经被预约，被宣传为今早的嘉宾。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And of course, he had been on the program dozens of times before because he understood that he had to and wanted to be on television in order to use that public stage to push his views and to promote his agenda and to promote President Trump's agenda. So very much through the television, he recognized that was his way to serve. And gosh, 10 years ago, he really became a symbol of how Trump was taking over the party. I think people sometimes forget that Graham was in that GOP primary in 2015.",
+      "cn": "当然，他之前已经数十次上过那个节目，因为他明白他必须并且想要上电视，以便利用那个公共舞台来推动他的观点，推广他的议程以及特朗普总统的议程。所以很大程度上，通过电视，他认识到那是他服务的方式。天哪，十年前，他真的成为了特朗普如何接管共和党的象征。我想人们有时会忘记格雷厄姆在2015年参加了共和党初选。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "He was on the Fox News debate stage for that very first two-part debate back in 20 -- in 2015. He did not make it very far in that primary. He saw exactly what Trump was doing to the party. And so, people use the word loyal. People use many critical words to describe how he evolved. But certainly back then, that moment, he saw what was happening to the GOP in real time in 2015 and 2016. And then that speaks to the idea that he really loved the art and the sport of being a politician.",
+      "cn": "他曾在2015年福克斯新闻那场最初的两部分辩论中登上辩论台。他在那次初选中并没有走得很远。他亲眼目睹了特朗普对共和党所做的一切。所以，人们用\"忠诚\"这个词，也用许多批评性的词语来描述他的演变。但当然，在那个时候，他实时看到了2015年和2016年共和党正在发生的事情。而这又说明了他确实热爱政治家的艺术和运动。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes. And I wonder just, you know, how effective do you think he was in communicating on behalf of President Trump? And what was it about Graham that the Trump administration or President Trump wanted him to speak on his behalf? STELTER (on-camera): Well, one, number one, what President Trump said on True Social this morning, he made a comment about how Graham was always working. That's something that Trump likes. It's something he looks for in his allies.",
+      "cn": "是的。我想知道，你认为他代表特朗普总统沟通的效果如何？特朗普政府或特朗普总统为什么希望格雷厄姆代表他发言？斯特尔特（镜头前）：嗯，首先，特朗普总统今早在\"真实社交\"上评论说格雷厄姆总是在工作。这是特朗普喜欢的，也是他在盟友中寻找的特质。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "He views himself as always working 24/7, and he viewed Graham the same way that Graham was willing to be out there doing those television hits. Again, something that he enjoyed doing. And there was also a levity. There was a, you know, Graham was very relaxed in that way, in that forum, being willing and able at all times to go out there and play defense, and then, of course, offense, too. But that idea of levity, I think that's a word Tim Scott used earlier today.",
+      "cn": "他认为自己总是全天候工作，他也以同样的方式看待格雷厄姆，即格雷厄姆愿意出去做那些电视采访。同样，这也是他喜欢做的事情。而且还有一种轻松感。你知道，格雷厄姆在那样的场合下非常放松，随时愿意并且能够出去防守，当然还有进攻。但那种轻松感，我认为这是蒂姆·斯科特今天早些时候用过的一个词。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "That's something that also has stood out to me over the years, seeing Graham in those forums. And, you know, he just offended off, I think it was five challengers in his primary election last month. You know, so that speaks to someone who is, you know, again, really enjoying what he was doing every single day.",
+      "cn": "多年来，看到格雷厄姆出现在那些场合，这一点也让我印象深刻。你知道，他上个月刚刚在初选中击败了，我想是五名挑战者。所以，这说明了这个人，你知道，再次，他真的很享受他每天所做的事情。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And I think, you know, certainly one thing President Trump valued about Graham was that he saw the value and the influence of those TV appearances, also of that social media footprint, that Graham was always in the arena and willing at all times to be part of that Trump alliance.",
+      "cn": "而且我认为，当然，特朗普总统看重格雷厄姆的一点是，他看到了那些电视亮相的价值和影响力，还有社交媒体足迹，格雷厄姆总是在竞技场上，随时愿意成为特朗普联盟的一部分。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Brian Stelter, thank you. And stay with \"CNN This Morning\" as we continue to follow the death of Senator Lindsey Graham. We are also watching the breaking news in the war with Iran as the U.S. targets Iranian military sites in their latest strikes. All that coming up.",
+      "cn": "布莱恩·斯特尔特，谢谢你。请继续关注《CNN今晨》，我们将持续报道参议员林赛·格雷厄姆去世的消息。我们也在关注与伊朗战争的突发新闻，美国在最新一轮打击中瞄准了伊朗军事基地。所有这些即将播出。"
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "This is CNN Breaking News.",
+      "cn": "这里是CNN突发新闻。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Well, good morning. We are continuing to follow our breaking news out of Washington. Longtime Senator Lindsey Graham has died from a brief and sudden illness. His office announced this early this morning. Graham served as a senator for South Carolina for more than two decades. Initial 911 audio revealed emergency personnel responded to a call for cardiac arrest at Graham's home in D.C. He had just celebrated his 71st birthday last week. And breaking news from the Middle East. U.S.",
+      "cn": "早上好。我们继续关注来自华盛顿的突发新闻。资深参议员林赛·格雷厄姆因一场短暂而突然的疾病去世。他的办公室今天凌晨宣布了这一消息。格雷厄姆担任南卡罗来纳州参议员超过二十年。最初的911录音显示，急救人员接到电话称格雷厄姆在华盛顿的家中发生心脏骤停。他上周刚庆祝了71岁生日。还有来自中东的突发新闻。美国"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Central Command shared new video of strikes the U.S. military says it carried out on 140 Iranian military targets. This comes just after an attack on a merchant ship in the Strait of Hormuz that left one person missing. Now the U.S. is blaming that attack on the Islamic Revolutionary Guard Corps. Now Iranian state media claims it's retaliating for the latest U.S. attacks by targeting U.S. military sites. Well CNN's Nada Bashir joins me now.",
+      "cn": "中央司令部发布了美军对140个伊朗军事目标实施打击的新视频。这发生在霍尔木兹海峡一艘商船遭袭导致一人失踪之后。美国将此次袭击归咎于伊斯兰革命卫队。现在伊朗国家媒体声称，他们通过打击美国军事目标来报复美国的最新袭击。CNN的纳达·巴希尔现在加入我的节目。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Nada, what are you learning about these latest attacks? NADA BASHIR, CNN CORRESPONDENT (on-camera): Well, this is the third round of strikes now carried out by the U.S. military targeting Iran. As you mentioned, we've heard from the U.S. Central Command confirming that around 140 targets were struck. They say these were military targets, including missile and drone sites, naval capabilities, ammunition storage facilities, as well as communications networks and coastal surveillance locations.",
+      "cn": "纳达，关于这些最新袭击，你了解到了什么？CNN记者纳达·巴希尔（出镜）：嗯，这是美军对伊朗实施的第三轮打击。正如你提到的，我们从美国中央司令部那里得到确认，大约有140个目标被击中。他们称这些是军事目标，包括导弹和无人机基地、海军设施、弹药储存设施，以及通信网络和海岸监视地点。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Now, of course, this has come after Iran announced that it would be closing the Strait of Hormuz. And we have also seen since these strikes carried out by the U.S. military retaliatory strikes carried out also by the IRGC targeting U.S. and allied forces, allied assets in the Gulf region. So we have heard from officials in Kuwait, in Bahrain, in the UAE, for example, as well as in Jordan warning of a threat from Iran and that in some cases there were interceptions.",
+      "cn": "当然，这是在伊朗宣布将关闭霍尔木兹海峡之后发生的。而且我们还看到，在美军实施这些打击之后，伊斯兰革命卫队也进行了报复性打击，目标是美国及盟军在波斯湾地区的部队和资产。因此，我们听到来自科威特、巴林、阿联酋以及约旦的官员警告来自伊朗的威胁，并且在某些情况下发生了拦截。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "But, of course, this also comes as efforts continue by some mediators to try to bring about some sort of diplomatic impact, to try to pass some sort of diplomatic resolution to this latest escalation of hostilities. And, in fact, we did see the Iranian foreign minister just yesterday meeting with his Omani counterpart in Oman.",
+      "cn": "但是，当然，这也发生在一些调解人继续努力试图带来某种外交影响，试图通过某种外交解决方案来解决这次最新的敌对升级之际。事实上，我们确实看到伊朗外长昨天在阿曼与阿曼外长会面。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Now, the focus of those talks, according to officials familiar with the discussions, was, of course, the Strait of Hormuz, which continues to be a key stumbling block in diplomatic mediation efforts and, of course, continues to be an area where we are still seeing significant daylight between the Iranian and the U.S. position. Now, Iran has expressed its wish to maintain control over vessels passing through the Strait of Hormuz. It wants to see ships passing through a corridor along its coastline.",
+      "cn": "据知情官员透露，这些会谈的重点当然是霍尔木兹海峡，它仍然是外交调解努力中的关键障碍，当然，也是我们仍然看到伊朗和美国立场存在重大分歧的领域。伊朗已表示希望保持对通过霍尔木兹海峡船只的控制权，希望船只沿着其海岸线的走廊通行。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "But according to a source familiar with those discussions which took place just yesterday between Oman and Iran, there may be a proposal in the works for some sort of mutual control aspect element to this deal, which could potentially shift the needle somewhat in terms of a mediation and resolution effort.",
+      "cn": "但据一位了解昨天阿曼与伊朗之间讨论的消息人士称，可能正在酝酿一项提议，涉及某种形式的共同控制元素，这可能会在调解和解决努力方面有所突破。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Nada Bashir, thank you. And going deeper on this, joining me now for analysis is curator with The Iranist Substack, Holly Dagres. Thank you so much for joining us this morning, Holly. I guess I just want to start at the core of all of this. The two sides can't seem to agree on what they agreed on. They both walked away from the same talks, but they seem like both countries have different understandings, and that is really at the heart of what's happening there in the Strait of Hormuz.",
+      "cn": "感谢Nada Bashir。为了更深入探讨，现在加入我进行分析的是《伊朗主义者》Substack的策展人Holly Dagres。非常感谢你今天早上加入我们，Holly。我想从这一切的核心开始。双方似乎无法就他们达成一致的内容达成一致。他们从同一场会谈中离开，但两国似乎有不同的理解，而这正是霍尔木兹海峡正在发生的事情的核心。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Is this, you know, failure in communication? Is this a trust issue? Is this that they just were never aligned from the very beginning?",
+      "cn": "这是沟通失败吗？是信任问题吗？还是他们从一开始就没有达成一致？"
+    },
+    {
+      "speaker": "Holly Dagres",
+      "text": "That's a really great question. I should start by saying, you know, there has been distrust for 47 years and more recently under this administration, there were talks happening and then there was the two wars that took place, the first in June of 2025, the 12-day war, and then the latest, of course, was the three-month war. And what really it comes down to is that at the outcome of this latest iteration of war, the United States and Iran both think that they won it.",
+      "cn": "这是个很好的问题。我首先要说，47年来一直存在不信任，最近在本届政府任期内，曾有过会谈，然后发生了两场战争，第一次是2025年6月的12天战争，最近一次是三个月的战争。归根结底，在最近一次战争的结果中，美国和伊朗都认为自己赢了。"
+    },
+    {
+      "speaker": "Holly Dagres",
+      "text": "And when you have two sides that think that they won the war, they also means that they have different interpretations of the memorandum of understanding that they've signed. And that's what's been clear since the most recent attacks that have been happening with these tit- for-tats. It's not been just the past 24 hours or so, these have been going on for weeks. And so it really boils down to, as you noted, the strait of Hormuz.",
+      "cn": "当双方都认为自己赢了战争时，也意味着他们对签署的谅解备忘录有不同的解释。自最近发生的针锋相对的袭击以来，这一点一直很明显。这不仅仅是过去24小时的事，已经持续了几周。所以，正如你所说，这归根结底是霍尔木兹海峡的问题。"
+    },
+    {
+      "speaker": "Holly Dagres",
+      "text": "And one of the other aspects that have been key in part of these talks that are being kicked down the road is the state of Iran's nuclear program.",
+      "cn": "这些会谈中被推迟的另一个关键方面是伊朗核计划的状况。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes. And let's talk a little bit about the mediators at the heart of this, right? Oman and Qatar, they have invested an enormous amount of diplomatic capital. They're trying to get these negotiations jump-started again, keep them alive. Yesterday, we know that Oman proposed a framework for the strait of Hormuz and shipping routes there so that the strait can remain open without hostilities. And then shortly afterwards, we see that shots were fired towards a vessel and now the strait is completely shut down.",
+      "cn": "是的。我们来谈谈核心的调解方，对吧？阿曼和卡塔尔投入了巨大的外交资本。他们试图让这些谈判重新启动并保持活力。昨天，我们知道阿曼提出了一个关于霍尔木兹海峡和航运路线的框架，以便海峡在没有敌对行动的情况下保持开放。然后不久，我们看到有船只遭到枪击，现在海峡完全关闭了。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And so, it got me wondering, does this suggest in any way that maybe mediators could be losing their leverage between these two countries?",
+      "cn": "所以，这让我想知道，这是否在某种程度上表明调解方可能正在失去对这两个国家的影响力？"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "So leverage, I think the Iranians seem to think that they do have this leverage in this moment. You noted about the talks that Oman's having. It's been several countries involved, Oman, Qatar, and of course, Pakistan. And so interestingly, when we were talking about these latest iteration of strikes by Iran, U.S. officials said it was actually the Omani side, the southern side of the strait of Hormuz that this latest vessel was attacked.",
+      "cn": "关于影响力，我认为伊朗人似乎认为他们此刻确实拥有这种影响力。你提到了阿曼正在进行的会谈。有几个国家参与其中，阿曼、卡塔尔，当然还有巴基斯坦。有趣的是，当我们谈论伊朗最近的一系列袭击时，美国官员表示，最新遭到袭击的船只实际上是在霍尔木兹海峡的阿曼一侧，即南侧。"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "And the Iranians are saying, well, any part of the strait, we have control over it. And so that was the kind of messaging they were sending. And in this moment, the negotiators really need to scramble to make things a concerted effort to make sure that this does not escalate because it seems like we're only moving up the escalation ladder, rather the de-escalation ladder. And so in this moment, it seems that the Iranians want to keep exerting themselves that they have complete control.",
+      "cn": "而伊朗人表示，他们对海峡的任何部分都拥有控制权。这就是他们传递的信息。此时此刻，谈判代表们真的需要赶紧协调一致，确保局势不会升级，因为看起来我们只是在升级的阶梯上越走越高，而不是在降级的阶梯上。因此，目前看来，伊朗人想要继续展示他们拥有完全的控制权。"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "There will not be a northern or southern version of the strait where two different parties are controlling it.",
+      "cn": "不会出现由两方分别控制的北部或南部海峡。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes, and speaking of escalation, I mean, this conflict appears to be stuck in this pattern of military escalation, negotiations, more military escalation, more negotiation. How much of this pattern reflects really the personalities of the leadership styles of the two governments, President Trump and the Supreme Leader there in Iran? And I'm just wondering, you know, how much of this is being driven by these two leaders who believe, it appears, that fighting is almost a form of negotiation.",
+      "cn": "是的，说到升级，我的意思是，这场冲突似乎陷入了军事升级、谈判、更多军事升级、更多谈判的模式。这种模式在多大程度上反映了两国政府领导风格的特点，即特朗普总统和伊朗最高领袖？我只是想知道，这在多大程度上是由这两位领导人推动的，他们似乎认为战斗几乎是一种谈判形式。"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "Well, this leads to my earlier report. This is where the problem lies. When you have these two countries thinking that they won the war, they think that they can have the ultimate leverage over the other. So the Iranians understand that there are midterm elections coming up, the Strait of Hormuz, which they've shut down, put a strangle on the world economy, and that, you know, this is a deeply unpopular war within the United States.",
+      "cn": "嗯，这又回到了我之前的报道。问题就在这里。当这两个国家都认为自己赢得了战争时，它们认为自己可以对对方拥有最终的影响力。伊朗人明白，美国中期选举即将到来，而他们封锁的霍尔木兹海峡扼住了世界经济的咽喉，而且这场战争在美国国内非常不得人心。"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "So for them, they're saying, OK, if we keep exerting this pressure, we're going to get the best out of this potential deal that they're trying to negotiate. Granted, both sides are saying that the ceasefire no longer is in place, but it seems that there is talk still happening and ongoing, at least between negotiators --",
+      "cn": "所以对他们来说，他们在想，好吧，如果我们继续施加这种压力，我们就能从他们试图谈判的潜在协议中获得最大利益。诚然，双方都表示停火已不复存在，但似乎谈判仍在进行，至少谈判代表之间 --  --"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "-- from third-party countries. And so, the United States has also seen the same way. The more pressure --",
+      "cn": "--  -- 来自第三方国家。而美国也看到了同样的道理。压力越大 --  --"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "-- we put on the Islamic Republic, the more likely they'll bend the knee to us and give us what we want.",
+      "cn": "--  -- 我们对伊斯兰共和国施加的压力越大，他们就越有可能向我们屈服，给我们想要的东西。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Holly Dagres, thank you so much. And stick with us here for more breaking news, the tragic passing of U.S. Senator Lindsey Graham when we return from the break.",
+      "cn": "霍莉·达格雷斯，非常感谢你。请继续关注我们，获取更多突发新闻：美国参议员林赛·格雷厄姆不幸去世，我们将在广告后回来报道。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Back to our breaking news. Senator Lindsey Graham has died. The longtime Republican senator from South Carolina died from a brief and sudden illness last night, according to his office. Graham was a close ally to President Trump. The President paid tribute to Graham, calling him, quote, a true American patriot. Well, two people were killed and several others injured after a shooting at Canada's biggest Latin street festival in Toronto. A total of six people were shot.",
+      "cn": "回到我们的突发新闻。参议员林赛·格雷厄姆去世了。据其办公室称，这位来自南卡罗来纳州的长期共和党参议员昨晚因突发疾病去世。格雷厄姆是特朗普总统的亲密盟友。总统向格雷厄姆致敬，称他为\"真正的美国爱国者\"。此外，多伦多加拿大最大的拉丁街头节日发生枪击事件，造成两人死亡，数人受伤。共有六人中枪。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Police say it happened when at least two people were shooting at each other. And a Georgia teen accused of killing four people at his high school is expected to change his plea. Colt Gray, now 16, initially pleaded not guilty to killing two students and two teachers. But court documents show he'll appear in court later this month for a change of plea hearing. His trial is set to start in October. Well, heavy rain is hitting New Orleans. Here's how much rain they got enough to paddleboard down a street.",
+      "cn": "警方称，事件发生时至少有两人互相开枪。一名被指控在其高中杀害四人的乔治亚州青少年预计将改变他的抗辩。现年16岁的科尔特·格雷最初对杀害两名学生和两名教师的指控表示不认罪。但法庭文件显示，他将于本月晚些时候出庭参加抗辩变更听证会。他的审判定于十月开始。此外，新奥尔良正遭受暴雨袭击。以下是降雨量：足以让人在街上划桨板。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Officials there say some neighborhoods got more than three and a half inches of rain in an hour. CNN's Melissa Nord joins me now tracking our latest forecast. Good morning, Melissa. MELISSA NORD, CNN METEOROLOGIST (on-camera): Good morning, Rene. And a lot of heavy rain still falling across southern Louisiana this morning. We've got deep tropical moisture working off the Gulf and zooming out, a little frontal boundary kind of triggering more of those pop-up showers and thunderstorms.",
+      "cn": "当地官员表示，一些社区在一小时内降雨量超过3.5英寸。CNN的梅丽莎·诺德现在加入我们，追踪最新预报。早上好，梅丽莎。CNN气象学家梅丽莎·诺德（镜头前）：早上好，雷内。今天早上，路易斯安那州南部仍有大量强降雨。来自墨西哥湾的深层热带湿气正在扩散，一个小型锋面边界引发了更多的阵雨和雷暴。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "We could see some isolated stronger storms, especially over the Carolinas. But the bigger focus for a lot of areas will just be that southern kind of downpour that can lead to that flash flooding. Here's the high-resolution future radar this afternoon. More of those showers and storms popping up in the Carolinas, back through Louisiana and Texas. And then for tomorrow, more of the same. But locally, there could be some areas that pick up a good two to four inches over the next two days combined.",
+      "cn": "我们可能会看到一些孤立的更强风暴，尤其是在卡罗来纳地区。但许多地区更关注的是南部倾盆大雨，这可能导致山洪暴发。以下是今天下午的高分辨率未来雷达图。卡罗来纳、路易斯安那和德克萨斯地区将出现更多阵雨和风暴。明天情况类似。但局部地区在未来两天内可能会累积2到4英寸的降雨量。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Other major story, the Great Basin all the way to the upper Midwest. We've got major heat building in some of these areas. Temperatures pushing 20 or more degrees above average. Look at Billings, Montana, 87 degrees the normal. Forecast high today, 111. That would smash their all-time high record of 108. Rene?",
+      "cn": "另一个主要新闻：从大盆地一直到中西部上游地区。这些地区正在经历高温天气，气温比平均水平高出20度或更多。看看蒙大拿州比林斯，正常气温为87华氏度，今天预报最高气温为111华氏度，这将打破108华氏度的历史最高纪录。雷内？"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Thank you, Melissa. Thank you. And ahead in the next hour, we will continue our breaking news coverage of the death of U.S. Senator Lindsey Graham. He died at the age of 71. We will have live team coverage and analysis coming up in this 7 o'clock hour. var CNN = CNN || {};",
+      "cn": "谢谢你，梅丽莎。谢谢。在接下来的一个小时里，我们将继续报道美国参议员林赛·格雷厄姆去世的突发新闻。他享年71岁。我们将在7点时段进行现场团队报道和分析。"
+    },
+    {
+      "speaker": "Rene Marsh",
+      "text": "Well, it's Sunday, July 12th. Thanks so much for joining us this morning. I'm Rene Marsh in for Victor Blackwell. Now we begin with breaking news. South Carolina Senator Lindsey Graham has died. His office announced this morning that the longtime senator died from a brief and sudden illness, but did not give further details. Graham was elected to the House in 1994 and the Senate in 2002. He was running for his fifth term as senator in this fall's midterm elections.",
+      "cn": "今天是7月12日，星期日。非常感谢您今天早上收看我们的节目。我是雷内·马什，代替维克多·布莱克威尔。现在我们开始报道突发新闻。南卡罗来纳州参议员林赛·格雷厄姆去世。他的办公室今早宣布，这位长期任职的参议员因一场短暂而突发的疾病去世，但没有提供更多细节。格雷厄姆于1994年当选众议员，2002年当选参议员。他正在今年秋季的中期选举中竞选第五个参议员任期。"
+    },
+    {
+      "speaker": "Rene Marsh",
+      "text": "President Trump paid tribute to Graham in a post on Truth Social saying, \"Senator Graham, one of the greatest people and senators I have ever known, is dead. He was always working and was a true American patriot. Lindsey Graham will be greatly missed.\" Lindsey Graham had just celebrated his 71st birthday last week. CNN's Brian Todd joins us now with the very latest on what we know so far. Brian?",
+      "cn": "特朗普总统在Truth Social上发帖悼念格雷厄姆，称：\"参议员格雷厄姆，我所认识的最伟大的人和参议员之一，去世了。他一直在工作，是一位真正的美国爱国者。林赛·格雷厄姆将被深深怀念。\"林赛·格雷厄姆上周刚庆祝了他的71岁生日。CNN的布莱恩·托德现在加入我们，带来最新消息。布莱恩？"
+    },
+    {
+      "speaker": "Brian Todd",
+      "text": "Well, Rene, we do have some new information. This is coming from details that we're getting from the emergency dispatch audio. We're going to play that in just one second. What we can tell you at this hour is that Senator Graham's spokesperson said that the senator died after a, quote, \"brief and sudden illness.\" The spokesperson is saying Senator Graham's family appreciates prayers at this time and asks for privacy during this incredibly difficult period.",
+      "cn": "雷内，我们确实有一些新信息。这些信息来自我们获得的紧急调度音频。我们马上播放。目前我们可以告诉你的是，格雷厄姆参议员的发言人表示，参议员死于一场\"短暂而突发的疾病\"。发言人称，格雷厄姆的家人感谢大家的祈祷，并请求在这个极其困难的时期保护隐私。"
+    },
+    {
+      "speaker": "Brian Todd",
+      "text": "They are only saying from his side that he died of a brief and sudden illness. But here's what we can tell you. According to audio of the emergency dispatch, this is on Broadcastify. Broadcastify is an online platform for streaming live public safety communications. According to audio of that emergency dispatch, emergency responders were dispatched to a Washington, D.C., address for Senator Graham at about 8:30 p.m. on Saturday evening for a report of someone suffering from chest pains.",
+      "cn": "他们只说他死于短暂而突发的疾病。但我们可以告诉你的是，根据紧急调度音频（来自Broadcastify，一个流媒体直播公共安全通信的在线平台），紧急救援人员于周六晚上8点30分左右被派往华盛顿特区的一个地址，处理一起有人胸痛的报告。"
+    },
+    {
+      "speaker": "Brian Todd",
+      "text": "The audio indicates that someone had called in from Baltimore and was on the way to that home at that time. The dispatcher said the caller believed that the door to the home was unlocked, but when emergency responders got there, they said it was deadbolted. That is according to the audio of the emergency dispatch on Broadcastify. The audio shows that about 25 minutes later they reported that CPR was in progress. We can play for you about a 10-second clip that gives some additional detail.",
+      "cn": "音频显示，有人从巴尔的摩打来电话，当时正在前往那所房子的路上。调度员说，来电者认为房子的门是开着的，但当救援人员到达时，他们说门是锁着的。这是根据Broadcastify上的紧急调度音频。音频显示，大约25分钟后，他们报告说正在进行心肺复苏。我们可以播放一段大约10秒的片段，提供更多细节。"
+    },
+    {
+      "speaker": "Brian Todd",
+      "text": "This is from the emergency response broadcast on Broadcastify. Take a listen to this.",
+      "cn": "这是来自Broadcastify的应急响应广播。请听。"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "EMS six responds to engine seven medic seven on scene cardiac arrest. EMS six responds to engine seven medic seven with cardiac arrest.",
+      "cn": "EMS六号响应引擎七号医护七号，现场心脏骤停。EMS六号响应引擎七号医护七号，心脏骤停。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "And, again, we can just, you know, again reiterate that that call discusses cardiac arrest. We cannot confirm at this hour that Senator Graham actually died of cardiac arrest. That was a call discussing cardiac arrest, piecing it together. You can also -- we can also tell you that emergency responders were dispatched to the address for someone -- for Senator Graham at about 8:30 p.m. Saturday for a report of someone suffering from chest pains.",
+      "cn": "再次强调，我们可以重申，那个通话讨论的是心脏骤停。目前我们无法确认格雷厄姆参议员是否真的死于心脏骤停。那是一个讨论心脏骤停的通话，我们正在拼凑信息。我们还可以告诉您，周六晚上8点30分左右，急救人员被派往该地址，为格雷厄姆参议员处理一起胸痛报告。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "That is according to audio of the emergency dispatch on the service Broadcastify. The audio, again, indicates that someone had called in from Baltimore and was on the way to the home at that time at about 8:30 p.m. on Saturday. The dispatcher said the caller believed the door was unlocked, but emergency responders said it was deadbolted. That is according to that audio. And about 25 minutes later they reported that CPR was in progress.",
+      "cn": "这是根据Broadcastify服务上的紧急调度音频。音频再次显示，有人在周六晚上8点30分左右从巴尔的摩打来电话，正在前往该住所的路上。调度员说，来电者认为门没锁，但急救人员说门是锁着的。这是根据那段音频。大约25分钟后，他们报告说正在进行心肺复苏。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "We can also tell you that the governor of South Carolina, Henry McMaster, is empowered to appoint a temporary replacement for Senator Graham. We believe that Senator -- that Governor McMaster is, of course, dealing with that situation right now. Governor McMaster issued a statement posted on X saying, quote, \"Peggy and I and our children are devastated. Lindsey Graham is irreplaceable, the fiercest of fighters for South Carolina and America, and a loyal and steadfast friend.",
+      "cn": "我们还可以告诉您，南卡罗来纳州州长亨利·麦克马斯特有权任命格雷厄姆参议员的临时接替者。我们相信，麦克马斯特州长当然正在处理这一情况。麦克马斯特州长在X上发表声明称：\"佩吉、我和我们的孩子们都悲痛欲绝。林赛·格雷厄姆是不可替代的，他是南卡罗来纳州和美国最坚强的斗士，也是一位忠诚而坚定的朋友。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "We grieve with Darline, his family, and his devoted staff. May God hold him gently in the palm of his hand. We shall not see his likes again.\" That is a statement from Governor Henry McMaster of South Carolina. Governor McMaster is empowered to appoint a temporary replacement for Senator Graham. That reference to Darline is a reference to Graham's younger sister, Darline. Rene?",
+      "cn": "我们与达琳、他的家人以及他忠诚的工作人员一同哀悼。愿上帝将他温柔地捧在手心。我们再也见不到像他这样的人了。\"这是南卡罗来纳州州长亨利·麦克马斯特的声明。麦克马斯特州长有权任命格雷厄姆参议员的临时接替者。声明中提到的达琳是指格雷厄姆的妹妹达琳。雷内？"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Brian Todd, thank you. And for more, we are joined by CNN Presidential Historian Tim Naftali. He's a former director of the Nixon Presidential Library. Thanks so much for joining us this morning on this breaking news day, really shocking news surrounding the death of Senator Lindsey Graham. I want, from your perspective, when historians look back at Graham's life and his career, what do you think will be that defining chapter of his public life?",
+      "cn": "布莱恩·托德，谢谢。接下来，我们请到了CNN总统历史学家蒂姆·纳夫塔利。他曾是尼克松总统图书馆的馆长。非常感谢您今天早上加入我们，在这个突发新闻日，围绕参议员林赛·格雷厄姆去世的消息确实令人震惊。我想从您的角度来看，当历史学家回顾格雷厄姆的一生和职业生涯时，您认为他公共生活中最具定义性的篇章是什么？"
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "Well, I think there have been a few chapters of Senator Graham's life that will define his long public career. When he was in the House at the very beginning of his congressional career, he was a House manager for the impeachment of Bill Clinton. And at that time, even though he was a new member of the House, he gained national prominence in making certain arguments about impeachment and why a crime wasn't necessary to remove a president. It depended on their character and whether they brought honor to the office.",
+      "cn": "我认为格雷厄姆参议员的一生中有几个篇章将定义他漫长的公共生涯。在他国会生涯初期担任众议员时，他是弹劾比尔·克林顿的众议院管理人。那时，尽管他是众议院的新成员，但他因在弹劾问题上提出某些论点而获得全国知名度，即罢免总统不一定需要犯罪，而是取决于他们的品格以及他们是否给这一职位带来荣誉。"
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "When he replaced Strom Thurmond in the Senate, Lindsey Graham gained in national recognition as Republicans gained control of the Senate. Lindsey Graham was famous for reaching across the aisle. He worked with Senator Ted Kennedy on immigration reform. He was known to -- he spoke of the importance of bipartisanship, although he was very clear about his own conservative values. In foreign policy, he was an advocate of a strong American presence and a strong American involvement in international affairs.",
+      "cn": "当他在参议院接替斯特罗姆·瑟蒙德时，随着共和党控制参议院，林赛·格雷厄姆获得了全国认可。林赛·格雷厄姆以跨越党派界限而闻名。他与参议员泰德·肯尼迪合作进行移民改革。他以强调两党合作的重要性而闻名，尽管他非常明确自己的保守价值观。在外交政策上，他主张美国在国际事务中保持强大存在和积极参与。"
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "He was viewed as a neoconservative in the George W. Bush era. He was a strong advocate for Israel, but also a strong advocate for NATO and in most recent years for Ukraine. He was in 2008, but well before then, a very close ally of Republican nominee, Senator John McCain. Indeed, they were considered very close friends. And so he was associated with Senator McCain's views of foreign policy and also with Senator McCain's willingness to work with Democrats.",
+      "cn": "在乔治·W·布什时代，他被视为新保守主义者。他是以色列的坚定支持者，也是北约的坚定支持者，近年来更是乌克兰的坚定支持者。他在2008年，甚至更早，就是共和党候选人约翰·麦凯恩参议员的亲密盟友。事实上，他们被认为是亲密的朋友。因此，他与麦凯恩参议员的外交政策观点以及麦凯恩参议员愿意与民主党合作的立场相关联。"
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "The next phase is the phase, of course, that is most recent, which is where Senator Graham became close to Donald Trump, President Trump. And at times seemed to be contradicting, if only in spirit, but perhaps in act, some of the commitments that he had shown to the ideas of John McCain and also to the bipartisanship that had shaped some of his actions in the first couple of decades of his time in Washington.",
+      "cn": "下一个阶段当然是最近的阶段，即格雷厄姆参议员与唐纳德·特朗普、特朗普总统关系密切。有时，他似乎至少在精神上，或许也在行动上，与他曾对约翰·麦凯恩理念以及塑造他在华盛顿头二十年部分行动的两党合作所表现出的承诺相矛盾。"
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "In most recent years, despite the friendship, the clear friendship with Donald Trump, Senator Graham has continued to support NATO and has viewed the plight of Ukrainians as something that is a concern of American international security. And he has viewed -- and continued to view Russia as a threat. So when looking at his career, one sees a man with conservative values who represents in the big transformation, political transformation of the South.",
+      "cn": "近年来，尽管与唐纳德·特朗普有着明显的友谊，格雷厄姆参议员仍继续支持北约，并将乌克兰人的困境视为美国国际安全关切的一部分。他始终将俄罗斯视为威胁。因此，纵观其职业生涯，他是一位代表南方巨大政治转型的保守派人士。"
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "Lindsey Graham replaced a Democrat when he was elected in the -- to the House from South Carolina and replaced Strom Thurmond. Strom Thurmond had started his career as a Democrat running against Harry Truman for the nomination of the Democratic Party in 1948. He switched to the Republican Party, but Lindsey Graham had been elected as a Republican. So Graham's career indicated was part of the shift to a solid South or somewhat solid South now for the Republican Party.",
+      "cn": "林赛·格雷厄姆在当选南卡罗来纳州众议员时取代了一名民主党人，并接替了斯特罗姆·瑟蒙德。瑟蒙德的政治生涯始于民主党，1948年曾与哈里·杜鲁门竞争民主党总统候选人提名。他后来转投共和党，但格雷厄姆是以共和党人身份当选的。因此，格雷厄姆的职业生涯标志着南方转向共和党，或者说如今南方基本成为共和党的稳固票仓。"
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "And though he showed a desire for bipartisanship throughout most of his career, in recent years, he has seemed more partisan as he got closer to Donald Trump.",
+      "cn": "尽管他在职业生涯大部分时间表现出对两党合作的渴望，但近年来，随着与唐纳德·特朗普关系日益密切，他显得更加党派化。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes. And his evolution on all of the things that you laid out certainly is a part of his legacy as well. Tim Naftali, thank you so much for joining us this morning. And we have more breaking news coverage on the death of Senator Lindsey Graham. Coming up, Graham's work on the world stage and the tributes pouring in from international leaders after the break.",
+      "cn": "是的。他在你提到的所有问题上的演变，无疑也是他政治遗产的一部分。蒂姆·纳夫塔利，非常感谢您今早参与节目。接下来我们将继续报道参议员林赛·格雷厄姆去世的突发新闻。稍后请看格雷厄姆在国际舞台上的工作以及国际领导人纷纷致哀的报道。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Well, this morning we are seeing reaction to the sudden death of South Carolina Republican Senator Lindsey Graham. Graham was known for his advocacy and strong support for Israel. And just hours after news broke of his death, several Israeli leaders have expressed their sadness at his passing. Israeli Prime Minister Benjamin Netanyahu posted this in part on social media, quote, \"Israel has lost one of its greatest friends. America lost a great patriot.",
+      "cn": "今早，我们看到了南卡罗来纳州共和党参议员林赛·格雷厄姆突然去世引发的反应。格雷厄姆以倡导和坚定支持以色列而闻名。在他去世消息传出仅数小时后，多位以色列领导人表达了哀悼。以色列总理本雅明·内塔尼亚胡在社交媒体上发文称：\"以色列失去了一位最伟大的朋友。美国失去了一位伟大的爱国者。我失去了一位挚友。\""
+    },
+    {
+      "speaker": "Marsh",
+      "text": "I have lost a beloved friend.\" Well, for reaction in Israel, we turn now to Jerusalem Bureau Chief Oren Liebermann. Oren, 2 o'clock in the afternoon there. What are you hearing from people as far as reaction to the shocking news?",
+      "cn": "接下来，我们连线耶路撒冷分社社长奥伦·利伯曼，了解以色列方面的反应。奥伦，那里是下午两点，人们对此震惊消息有何反应？"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "Rene, Israel sees the passing of Senator Lindsey Graham as a huge loss. He was a passionate advocate for Israel, a staunch supporter of Israel. And he was hawkish on Iran as well as Israel's other adversaries in the region. And that made him Israel's great ally in Washington. He would advocate for Israel to have more funding when it came to missile defense. He was a big proponent of that.",
+      "cn": "蕾妮，以色列将参议员林赛·格雷厄姆的去世视为巨大损失。他是以色列的热情倡导者和坚定支持者。他对伊朗以及以色列在该地区的其他对手持强硬立场，这使他成为以色列在华盛顿的重要盟友。他主张为以色列的导弹防御提供更多资金，并大力支持这一点。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "And then he visited often, and not only since October 7, 2023, for decades here, likely going back to when he became a senator in 2002. He would visit Israel. He would hold press conferences here. He would meet not only the media but also officials. Of course, he would meet Prime Minister Benjamin Netanyahu and others repeatedly. He made it a point to be very openly and publicly pro-Israel.",
+      "cn": "他经常访问以色列，不仅自2023年10月7日以来，而是几十年来一直如此，可能追溯到2002年他成为参议员时。他会访问以色列，在这里举行新闻发布会，不仅会见媒体，还会见官员。当然，他会反复会见本雅明·内塔尼亚胡总理等人。他公开明确地支持以色列。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "And that's why Israeli officials, not just from the coalition, not just from Netanyahu's side, but also from the opposition, view his passing as a huge loss. You saw some of the statement there from Netanyahu. Let me read you just a couple of other statements. Former Prime Minister Naftali Bennett and one of Netanyahu's key challengers in the upcoming election said, quote, \"I am heartbroken to hear of the passing of my friend Senator Lindsey Graham.",
+      "cn": "这就是为什么以色列官员 --  -- 不仅来自执政联盟和内塔尼亚胡阵营，也包括反对派 --  -- 将他的去世视为巨大损失。你看到了内塔尼亚胡的部分声明。让我再读几份其他声明。前总理纳夫塔利·贝内特 --  -- 内塔尼亚胡在即将到来的选举中的主要挑战者之一 --  -- 表示：\"听闻我的朋友参议员林赛·格雷厄姆去世，我心碎不已。美国失去了一位忠诚的爱国者，以色列失去了一位最伟大的朋友。\""
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "America has lost a devoted patriot, and Israel has lost one of its greatest friends.\" Former Defense Minister Avigdor Lieberman said in a statement, \"Republican Senator Lindsey Graham, one of the greatest supporters of the state of Israel, has passed away.",
+      "cn": "前国防部长阿维格多·利伯曼在一份声明中说：\"共和党参议员林赛·格雷厄姆，以色列国最伟大的支持者之一，已经去世。\""
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "For years he stood by our side, even when it required courage and even when it involved significant criticism.\" And then former Prime Minister Yair Lapid said, \"Lindsey had unwavering moral clarity, a deep devotion of the people of Israel and a clear vision for a secure and peaceful Middle East.\" Even when there was a break between Netanyahu and President Donald Trump, some sort of division on how to handle a regional issue, Graham had Israel's ear, and he would be able to go to Trump and advocate Israel's",
+      "cn": "多年来，他一直站在我们身边，即使这需要勇气，即使这招致了严厉批评。\" 随后，前总理亚伊尔·拉皮德表示：\"林赛有着坚定不移的道德清晰度、对以色列人民的深厚奉献，以及对一个安全和平的中东的明确愿景。\" 即使在内塔尼亚胡与唐纳德·特朗普总统之间出现分歧，即在如何处理地区问题上存在某种分裂时，格雷厄姆仍能倾听以色列的意见，并且他能够去找特朗普，为以色列的立场辩护，或至少试图在这些问题上影响特朗普的想法。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "position or at least try to sway Trump's thinking when it came to some of these issues. And, of course, crucially, especially at this time, that was on Iran. He openly expressed skepticism that Iran was negotiating in good intent and that it would stick to the terms of the Memorandum of Understanding or that that 60-day negotiation window would ever lead to a final agreement. Israel, and specifically Netanyahu, have had those same doubts about Iran.",
+      "cn": "当然，关键的是，尤其是在这个时候，那就是关于伊朗的问题。他公开表示怀疑伊朗是否在真诚谈判，是否会遵守谅解备忘录的条款，或者那60天的谈判窗口是否会最终达成协议。以色列，特别是内塔尼亚胡，对伊朗也有同样的疑虑。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "And for Israel, it was frankly critical to have somebody in Washington, to have Graham, who was so close to Trump, advocating caution on the MOU, on Iran, and frankly advocating for, if necessary, a return to strikes, a return to the joint U.S.- Israeli military campaign. And that's just one of the many reasons that Israel viewed Graham as such an important ally in Washington. And at this point, it's unclear who will take that place.",
+      "cn": "对以色列来说，坦率地说，在华盛顿有像格雷厄姆这样与特朗普关系密切的人，在谅解备忘录和伊朗问题上倡导谨慎，并在必要时主张恢复打击、恢复美以联合军事行动，是至关重要的。而这只是以色列将格雷厄姆视为华盛顿重要盟友的众多原因之一。目前，尚不清楚谁将接替他的位置。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "According to an Israeli source, Netanyahu is considering going to the funeral of Senator Lindsey Graham, whenever that's scheduled here in the coming days. That, too, may also give him a chance to meet Trump. The two, in their last known phone call or publicly acknowledged phone call, had talked about meeting in the near future, although a date hadn't been scheduled yet, so perhaps that happens around the funeral of Senator Lindsey Graham. Rene?",
+      "cn": "据一位以色列消息人士称，内塔尼亚胡正在考虑参加参议员林赛·格雷厄姆的葬礼，无论葬礼在未来几天何时举行。这也可能让他有机会与特朗普会面。两人在最近一次已知或公开承认的通话中，曾讨论过在不久的将来会面，尽管尚未确定具体日期，因此可能会在参议员林赛·格雷厄姆的葬礼前后进行。蕾妮？"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Oren, thank you. And Senator Graham's final foreign trip was actually to Ukraine, another place that he was a fierce advocate for Ukraine. And on Friday, he met with Ukrainian President Volodymyr Zelenskyy. And in a social media post, Zelenskyy commented on Graham's relentless diplomatic work to support Ukraine in its battle against Russia. Now, CNN's International Diplomatic Editor Nic Robertson, he joins us now with more on this part of Graham's legacy. Nic?",
+      "cn": "奥伦，谢谢。格雷厄姆参议员的最后一次外访实际上是去乌克兰，这是另一个他强烈支持的地方。周五，他会见了乌克兰总统弗拉基米尔·泽连斯基。泽连斯基在社交媒体上评论了格雷厄姆为支持乌克兰对抗俄罗斯而进行的不懈外交工作。现在，CNN国际外交编辑尼克·罗伯逊将加入我们，带来更多关于格雷厄姆这一部分遗产的报道。尼克？"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "Yes, and it's a legacy that's so important, not just to Ukraine, but to Ukraine's European partners, who were so concerned about President Trump's sort of MAGA-based, more isolationist vision of the United States' future on the global stage, on foreign policy issues like Ukraine, like confronting President Putin. That they saw Lindsey Graham as somebody that was a kindred spirit, the sort of old-school republicanism on foreign policy, as you will, willing to intervene.",
+      "cn": "是的，这份遗产非常重要，不仅对乌克兰，而且对乌克兰的欧洲伙伴也是如此。他们非常担心特朗普总统基于MAGA的、更加孤立主义的美国在全球舞台上的未来愿景，尤其是在乌克兰和对抗普京总统等外交政策问题上。他们认为林赛·格雷厄姆是一个志同道合的人，是那种在外交政策上持老派共和党立场、愿意干预的人。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "Maybe they didn't back him on all the interventions like Iran and things like that. But when it came to Ukraine, you get a sense of that from what we've heard from the NATO Secretary General, Mark Rutte, mourning the passing of Lindsey Graham, but saying that he was, you know, strongly believed in the NATO alliance and that he was working on trying to bring an end to the war. And that is something that we've heard from President Zelenskyy.",
+      "cn": "也许他们并不支持他在伊朗等问题上的所有干预。但谈到乌克兰，我们从北约秘书长马克·吕特的发言中能感受到这一点。吕特哀悼林赛·格雷厄姆的去世，但表示他坚信北约联盟，并致力于努力结束战争。这也是我们从泽连斯基总统那里听到的。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "You know, President Zelenskyy has talked about the 10 times that the senator visited, Lindsey Graham visited Ukraine during Russia's war there since 2022. So a phenomenal high number of visits. And remembering, these visits are not easy. You're going into an active war zone. You're going into Kyiv, a city that is under active and almost daily attack by Russia. It's not somewhere you can fly into. So the transport, the getting there is difficult and takes a long time. So not an easy thing to do.",
+      "cn": "你知道，泽连斯基总统曾提到，自2022年俄罗斯发动战争以来，这位参议员访问了乌克兰10次。这是一个非常高的访问次数。而且要知道，这些访问并不容易。你要进入一个活跃的战区，进入基辅，一个几乎每天遭受俄罗斯攻击的城市。那里不能乘飞机进入。所以交通、到达那里都很困难，需要很长时间。这不是一件容易的事。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "And that, to the Ukrainians, was hugely important. President Zelenskyy saying that Senator Graham was there whenever the country needed him. And they needed him because he could communicate, as Oren was saying, for Netanyahu in the White House, that he could communicate with President Trump. And that was the value to the Europeans as well. Go back to remembering that moment when President Trump had the horrible falling out of President Zelenskyy early last year.",
+      "cn": "这对乌克兰人来说非常重要。泽连斯基总统表示，每当国家需要他时，格雷厄姆参议员都在那里。他们需要他，因为他能够像奥伦所说的那样，为内塔尼亚胡在白宫沟通，能够与特朗普总统沟通。这对欧洲人来说也是价值所在。回想一下去年初特朗普总统与泽连斯基总统发生严重冲突的时刻。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "The Europeans responded by forming the Coalition of the Willing. It was Lindsey Graham that was a U.S. representative on that Coalition of the Willing because he understood the importance of standing with Ukraine. So on this latest trip, he spoke about his latest efforts to try to get an end to the war. This is what he said. SEN. LINDSEY GRAHAM (R),",
+      "cn": "欧洲人的回应是组建了意愿联盟。林赛·格雷厄姆是该联盟中的美国代表，因为他理解支持乌克兰的重要性。因此，在最近这次访问中，他谈到了他为结束战争所做的最新努力。以下是他所说的话。参议员林赛·格雷厄姆（共和党）："
+    },
+    {
+      "speaker": "South Carolina",
+      "text": "We've reached agreement with the White House on a version of the Russian sanctions bill that they will support. It means it's going to become law. So when I get back to Washington, I'm going to go with Senator Blumenthal, to the Republican and Democratic leader to see if we can find time to move this Russian sanctions package that would give tools to President Trump to help end this war.",
+      "cn": "我们已与白宫就他们支持的俄罗斯制裁法案版本达成一致。这意味着它将成为法律。所以当我回到华盛顿后，我将与参议员布卢门撒尔一起去找共和党和民主党领袖，看看能否找到时间推进这项俄罗斯制裁方案，该方案将为特朗普总统提供工具，以帮助结束这场战争。"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "And ending the war is exactly what the European partners wanted. And of course, Europeans also have been pressuring President Trump to put more sanctions on Russia to bring the economic impact on Russia. Another kind of important point that Lindsey Graham made during that visit to Kyiv was pointing out that China's support for President Putin was key and vital to keeping the war going. He was all about putting more pressure on China to end that support as well.",
+      "cn": "结束战争正是欧洲伙伴们所期望的。当然，欧洲人也一直在向特朗普总统施压，要求对俄罗斯实施更多制裁，以对俄罗斯经济造成影响。林赛·格雷厄姆在访问基辅期间提出的另一个重要观点是，指出中国对普京总统的支持是战争持续的关键和重要因素。他主张向中国施加更大压力，以结束这种支持。"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "So he got the big global picture in the same way that the United States' international allies did that oftentimes it was perceived President Trump didn't.",
+      "cn": "因此，他与美国的国际盟友一样，看到了全局，而人们常常认为特朗普总统没有看到这一点。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Nic Robertson, thank you so much for that perspective. And stick with CNN, we'll have more on our breaking news on the coverage of the death of U.S. Senator Lindsey Graham right after this break. Reaction from Capitol Hill where he was a strong voice for President Trump's agenda.",
+      "cn": "尼克·罗伯逊，非常感谢你的分析。请继续关注CNN，我们将在广告后带来更多关于美国参议员林赛·格雷厄姆去世的突发新闻。来自国会山的反应，他是特朗普总统议程的有力支持者。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "We are continuing to follow the breaking news out of Washington. Longtime Republican Senator Lindsey Graham has died from a, quote, \"brief and sudden illness.\" His office announced this earlier this morning. Graham served as a senator for South Carolina for more than two decades. Initial 911 audio revealed emergency personnel respond to a call for chest pains at Graham's home in D.C. around 8:30 in the evening. EMS reported that CPR was in progress about 25 minutes later.",
+      "cn": "我们继续关注来自华盛顿的突发新闻。长期担任共和党参议员的林赛·格雷厄姆因\"短暂突发疾病\"去世。他的办公室今早宣布了这一消息。格雷厄姆担任南卡罗来纳州参议员超过二十年。最初的911录音显示，紧急救援人员于晚上8点30分左右接到格雷厄姆在华盛顿家中胸痛的求助电话。急救人员报告称，大约25分钟后正在进行心肺复苏。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Senator Graham had a brief run for the Republican presidential nomination in 2015 when he was a critic of Donald Trump. But that changed after Trump took office in 2017. Graham quickly became a vocal ally. By Trump's second term, Graham became one of Trump's most trusted voices in the Senate. And Senator Graham was also known as a foreign policy hawk. He fiercely defended U.S. support for Israel and Ukraine. In fact, he had just returned from Kyiv where he met with Ukrainian President Zelenskyy on Friday.",
+      "cn": "格雷厄姆参议员在2015年曾短暂竞选共和党总统候选人提名，当时他是唐纳德·特朗普的批评者。但特朗普在2017年上任后，情况发生了变化。格雷厄姆迅速成为特朗普的直言不讳的盟友。到特朗普第二任期时，格雷厄姆已成为参议院中特朗普最信任的声音之一。格雷厄姆参议员还以外交政策鹰派著称。他坚决捍卫美国对以色列和乌克兰的支持。事实上，他刚从基辅返回，周五在那里会见了乌克兰总统泽连斯基。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Lindsey Graham turned 71 just last week. With us now is CNN Chief Congressional Correspondent Manu Raju. Manu, you know, you have been on Capitol Hill for decades and you have known Lindsey Graham for decades. From your perspective, what will be his lasting legacy?",
+      "cn": "林赛·格雷厄姆上周刚满71岁。现在连线的是CNN首席国会记者马努·拉朱。马努，你在国会山工作了几十年，也认识林赛·格雷厄姆几十年。从你的角度看，他留下的持久遗产是什么？"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "Well, it will be profound. He was a towering figure in the United States Senate and in Republican politics, an influential voice not just on foreign policy. Of course, he has been a longtime interventionist, and the interventionist wing of the Republican Party has not shifted away from that stance throughout his very long career, but also on the domestic front as well. He plays such a key role on so many issues and was the person that really drove the debate on Capitol Hill on some of those critical issues.",
+      "cn": "嗯，这将意义深远。他是美国参议院和共和党政治中的一位重要人物，不仅在对外政策上具有影响力。当然，他长期以来一直是干预主义者，共和党内的干预主义派别在他漫长的职业生涯中从未偏离这一立场，而且在国内事务上也是如此。他在许多问题上都扮演着关键角色，并且是在国会山推动一些关键问题辩论的人。"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "I mean, just even back when he was a member of the House, he was one of the impeachment managers for the Clinton impeachment trial, the Bill Clinton impeachment trial. That really put him on the map nationally. Then ultimately, he ran for the United States Senate, won the United States Senate seat. He was a longtime ally of the late Senator John McCain, as well as the late Senator Joe Lieberman. They were referred to as the three amigos on Capitol Hill because they often broke ranks with their own party.",
+      "cn": "我的意思是，早在他担任众议员时，他就是克林顿弹劾案（比尔·克林顿弹劾案）的弹劾经理之一。这让他真正在全国范围内声名鹊起。最终，他竞选美国参议员并赢得了参议院席位。他是已故参议员约翰·麦凯恩以及已故参议员乔·利伯曼的长期盟友。他们在国会山被称为\"三剑客\"，因为他们经常与自己的党派意见相左。"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "They cut bipartisan deals. Lindsey Graham, a dealmaker on immigration, a supporter of comprehensive immigration reform, an issue that got him so much trouble from the right flank of his party, facing a Tea Party threat that threatened his career back in the 2014 primary. He ultimately fended that off by some shrewd and deft maneuvering, defending his bipartisan deal making, even on issues like climate change, things that were not within the GOP orthodoxy.",
+      "cn": "他们达成两党协议。林赛·格雷厄姆是移民问题上的交易撮合者，支持全面移民改革，这个问题让他在党内右翼中遇到很多麻烦，在2014年初选中面临茶党威胁，危及他的政治生涯。他最终通过精明而巧妙的策略化解了威胁，捍卫了他的两党合作，甚至在气候变化等问题上也是如此，而这些并不符合共和党的正统观念。"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "And you mentioned him being a staunch critic of Donald Trump when he ran for president back in 2016. That presidential race did not go over for him. But he warned Republicans about backing Donald Trump, warning that it would destroy the party.",
+      "cn": "你提到他在2016年竞选总统时是唐纳德·特朗普的坚定批评者。那场总统竞选对他来说并不顺利。但他警告共和党人不要支持唐纳德·特朗普，警告说这会毁掉共和党。"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "Ultimately, he decided that he made the wrong calculation there, siding with Donald Trump time and time again, aligning himself, becoming a frequent golf partner of Trump's, defending him on some of the more controversial issues throughout Trump's 10 years here in public life. Ultimately, something that his departure, people will remember in these later years of him being that stalwart ally of Donald Trump. But he did break with his party.",
+      "cn": "最终，他认定自己当初的判断有误，一次又一次地站在唐纳德·特朗普一边，与他结盟，成为特朗普频繁的高尔夫球友，并在特朗普公开生活的十年里，在一些更具争议的问题上为他辩护。最终，他的离世让人们记住的是他晚年作为唐纳德·特朗普坚定盟友的形象。但他确实与自己的政党决裂了。"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "He warned his party time and time again that it was time to cut deals with Democrats. That happened during the Obama years as well. Remember, he voted for the two Supreme Court justices that Barack Obama put on the Supreme Court. But he also played a critical role in getting Brett Kavanaugh confirmed to the Supreme Court during those very contentious hearings on Capitol Hill, playing a role that really won him over with the right flank of his party.",
+      "cn": "他一次又一次地警告自己的政党，是时候与民主党达成协议了。这在奥巴马执政时期也是如此。记得吗，他投票支持了巴拉克·奥巴马提名的两位最高法院大法官。但他也在国会山那些充满争议的听证会上，为布雷特·卡瓦诺获得最高法院确认发挥了关键作用，这一角色确实为他赢得了党内右翼的支持。"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "People had been skeptical of those bipartisan deals over the years. So, he leaves a very profound, complex legacy on the Hill, where he played such a mighty role on some of these key issues that really have affected Americans' lives and people around the world, given his role on the international front as well.",
+      "cn": "多年来，人们一直对这些两党协议持怀疑态度。因此，他在国会山留下了非常深远而复杂的遗产，他在一些关键问题上发挥了巨大作用，这些问题确实影响了美国人民和世界各地的人们，考虑到他在国际舞台上的角色也是如此。"
+    },
+    {
+      "speaker": "Rene Marsh",
+      "text": "And, Manu, I mean, you really got to know him very well. I mean, tell us more. What was Senator Graham like on Capitol Hill during your interactions with him?",
+      "cn": "马努，我是说，你真的很了解他。跟我们多讲讲吧。在你与格雷厄姆参议员的互动中，他在国会山是什么样的人？"
+    },
+    {
+      "speaker": "Raju",
+      "text": "He was very witty. He was very someone who was quick with a good quote. He didn't always want to talk to the press. Sometimes he was very clear. He did not want anything to do with talking to reporters. He was busy. He was oftentimes on his phone walking through the halls of the Capitol. But when he wanted to talk, he would let loose. He was not afraid to dive very into his views. If he had a controversial position on something, he would defend that controversial position.",
+      "cn": "他非常风趣。他反应很快，总能说出精彩的话。他并不总是想和媒体交谈。有时他非常明确，不想和记者有任何交流。他很忙，经常一边走路穿过国会大厦走廊一边打电话。但当他想说话时，他会畅所欲言。他不怕深入阐述自己的观点。如果他在某件事上有争议的立场，他会为那个争议立场辩护。"
+    },
+    {
+      "speaker": "Raju",
+      "text": "He was someone who reporters like myself would often stake out, as you can see there on your screen, because knowing that he had something to say about something very critical, he could help drive the debate on a number of issues. I mean, reporters would stake out a key position in the Senate basement, knowing that he was going to leave his office and walk to the Senate floor through that position that became known as the Russell basement stakeout location.",
+      "cn": "他是像我这样的记者经常蹲守的对象，正如你在屏幕上看到的那样，因为知道他对一些非常重要的事情有话要说，他可以在许多问题上推动辩论。我的意思是，记者们会在参议院地下室的一个关键位置蹲守，知道他会离开办公室，穿过那个后来被称为\"罗素地下室蹲守点\"的位置走向参议院会场。"
+    },
+    {
+      "speaker": "Raju",
+      "text": "I started covering him there on Capitol Hill because he would go by there and stop and talk to reporters there. So, he was someone frequently to speak to, a towering figure, a person that a lot of people on Capitol Hill will miss. And you're hearing that outpouring of shock and concern and people remembering him at this moment after his sudden death overnight.",
+      "cn": "我开始在国会山报道他，因为他会经过那里，停下来和记者交谈。所以，他是一个经常发言的人，一个高大的人物，国会山的很多人都会想念他。在他昨晚突然去世后，你听到了人们涌出的震惊、关切和怀念之情。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Thank you, Manu. And I know you're going to have a lot more on this. Be sure to catch Manu at the top of the hour for \"Inside Politics Sunday\" for much more on the passing of Lindsey Graham. We're also watching the breaking news in the war with Iran as the U.S. targets Iranian military sites in their latest strikes.",
+      "cn": "谢谢你，马努。我知道你还会报道更多。请务必在整点收看马努的《周日内部政治》节目，了解更多关于林赛·格雷厄姆去世的消息。我们也在关注与伊朗战争的突发新闻，美国在最新一轮打击中 targeting 了伊朗军事基地。"
+    },
+    {
+      "speaker": "Announcer",
+      "text": "This is CNN Breaking News.",
+      "cn": "这里是CNN突发新闻。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Well, taking a live look at the traffic in the Strait of Hormuz right now. The Joint Maritime Information Center says it's open to two-way traffic. That's despite Iran's claim it is closed. But the security threat level in the waterway remains severe. And in recent hours, U.S. Central Command shared new video of strikes the U.S. military says it carried out on 140 Iranian military targets. The U.S. is blaming the Islamic Revolutionary Guard Corps for an attack on a merchant ship in the Strait.",
+      "cn": "现在让我们实时看一下霍尔木兹海峡的交通情况。联合海事信息中心表示，该海峡双向通行开放，尽管伊朗声称已关闭。但该水道的安全威胁等级仍然严重。最近几小时，美国中央司令部发布了新的视频，显示美军对伊朗140个军事目标进行了打击。美国指责伊斯兰革命卫队袭击了海峡中的一艘商船。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "CNN's Nada Bashir joins me now. Nada, what are we hearing or learning about the latest with these strikes this morning?",
+      "cn": "CNN的纳达·巴希尔现在加入我们。纳达，关于今早这些打击的最新情况，我们听到了什么或了解到了什么？"
+    },
+    {
+      "speaker": "Nada Bashir",
+      "text": "Well, this is the third round of U.S. strikes targeting Iran that we have seen in recent days. And this comes, of course, after the Iranian regime confirmed that it would be shutting the Strait of Hormuz down once again to the key shipping access route. And, of course, we've been learning more from the U.S. military as well. We've heard from the U.S. Central Command saying that they hit around 140 targets in Iran. That includes missile and drone sites, naval capabilities.",
+      "cn": "这是近几天我们看到的第三轮美国针对伊朗的打击。当然，这是在伊朗政权确认将再次关闭霍尔木兹海峡这一关键航运通道之后发生的。而且，我们也从美军那里了解到更多信息。美国中央司令部表示，他们打击了伊朗境内约140个目标，包括导弹和无人机基地、海军设施。"
+    },
+    {
+      "speaker": "Nada Bashir",
+      "text": "That also includes ammunition storage facilities in Iran, as well as communication networks and coastal surveillance locations. Now, of course, the Strait of Hormuz continues to be a key stumbling block in efforts to mediate some sort of peaceful resolution between the U.S. and Iran. Iran has accused vessels of traveling through the Strait of Hormuz through an unauthorized route.",
+      "cn": "还包括伊朗的弹药储存设施，以及通信网络和海岸监视地点。当然，霍尔木兹海峡仍然是调解美伊和平解决努力中的关键障碍。伊朗指责船只通过未经授权的路线穿越霍尔木兹海峡。"
+    },
+    {
+      "speaker": "Nada Bashir",
+      "text": "So, not using that corridor outlined by the Iranian regime along its coastal front, but rather using a corridor closer to the coast of Oman. But, of course, this also comes as Iran and Oman carry out bilateral talks. We saw on Saturday Iran's foreign minister meeting with his Omani counterpart, Bashar al-Assad.",
+      "cn": "也就是说，没有使用伊朗政权在其沿海前沿划定的走廊，而是使用了靠近阿曼海岸的走廊。但当然，这也发生在伊朗和阿曼进行双边会谈之际。我们看到周六伊朗外长会见了阿曼外长巴沙尔·阿萨德。"
+    },
+    {
+      "speaker": "Nada Bashir",
+      "text": "where, according to sources, discussions were had focusing on trying to establish some sort of equal control mechanism over the Strait of Hormuz to allow for two separate passage routes, including, of course, the Iranian corridor, but also through the coast of Oman as well. It's unclear at this stage whether there has been any firm resolution from those talks or whether that will be supported and championed by allies and neighbors in the Gulf region and, of course, the United States as well.",
+      "cn": "据消息人士称，会谈重点试图建立某种对霍尔木兹海峡的平等控制机制，以允许两条独立的通行路线，当然包括伊朗走廊，但也包括阿曼海岸。目前尚不清楚这些会谈是否达成了任何确定的解决方案，也不清楚是否会得到海湾地区盟友和邻国以及美国的支持和倡导。"
+    },
+    {
+      "speaker": "Nada Bashir",
+      "text": "And what we have seen in response to U.S. attacks on Iran just in the last 24 hours is, of course, retaliatory strikes by the IRGC as well, targeting U.S. allies in the Gulf, targeting military assets in the Gulf. We've heard from some of those Gulf nations saying that interceptions were carried out in the early hours of Sunday morning, that there were detected threats from Iran as well. And there are real fears that this could certainly destabilize those efforts to restart mediation efforts.",
+      "cn": "而在过去24小时内，针对美国对伊朗的袭击，我们看到伊斯兰革命卫队也进行了报复性打击，目标是美国在海湾地区的盟友和军事资产。我们听到一些海湾国家表示，周日凌晨进行了拦截，并检测到来自伊朗的威胁。人们真正担心这可能会破坏重启调解努力的努力。"
+    },
+    {
+      "speaker": "Nada Bashir",
+      "text": "We know that Iranian officials have made contact with officials in Pakistan, again, a key mediator in that initial memorandum of understanding. But at this stage, we are hearing very stark rhetoric from both the U.S., the Trump administration and the Iranian regime. And there are fears that this could certainly destabilize those efforts to mediate a renewed peace agreement.",
+      "cn": "我们知道伊朗官员已经与巴基斯坦官员进行了接触，巴基斯坦是那份初步谅解备忘录的关键调解方。但目前，我们听到来自美国特朗普政府和伊朗政权都非常强硬的言论。人们担心这可能会破坏调解新和平协议的努力。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Nada Bashir, thank you for that. And after President Trump declared that ceasefire agreement with Iran to be over, global oil prices started rising again. I want to go to Tom Kloza. He's the chief energy advisor for Gulf Oil. Tom, you have been in this space for decades now, and I'm interested in your perspective. I mean, Americans are seeing gas prices tick up.",
+      "cn": "纳达·巴希尔，谢谢你的报道。在特朗普总统宣布与伊朗的停火协议结束后，全球油价再次开始上涨。我想连线汤姆·克罗扎，他是海湾石油公司的首席能源顾问。汤姆，你在这个领域已经几十年了，我对你的观点很感兴趣。我的意思是，美国人看到油价在上涨。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "How much of this is directly tied to the Iran conflict and the war in Ukraine? And really, how much higher do you think that these gas prices could go in the near-term?",
+      "cn": "这其中有多少直接与伊朗冲突和乌克兰战争有关？实际上，你认为近期油价还能上涨多少？"
+    },
+    {
+      "speaker": "Tom Kloza",
+      "text": "Well, I don't suspect we're going to see a spike in gas prices anytime soon, although we may go up back above four dollars here on the loss of some of the crude departures from the Persian Gulf. You know, we've got our eyes focused on the Strait of Hormuz and the Persian Gulf and the Iran war. But what's happening in the Ukraine- Russia war is really having more of an impact on U.S. gasoline prices. Overnight, another 5 percent of Russian refining was knocked out by Ukrainian drones.",
+      "cn": "嗯，我不认为我们很快会看到油价飙升，尽管由于波斯湾部分原油出口中断，油价可能会回升至每加仑4美元以上。你知道，我们一直关注霍尔木兹海峡、波斯湾和伊朗战争。但乌克兰-俄罗斯战争实际上对美国汽油价格的影响更大。一夜之间，乌克兰无人机又摧毁了俄罗斯5%的炼油能力。"
+    },
+    {
+      "speaker": "Tom Kloza",
+      "text": "And, you know, that together with the loss of refining in the Persian Gulf, with the loss of refining or messy operations in South America has made it so that there's plenty of crude oil for the moment, but there's not plenty of gasoline and there's particularly not plenty of diesel fuel.",
+      "cn": "而且，你知道，再加上波斯湾炼油能力的损失，以及南美炼油能力的损失或运营混乱，导致目前原油供应充足，但汽油供应不足，尤其是柴油供应不足。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And I hear you because you're what you're saying is it sounds like you're saying the Russia-Ukraine war and that conflict is the bigger driver of gas prices right now, despite our focus on the Strait of Hormuz. But I'm wondering, you know, when does that change? I mean, we don't really know when things will be resolved in the Strait of Hormuz. We know that Iran said that the Strait is closed and we're clearly not any closer to peace in that region.",
+      "cn": "我明白你的意思，因为你说听起来像是俄乌战争和冲突目前是汽油价格的主要驱动因素，尽管我们关注霍尔木兹海峡。但我想知道，这种情况何时会改变？我的意思是，我们真的不知道霍尔木兹海峡的问题何时会解决。我们知道伊朗说海峡已经关闭，而且我们显然离该地区的和平还差得很远。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Is there a deadline for, you know, the uncertainty for the Strait of Hormuz over the next month or two, if that is not opened and a deal is not settled for safe passing for ships through the Strait of Hormuz? Could that then become a significant driver of gas prices? Again, I understand the Russia-Ukraine is the driver right now, but when might that change for the Strait?",
+      "cn": "未来一两个月内，霍尔木兹海峡的不确定性是否有最后期限？如果海峡没有开放，也没有达成船只安全通过霍尔木兹海峡的协议，那么这会不会成为汽油价格的重要驱动因素？再说一次，我理解目前俄乌战争是主要驱动因素，但霍尔木兹海峡的情况何时可能改变？"
+    },
+    {
+      "speaker": "Kloza",
+      "text": "Well, the back half of the summer is going to be pretty critical to watch. We've got plenty of crude oil at the moment, not necessarily three months from now, is that there have been a lot of releases from the strategic petroleum reserves by the U.S. and by some foreign countries. Those run out in about 30 days. And that could mean that -- you know, and again, it's up against August's worldwide demand, when demand for all fuels is about as high as it's ever been.",
+      "cn": "嗯，夏末的观察将非常关键。目前我们有充足的原油，但三个月后就不一定了，因为美国和一些外国国家已经从战略石油储备中释放了大量石油。这些储备大约在30天内就会耗尽。这可能意味着 --  -- 你知道，这又面临8月份全球需求高峰，届时所有燃料的需求将达到历史最高水平。"
+    },
+    {
+      "speaker": "Kloza",
+      "text": "So, we do have to worry about that later this summer. And we also have to worry about a hurricane season in August and September.",
+      "cn": "所以，我们确实需要在今年夏末担心这个问题。而且我们还需要担心8月和9月的飓风季节。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes, I was going to ask you about that.",
+      "cn": "是的，我正想问你这个问题。"
+    },
+    {
+      "speaker": "Kloza",
+      "text": "We cannot afford to lose any refined -- yes. We can't afford to lose any refined products manufacturing in the U.S. Gulf. And, you know, more than half of U.S. refined products comes from the Gulf of Mexico and usually on the coasts.",
+      "cn": "我们承受不起任何炼油 --  -- 是的。我们承受不起美国墨西哥湾任何成品油生产能力的损失。而且，你知道，美国超过一半的成品油来自墨西哥湾，通常来自沿海地区。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes. I mean, to your point about hurricane season, I mean, it's -- we're mid-July now. I know people like you, you're thinking about a major hurricane and the Gulf hitting maybe refining capacity. Are we essentially one disruption away from more severe gas prices considering we've got these two unresolved conflicts going on that are already taxing the supply?",
+      "cn": "是的。我的意思是，关于你提到的飓风季节，现在已经是7月中旬了。我知道像你这样的人正在考虑一场大型飓风袭击墨西哥湾，可能影响炼油能力。考虑到我们有两个未解决的冲突已经在给供应带来压力，我们是否基本上离更严重的油价只有一次干扰的距离？"
+    },
+    {
+      "speaker": "Kloza",
+      "text": "Yes. We're always one disruption away. You know, on the West Coast of the United States, you're one refinery event away from $6 and $7 and $8 gasoline. And the rest of the world, we're a -- you know, an event or if, you know, it's hard to determine how much oil is leaving the Persian Gulf region because you've got propaganda on both sides. But we know it's nowhere near what it used to be. And we also know that it can be compromised.",
+      "cn": "是的。我们总是离一次干扰只有一步之遥。你知道，在美国西海岸，一次炼油厂事件就能让汽油价格达到每加仑6、7、8美元。而在世界其他地方，我们 --  -- 你知道，一次事件或者，嗯，很难确定有多少石油离开波斯湾地区，因为双方都在进行宣传。但我们知道远不如从前。而且我们也知道它可能受到威胁。"
+    },
+    {
+      "speaker": "Kloza",
+      "text": "I'm more worried about Iranian attacks on infrastructure in the region that could cripple some refineries and some logistics terminals, you know, down the road. For now, there's plenty of crude oil. There's not plenty of gasoline and there's --",
+      "cn": "我更担心伊朗对该地区基础设施的袭击，这可能会在未来削弱一些炼油厂和物流终端。目前，原油供应充足，但汽油并不充裕，而且 --  --"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Tom Kloza, thank you so much for joining us this morning. We're going to take a quick break. Then we will continue our breaking news coverage of the death of Senator Lindsey Graham at the age of 71. Stick with",
+      "cn": "汤姆·克洛扎，非常感谢您今天早上加入我们。我们稍作休息，然后继续报道参议员林赛·格雷厄姆去世的突发新闻，享年71岁。请继续关注。"
+    },
+    {
+      "speaker": "Cnn. Marsh",
+      "text": "We return to our breaking news out of Washington. Longtime Republican senator, Lindsey Graham, has died. His office announced overnight that the senator died from a brief and sudden illness. 911 dispatch audio obtained by CNN reveals emergency personnel responded to a call for cardiac arrest at Graham's home in D.C. on Saturday evening. Graham had just celebrated his 71st birthday just last week. Now, with me now is CNN political analyst and Republican strategist, Brad Todd. Brad, good morning.",
+      "cn": "我们回到来自华盛顿的突发新闻。长期担任共和党参议员的林赛·格雷厄姆去世。他的办公室连夜宣布，参议员因突发短暂疾病去世。CNN获得的911调度音频显示，紧急救援人员于周六晚上响应了格雷厄姆在华盛顿家中因心脏骤停的呼叫。格雷厄姆上周刚庆祝了他的71岁生日。现在，与我连线的是CNN政治分析师兼共和党策略师布拉德·托德。布拉德，早上好。"
+    },
+    {
+      "speaker": "Cnn. Marsh",
+      "text": "Thank you so much for joining us on this breaking news day.",
+      "cn": "非常感谢您在这个突发新闻日加入我们。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Such sad news, shocking news. I know that you have known Senator Graham for a number of years. You first met him back in 1995. Tell me about that relationship and what you will remember most about him.",
+      "cn": "真是令人悲伤和震惊的消息。我知道您认识格雷厄姆参议员多年。你们第一次见面是在1995年。请谈谈你们的关系以及您对他最深刻的记忆。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "Yes. So, I was a press secretary on Capitol Hill in 1995 when Senator Graham was first elected to the House. And, you know, that was the Republican takeover. Republicans hadn't held a chamber, held the U.S. House in 40 years. So, he was part of that that class that took over. I was working on the Hill for another freshman member of Congress who became kind of an ally and a comrade of Senator Graham's.",
+      "cn": "是的。1995年，当格雷厄姆参议员首次当选众议员时，我是国会山的一名新闻秘书。你知道，那是共和党夺回众议院的时候。共和党已经40年没有控制过众议院了。所以，他是接管众议院的那一届议员中的一员。我当时在国会山为另一位新当选的众议员工作，他后来成为了格雷厄姆参议员的盟友和同志。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "And, you know, there was a conservative band of -- I think they would probably have called themselves guerrillas or rogues in that time who were trying to pull Speaker Newt Gingrich a little bit further in the conservative direction. And he was part of that of that cabal, if you will. And so, I got to know him then in his very early days as a House member.",
+      "cn": "而且，当时有一个保守派团体 --  -- 我想他们可能自称为游击队或叛逆者 --  -- 试图将议长纽特·金里奇进一步推向保守方向。格雷厄姆就是那个小团体的一员。所以，我在他担任众议员的早期就认识了他。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "And then, of course, have -- you know, having worked in Republican campaigns and especially on the Senate side over the last 20 years, I've been doing this for 30 something years, but I've done a lot of Senate races. And so, you, of course, interact with Senator Graham. And the reason is, is Senator Graham is a 24-hour senator. He just never stops doing the job or never stopped doing the job. And that's that he almost did the work of three people because of that.",
+      "cn": "然后，当然，在过去20年里，我参与共和党竞选活动，尤其是参议院方面的竞选，我已经从事这项工作30多年了，但参与了很多参议院竞选。因此，你自然会与格雷厄姆参议员互动。原因是，格雷厄姆参议员是一个全天候的参议员。他从不停止工作，或者说从未停止过工作。正因为如此，他几乎做了三个人的工作。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes. I mean, speaking of his impact, I mean, what do you see as his greatest impact on the Republican Party?",
+      "cn": "是的。说到他的影响，您认为他对共和党最大的影响是什么？"
+    },
+    {
+      "speaker": "Todd",
+      "text": "Well, you know, first off, he's a compromiser, and I say that in a positive way. I mean, the Senate is fundamentally set up to accomplish anything only with a lot of compromise and work across the aisle. That's pretty hard to come by these days. But Senator Graham never quit trying to do it. Every meaningful effort to bring Republicans and Democrats together on a given issue. And of course, this happens a lot of times well outside the eye of cable news.",
+      "cn": "嗯，首先，他是一个妥协者，我这么说是在积极意义上。我的意思是，参议院从根本上来说，只有通过大量的妥协和跨党派合作才能完成任何事情。这在当今很难实现。但格雷厄姆参议员从未放弃尝试。他参与了每一项有意义的努力，将共和党人和民主党人聚集在一起讨论某个议题。当然，这些很多时候都在有线新闻的视线之外进行。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "There are things that pass Congress that are not controversial in the end. Well, the reason they're not controversial in the end is because people like Lindsey Graham did the hard work in the back rooms ahead of time to make them pass. You know, that's just the nature of how he was. He was open to learning and being an expert on a lot of different areas. You know, he was -- everyone's talked this morning on CNN here about his foreign policy impact.",
+      "cn": "有些法案在国会通过时最终并不具争议性。而它们最终不具争议的原因，是因为像林赛·格雷厄姆这样的人提前在幕后做了艰苦的工作，使它们得以通过。你知道，这就是他的本性。他乐于学习，并在许多不同领域成为专家。你知道，他 --  -- 今天早上CNN这里每个人都在谈论他的外交政策影响。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "And certainly, you know, Israel and Ukraine have had no better friend than Senator Lindsey Graham. But he also was involved on a lot of other issues, that's vetting judicial nominees and working on thorny privacy issues. He chaired the Judiciary Committee, which is part of the intellectual property issues come to be settled in this Internet age. Well, Senator Graham was deeply involved in that and in the middle of those things.",
+      "cn": "当然，你知道，以色列和乌克兰没有比参议员林赛·格雷厄姆更好的朋友了。但他也参与了许多其他问题，比如审查司法提名和处理棘手的隐私问题。他曾担任司法委员会主席，该委员会负责解决互联网时代的知识产权问题。参议员格雷厄姆深度参与其中，并处于这些事务的核心。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "And all the matters about our legal system and the complicated matters like antitrust measures that come up, he was deep involved in those too. They didn't make the headlines or Twitter, but he was a man who was pretty broad and pretty deep in his policy expertise.",
+      "cn": "所有关于我们法律体系的事务，以及像反垄断措施这样复杂的问题，他也深度参与其中。这些没有成为头条新闻或推特热点，但他是一个政策专业知识相当广泛且深入的人。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes, I mean, we heard the president say he was always working. You said 24-hour senator.",
+      "cn": "是的，我的意思是，我们听到总统说他一直在工作。你说他是24小时参议员。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes. And then you talk about his foreign policy and his experience and also his effectiveness. I just wonder, with someone like that gone and as a Republican yourself, I mean, how do you feel the void will be filled? Is there anyone that fills that void?",
+      "cn": "是的。然后你谈到他的外交政策、他的经验以及他的效率。我只是想知道，像这样的人离开了，而你自己也是共和党人，我的意思是，你觉得这个空缺将如何填补？有人能填补这个空缺吗？"
+    },
+    {
+      "speaker": "Todd",
+      "text": "You can't fill what he did. You can't do it because no one works 24 hours a day. I mean, the American government was Lindsey's spouse and child. It was his hobby. It was his passion. It was his advocation. So, if you as an individual could think of how you react to your spouse and your child and your hobby, then roll all that up with your job. That's what it is. You can't replace him. Others will take the reins.",
+      "cn": "你无法填补他所做的一切。你做不到，因为没有人一天工作24小时。我的意思是，美国政府就是林赛的配偶和孩子。那是他的爱好。那是他的激情。那是他的职业。所以，如果你作为个人，能想象你如何对待你的配偶、孩子和爱好，然后把所有这些与你的工作结合起来。就是这样。你无法取代他。其他人会接手。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "Tom Cotton will become the voice on foreign policy affairs, I think, and Dave McCormick that Lindsey filled those two. But you can't replace him.",
+      "cn": "汤姆·科顿将成为外交政策事务的代言人，我认为，还有戴夫·麦考密克，林赛填补了这两个位置。但你无法取代他。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Thank you so much, Brad Todd. Thank you for joining us. And thank you for joining us for CNN This Morning. Inside Politics Sunday with Manu Raju is up next. var CNN = CNN || {};",
+      "cn": "非常感谢你，布拉德·托德。感谢你加入我们。也感谢你收看CNN今晨节目。接下来是《曼努·拉朱的周日内部政治》。var CNN = CNN || {};"
+    }
+  ]
+}

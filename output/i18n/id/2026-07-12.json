@@ -1,0 +1,1503 @@
+{
+  "date": "2026-07-12",
+  "source_url": "https://transcripts.cnn.com/show/ctmo/date/2026-07-12/segment/01",
+  "summary": "South Carolina Republican Senator Lindsey Graham has died of a sudden illness at age 71. President Trump mourned him on Truth Social, calling him one of the greatest people and senators. The U.S. launched strikes on 140 military targets in Iran, and New Orleans experienced flooding due to heavy rain.",
+  "vocabulary": [
+    {
+      "word": "passes away",
+      "phonetic": "/ˈpæsɪz əˈweɪ/",
+      "pos": "phrasal verb",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "通用",
+      "level": "日常表达 · 基础",
+      "cn": "meninggal (eufemisme)",
+      "en": "dies (euphemism)",
+      "excerpt": "Longtime Republican Senator Lindsey Graham Passes Away.",
+      "example_cn": "Senator Republik yang sudah lama menjabat, Lindsey Graham, meninggal.",
+      "audio_url": "output/audio/vocab/2026-07-12/passes-away-53b21e97.mp3"
+    },
+    {
+      "word": "sudden illness",
+      "phonetic": "/ˈsʌdən ˈɪlnəs/",
+      "pos": "noun phrase",
+      "usage": "Umum dalam berita",
+      "difficulty": "Dasar",
+      "domain": "Sosial dan kemasyarakatan",
+      "level": "Umum dalam berita · Dasar",
+      "cn": "penyakit mendadak",
+      "en": "an illness that starts quickly and unexpectedly",
+      "excerpt": "the longtime senator died from a brief and sudden illness",
+      "example_cn": "Senator yang sudah lama menjabat itu meninggal karena penyakit yang singkat dan mendadak.",
+      "audio_url": "output/audio/vocab/2026-07-12/sudden-illness-1bc41b4d.mp3"
+    },
+    {
+      "word": "pay tribute to",
+      "phonetic": "/peɪ ˈtrɪbjuːt tuː/",
+      "pos": "verb phrase",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "memberi penghormatan kepada; mengenang",
+      "en": "to express respect or admiration for someone",
+      "excerpt": "President Trump paid tribute to Graham in a post on Truth Social",
+      "example_cn": "Presiden Trump memberi penghormatan kepada Graham dalam postingan di Truth Social.",
+      "audio_url": "output/audio/vocab/2026-07-12/pay-tribute-to-685c3c9e.mp3"
+    },
+    {
+      "word": "patriot",
+      "phonetic": "/ˈpeɪtriət/",
+      "pos": "noun",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Politik dan diplomasi",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "patriot",
+      "en": "a person who loves and supports their country",
+      "excerpt": "He was always working and was a true American patriot.",
+      "example_cn": "Dia terus bekerja, seorang patriot Amerika sejati.",
+      "audio_url": "output/audio/vocab/2026-07-12/patriot-a6c7583b.mp3"
+    },
+    {
+      "word": "dispatch audio",
+      "phonetic": "/dɪˈspætʃ ˈɔːdiəʊ/",
+      "pos": "noun phrase",
+      "usage": "Umum dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Sosial dan kemasyarakatan",
+      "level": "Umum dalam berita · Lanjutan",
+      "cn": "rekaman dispatcher (rekaman panggilan layanan darurat)",
+      "en": "audio recording of emergency service communications",
+      "excerpt": "What we can tell you from dispatch audio from emergency response",
+      "example_cn": "Apa yang bisa kami sampaikan dari rekaman dispatcher respons darurat adalah",
+      "audio_url": "output/audio/vocab/2026-07-12/dispatch-audio-374889ce.mp3"
+    },
+    {
+      "word": "cardiac arrest",
+      "phonetic": "/ˈkɑːrdiæk əˈrest/",
+      "pos": "noun phrase",
+      "usage": "Istilah teknis",
+      "difficulty": "Lanjutan",
+      "domain": "科技医疗",
+      "level": "Istilah teknis · Lanjutan",
+      "cn": "心脏骤停",
+      "en": "sudden loss of heart function",
+      "excerpt": "EMS six respond to engine seven, medic seven with cardiac arrest.",
+      "example_cn": "急救六号响应七号引擎，七号医护人员处理心脏骤停。",
+      "audio_url": "output/audio/vocab/2026-07-12/cardiac-arrest-6312fc0d.mp3"
+    },
+    {
+      "word": "empower",
+      "phonetic": "/ɪmˈpaʊər/",
+      "pos": "verb",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "法律司法",
+      "level": "新闻常用 · 进阶",
+      "cn": "授权；赋予权力",
+      "en": "to give someone the authority to do something",
+      "excerpt": "South Carolina's Republican governor, Henry McMaster, he is empowered to appoint a temporary replacement",
+      "example_cn": "南卡罗来纳州共和党州长亨利·麦克马斯特有权任命一位临时接替者。",
+      "audio_url": "output/audio/vocab/2026-07-12/empower-f0529720.mp3"
+    },
+    {
+      "word": "irreplaceable",
+      "phonetic": "/ˌɪrɪˈpleɪsəbl/",
+      "pos": "adjective",
+      "usage": "日常表达",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "日常表达 · 进阶",
+      "cn": "不可替代的",
+      "en": "too special to be replaced",
+      "excerpt": "Lindsey Graham is irreplaceable.",
+      "example_cn": "林赛·格雷厄姆是不可替代的。",
+      "audio_url": "output/audio/vocab/2026-07-12/irreplaceable-c5d7de1f.mp3"
+    },
+    {
+      "word": "steadfast",
+      "phonetic": "/ˈstedfæst/",
+      "pos": "adjective",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "坚定的；忠诚的",
+      "en": "loyal and determined",
+      "excerpt": "Senator Graham's steadfast support of Israel",
+      "example_cn": "格雷厄姆参议员对以色列的坚定支持",
+      "audio_url": "output/audio/vocab/2026-07-12/steadfast-efe27c4e.mp3"
+    },
+    {
+      "word": "fixture",
+      "phonetic": "/ˈfɪkstʃər/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "通用",
+      "level": "新闻常用 · 进阶",
+      "cn": "固定人物；常客",
+      "en": "a person who is always present in a particular place or situation",
+      "excerpt": "Senator Graham was such a fixture on Capitol Hill.",
+      "example_cn": "格雷厄姆参议员是国会山的常客。",
+      "audio_url": "output/audio/vocab/2026-07-12/fixture-51cff3c1.mp3"
+    },
+    {
+      "word": "fierce defender",
+      "phonetic": "/fɪərs dɪˈfendər/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "坚定的捍卫者",
+      "en": "someone who strongly supports or protects something",
+      "excerpt": "He was, obviously, a fierce defender of Donald Trump",
+      "example_cn": "显然，他是唐纳德·特朗普的坚定捍卫者。",
+      "audio_url": "output/audio/vocab/2026-07-12/fierce-defender-6b1b4fcb.mp3"
+    },
+    {
+      "word": "Gang of Eight",
+      "phonetic": "/ɡæŋ əv eɪt/",
+      "pos": "proper noun",
+      "usage": "专名背景",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "专名背景 · 高阶",
+      "cn": "八人帮（美国参议院两党移民改革小组）",
+      "en": "a bipartisan group of eight U.S. senators who worked on immigration reform in 2013",
+      "excerpt": "He was part of the bipartisan Gang of Eight",
+      "example_cn": "他是两党八人帮的一员",
+      "audio_url": "output/audio/vocab/2026-07-12/gang-of-eight-56f42f23.mp3"
+    },
+    {
+      "word": "path to legalization",
+      "phonetic": "/pæθ tuː ˌliːɡəlaɪˈzeɪʃən/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "法律司法",
+      "level": "新闻常用 · 进阶",
+      "cn": "合法化途径",
+      "en": "a process by which undocumented immigrants can obtain legal status",
+      "excerpt": "create a path to legalization for millions of immigrants",
+      "example_cn": "为数百万移民创造合法化途径",
+      "audio_url": "output/audio/vocab/2026-07-12/path-to-legalization-a19c545a.mp3"
+    },
+    {
+      "word": "defense hawk",
+      "phonetic": "/dɪˈfens hɔːk/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "高阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 高阶",
+      "cn": "国防鹰派（主张强硬军事政策的人）",
+      "en": "a person who advocates for strong military and defense policies",
+      "excerpt": "He built his career as a defense hawk",
+      "example_cn": "他以国防鹰派的身份建立了自己的职业生涯。",
+      "audio_url": "output/audio/vocab/2026-07-12/defense-hawk-34c9581b.mp3"
+    },
+    {
+      "word": "recurring visit",
+      "phonetic": "/rɪˈkɜːrɪŋ ˈvɪzɪt/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "政治外交",
+      "level": "新闻常用 · 进阶",
+      "cn": "定期访问；多次访问",
+      "en": "a visit that happens repeatedly",
+      "excerpt": "that was a reoccurring visit that he had taken",
+      "example_cn": "那是他多次进行的访问。",
+      "audio_url": "output/audio/vocab/2026-07-12/recurring-visit-8ff0db66.mp3"
+    },
+    {
+      "word": "ally",
+      "phonetic": "/ˈælaɪ/",
+      "pos": "noun",
+      "usage": "新闻常用",
+      "difficulty": "基础",
+      "domain": "政治外交",
+      "level": "新闻常用 · 基础",
+      "cn": "盟友；支持者",
+      "en": "a person or country that supports another",
+      "excerpt": "He has been a really strong ally of Ukraine",
+      "example_cn": "他一直是乌克兰非常坚定的盟友。",
+      "audio_url": "output/audio/vocab/2026-07-12/ally-0ab8140a.mp3"
+    },
+    {
+      "word": "hostilities resume",
+      "phonetic": "/hɒˈstɪlɪtiz rɪˈzjuːm/",
+      "pos": "verb phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "敌对行动恢复",
+      "en": "to start fighting again after a pause",
+      "excerpt": "Hostilities Resume: U.S. Says It Hit 140 Iranian Military Targets",
+      "example_cn": "敌对行动恢复：美国称打击了140个伊朗军事目标。",
+      "audio_url": "output/audio/vocab/2026-07-12/hostilities-resume-475b9e9e.mp3"
+    },
+    {
+      "word": "military targets",
+      "phonetic": "/ˈmɪlɪteri ˈtɑːrɡɪts/",
+      "pos": "noun phrase",
+      "usage": "新闻常用",
+      "difficulty": "进阶",
+      "domain": "军事安全",
+      "level": "新闻常用 · 进阶",
+      "cn": "军事目标",
+      "en": "specific locations or objects intended to be attacked for military purposes",
+      "excerpt": "U.S. Says It Hit 140 Iranian Military Targets",
+      "example_cn": "美国称打击了140个伊朗军事目标。",
+      "audio_url": "output/audio/vocab/2026-07-12/military-targets-439d2c0a.mp3"
+    },
+    {
+      "word": "flood",
+      "phonetic": "/flʌd/",
+      "pos": "noun/verb",
+      "usage": "新闻常用",
+      "difficulty": "基础",
+      "domain": "灾害环境",
+      "level": "新闻常用 · 基础",
+      "cn": "洪水；淹没",
+      "en": "an overflow of water that submerges land",
+      "excerpt": "New Orleans Floods After Heavy Rains.",
+      "example_cn": "暴雨后新奥尔良发生洪水。",
+      "audio_url": "output/audio/vocab/2026-07-12/flood-ff0db992.mp3"
+    },
+    {
+      "word": "heavy rains",
+      "phonetic": "/ˈhevi reɪnz/",
+      "pos": "noun phrase",
+      "usage": "日常表达",
+      "difficulty": "基础",
+      "domain": "灾害环境",
+      "level": "日常表达 · 基础",
+      "cn": "暴雨",
+      "en": "a large amount of rain falling in a short time",
+      "excerpt": "New Orleans Floods After Heavy Rains.",
+      "example_cn": "暴雨后新奥尔良发生洪水。",
+      "audio_url": "output/audio/vocab/2026-07-12/heavy-rains-00d9ef55.mp3"
+    },
+    {
+      "word": "breaking news",
+      "phonetic": "/ˈbreɪkɪŋ njuːz/",
+      "pos": "noun phrase",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Dasar",
+      "domain": "Umum",
+      "level": "Sering digunakan dalam berita · Dasar",
+      "cn": "Berita terkini",
+      "en": "important news that is reported immediately",
+      "excerpt": "This is CNN breaking news.",
+      "example_cn": "Ini adalah berita terkini dari CNN.",
+      "audio_url": "output/audio/vocab/2026-07-12/breaking-news-7fc05343.mp3"
+    },
+    {
+      "word": "trickle in",
+      "phonetic": "/ˈtrɪkl ɪn/",
+      "pos": "phrasal verb",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Ekspresi sehari-hari · Lanjutan",
+      "cn": "Datang satu per satu; tiba perlahan",
+      "en": "to arrive slowly in small amounts",
+      "excerpt": "just kind of trickling in",
+      "example_cn": "Hanya datang satu per satu.",
+      "audio_url": "output/audio/vocab/2026-07-12/trickle-in-3b7452f5.mp3"
+    },
+    {
+      "word": "devastated",
+      "phonetic": "/ˈdevəsteɪtɪd/",
+      "pos": "adjective",
+      "usage": "Ekspresi sehari-hari",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Ekspresi sehari-hari · Lanjutan",
+      "cn": "Sangat terkejut dan berduka",
+      "en": "extremely shocked and sad",
+      "excerpt": "Peggy and I and our children are devastated.",
+      "example_cn": "Peggy, saya, dan anak-anak kami sangat berduka.",
+      "audio_url": "output/audio/vocab/2026-07-12/devastated-13f52b45.mp3"
+    },
+    {
+      "word": "revered",
+      "phonetic": "/rɪˈvɪrd/",
+      "pos": "adjective",
+      "usage": "Sering digunakan dalam berita",
+      "difficulty": "Lanjutan",
+      "domain": "Umum",
+      "level": "Sering digunakan dalam berita · Lanjutan",
+      "cn": "Dihormati; dipuja",
+      "en": "greatly admired and respected",
+      "excerpt": "how revered Senator Lindsey Graham was in the U.S. Senate",
+      "example_cn": "Betapa dihormatinya Senator Lindsey Graham di Senat AS.",
+      "audio_url": "output/audio/vocab/2026-07-12/revered-b211e516.mp3"
+    }
+  ],
+  "sentences": [
+    {
+      "en": "His office announced this morning that the longtime senator died from, quote, \"a brief and sudden illness,\" but did not give further details.",
+      "cn": "Kantor hari ini mengumumkan bahwa senator senior tersebut meninggal karena, kutipan, 'penyakit singkat dan mendadak', tetapi tidak memberikan rincian lebih lanjut.",
+      "structure": "Klausa utama (His office announced) + klausa objek (that...) + sisipan (quote...) + konjungsi kontras (but did not give...)",
+      "analysis": "quote menunjukkan kutipan langsung, sering digunakan dalam berita; 'a brief and sudden illness' adalah ekspresi ringkas berita, mendeskripsikan penyebab kematian secara singkat; but menghubungkan kontras, menunjukkan informasi terbatas."
+    },
+    {
+      "en": "President Trump paid tribute to Graham in a post on Truth Social, saying, quote, \"Senator Lindsey Graham, one of the greatest people and senators I have ever known is dead.\"",
+      "cn": "特朗普总统在 Truth Social 上发帖悼念格雷厄姆，引用原话：\"参议员林赛·格雷厄姆，我所认识的最伟大的人和参议员之一，去世了。\"",
+      "structure": "主句（President Trump paid tribute）+ 状语（in a post...）+ 伴随状语（saying...）+ 直接引语（quote...）",
+      "analysis": "paid tribute to 是固定搭配，表示\"向...致敬\"；one of the greatest... 是同位语结构，修饰 Lindsey Graham；quote 再次用于直接引语。"
+    },
+    {
+      "en": "What we can tell you from dispatch audio from emergency response was that there was a piece of dispatch audio that came in that was heard at about 8:30 p.m. eastern time on Saturday evening.",
+      "cn": "我们能从应急响应调度音频中告诉你的是，有一段调度音频在周六晚上东部时间大约8点30分被听到。",
+      "analysis": "主语从句 What we can tell you... 作主语；表语从句 that there was...；定语从句 that came in 和 that was heard 修饰 audio；时间状语 at about 8:30 p.m. eastern time。",
+      "structure": "主语从句（What we can tell you...）+ 系动词（was）+ 表语从句（that there was...）+ 定语从句（that came in...that was heard...）"
+    },
+    {
+      "en": "We cannot confirm at this moment that the senator died of cardiac arrest.",
+      "cn": "我们目前无法确认这位参议员死于心脏骤停。",
+      "structure": "主句（We cannot confirm）+ 宾语从句（that...）",
+      "analysis": "confirm that... 是常见结构；died of 表示\"死于\"；cardiac arrest 是医学术语；at this moment 表示\"目前\"。"
+    },
+    {
+      "en": "That dispatch call discussed cardiac arrest, but of course, you know, those dispatch calls discuss various conditions that sometimes don't turn out to be the real cause of death or the cause of an injury.",
+      "cn": "那个调度电话讨论了心脏骤停，但当然，你知道，那些调度电话讨论的各种情况有时并非真正的死因或伤因。",
+      "structure": "主句（That dispatch call discussed...）+ 并列转折（but...）+ 插入语（of course, you know）+ 定语从句（that sometimes don't turn out...）",
+      "analysis": "turn out to be 表示\"结果是\"；the real cause of death 是固定表达；插入语 of course, you know 体现口语化。"
+    },
+    {
+      "en": "We also can piece together some detail elsewhere in an audio call, a dispatch audio, the discussion of someone suffering from chest pains.",
+      "cn": "我们还可以从另一段音频通话中拼凑出一些细节，即一段调度音频，讨论某人胸痛。",
+      "structure": "主句（We also can piece together...）+ 同位语（a dispatch audio）+ 同位语（the discussion...）",
+      "analysis": "piece together 表示\"拼凑\"；suffering from 表示\"遭受\"；chest pains 是常见症状；同位语结构补充说明。"
+    },
+    {
+      "en": "South Carolina's Republican governor, Henry McMaster, he is empowered to appoint a temporary replacement for Senator Graham.",
+      "cn": "南卡罗来纳州共和党州长亨利·麦克马斯特有权任命格雷厄姆参议员的临时接替者。",
+      "structure": "主语（South Carolina's Republican governor）+ 同位语（Henry McMaster）+ 主句（he is empowered to appoint...）",
+      "analysis": "be empowered to do 表示\"被授权做\"；temporary replacement 是\"临时接替者\"；同位语结构提供身份信息。"
+    },
+    {
+      "en": "Senator McMaster did issue this statement posted on X, quote, \"Peggy and I and our children are devastated.\"",
+      "cn": "麦克马斯特参议员确实发布了这份声明，贴在X上，引用原话：\"佩吉、我和我们的孩子们都崩溃了。\"",
+      "structure": "主句（Senator McMaster did issue...）+ 过去分词短语（posted on X）+ 直接引语（quote...）",
+      "analysis": "did 强调谓语动词；issue a statement 是固定搭配；posted on X 是过去分词作定语；quote 引导直接引语。"
+    },
+    {
+      "en": "That mention of Darline in that post from Governor McMaster is a reference to Senator Graham's younger sister, Darline, who Senator Graham actually helped raise when their parents died, when both he and his younger sister were very young.",
+      "cn": "麦克马斯特州长那篇帖子中提到的达琳指的是格雷厄姆参议员的妹妹达琳，格雷厄姆参议员在他们的父母去世时实际上帮助抚养了她，当时他和他的妹妹都非常年幼。",
+      "structure": "主句（That mention...is a reference...）+ 同位语（Darline）+ 定语从句（who Senator Graham helped raise...）+ 时间状语从句（when their parents died）+ 时间状语从句（when both...were very young）",
+      "analysis": "a reference to 表示\"提及\"；help raise 是\"帮助抚养\"；when 引导两个时间状语从句，说明背景。"
+    },
+    {
+      "en": "Senator Graham was an undergraduate in college, his sister, Darline, was a teenager, he helped raise her and eventually adopted her.",
+      "cn": "格雷厄姆参议员当时是大学本科生，他的妹妹达琳是青少年，他帮助抚养她并最终收养了她。",
+      "structure": "并列句（Senator Graham was... + his sister...was... + he helped raise...and adopted...）",
+      "analysis": "三个并列分句描述事实；undergraduate 是\"本科生\"；teenager 是\"青少年\"；adopt 是\"收养\"。"
+    },
+    {
+      "en": "Senate Majority Leader John Thune with a long statement posted on X, talking about how just dedicated, loyal and what a great friend that Senator Graham was and what just a powerful and influential senator he was.",
+      "cn": "参议院多数党领袖约翰·图恩在X上发布了一份长篇声明，谈到格雷厄姆参议员是多么敬业、忠诚，是一位多么伟大的朋友，以及他是一位多么强大且有影响力的参议员。",
+      "structure": "主句（Senate Majority Leader John Thune...）+ 伴随状语（talking about...）+ 宾语从句（how...and what...）",
+      "analysis": "with a long statement 是伴随状语；talking about 后接两个并列的感叹句（how...和 what...），表示强调。"
+    },
+    {
+      "en": "The senator's statement goes on for a while there just talking about, you know, how revered Senator Lindsey Graham was in the U.S. Senate.",
+      "cn": "参议员的声明继续了一段时间，只是谈论，你知道，林赛·格雷厄姆参议员在美国参议院中是多么受尊敬。",
+      "structure": "主句（The senator's statement goes on...）+ 伴随状语（talking about...）+ 插入语（you know）+ 宾语从句（how revered...）",
+      "analysis": "goes on 表示\"继续\"；revered 是\"受尊敬的\"；插入语 you know 体现口语化。"
+    },
+    {
+      "en": "We do know that Senator Graham was in Ukraine just a couple of days ago, meeting with Ukrainian President Volodymyr Zelenskyy returning, we believe, he spoke to reporters actually on Friday from Ukraine and returning to the U.S. shortly after that the senator passing away in Washington, D.C.",
+      "cn": "我们确实知道格雷厄姆参议员几天前在乌克兰，与乌克兰总统泽连斯基会面，我们相信，他实际上在周五从乌克兰对记者发表了讲话，之后不久返回美国，参议员在华盛顿特区去世。",
+      "structure": "主句（We do know）+ 宾语从句（that...）+ 伴随状语（meeting with...）+ 插入语（we believe）+ 并列谓语（spoke...and returning...）+ 时间状语（shortly after that...）",
+      "analysis": "do 强调；a couple of days ago 是\"几天前\"；meeting with 是伴随状语；we believe 是插入语；passing away 是\"去世\"。"
+    },
+    {
+      "en": "He was someone who regularly spoke out on news of the day, he was, obviously, a fierce defender of Donald Trump and was a key ally of the White House on Capitol Hill.",
+      "cn": "他是一个经常就当日新闻发表言论的人，显然，他是唐纳德·特朗普的坚定捍卫者，也是白宫在国会山的关键盟友。",
+      "structure": "主句（He was someone）+ 定语从句（who regularly spoke out...）+ 并列句（he was...and was...）",
+      "analysis": "spoke out on 表示\"就...发表言论\"；a fierce defender 是\"坚定的捍卫者\"；a key ally 是\"关键盟友\"；插入语 obviously。"
+    },
+    {
+      "en": "He was part of the bipartisan Gang of Eight, a group of lawmakers who worked together to bolster border security, as well as create a path to legalization for millions of immigrants who were living in the shadows in this country.",
+      "cn": "他是两党\"八人帮\"的一员，这是一个由立法者组成的团体，他们共同努力加强边境安全，并为数百万生活在这个国家阴影中的移民创造合法化途径。",
+      "structure": "主句（He was part of...）+ 同位语（a group of lawmakers）+ 定语从句（who worked together...）+ 并列不定式（to bolster...as well as create...）+ 定语从句（who were living...）",
+      "analysis": "bipartisan 是\"两党的\"；Gang of Eight 是专有名词；bolster 是\"加强\"；a path to legalization 是\"合法化途径\"；living in the shadows 是比喻，表示\"生活在阴影中\"。"
+    },
+    {
+      "en": "He had worked really closely with his friend and longtime mentor, Senator John McCain, on that legislation.",
+      "cn": "他曾与他的朋友和长期导师约翰·麦凯恩参议员在那项立法上密切合作。",
+      "structure": "主句（He had worked...）+ 状语（with...）+ 同位语（his friend and longtime mentor, Senator John McCain）",
+      "analysis": "work closely with 是\"与...密切合作\"；longtime mentor 是\"长期导师\"；同位语结构提供身份。"
+    },
+    {
+      "en": "There were several instances, even once Donald Trump took office, that Senator Lindsey Graham became a major commentator and advocate on immigration related issues.",
+      "cn": "有几个例子，甚至在唐纳德·特朗普上任后，林赛·格雷厄姆参议员成为移民相关问题的主要评论员和倡导者。",
+      "structure": "主句（There were several instances）+ 时间状语从句（even once Donald Trump took office）+ 定语从句（that Senator...became...）",
+      "analysis": "instances 是\"例子\"；took office 是\"上任\"；commentator 是\"评论员\"；advocate 是\"倡导者\"；immigration related issues 是\"移民相关问题\"。"
+    },
+    {
+      "en": "Over time, his view and his position sort of evolved as the Republican Party's and President Trump's position really hardened the position of Republicans on that issue.",
+      "cn": "随着时间的推移，他的观点和立场有所演变，因为共和党和特朗普总统的立场确实使共和党人在该问题上的立场变得强硬。",
+      "structure": "主句（his view and his position evolved）+ 方式状语（sort of）+ 原因状语从句（as...hardened...）",
+      "analysis": "over time 是\"随着时间的推移\"；sort of 是口语化表达，表示\"有点\"；evolve 是\"演变\"；harden 是\"使强硬\"。"
+    },
+    {
+      "en": "He built his career as a defense hawk, as you noted, and as Brian noted, he was just in Ukraine a couple of days ago, meeting with the president of that country, Volodymyr Zelenskyy.",
+      "cn": "正如你所指出的，他建立了作为国防鹰派的职业生涯，正如布莱恩所指出的，他几天前就在乌克兰，与该国总统泽连斯基会面。",
+      "structure": "主句（He built his career...）+ 插入语（as you noted）+ 并列句（and as Brian noted, he was...meeting with...）",
+      "analysis": "defense hawk 是\"国防鹰派\"；as you noted 和 as Brian noted 是插入语；meeting with 是伴随状语。"
+    },
+    {
+      "en": "He has been a really strong ally of Ukraine in terms of suppl",
+      "cn": "他一直是乌克兰非常坚定的盟友，在供应方面...",
+      "structure": "主句（He has been a really strong ally...）+ 状语（in terms of suppl）",
+      "analysis": "a strong ally 是\"坚定的盟友\"；in terms of 是\"在...方面\"；suppl 可能是 supply 的缩写，但原文不完整。"
+    }
+  ],
+  "topics": [
+    {
+      "title": "林赛·格雷厄姆参议员生平",
+      "content": "林赛·格雷厄姆（Lindsey Graham）是美国共和党参议员，来自南卡罗来纳州。1994年当选众议员，2002年进入参议院，以国防鹰派和移民改革立场著称。他曾是2013年两党移民改革'八人帮'成员，也是特朗普的坚定盟友。格雷厄姆多次访问乌克兰，支持其对抗俄罗斯。他于2026年7月12日因突发疾病去世，享年71岁。",
+      "keywords": "Lindsey Graham · Gang of Eight · defense hawk · immigration reform"
+    },
+    {
+      "title": "美国对伊朗军事打击",
+      "content": "2026年7月12日，美国宣布对伊朗140个军事目标实施打击，标志着敌对行动恢复。此举可能加剧中东紧张局势。伊朗方面尚未回应。此前美伊关系因核问题等持续紧张。",
+      "keywords": "hostilities resume · military targets · Iran · U.S. military strike"
+    },
+    {
+      "title": "新奥尔良洪水灾害",
+      "content": "新奥尔良因暴雨引发严重洪水，城市部分地区被淹。当地政府已启动应急响应。新奥尔良地处低洼，易受洪水侵袭，2005年卡特里娜飓风曾造成灾难性破坏。",
+      "keywords": "New Orleans · floods · heavy rains · disaster response"
+    },
+    {
+      "title": "美国参议员临时继任程序",
+      "content": "当美国参议员去世或辞职时，州长有权任命临时继任者，直至特别选举。南卡罗来纳州州长亨利·麦克马斯特（Henry McMaster）将任命格雷厄姆的临时接替者。该任命需符合州法律，通常来自同一政党。",
+      "keywords": "temporary replacement · governor · appointment · Henry McMaster"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "vocab",
+      "question": "在原文 'He was always working and was a true American patriot.' 中，'patriot' 最接近的含义是？",
+      "options": [
+        "A. 政治家",
+        "B. 爱国者",
+        "C. 战士",
+        "D. 领袖"
+      ],
+      "answer": 1,
+      "explanation": "patriot 意为爱国者，指热爱并支持自己国家的人。原文中特朗普称赞格雷厄姆是真正的美国爱国者。"
+    },
+    {
+      "type": "vocab",
+      "question": "原文 'South Carolina's Republican governor, Henry McMaster, he is empowered to appoint a temporary replacement' 中，'empowered' 的意思是？",
+      "options": [
+        "A. 被选举",
+        "B. 被授权",
+        "C. 被要求",
+        "D. 被限制"
+      ],
+      "answer": 1,
+      "explanation": "empower 意为授权、赋予权力。这里指州长有权任命临时接替者。"
+    },
+    {
+      "type": "vocab",
+      "question": "原文 'He built his career as a defense hawk' 中，'defense hawk' 指的是？",
+      "options": [
+        "A. 国防部官员",
+        "B. 主张强硬军事政策的人",
+        "C. 军事飞行员",
+        "D. 和平主义者"
+      ],
+      "answer": 1,
+      "explanation": "defense hawk 指国防鹰派，即主张强大军事力量和强硬国防政策的人。"
+    },
+    {
+      "type": "comprehension",
+      "question": "根据报道，林赛·格雷厄姆参议员去世的可能原因是什么？",
+      "options": [
+        "A. 车祸",
+        "B. 突发疾病",
+        "C. 暗杀",
+        "D. 心脏病发作（未确认）"
+      ],
+      "answer": 1,
+      "explanation": "报道称其死于'brief and sudden illness'（短暂突发疾病），但未给出具体原因。调度录音提到心脏骤停，但未确认。"
+    },
+    {
+      "type": "comprehension",
+      "question": "谁将负责任命格雷厄姆的临时继任者？",
+      "options": [
+        "A. 美国总统",
+        "B. 南卡罗来纳州州长",
+        "C. 参议院多数党领袖",
+        "D. 南卡罗来纳州议会"
+      ],
+      "answer": 1,
+      "explanation": "报道明确指出南卡罗来纳州州长亨利·麦克马斯特有权任命临时接替者。"
+    },
+    {
+      "type": "comprehension",
+      "question": "格雷厄姆参议员在移民改革方面曾参与哪个两党小组？",
+      "options": [
+        "A. 八人帮",
+        "B. 七人组",
+        "C. 九人委员会",
+        "D. 两党核心小组"
+      ],
+      "answer": 0,
+      "explanation": "报道提到他是2013年两党移民改革'Gang of Eight'（八人帮）的成员。"
+    }
+  ],
+  "paragraphs": [
+    {
+      "speaker": "Announcer",
+      "text": "This is CNN breaking news.",
+      "cn": "Ini adalah berita terbaru dari CNN."
+    },
+    {
+      "speaker": "Rene Marsh",
+      "text": "Welcome to our viewers in the United States and around the world. I'm Rene Marsh in for Victor Blackwell. We begin this morning with breaking news. South Carolina Senator Lindsey Graham has died. His office announced this morning that the longtime senator died from, quote, \"a brief and sudden illness,\" but did not give further details. Graham was elected to the House in 1994 and the Senate in 2002. He was running for his fifth term as senator in this fall's midterm elections.",
+      "cn": "Selamat datang kepada pemirsa di Amerika dan seluruh dunia. Saya Rene Marsh, menggantikan Victor Blackwell. Pagi ini kita mulai dengan berita mendadak. Senator South Carolina Lindsey Graham meninggal dunia. Kantornya mengumumkan pagi ini bahwa senator yang telah lama menjabat ini meninggal karena 'penyakit yang singkat dan mendadak', namun tidak memberikan rincian lebih lanjut. Graham terpilih menjadi anggota DPR pada tahun 1994 dan menjadi senator pada tahun 2002. Dia sedang mencalonkan diri untuk masa jabatan senator kelimanya dalam pemilihan paruh waktu musim gugur ini."
+    },
+    {
+      "speaker": "Rene Marsh",
+      "text": "President Trump paid tribute to Graham in a post on Truth Social, saying, quote, \"Senator Lindsey Graham, one of the greatest people and senators I have ever known is dead. He was always working and was a true American patriot. Lindsey Graham will be greatly missed.\" Lindsey Graham had just celebrated his 71st birthday just last week. And CNN's Brian Todd joins us now. Brian, what is the latest that we're picking up? I know we don't have full details on the cause, but we are learning some details.",
+      "cn": "Presiden Trump memposting penghormatan untuk Graham di Truth Social, mengatakan: 'Senator Lindsey Graham, salah satu orang dan senator terhebat yang pernah saya kenal, telah meninggal dunia. Dia terus bekerja, seorang patriot Amerika sejati. Lindsey Graham akan sangat dirindukan.' Lindsey Graham baru saja merayakan ulang tahunnya yang ke-71 minggu lalu. Brian Todd dari CNN bergabung dengan kami sekarang. Brian, apa perkembangan terbaru yang kita ketahui? Saya tahu kita belum memiliki rincian lengkap tentang penyebab kematian, tetapi kita sedang mempelajari beberapa detail."
+    },
+    {
+      "speaker": "Brian Todd",
+      "text": "We're learning some details, Rene, just kind of trickling in. And what we're able to confirm with sources and with dispatch, emergency dispatch calls, what we can tell you is, first, a spokesperson for the senator says that he died from -- after a brief and sudden illness. He was 71 years old. What we can tell you from dispatch audio from emergency response was that there was a piece of dispatch audio that came in that was -- that was heard at about 8:30 p.m. eastern time on Saturday evening.",
+      "cn": "Kami sedang mempelajari beberapa detail, Rene, yang mulai masuk. Berdasarkan informasi yang kami konfirmasi dari sumber dan panggilan darurat, kami dapat memberi tahu Anda: Pertama, seorang juru bicara senator mengatakan dia meninggal karena penyakit singkat dan mendadak pada usia 71 tahun. Dari rekaman panggilan tanggap darurat, kami mengetahui ada rekaman yang terdengar sekitar pukul 8:30 malam waktu Timur hari Sabtu."
+    },
+    {
+      "speaker": "Brian Todd",
+      "text": "Dispatch audio discussing someone suffering from chest pains. We can play for you some audio from a dispatch call, an emergency dispatch call, that gives a little bit more detail. Take a listen to that. (BEGIN AUDIO CLIP)",
+      "cn": "Rekaman tersebut membahas seseorang yang mengalami nyeri dada. Kami dapat memutar rekaman panggilan yang memberikan rincian lebih lanjut. Silakan dengarkan. (Audio dimulai)"
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "(INAUDIBLE) cardiac arrest (INAUDIBLE). EMS six respond (ph) to (ph) engine seven, medic seven with cardiac arrest. (END AUDIO CLIP)",
+      "cn": "(Tidak jelas) Henti jantung (tidak jelas). Respons enam (ke) mesin tujuh, paramedis tujuh, henti jantung. (Audio berakhir)"
+    },
+    {
+      "speaker": "Todd",
+      "text": "(INAUDIBLE) cardiac arrest. We cannot confirm at this moment that the senator died of cardiac arrest. That dispatch call discussed cardiac arrest. But of course, you know, those dispatch calls discuss various conditions that sometimes don't turn out to be the real cause of death or the cause of an injury. So, we just can tell you that that call discussed the possibility of cardiac arrest. And we also can piece together some detail elsewhere in an audio call, a dispatch audio.",
+      "cn": "(Tidak jelas) Henti jantung. Saat ini kami tidak dapat mengonfirmasi bahwa senator meninggal karena henti jantung. Panggilan tersebut membahas henti jantung. Namun, tentu saja, Anda tahu, panggilan darurat itu terkadang membahas berbagai situasi yang belum tentu menjadi penyebab kematian atau cedera yang sebenarnya. Jadi kami hanya dapat memberi tahu Anda bahwa panggilan itu membahas kemungkinan henti jantung. Kami juga dapat menyusun beberapa detail dari rekaman panggilan lain."
+    },
+    {
+      "speaker": "Todd",
+      "text": "The discussion of someone suffering from chest pains. And that discussion at that point was at 8:30 p.m. eastern time in an audio call from emergency dispatch audio. That's what we can tell you. They discussed chest pain, someone suffering from chest pains, and then you heard the audio of that call someone suffering from cardiac arrest, possibly, but we cannot confirm at this time that the senator died of cardiac arrest.",
+      "cn": "Membahas seseorang yang mengalami nyeri dada. Pembahasan itu terjadi pada pukul 8:30 malam waktu Timur, dari rekaman panggilan darurat. Itulah yang dapat kami sampaikan. Mereka membahas nyeri dada, seseorang mengalami nyeri dada, dan kemudian Anda mendengar rekaman itu, seseorang mungkin mengalami henti jantung, tetapi saat ini kami tidak dapat mengonfirmasi bahwa senator meninggal karena henti jantung."
+    },
+    {
+      "speaker": "Todd",
+      "text": "Rene, you just posted President Trump's post on Truth Social saying that Lindsey Graham was one of the greatest, quote, \"one of the greatest people and senators I have ever known.\" Trump saying he was always working and was a true American patriot. Lindsey will be greatly missed. That is a post on Truth Social from President Donald Trump. We can also tell you that South Carolina's Republican governor, Henry McMaster, he is empowered to appoint a temporary replacement for Senator Graham.",
+      "cn": "Rene, Anda baru saja menyiarkan postingan Presiden Trump di Truth Social yang menyebut Lindsey Graham sebagai 'salah satu orang dan senator terhebat yang pernah saya kenal'. Trump mengatakan dia terus bekerja, seorang patriot Amerika sejati. Lindsey akan sangat dirindukan. Itu adalah postingan Presiden Donald Trump di Truth Social. Kami juga dapat memberi tahu Anda bahwa Gubernur Partai Republik South Carolina, Henry McMaster, memiliki wewenang untuk menunjuk pengganti sementara Senator Graham."
+    },
+    {
+      "speaker": "Todd",
+      "text": "And of course, we assume that Senator McMaster is working on that as we speak. Senator McMaster did issue this statement posted on X, quote, \"Peggy and I and our children are devastated. Lindsey Graham is irreplaceable. The fiercest of fighters for South Carolina and America, and a loyal and steadfast friend. We grieve with Darline, his family and his devoted staff. May God hold him gently in the palm of his hand.",
+      "cn": "Tentu saja, kami berasumsi Senator McMaster sedang menangani hal ini saat ini. Senator McMaster mengeluarkan pernyataan di X, mengatakan: 'Peggy, saya, dan anak-anak kami hancur. Lindsey Graham tidak tergantikan. Dia adalah pejuang terkuat South Carolina dan Amerika, serta teman yang setia dan teguh. Kami berduka bersama Darlene, keluarganya, dan stafnya yang setia. Semoga Tuhan memeluknya dengan lembut.'"
+    },
+    {
+      "speaker": "Todd",
+      "text": "We shall not see his likes again.\" That a quote from South Carolina's Republican Governor Henry McMaster, who we can tell you is empowered to appoint at least a temporary replacement for Senator Graham. That mention of Darline in that post from Governor McMaster is a reference to Senator Graham's younger sister, Darline, who Senator Graham actually helped raise when their parents died, when both he and his younger sister were very young. Senator Graham was an undergraduate in college.",
+      "cn": "'Kita tidak akan pernah melihat orang seperti dia lagi.' Itu adalah kutipan dari Gubernur Partai Republik South Carolina Henry McMaster, dan kami dapat memberi tahu Anda bahwa dia memiliki wewenang untuk menunjuk setidaknya satu pengganti sementara Senator Graham. Darlene yang disebutkan Gubernur McMaster dalam postingannya merujuk pada saudara perempuan Senator Graham, Darlene. Ketika orang tua Senator Graham meninggal, dia dan saudara perempuannya masih sangat muda, dan dia membantu membesarkan saudara perempuannya. Saat itu Senator Graham masih kuliah."
+    },
+    {
+      "speaker": "Todd",
+      "text": "His sister, Darline, was a teenager. He helped raise her and eventually adopted her. That reference to Darline from Governor Henry McMaster is what that is all about. Others, of course, weighing in. Senate Majority Leader John Thune with a long statement posted on X, talking about how just dedicated, loyal and what a great friend that Senator Graham was and what just a powerful and influential senator he was.",
+      "cn": "Saudara perempuannya Darlene saat itu masih remaja. Dia membantu membesarkannya dan akhirnya mengadopsinya. Itulah yang dimaksud Gubernur Henry McMaster dengan Darlene. Tentu saja, yang lain juga angkat bicara. Pemimpin Mayoritas Senat John Thune mengeluarkan pernyataan panjang di X, membahas betapa fokus, setia, dan teman yang hebat Senator Graham, serta betapa berpengaruh dan berkuasanya dia sebagai senator."
+    },
+    {
+      "speaker": "Todd",
+      "text": "That's a long statement from Senator Thune saying, Lindsey's long and dedicated service in the Air Force and in Congress carried him to far-flung regions of the world. He was a strong advocate for the United States and a strong ally to freedom-loving countries across the globe. The senator's statement goes on for a while there just talking about just, you know, how revered Senator Lindsey Graham was in the U.S. Senate.",
+      "cn": "Pernyataan panjang Senator Thune ini mengatakan bahwa pengabdian Lindsey yang panjang dan fokus di Angkatan Udara dan Kongres telah membawanya ke sudut-sudut dunia yang jauh. Dia adalah pendukung teguh Amerika dan sekutu setia negara-negara yang mencintai kebebasan di seluruh dunia. Pernyataan senator itu berlanjut sebentar, hanya membahas betapa dihormatinya Senator Graham di Senat AS."
+    },
+    {
+      "speaker": "Todd",
+      "text": "Also, tributes have come in from Israeli Prime Minister Benjamin Netanyahu discussing Senator Graham's steadfast support of Israel. We do know that Senator Graham was in Ukraine just a couple of days ago, meeting with Ukrainian President Volodymyr Zelenskyy returning, we believe -- he spoke to reporters actually on Friday from Ukraine and returning to the U.S. shortly after that the senator passing away in Washington, D.C. So just basically hours after his return from Ukraine, we get news of his passing, Rene.",
+      "cn": "Selain itu, Perdana Menteri Israel Benjamin Netanyahu juga memberikan penghormatan, membahas dukungan teguh Senator Graham terhadap Israel. Kami tahu Senator Graham beberapa hari yang lalu berada di Ukraina, bertemu dengan Presiden Ukraina Volodymyr Zelensky, dan kami yakin dia berbicara kepada wartawan di Ukraina pada hari Jumat, tak lama setelah itu kembali ke AS, dan senator meninggal di Washington, D.C. Jadi pada dasarnya hanya beberapa jam setelah kembali dari Ukraina, kami mendapat kabar kematiannya, Rene."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And that is why this is all so stunning. And again, we've been saying this all morning, but no one expected this because of all that you just laid out. He was just traveling. He was just in Ukraine. We saw Zelenskyy post on social media about Senator Graham and the work that he was doing there. Brian Todd, thank you so much. Joining me now on the phone is CNN congressional correspondent Lauren Fox. Lauren, you have been covering Capitol Hill with CNN for quite some time now.",
+      "cn": "Itulah mengapa semua ini sangat mengejutkan. Sekali lagi, kami telah mengatakannya sepanjang pagi, tetapi tidak ada yang menduga ini, karena semua alasan yang baru saja Anda sebutkan. Dia baru saja bepergian. Dia baru saja di Ukraina. Kami melihat Zelensky memposting di media sosial tentang Senator Graham dan pekerjaan yang dia lakukan di sana. Brian Todd, terima kasih banyak. Sekarang kita hubungi koresponden CNN Capitol Hill, Lauren Fox. Lauren, Anda telah meliput Capitol Hill untuk CNN cukup lama."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "I want to first start with just your experience with covering Lindsey Graham. What was he like, as you know, between journalist and politician? Tell me that perspective. LAUREN FOX, CNN CONGRESSIONAL CORRESPONDENT (on the phone): Yes, I mean, obviously, everyone is really shocked by this news because Senator Graham was such a fixture on Capitol Hill. He was someone who regularly spoke out on news of the day. He was, obviously, a fierce defender of Donald Trump and was a key ally of the White House on Capitol Hill.",
+      "cn": "Saya ingin mulai dengan pengalaman Anda meliput Lindsey Graham. Seperti apa dia, menurut Anda, sebagai interaksi antara wartawan dan politisi? Ceritakan perspektif itu. Koresponden CNN Capitol Hill Lauren Fox (sambungan telepon): Ya, maksud saya, jelas, semua orang sangat terkejut dengan berita ini karena Senator Graham adalah sosok yang sering terlihat di Capitol Hill. Dia sering berkomentar tentang berita hari itu. Jelas, dia adalah pembela setia Donald Trump dan sekutu utama Gedung Putih di Capitol Hill."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "So, he was a really valued voice. If you're a reporter in the halls and you're trying to understand what's going on day to day in the Republican Party, you're talking really frequently to Senator Lindsey Graham. Now, I first got to know Senator Graham when I was covering immigration reform back in 2013.",
+      "cn": "Jadi, suaranya sangat berharga. Jika Anda seorang wartawan di koridor yang mencoba memahami apa yang terjadi di Partai Republik setiap hari, Anda akan sangat sering berbicara dengan Senator Lindsey Graham. Saya pertama kali mengenal Senator Graham pada tahun 2013 saat meliput reformasi imigrasi."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "He was part of the bipartisan Gang of Eight, a group of lawmakers who worked together to bolster border security, as well as create a path to legalization for millions of immigrants who were living in the shadows in this country. And obviously, that was a huge bipartisan effort in Congress. It ended up not going anywhere in the House of Representatives, but it did pass the U.S. Senate. And he was a very key voice, a very key senator on that bill.",
+      "cn": "Dia adalah anggota 'Gang of Eight' bipartisan, sebuah kelompok legislator yang bekerja sama untuk memperkuat keamanan perbatasan dan menciptakan jalur legalisasi bagi jutaan imigran yang hidup dalam bayang-bayang negara ini. Jelas, ini adalah upaya bipartisan besar di Kongres. Akhirnya tidak berhasil di DPR, tetapi berhasil lolos di Senat AS. Dia adalah suara yang sangat penting dalam RUU itu, senator yang sangat penting."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "He had worked really closely with his friend and longtime mentor, Senator John McCain, on that legislation. And there were several instances, even once Donald Trump took office, that Senator Lindsey Graham became a major commentator and advocate on immigration related issues. Now, over time, his view and his position sort of evolved as the Republican Party's and President Trump's position really hardened the position of Republicans on that issue. But that's how I got to know Senator Graham initially.",
+      "cn": "Dia pernah bekerja sama dengan teman dan mentor lamanya, Senator John McCain, dalam undang-undang itu. Bahkan setelah Donald Trump menjabat, ada beberapa kali Senator Lindsey Graham menjadi komentator dan advokat utama dalam isu-isu terkait imigrasi. Seiring waktu, ketika Partai Republik dan Presiden Trump mengambil sikap yang benar-benar keras dalam masalah imigrasi, pandangan dan posisinya juga berubah. Tapi itulah cara saya pertama kali mengenal Senator Graham."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "I mean, he was someone who also was extremely outspoken on foreign policy issues. I mean, he built his career as a defense hawk, as you noted. And as Brian noted, he was just in Ukraine a couple of days ago, meeting with the president of that country, Volodymyr Zelenskyy. And that was a reoccurring visit that he had taken. I mean, he has visited that country multiple times since the Russian invasion.",
+      "cn": "Maksud saya, dia juga sangat vokal dalam masalah kebijakan luar negeri. Seperti yang Anda tunjukkan, dia membangun kariernya sebagai elang pertahanan. Seperti yang dikatakan Brian, dia beberapa hari yang lalu berada di Ukraina, bertemu dengan Presiden negara itu, Volodymyr Zelensky. Ini adalah salah satu dari banyak kunjungan. Dia telah mengunjungi negara itu beberapa kali sejak invasi Rusia."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "He has been a really strong ally of Ukraine in terms of supplying them with defense systems, planes, weapons that they need as they continue to fight the Russians. And that is something that he has been unwavering on over the course of his career. Obviously, he has been a strong advocate for intervention across the world, from Iraq to Afghanistan to Iran, more recently defending the president's role there.",
+      "cn": "Dia adalah sekutu yang sangat teguh dalam menyediakan sistem pertahanan, pesawat, dan senjata yang dibutuhkan Ukraina untuk melawan Rusia. Sepanjang kariernya, hal ini tidak pernah goyah. Jelas, dia adalah advokat kuat untuk intervensi global, dari Irak ke Afghanistan ke Iran, dan baru-baru ini membela peran presiden di sana."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "So, you know, he is someone who just has been involved in every facet of American life, whether that is the U.S. position abroad, immigration. He, obviously, served as the chairman of the Senate Judiciary Committee and was the chairman of the Senate Budget Committee when President Trump renewed his tax bill earlier in the second term. So obviously, he is someone who's a really key voice for Republicans, Rene.",
+      "cn": "Jadi, Anda tahu, dia adalah seseorang yang terlibat dalam setiap aspek kehidupan Amerika, baik posisi Amerika di luar negeri maupun masalah imigrasi. Jelas, dia pernah menjabat sebagai Ketua Komite Kehakiman Senat dan Ketua Komite Anggaran Senat saat mendorong RUU pajak di awal masa jabatan kedua Presiden Trump. Jadi, jelas, dia adalah suara yang sangat penting di Partai Republik, Rene."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Lauren Fox, thank you so much. And our coverage continues with Senator Graham's death. When we come back from our break next, we'll talk about his strong support for both Israel and Ukraine as reaction to his death comes from international leaders.",
+      "cn": "Lauren Fox, terima kasih banyak. Liputan kami terus berlanjut tentang meninggalnya Senator Graham. Setelah istirahat, kami akan membahas dukungan teguhnya terhadap Israel dan Ukraina, serta reaksi para pemimpin internasional atas kematiannya."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "We are following breaking news, the passing of South Carolina Senator Lindsey Graham. Just last Friday, he was in Ukraine meeting with Ukrainian President Volodymyr Zelenskyy in Kyiv. Graham was working on a Russia sanctions bill to try to help end Russia's war on Ukraine. In a social media post, Zelenskyy commented on Graham's consistent effort to try to secure peace in that area. Zelenskyy wrote in part, quote, \"Good meeting with U.S. Senator Lindsey Graham in Kyiv.",
+      "cn": "Kami mengikuti berita terkini: Senator South Carolina Lindsey Graham meninggal dunia. Jumat lalu, dia bertemu dengan Presiden Ukraina Volodymyr Zelensky di Kyiv. Graham saat itu sedang menyusun rancangan undang-undang sanksi terhadap Rusia untuk membantu mengakhiri perang Rusia di Ukraina. Zelensky berkomentar di media sosial tentang upaya berkelanjutan Graham untuk perdamaian di kawasan itu. Zelensky menulis: \"Pertemuan yang baik dengan Presiden AS Lindsey Graham di Kyiv.\""
+    },
+    {
+      "speaker": "Marsh",
+      "text": "This is already his 10th visit to our country, and we appreciate this support.\" Well, for more on Graham's diplomatic work in Ukraine, we turn to CNN's international diplomatic editor, Nic Robertson. Nic, again, we know that Senator Graham was a fierce advocate for Ukraine and trying to end hostilities between Ukraine and Russia. What's the reaction that you're hearing coming from that region?",
+      "cn": "\"Ini sudah kunjungannya yang kesepuluh ke negara kami, dan kami berterima kasih atas dukungan ini.\" Mengenai pekerjaan diplomatik Graham di Ukraina, kami menghubungi Editor Diplomatik Internasional CNN Nic Robertson. Nic, kita tahu Senator Graham adalah pendukung kuat Ukraina dan berkomitmen untuk mengakhiri permusuhan antara Ukraina dan Rusia. Apa yang Anda dengar tentang reaksi dari kawasan itu?"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "Yes, this is something that was hugely important for Ukraine. President Zelenskyy saying that Senator Graham was there when the Ukrainian people needed him. As you mentioned, 10 visits since Russia's full scale invasion earlier in 2022. So this is, you know, clearly someone who was an interventionist, if you will. Whereas President Trump's MAGA base was more isolationist. He believed in propping up United States allies around the world. And Ukraine was one of those.",
+      "cn": "Ya, ini sangat penting bagi Ukraina. Presiden Zelensky mengatakan Senator Graham hadir saat rakyat Ukraina membutuhkannya. Seperti yang Anda sebutkan, sejak invasi penuh Rusia pada awal 2022, dia telah berkunjung 10 kali. Jadi, ini jelas seorang intervensionis, jika Anda mau. Sementara basis MAGA Presiden Trump lebih cenderung isolasionis. Dia percaya mendukung sekutu Amerika di seluruh dunia, dan Ukraina adalah salah satunya."
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "He believed that by supporting Ukraine, you made Europe, your European allies safer, that you put limits on President Putin's expansionism agenda. And to that point, that part of this visit, where in Ukraine on just Friday, where he visited the latest and sort of most up to date Ukrainian drone factory, the SkyFall factory, where he was able to see their long range bomber drones that are penetrating deep into Russia, hitting energy facilities more than a thousand miles away from Ukraine, to their front line drones",
+      "cn": "Dia percaya bahwa dengan mendukung Ukraina, Anda membuat Eropa, sekutu Eropa Anda, lebih aman, membatasi agenda ekspansionis Presiden Putin. Untuk itu, dalam kunjungan ini, tepatnya Jumat lalu, dia mengunjungi pabrik drone paling baru dan tercanggih Ukraina -- SkyFall -- di mana dia melihat drone pengebom jarak jauh mereka yang mampu mencapai sasaran di dalam Rusia, menyerang fasilitas energi lebih dari seribu mil dari Ukraina, serta drone garis depan mereka"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "that sort of can buzz in and out of the trenches. You know, get and target and defend troops on the battlefield. As well as their defensive drones that intercept Iran's drones and are now becoming an indispensable part of what the United States allies in the Gulf need to defend against attacks from Iran.",
+      "cn": "Drone yang bisa bermanuver di parit, mampu menargetkan dan mempertahankan pasukan di medan perang. Dan drone pertahanan mereka yang bisa mencegat drone Iran, yang kini menjadi bagian integral dari pertahanan sekutu AS di Teluk melawan serangan Iran."
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "So, President Zelenskyy was able to show all of that to Senator Graham, because he knew that by bringing this understanding of where Ukraine was out on the battlefield, of its dynamic military capabilities, that this message would end up inside the White House, that he would be able to communicate that to President Trump. And that was the kind of advocacy and support inside the White House that President Zelenskyy was looking for.",
+      "cn": "Jadi, Presiden Zelensky bisa menunjukkan semua ini kepada Senator Graham karena dia tahu, dengan membuat Graham memahami situasi di medan perang Ukraina dan kemampuan militernya yang dinamis, informasi itu pada akhirnya akan sampai ke Gedung Putih, dan dia bisa menyampaikannya kepada Presiden Trump. Dan itulah dukungan dan advokasi di dalam Gedung Putih yang dicari Presiden Zelensky."
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "Lindsey Graham himself talking about this mission, this particular trip on Friday, and how that was aimed at putting more sanctions on Russia. This is what he said. SEN. LINDSEY GRAHAM (R-SC): We've reached agreement with the White House on a version of the Russian sanctions bill that they will support. It means it's going to become law.",
+      "cn": "Lindsey Graham sendiri berbicara tentang misi ini, khususnya perjalanan Jumat lalu, dan bagaimana hal itu bertujuan untuk menjatuhkan lebih banyak sanksi terhadap Rusia. Inilah yang dia katakan. Senator Lindsey Graham (R-SC): Kami telah mencapai kesepakatan dengan Gedung Putih mengenai versi RUU sanksi Rusia yang mereka dukung. Itu berarti akan menjadi undang-undang."
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "So when I get back to Washington, I'm going to go with Senator Blumenthal to the Republican and Democratic leader to see if we can find time to move this Russian sanctions package that would give tools to President Trump to help end this war.",
+      "cn": "Jadi ketika saya kembali ke Washington, saya akan pergi bersama Senator Blumenthal menemui pimpinan Partai Republik dan Demokrat untuk melihat apakah kami bisa mendapatkan waktu untuk memajukan paket sanksi Rusia ini, yang akan memberi Presiden Trump alat untuk membantu mengakhiri perang ini."
+    },
+    {
+      "speaker": "Robertson",
+      "text": "So on this war, Lindsey Graham wasn't just a key player for Ukraine but for European leaders as well who wanted greater advocacy from President Trump, who wanted greater involvement inside of Ukraine. And let's look back to just last year, late February, that disastrous meeting in the Oval Office where President Trump berates President Zelenskyy. Senator Graham, who until that moment had been a very, very staunch supporter of President Zelenskyy, calling it a disastrous meeting.",
+      "cn": "Dalam perang ini, Lindsey Graham bukan hanya tokoh kunci bagi Ukraina, tetapi juga bagi para pemimpin Eropa yang berharap Presiden Trump akan lebih aktif mengadvokasi dan lebih terlibat di Ukraina. Mari kita ingat kembali akhir Februari lalu, dalam pertemuan bencana di Oval Office, Presiden Trump memarahi Presiden Zelensky. Dan Senator Graham, yang sebelumnya adalah pendukung sangat kuat Presiden Zelensky, menyebut pertemuan itu bencana."
+    },
+    {
+      "speaker": "Robertson",
+      "text": "And wondering whether or not he could continue to support the Ukrainian president. But fast forward just a few months, where the Europeans have stepped up, formed their coalition of the willing, who is it from the United States that the Europeans have representing the U.S.",
+      "cn": "Dan dia ragu apakah dia masih bisa mendukung presiden Ukraina. Tapi hanya beberapa bulan kemudian, negara-negara Eropa telah bergerak membentuk 'koalisi yang bersedia' mereka, lalu siapa dari pihak AS yang mewakili Amerika dalam koalisi ini?"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "on that coalition of the willing, it is Lindsey Graham, and that was because they knew he was valuable to what they wanted to achieve as well, that he would bring the message into the White House, interventionist, supporter of Ukraine, thwart to President Putin. So not just Ukraine and so many other countries' leaders will miss him. But I think on the European stage, he certainly had a value for the Europeans at this time.",
+      "cn": "Dalam koalisi yang bersedia ini, adalah Lindsey Graham, karena mereka tahu dia juga berharga bagi apa yang ingin mereka capai, dia akan membawa pesan intervensionis, dukung Ukraina, kalahkan Putin ke dalam Gedung Putih. Jadi bukan hanya Ukraina dan banyak pemimpin negara lain yang akan merindukannya. Tapi saya pikir di panggung Eropa, dia sangat berharga bagi orang Eropa saat ini."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And it certainly raises the question, is there a Republican that could fill that void that is now left by Lindsey Graham as it relates to those foreign relations? Nic Robertson, thank you so much for that perspective. And it wasn't just Ukraine. Senator Graham was also known for his strong support of Israel. Already, several Israeli leaders are expressing their condolences. Israeli Prime Minister Benjamin Netanyahu posted this in part on social media, quote, \"Israel has lost one of its greatest friends.",
+      "cn": "Ini tentu menimbulkan pertanyaan: dalam hal hubungan luar negeri, adakah anggota Partai Republik yang bisa mengisi kekosongan yang ditinggalkan Lindsey Graham? Nic Robertson, terima kasih banyak atas analisisnya. Dan bukan hanya Ukraina, Senator Graham juga dikenal karena dukungannya yang kuat terhadap Israel. Beberapa pemimpin Israel telah menyampaikan belasungkawa. Perdana Menteri Israel Benjamin Netanyahu menulis di media sosial sebagian: \"Israel kehilangan salah satu sahabat terbesarnya."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "America lost a great patriot. I have lost a beloved friend.\" Let's go to Jerusalem Bureau Chief Oren Liebermann, with more on that part of Graham's legacy. Good morning, Oren.",
+      "cn": "Amerika kehilangan seorang patriot besar. Saya kehilangan seorang sahabat karib.\" Mari kita hubungi Kepala Biro Yerusalem Oren Liebermann untuk mengetahui lebih lanjut tentang warisan Graham ini. Selamat pagi, Oren."
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "Good morning, Rene. That sentiment of heartfelt feeling of thanks, of deep, deep grievance and mourning is not unique to Prime Minister Benjamin Netanyahu. We see it from politicians across the Israeli spectrum, from the coalition under Netanyahu, to the opposition. I'll read you just a smattering of these statements here. This is former Prime Minister Naftali Bennett, who said he is heartbroken to hear of the passing of Lindsey Graham.",
+      "cn": "Selamat pagi, Rene. Rasa terima kasih yang tulus, kesedihan yang mendalam, dan duka cita ini tidak hanya dirasakan oleh Perdana Menteri Benjamin Netanyahu. Kami melihatnya dari para politisi di seluruh spektrum Israel, dari koalisi Netanyahu hingga oposisi. Saya bacakan beberapa pernyataan. Mantan Perdana Menteri Naftali Bennett mengatakan dia patah hati mendengar berita kematian Lindsey Graham."
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "He said, America has lost a devoted patriot and Israel has lost one of its greatest friends. Former Defense Minister Avigdor Lieberman also said, for years, Graham stood by her side even when it required courage and even when it involved significant criticism. And I'll read one more here. Former Prime Minister Yair Lapid said, Lindsey has unwavering moral clarity, a deep devotion to the people of Israel, and a clear vision for a secure and peaceful Middle East.",
+      "cn": "Dia mengatakan Amerika kehilangan seorang patriot setia, Israel kehilangan salah satu sahabat terbesarnya. Mantan Menteri Pertahanan Avigdor Lieberman juga mengatakan bahwa selama bertahun-tahun, Graham selalu berada di pihak Israel, bahkan ketika itu membutuhkan keberanian, bahkan ketika itu melibatkan kritik besar. Saya bacakan satu lagi. Mantan Perdana Menteri Yair Lapid mengatakan Lindsey memiliki kejelasan moral yang tak tergoyahkan, pengabdian yang mendalam kepada rakyat Israel, dan visi yang jelas untuk membangun Timur Tengah yang aman dan damai."
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "Lindsey Graham was a staunch supporter and advocate for Israel in the U.S., not just championing the cause of Israel, but he pushed for more funding for Israel's defense. He pushed for the memorandum of understanding and more U.S. funding for Israel's weaponry. That has been something he's done for years. He visited here frequently. I've attended his press conferences here and been invited to many more as he made it a point to come here repeatedly, not only since October 7th, 2023, 2023, but even before that.",
+      "cn": "Lindsey Graham adalah pendukung dan advokat kuat Israel di Amerika, dia tidak hanya berjuang untuk kepentingan Israel tetapi juga mendorong lebih banyak dana untuk pertahanan Israel. Dia mendorong nota kesepahaman dan mengamankan lebih banyak dana AS untuk persenjataan Israel. Ini sudah dia lakukan selama bertahun-tahun. Dia sering berkunjung ke sini. Saya pernah menghadiri konferensi persnya dan diundang lebih sering, karena dia bersikeras datang berulang kali, tidak hanya setelah 7 Oktober 2023, tetapi bahkan sebelumnya."
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "And in fact, many of those now putting out message of condolences and messages of mourning are also sharing pictures with Lindsey Graham. For Netanyahu, he was especially important because even when there was a division between Netanyahu and President Donald Trump, when it came to Iran, Lebanon, Gaza or other issues, it was Graham that had Netanyahu's ear.",
+      "cn": "Faktanya, banyak dari mereka yang sekarang menyampaikan belasungkawa dan penghormatan juga membagikan foto bersama Lindsey Graham. Bagi Netanyahu, dia sangat penting karena bahkan ketika Netanyahu dan Presiden Donald Trump berbeda pendapat mengenai Iran, Lebanon, Gaza, atau masalah lainnya, Graham bisa membuat Netanyahu didengar."
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "Netanyahu could speak with Graham and try to use that to either try to sway the Congress or put his opinion, his position out there, but also would use Graham and would work with Graham to try to show Trump Israel's position here. So from that perspective, Graham was very important politically to Netanyahu himself. We've also been told with an Israeli source familiar with the matter that Netanyahu is considering trying to see if he can attend Graham's funeral in the United States.",
+      "cn": "Netanyahu bisa berbicara dengan Graham dan mencoba menggunakannya untuk mempengaruhi Kongres atau menyampaikan pandangan dan posisinya, dan juga akan menggunakan Graham dan bekerja sama dengan Graham untuk mencoba menunjukkan posisi Israel kepada Trump. Jadi dari sudut pandang ini, Graham sangat penting secara politik bagi Netanyahu sendiri. Kami juga mendapat informasi dari sumber Israel yang mengetahui masalah ini bahwa Netanyahu sedang mempertimbangkan apakah dia bisa menghadiri pemakaman Graham di AS."
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "That, in and of itself would also give him an opportunity to meet with Trump. The two had agreed to meet after one of their most recent phone calls, but that hasn't been put on the agenda. This would be a chance for Netanyahu to pay his respects to someone who's considered one of Israel's strongest supporters, and perhaps to meet Trump as well, Rene.",
+      "cn": "Ini sendiri juga akan memberinya kesempatan untuk bertemu dengan Trump. Keduanya telah setuju untuk bertemu setelah percakapan telepon baru-baru ini, tetapi belum dijadwalkan. Ini akan menjadi kesempatan bagi Netanyahu untuk memberi penghormatan kepada seseorang yang dianggap sebagai salah satu pendukung terkuat Israel, dan mungkin juga bertemu dengan Trump, Rene."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Oren, thank you. And we're going to take a quick break, and then we'll continue our breaking news coverage of the death of Senator Lindsey Graham at the age of 71. Stay with",
+      "cn": "Oren, terima kasih. Kami akan istirahat sejenak, kemudian melanjutkan berita terkini tentang meninggalnya Senator Lindsey Graham pada usia 71 tahun. Tetap bersama kami."
+    },
+    {
+      "speaker": "Cnn. Marsh",
+      "text": "We're back to our breaking news coverage of the death of Senator Lindsey Graham. According to his office, the 71-year-old South Carolina Republican died from a brief and sudden illness last night. Graham has long been one of President Trump's most trusted allies on Capitol Hill. Here he is just last month.",
+      "cn": "Kami melanjutkan berita terkini tentang meninggalnya Senator Lindsey Graham. Menurut kantornya, anggota Partai Republik dari South Carolina berusia 71 tahun ini meninggal tadi malam karena penyakit singkat yang mendadak. Graham telah lama menjadi salah satu sekutu paling tepercaya Presiden Trump di Capitol Hill. Ini adalah pernyataannya bulan lalu."
+    },
+    {
+      "speaker": "Graham",
+      "text": "And when it comes to President Trump, Mr. President, I'm going to be your strongest ally in the United States Senate. I'm going to be the Trump guy in the United States Senate helping the Trump agenda for your last two years. You're on course, my friend, to be one of the most consequential presidents in American history. And what did we prove tonight? That South Carolina is Trump country, not Massie country.",
+      "cn": "Adapun Presiden Trump, Tuan Presiden, saya akan menjadi sekutu terkuat Anda di Senat AS. Saya akan menjadi orang Trump di Senat yang membantu Anda memajukan agenda dua tahun terakhir Anda. Teman saya, Anda sedang dalam perjalanan menjadi salah satu presiden paling berpengaruh dalam sejarah Amerika. Apa yang kami buktikan malam ini? South Carolina adalah wilayah Trump, bukan wilayah Massie."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Well, let's bring in CNN political commentator Maria Cardona. Maria, you have been in Washington for years now. I want to first start off by asking you, what are they saying within Washington circles right now from this news that is shocking so many?",
+      "cn": "Baik, mari kita undang komentator politik CNN Maria Cardona. Maria, Anda sudah bertahun-tahun di Washington. Pertama-tama saya ingin bertanya, apa reaksi kalangan dalam Washington terhadap berita yang mengejutkan banyak orang ini?"
+    },
+    {
+      "speaker": "Maria Cardona",
+      "text": "Well, that's exactly the first thing that they're saying, Rene, is just what a shock, what a tremor this is within D.C. political circles, within the country and within the whole world. As you have been talking about, Lindsey Graham was very involved in U.S. foreign policy. It was one of his passions. It was one of the areas that he had expertise in. And I think it's been one of the areas where he's really made a difference for the better, especially when it comes to Ukraine.",
+      "cn": "Yah, hal pertama yang mereka katakan, Rene, adalah betapa mengejutkan dan mengguncangnya ini bagi dunia politik Washington, bagi seluruh negeri, dan bagi dunia. Seperti yang telah Anda bahas, Lindsey Graham sangat terlibat dalam kebijakan luar negeri AS. Itu adalah hasratnya dan salah satu bidang keahliannya. Saya pikir itu juga salah satu bidang di mana dia benar-benar membuat perubahan positif, terutama dalam masalah Ukraina."
+    },
+    {
+      "speaker": "Maria Cardona",
+      "text": "And Zelenskyy, I'm sure, is very sad today because Lindsey Graham was one of the ones who was whispering into Trump's ear about how important it was for the United States to stand up against Russia on the side of Ukraine. And so we'll see what happens with that. But as a foreign policy hawk, that is where I think you saw recently one of the biggest ways in which Lindsey Graham really influenced the way that Trump saw and acted in terms of the war between Russia and Ukraine.",
+      "cn": "Zelenskyy pasti sangat sedih hari ini, karena Lindsey Graham adalah salah satu yang membisikkan kepada Trump bahwa Amerika harus berdiri di sisi Ukraina melawan Rusia. Jadi kita akan lihat apa yang terjadi di sana. Tapi sebagai elang kebijakan luar negeri, saya pikir ini adalah salah satu contoh terbesar bagaimana Lindsey Graham baru-baru ini memengaruhi pandangan Trump tentang perang Rusia-Ukraina."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes, that was going to be my next question. I mean, it sounds like you think that, you know, his influence in the space of foreign relations. Would you say that that is going to be his most lasting impact on Washington and even the Republican Party? CARDONA (on-camera): I think it will be one of the biggest ones. But there were a lot of issues in which Lindsey Graham affected policy and was influential. And one of the other areas where he was very effective and influential is the area of immigration.",
+      "cn": "Ya, itu tepat yang akan saya tanyakan selanjutnya. Maksud saya, Anda sepertinya berpikir pengaruhnya di bidang hubungan luar negeri. Apakah Anda pikir ini akan menjadi dampaknya yang paling abadi di Washington dan bahkan Partai Republik? Cardona (di layar): Saya pikir ini akan menjadi salah satu dampak terbesar. Tapi Lindsey Graham telah memengaruhi kebijakan dan memiliki pengaruh di banyak isu. Area lain di mana dia sangat efektif dan berpengaruh adalah imigrasi."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "As you can recall, he was part of the story, the gang of eight, the eight senators that in I believe it was 2013 really focused on immigration reform. And it was at the point where we almost were able to achieve bipartisan immigration reform. And it was in large part because of those eight senators that included Lindsey Graham. Sadly, we didn't get there. But Lindsey Graham had been a big advocate of immigration reform.",
+      "cn": "Anda mungkin ingat, dia adalah anggota 'Gang of Eight', yaitu delapan senator, saya yakin pada tahun 2013, yang benar-benar fokus pada reformasi imigrasi. Saat itu kami hampir mencapai reformasi imigrasi bipartisan. Itu sebagian besar berkat delapan senator itu, termasuk Lindsey Graham. Sayangnya, kami tidak berhasil. Tapi Lindsey Graham selalu menjadi pendukung kuat reformasi imigrasi."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "He changed that in in the latest years when he became one of, you know, like he you just showed the clip where he said that he was going to be one of Trump's biggest advocates and biggest supporters in the Senate. And he did become that. And, you know, sadly to a lot of folks, immigration advocates chagrin, he turned his back on exactly the same subject that he had been such a supporter of in years past.",
+      "cn": "Dalam beberapa tahun terakhir, dia berubah menjadi -- seperti yang dia katakan dalam klip yang baru Anda putar -- dia akan menjadi salah satu pendukung dan advokat terbesar Trump di Senat. Dan dia benar-benar melakukannya. Dan, yang membuat frustrasi banyak orang, terutama advokat imigrasi, dia meninggalkan isu-isu yang selama ini dia dukung."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And I think there's going to be a lot of discussion about the way in which Lindsey Graham changed his views when he became one of Trump's biggest supporters. But I think for now, Rene, we're going to focus on how he served the country. He served 33 years in uniform. I think we have to salute that. He served for so many years in Congress and in the Senate serving the people of South Carolina.",
+      "cn": "Saya pikir akan ada banyak diskusi tentang bagaimana Lindsey Graham mengubah pandangannya setelah menjadi salah satu pendukung terbesar Trump. Tapi untuk saat ini, Renee, kami akan fokus pada bagaimana dia melayani negara. Dia bertugas di militer selama 33 tahun. Saya pikir kita harus menghormatinya. Dia melayani rakyat South Carolina di Kongres dan Senat selama bertahun-tahun."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "So today, may he rest in peace and our thoughts and prayers and condolences go out to his family, his friends and the people of South Carolina. There will be plenty of time to talk about politics and plenty of time to talk about his record.",
+      "cn": "Jadi hari ini, semoga dia beristirahat dalam damai, pikiran, doa, dan belasungkawa kami untuk keluarga, teman, dan rakyat South Carolina. Akan ada cukup waktu untuk membahas politik dan rekam jejaknya."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Maria Cardona, thank you so much. And it wasn't just his foreign policy influence, but Senator Graham also proved to be one of the most effective and reliable communicators in President Trump's inner circle. Whenever the administration did something that needed defending or explaining, Graham frequently stepped up. I want to bring in CNN's chief media analyst, Brian Stelter, with more on that side of Lindsey Graham and his legacy.",
+      "cn": "Maria Cardona, terima kasih banyak. Dan, bukan hanya pengaruh kebijakan luar negerinya, Senator Graham juga terbukti sebagai salah satu komunikator paling efektif dan dapat diandalkan di lingkaran dalam Presiden Trump. Setiap kali pemerintah perlu membela atau menjelaskan sesuatu, Graham sering tampil. Saya ingin mengundang Brian Stelter, analis media utama CNN, untuk membahas sisi ini dan warisan Lindsey Graham."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Brian, what are your thoughts on Graham and his role as the communicator for the Trump administration many times? BRIAN STELTER, CNN CHIEF MEDIA ANALYST (on-camera): Well, number one, he just he loved actually being a politician. Now, there are some senators. I was, you know, once a page in the Senate decades ago.",
+      "cn": "Brian, apa pendapat Anda tentang peran Graham sebagai komunikator untuk pemerintahan Trump? Brian Stelter (di layar): Pertama, dia memang suka menjadi politisi. Beberapa senator -- saya dulu menjadi pramusaji di Senat puluhan tahun lalu --"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "I remember this very vividly, even from back then, how there are some folks who enter that arena who are senators, who are lawmakers, who are in various public officials jobs, who actually are not there because they love the sport or necessarily love to be wooing the public, persuading the public. Lindsey Graham did. He truly loved the sport and the art of politics. And you could see that through his television appearances. You use the word communicator.",
+      "cn": "Saya masih ingat jelas, bahkan saat itu, beberapa orang masuk ke bidang itu, menjadi senator, legislator, atau memegang jabatan publik, sebenarnya bukan karena mereka menyukai olahraga itu atau bersemangat untuk meraih publik, meyakinkan publik. Lindsey Graham tidak seperti itu. Dia benar-benar menyukai olahraga dan seni politik. Anda bisa lihat dari penampilannya di TV. Anda menggunakan kata 'komunikator'."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "That's exactly the word, you know, describing the way that he was a champion for President Trump for the past 10 years across the television dial on Fox News. Yes. But on many other channels, he was actually scheduled to appear on NBC's Meet the Press later today. So when we think about the shock of his sudden death, that really emphasizes how -- how suddenly this occurred. He had been booked. He had been promoted as a guest appearing this morning.",
+      "cn": "Itulah kata yang tepat, menggambarkan caranya menjadi pembela Presiden Trump di TV seperti Fox News selama dekade terakhir. Ya, tapi di banyak saluran lain, dia dijadwalkan tampil di NBC 'Meet the Press' hari ini. Jadi ketika kita memikirkan kejutan kematian mendadaknya, ini menyoroti betapa tiba-tiba semuanya terjadi. Dia sudah dijadwalkan, dipromosikan sebagai tamu pagi ini."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And of course, he had been on the program dozens of times before because he understood that he had to and wanted to be on television in order to use that public stage to push his views and to promote his agenda and to promote President Trump's agenda. So very much through the television, he recognized that was his way to serve. And gosh, 10 years ago, he really became a symbol of how Trump was taking over the party. I think people sometimes forget that Graham was in that GOP primary in 2015.",
+      "cn": "Tentu, dia sudah puluhan kali tampil di acara itu sebelumnya, karena dia mengerti bahwa dia harus dan ingin tampil di TV untuk menggunakan panggung publik itu untuk mendorong pandangannya, mempromosikan agendanya dan agenda Presiden Trump. Jadi sebagian besar melalui TV, dia menyadari itulah cara dia melayani. Ya ampun, sepuluh tahun lalu, dia benar-benar menjadi simbol bagaimana Trump mengambil alih Partai Republik. Saya pikir orang kadang lupa Graham ikut pemilihan pendahuluan Partai Republik pada 2015."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "He was on the Fox News debate stage for that very first two-part debate back in 20 -- in 2015. He did not make it very far in that primary. He saw exactly what Trump was doing to the party. And so, people use the word loyal. People use many critical words to describe how he evolved. But certainly back then, that moment, he saw what was happening to the GOP in real time in 2015 and 2016. And then that speaks to the idea that he really loved the art and the sport of being a politician.",
+      "cn": "Dia pernah naik panggung debat di debat dua bagian awal Fox News 2015. Dia tidak melaju jauh dalam pemilihan pendahuluan itu. Dia menyaksikan langsung apa yang dilakukan Trump pada Partai Republik. Jadi, orang menggunakan kata 'kesetiaan' dan juga banyak kata kritis untuk menggambarkan evolusinya. Tapi tentu, saat itu, dia melihat secara real-time apa yang terjadi pada Partai Republik pada 2015 dan 2016. Dan ini lagi-lagi menunjukkan bahwa dia benar-benar menyukai seni dan olahraga politik."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes. And I wonder just, you know, how effective do you think he was in communicating on behalf of President Trump? And what was it about Graham that the Trump administration or President Trump wanted him to speak on his behalf? STELTER (on-camera): Well, one, number one, what President Trump said on True Social this morning, he made a comment about how Graham was always working. That's something that Trump likes. It's something he looks for in his allies.",
+      "cn": "Ya. Saya ingin tahu, menurut Anda seberapa efektif dia berkomunikasi mewakili Presiden Trump? Mengapa pemerintahan Trump atau Presiden Trump ingin Graham berbicara atas namanya? Stelter (di layar): Pertama, Presiden Trump pagi ini berkomentar di Truth Social bahwa Graham selalu bekerja. Itu yang disukai Trump dan yang dia cari pada sekutunya."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "He views himself as always working 24/7, and he viewed Graham the same way that Graham was willing to be out there doing those television hits. Again, something that he enjoyed doing. And there was also a levity. There was a, you know, Graham was very relaxed in that way, in that forum, being willing and able at all times to go out there and play defense, and then, of course, offense, too. But that idea of levity, I think that's a word Tim Scott used earlier today.",
+      "cn": "Dia menganggap dirinya bekerja 24/7, dan dia melihat Graham dengan cara yang sama, yaitu Graham bersedia tampil di wawancara TV. Juga, itu adalah hal yang dia suka lakukan. Dan ada rasa mudah. Anda tahu, Graham sangat santai dalam situasi seperti itu, selalu siap dan mampu untuk bertahan, dan tentu saja menyerang. Tapi rasa mudah itu, saya pikir itu kata yang digunakan Tim Scott hari ini."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "That's something that also has stood out to me over the years, seeing Graham in those forums. And, you know, he just offended off, I think it was five challengers in his primary election last month. You know, so that speaks to someone who is, you know, again, really enjoying what he was doing every single day.",
+      "cn": "Selama bertahun-tahun, melihat Graham tampil di situasi itu juga membuat saya terkesan. Anda tahu, bulan lalu dia baru saja mengalahkan, saya pikir lima penantang di pemilihan pendahuluan. Jadi, itu menunjukkan tentang orang ini, Anda tahu, sekali lagi, dia benar-benar menikmati apa yang dia lakukan setiap hari."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And I think, you know, certainly one thing President Trump valued about Graham was that he saw the value and the influence of those TV appearances, also of that social media footprint, that Graham was always in the arena and willing at all times to be part of that Trump alliance.",
+      "cn": "Dan saya pikir, tentu saja, yang dihargai Presiden Trump dari Graham adalah dia melihat nilai dan pengaruh dari penampilan TV itu, juga jejak media sosial, Graham selalu di arena, selalu siap menjadi bagian dari koalisi Trump."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Brian Stelter, thank you. And stay with \"CNN This Morning\" as we continue to follow the death of Senator Lindsey Graham. We are also watching the breaking news in the war with Iran as the U.S. targets Iranian military sites in their latest strikes. All that coming up.",
+      "cn": "Brian Stelter, terima kasih. Tetap ikuti CNN This Morning, kami akan terus melaporkan berita kematian Senator Lindsey Graham. Kami juga memantau berita terbaru tentang perang dengan Iran, AS menargetkan pangkalan militer Iran dalam serangan terbaru. Semua akan segera tayang."
+    },
+    {
+      "speaker": "Unidentified Male",
+      "text": "This is CNN Breaking News.",
+      "cn": "Ini CNN Breaking News."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Well, good morning. We are continuing to follow our breaking news out of Washington. Longtime Senator Lindsey Graham has died from a brief and sudden illness. His office announced this early this morning. Graham served as a senator for South Carolina for more than two decades. Initial 911 audio revealed emergency personnel responded to a call for cardiac arrest at Graham's home in D.C. He had just celebrated his 71st birthday last week. And breaking news from the Middle East. U.S.",
+      "cn": "Selamat pagi. Kami terus mengikuti berita terbaru dari Washington. Senator senior Lindsey Graham meninggal karena penyakit singkat dan mendadak. Kantornya mengumumkan berita ini pagi ini. Graham menjabat sebagai senator dari South Carolina selama lebih dari dua puluh tahun. Rekaman 911 awal menunjukkan petugas medis dipanggil karena Graham mengalami serangan jantung di rumahnya di Washington. Dia baru saja merayakan ulang tahunnya yang ke-71 minggu lalu. Dan berita terbaru dari Timur Tengah. Komando Pusat AS merilis video baru serangan AS terhadap 140 target militer Iran. Ini terjadi setelah serangan terhadap kapal dagang di Selat Hormuz yang menyebabkan satu orang hilang. AS menyalahkan Islamic Revolutionary Guard Corps atas serangan itu. Sekarang media negara Iran mengklaim mereka membalas serangan terbaru AS dengan menyerang target militer AS. Nada Bashir dari CNN bergabung dengan saya sekarang."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Central Command shared new video of strikes the U.S. military says it carried out on 140 Iranian military targets. This comes just after an attack on a merchant ship in the Strait of Hormuz that left one person missing. Now the U.S. is blaming that attack on the Islamic Revolutionary Guard Corps. Now Iranian state media claims it's retaliating for the latest U.S. attacks by targeting U.S. military sites. Well CNN's Nada Bashir joins me now.",
+      "cn": "Nada, apa yang Anda ketahui tentang serangan terbaru ini? Nada Bashir (di layar): Ini adalah serangan gelombang ketiga AS terhadap Iran. Seperti yang Anda sebutkan, kami mendapat konfirmasi dari Komando Pusat AS bahwa sekitar 140 target terkena. Mereka menyebutnya target militer, termasuk pangkalan rudal dan drone, fasilitas angkatan laut, gudang amunisi, serta jaringan komunikasi dan lokasi pengawasan pantai."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Nada, what are you learning about these latest attacks? NADA BASHIR, CNN CORRESPONDENT (on-camera): Well, this is the third round of strikes now carried out by the U.S. military targeting Iran. As you mentioned, we've heard from the U.S. Central Command confirming that around 140 targets were struck. They say these were military targets, including missile and drone sites, naval capabilities, ammunition storage facilities, as well as communications networks and coastal surveillance locations.",
+      "cn": "Tentu, ini terjadi setelah Iran mengumumkan akan menutup Selat Hormuz. Dan kami juga melihat setelah serangan AS, Islamic Revolutionary Guard Corps melakukan serangan balasan, menargetkan pasukan dan aset AS serta sekutu di wilayah Teluk Persia. Oleh karena itu, kami mendengar peringatan dari pejabat Kuwait, Bahrain, UEA, dan Yordania tentang ancaman dari Iran, dan dalam beberapa kasus terjadi intersepsi."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Now, of course, this has come after Iran announced that it would be closing the Strait of Hormuz. And we have also seen since these strikes carried out by the U.S. military retaliatory strikes carried out also by the IRGC targeting U.S. and allied forces, allied assets in the Gulf region. So we have heard from officials in Kuwait, in Bahrain, in the UAE, for example, as well as in Jordan warning of a threat from Iran and that in some cases there were interceptions.",
+      "cn": "Tapi, tentu, ini juga terjadi saat beberapa mediator terus berupaya membawa pengaruh diplomatik, mencoba solusi diplomatik untuk eskalasi permusuhan terbaru ini. Faktanya, kami melihat Menteri Luar Negeri Iran bertemu dengan Menteri Luar Negeri Oman di Oman kemarin."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "But, of course, this also comes as efforts continue by some mediators to try to bring about some sort of diplomatic impact, to try to pass some sort of diplomatic resolution to this latest escalation of hostilities. And, in fact, we did see the Iranian foreign minister just yesterday meeting with his Omani counterpart in Oman.",
+      "cn": "Menurut pejabat yang mengetahui, fokus pembicaraan ini tentu saja Selat Hormuz, yang masih menjadi hambatan utama dalam upaya mediasi diplomatik, dan tentu saja, area di mana kami masih melihat perbedaan besar antara posisi Iran dan AS. Iran telah menyatakan ingin mempertahankan kendali atas kapal yang melintasi Selat Hormuz, ingin kapal melewati koridor di sepanjang garis pantainya."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Now, the focus of those talks, according to officials familiar with the discussions, was, of course, the Strait of Hormuz, which continues to be a key stumbling block in diplomatic mediation efforts and, of course, continues to be an area where we are still seeing significant daylight between the Iranian and the U.S. position. Now, Iran has expressed its wish to maintain control over vessels passing through the Strait of Hormuz. It wants to see ships passing through a corridor along its coastline.",
+      "cn": "According to informed officials, the focus of these talks is of course the Strait of Hormuz, which remains a key obstacle in diplomatic mediation efforts, and of course, an area where we still see significant differences between the positions of Iran and the United States. Iran has expressed its desire to maintain control over ships passing through the Strait of Hormuz, hoping that vessels will travel along the corridor of its coastline."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "But according to a source familiar with those discussions which took place just yesterday between Oman and Iran, there may be a proposal in the works for some sort of mutual control aspect element to this deal, which could potentially shift the needle somewhat in terms of a mediation and resolution effort.",
+      "cn": "But according to a source familiar with the discussions between Oman and Iran yesterday, a proposal may be brewing involving some form of shared control elements, which could be a breakthrough in mediation and resolution efforts."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Nada Bashir, thank you. And going deeper on this, joining me now for analysis is curator with The Iranist Substack, Holly Dagres. Thank you so much for joining us this morning, Holly. I guess I just want to start at the core of all of this. The two sides can't seem to agree on what they agreed on. They both walked away from the same talks, but they seem like both countries have different understandings, and that is really at the heart of what's happening there in the Strait of Hormuz.",
+      "cn": "Thank you, Nada Bashir. For deeper analysis, joining me now is Holly Dagres, curator of the Iranist Substack. Thank you so much for joining us this morning, Holly. I want to start at the heart of all this. The two sides seem unable to agree on what they have agreed on. They leave the same talks, but the two countries seem to have different understandings, and that is at the core of what is happening in the Strait of Hormuz."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Is this, you know, failure in communication? Is this a trust issue? Is this that they just were never aligned from the very beginning?",
+      "cn": "Is this a failure of communication? Is it a trust issue? Or did they never agree from the start?"
+    },
+    {
+      "speaker": "Holly Dagres",
+      "text": "That's a really great question. I should start by saying, you know, there has been distrust for 47 years and more recently under this administration, there were talks happening and then there was the two wars that took place, the first in June of 2025, the 12-day war, and then the latest, of course, was the three-month war. And what really it comes down to is that at the outcome of this latest iteration of war, the United States and Iran both think that they won it.",
+      "cn": "That's a great question. I would first say that there has been mistrust for 47 years, and recently during this administration, there were talks, then two wars, first the 12-day war in June 2025, and most recently a three-month war. At the end of the day, in the outcome of the most recent war, both the US and Iran believe they won."
+    },
+    {
+      "speaker": "Holly Dagres",
+      "text": "And when you have two sides that think that they won the war, they also means that they have different interpretations of the memorandum of understanding that they've signed. And that's what's been clear since the most recent attacks that have been happening with these tit- for-tats. It's not been just the past 24 hours or so, these have been going on for weeks. And so it really boils down to, as you noted, the strait of Hormuz.",
+      "cn": "When both sides believe they won the war, it also means they have different interpretations of the signed memorandum of understanding. This has been evident since the recent tit-for-tat attacks. It's not just the past 24 hours; it's been going on for weeks. So, as you said, it comes down to the Strait of Hormuz."
+    },
+    {
+      "speaker": "Holly Dagres",
+      "text": "And one of the other aspects that have been key in part of these talks that are being kicked down the road is the state of Iran's nuclear program.",
+      "cn": "Another key aspect delayed in these talks is the status of Iran's nuclear program."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes. And let's talk a little bit about the mediators at the heart of this, right? Oman and Qatar, they have invested an enormous amount of diplomatic capital. They're trying to get these negotiations jump-started again, keep them alive. Yesterday, we know that Oman proposed a framework for the strait of Hormuz and shipping routes there so that the strait can remain open without hostilities. And then shortly afterwards, we see that shots were fired towards a vessel and now the strait is completely shut down.",
+      "cn": "Yes. Let's talk about the core mediators, right? Oman and Qatar have invested huge diplomatic capital. They are trying to restart and keep these negotiations alive. Yesterday, we know Oman proposed a framework regarding the Strait of Hormuz and shipping routes to keep the strait open without hostilities. Then shortly after, we saw a ship was shot at, and now the strait is completely closed."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And so, it got me wondering, does this suggest in any way that maybe mediators could be losing their leverage between these two countries?",
+      "cn": "So, this makes me wonder, does this indicate to some extent that the mediators may be losing influence over these two countries?"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "So leverage, I think the Iranians seem to think that they do have this leverage in this moment. You noted about the talks that Oman's having. It's been several countries involved, Oman, Qatar, and of course, Pakistan. And so interestingly, when we were talking about these latest iteration of strikes by Iran, U.S. officials said it was actually the Omani side, the southern side of the strait of Hormuz that this latest vessel was attacked.",
+      "cn": "Regarding influence, I think the Iranians seem to believe they have that influence right now. You mentioned the ongoing talks in Oman. Several countries are involved: Oman, Qatar, and of course Pakistan. Interestingly, when we talk about Iran's recent series of attacks, US officials say the latest ship attacked was actually on the Omani side of the Strait of Hormuz, the southern side."
+    },
+    {
+      "speaker": "Dagres",
+      "text": "And the Iranians are saying, well, any part of the strait, we have control over it. And so that was the kind of messaging they were sending. And in this moment, the negotiators really need to scramble to make things a concerted effort to make sure that this does not escalate because it seems like we're only moving up the escalation ladder, rather the de-escalation ladder. And so in this moment, it seems that the Iranians want to keep exerting themselves that they have complete control.",
+      "cn": "And the Iranians say they have control over any part of the strait. That's the message they are sending. At this moment, negotiators really need to quickly coordinate and ensure the situation does not escalate, because it seems we are just climbing higher on the escalation ladder, not the de-escalation ladder. So, for now, it appears the Iranians want to continue showing they have full control."
+    },
+    {
+      "speaker": "Dagres",
+      "text": "There will not be a northern or southern version of the strait where two different parties are controlling it.",
+      "cn": "There will not be a northern or southern strait controlled by two separate parties."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes, and speaking of escalation, I mean, this conflict appears to be stuck in this pattern of military escalation, negotiations, more military escalation, more negotiation. How much of this pattern reflects really the personalities of the leadership styles of the two governments, President Trump and the Supreme Leader there in Iran? And I'm just wondering, you know, how much of this is being driven by these two leaders who believe, it appears, that fighting is almost a form of negotiation.",
+      "cn": "Yes, speaking of escalation, I mean, this conflict seems stuck in a pattern of military escalation, negotiations, more military escalation, more negotiations. To what extent does this pattern reflect the leadership styles of the two governments, namely President Trump and Iran's Supreme Leader? I just wonder, to what extent is this driven by these two leaders, who seem to see fighting almost as a form of negotiation."
+    },
+    {
+      "speaker": "Dagres",
+      "text": "Well, this leads to my earlier report. This is where the problem lies. When you have these two countries thinking that they won the war, they think that they can have the ultimate leverage over the other. So the Iranians understand that there are midterm elections coming up, the Strait of Hormuz, which they've shut down, put a strangle on the world economy, and that, you know, this is a deeply unpopular war within the United States.",
+      "cn": "Well, this goes back to my earlier reporting. The problem is here. When both countries believe they won the war, they think they have ultimate leverage over the other. The Iranians understand that the US midterm elections are coming, and the Strait of Hormuz they have blocked is strangling the world economy, and this war is very unpopular domestically in the US."
+    },
+    {
+      "speaker": "Dagres",
+      "text": "So for them, they're saying, OK, if we keep exerting this pressure, we're going to get the best out of this potential deal that they're trying to negotiate. Granted, both sides are saying that the ceasefire no longer is in place, but it seems that there is talk still happening and ongoing, at least between negotiators --",
+      "cn": "So for them, they are thinking, okay, if we continue to apply this pressure, we can get the maximum benefit from the potential agreement they are trying to negotiate. Admittedly, both sides say the ceasefire no longer exists, but it seems negotiations are still ongoing, at least among the negotiators --"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "-- from third-party countries. And so, the United States has also seen the same way. The more pressure --",
+      "cn": "-- from third-party countries. And the US sees the same logic. The more pressure --"
+    },
+    {
+      "speaker": "Dagres",
+      "text": "-- we put on the Islamic Republic, the more likely they'll bend the knee to us and give us what we want.",
+      "cn": "-- we apply on the Islamic Republic, the more likely they are to yield to us and give us what we want."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Holly Dagres, thank you so much. And stick with us here for more breaking news, the tragic passing of U.S. Senator Lindsey Graham when we return from the break.",
+      "cn": "Holly Dagres, thank you very much. Please stay with us for more breaking news: US Senator Lindsey Graham has sadly passed away. We'll be back after the break."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Back to our breaking news. Senator Lindsey Graham has died. The longtime Republican senator from South Carolina died from a brief and sudden illness last night, according to his office. Graham was a close ally to President Trump. The President paid tribute to Graham, calling him, quote, a true American patriot. Well, two people were killed and several others injured after a shooting at Canada's biggest Latin street festival in Toronto. A total of six people were shot.",
+      "cn": "Back to our breaking news. Senator Lindsey Graham has died. According to his office, the long-time Republican senator from South Carolina died last night from a sudden illness. Graham was a close ally of President Trump. The president paid tribute to Graham, calling him a 'true American patriot.' Also, a shooting at Canada's largest Latin street festival in Toronto left two dead and several injured. A total of six people were shot."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Police say it happened when at least two people were shooting at each other. And a Georgia teen accused of killing four people at his high school is expected to change his plea. Colt Gray, now 16, initially pleaded not guilty to killing two students and two teachers. But court documents show he'll appear in court later this month for a change of plea hearing. His trial is set to start in October. Well, heavy rain is hitting New Orleans. Here's how much rain they got enough to paddleboard down a street.",
+      "cn": "Police say at least two people were shooting at each other when the incident occurred. A Georgia teenager accused of killing four people at his high school is expected to change his plea. Colt Gray, now 16, initially pleaded not guilty to charges of killing two students and two teachers. But court documents show he will appear in court later this month for a plea change hearing. His trial is set to begin in October. Also, New Orleans is being hit by heavy rain. Here are the rainfall amounts: enough for people to paddleboard on the streets."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Officials there say some neighborhoods got more than three and a half inches of rain in an hour. CNN's Melissa Nord joins me now tracking our latest forecast. Good morning, Melissa. MELISSA NORD, CNN METEOROLOGIST (on-camera): Good morning, Rene. And a lot of heavy rain still falling across southern Louisiana this morning. We've got deep tropical moisture working off the Gulf and zooming out, a little frontal boundary kind of triggering more of those pop-up showers and thunderstorms.",
+      "cn": "Local officials say some communities received over 3.5 inches of rain in one hour. CNN's Melissa Nord joins us now to track the latest forecast. Good morning, Melissa. CNN meteorologist Melissa Nord (on camera): Good morning, Rene. There is still a lot of heavy rain across southern Louisiana this morning. Deep tropical moisture from the Gulf of Mexico is spreading, and a small frontal boundary is triggering more showers and thunderstorms."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "We could see some isolated stronger storms, especially over the Carolinas. But the bigger focus for a lot of areas will just be that southern kind of downpour that can lead to that flash flooding. Here's the high-resolution future radar this afternoon. More of those showers and storms popping up in the Carolinas, back through Louisiana and Texas. And then for tomorrow, more of the same. But locally, there could be some areas that pick up a good two to four inches over the next two days combined.",
+      "cn": "We may see some isolated stronger storms, especially in the Carolinas. But many areas are more concerned about the heavy downpours in the South, which could lead to flash flooding. Here is the high-resolution future radar for this afternoon. More showers and storms will develop in the Carolinas, Louisiana, and Texas. Similar conditions tomorrow. But locally, 2 to 4 inches of rain could accumulate over the next two days."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Other major story, the Great Basin all the way to the upper Midwest. We've got major heat building in some of these areas. Temperatures pushing 20 or more degrees above average. Look at Billings, Montana, 87 degrees the normal. Forecast high today, 111. That would smash their all-time high record of 108. Rene?",
+      "cn": "Another major story: from the Great Basin all the way to the upper Midwest. These areas are experiencing extreme heat, with temperatures 20 degrees or more above average. Look at Billings, Montana: normal high is 87°F, today's forecast high is 111°F, which would break the all-time record of 108°F. Rene?"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Thank you, Melissa. Thank you. And ahead in the next hour, we will continue our breaking news coverage of the death of U.S. Senator Lindsey Graham. He died at the age of 71. We will have live team coverage and analysis coming up in this 7 o'clock hour. var CNN = CNN || {};",
+      "cn": "Thank you, Melissa. Thank you. In the next hour, we will continue to cover the breaking news of US Senator Lindsey Graham's death. He was 71 years old. We will have live team coverage and analysis in the 7 o'clock hour."
+    },
+    {
+      "speaker": "Rene Marsh",
+      "text": "Well, it's Sunday, July 12th. Thanks so much for joining us this morning. I'm Rene Marsh in for Victor Blackwell. Now we begin with breaking news. South Carolina Senator Lindsey Graham has died. His office announced this morning that the longtime senator died from a brief and sudden illness, but did not give further details. Graham was elected to the House in 1994 and the Senate in 2002. He was running for his fifth term as senator in this fall's midterm elections.",
+      "cn": "Today is Sunday, July 12. Thank you so much for joining us this morning. I'm Rene Marsh, filling in for Victor Blackwell. We begin now with breaking news. South Carolina Senator Lindsey Graham has died. His office announced this morning that the long-serving senator died after a brief and sudden illness, but did not provide further details. Graham was elected to the House in 1994 and to the Senate in 2002. He was running for his fifth Senate term in this fall's midterm elections."
+    },
+    {
+      "speaker": "Rene Marsh",
+      "text": "President Trump paid tribute to Graham in a post on Truth Social saying, \"Senator Graham, one of the greatest people and senators I have ever known, is dead. He was always working and was a true American patriot. Lindsey Graham will be greatly missed.\" Lindsey Graham had just celebrated his 71st birthday last week. CNN's Brian Todd joins us now with the very latest on what we know so far. Brian?",
+      "cn": "Presiden Trump memposting penghormatan untuk Graham di Truth Social, mengatakan: \"Senator Graham, salah satu orang dan senator terhebat yang pernah saya kenal, telah meninggal. Dia terus bekerja, seorang patriot Amerika sejati. Lindsey Graham akan sangat dirindukan.\" Lindsey Graham baru saja merayakan ulang tahunnya yang ke-71 minggu lalu. Brian Todd dari CNN bergabung dengan kami sekarang dengan berita terbaru. Brian?"
+    },
+    {
+      "speaker": "Brian Todd",
+      "text": "Well, Rene, we do have some new information. This is coming from details that we're getting from the emergency dispatch audio. We're going to play that in just one second. What we can tell you at this hour is that Senator Graham's spokesperson said that the senator died after a, quote, \"brief and sudden illness.\" The spokesperson is saying Senator Graham's family appreciates prayers at this time and asks for privacy during this incredibly difficult period.",
+      "cn": "Rene, kami memang memiliki beberapa informasi baru. Informasi ini berasal dari rekaman darurat yang kami peroleh. Kami akan memutarnya sebentar lagi. Yang bisa kami katakan sekarang adalah, juru bicara Senator Graham mengatakan bahwa senator tersebut meninggal karena \"penyakit yang singkat dan mendadak.\" Juru bicara mengatakan bahwa keluarga Graham berterima kasih atas doa-doa dan meminta privasi selama masa yang sangat sulit ini."
+    },
+    {
+      "speaker": "Brian Todd",
+      "text": "They are only saying from his side that he died of a brief and sudden illness. But here's what we can tell you. According to audio of the emergency dispatch, this is on Broadcastify. Broadcastify is an online platform for streaming live public safety communications. According to audio of that emergency dispatch, emergency responders were dispatched to a Washington, D.C., address for Senator Graham at about 8:30 p.m. on Saturday evening for a report of someone suffering from chest pains.",
+      "cn": "Mereka hanya mengatakan dia meninggal karena penyakit yang singkat dan mendadak. Tapi yang bisa kami katakan adalah, berdasarkan rekaman darurat (dari Broadcastify, platform streaming komunikasi keselamatan publik secara langsung), petugas darurat dikirim ke sebuah alamat di Washington DC sekitar pukul 8:30 malam pada hari Sabtu untuk menangani laporan seseorang yang mengalami nyeri dada."
+    },
+    {
+      "speaker": "Brian Todd",
+      "text": "The audio indicates that someone had called in from Baltimore and was on the way to that home at that time. The dispatcher said the caller believed that the door to the home was unlocked, but when emergency responders got there, they said it was deadbolted. That is according to the audio of the emergency dispatch on Broadcastify. The audio shows that about 25 minutes later they reported that CPR was in progress. We can play for you about a 10-second clip that gives some additional detail.",
+      "cn": "Rekaman menunjukkan bahwa seseorang menelepon dari Baltimore, sedang dalam perjalanan ke rumah tersebut. Petugas operator mengatakan bahwa penelepon mengira pintu rumah terbuka, tetapi ketika petugas tiba, mereka mengatakan pintu terkunci. Ini berdasarkan rekaman darurat dari Broadcastify. Rekaman menunjukkan bahwa sekitar 25 menit kemudian, mereka melaporkan sedang melakukan CPR. Kami dapat memutar klip sekitar 10 detik untuk memberikan lebih banyak detail."
+    },
+    {
+      "speaker": "Brian Todd",
+      "text": "This is from the emergency response broadcast on Broadcastify. Take a listen to this.",
+      "cn": "Ini adalah siaran respons darurat dari Broadcastify. Silakan dengarkan."
+    },
+    {
+      "speaker": "Unidentified Female",
+      "text": "EMS six responds to engine seven medic seven on scene cardiac arrest. EMS six responds to engine seven medic seven with cardiac arrest.",
+      "cn": "EMS Six Response Engine Seven Medic Seven, cardiac arrest di lokasi. EMS Six Response Engine Seven Medic Seven, cardiac arrest."
+    },
+    {
+      "speaker": "Todd",
+      "text": "And, again, we can just, you know, again reiterate that that call discusses cardiac arrest. We cannot confirm at this hour that Senator Graham actually died of cardiac arrest. That was a call discussing cardiac arrest, piecing it together. You can also -- we can also tell you that emergency responders were dispatched to the address for someone -- for Senator Graham at about 8:30 p.m. Saturday for a report of someone suffering from chest pains.",
+      "cn": "Sekali lagi, kami tegaskan bahwa panggilan itu membahas tentang cardiac arrest. Saat ini kami tidak dapat memastikan apakah Senator Graham benar-benar meninggal karena cardiac arrest. Itu adalah panggilan yang membahas cardiac arrest, dan kami sedang menyusun informasi. Kami juga dapat memberi tahu Anda bahwa sekitar pukul 8:30 malam pada hari Sabtu, petugas darurat dikirim ke alamat tersebut untuk menangani laporan nyeri dada untuk Senator Graham."
+    },
+    {
+      "speaker": "Todd",
+      "text": "That is according to audio of the emergency dispatch on the service Broadcastify. The audio, again, indicates that someone had called in from Baltimore and was on the way to the home at that time at about 8:30 p.m. on Saturday. The dispatcher said the caller believed the door was unlocked, but emergency responders said it was deadbolted. That is according to that audio. And about 25 minutes later they reported that CPR was in progress.",
+      "cn": "Ini berdasarkan rekaman darurat dari layanan Broadcastify. Rekaman kembali menunjukkan bahwa seseorang menelepon dari Baltimore sekitar pukul 8:30 malam pada hari Sabtu, sedang dalam perjalanan ke kediaman tersebut. Petugas operator mengatakan bahwa penelepon mengira pintu tidak terkunci, tetapi petugas darurat mengatakan pintu terkunci. Ini berdasarkan rekaman itu. Sekitar 25 menit kemudian, mereka melaporkan sedang melakukan CPR."
+    },
+    {
+      "speaker": "Todd",
+      "text": "We can also tell you that the governor of South Carolina, Henry McMaster, is empowered to appoint a temporary replacement for Senator Graham. We believe that Senator -- that Governor McMaster is, of course, dealing with that situation right now. Governor McMaster issued a statement posted on X saying, quote, \"Peggy and I and our children are devastated. Lindsey Graham is irreplaceable, the fiercest of fighters for South Carolina and America, and a loyal and steadfast friend.",
+      "cn": "Kami juga dapat memberi tahu Anda bahwa Gubernur South Carolina Henry McMaster memiliki wewenang untuk menunjuk pengganti sementara Senator Graham. Kami yakin Gubernur McMaster tentu sedang menangani situasi ini. Gubernur McMaster dalam pernyataan di X mengatakan: \"Peggy, saya, dan anak-anak kami sangat berduka. Lindsey Graham tidak tergantikan, dia adalah pejuang terkuat South Carolina dan Amerika, serta teman yang setia dan teguh.\""
+    },
+    {
+      "speaker": "Todd",
+      "text": "We grieve with Darline, his family, and his devoted staff. May God hold him gently in the palm of his hand. We shall not see his likes again.\" That is a statement from Governor Henry McMaster of South Carolina. Governor McMaster is empowered to appoint a temporary replacement for Senator Graham. That reference to Darline is a reference to Graham's younger sister, Darline. Rene?",
+      "cn": "\"Kami berduka bersama Darlene, keluarganya, dan staf setianya. Semoga Tuhan memeluknya dengan lembut. Kita tidak akan pernah melihat orang seperti dia lagi.\" Itu adalah pernyataan Gubernur South Carolina Henry McMaster. Gubernur McMaster memiliki wewenang untuk menunjuk pengganti sementara Senator Graham. Darlene yang disebut dalam pernyataan itu adalah saudara perempuan Graham, Darlene. Rene?"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Brian Todd, thank you. And for more, we are joined by CNN Presidential Historian Tim Naftali. He's a former director of the Nixon Presidential Library. Thanks so much for joining us this morning on this breaking news day, really shocking news surrounding the death of Senator Lindsey Graham. I want, from your perspective, when historians look back at Graham's life and his career, what do you think will be that defining chapter of his public life?",
+      "cn": "Brian Todd, terima kasih. Selanjutnya, kami bersama sejarawan presiden CNN Tim Naftali. Dia pernah menjadi direktur Perpustakaan Kepresidenan Nixon. Terima kasih banyak telah bergabung dengan kami pagi ini, di hari berita mendadak ini, berita tentang meninggalnya Senator Lindsey Graham sungguh mengejutkan. Saya ingin melihat dari sudut pandang Anda, ketika sejarawan melihat kembali kehidupan dan karier Graham, menurut Anda apa babak paling menentukan dalam kehidupan publiknya?"
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "Well, I think there have been a few chapters of Senator Graham's life that will define his long public career. When he was in the House at the very beginning of his congressional career, he was a House manager for the impeachment of Bill Clinton. And at that time, even though he was a new member of the House, he gained national prominence in making certain arguments about impeachment and why a crime wasn't necessary to remove a president. It depended on their character and whether they brought honor to the office.",
+      "cn": "Saya pikir ada beberapa babak dalam kehidupan Senator Graham yang akan mendefinisikan karier publiknya yang panjang. Di awal karier kongresnya sebagai anggota DPR, dia adalah manajer DPR dalam pemakzulan Bill Clinton. Saat itu, meskipun dia anggota baru DPR, dia mendapatkan ketenaran nasional karena mengajukan argumen tertentu dalam masalah pemakzulan, yaitu bahwa pemecatan presiden tidak harus memerlukan kejahatan, tetapi tergantung pada karakter mereka dan apakah mereka membawa kehormatan pada jabatan itu."
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "When he replaced Strom Thurmond in the Senate, Lindsey Graham gained in national recognition as Republicans gained control of the Senate. Lindsey Graham was famous for reaching across the aisle. He worked with Senator Ted Kennedy on immigration reform. He was known to -- he spoke of the importance of bipartisanship, although he was very clear about his own conservative values. In foreign policy, he was an advocate of a strong American presence and a strong American involvement in international affairs.",
+      "cn": "Ketika dia menggantikan Strom Thurmond di Senat, dengan Partai Republik menguasai Senat, Lindsey Graham mendapatkan pengakuan nasional. Lindsey Graham dikenal karena melintasi batas partai. Dia bekerja sama dengan Senator Ted Kennedy dalam reformasi imigrasi. Dia dikenal karena menekankan pentingnya kerja sama bipartisan, meskipun dia sangat jelas tentang nilai-nilai konservatifnya. Dalam kebijakan luar negeri, dia menganjurkan kehadiran dan keterlibatan aktif Amerika dalam urusan internasional."
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "He was viewed as a neoconservative in the George W. Bush era. He was a strong advocate for Israel, but also a strong advocate for NATO and in most recent years for Ukraine. He was in 2008, but well before then, a very close ally of Republican nominee, Senator John McCain. Indeed, they were considered very close friends. And so he was associated with Senator McCain's views of foreign policy and also with Senator McCain's willingness to work with Democrats.",
+      "cn": "Di era George W. Bush, dia dipandang sebagai neokonservatif. Dia adalah pendukung setia Israel, pendukung setia NATO, dan dalam beberapa tahun terakhir, pendukung setia Ukraina. Dia adalah sekutu dekat Senator John McCain, calon presiden dari Partai Republik pada tahun 2008, bahkan sebelumnya. Faktanya, mereka dianggap sebagai teman dekat. Oleh karena itu, dia terkait dengan pandangan kebijakan luar negeri Senator McCain dan kesediaan Senator McCain untuk bekerja sama dengan Demokrat."
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "The next phase is the phase, of course, that is most recent, which is where Senator Graham became close to Donald Trump, President Trump. And at times seemed to be contradicting, if only in spirit, but perhaps in act, some of the commitments that he had shown to the ideas of John McCain and also to the bipartisanship that had shaped some of his actions in the first couple of decades of his time in Washington.",
+      "cn": "Babak berikutnya tentu saja adalah babak yang paling baru, yaitu hubungan dekat Senator Graham dengan Donald Trump, Presiden Trump. Kadang-kadang, dia tampaknya setidaknya secara spiritual, mungkin juga dalam tindakan, bertentangan dengan komitmen yang pernah dia tunjukkan terhadap ide-ide John McCain dan kerja sama bipartisan yang membentuk sebagian dari dua dekade pertamanya di Washington."
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "In most recent years, despite the friendship, the clear friendship with Donald Trump, Senator Graham has continued to support NATO and has viewed the plight of Ukrainians as something that is a concern of American international security. And he has viewed -- and continued to view Russia as a threat. So when looking at his career, one sees a man with conservative values who represents in the big transformation, political transformation of the South.",
+      "cn": "Dalam beberapa tahun terakhir, meskipun memiliki persahabatan yang jelas dengan Donald Trump, Senator Graham terus mendukung NATO dan menganggap penderitaan rakyat Ukraina sebagai bagian dari kepentingan keamanan internasional Amerika. Dia selalu menganggap Rusia sebagai ancaman. Jadi, sepanjang kariernya, dia adalah seorang konservatif yang mewakili transformasi politik besar di Selatan."
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "Lindsey Graham replaced a Democrat when he was elected in the -- to the House from South Carolina and replaced Strom Thurmond. Strom Thurmond had started his career as a Democrat running against Harry Truman for the nomination of the Democratic Party in 1948. He switched to the Republican Party, but Lindsey Graham had been elected as a Republican. So Graham's career indicated was part of the shift to a solid South or somewhat solid South now for the Republican Party.",
+      "cn": "Lindsey Graham menggantikan seorang Demokrat ketika terpilih sebagai anggota DPR dari South Carolina, dan menggantikan Strom Thurmond. Karier politik Thurmond dimulai sebagai Demokrat, bersaing dengan Harry Truman untuk nominasi presiden dari Partai Demokrat pada tahun 1948. Dia kemudian pindah ke Partai Republik, tetapi Graham terpilih sebagai anggota Partai Republik. Oleh karena itu, karier Graham menandai peralihan Selatan ke Partai Republik, atau dengan kata lain, Selatan kini menjadi basis kuat Partai Republik."
+    },
+    {
+      "speaker": "Tim Naftali",
+      "text": "And though he showed a desire for bipartisanship throughout most of his career, in recent years, he has seemed more partisan as he got closer to Donald Trump.",
+      "cn": "Meskipun dia menunjukkan keinginan untuk kerja sama bipartisan selama sebagian besar kariernya, dalam beberapa tahun terakhir, dengan hubungan yang semakin erat dengan Donald Trump, dia tampak lebih partisan."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes. And his evolution on all of the things that you laid out certainly is a part of his legacy as well. Tim Naftali, thank you so much for joining us this morning. And we have more breaking news coverage on the death of Senator Lindsey Graham. Coming up, Graham's work on the world stage and the tributes pouring in from international leaders after the break.",
+      "cn": "Ya. Evolusinya dalam semua masalah yang Anda sebutkan tidak diragukan lagi juga merupakan bagian dari warisan politiknya. Tim Naftali, terima kasih banyak telah berpartisipasi dalam acara kami pagi ini. Selanjutnya kami akan melanjutkan liputan berita mendadak tentang meninggalnya Senator Lindsey Graham. Nantikan laporan tentang kerja Graham di panggung internasional dan ucapan belasungkawa dari para pemimpin internasional."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Well, this morning we are seeing reaction to the sudden death of South Carolina Republican Senator Lindsey Graham. Graham was known for his advocacy and strong support for Israel. And just hours after news broke of his death, several Israeli leaders have expressed their sadness at his passing. Israeli Prime Minister Benjamin Netanyahu posted this in part on social media, quote, \"Israel has lost one of its greatest friends. America lost a great patriot.",
+      "cn": "Pagi ini, kami melihat reaksi atas meninggalnya Senator Partai Republik dari South Carolina Lindsey Graham secara mendadak. Graham dikenal karena advokasi dan dukungan kuatnya terhadap Israel. Hanya beberapa jam setelah berita kematiannya, beberapa pemimpin Israel menyampaikan belasungkawa. Perdana Menteri Israel Benjamin Netanyahu di media sosial mengatakan: \"Israel kehilangan salah satu teman terbesarnya. Amerika kehilangan seorang patriot besar. Saya kehilangan seorang sahabat.\""
+    },
+    {
+      "speaker": "Marsh",
+      "text": "I have lost a beloved friend.\" Well, for reaction in Israel, we turn now to Jerusalem Bureau Chief Oren Liebermann. Oren, 2 o'clock in the afternoon there. What are you hearing from people as far as reaction to the shocking news?",
+      "cn": "Selanjutnya, kami menghubungi kepala biro Yerusalem Oren Liebermann untuk mengetahui reaksi dari pihak Israel. Oren, di sana jam dua siang, bagaimana reaksi orang-orang terhadap berita mengejutkan ini?"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "Rene, Israel sees the passing of Senator Lindsey Graham as a huge loss. He was a passionate advocate for Israel, a staunch supporter of Israel. And he was hawkish on Iran as well as Israel's other adversaries in the region. And that made him Israel's great ally in Washington. He would advocate for Israel to have more funding when it came to missile defense. He was a big proponent of that.",
+      "cn": "Rene, Israel menganggap meninggalnya Senator Lindsey Graham sebagai kerugian besar. Dia adalah advokat yang bersemangat dan pendukung setia Israel. Sikap kerasnya terhadap Iran dan lawan-lawan Israel lainnya di kawasan menjadikannya sekutu penting Israel di Washington. Dia menganjurkan lebih banyak dana untuk pertahanan rudal Israel dan sangat mendukung hal ini."
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "And then he visited often, and not only since October 7, 2023, for decades here, likely going back to when he became a senator in 2002. He would visit Israel. He would hold press conferences here. He would meet not only the media but also officials. Of course, he would meet Prime Minister Benjamin Netanyahu and others repeatedly. He made it a point to be very openly and publicly pro-Israel.",
+      "cn": "Dia sering mengunjungi Israel, tidak hanya sejak 7 Oktober 2023, tetapi selama puluhan tahun, mungkin sejak dia menjadi senator pada tahun 2002. Dia akan mengunjungi Israel, mengadakan konferensi pers di sini, tidak hanya bertemu media tetapi juga pejabat. Tentu saja, dia akan berulang kali bertemu dengan Perdana Menteri Benjamin Netanyahu dan lainnya. Dia secara terbuka dan jelas mendukung Israel."
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "And that's why Israeli officials, not just from the coalition, not just from Netanyahu's side, but also from the opposition, view his passing as a huge loss. You saw some of the statement there from Netanyahu. Let me read you just a couple of other statements. Former Prime Minister Naftali Bennett and one of Netanyahu's key challengers in the upcoming election said, quote, \"I am heartbroken to hear of the passing of my friend Senator Lindsey Graham.",
+      "cn": "Itulah mengapa para pejabat Israel -- -- tidak hanya dari koalisi pemerintahan dan kubu Netanyahu, tetapi juga dari oposisi -- -- menganggap kematiannya sebagai kerugian besar. Anda melihat sebagian pernyataan Netanyahu. Biarkan saya membaca beberapa pernyataan lainnya. Mantan Perdana Menteri Naftali Bennett -- -- salah satu penantang utama Netanyahu dalam pemilihan mendatang -- -- mengatakan: \"Mendengar teman saya Senator Lindsey Graham meninggal, hati saya hancur. Amerika kehilangan seorang patriot yang setia, Israel kehilangan salah satu teman terbesarnya.\""
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "America has lost a devoted patriot, and Israel has lost one of its greatest friends.\" Former Defense Minister Avigdor Lieberman said in a statement, \"Republican Senator Lindsey Graham, one of the greatest supporters of the state of Israel, has passed away.",
+      "cn": "前国防部长阿维格多·利伯曼在一份声明中说：\"共和党参议员林赛·格雷厄姆，以色列国最伟大的支持者之一，已经去世。\""
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "For years he stood by our side, even when it required courage and even when it involved significant criticism.\" And then former Prime Minister Yair Lapid said, \"Lindsey had unwavering moral clarity, a deep devotion of the people of Israel and a clear vision for a secure and peaceful Middle East.\" Even when there was a break between Netanyahu and President Donald Trump, some sort of division on how to handle a regional issue, Graham had Israel's ear, and he would be able to go to Trump and advocate Israel's",
+      "cn": "多年来，他一直站在我们身边，即使这需要勇气，即使这招致了严厉批评。\" 随后，前总理亚伊尔·拉皮德表示：\"林赛有着坚定不移的道德清晰度、对以色列人民的深厚奉献，以及对一个安全和平的中东的明确愿景。\" 即使在内塔尼亚胡与唐纳德·特朗普总统之间出现分歧，即在如何处理地区问题上存在某种分裂时，格雷厄姆仍能倾听以色列的意见，并且他能够去找特朗普，为以色列的立场辩护，或至少试图在这些问题上影响特朗普的想法。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "position or at least try to sway Trump's thinking when it came to some of these issues. And, of course, crucially, especially at this time, that was on Iran. He openly expressed skepticism that Iran was negotiating in good intent and that it would stick to the terms of the Memorandum of Understanding or that that 60-day negotiation window would ever lead to a final agreement. Israel, and specifically Netanyahu, have had those same doubts about Iran.",
+      "cn": "当然，关键的是，尤其是在这个时候，那就是关于伊朗的问题。他公开表示怀疑伊朗是否在真诚谈判，是否会遵守谅解备忘录的条款，或者那60天的谈判窗口是否会最终达成协议。以色列，特别是内塔尼亚胡，对伊朗也有同样的疑虑。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "And for Israel, it was frankly critical to have somebody in Washington, to have Graham, who was so close to Trump, advocating caution on the MOU, on Iran, and frankly advocating for, if necessary, a return to strikes, a return to the joint U.S.- Israeli military campaign. And that's just one of the many reasons that Israel viewed Graham as such an important ally in Washington. And at this point, it's unclear who will take that place.",
+      "cn": "对以色列来说，坦率地说，在华盛顿有像格雷厄姆这样与特朗普关系密切的人，在谅解备忘录和伊朗问题上倡导谨慎，并在必要时主张恢复打击、恢复美以联合军事行动，是至关重要的。而这只是以色列将格雷厄姆视为华盛顿重要盟友的众多原因之一。目前，尚不清楚谁将接替他的位置。"
+    },
+    {
+      "speaker": "Oren Liebermann",
+      "text": "According to an Israeli source, Netanyahu is considering going to the funeral of Senator Lindsey Graham, whenever that's scheduled here in the coming days. That, too, may also give him a chance to meet Trump. The two, in their last known phone call or publicly acknowledged phone call, had talked about meeting in the near future, although a date hadn't been scheduled yet, so perhaps that happens around the funeral of Senator Lindsey Graham. Rene?",
+      "cn": "据一位以色列消息人士称，内塔尼亚胡正在考虑参加参议员林赛·格雷厄姆的葬礼，无论葬礼在未来几天何时举行。这也可能让他有机会与特朗普会面。两人在最近一次已知或公开承认的通话中，曾讨论过在不久的将来会面，尽管尚未确定具体日期，因此可能会在参议员林赛·格雷厄姆的葬礼前后进行。蕾妮？"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Oren, thank you. And Senator Graham's final foreign trip was actually to Ukraine, another place that he was a fierce advocate for Ukraine. And on Friday, he met with Ukrainian President Volodymyr Zelenskyy. And in a social media post, Zelenskyy commented on Graham's relentless diplomatic work to support Ukraine in its battle against Russia. Now, CNN's International Diplomatic Editor Nic Robertson, he joins us now with more on this part of Graham's legacy. Nic?",
+      "cn": "奥伦，谢谢。格雷厄姆参议员的最后一次外访实际上是去乌克兰，这是另一个他强烈支持的地方。周五，他会见了乌克兰总统弗拉基米尔·泽连斯基。泽连斯基在社交媒体上评论了格雷厄姆为支持乌克兰对抗俄罗斯而进行的不懈外交工作。现在，CNN国际外交编辑尼克·罗伯逊将加入我们，带来更多关于格雷厄姆这一部分遗产的报道。尼克？"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "Yes, and it's a legacy that's so important, not just to Ukraine, but to Ukraine's European partners, who were so concerned about President Trump's sort of MAGA-based, more isolationist vision of the United States' future on the global stage, on foreign policy issues like Ukraine, like confronting President Putin. That they saw Lindsey Graham as somebody that was a kindred spirit, the sort of old-school republicanism on foreign policy, as you will, willing to intervene.",
+      "cn": "是的，这份遗产非常重要，不仅对乌克兰，而且对乌克兰的欧洲伙伴也是如此。他们非常担心特朗普总统基于MAGA的、更加孤立主义的美国在全球舞台上的未来愿景，尤其是在乌克兰和对抗普京总统等外交政策问题上。他们认为林赛·格雷厄姆是一个志同道合的人，是那种在外交政策上持老派共和党立场、愿意干预的人。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "Maybe they didn't back him on all the interventions like Iran and things like that. But when it came to Ukraine, you get a sense of that from what we've heard from the NATO Secretary General, Mark Rutte, mourning the passing of Lindsey Graham, but saying that he was, you know, strongly believed in the NATO alliance and that he was working on trying to bring an end to the war. And that is something that we've heard from President Zelenskyy.",
+      "cn": "也许他们并不支持他在伊朗等问题上的所有干预。但谈到乌克兰，我们从北约秘书长马克·吕特的发言中能感受到这一点。吕特哀悼林赛·格雷厄姆的去世，但表示他坚信北约联盟，并致力于努力结束战争。这也是我们从泽连斯基总统那里听到的。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "You know, President Zelenskyy has talked about the 10 times that the senator visited, Lindsey Graham visited Ukraine during Russia's war there since 2022. So a phenomenal high number of visits. And remembering, these visits are not easy. You're going into an active war zone. You're going into Kyiv, a city that is under active and almost daily attack by Russia. It's not somewhere you can fly into. So the transport, the getting there is difficult and takes a long time. So not an easy thing to do.",
+      "cn": "你知道，泽连斯基总统曾提到，自2022年俄罗斯发动战争以来，这位参议员访问了乌克兰10次。这是一个非常高的访问次数。而且要知道，这些访问并不容易。你要进入一个活跃的战区，进入基辅，一个几乎每天遭受俄罗斯攻击的城市。那里不能乘飞机进入。所以交通、到达那里都很困难，需要很长时间。这不是一件容易的事。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "And that, to the Ukrainians, was hugely important. President Zelenskyy saying that Senator Graham was there whenever the country needed him. And they needed him because he could communicate, as Oren was saying, for Netanyahu in the White House, that he could communicate with President Trump. And that was the value to the Europeans as well. Go back to remembering that moment when President Trump had the horrible falling out of President Zelenskyy early last year.",
+      "cn": "这对乌克兰人来说非常重要。泽连斯基总统表示，每当国家需要他时，格雷厄姆参议员都在那里。他们需要他，因为他能够像奥伦所说的那样，为内塔尼亚胡在白宫沟通，能够与特朗普总统沟通。这对欧洲人来说也是价值所在。回想一下去年初特朗普总统与泽连斯基总统发生严重冲突的时刻。"
+    },
+    {
+      "speaker": "Nic Robertson",
+      "text": "The Europeans responded by forming the Coalition of the Willing. It was Lindsey Graham that was a U.S. representative on that Coalition of the Willing because he understood the importance of standing with Ukraine. So on this latest trip, he spoke about his latest efforts to try to get an end to the war. This is what he said. SEN. LINDSEY GRAHAM (R),",
+      "cn": "欧洲人的回应是组建了意愿联盟。林赛·格雷厄姆是该联盟中的美国代表，因为他理解支持乌克兰的重要性。因此，在最近这次访问中，他谈到了他为结束战争所做的最新努力。以下是他所说的话。参议员林赛·格雷厄姆（共和党）："
+    },
+    {
+      "speaker": "South Carolina",
+      "text": "We've reached agreement with the White House on a version of the Russian sanctions bill that they will support. It means it's going to become law. So when I get back to Washington, I'm going to go with Senator Blumenthal, to the Republican and Democratic leader to see if we can find time to move this Russian sanctions package that would give tools to President Trump to help end this war.",
+      "cn": "我们已与白宫就他们支持的俄罗斯制裁法案版本达成一致。这意味着它将成为法律。所以当我回到华盛顿后，我将与参议员布卢门撒尔一起去找共和党和民主党领袖，看看能否找到时间推进这项俄罗斯制裁方案，该方案将为特朗普总统提供工具，以帮助结束这场战争。"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "And ending the war is exactly what the European partners wanted. And of course, Europeans also have been pressuring President Trump to put more sanctions on Russia to bring the economic impact on Russia. Another kind of important point that Lindsey Graham made during that visit to Kyiv was pointing out that China's support for President Putin was key and vital to keeping the war going. He was all about putting more pressure on China to end that support as well.",
+      "cn": "结束战争正是欧洲伙伴们所期望的。当然，欧洲人也一直在向特朗普总统施压，要求对俄罗斯实施更多制裁，以对俄罗斯经济造成影响。林赛·格雷厄姆在访问基辅期间提出的另一个重要观点是，指出中国对普京总统的支持是战争持续的关键和重要因素。他主张向中国施加更大压力，以结束这种支持。"
+    },
+    {
+      "speaker": "Robertson",
+      "text": "So he got the big global picture in the same way that the United States' international allies did that oftentimes it was perceived President Trump didn't.",
+      "cn": "因此，他与美国的国际盟友一样，看到了全局，而人们常常认为特朗普总统没有看到这一点。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Nic Robertson, thank you so much for that perspective. And stick with CNN, we'll have more on our breaking news on the coverage of the death of U.S. Senator Lindsey Graham right after this break. Reaction from Capitol Hill where he was a strong voice for President Trump's agenda.",
+      "cn": "尼克·罗伯逊，非常感谢你的分析。请继续关注CNN，我们将在广告后带来更多关于美国参议员林赛·格雷厄姆去世的突发新闻。来自国会山的反应，他是特朗普总统议程的有力支持者。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "We are continuing to follow the breaking news out of Washington. Longtime Republican Senator Lindsey Graham has died from a, quote, \"brief and sudden illness.\" His office announced this earlier this morning. Graham served as a senator for South Carolina for more than two decades. Initial 911 audio revealed emergency personnel respond to a call for chest pains at Graham's home in D.C. around 8:30 in the evening. EMS reported that CPR was in progress about 25 minutes later.",
+      "cn": "我们继续关注来自华盛顿的突发新闻。长期担任共和党参议员的林赛·格雷厄姆因\"短暂突发疾病\"去世。他的办公室今早宣布了这一消息。格雷厄姆担任南卡罗来纳州参议员超过二十年。最初的911录音显示，紧急救援人员于晚上8点30分左右接到格雷厄姆在华盛顿家中胸痛的求助电话。急救人员报告称，大约25分钟后正在进行心肺复苏。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Senator Graham had a brief run for the Republican presidential nomination in 2015 when he was a critic of Donald Trump. But that changed after Trump took office in 2017. Graham quickly became a vocal ally. By Trump's second term, Graham became one of Trump's most trusted voices in the Senate. And Senator Graham was also known as a foreign policy hawk. He fiercely defended U.S. support for Israel and Ukraine. In fact, he had just returned from Kyiv where he met with Ukrainian President Zelenskyy on Friday.",
+      "cn": "格雷厄姆参议员在2015年曾短暂竞选共和党总统候选人提名，当时他是唐纳德·特朗普的批评者。但特朗普在2017年上任后，情况发生了变化。格雷厄姆迅速成为特朗普的直言不讳的盟友。到特朗普第二任期时，格雷厄姆已成为参议院中特朗普最信任的声音之一。格雷厄姆参议员还以外交政策鹰派著称。他坚决捍卫美国对以色列和乌克兰的支持。事实上，他刚从基辅返回，周五在那里会见了乌克兰总统泽连斯基。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Lindsey Graham turned 71 just last week. With us now is CNN Chief Congressional Correspondent Manu Raju. Manu, you know, you have been on Capitol Hill for decades and you have known Lindsey Graham for decades. From your perspective, what will be his lasting legacy?",
+      "cn": "林赛·格雷厄姆上周刚满71岁。现在连线的是CNN首席国会记者马努·拉朱。马努，你在国会山工作了几十年，也认识林赛·格雷厄姆几十年。从你的角度看，他留下的持久遗产是什么？"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "Well, it will be profound. He was a towering figure in the United States Senate and in Republican politics, an influential voice not just on foreign policy. Of course, he has been a longtime interventionist, and the interventionist wing of the Republican Party has not shifted away from that stance throughout his very long career, but also on the domestic front as well. He plays such a key role on so many issues and was the person that really drove the debate on Capitol Hill on some of those critical issues.",
+      "cn": "嗯，这将意义深远。他是美国参议院和共和党政治中的一位重要人物，不仅在对外政策上具有影响力。当然，他长期以来一直是干预主义者，共和党内的干预主义派别在他漫长的职业生涯中从未偏离这一立场，而且在国内事务上也是如此。他在许多问题上都扮演着关键角色，并且是在国会山推动一些关键问题辩论的人。"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "I mean, just even back when he was a member of the House, he was one of the impeachment managers for the Clinton impeachment trial, the Bill Clinton impeachment trial. That really put him on the map nationally. Then ultimately, he ran for the United States Senate, won the United States Senate seat. He was a longtime ally of the late Senator John McCain, as well as the late Senator Joe Lieberman. They were referred to as the three amigos on Capitol Hill because they often broke ranks with their own party.",
+      "cn": "我的意思是，早在他担任众议员时，他就是克林顿弹劾案（比尔·克林顿弹劾案）的弹劾经理之一。这让他真正在全国范围内声名鹊起。最终，他竞选美国参议员并赢得了参议院席位。他是已故参议员约翰·麦凯恩以及已故参议员乔·利伯曼的长期盟友。他们在国会山被称为\"三剑客\"，因为他们经常与自己的党派意见相左。"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "They cut bipartisan deals. Lindsey Graham, a dealmaker on immigration, a supporter of comprehensive immigration reform, an issue that got him so much trouble from the right flank of his party, facing a Tea Party threat that threatened his career back in the 2014 primary. He ultimately fended that off by some shrewd and deft maneuvering, defending his bipartisan deal making, even on issues like climate change, things that were not within the GOP orthodoxy.",
+      "cn": "他们达成两党协议。林赛·格雷厄姆是移民问题上的交易撮合者，支持全面移民改革，这个问题让他在党内右翼中遇到很多麻烦，在2014年初选中面临茶党威胁，危及他的政治生涯。他最终通过精明而巧妙的策略化解了威胁，捍卫了他的两党合作，甚至在气候变化等问题上也是如此，而这些并不符合共和党的正统观念。"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "And you mentioned him being a staunch critic of Donald Trump when he ran for president back in 2016. That presidential race did not go over for him. But he warned Republicans about backing Donald Trump, warning that it would destroy the party.",
+      "cn": "你提到他在2016年竞选总统时是唐纳德·特朗普的坚定批评者。那场总统竞选对他来说并不顺利。但他警告共和党人不要支持唐纳德·特朗普，警告说这会毁掉共和党。"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "Ultimately, he decided that he made the wrong calculation there, siding with Donald Trump time and time again, aligning himself, becoming a frequent golf partner of Trump's, defending him on some of the more controversial issues throughout Trump's 10 years here in public life. Ultimately, something that his departure, people will remember in these later years of him being that stalwart ally of Donald Trump. But he did break with his party.",
+      "cn": "最终，他认定自己当初的判断有误，一次又一次地站在唐纳德·特朗普一边，与他结盟，成为特朗普频繁的高尔夫球友，并在特朗普公开生活的十年里，在一些更具争议的问题上为他辩护。最终，他的离世让人们记住的是他晚年作为唐纳德·特朗普坚定盟友的形象。但他确实与自己的政党决裂了。"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "He warned his party time and time again that it was time to cut deals with Democrats. That happened during the Obama years as well. Remember, he voted for the two Supreme Court justices that Barack Obama put on the Supreme Court. But he also played a critical role in getting Brett Kavanaugh confirmed to the Supreme Court during those very contentious hearings on Capitol Hill, playing a role that really won him over with the right flank of his party.",
+      "cn": "他一次又一次地警告自己的政党，是时候与民主党达成协议了。这在奥巴马执政时期也是如此。记得吗，他投票支持了巴拉克·奥巴马提名的两位最高法院大法官。但他也在国会山那些充满争议的听证会上，为布雷特·卡瓦诺获得最高法院确认发挥了关键作用，这一角色确实为他赢得了党内右翼的支持。"
+    },
+    {
+      "speaker": "Manu Raju",
+      "text": "People had been skeptical of those bipartisan deals over the years. So, he leaves a very profound, complex legacy on the Hill, where he played such a mighty role on some of these key issues that really have affected Americans' lives and people around the world, given his role on the international front as well.",
+      "cn": "Selama bertahun-tahun, orang-orang skeptis terhadap kesepakatan bipartisan ini. Oleh karena itu, ia meninggalkan warisan yang sangat dalam dan kompleks di Capitol Hill, ia memainkan peran besar dalam beberapa isu kunci yang benar-benar memengaruhi rakyat Amerika dan orang-orang di seluruh dunia, mengingat perannya di panggung internasional juga."
+    },
+    {
+      "speaker": "Rene Marsh",
+      "text": "And, Manu, I mean, you really got to know him very well. I mean, tell us more. What was Senator Graham like on Capitol Hill during your interactions with him?",
+      "cn": "Manu, maksudku, kamu benar-benar mengenalnya. Ceritakan lebih banyak kepada kami. Dalam interaksimu dengan Senator Graham, seperti apa dia di Capitol Hill?"
+    },
+    {
+      "speaker": "Raju",
+      "text": "He was very witty. He was very someone who was quick with a good quote. He didn't always want to talk to the press. Sometimes he was very clear. He did not want anything to do with talking to reporters. He was busy. He was oftentimes on his phone walking through the halls of the Capitol. But when he wanted to talk, he would let loose. He was not afraid to dive very into his views. If he had a controversial position on something, he would defend that controversial position.",
+      "cn": "Dia sangat lucu. Dia cepat tanggap dan selalu bisa mengucapkan kata-kata yang brilian. Dia tidak selalu ingin berbicara dengan media. Terkadang dia sangat jelas, tidak ingin berinteraksi dengan wartawan sama sekali. Dia sibuk, sering berjalan sambil menelepon melewati koridor Capitol. Tapi ketika dia ingin bicara, dia akan berbicara terus terang. Dia tidak takut untuk menguraikan pandangannya. Jika dia memiliki posisi kontroversial dalam suatu hal, dia akan membela posisi kontroversial itu."
+    },
+    {
+      "speaker": "Raju",
+      "text": "He was someone who reporters like myself would often stake out, as you can see there on your screen, because knowing that he had something to say about something very critical, he could help drive the debate on a number of issues. I mean, reporters would stake out a key position in the Senate basement, knowing that he was going to leave his office and walk to the Senate floor through that position that became known as the Russell basement stakeout location.",
+      "cn": "Dia adalah target yang sering diincar wartawan seperti saya, seperti yang Anda lihat di layar, karena tahu dia punya sesuatu untuk dikatakan tentang hal-hal yang sangat penting, dia bisa mendorong perdebatan dalam banyak isu. Maksudku, wartawan akan menunggu di lokasi kunci di ruang bawah tanah Senat, tahu bahwa dia akan meninggalkan kantornya dan berjalan melewati tempat yang kemudian disebut 'Ruang Bawah Tanah Russell tempat mengintai' menuju ruang sidang Senat."
+    },
+    {
+      "speaker": "Raju",
+      "text": "I started covering him there on Capitol Hill because he would go by there and stop and talk to reporters there. So, he was someone frequently to speak to, a towering figure, a person that a lot of people on Capitol Hill will miss. And you're hearing that outpouring of shock and concern and people remembering him at this moment after his sudden death overnight.",
+      "cn": "Saya mulai meliputnya di Capitol Hill karena dia akan lewat sana, berhenti dan berbicara dengan wartawan. Jadi, dia adalah seorang pembicara yang sering tampil, seorang figur besar, dan banyak orang di Capitol Hill akan merindukannya. Setelah kematian mendadaknya tadi malam, Anda mendengar keterkejutan, kepedulian, dan kerinduan yang mengalir dari orang-orang."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Thank you, Manu. And I know you're going to have a lot more on this. Be sure to catch Manu at the top of the hour for \"Inside Politics Sunday\" for much more on the passing of Lindsey Graham. We're also watching the breaking news in the war with Iran as the U.S. targets Iranian military sites in their latest strikes.",
+      "cn": "Terima kasih, Manu. Aku tahu kamu akan melaporkan lebih banyak. Pastikan untuk menonton 'Inside Politics' Manu pada jam untuk mengetahui lebih banyak tentang kematian Lindsey Graham. Kami juga mengikuti berita terbaru tentang perang dengan Iran, AS menargetkan pangkalan militer Iran dalam serangan terbaru."
+    },
+    {
+      "speaker": "Announcer",
+      "text": "This is CNN Breaking News.",
+      "cn": "Ini CNN Breaking News."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Well, taking a live look at the traffic in the Strait of Hormuz right now. The Joint Maritime Information Center says it's open to two-way traffic. That's despite Iran's claim it is closed. But the security threat level in the waterway remains severe. And in recent hours, U.S. Central Command shared new video of strikes the U.S. military says it carried out on 140 Iranian military targets. The U.S. is blaming the Islamic Revolutionary Guard Corps for an attack on a merchant ship in the Strait.",
+      "cn": "Sekarang mari kita lihat lalu lintas di Selat Hormuz secara real-time. Pusat Informasi Maritim Gabungan mengatakan selat itu terbuka untuk lalu lintas dua arah, meskipun Iran mengklaim telah menutupnya. Namun tingkat ancaman keamanan di jalur air itu masih serius. Dalam beberapa jam terakhir, Komando Pusat AS merilis video baru yang menunjukkan serangan AS terhadap 140 target militer Iran. AS menuduh Garda Revolusi Islam menyerang sebuah kapal dagang di selat tersebut."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "CNN's Nada Bashir joins me now. Nada, what are we hearing or learning about the latest with these strikes this morning?",
+      "cn": "Nada Bashir dari CNN bergabung dengan kami sekarang. Nada, apa yang kami dengar atau ketahui tentang perkembangan terbaru serangan pagi ini?"
+    },
+    {
+      "speaker": "Nada Bashir",
+      "text": "Well, this is the third round of U.S. strikes targeting Iran that we have seen in recent days. And this comes, of course, after the Iranian regime confirmed that it would be shutting the Strait of Hormuz down once again to the key shipping access route. And, of course, we've been learning more from the U.S. military as well. We've heard from the U.S. Central Command saying that they hit around 140 targets in Iran. That includes missile and drone sites, naval capabilities.",
+      "cn": "Ini adalah serangan putaran ketiga AS terhadap Iran yang kita lihat dalam beberapa hari terakhir. Tentu saja, ini terjadi setelah rezim Iran mengonfirmasi akan menutup kembali Selat Hormuz, jalur pelayaran kritis ini. Dan kami juga mendapat informasi lebih lanjut dari militer AS. Komando Pusat AS mengatakan mereka menyerang sekitar 140 target di Iran, termasuk pangkalan rudal dan drone, fasilitas angkatan laut."
+    },
+    {
+      "speaker": "Nada Bashir",
+      "text": "That also includes ammunition storage facilities in Iran, as well as communication networks and coastal surveillance locations. Now, of course, the Strait of Hormuz continues to be a key stumbling block in efforts to mediate some sort of peaceful resolution between the U.S. and Iran. Iran has accused vessels of traveling through the Strait of Hormuz through an unauthorized route.",
+      "cn": "Juga termasuk fasilitas penyimpanan amunisi Iran, serta jaringan komunikasi dan lokasi pengawasan pantai. Tentu saja, Selat Hormuz tetap menjadi hambatan kunci dalam upaya mediasi penyelesaian damai AS-Iran. Iran menuduh kapal-kapal melintasi Selat Hormuz melalui rute yang tidak sah."
+    },
+    {
+      "speaker": "Nada Bashir",
+      "text": "So, not using that corridor outlined by the Iranian regime along its coastal front, but rather using a corridor closer to the coast of Oman. But, of course, this also comes as Iran and Oman carry out bilateral talks. We saw on Saturday Iran's foreign minister meeting with his Omani counterpart, Bashar al-Assad.",
+      "cn": "Artinya, tidak menggunakan koridor yang ditetapkan rezim Iran di garis pantainya, melainkan menggunakan koridor di dekat pantai Oman. Tapi tentu saja, ini juga terjadi saat Iran dan Oman mengadakan pembicaraan bilateral. Kami melihat Menteri Luar Negeri Iran bertemu dengan Menteri Luar Negeri Oman Bashar al-Assad pada hari Sabtu."
+    },
+    {
+      "speaker": "Nada Bashir",
+      "text": "where, according to sources, discussions were had focusing on trying to establish some sort of equal control mechanism over the Strait of Hormuz to allow for two separate passage routes, including, of course, the Iranian corridor, but also through the coast of Oman as well. It's unclear at this stage whether there has been any firm resolution from those talks or whether that will be supported and championed by allies and neighbors in the Gulf region and, of course, the United States as well.",
+      "cn": "Menurut sumber, pembicaraan berfokus pada upaya membangun semacam mekanisme kontrol yang setara atas Selat Hormuz untuk memungkinkan dua rute pelayaran independen, termasuk koridor Iran, tetapi juga pantai Oman. Belum jelas apakah pembicaraan ini menghasilkan solusi pasti, atau apakah akan mendapat dukungan dan advokasi dari sekutu dan tetangga Teluk serta AS."
+    },
+    {
+      "speaker": "Nada Bashir",
+      "text": "And what we have seen in response to U.S. attacks on Iran just in the last 24 hours is, of course, retaliatory strikes by the IRGC as well, targeting U.S. allies in the Gulf, targeting military assets in the Gulf. We've heard from some of those Gulf nations saying that interceptions were carried out in the early hours of Sunday morning, that there were detected threats from Iran as well. And there are real fears that this could certainly destabilize those efforts to restart mediation efforts.",
+      "cn": "Dan dalam 24 jam terakhir, sebagai tanggapan atas serangan AS terhadap Iran, kami melihat Garda Revolusi Islam juga melakukan serangan balasan, menargetkan sekutu dan aset militer AS di kawasan Teluk. Kami mendengar beberapa negara Teluk mengatakan bahwa pada Minggu dini hari dilakukan intersepsi dan mendeteksi ancaman dari Iran. Ada kekhawatiran nyata bahwa ini bisa merusak upaya untuk memulai kembali upaya mediasi."
+    },
+    {
+      "speaker": "Nada Bashir",
+      "text": "We know that Iranian officials have made contact with officials in Pakistan, again, a key mediator in that initial memorandum of understanding. But at this stage, we are hearing very stark rhetoric from both the U.S., the Trump administration and the Iranian regime. And there are fears that this could certainly destabilize those efforts to mediate a renewed peace agreement.",
+      "cn": "Kami tahu pejabat Iran telah melakukan kontak dengan pejabat Pakistan, yang merupakan mediator kunci dari nota kesepahaman awal itu. Tapi saat ini, kami mendengar retorika yang sangat keras dari pemerintahan Trump AS dan rezim Iran. Ada kekhawatiran bahwa ini bisa merusak upaya mediasi untuk kesepakatan damai baru."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Nada Bashir, thank you for that. And after President Trump declared that ceasefire agreement with Iran to be over, global oil prices started rising again. I want to go to Tom Kloza. He's the chief energy advisor for Gulf Oil. Tom, you have been in this space for decades now, and I'm interested in your perspective. I mean, Americans are seeing gas prices tick up.",
+      "cn": "Nada Bashir, terima kasih atas laporannya. Setelah Presiden Trump mengumumkan berakhirnya gencatan senjata dengan Iran, harga minyak global mulai naik lagi. Saya ingin menghubungi Tom Kloza, kepala penasihat energi di Oil Price Information Service. Tom, Anda sudah puluhan tahun di bidang ini, saya tertarik dengan pandangan Anda. Maksud saya, orang Amerika melihat harga bensin naik."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "How much of this is directly tied to the Iran conflict and the war in Ukraine? And really, how much higher do you think that these gas prices could go in the near-term?",
+      "cn": "Seberapa besar ini langsung terkait dengan konflik Iran dan perang Ukraina? Sebenarnya, menurut Anda seberapa besar harga bensin bisa naik dalam waktu dekat?"
+    },
+    {
+      "speaker": "Tom Kloza",
+      "text": "Well, I don't suspect we're going to see a spike in gas prices anytime soon, although we may go up back above four dollars here on the loss of some of the crude departures from the Persian Gulf. You know, we've got our eyes focused on the Strait of Hormuz and the Persian Gulf and the Iran war. But what's happening in the Ukraine- Russia war is really having more of an impact on U.S. gasoline prices. Overnight, another 5 percent of Russian refining was knocked out by Ukrainian drones.",
+      "cn": "Yah, saya tidak berpikir kita akan melihat lonjakan harga bensin dalam waktu dekat, meskipun karena terganggunya ekspor minyak mentah dari sebagian Teluk Persia, harga bisa kembali ke atas $4 per galon. Anda tahu, kami terus memantau Selat Hormuz, Teluk Persia, dan perang Iran. Tapi perang Ukraina-Rusia sebenarnya memiliki dampak lebih besar pada harga bensin AS. Dalam semalam, drone Ukraina menghancurkan lagi 5% kapasitas penyulingan Rusia."
+    },
+    {
+      "speaker": "Tom Kloza",
+      "text": "And, you know, that together with the loss of refining in the Persian Gulf, with the loss of refining or messy operations in South America has made it so that there's plenty of crude oil for the moment, but there's not plenty of gasoline and there's particularly not plenty of diesel fuel.",
+      "cn": "Dan, Anda tahu, ditambah dengan hilangnya kapasitas penyulingan di Teluk Persia, serta hilangnya kapasitas penyulingan atau kekacauan operasi di Amerika Selatan, menyebabkan saat ini pasokan minyak mentah melimpah, tetapi pasokan bensin tidak mencukupi, terutama pasokan solar."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "And I hear you because you're what you're saying is it sounds like you're saying the Russia-Ukraine war and that conflict is the bigger driver of gas prices right now, despite our focus on the Strait of Hormuz. But I'm wondering, you know, when does that change? I mean, we don't really know when things will be resolved in the Strait of Hormuz. We know that Iran said that the Strait is closed and we're clearly not any closer to peace in that region.",
+      "cn": "Saya mengerti maksud Anda, karena Anda mengatakan sepertinya perang dan konflik Rusia-Ukraina saat ini adalah pendorong utama harga bensin, meskipun kami fokus pada Selat Hormuz. Tapi saya ingin tahu, kapan situasi ini akan berubah? Maksud saya, kami benar-benar tidak tahu kapan masalah Selat Hormuz akan selesai. Kami tahu Iran mengatakan selat itu ditutup, dan kami jelas masih jauh dari perdamaian di kawasan itu."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Is there a deadline for, you know, the uncertainty for the Strait of Hormuz over the next month or two, if that is not opened and a deal is not settled for safe passing for ships through the Strait of Hormuz? Could that then become a significant driver of gas prices? Again, I understand the Russia-Ukraine is the driver right now, but when might that change for the Strait?",
+      "cn": "Apakah ada tenggat waktu untuk ketidakpastian Selat Hormuz dalam satu atau dua bulan ke depan? Jika selat tidak dibuka dan tidak ada kesepakatan untuk kelancaran lalu lintas kapal melalui Selat Hormuz, maka apakah ini akan menjadi pendorong utama harga bensin? Sekali lagi, saya pahami saat ini perang Rusia-Ukraina adalah pendorong utama, tapi kapan situasi Selat Hormuz bisa berubah?"
+    },
+    {
+      "speaker": "Kloza",
+      "text": "Well, the back half of the summer is going to be pretty critical to watch. We've got plenty of crude oil at the moment, not necessarily three months from now, is that there have been a lot of releases from the strategic petroleum reserves by the U.S. and by some foreign countries. Those run out in about 30 days. And that could mean that -- you know, and again, it's up against August's worldwide demand, when demand for all fuels is about as high as it's ever been.",
+      "cn": "Yah, pengamatan akhir musim panas akan sangat kritis. Saat ini kami memiliki minyak mentah yang melimpah, tapi tiga bulan lagi belum tentu, karena AS dan beberapa negara asing telah melepaskan banyak minyak dari cadangan strategis mereka. Cadangan itu akan habis dalam waktu sekitar 30 hari. Ini bisa berarti -- Anda tahu, ini kembali berhadapan dengan puncak permintaan global pada bulan Agustus, saat permintaan semua bahan bakar mencapai level tertinggi sepanjang sejarah."
+    },
+    {
+      "speaker": "Kloza",
+      "text": "So, we do have to worry about that later this summer. And we also have to worry about a hurricane season in August and September.",
+      "cn": "Jadi, kami benar-benar perlu khawatir tentang ini pada akhir musim panas nanti. Dan kami juga perlu khawatir tentang musim badai pada bulan Agustus dan September."
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes, I was going to ask you about that.",
+      "cn": "Ya, saya baru saja hendak menanyakan itu."
+    },
+    {
+      "speaker": "Kloza",
+      "text": "We cannot afford to lose any refined -- yes. We can't afford to lose any refined products manufacturing in the U.S. Gulf. And, you know, more than half of U.S. refined products comes from the Gulf of Mexico and usually on the coasts.",
+      "cn": "我们承受不起任何炼油 --  -- 是的。我们承受不起美国墨西哥湾任何成品油生产能力的损失。而且，你知道，美国超过一半的成品油来自墨西哥湾，通常来自沿海地区。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes. I mean, to your point about hurricane season, I mean, it's -- we're mid-July now. I know people like you, you're thinking about a major hurricane and the Gulf hitting maybe refining capacity. Are we essentially one disruption away from more severe gas prices considering we've got these two unresolved conflicts going on that are already taxing the supply?",
+      "cn": "是的。我的意思是，关于你提到的飓风季节，现在已经是7月中旬了。我知道像你这样的人正在考虑一场大型飓风袭击墨西哥湾，可能影响炼油能力。考虑到我们有两个未解决的冲突已经在给供应带来压力，我们是否基本上离更严重的油价只有一次干扰的距离？"
+    },
+    {
+      "speaker": "Kloza",
+      "text": "Yes. We're always one disruption away. You know, on the West Coast of the United States, you're one refinery event away from $6 and $7 and $8 gasoline. And the rest of the world, we're a -- you know, an event or if, you know, it's hard to determine how much oil is leaving the Persian Gulf region because you've got propaganda on both sides. But we know it's nowhere near what it used to be. And we also know that it can be compromised.",
+      "cn": "是的。我们总是离一次干扰只有一步之遥。你知道，在美国西海岸，一次炼油厂事件就能让汽油价格达到每加仑6、7、8美元。而在世界其他地方，我们 --  -- 你知道，一次事件或者，嗯，很难确定有多少石油离开波斯湾地区，因为双方都在进行宣传。但我们知道远不如从前。而且我们也知道它可能受到威胁。"
+    },
+    {
+      "speaker": "Kloza",
+      "text": "I'm more worried about Iranian attacks on infrastructure in the region that could cripple some refineries and some logistics terminals, you know, down the road. For now, there's plenty of crude oil. There's not plenty of gasoline and there's --",
+      "cn": "我更担心伊朗对该地区基础设施的袭击，这可能会在未来削弱一些炼油厂和物流终端。目前，原油供应充足，但汽油并不充裕，而且 --  --"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Tom Kloza, thank you so much for joining us this morning. We're going to take a quick break. Then we will continue our breaking news coverage of the death of Senator Lindsey Graham at the age of 71. Stick with",
+      "cn": "汤姆·克洛扎，非常感谢您今天早上加入我们。我们稍作休息，然后继续报道参议员林赛·格雷厄姆去世的突发新闻，享年71岁。请继续关注。"
+    },
+    {
+      "speaker": "Cnn. Marsh",
+      "text": "We return to our breaking news out of Washington. Longtime Republican senator, Lindsey Graham, has died. His office announced overnight that the senator died from a brief and sudden illness. 911 dispatch audio obtained by CNN reveals emergency personnel responded to a call for cardiac arrest at Graham's home in D.C. on Saturday evening. Graham had just celebrated his 71st birthday just last week. Now, with me now is CNN political analyst and Republican strategist, Brad Todd. Brad, good morning.",
+      "cn": "我们回到来自华盛顿的突发新闻。长期担任共和党参议员的林赛·格雷厄姆去世。他的办公室连夜宣布，参议员因突发短暂疾病去世。CNN获得的911调度音频显示，紧急救援人员于周六晚上响应了格雷厄姆在华盛顿家中因心脏骤停的呼叫。格雷厄姆上周刚庆祝了他的71岁生日。现在，与我连线的是CNN政治分析师兼共和党策略师布拉德·托德。布拉德，早上好。"
+    },
+    {
+      "speaker": "Cnn. Marsh",
+      "text": "Thank you so much for joining us on this breaking news day.",
+      "cn": "非常感谢您在这个突发新闻日加入我们。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Such sad news, shocking news. I know that you have known Senator Graham for a number of years. You first met him back in 1995. Tell me about that relationship and what you will remember most about him.",
+      "cn": "真是令人悲伤和震惊的消息。我知道您认识格雷厄姆参议员多年。你们第一次见面是在1995年。请谈谈你们的关系以及您对他最深刻的记忆。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "Yes. So, I was a press secretary on Capitol Hill in 1995 when Senator Graham was first elected to the House. And, you know, that was the Republican takeover. Republicans hadn't held a chamber, held the U.S. House in 40 years. So, he was part of that that class that took over. I was working on the Hill for another freshman member of Congress who became kind of an ally and a comrade of Senator Graham's.",
+      "cn": "是的。1995年，当格雷厄姆参议员首次当选众议员时，我是国会山的一名新闻秘书。你知道，那是共和党夺回众议院的时候。共和党已经40年没有控制过众议院了。所以，他是接管众议院的那一届议员中的一员。我当时在国会山为另一位新当选的众议员工作，他后来成为了格雷厄姆参议员的盟友和同志。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "And, you know, there was a conservative band of -- I think they would probably have called themselves guerrillas or rogues in that time who were trying to pull Speaker Newt Gingrich a little bit further in the conservative direction. And he was part of that of that cabal, if you will. And so, I got to know him then in his very early days as a House member.",
+      "cn": "而且，当时有一个保守派团体 --  -- 我想他们可能自称为游击队或叛逆者 --  -- 试图将议长纽特·金里奇进一步推向保守方向。格雷厄姆就是那个小团体的一员。所以，我在他担任众议员的早期就认识了他。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "And then, of course, have -- you know, having worked in Republican campaigns and especially on the Senate side over the last 20 years, I've been doing this for 30 something years, but I've done a lot of Senate races. And so, you, of course, interact with Senator Graham. And the reason is, is Senator Graham is a 24-hour senator. He just never stops doing the job or never stopped doing the job. And that's that he almost did the work of three people because of that.",
+      "cn": "然后，当然，在过去20年里，我参与共和党竞选活动，尤其是参议院方面的竞选，我已经从事这项工作30多年了，但参与了很多参议院竞选。因此，你自然会与格雷厄姆参议员互动。原因是，格雷厄姆参议员是一个全天候的参议员。他从不停止工作，或者说从未停止过工作。正因为如此，他几乎做了三个人的工作。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes. I mean, speaking of his impact, I mean, what do you see as his greatest impact on the Republican Party?",
+      "cn": "是的。说到他的影响，您认为他对共和党最大的影响是什么？"
+    },
+    {
+      "speaker": "Todd",
+      "text": "Well, you know, first off, he's a compromiser, and I say that in a positive way. I mean, the Senate is fundamentally set up to accomplish anything only with a lot of compromise and work across the aisle. That's pretty hard to come by these days. But Senator Graham never quit trying to do it. Every meaningful effort to bring Republicans and Democrats together on a given issue. And of course, this happens a lot of times well outside the eye of cable news.",
+      "cn": "嗯，首先，他是一个妥协者，我这么说是在积极意义上。我的意思是，参议院从根本上来说，只有通过大量的妥协和跨党派合作才能完成任何事情。这在当今很难实现。但格雷厄姆参议员从未放弃尝试。他参与了每一项有意义的努力，将共和党人和民主党人聚集在一起讨论某个议题。当然，这些很多时候都在有线新闻的视线之外进行。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "There are things that pass Congress that are not controversial in the end. Well, the reason they're not controversial in the end is because people like Lindsey Graham did the hard work in the back rooms ahead of time to make them pass. You know, that's just the nature of how he was. He was open to learning and being an expert on a lot of different areas. You know, he was -- everyone's talked this morning on CNN here about his foreign policy impact.",
+      "cn": "有些法案在国会通过时最终并不具争议性。而它们最终不具争议的原因，是因为像林赛·格雷厄姆这样的人提前在幕后做了艰苦的工作，使它们得以通过。你知道，这就是他的本性。他乐于学习，并在许多不同领域成为专家。你知道，他 --  -- 今天早上CNN这里每个人都在谈论他的外交政策影响。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "And certainly, you know, Israel and Ukraine have had no better friend than Senator Lindsey Graham. But he also was involved on a lot of other issues, that's vetting judicial nominees and working on thorny privacy issues. He chaired the Judiciary Committee, which is part of the intellectual property issues come to be settled in this Internet age. Well, Senator Graham was deeply involved in that and in the middle of those things.",
+      "cn": "当然，你知道，以色列和乌克兰没有比参议员林赛·格雷厄姆更好的朋友了。但他也参与了许多其他问题，比如审查司法提名和处理棘手的隐私问题。他曾担任司法委员会主席，该委员会负责解决互联网时代的知识产权问题。参议员格雷厄姆深度参与其中，并处于这些事务的核心。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "And all the matters about our legal system and the complicated matters like antitrust measures that come up, he was deep involved in those too. They didn't make the headlines or Twitter, but he was a man who was pretty broad and pretty deep in his policy expertise.",
+      "cn": "所有关于我们法律体系的事务，以及像反垄断措施这样复杂的问题，他也深度参与其中。这些没有成为头条新闻或推特热点，但他是一个政策专业知识相当广泛且深入的人。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes, I mean, we heard the president say he was always working. You said 24-hour senator.",
+      "cn": "是的，我的意思是，我们听到总统说他一直在工作。你说他是24小时参议员。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Yes. And then you talk about his foreign policy and his experience and also his effectiveness. I just wonder, with someone like that gone and as a Republican yourself, I mean, how do you feel the void will be filled? Is there anyone that fills that void?",
+      "cn": "是的。然后你谈到他的外交政策、他的经验以及他的效率。我只是想知道，像这样的人离开了，而你自己也是共和党人，我的意思是，你觉得这个空缺将如何填补？有人能填补这个空缺吗？"
+    },
+    {
+      "speaker": "Todd",
+      "text": "You can't fill what he did. You can't do it because no one works 24 hours a day. I mean, the American government was Lindsey's spouse and child. It was his hobby. It was his passion. It was his advocation. So, if you as an individual could think of how you react to your spouse and your child and your hobby, then roll all that up with your job. That's what it is. You can't replace him. Others will take the reins.",
+      "cn": "你无法填补他所做的一切。你做不到，因为没有人一天工作24小时。我的意思是，美国政府就是林赛的配偶和孩子。那是他的爱好。那是他的激情。那是他的职业。所以，如果你作为个人，能想象你如何对待你的配偶、孩子和爱好，然后把所有这些与你的工作结合起来。就是这样。你无法取代他。其他人会接手。"
+    },
+    {
+      "speaker": "Todd",
+      "text": "Tom Cotton will become the voice on foreign policy affairs, I think, and Dave McCormick that Lindsey filled those two. But you can't replace him.",
+      "cn": "汤姆·科顿将成为外交政策事务的代言人，我认为，还有戴夫·麦考密克，林赛填补了这两个位置。但你无法取代他。"
+    },
+    {
+      "speaker": "Marsh",
+      "text": "Thank you so much, Brad Todd. Thank you for joining us. And thank you for joining us for CNN This Morning. Inside Politics Sunday with Manu Raju is up next. var CNN = CNN || {};",
+      "cn": "非常感谢你，布拉德·托德。感谢你加入我们。也感谢你收看CNN今晨节目。接下来是《曼努·拉朱的周日内部政治》。var CNN = CNN || {};"
+    }
+  ]
+}
